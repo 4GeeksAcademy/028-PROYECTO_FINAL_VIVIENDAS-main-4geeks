@@ -1,172 +1,174 @@
-C. Autónoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
+C. Autonoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
 Principado de Asturias,Asturias,Chalet,Profesor Pimentel 822,1800.0,8,6900000
-Principado de Asturias,Asturias,Chalet,Cangas del Narcea s/n,607.0,29,6000000
-Principado de Asturias,Asturias,Casa Rural,diseminado s/n,297.0,7,4000000
+Principado de Asturias,Asturias,Chalet,Cangas del Narcea s/n,648.0,29,6000000
+Principado de Asturias,Asturias,Casa Rural,diseminado s/n,272.0,7,4000000
 Principado de Asturias,Asturias,Chalet,Salas,500.0,9,3450000
 Principado de Asturias,Asturias,Chalet,Calle Perez de la Sala 19,2.066,10,3300000
 Principado de Asturias,Asturias,Chalet,Calle Ricardo Cangas,650.0,7,2900000
-Principado de Asturias,Asturias,Chalet,puertas de vidiago s/n,611.0,15,2890000
-Principado de Asturias,Asturias,Chalet,Lugar Toranda s/n,250.0,6,2850000
-Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,290.0,7,2800000
+Principado de Asturias,Asturias,Chalet,puertas de vidiago s/n,544.0,15,2890000
+Principado de Asturias,Asturias,Chalet,Lugar Toranda s/n,222.0,6,2850000
+Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,283.0,7,2800000
 Principado de Asturias,Asturias,Chalet,Villaviciosa,700.0,5,2700000
-Principado de Asturias,Asturias,Chalet,Camino de los Laureles 11,312.0,8,2300000
-Principado de Asturias,Asturias,Chalet,Camino de San Lorenzo,627.0,9,2300000
+Principado de Asturias,Asturias,Chalet,Camino de los Laureles 11,376.0,8,2300000
+Principado de Asturias,Asturias,Chalet,Camino de San Lorenzo,607.0,9,2300000
 Principado de Asturias,Asturias,Chalet,Calle Ramon y Cajal 10,2.23,11,2300000
 Principado de Asturias,Asturias,Chalet,Barrio Sau R5 y R6,242.424,8,2200000
-Principado de Asturias,Asturias,Chalet,984260752,422.0,2100000,barrio Cabuenes
-Principado de Asturias,Asturias,Chalet,barrio Cabuenes,100.0,3,2100000
+Principado de Asturias,Asturias,Chalet,984260752,422.0,2100000,0
+Principado de Asturias,Asturias,Chalet,barrio Cabuenes,101.0,3,2100000
 Principado de Asturias,Asturias,Chalet,Camin del Rio 9,2052.0,3,2100000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,2.052,3,2100000
-Principado de Asturias,Asturias,Chalet,Plaza de Europa 27,240.0,6,2000000
+Principado de Asturias,Asturias,Chalet,Plaza de Europa 27,203.0,6,2000000
 Principado de Asturias,Asturias,Chalet,Calle San Roque,450.0,6,2000000
-Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,158.0,4,2000000
+Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,152.0,4,2000000
 Principado de Asturias,Asturias,Chalet,Mirador de Lastres s/n,558.0,6,2000000
-Principado de Asturias,Asturias,Chalet,barrio Montecerrao,298.0,7,1995000
-Principado de Asturias,Asturias,Chalet,Camino de los Tejos,167.0,5,1980000
-Principado de Asturias,Asturias,Casa Rural,Caserio Corredoria 4 A,656.0,9,1950000
+Principado de Asturias,Asturias,Chalet,barrio Montecerrao,276.0,7,1995000
+Principado de Asturias,Asturias,Chalet,Camino de los Tejos,160.0,5,1980000
+Principado de Asturias,Asturias,Casa Rural,Caserio Corredoria 4 A,511.0,9,1950000
 Principado de Asturias,Asturias,Chalet,Carretera de la Isla,732.0,8,1950000
 Principado de Asturias,Asturias,Casa Rural,Grado,400.0,8,1800000
 Principado de Asturias,Asturias,Chalet,Barrio Redondo,11300.0,8,1800000
-Principado de Asturias,Asturias,Chalet,infiesto,477.0,16,1800000
-Principado de Asturias,Asturias,Chalet,Aldea Caleya,361.0,8,1800000
+Principado de Asturias,Asturias,Chalet,infiesto,468.0,16,1800000
+Principado de Asturias,Asturias,Chalet,Aldea Caleya,326.0,8,1800000
 Principado de Asturias,Asturias,Chalet,Castropol,300.0,6,1800000
-Principado de Asturias,Asturias,Chalet,Infiesto,498.0,18,1800000
+Principado de Asturias,Asturias,Chalet,Infiesto,537.0,18,1800000
 Principado de Asturias,Asturias,Chalet,Camino de Berbora 23 -275,80.0,6,1750000
 Principado de Asturias,Asturias,Chalet,Camino de Berbora,140.0,6,1750000
 Principado de Asturias,Asturias,Chalet,Carretera de Lorone 77,546.0,6,1700000
 Principado de Asturias,Asturias,Chalet,Cuerres s/n,750.0,7,1600000
 Principado de Asturias,Asturias,Chalet,Calle Asturcon 8,600.0,6,1600000
-Principado de Asturias,Asturias,Chalet,Aldea Bricia,300.0,8,1600000
-Principado de Asturias,Asturias,Chalet,Avenida de las Gaviotas,198.0,5,1600000
-Principado de Asturias,Asturias,Casa Rural,diseminado s/n,260.0,7,1600000
+Principado de Asturias,Asturias,Chalet,Aldea Bricia,335.0,8,1600000
+Principado de Asturias,Asturias,Chalet,Avenida de las Gaviotas,171.0,5,1600000
+Principado de Asturias,Asturias,Casa Rural,diseminado s/n,258.0,7,1600000
 Principado de Asturias,Asturias,Chalet,Camino del Praon,5.96,11,1600000
 Principado de Asturias,Asturias,Chalet,Ribadesella,800.0,7,1600000
-Principado de Asturias,Asturias,Chalet,Lugar Latores 32,375.0,8,1595000
+Principado de Asturias,Asturias,Chalet,Lugar Latores 32,309.0,8,1595000
 Principado de Asturias,Asturias,Chalet,Calle Langreo 37,695.0,5,1520000
-Principado de Asturias,Asturias,Chalet,Posada-Barro,414.0,10,1500000
+Principado de Asturias,Asturias,Chalet,Posada-Barro,678.0,10,1500000
 Principado de Asturias,Asturias,Chalet,Grado,3683.0,3,1500000
 Principado de Asturias,Asturias,Chalet,Sofelguera 601,430.0,6,1500000
-Principado de Asturias,Asturias,Chalet,San Cucao s/n,193.0,5,1500000
-Principado de Asturias,Asturias,Chalet,Avenida la cuesta s/n,232.0,6,1500000
-Principado de Asturias,Asturias,Casa Rural,Parroquias Norte,224.0,6,1500000
+Principado de Asturias,Asturias,Chalet,San Cucao s/n,164.0,5,1500000
+Principado de Asturias,Asturias,Chalet,Avenida la cuesta s/n,238.0,6,1500000
+Principado de Asturias,Asturias,Casa Rural,Parroquias Norte,219.0,6,1500000
 Principado de Asturias,Asturias,Chalet,Centro,5000.0,10,1500000
 Principado de Asturias,Asturias,Chalet,CAMIN DEL TRAVESERU,600.0,7,1500000
-Principado de Asturias,Asturias,Casa Rural,Lugar Buelna 49,185.0,5,1440000
-Principado de Asturias,Asturias,Chalet,Lugar Soto,657.0,9,1390000
+Principado de Asturias,Asturias,Casa Rural,Lugar Buelna 49,166.0,5,1440000
+Principado de Asturias,Asturias,Chalet,Lugar Soto,671.0,9,1390000
 Principado de Asturias,Asturias,Chalet,Taramundi,42.0,2,1350000
 Principado de Asturias,Asturias,Chalet,Cangas de Onis,12.5,10,1350000
 Principado de Asturias,Asturias,Chalet,barrio Buenavista,132.0,4,1349000
-Principado de Asturias,Asturias,Chalet,AS-352,158.0,4,1300000
-Principado de Asturias,Asturias,Chalet,Camino Hayas,404.0,10,1300000
-Principado de Asturias,Asturias,Chalet,Camino de la Pipa 209,24.0,0,1300000
+Principado de Asturias,Asturias,Chalet,AS-352,142.0,4,1300000
+Principado de Asturias,Asturias,Chalet,Camino Hayas,547.0,10,1300000
+Principado de Asturias,Asturias,Chalet,Camino de la Pipa 209,35.0,0,1300000
 Principado de Asturias,Asturias,Chalet,Camino de Berbora,34.0,8,1300000
 Principado de Asturias,Asturias,Chalet,Camino Robles,2091.0,8,1290000
 Principado de Asturias,Asturias,Chalet,Via,40.0,9,1275000
 Principado de Asturias,Asturias,Chalet,Camino Begonias 288,4.0,9,1250000
-Principado de Asturias,Asturias,Chalet,Camino Real,696.0,12,1250000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,236.0,6,1250000
-Principado de Asturias,Asturias,Chalet,Avenida de Prahua,663.0,10,1240000
-Principado de Asturias,Asturias,Chalet,Pravia,452.0,9,1240000
+Principado de Asturias,Asturias,Chalet,Camino Real,592.0,12,1250000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,250.0,6,1250000
+Principado de Asturias,Asturias,Chalet,Avenida de Prahua,652.0,10,1240000
+Principado de Asturias,Asturias,Chalet,Pravia,600.0,9,1240000
 Principado de Asturias,Asturias,Chalet,Lena,1.631,8,1224000
-Principado de Asturias,Asturias,Piso,Calle de General Yague,293.0,7,1200000
-Principado de Asturias,Asturias,Chalet,Llanes,615.0,10,1200000
-Principado de Asturias,Asturias,Chalet,Carretera Castiello,148.0,4,1200000
+Principado de Asturias,Asturias,Piso,Calle de General Yague,277.0,7,1200000
+Principado de Asturias,Asturias,Chalet,Llanes,417.0,10,1200000
+Principado de Asturias,Asturias,Chalet,Carretera Castiello,121.0,4,1200000
 Principado de Asturias,Asturias,Chalet,Llanes,2000.0,8,1200000
 Principado de Asturias,Asturias,Casa Rural,Alles s/n,13.5,8,1200000
 Principado de Asturias,Asturias,Chalet,Ribadesella,4.8,8,1200000
 Principado de Asturias,Asturias,Chalet,Calle Llames,4223.0,15,1200000
 Principado de Asturias,Asturias,Chalet,Calle Egidio Gavito,863.0,8,1200000
-Principado de Asturias,Asturias,Chalet,Camino de Granda,349.0,8,1200000
-Principado de Asturias,Asturias,Chalet,Les Vegues,153.0,4,1200000
+Principado de Asturias,Asturias,Chalet,Camino de Granda,330.0,8,1200000
+Principado de Asturias,Asturias,Chalet,Les Vegues,130.0,4,1200000
 Principado de Asturias,Asturias,Chalet,PI-1,300.0,6,1200000
-Principado de Asturias,Asturias,Chalet,Lugar Latores s/n,237.0,6,1200000
+Principado de Asturias,Asturias,Chalet,Lugar Latores s/n,247.0,6,1200000
 Principado de Asturias,Asturias,Chalet,el palomar 13,538.0,6,1200000
-Principado de Asturias,Asturias,Casa Rural,Caravia Alta 34,203.0,6,1195000
+Principado de Asturias,Asturias,Casa Rural,Caravia Alta 34,230.0,6,1195000
 Principado de Asturias,Asturias,Chalet,Calle la Tazana,580.0,5,1195000
-Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto Gijon,530.0,16,1195000
-Principado de Asturias,Asturias,Chalet,Calle la Cuesta,190.0,5,1195000
-Principado de Asturias,Asturias,Chalet,Camino Higueras,97.0,3,1190000
-Principado de Asturias,Asturias,Piso,Uria,499.0,10,1180000
+Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto Gijon,679.0,16,1195000
+Principado de Asturias,Asturias,Chalet,Calle la Cuesta,177.0,5,1195000
+Principado de Asturias,Asturias,Chalet,Camino Higueras,116.0,3,1190000
+Principado de Asturias,Asturias,Piso,Uria,698.0,10,1180000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,4,1180000
 Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan,100.0,8,1175000
 Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan,500.0,5,1175000
-Principado de Asturias,Asturias,Chalet,Salinas,210.0,6,1175000
+Principado de Asturias,Asturias,Chalet,Salinas,208.0,6,1175000
 Principado de Asturias,Asturias,Chalet,Camino de las Quintas,900.0,5,1150000
 Principado de Asturias,Asturias,Chalet,Camino Quintas,11.27,6,1150000
 Principado de Asturias,Asturias,Chalet,Camino de las Quintas 384,900.0,6,1150000
-Principado de Asturias,Asturias,Chalet,Camino de las Quintas,242.0,6,1150000
+Principado de Asturias,Asturias,Chalet,Camino de las Quintas,207.0,6,1150000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,12000.0,6,1150000
-Principado de Asturias,Asturias,Chalet,Camino de las Quintas 384,179.0,5,1150000
+Principado de Asturias,Asturias,Chalet,Camino de las Quintas 384,197.0,5,1150000
 Principado de Asturias,Asturias,Chalet,Cuesta La 109,1550.0,7,1150000
 Principado de Asturias,Asturias,Chalet,San Martin del Mar,1.3,3,1150000
 Principado de Asturias,Asturias,Chalet,Camino de las quintas,1000.0,5,1150000
 Principado de Asturias,Asturias,Chalet,Aldea Cefontes,12.0,6,1150000
-Principado de Asturias,Asturias,Chalet,Camino de las Mimosas,116.0,3,1150000
+Principado de Asturias,Asturias,Chalet,Camino de las Mimosas,85.0,3,1150000
 Principado de Asturias,Asturias,Piso,Calle Corrida 20,593.0,5,1150000
 Principado de Asturias,Asturias,Casa Rural,barrio Cabuenes,12.0,5,1150000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,12.0,5,1150000
 Principado de Asturias,Asturias,Chalet,Camino de las Quintas s/n,900.0,5,1150000
-Principado de Asturias,Asturias,Chalet,barrio Somio,185.0,5,1150000
+Principado de Asturias,Asturias,Chalet,barrio Somio,178.0,5,1150000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,900.0,5,1150000
-Principado de Asturias,Asturias,Chalet,Calle Elias Pando,210.0,6,1125000
-Principado de Asturias,Asturias,Chalet,Elias Pando,205.0,6,1125000
+Principado de Asturias,Asturias,Chalet,Calle Elias Pando,237.0,6,1125000
+Principado de Asturias,Asturias,Chalet,Elias Pando,217.0,6,1125000
 Principado de Asturias,Asturias,Atico,Calle Uria,311.0,5,1100000
 Principado de Asturias,Asturias,Chalet,Lugar Terenes,1800.0,5,1100000
 Principado de Asturias,Asturias,Chalet,Lugar San Martin,806.0,6,1100000
 Principado de Asturias,Asturias,Duplex,Calle Placido Arango Arias,213.0,4,1100000
-Principado de Asturias,Asturias,Chalet,Lugar Tresgrandas,207.0,6,1100000
-Principado de Asturias,Asturias,Chalet,Calle de Dionisio Ruisanchez,184.0,5,1100000
+Principado de Asturias,Asturias,Chalet,Lugar Tresgrandas,228.0,6,1100000
+Principado de Asturias,Asturias,Chalet,Calle de Dionisio Ruisanchez,180.0,5,1100000
 Principado de Asturias,Asturias,Chalet,Caleya Conde,1.0,10,1099000
-Principado de Asturias,Asturias,Chalet,Camino Caleya del Conde,248.0,6,1099000
+Principado de Asturias,Asturias,Chalet,Camino Caleya del Conde,222.0,6,1099000
 Principado de Asturias,Asturias,Chalet,Aldea Cefontes,1.781,4,1095000
-Principado de Asturias,Asturias,Chalet,Verdicio - Banugues - Cabo Pena,193.0,5,1050000
+Principado de Asturias,Asturias,Chalet,Verdicio - Banugues - Cabo Pena,166.0,5,1050000
 Principado de Asturias,Asturias,Chalet,Llanes,80.0,5,1025000
 Principado de Asturias,Asturias,Chalet,Calle Suarez Inclan,600.0,5,1000000
-Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,85.0,3,1000000
-Principado de Asturias,Asturias,Chalet,Plaza la Canal,194.0,5,1000000
+Principado de Asturias,Asturias,Chalet,Carretera de la Providencia,96.0,3,1000000
+Principado de Asturias,Asturias,Chalet,Plaza la Canal,173.0,5,1000000
 Principado de Asturias,Asturias,Chalet,Calle Ramon Vega,1.074,6,1000000
-Principado de Asturias,Asturias,Chalet,LLN-8,544.0,9,1000000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,563.0,9,1000000
-Principado de Asturias,Asturias,Casa Rural,Roces Infiesto 33530 s/n sn,139.0,4,1000000
-Principado de Asturias,Asturias,Casa Rural,Roces Pilona s/n sn,131.0,4,1000000
-Principado de Asturias,Asturias,Chalet,Calle Suarez Inclan 1,130.0,4,1000000
-Principado de Asturias,Asturias,Chalet,Maizales 8,157.0,4,999000
+Principado de Asturias,Asturias,Chalet,LLN-8,691.0,9,1000000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,463.0,9,1000000
+Principado de Asturias,Asturias,Casa Rural,Roces Infiesto 33530 s/n sn,136.0,4,1000000
+Principado de Asturias,Asturias,Casa Rural,Roces Pilona s/n sn,137.0,4,1000000
+Principado de Asturias,Asturias,Chalet,Calle Suarez Inclan 1,153.0,4,1000000
+Principado de Asturias,Asturias,Chalet,Maizales 8,152.0,4,999000
 Principado de Asturias,Asturias,Chalet,Camino Acantos 6,345.0,6,998000
-Principado de Asturias,Asturias,Chalet,Caserio la Rodada,294.0,7,995000
+Principado de Asturias,Asturias,Chalet,"2 Kw con mando a distancia. La vivienda cuenta con suelos radiantes con planchas aislantes termoacusticas marca Rehau Varionova con control de la temperatura independiente en cada estancia. Cuenta con radiadores toalleros en cada bano. Placas solares (13 / 5.9KWp) de reciente instalacion para cubrir una buena parte de las necesidades energeticas de la vivienda y sus instalaciones. Instalacion de videoportero con tres monitores antena terrestre completa para W-UHF y Radio FM tomas de TV-Radio FM s/alta tomas TLCA s/alta puntos de telefonia s/alta de puntos de toma de datos. Sistema de seguridad de ultima generacion.  La totalidad de la infraestructura de las instalaciones generales es de nueva ejecucion.""",3.1,1,984260275
+Principado de Asturias,Asturias,Chalet,4O Kw Y 11,3.1,984260605,0
+Principado de Asturias,Asturias,Chalet,Caserio la Rodada,251.0,7,995000
 Principado de Asturias,Asturias,Chalet,CASERIO LA RODADA 27,3.1,7,995000
 Principado de Asturias,Asturias,Chalet,Via del Cantabrico 16,3.4,3,995000
 Principado de Asturias,Asturias,Casa Rural,Barrio Sau R7 12 A,12.0,7,995000
 Principado de Asturias,Asturias,Chalet,Parque Manjoya 200 -202,14.0,7,995000
 Principado de Asturias,Asturias,Chalet,LA MANJOYA,56.0,7,995000
-Principado de Asturias,Asturias,Chalet,Lugar Toleo,109.0,3,990000
-Principado de Asturias,Asturias,Piso,Calle Cervantes,237.0,6,990000
+Principado de Asturias,Asturias,Chalet,Lugar Toleo,93.0,3,990000
+Principado de Asturias,Asturias,Piso,Calle Cervantes,208.0,6,990000
 Principado de Asturias,Asturias,Chalet,Calle Sobrescobio,250.0,4,990000
 Principado de Asturias,Asturias,Chalet,Urbanizacion Mirador de Somio,493.0,5,990000
-Principado de Asturias,Asturias,Chalet,Calle Alejandro Casona,131.0,4,990000
-Principado de Asturias,Asturias,Chalet,Camino Arenas,300.0,7,990000
+Principado de Asturias,Asturias,Chalet,Calle Alejandro Casona,152.0,4,990000
+Principado de Asturias,Asturias,Chalet,Camino Arenas,275.0,7,990000
 Principado de Asturias,Asturias,Piso,Calle Cervantes,373.0,6,990000
-Principado de Asturias,Asturias,Chalet,Calle Aniceto Sela,405.0,10,990000
+Principado de Asturias,Asturias,Chalet,Calle Aniceto Sela,639.0,10,990000
 Principado de Asturias,Asturias,Chalet,Camino de los Alisos,2.0,5,990000
 Principado de Asturias,Asturias,Chalet,Calle Aniceto Sela 2 -8,1.1,10,990000
 Principado de Asturias,Asturias,Chalet,Camino Camino de los Alisos,350.0,5,990000
-Principado de Asturias,Asturias,Chalet,barrio Somio,186.0,5,990000
+Principado de Asturias,Asturias,Chalet,barrio Somio,171.0,5,990000
 Principado de Asturias,Asturias,Chalet,Toleo 33,2.0,3,990000
-Principado de Asturias,Asturias,Piso,Calle Cervantes,228.0,6,990000
-Principado de Asturias,Asturias,Chalet,Camino de los Alisos,195.0,5,990000
-Principado de Asturias,Asturias,Chalet,Toleo,137.0,4,990000
+Principado de Asturias,Asturias,Piso,Calle Cervantes,218.0,6,990000
+Principado de Asturias,Asturias,Chalet,Camino de los Alisos,179.0,5,990000
+Principado de Asturias,Asturias,Chalet,Toleo,124.0,4,990000
 Principado de Asturias,Asturias,Chalet,Camino Camino de los Alisos,480.0,5,990000
-Principado de Asturias,Asturias,Chalet,barrio Somio,176.0,5,990000
+Principado de Asturias,Asturias,Chalet,barrio Somio,165.0,5,990000
 Principado de Asturias,Asturias,Chalet,Calle Aniceto Sela,100.0,8,990000
-Principado de Asturias,Asturias,Chalet,barrio Somio,162.0,5,990000
-Principado de Asturias,Asturias,Chalet,Camino de los Alisos 22 A,199.0,5,990000
-Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,200.0,5,988000
+Principado de Asturias,Asturias,Chalet,barrio Somio,163.0,5,990000
+Principado de Asturias,Asturias,Chalet,Camino de los Alisos 22 A,190.0,5,990000
+Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,193.0,5,988000
 Principado de Asturias,Asturias,Chalet,Vereda Arrobio,15.0,9,985000
 Principado de Asturias,Asturias,Chalet,Calle Riano 42,10.0,5,980000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,100.0,5,975000
 Principado de Asturias,Asturias,Chalet,Rales,454.0,5,975000
-Principado de Asturias,Asturias,Chalet,Posada-Barro,177.0,5,975000
-Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 1502,258.0,7,975000
-Principado de Asturias,Asturias,Chalet,AS-115,199.0,5,975000
+Principado de Asturias,Asturias,Chalet,Posada-Barro,172.0,5,975000
+Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 1502,283.0,7,975000
+Principado de Asturias,Asturias,Chalet,AS-115,192.0,5,975000
 Principado de Asturias,Asturias,Chalet,Rales s/n,50.0,5,975000
 Principado de Asturias,Asturias,Casa Rural,Carretera de Samagan s/n,2.527,30,975000
 Principado de Asturias,Asturias,Chalet,Enol s/n,5.449,4,969000
@@ -177,17 +179,17 @@ Principado de Asturias,Asturias,Chalet,Barrio Barrigon 1 A,438.0,6,950000
 Principado de Asturias,Asturias,Chalet,Lugar Puntal,446.0,5,950000
 Principado de Asturias,Asturias,Chalet,Lugar Puntal,4.0,5,950000
 Principado de Asturias,Asturias,Chalet,Calle el Barrigon,85.0,6,950000
-Principado de Asturias,Asturias,Chalet,Lugar EL BARRIGON,240.0,6,950000
+Principado de Asturias,Asturias,Chalet,Lugar EL BARRIGON,204.0,6,950000
 Principado de Asturias,Asturias,Piso,Calle Progreso,270.0,5,950000
 Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,50.0,15,950000
 Principado de Asturias,Asturias,Chalet,El puntal 13,4000.0,5,950000
 Principado de Asturias,Asturias,Duplex,Progreso 5,307.0,5,950000
 Principado de Asturias,Asturias,Chalet,Tazones - Arguero,4000.0,5,950000
-Principado de Asturias,Asturias,Chalet,La Mofosa 17,595.0,10,950000
+Principado de Asturias,Asturias,Chalet,La Mofosa 17,626.0,10,950000
 Principado de Asturias,Asturias,Atico,Calle Cervantes,40.0,5,950000
 Principado de Asturias,Asturias,Chalet,Camino de las Higueras,428.0,3,950000
 Principado de Asturias,Asturias,Piso,barrio La Arena,745.0,19,950000
-Principado de Asturias,Asturias,Chalet,Alto Urbanizacion Monte 22,222.0,6,950000
+Principado de Asturias,Asturias,Chalet,Alto Urbanizacion Monte 22,205.0,6,950000
 Principado de Asturias,Asturias,Chalet,El Puntal s/n,4000.0,5,950000
 Principado de Asturias,Asturias,Chalet,LA GRANJA s/n,6.0,13,950000
 Principado de Asturias,Asturias,Chalet,Tazones - Arguero,4000.0,5,950000
@@ -199,42 +201,42 @@ Principado de Asturias,Asturias,Chalet,barrio Somio,650.0,5,925000
 Principado de Asturias,Asturias,Chalet,Calle Falua 17,350.0,6,920000
 Principado de Asturias,Asturias,Chalet,barrio Ciudad Naranco-Prados de La Fuente,600.0,7,900000
 Principado de Asturias,Asturias,Chalet,Calle Hermanos Villanueva 8,77.0,6,900000
-Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon,264.0,7,900000
+Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon,255.0,7,900000
 Principado de Asturias,Asturias,Piso,Luis Fernandez Vega,250.0,6,900000
-Principado de Asturias,Asturias,Chalet,barrio Cabuenes,163.0,5,900000
-Principado de Asturias,Asturias,Chalet,Camino Cudillero 1,123.0,4,900000
+Principado de Asturias,Asturias,Chalet,barrio Cabuenes,178.0,5,900000
+Principado de Asturias,Asturias,Chalet,Camino Cudillero 1,151.0,4,900000
 Principado de Asturias,Asturias,Chalet,Pruvia 105,535.0,5,895000
 Principado de Asturias,Asturias,Chalet,Campo del Conde,2.95,4,890000
 Principado de Asturias,Asturias,Chalet,AS-379,400.0,5,890000
 Principado de Asturias,Asturias,Chalet,Lugar Villahormes,400.0,5,890000
-Principado de Asturias,Asturias,Chalet,Calle la Cuesta 119 B,190.0,5,885875
+Principado de Asturias,Asturias,Chalet,Calle la Cuesta 119 B,166.0,5,885875
 Principado de Asturias,Asturias,Chalet,LA TAZANA,540.0,5,885875
-Principado de Asturias,Asturias,Chalet,Calle la Tazana 3,161.0,5,885875
-Principado de Asturias,Asturias,Piso,Calle la Tazana,189.0,5,885875
+Principado de Asturias,Asturias,Chalet,Calle la Tazana 3,165.0,5,885875
+Principado de Asturias,Asturias,Piso,Calle la Tazana,190.0,5,885875
 Principado de Asturias,Asturias,Chalet,El Nozalin s/n,350.0,5,880000
-Principado de Asturias,Asturias,Chalet,Camino de Berbora,240.0,6,877000
+Principado de Asturias,Asturias,Chalet,Camino de Berbora,218.0,6,877000
 Principado de Asturias,Asturias,Chalet,Camino de Berbora,40.0,5,877000
 Principado de Asturias,Asturias,Chalet,La Granda,4800.0,12,875000
-Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,175.0,5,870000
+Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,193.0,5,870000
 Principado de Asturias,Asturias,Piso,Calle Dominguez Gil,230.0,7,860000
 Principado de Asturias,Asturias,Chalet,Camino Begonias 164,2000.0,7,860000
-Principado de Asturias,Asturias,Piso,Calle dominguez gil 2,263.0,7,860000
-Principado de Asturias,Asturias,Piso,Jovellanos s/n,108.0,3,858000
+Principado de Asturias,Asturias,Piso,Calle dominguez gil 2,274.0,7,860000
+Principado de Asturias,Asturias,Piso,Jovellanos s/n,114.0,3,858000
 Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 180,310.0,3,855000
 Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 178,374.0,4,853000
 Principado de Asturias,Asturias,Chalet,Parque Ranon,435.0,5,850000
 Principado de Asturias,Asturias,Chalet,Boimouro 2,35.0,6,850000
-Principado de Asturias,Asturias,Chalet,San Cucao,311.0,8,850000
+Principado de Asturias,Asturias,Chalet,San Cucao,304.0,8,850000
 Principado de Asturias,Asturias,Chalet,Camino de la Cuesta Gil 140,500.0,6,850000
-Principado de Asturias,Asturias,Casa Rural,Barrio Palacio,527.0,10,850000
-Principado de Asturias,Asturias,Chalet,cu-6,224.0,6,850000
+Principado de Asturias,Asturias,Casa Rural,Barrio Palacio,642.0,10,850000
+Principado de Asturias,Asturias,Chalet,cu-6,209.0,6,850000
 Principado de Asturias,Asturias,Chalet,Salamir,486.0,6,850000
-Principado de Asturias,Asturias,Atico,Calle Uria 62,330.0,8,850000
+Principado de Asturias,Asturias,Atico,Calle Uria 62,372.0,8,850000
 Principado de Asturias,Asturias,Chalet,Jardin de Cantos - El Nodo,1300.0,4,850000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,366.0,5,850000
 Principado de Asturias,Asturias,Chalet,Lugar Fojas,25.0,5,849000
 Principado de Asturias,Asturias,Chalet,barrio Castiello - Bernueces,72.0,3,845000
-Principado de Asturias,Asturias,Piso,Plaza de America 7,170.0,5,840000
+Principado de Asturias,Asturias,Piso,Plaza de America 7,192.0,5,840000
 Principado de Asturias,Asturias,Chalet,Calle Barrio Rozas 1,50.0,4,832000
 Principado de Asturias,Asturias,Chalet,Avenida Marola,269.0,5,830000
 Principado de Asturias,Asturias,Chalet,Lugar San Adriano,430.0,5,830000
@@ -242,45 +244,45 @@ Principado de Asturias,Asturias,Chalet,Reborio,2443.0,7,830000
 Principado de Asturias,Asturias,Chalet,barrio Somio,1.153,4,829900
 Principado de Asturias,Asturias,Piso,Calle Uria,90.0,6,825000
 Principado de Asturias,Asturias,Chalet,Alto Urbanizacion Monte,997.0,6,825000
-Principado de Asturias,Asturias,Chalet,Vidiago-Pendueles-Tresgrandas,144.0,4,825000
+Principado de Asturias,Asturias,Chalet,Vidiago-Pendueles-Tresgrandas,126.0,4,825000
 Principado de Asturias,Asturias,Chalet,barrio Castiello - Bernueces,5.0,4,825000
 Principado de Asturias,Asturias,Chalet,LA ESPASA,354.0,7,820000
 Principado de Asturias,Asturias,Chalet,Arena 79,771.0,7,820000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,3,815000
 Principado de Asturias,Asturias,Chalet,La Cotariella,395.0,9,810000
 Principado de Asturias,Asturias,Chalet,Calle Villar 110,2776.0,16,810000
-Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon,292.0,7,800000
+Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon,260.0,7,800000
 Principado de Asturias,Asturias,Chalet,Caserio Palmian s/n,1.253,5,800000
-Principado de Asturias,Asturias,Chalet,Fios,205.0,6,800000
+Principado de Asturias,Asturias,Chalet,Fios,234.0,6,800000
 Principado de Asturias,Asturias,Chalet,Lugar Anieves,156.0,10,800000
-Principado de Asturias,Asturias,Chalet,Lugar Medio,281.0,7,800000
-Principado de Asturias,Asturias,Chalet,Calle Tapia de Casariego,295.0,7,800000
+Principado de Asturias,Asturias,Chalet,Lugar Medio,271.0,7,800000
+Principado de Asturias,Asturias,Chalet,Calle Tapia de Casariego,255.0,7,800000
 Principado de Asturias,Asturias,Chalet,Paraje Anieves s/n,15.0,5,800000
-Principado de Asturias,Asturias,Chalet,Colloto s/n,148.0,4,800000
-Principado de Asturias,Asturias,Chalet,Ribadedeva,47.0,1,800000
+Principado de Asturias,Asturias,Chalet,Colloto s/n,131.0,4,800000
+Principado de Asturias,Asturias,Chalet,Ribadedeva,59.0,1,800000
 Principado de Asturias,Asturias,Piso,Calle Palacio Valdes,573.0,3,800000
 Principado de Asturias,Asturias,Casa Rural,Santa Eulalia de Oscos s/n,2054.0,10,800000
-Principado de Asturias,Asturias,Casa Rural,el Otero 164,148.0,4,800000
-Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 158,265.0,7,800000
+Principado de Asturias,Asturias,Casa Rural,el Otero 164,142.0,4,800000
+Principado de Asturias,Asturias,Chalet,Carretera Piles al Infanzon 158,296.0,7,800000
 Principado de Asturias,Asturias,Chalet,la manjoya el caseron 1,500.0,7,800000
 Principado de Asturias,Asturias,Casa Rural,Parroquias Norte,12.0,7,799000
 Principado de Asturias,Asturias,Casa Rural,teixois,147.767,10,799000
 Principado de Asturias,Asturias,Casa Rural,Carretera del Fito 15 Km,67.0,7,799000
-Principado de Asturias,Asturias,Chalet,La Llavandera,98.0,3,798800
-Principado de Asturias,Asturias,Chalet,Lugar Pancar,160.0,4,798800
+Principado de Asturias,Asturias,Chalet,La Llavandera,101.0,3,798800
+Principado de Asturias,Asturias,Chalet,Lugar Pancar,154.0,4,798800
 Principado de Asturias,Asturias,Casa Rural,Plaza MARQUESA DE CASA VALDES 8,96.0,11,798000
 Principado de Asturias,Asturias,Chalet,Miyar 2,100.0,4,795000
-Principado de Asturias,Asturias,Chalet,Aldea Pin de la Quinta 27,194.0,5,795000
+Principado de Asturias,Asturias,Chalet,Aldea Pin de la Quinta 27,191.0,5,795000
 Principado de Asturias,Asturias,Chalet,Ribadesella,1.1,8,795000
-Principado de Asturias,Asturias,Chalet,Camino de las Palmeras,136.0,4,795000
+Principado de Asturias,Asturias,Chalet,Camino de las Palmeras,139.0,4,795000
 Principado de Asturias,Asturias,Chalet,Ribadesella,400.0,8,795000
 Principado de Asturias,Asturias,Chalet,Lugar Sardalla 2 C,1250.0,8,795000
 Principado de Asturias,Asturias,Casa Rural,Calle Maximino Miyar 2,300.0,4,795000
 Principado de Asturias,Asturias,Chalet,Lugar los Corzos s/n,41.0,4,790000
 Principado de Asturias,Asturias,Chalet,Camino de las arenas,1.049,5,790000
-Principado de Asturias,Asturias,Chalet,Lugar Puntal 15,201.0,6,790000
+Principado de Asturias,Asturias,Chalet,Lugar Puntal 15,241.0,6,790000
 Principado de Asturias,Asturias,Chalet,Calle Pena Santa de Enol 22,450.0,5,790000
-Principado de Asturias,Asturias,Chalet,Camino de la Barquera,129.0,4,790000
+Principado de Asturias,Asturias,Chalet,Camino de la Barquera,120.0,4,790000
 Principado de Asturias,Asturias,Chalet,Camino de las Arenas 405,1.049,5,790000
 Principado de Asturias,Asturias,Chalet,Lugar Barredos 2 B,800.0,5,790000
 Principado de Asturias,Asturias,Chalet,Calle Los Corzos,41.0,4,790000
@@ -290,39 +292,39 @@ Principado de Asturias,Asturias,Chalet,barrio Montecerrao,332.0,5,790000
 Principado de Asturias,Asturias,Chalet,Molin del viento 11,400.0,5,790000
 Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,41.0,4,790000
 Principado de Asturias,Asturias,Chalet,LA MANJOYA s/n,41.0,4,790000
-Principado de Asturias,Asturias,Chalet,Alto Urbanizacion Monte 3,190.0,5,785000
-Principado de Asturias,Asturias,Chalet,Carretera de Lastres 64,165.0,5,780000
-Principado de Asturias,Asturias,Chalet,Barrio el Descanso,181.0,5,780000
+Principado de Asturias,Asturias,Chalet,Alto Urbanizacion Monte 3,195.0,5,785000
+Principado de Asturias,Asturias,Chalet,Carretera de Lastres 64,179.0,5,780000
+Principado de Asturias,Asturias,Chalet,Barrio el Descanso,179.0,5,780000
 Principado de Asturias,Asturias,Chalet,Calle Falua,260.0,4,780000
-Principado de Asturias,Asturias,Chalet,Calle Falua,139.0,4,780000
-Principado de Asturias,Asturias,Chalet,AS-257,184.0,5,780000
-Principado de Asturias,Asturias,Chalet,lastres,197.0,5,780000
+Principado de Asturias,Asturias,Chalet,Calle Falua,150.0,4,780000
+Principado de Asturias,Asturias,Chalet,AS-257,180.0,5,780000
+Principado de Asturias,Asturias,Chalet,lastres,170.0,5,780000
 Principado de Asturias,Asturias,Chalet,Ribadesella,573.0,6,780000
 Principado de Asturias,Asturias,Chalet,Calle Falua 63,260.0,4,780000
 Principado de Asturias,Asturias,Chalet,Ribadesella,600.0,4,780000
 Principado de Asturias,Asturias,Chalet,Lastres,4.0,5,780000
-Principado de Asturias,Asturias,Chalet,Camino Peonias 100,164.0,5,770000
-Principado de Asturias,Asturias,Chalet,lugar castro 4045 A,399.0,8,769300
+Principado de Asturias,Asturias,Chalet,Camino Peonias 100,198.0,5,770000
+Principado de Asturias,Asturias,Chalet,lugar castro 4045 A,334.0,8,769300
 Principado de Asturias,Asturias,Chalet,AS-379,807.0,13,760000
-Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,111.0,3,760000
-Principado de Asturias,Asturias,Piso,Calle San Melchor de Quiros,90.0,3,750000
+Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,97.0,3,760000
+Principado de Asturias,Asturias,Piso,Calle San Melchor de Quiros,89.0,3,750000
 Principado de Asturias,Asturias,Chalet,Calle la Campa de Olivares 5,871.0,5,750000
-Principado de Asturias,Asturias,Casa Rural,Lago,329.0,8,750000
+Principado de Asturias,Asturias,Casa Rural,Lago,301.0,8,750000
 Principado de Asturias,Asturias,Chalet,Via,675.0,14,750000
-Principado de Asturias,Asturias,Chalet,Caserio Cueto,324.0,8,750000
+Principado de Asturias,Asturias,Chalet,Caserio Cueto,322.0,8,750000
 Principado de Asturias,Asturias,Chalet,Camino de la Vega,680.0,6,750000
-Principado de Asturias,Asturias,Chalet,984260275,190.0,750000,Carretera
+Principado de Asturias,Asturias,Chalet,984260275,190.0,750000,0
 Principado de Asturias,Asturias,Chalet,Caserio Lugarin,30.0,8,750000
 Principado de Asturias,Asturias,Chalet,Caserio Vijande,2.374,14,750000
 Principado de Asturias,Asturias,Chalet,Calle Francisco Carrillo 14,1.1,5,750000
 Principado de Asturias,Asturias,Chalet,Vibana-Ardisana-Caldueno,240.0,5,750000
-Principado de Asturias,Asturias,Piso,Calle Asturias 2,202.0,6,750000
+Principado de Asturias,Asturias,Piso,Calle Asturias 2,225.0,6,750000
 Principado de Asturias,Asturias,Piso,Calle San Bernardo 15,184.0,3,750000
-Principado de Asturias,Asturias,Duplex,Avenida de Torcuato Fernandez Miranda,133.0,4,750000
-Principado de Asturias,Asturias,Piso,Calle San Bernardo 15,115.0,3,750000
-Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,152.0,4,750000
-Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,144.0,4,750000
-Principado de Asturias,Asturias,Chalet,Camino de las Peonias,193.0,5,750000
+Principado de Asturias,Asturias,Duplex,Avenida de Torcuato Fernandez Miranda,143.0,4,750000
+Principado de Asturias,Asturias,Piso,Calle San Bernardo 15,90.0,3,750000
+Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,156.0,4,750000
+Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,123.0,4,750000
+Principado de Asturias,Asturias,Chalet,Camino de las Peonias,181.0,5,750000
 Principado de Asturias,Asturias,Chalet,Tresgrandas,12.0,13,750000
 Principado de Asturias,Asturias,Chalet,Lugar Cuerres 84,25.0,6,750000
 Principado de Asturias,Asturias,Chalet,Pruvia de arriba s/n,351.0,8,750000
@@ -330,85 +332,85 @@ Principado de Asturias,Asturias,Chalet,Avenida de los Monumentos,600.0,7,750000
 Principado de Asturias,Asturias,Piso,Calle Marques de la Vega de Anzo 3,22.0,6,750000
 Principado de Asturias,Asturias,Chalet,Carretera de Villamiana,940.0,10,750000
 Principado de Asturias,Asturias,Chalet,Barrio Dormon,77.0,2,750000
-Principado de Asturias,Asturias,Chalet,caserio cueto s/n,396.0,8,750000
+Principado de Asturias,Asturias,Chalet,caserio cueto s/n,388.0,8,750000
 Principado de Asturias,Asturias,Chalet,Caserio Cueto,1600.0,8,750000
 Principado de Asturias,Asturias,Chalet,Avenida de los Monumentos,1600.0,7,750000
-Principado de Asturias,Asturias,Casa Rural,Riano - Barros,438.0,10,750000
+Principado de Asturias,Asturias,Casa Rural,Riano - Barros,475.0,10,750000
 Principado de Asturias,Asturias,Chalet,Calle Galiana,1400.0,7,750000
-Principado de Asturias,Asturias,Chalet,Soto del Barco,627.0,9,750000
-Principado de Asturias,Asturias,Chalet,Malleza,466.0,15,750000
+Principado de Asturias,Asturias,Chalet,Soto del Barco,601.0,9,750000
+Principado de Asturias,Asturias,Chalet,Malleza,460.0,15,750000
 Principado de Asturias,Asturias,Chalet,La Vega 4,680.0,5,750000
 Principado de Asturias,Asturias,Chalet,La Serradera 120,1000.0,14,750000
-Principado de Asturias,Asturias,Casa Rural,Calle Corral de Arnero s/n sn,381.0,8,750000
-Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,158.0,4,750000
+Principado de Asturias,Asturias,Casa Rural,Calle Corral de Arnero s/n sn,308.0,8,750000
+Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,141.0,4,750000
 Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,3.269,5,750000
-Principado de Asturias,Asturias,Casa Rural,Pravia,212.0,6,750000
+Principado de Asturias,Asturias,Casa Rural,Pravia,215.0,6,750000
 Principado de Asturias,Asturias,Chalet,SACRAMENTO,300.0,7,750000
 Principado de Asturias,Asturias,Casa Rural,Barrio Vegas 26,186.0,7,750000
 Principado de Asturias,Asturias,Chalet,Caserio la Barraca,692.0,6,749990
 Principado de Asturias,Asturias,Chalet,AS-321 2,2700.0,7,749000
-Principado de Asturias,Asturias,Chalet,Camino de los Quinones 513,170.0,5,749000
+Principado de Asturias,Asturias,Chalet,Camino de los Quinones 513,177.0,5,749000
 Principado de Asturias,Asturias,Chalet,Aldea Pin de la Quinta,2.6,5,745000
 Principado de Asturias,Asturias,Chalet,Lugar Villamiana,1.103,10,745000
 Principado de Asturias,Asturias,Chalet,Villanueva,400.0,8,745000
-Principado de Asturias,Asturias,Chalet,Lugar Villamiana,546.0,10,745000
-Principado de Asturias,Asturias,Chalet,Camino de los Quinones 513,231.0,6,745000
+Principado de Asturias,Asturias,Chalet,Lugar Villamiana,531.0,10,745000
+Principado de Asturias,Asturias,Chalet,Camino de los Quinones 513,235.0,6,745000
 Principado de Asturias,Asturias,Chalet,Piscinas Las Caldas,511.0,5,745000
 Principado de Asturias,Asturias,Chalet,Proaza,4146.0,4,745000
 Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,1103.0,10,744500
 Principado de Asturias,Asturias,Chalet,Camino Mimosas 350,188.0,4,740000
 Principado de Asturias,Asturias,Chalet,Camino de las Mimosas,326.0,5,740000
-Principado de Asturias,Asturias,Chalet,Calle Pidal,152.0,4,735000
-Principado de Asturias,Asturias,Chalet,Lugar Vega,83.0,3,735000
+Principado de Asturias,Asturias,Chalet,Calle Pidal,149.0,4,735000
+Principado de Asturias,Asturias,Chalet,Lugar Vega,85.0,3,735000
 Principado de Asturias,Asturias,Chalet,Calle las Mestas,123.0,4,735000
 Principado de Asturias,Asturias,Chalet,Poo,35.0,7,730000
 Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,280.0,7,730000
 Principado de Asturias,Asturias,Chalet,Poo,288.0,7,730000
-Principado de Asturias,Asturias,Chalet,Lugar Po,260.0,7,730000
+Principado de Asturias,Asturias,Chalet,Lugar Po,270.0,7,730000
 Principado de Asturias,Asturias,Casa Rural,Leku Po 124 B,35.0,7,730000
 Principado de Asturias,Asturias,Chalet,Llanes,100.0,5,725000
 Principado de Asturias,Asturias,Chalet,Leku Jerraderu Lg Llanes,291.0,5,725000
-Principado de Asturias,Asturias,Atico,barrio Salesas-Foncalada-Campoamor,107.0,3,725000
+Principado de Asturias,Asturias,Atico,barrio Salesas-Foncalada-Campoamor,109.0,3,725000
 Principado de Asturias,Asturias,Chalet,Tazones - Arguero,13.097,5,725000
-Principado de Asturias,Asturias,Chalet,Lugar Llanes,190.0,5,725000
+Principado de Asturias,Asturias,Chalet,Lugar Llanes,195.0,5,725000
 Principado de Asturias,Asturias,Chalet,Lugar Rodiles 50,250.0,7,725000
 Principado de Asturias,Asturias,Chalet,Llanes,40.0,5,725000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,3,724000
-Principado de Asturias,Asturias,Piso,Calle Uria,167.0,5,720000
+Principado de Asturias,Asturias,Piso,Calle Uria,199.0,5,720000
 Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,740.0,4,720000
-Principado de Asturias,Asturias,Chalet,Caserio Cuesta Ayones,281.0,7,720000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,140.0,4,720000
+Principado de Asturias,Asturias,Chalet,Caserio Cuesta Ayones,277.0,7,720000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,121.0,4,720000
 Principado de Asturias,Asturias,Chalet,San Claudio-Trubia-Las Caldas,360.0,5,720000
 Principado de Asturias,Asturias,Chalet,nueva de llanes 4,260.0,4,720000
 Principado de Asturias,Asturias,Chalet,Ribadesella,90.0,8,720000
 Principado de Asturias,Asturias,Chalet,barrio Castiello - Bernueces,480.0,6,720000
-Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,149.0,4,720000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz 2 -4,141.0,4,720000
+Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,135.0,4,720000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz 2 -4,149.0,4,720000
 Principado de Asturias,Asturias,Casa Rural,Camino de la Capilla s/n sn,325.0,5,720000
 Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan,566.0,4,715000
-Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan 19,141.0,4,715000
-Principado de Asturias,Asturias,Piso,Calle Ezcurdia 8,157.0,4,710000
+Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan 19,143.0,4,715000
+Principado de Asturias,Asturias,Piso,Calle Ezcurdia 8,150.0,4,710000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,3,705000
-Principado de Asturias,Asturias,Chalet,Lugar las Rozas,136.0,4,700000
-Principado de Asturias,Asturias,Piso,Calle Conde de Toreno 1,175.0,5,700000
+Principado de Asturias,Asturias,Chalet,Lugar las Rozas,129.0,4,700000
+Principado de Asturias,Asturias,Piso,Calle Conde de Toreno 1,188.0,5,700000
 Principado de Asturias,Asturias,Chalet,Lugar las Rozas 11,47.0,4,700000
 Principado de Asturias,Asturias,Piso,Cervantes,430.0,5,700000
 Principado de Asturias,Asturias,Chalet,San Tirso de Abres,186.0,6,700000
-Principado de Asturias,Asturias,Chalet,Camino Girasoles,190.0,5,700000
+Principado de Asturias,Asturias,Chalet,Camino Girasoles,175.0,5,700000
 Principado de Asturias,Asturias,Duplex,Cervantes 8,450.0,5,700000
-Principado de Asturias,Asturias,Duplex,cervantes s/n,182.0,5,700000
+Principado de Asturias,Asturias,Duplex,cervantes s/n,188.0,5,700000
 Principado de Asturias,Asturias,Piso,Calle Uria 1,500.0,4,700000
-Principado de Asturias,Asturias,Chalet,Calle Falua,364.0,8,700000
-Principado de Asturias,Asturias,Piso,Calle las Mestas,167.0,5,700000
+Principado de Asturias,Asturias,Chalet,Calle Falua,398.0,8,700000
+Principado de Asturias,Asturias,Piso,Calle las Mestas,185.0,5,700000
 Principado de Asturias,Asturias,Chalet,PUERTAS DE VIDIAGO,130.0,5,700000
-Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,274.0,7,700000
-Principado de Asturias,Asturias,Chalet,Calle Falua 71,330.0,8,700000
-Principado de Asturias,Asturias,Casa Rural,barrio portela s/n,270.0,7,700000
+Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,290.0,7,700000
+Principado de Asturias,Asturias,Chalet,Calle Falua 71,319.0,8,700000
+Principado de Asturias,Asturias,Casa Rural,barrio portela s/n,269.0,7,700000
 Principado de Asturias,Asturias,Chalet,Poblado San Martin de Oscos 113 A,1032.0,8,699800
 Principado de Asturias,Asturias,Chalet,barrio Somio,1227.0,5,699000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,164.0,5,699000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,188.0,5,699000
 Principado de Asturias,Asturias,Chalet,Camino de la Escuela 94 -210,2.0,5,695000
-Principado de Asturias,Asturias,Chalet,Calle de la Ferreria,441.0,9,695000
+Principado de Asturias,Asturias,Chalet,Calle de la Ferreria,410.0,9,695000
 Principado de Asturias,Asturias,Chalet,Calle Maria Lejarraga,525.0,5,695000
 Principado de Asturias,Asturias,Chalet,Calle Maria Lejarraga,550.0,5,695000
 Principado de Asturias,Asturias,Piso,barrio Plaza de America,55.0,3,695000
@@ -429,18 +431,18 @@ Principado de Asturias,Asturias,Piso,Uria,274.0,4,690000
 Principado de Asturias,Asturias,Casa Rural,AS-229,798.0,9,690000
 Principado de Asturias,Asturias,Chalet,Caserio Casquita,3.2,6,690000
 Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,500.0,4,690000
-Principado de Asturias,Asturias,Chalet,Coviella s/n,129.0,4,690000
-Principado de Asturias,Asturias,Piso,Calle Uria 76,137.0,4,690000
-Principado de Asturias,Asturias,Casa Rural,Amandi,203.0,6,690000
+Principado de Asturias,Asturias,Chalet,Coviella s/n,136.0,4,690000
+Principado de Asturias,Asturias,Piso,Calle Uria 76,158.0,4,690000
+Principado de Asturias,Asturias,Casa Rural,Amandi,221.0,6,690000
 Principado de Asturias,Asturias,Casa Rural,caserio valdepares,7000.0,5,690000
 Principado de Asturias,Asturias,Chalet,Camino Real 869 s/n Naon,15.0,6,690000
 Principado de Asturias,Asturias,Chalet,Lugar Coviella,3000.0,4,690000
 Principado de Asturias,Asturias,Piso,Calle Uria,274.0,4,690000
-Principado de Asturias,Asturias,Chalet,Calle Lledias,180.0,5,690000
+Principado de Asturias,Asturias,Chalet,Calle Lledias,173.0,5,690000
 Principado de Asturias,Asturias,Chalet,Tuernes el Pequeno s/n,7.91,6,690000
 Principado de Asturias,Asturias,Piso,Calle Uria 1,61.0,4,690000
-Principado de Asturias,Asturias,Chalet,Lugar Coviella,146.0,4,690000
-Principado de Asturias,Asturias,Piso,Calle Uria,185.0,5,690000
+Principado de Asturias,Asturias,Chalet,Lugar Coviella,148.0,4,690000
+Principado de Asturias,Asturias,Piso,Calle Uria,161.0,5,690000
 Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,500.0,21,690000
 Principado de Asturias,Asturias,Chalet,El Franco,340.0,5,690000
 Principado de Asturias,Asturias,Piso,centro - puerta de la villa s/n,519.0,21,690000
@@ -449,33 +451,33 @@ Principado de Asturias,Asturias,Chalet,AS-343,55.0,14,690000
 Principado de Asturias,Asturias,Casa Rural,Caserio Casquita,3.2,6,690000
 Principado de Asturias,Asturias,Casa Rural,Caserio Casquita,3.2,6,690000
 Principado de Asturias,Asturias,Chalet,cangas de onis s/n,40.0,4,690000
-Principado de Asturias,Asturias,Chalet,Cangas de Onis,132.0,4,690000
+Principado de Asturias,Asturias,Chalet,Cangas de Onis,153.0,4,690000
 Principado de Asturias,Asturias,Casa Rural,Amandi Villaviciosa s/n,3.2,6,690000
-Principado de Asturias,Asturias,Chalet,La Morca 634,129.0,4,690000
-Principado de Asturias,Asturias,Atico,Avenida De Los Oscos 2,136.0,4,681818
-Principado de Asturias,Asturias,Chalet,Lugar Tresgrandas 31,198.0,5,680000
-Principado de Asturias,Asturias,Chalet,Calle Andrin,128.0,4,680000
+Principado de Asturias,Asturias,Chalet,La Morca 634,158.0,4,690000
+Principado de Asturias,Asturias,Atico,Avenida De Los Oscos 2,130.0,4,681818
+Principado de Asturias,Asturias,Chalet,Lugar Tresgrandas 31,162.0,5,680000
+Principado de Asturias,Asturias,Chalet,Calle Andrin,150.0,4,680000
 Principado de Asturias,Asturias,Chalet,Vidiago-Pendueles-Tresgrandas,2000.0,5,680000
 Principado de Asturias,Asturias,Chalet,Lugar Parres,300.0,4,680000
 Principado de Asturias,Asturias,Chalet,TRESGRANDAS 12,400.0,5,680000
 Principado de Asturias,Asturias,Chalet,AS-31 10,924.0,9,680000
-Principado de Asturias,Asturias,Atico,Calle Marques de San Esteban  21,121.0,4,680000
+Principado de Asturias,Asturias,Atico,Calle Marques de San Esteban  21,150.0,4,680000
 Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,1.4,6,680000
-Principado de Asturias,Asturias,Chalet,Riera Corbeta Este 18,108.0,3,678000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,598.0,10,675000
-Principado de Asturias,Asturias,Piso,Calle Uria,134.0,4,675000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,547.0,10,675000
-Principado de Asturias,Asturias,Piso,Calle Uria,148.0,4,675000
+Principado de Asturias,Asturias,Chalet,Riera Corbeta Este 18,92.0,3,678000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,643.0,10,675000
+Principado de Asturias,Asturias,Piso,Calle Uria,132.0,4,675000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,545.0,10,675000
+Principado de Asturias,Asturias,Piso,Calle Uria,146.0,4,675000
 Principado de Asturias,Asturias,Chalet,Ciudad Naranco,470.0,6,675000
-Principado de Asturias,Asturias,Duplex,Calle Orbon,114.0,3,675000
-Principado de Asturias,Asturias,Chalet,Camino de las Primulas 180,152.0,4,670000
+Principado de Asturias,Asturias,Duplex,Calle Orbon,113.0,3,675000
+Principado de Asturias,Asturias,Chalet,Camino de las Primulas 180,140.0,4,670000
 Principado de Asturias,Asturias,Chalet,Calle de Dona Carmen 4,3.08,4,670000
-Principado de Asturias,Asturias,Piso,Calle Marques de la Vega de Anzo 1,226.0,6,670000
-Principado de Asturias,Asturias,Chalet,Lugar Sardedo 1 A,370.0,8,670000
+Principado de Asturias,Asturias,Piso,Calle Marques de la Vega de Anzo 1,209.0,6,670000
+Principado de Asturias,Asturias,Chalet,Lugar Sardedo 1 A,329.0,8,670000
 Principado de Asturias,Asturias,Chalet,Camino de las Primulas,615.0,4,670000
-Principado de Asturias,Asturias,Chalet,Lugar Celoriu,576.0,13,670000
-Principado de Asturias,Asturias,Chalet,AS-263,645.0,13,670000
-Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,591.0,10,670000
+Principado de Asturias,Asturias,Chalet,Lugar Celoriu,663.0,13,670000
+Principado de Asturias,Asturias,Chalet,AS-263,450.0,13,670000
+Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,536.0,10,670000
 Principado de Asturias,Asturias,Chalet,Lugar Celoriu 209,665.0,13,670000
 Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,807.0,13,670000
 Principado de Asturias,Asturias,Chalet,Celorio 476,10.26,5,670000
@@ -488,29 +490,29 @@ Principado de Asturias,Asturias,Chalet,Calle Eugenio Luis Alonso,1.9,7,660000
 Principado de Asturias,Asturias,Chalet,Calle Eugenio Luis Alonso,50.0,7,660000
 Principado de Asturias,Asturias,Chalet,Calle Jose Cueto,500.0,4,660000
 Principado de Asturias,Asturias,Chalet,Calle Jose Cueto,120.0,5,660000
-Principado de Asturias,Asturias,Piso,Calle Uria,141.0,4,660000
+Principado de Asturias,Asturias,Piso,Calle Uria,145.0,4,660000
 Principado de Asturias,Asturias,Chalet,barrio Somio,2.35,4,659000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,3,657000
-Principado de Asturias,Asturias,Chalet,Calle Latores,136.0,4,655237
+Principado de Asturias,Asturias,Chalet,Calle Latores,145.0,4,655237
 Principado de Asturias,Asturias,Casa Rural,AS-260 s/n,500.0,7,651000
 Principado de Asturias,Asturias,Piso,Calle Marques de Teverga,187.0,5,650000
-Principado de Asturias,Asturias,Chalet,barrio Somio,120.0,3,650000
+Principado de Asturias,Asturias,Chalet,barrio Somio,100.0,3,650000
 Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,380.0,5,650000
 Principado de Asturias,Asturias,Chalet,Aldea Cefontes 10,2.0,4,650000
-Principado de Asturias,Asturias,Chalet,Camin de Caldones 2950,241.0,6,650000
+Principado de Asturias,Asturias,Chalet,Camin de Caldones 2950,234.0,6,650000
 Principado de Asturias,Asturias,Chalet,Camino les xuaques 16,4.687,8,650000
-Principado de Asturias,Asturias,Piso,Calle Uria,133.0,4,650000
+Principado de Asturias,Asturias,Piso,Calle Uria,150.0,4,650000
 Principado de Asturias,Asturias,Duplex,Avenida de Galicia,204.0,5,650000
 Principado de Asturias,Asturias,Chalet,Calle Pena Santa de Enol 33,470.0,6,650000
 Principado de Asturias,Asturias,Chalet,Ribadesella,528.0,4,650000
-Principado de Asturias,Asturias,Chalet,Nava,217.0,6,650000
+Principado de Asturias,Asturias,Chalet,Nava,224.0,6,650000
 Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,500.0,7,650000
-Principado de Asturias,Asturias,Chalet,La Fresneda,236.0,6,650000
-Principado de Asturias,Asturias,Duplex,Avenida de Galicia 23,175.0,5,650000
+Principado de Asturias,Asturias,Chalet,La Fresneda,231.0,6,650000
+Principado de Asturias,Asturias,Duplex,Avenida de Galicia 23,168.0,5,650000
 Principado de Asturias,Asturias,Chalet,Calle Nueva 74,500.0,7,650000
 Principado de Asturias,Asturias,Chalet,Lugar Rodiles 67,600.0,5,650000
 Principado de Asturias,Asturias,Chalet,Camino de la Alameda,282.0,6,650000
-Principado de Asturias,Asturias,Casa Rural,DISEMINADO s/n,281.0,7,650000
+Principado de Asturias,Asturias,Casa Rural,DISEMINADO s/n,295.0,7,650000
 Principado de Asturias,Asturias,Chalet,VV-3 123 -115,110.0,4,650000
 Principado de Asturias,Asturias,Chalet,BARRIO OREYANA s/n,9.0,4,650000
 Principado de Asturias,Asturias,Chalet,Camino Ovio 96,700.0,5,650000
@@ -518,316 +520,317 @@ Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,450.0,6,650000
 Principado de Asturias,Asturias,Chalet,Nueva 1,500.0,7,650000
 Principado de Asturias,Asturias,Chalet,PRIA 1,400.0,6,650000
 Principado de Asturias,Asturias,Chalet,Arriondas,2.5,9,650000
-Principado de Asturias,Asturias,Chalet,La Fresneda,204.0,6,650000
-Principado de Asturias,Asturias,Chalet,Lugar Rodiles 65,192.0,5,650000
-Principado de Asturias,Asturias,Chalet,olivares,235.0,6,650000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,196.0,5,650000
+Principado de Asturias,Asturias,Chalet,La Fresneda,232.0,6,650000
+Principado de Asturias,Asturias,Chalet,Lugar Rodiles 65,198.0,5,650000
+Principado de Asturias,Asturias,Chalet,olivares,219.0,6,650000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,195.0,5,650000
 Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,430.0,6,650000
 Principado de Asturias,Asturias,Chalet,Barrio de Cadamancio 1,50.0,4,650000
-Principado de Asturias,Asturias,Chalet,Lugar San Roman 14,361.0,8,649900
+Principado de Asturias,Asturias,Chalet,Lugar San Roman 14,331.0,8,649900
 Principado de Asturias,Asturias,Chalet,Vidiago-Pendueles-Tresgrandas,372.0,6,649000
 Principado de Asturias,Asturias,Chalet,Lugar Pendueles,1800.0,6,649000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz 2,140.0,4,647730
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,86.0,3,645000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz 2,159.0,4,647730
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,116.0,3,645000
 Principado de Asturias,Asturias,Chalet,Calle Celorio 18 D,50.0,22,645000
-Principado de Asturias,Asturias,Chalet,Calle Villanueva 7,288.0,7,640000
+Principado de Asturias,Asturias,Chalet,Calle Villanueva 7,289.0,7,640000
 Principado de Asturias,Asturias,Piso,barrio Plaza de America,150.0,4,640000
 Principado de Asturias,Asturias,Casa Rural,Playa de Misiego 38,6500.0,3,640000
-Principado de Asturias,Asturias,Piso,Calle Charles Darwin,137.0,4,640000
+Principado de Asturias,Asturias,Piso,Calle Charles Darwin,128.0,4,640000
 Principado de Asturias,Asturias,Chalet,Camino de la gola,2.3,4,636000
-Principado de Asturias,Asturias,Chalet,barrio Somio,163.0,5,636000
+Principado de Asturias,Asturias,Chalet,barrio Somio,200.0,5,636000
 Principado de Asturias,Asturias,Piso,Calle Marques de Urquijo,180.0,3,635000
-Principado de Asturias,Asturias,Piso,Calle Marques de Urquijo,107.0,3,635000
-Principado de Asturias,Asturias,Piso,Marques de Teverga,144.0,4,630000
-Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,141.0,4,630000
+Principado de Asturias,Asturias,Piso,Calle Marques de Urquijo,88.0,3,635000
+Principado de Asturias,Asturias,Piso,Marques de Teverga,156.0,4,630000
+Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,128.0,4,630000
 Principado de Asturias,Asturias,Chalet,Calle Cuetin 18,400.0,6,630000
-Principado de Asturias,Asturias,Chalet,Camino Encinas 405,180.0,5,630000
-Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva 5,171.0,5,630000
+Principado de Asturias,Asturias,Chalet,Camino Encinas 405,191.0,5,630000
+Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva 5,161.0,5,630000
 Principado de Asturias,Asturias,Atico,Calle Ezcurdia 176,55.0,3,630000
 Principado de Asturias,Asturias,Chalet,Camino Laureles 289,784.0,4,630000
 Principado de Asturias,Asturias,Chalet,Lugar Pereda 15,440.0,5,630000
 Principado de Asturias,Asturias,Casa Rural,El Lugarin 22,9000.0,8,625000
 Principado de Asturias,Asturias,Chalet,Lugar Chincheta de onis 52,40.0,2,625000
-Principado de Asturias,Asturias,Chalet,Calle Emile Robin 9,347.0,8,625000
-Principado de Asturias,Asturias,Piso,Via,40.0,1,623000
+Principado de Asturias,Asturias,Chalet,Calle Emile Robin 9,380.0,8,625000
+Principado de Asturias,Asturias,Piso,Via,47.0,1,623000
 Principado de Asturias,Asturias,Chalet,alfonso el sabio 102,563.0,4,620000
-Principado de Asturias,Asturias,Chalet,Calle Celorio,80.0,3,618000
-Principado de Asturias,Asturias,Chalet,Calle la Moratina 67,141.0,4,616000
+Principado de Asturias,Asturias,Chalet,Calle Celorio,86.0,3,618000
+Principado de Asturias,Asturias,Chalet,Calle la Moratina 67,140.0,4,616000
 Principado de Asturias,Asturias,Chalet,Caserio Revoltona 6,1002.0,4,613000
 Principado de Asturias,Asturias,Chalet,Calle Vazquez de Mella 13 D,43.0,4,613000
 Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,378.0,4,613000
-Principado de Asturias,Asturias,Chalet,barrio La Florida,133.0,4,613000
-Principado de Asturias,Asturias,Atico,barrio Parque San Francisco-Uria,110.0,3,608000
+Principado de Asturias,Asturias,Chalet,barrio La Florida,123.0,4,613000
+Principado de Asturias,Asturias,Atico,barrio Parque San Francisco-Uria,88.0,3,608000
 Principado de Asturias,Asturias,Chalet,CE-7,340.0,4,600000
-Principado de Asturias,Asturias,Chalet,Camin de Guerces,126.0,4,600000
+Principado de Asturias,Asturias,Chalet,Camin de Guerces,157.0,4,600000
 Principado de Asturias,Asturias,Chalet,Carretera Ponteo 5,5800.0,4,600000
-Principado de Asturias,Asturias,Chalet,Carretera de la manjoya 4,163.0,5,600000
-Principado de Asturias,Asturias,Chalet,Camino Penedon 2,572.0,9,600000
+Principado de Asturias,Asturias,Chalet,Carretera de la manjoya 4,193.0,5,600000
+Principado de Asturias,Asturias,Chalet,Camino Penedon 2,585.0,9,600000
 Principado de Asturias,Asturias,Chalet,Calle de Pena Ubina,276.0,6,600000
 Principado de Asturias,Asturias,Chalet,AS-222,1.3,6,600000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,180.0,3,600000
-Principado de Asturias,Asturias,Casa Rural,diseminado s/n s/n,283.0,7,600000
+Principado de Asturias,Asturias,Casa Rural,diseminado s/n s/n,251.0,7,600000
 Principado de Asturias,Asturias,Chalet,Niembru 12,490.0,5,600000
-Principado de Asturias,Asturias,Chalet,Avenida de Fernandez Castro 43,488.0,10,600000
+Principado de Asturias,Asturias,Chalet,Avenida de Fernandez Castro 43,593.0,10,600000
 Principado de Asturias,Asturias,Chalet,barrio Colloto,66.0,6,600000
 Principado de Asturias,Asturias,Chalet,Plaza La,6.0,7,600000
 Principado de Asturias,Asturias,Casa Rural,8CMMGHX4+V7 8 CMMGHX4+V7,250.0,11,600000
-Principado de Asturias,Asturias,Chalet,Carretera N-634,586.0,9,600000
-Principado de Asturias,Asturias,Chalet,Posada-Barro,151.0,4,600000
-Principado de Asturias,Asturias,Chalet,Camin de Huerces 1293,142.0,4,600000
+Principado de Asturias,Asturias,Chalet,Carretera N-634,504.0,9,600000
+Principado de Asturias,Asturias,Chalet,Posada-Barro,129.0,4,600000
+Principado de Asturias,Asturias,Chalet,Camin de Huerces 1293,148.0,4,600000
 Principado de Asturias,Asturias,Piso,Avenida de Galicia 12 c,175.0,5,600000
 Principado de Asturias,Asturias,Casa Rural,Llanes,205.0,0,600000
-Principado de Asturias,Asturias,Chalet,Calle Latores 1,59.0,1,600000
+Principado de Asturias,Asturias,Chalet,Calle Latores 1,46.0,1,600000
 Principado de Asturias,Asturias,Chalet,Calle Pepin Rodriguez 11,1570.0,6,599900
 Principado de Asturias,Asturias,Chalet,barrio Deva,2000.0,5,599900
-Principado de Asturias,Asturias,Chalet,los Prietos,174.0,5,599000
-Principado de Asturias,Asturias,Duplex,barrio Salesas-Foncalada-Campoamor,130.0,4,599000
+Principado de Asturias,Asturias,Chalet,los Prietos,167.0,5,599000
+Principado de Asturias,Asturias,Duplex,barrio Salesas-Foncalada-Campoamor,160.0,4,599000
 Principado de Asturias,Asturias,Chalet,Aldea Miudes,1.463,8,599000
 Principado de Asturias,Asturias,Chalet,Calle Real,251.0,3,599000
 Principado de Asturias,Asturias,Chalet,Via 17 c,2.7,6,599000
 Principado de Asturias,Asturias,Chalet,Carretera de Santurio,2200.0,5,599000
 Principado de Asturias,Asturias,Piso,Calle Uria 3,30.0,4,599000
-Principado de Asturias,Asturias,Chalet,Deva Camino del Valliquin,201.0,6,599000
+Principado de Asturias,Asturias,Chalet,Deva Camino del Valliquin,225.0,6,599000
 Principado de Asturias,Asturias,Chalet,Camino DE LOS TULIPANES,500.0,4,599000
 Principado de Asturias,Asturias,Chalet,San Cucao,5.3,3,598000
 Principado de Asturias,Asturias,Chalet,Luarca - Valdes,10.0,6,598000
-Principado de Asturias,Asturias,Chalet,Llanera,125.0,4,598000
-Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes,97.0,3,595000
+Principado de Asturias,Asturias,Chalet,Llanera,145.0,4,598000
+Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes,112.0,3,595000
 Principado de Asturias,Asturias,Chalet,Ballota s/n,1228.0,9,595000
-Principado de Asturias,Asturias,Chalet,Viaducto de Leorio,137.0,4,595000
+Principado de Asturias,Asturias,Chalet,Viaducto de Leorio,131.0,4,595000
 Principado de Asturias,Asturias,Chalet,Calle Cuetin 6,228.0,8,595000
-Principado de Asturias,Asturias,Chalet,Viella-Granda-Meres,187.0,5,595000
-Principado de Asturias,Asturias,Chalet,Camino de Los Alamos 343,148.0,4,595000
+Principado de Asturias,Asturias,Chalet,Viella-Granda-Meres,183.0,5,595000
+Principado de Asturias,Asturias,Chalet,Camino de Los Alamos 343,153.0,4,595000
 Principado de Asturias,Asturias,Piso,Calle Uria 10,200.0,3,595000
 Principado de Asturias,Asturias,Chalet,Travesia Perru,653.0,4,595000
 Principado de Asturias,Asturias,Chalet,Santa Rosa 1,12.0,7,595000
 Principado de Asturias,Asturias,Casa Rural,les cuestes La Huerta Tinana s/n,56.131,6,595000
 Principado de Asturias,Asturias,Chalet,Llanera,395.0,7,595000
-Principado de Asturias,Asturias,Chalet,Calle Fueyo 7,193.0,5,595000
-Principado de Asturias,Asturias,Chalet,Calle Fueyo 9,180.0,5,595000
+Principado de Asturias,Asturias,Chalet,Calle Fueyo 7,182.0,5,595000
+Principado de Asturias,Asturias,Chalet,Calle Fueyo 9,178.0,5,595000
 Principado de Asturias,Asturias,Chalet,Santa Rosa s/n sinnmero,12.0,7,595000
-Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes 24,82.0,3,595000
-Principado de Asturias,Asturias,Chalet,La Llavandera Lugar Llanes,195.0,5,590000
+Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes 24,94.0,3,595000
+Principado de Asturias,Asturias,Chalet,La Llavandera Lugar Llanes,196.0,5,590000
 Principado de Asturias,Asturias,Chalet,Lugar Camas 38,15.0,5,590000
 Principado de Asturias,Asturias,Casa Rural,Caserio Cuyences,3598.0,8,590000
 Principado de Asturias,Asturias,Chalet,la barganiza s/n,20.0,4,590000
 Principado de Asturias,Asturias,Chalet,Aldea Fueyo 47,3.0,4,590000
 Principado de Asturias,Asturias,Chalet,PARQUE DEL OESTE,400.0,4,590000
 Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,80.0,2,590000
-Principado de Asturias,Asturias,Chalet,Calle Petilla de Aragon 16,77.0,2,590000
+Principado de Asturias,Asturias,Chalet,Calle Petilla de Aragon 16,61.0,2,590000
 Principado de Asturias,Asturias,Piso,Calle San Bernardo 15,190.0,3,588000
-Principado de Asturias,Asturias,Piso,Calle Posada Herrera 2,242.0,6,585000
-Principado de Asturias,Asturias,Piso,Calle Marques de Pidal,179.0,5,585000
-Principado de Asturias,Asturias,Chalet,Lugar San Roque,601.0,9,585000
+Principado de Asturias,Asturias,Piso,Calle Posada Herrera 2,250.0,6,585000
+Principado de Asturias,Asturias,Piso,Calle Marques de Pidal,194.0,5,585000
+Principado de Asturias,Asturias,Chalet,Lugar San Roque,550.0,9,585000
 Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,500.0,8,585000
 Principado de Asturias,Asturias,Chalet,llovera,20.0,4,585000
-Principado de Asturias,Asturias,Chalet,Lugar Covielles,348.0,8,585000
-Principado de Asturias,Asturias,Chalet,san esteban de las cruces s/n,121.0,4,585000
+Principado de Asturias,Asturias,Chalet,Lugar Covielles,306.0,8,585000
+Principado de Asturias,Asturias,Chalet,san esteban de las cruces s/n,152.0,4,585000
 Principado de Asturias,Asturias,Chalet,Corvera de Asturias,347.0,4,580000
-Principado de Asturias,Asturias,Chalet,Lugar Carabano,290.0,7,580000
+Principado de Asturias,Asturias,Chalet,Lugar Carabano,267.0,7,580000
 Principado de Asturias,Asturias,Piso,Plaza de America s/n,178.0,4,580000
-Principado de Asturias,Asturias,Duplex,Calle de Campomanes 9,279.0,7,580000
-Principado de Asturias,Asturias,Chalet,Grado,178.0,5,580000
-Principado de Asturias,Asturias,Atico,Calle Cervantes 27,109.0,3,580000
-Principado de Asturias,Asturias,Chalet,Tazones - Arguero,225.0,6,580000
+Principado de Asturias,Asturias,Duplex,Calle de Campomanes 9,294.0,7,580000
+Principado de Asturias,Asturias,Chalet,Grado,197.0,5,580000
+Principado de Asturias,Asturias,Atico,Calle Cervantes 27,120.0,3,580000
+Principado de Asturias,Asturias,Chalet,Tazones - Arguero,213.0,6,580000
 Principado de Asturias,Asturias,Casa Rural,El Franco,530.0,4,578000
-Principado de Asturias,Asturias,Duplex,Calle Pelayo 5,137.0,4,575000
-Principado de Asturias,Asturias,Chalet,Collera s/n,242.0,6,575000
-Principado de Asturias,Asturias,Chalet,Lugar Peruyes 16 A,80.0,3,575000
+Principado de Asturias,Asturias,Duplex,Calle Pelayo 5,123.0,4,575000
+Principado de Asturias,Asturias,Chalet,Collera s/n,244.0,6,575000
+Principado de Asturias,Asturias,Chalet,Lugar Peruyes 16 A,99.0,3,575000
 Principado de Asturias,Asturias,Chalet,Lugar Lledies,400.0,8,575000
 Principado de Asturias,Asturias,Piso,Calle Cabrales,107.0,4,575000
 Principado de Asturias,Asturias,Chalet,Camino Pontica Cabuenes 333,16.241,6,575000
-Principado de Asturias,Asturias,Chalet,SANTA MARINA DE CUQULILLOS s/n,163.0,5,575000
+Principado de Asturias,Asturias,Chalet,SANTA MARINA DE CUQULILLOS s/n,177.0,5,575000
 Principado de Asturias,Asturias,Chalet,Camin del Caleyon s/n,1.5,3,575000
 Principado de Asturias,Asturias,Chalet,Aldea Trevias s/n,9400.0,6,575000
-Principado de Asturias,Asturias,Piso,Calle Cabrales,157.0,4,575000
+Principado de Asturias,Asturias,Piso,Calle Cabrales,147.0,4,575000
 Principado de Asturias,Asturias,Chalet,Lugar Albuerne 44,1.2,4,575000
 Principado de Asturias,Asturias,Chalet,Avenida Manuel Llaneza 32,120.0,0,575000
-Principado de Asturias,Asturias,Piso,Calle las Mestas,174.0,5,570000
+Principado de Asturias,Asturias,Piso,Calle las Mestas,160.0,5,570000
 Principado de Asturias,Asturias,Chalet,Cuesta de Olivares,371.0,5,570000
 Principado de Asturias,Asturias,Chalet,Calle Ramiro I Rey 12 -30,350.0,8,570000
 Principado de Asturias,Asturias,Chalet,Olivares 119,3.751,5,570000
 Principado de Asturias,Asturias,Chalet,El Medio,163.0,5,570000
-Principado de Asturias,Asturias,Chalet,Lugar de Olivares,193.0,5,570000
+Principado de Asturias,Asturias,Chalet,Lugar de Olivares,199.0,5,570000
 Principado de Asturias,Asturias,Chalet,Calle La Lloral,486.0,4,570000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,234.0,6,570000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,201.0,6,570000
 Principado de Asturias,Asturias,Piso,Calle Gil de Jaz s/n,5.0,5,570000
-Principado de Asturias,Asturias,Chalet,Camino de los Castanos s/n,156.0,4,570000
+Principado de Asturias,Asturias,Chalet,Camino de los Castanos s/n,124.0,4,570000
 Principado de Asturias,Asturias,Chalet,barrio Somio,1500.0,4,570000
 Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,260.0,6,570000
 Principado de Asturias,Asturias,Chalet,barrio Somio,34.0,4,570000
 Principado de Asturias,Asturias,Chalet,SANTA MARINA s/n,512.0,5,565000
-Principado de Asturias,Asturias,Chalet,Camino de los Castanos,130.0,4,565000
-Principado de Asturias,Asturias,Casa Rural,Caserio el Cortin,481.0,10,565000
+Principado de Asturias,Asturias,Chalet,Camino de los Castanos,154.0,4,565000
+Principado de Asturias,Asturias,Casa Rural,Caserio el Cortin,536.0,10,565000
 Principado de Asturias,Asturias,Chalet,SOMIO,380.0,4,565000
 Principado de Asturias,Asturias,Chalet,Jove,225.0,3,565000
-Principado de Asturias,Asturias,Casa Rural,Caserio Ovellariza 2 A,560.0,10,565000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,158.0,4,562000
+Principado de Asturias,Asturias,Casa Rural,Caserio Ovellariza 2 A,620.0,10,565000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,144.0,4,562000
 Principado de Asturias,Asturias,Chalet,Camino De Los Castanos,350.0,4,560000
 Principado de Asturias,Asturias,Chalet,Muno s/n,409.0,2,560000
 Principado de Asturias,Asturias,Chalet,Caserio Ovellariza,1.0,10,560000
 Principado de Asturias,Asturias,Chalet,Aldea Bustiello,440.0,6,560000
 Principado de Asturias,Asturias,Chalet,Camino de los Maizales,1.9,4,560000
-Principado de Asturias,Asturias,Chalet,barrio Olivares,153.0,4,560000
-Principado de Asturias,Asturias,Chalet,Enebros,238.0,6,560000
+Principado de Asturias,Asturias,Chalet,barrio Olivares,147.0,4,560000
+Principado de Asturias,Asturias,Chalet,Enebros,232.0,6,560000
 Principado de Asturias,Asturias,Chalet,barrio Somio,1600.0,4,560000
 Principado de Asturias,Asturias,Chalet,Camino Real 9,5.0,6,560000
 Principado de Asturias,Asturias,Chalet,Camino Real 15,5.0,6,560000
-Principado de Asturias,Asturias,200 33314 Villaviciosa Asturias s/n,854780334,695.0,9,Carretera AS-256 km 3
+Principado de Asturias,Asturias,200 33314 Villaviciosa Asturias s/n,854780334,48.0,1,0
 Principado de Asturias,Asturias,Chalet,Camino Real 2,5300.0,6,560000
-Principado de Asturias,Asturias,Duplex,Calle Padre Suarez 9,159.0,4,556000
+Principado de Asturias,Asturias,Duplex,Calle Padre Suarez 9,140.0,4,556000
 Principado de Asturias,Asturias,Piso,Calle pilona,165.0,4,550000
-Principado de Asturias,Asturias,Chalet,Lugar Junco,227.0,6,550000
+Principado de Asturias,Asturias,Chalet,Lugar Junco,228.0,6,550000
 Principado de Asturias,Asturias,Chalet,Pilona,2500.0,9,550000
 Principado de Asturias,Asturias,Chalet,Camino de Berbora 11,45.0,4,550000
-Principado de Asturias,Asturias,Piso,Calle Charles Darwin,130.0,4,550000
+Principado de Asturias,Asturias,Piso,Calle Charles Darwin,156.0,4,550000
 Principado de Asturias,Asturias,Atico,Calle Uria s/n,20.0,3,550000
 Principado de Asturias,Asturias,Chalet,Barrio Monte 4 A,4200.0,5,550000
 Principado de Asturias,Asturias,Atico,Calle Gil de Jaz 15,230.0,3,550000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,89.0,3,550000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,119.0,3,550000
 Principado de Asturias,Asturias,Chalet,Calle Galea,270.0,4,550000
-Principado de Asturias,Asturias,Duplex,Calle Luna,82.0,3,550000
-Principado de Asturias,Asturias,Chalet,Calle San Paulino,561.0,11,550000
+Principado de Asturias,Asturias,Duplex,Calle Luna,102.0,3,550000
+Principado de Asturias,Asturias,Chalet,Calle San Paulino,470.0,11,550000
 Principado de Asturias,Asturias,Chalet,Camino Posada la Vieja 4,47.871,1,550000
-Principado de Asturias,Asturias,Chalet,barrio Olivares,150.0,4,550000
+Principado de Asturias,Asturias,Chalet,barrio Olivares,130.0,4,550000
 Principado de Asturias,Asturias,Atico,barrio Salesas-Foncalada-Campoamor,39.0,2,550000
-Principado de Asturias,Asturias,Chalet,Calle la Coruna,95.0,3,550000
+Principado de Asturias,Asturias,Chalet,Calle la Coruna,85.0,3,550000
 Principado de Asturias,Asturias,Chalet,Calle Galea,80.0,4,550000
 Principado de Asturias,Asturias,Casa Rural,Viella-Granda-Meres,500.0,5,550000
-Principado de Asturias,Asturias,Atico,barrio Parque San Francisco-Uria,101.0,3,550000
+Principado de Asturias,Asturias,Atico,barrio Parque San Francisco-Uria,91.0,3,550000
 Principado de Asturias,Asturias,Chalet,Camino Claveles 423,260.0,5,550000
 Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,210.0,4,550000
-Principado de Asturias,Asturias,Chalet,Calle Pidal,124.0,4,550000
+Principado de Asturias,Asturias,Chalet,Calle Pidal,139.0,4,550000
 Principado de Asturias,Asturias,Chalet,El castaneu,300.0,4,550000
-Principado de Asturias,Asturias,Piso,Calle Campoamor,89.0,3,550000
-Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,82.0,3,550000
-Principado de Asturias,Asturias,Chalet,Lugar Hontoria,82.0,3,550000
+Principado de Asturias,Asturias,Piso,Calle Campoamor,110.0,3,550000
+Principado de Asturias,Asturias,Piso,Calle Gil de Jaz,97.0,3,550000
+Principado de Asturias,Asturias,Chalet,Lugar Hontoria,88.0,3,550000
 Principado de Asturias,Asturias,Piso,Calle Gil de Jaz s/n,230.0,4,550000
 Principado de Asturias,Asturias,Atico,Calle Uria,30.0,3,550000
 Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,250.0,3,550000
-Principado de Asturias,Asturias,Chalet,Calle La Galea s/n,137.0,4,550000
-Principado de Asturias,Asturias,Piso,Calle Charles Darwin,127.0,4,550000
-Principado de Asturias,Asturias,Piso,Calle Santa Susana Oviedo,81.0,3,550000
-Principado de Asturias,Asturias,Casa Rural,lamuno 1,123.0,4,550000
-Principado de Asturias,Asturias,Chalet,Lugar Urb Xivares 66,126.0,4,550000
-Principado de Asturias,Asturias,Chalet,Poo 113 -111,389.0,8,550000
-Principado de Asturias,Asturias,Chalet,BALLOTA s/n,214.0,6,550000
+Principado de Asturias,Asturias,Chalet,Calle La Galea s/n,135.0,4,550000
+Principado de Asturias,Asturias,Piso,Calle Charles Darwin,126.0,4,550000
+Principado de Asturias,Asturias,Piso,Calle Santa Susana Oviedo,113.0,3,550000
+Principado de Asturias,Asturias,Casa Rural,lamuno 1,135.0,4,550000
+Principado de Asturias,Asturias,Chalet,Lugar Urb Xivares 66,128.0,4,550000
+Principado de Asturias,Asturias,Chalet,Poo 113 -111,364.0,8,550000
+Principado de Asturias,Asturias,Chalet,BALLOTA s/n,237.0,6,550000
 Principado de Asturias,Asturias,Chalet,Barrio Moldes 9 A,2.0,4,550000
-Principado de Asturias,Asturias,Piso,Calle Charles Darwin,156.0,4,550000
-Principado de Asturias,Asturias,Chalet,Calle Galea 2,138.0,4,550000
-Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,103.0,3,550000
-Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,122.0,4,550000
-Principado de Asturias,Asturias,Casa Rural,Lugar Valle 19,490.0,9,550000
+Principado de Asturias,Asturias,Piso,Calle Charles Darwin,131.0,4,550000
+Principado de Asturias,Asturias,Chalet,Calle Galea 2,142.0,4,550000
+Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,117.0,3,550000
+Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,141.0,4,550000
+Principado de Asturias,Asturias,Casa Rural,Lugar Valle 19,601.0,9,550000
 Principado de Asturias,Asturias,Chalet,Calle Maestro Valeriano Diaz Saraste 2,28.0,5,550000
 Principado de Asturias,Asturias,Chalet,Bocines - Nembro - Cardo,2.7,5,550000
-Principado de Asturias,Asturias,Piso,barrio Plaza de America,143.0,4,550000
-Principado de Asturias,Asturias,Chalet,Plaza San Pedro,206.0,6,550000
-Principado de Asturias,Asturias,Casa Rural,Lamuno 1,125.0,4,550000
+Principado de Asturias,Asturias,Piso,barrio Plaza de America,130.0,4,550000
+Principado de Asturias,Asturias,Chalet,Plaza San Pedro,231.0,6,550000
+Principado de Asturias,Asturias,Casa Rural,Lamuno 1,130.0,4,550000
 Principado de Asturias,Asturias,Casa Rural,Alisal-Junco 7,58.0,6,550000
-Principado de Asturias,Asturias,Chalet,Alto de balbin 7 B,166.0,5,550000
+Principado de Asturias,Asturias,Chalet,Alto de balbin 7 B,183.0,5,550000
 Principado de Asturias,Asturias,Chalet,Viella-Granda-Meres,1.838,6,549000
 Principado de Asturias,Asturias,Chalet,Vidiago-Pendueles-Tresgrandas,275.0,4,549000
-Principado de Asturias,Asturias,Chalet,984260841,3.518,549000,Camino de los Geranios
-Principado de Asturias,Asturias,Chalet,Avenida de Gijon,383.0,8,549000
+Principado de Asturias,Asturias,Chalet,984260841,3.518,549000,0
+Principado de Asturias,Asturias,Chalet,Avenida de Gijon,370.0,8,549000
 Principado de Asturias,Asturias,Chalet,Fuentespino,1.85,6,549000
 Principado de Asturias,Asturias,Chalet,Lugar Pendueles,257.0,4,549000
 Principado de Asturias,Asturias,Chalet,alfonso el sabio s/n,412.0,8,549000
 Principado de Asturias,Asturias,Chalet,Calle Fuentespino,1.85,6,549000
-Principado de Asturias,Asturias,Chalet,Calle Fuentespino,344.0,8,549000
-Principado de Asturias,Asturias,Chalet,Lugones,321.0,8,549000
+Principado de Asturias,Asturias,Chalet,Calle Fuentespino,349.0,8,549000
+Principado de Asturias,Asturias,Chalet,Lugones,399.0,8,549000
 Principado de Asturias,Asturias,Chalet,Ballota,2000.0,7,548000
 Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,240.0,4,548000
 Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,20.0,4,548000
 Principado de Asturias,Asturias,Duplex,Calle Santa Lucia 8,214.0,5,545000
 Principado de Asturias,Asturias,Chalet,Calle Veguellina,841.0,8,545000
-Principado de Asturias,Asturias,Piso,Calle San Bernardo 30,146.0,4,545000
-Principado de Asturias,Asturias,Piso,SAN BERNARDO,147.0,4,545000
-Principado de Asturias,Asturias,Chalet,Calle Mortera de Olloniego s/n,107.0,3,540911
-Principado de Asturias,Asturias,Chalet,La Vallina,124.0,4,540000
-Principado de Asturias,Asturias,Chalet,Camino de San Miguel 939,218.0,6,540000
+Principado de Asturias,Asturias,Piso,Calle San Bernardo 30,159.0,4,545000
+Principado de Asturias,Asturias,Piso,SAN BERNARDO,127.0,4,545000
+Principado de Asturias,Asturias,Chalet,Calle Mortera de Olloniego s/n,118.0,3,540911
+Principado de Asturias,Asturias,Chalet,La Vallina,128.0,4,540000
+Principado de Asturias,Asturias,Chalet,Camino de San Miguel 939,227.0,6,540000
 Principado de Asturias,Asturias,Chalet,Avenida San Martin,1.533,4,540000
-Principado de Asturias,Asturias,Piso,Plaza San Miguel 6,159.0,4,540000
-Principado de Asturias,Asturias,Chalet,Avenida del Jardin Botanico 622  casa 109,145.0,4,540000
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,96.0,3,540000
-Principado de Asturias,Asturias,Chalet,Avenida San Martin,157.0,4,540000
+Principado de Asturias,Asturias,Piso,Plaza San Miguel 6,153.0,4,540000
+Principado de Asturias,Asturias,Chalet,Avenida del Jardin Botanico 622  casa 109,124.0,4,540000
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,95.0,3,540000
+Principado de Asturias,Asturias,Chalet,Avenida San Martin,135.0,4,540000
 Principado de Asturias,Asturias,Chalet,Lugar Nembro 50 A,1400.0,3,538000
 Principado de Asturias,Asturias,Piso,Calle Donato Arguelles,188.0,6,535000
 Principado de Asturias,Asturias,Piso,Calle Donato Arguelles,188.0,6,535000
-Principado de Asturias,Asturias,Chalet,Avenida del Pardo 53,131.0,4,535000
-Principado de Asturias,Asturias,Piso,Calle Asturias,165.0,5,535000
+Principado de Asturias,Asturias,Chalet,Avenida del Pardo 53,142.0,4,535000
+Principado de Asturias,Asturias,Piso,Calle Asturias,198.0,5,535000
 Principado de Asturias,Asturias,Piso,Calle Charles Darwin,150.0,4,530000
 Principado de Asturias,Asturias,Piso,Progreso,190.0,5,530000
-Principado de Asturias,Asturias,Chalet,Camino de Paredes,236.0,6,530000
+Principado de Asturias,Asturias,Chalet,Camino de Paredes,228.0,6,530000
 Principado de Asturias,Asturias,Chalet,Lugones,7.0,6,530000
 Principado de Asturias,Asturias,Chalet,Calle Magdalena 6,470.0,7,530000
 Principado de Asturias,Asturias,Piso,Calle las Mestas Gijon,157.0,5,530000
-Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,149.0,4,530000
+Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,147.0,4,530000
 Principado de Asturias,Asturias,Chalet,Calle de Rivero,300.0,7,530000
 Principado de Asturias,Asturias,Piso,Calle las Mestas,8.0,5,530000
 Principado de Asturias,Asturias,Chalet,Calle Magdalena 6,470.0,7,530000
-Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,121.0,4,530000
-Principado de Asturias,Asturias,Piso,Calle Libertad,171.0,5,530000
+Principado de Asturias,Asturias,Piso,Calle CHARLES DARWIN,136.0,4,530000
+Principado de Asturias,Asturias,Piso,Calle Libertad,199.0,5,530000
 Principado de Asturias,Asturias,Chalet,Carretera DE CALDONES,200.0,3,530000
 Principado de Asturias,Asturias,Chalet,Camino de Paredes,7.0,6,530000
 Principado de Asturias,Asturias,Chalet,Calle Rivero,112.0,7,530000
 Principado de Asturias,Asturias,Chalet,Camino de Paredes,7.0,6,529000
-Principado de Asturias,Asturias,Atico,Avenida Mar Cantabrico 6,123.0,4,525000
+Principado de Asturias,Asturias,Atico,Avenida Mar Cantabrico 6,156.0,4,525000
 Principado de Asturias,Asturias,Chalet,Barrio Balbin,1600.0,5,525000
 Principado de Asturias,Asturias,Chalet,Luanco - Aramar - Antromero,560.0,5,525000
 Principado de Asturias,Asturias,Piso,Marques de Urquijo,50.0,4,525000
 Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles 8,110.0,3,525000
-Principado de Asturias,Asturias,Chalet,barrio Somio,139.0,4,525000
-Principado de Asturias,Asturias,Chalet,puente,84.0,3,525000
-Principado de Asturias,Asturias,Chalet,Lugar Lugones 91,219.0,6,525000
+Principado de Asturias,Asturias,Chalet,barrio Somio,149.0,4,525000
+Principado de Asturias,Asturias,Chalet,puente,86.0,3,525000
+Principado de Asturias,Asturias,Chalet,Lugar Lugones 91,236.0,6,525000
 Principado de Asturias,Asturias,Chalet,Celoriu,137.0,4,520000
 Principado de Asturias,Asturias,Chalet,El Franco B 18,202.0,3,520000
-Principado de Asturias,Asturias,Duplex,Viaducto del Ingeniero Marquina,116.0,3,520000
-Principado de Asturias,Asturias,Chalet,Camino de Paredes,200.0,6,520000
-Principado de Asturias,Asturias,Chalet,Camino Bahinas 12,159.0,4,520000
+Principado de Asturias,Asturias,Duplex,Viaducto del Ingeniero Marquina,83.0,3,520000
+Principado de Asturias,Asturias,Chalet,Camino de Paredes,213.0,6,520000
+Principado de Asturias,Asturias,Chalet,Camino Bahinas 12,122.0,4,520000
 Principado de Asturias,Asturias,Chalet,Urbanizacion El Bosque,239.0,4,520000
 Principado de Asturias,Asturias,Chalet,Ribadesella,220.0,3,520000
-Principado de Asturias,Asturias,Chalet,Llanes,265.0,7,520000
-Principado de Asturias,Asturias,Duplex,Calle Ingeniero Marquina,107.0,3,520000
+Principado de Asturias,Asturias,Chalet,Llanes,272.0,7,520000
+Principado de Asturias,Asturias,Duplex,Calle Ingeniero Marquina,110.0,3,520000
 Principado de Asturias,Asturias,Chalet,brieves 16,59.0,5,520000
-Principado de Asturias,Asturias,Chalet,Celoriu,124.0,4,520000
-Principado de Asturias,Asturias,Chalet,Lugar Pancar,264.0,7,520000
+Principado de Asturias,Asturias,Chalet,Celoriu,130.0,4,520000
+Principado de Asturias,Asturias,Chalet,Lugar Pancar,282.0,7,520000
 Principado de Asturias,Asturias,Chalet,Llanes,200.0,7,520000
-Principado de Asturias,Asturias,Chalet,Camino a La Guia,85.0,3,520000
-Principado de Asturias,Asturias,Chalet,Calle del Corbero Guia 13,110.0,3,520000
+Principado de Asturias,Asturias,Chalet,Camino a La Guia,82.0,3,520000
+Principado de Asturias,Asturias,Chalet,Calle del Corbero Guia 13,89.0,3,520000
 Principado de Asturias,Asturias,Chalet,BRIEVES,1700.0,5,520000
 Principado de Asturias,Asturias,Chalet,Puente Nora,6.799,6,520000
 Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,70.0,4,520000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,82.0,3,520000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,112.0,3,520000
 Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,300.0,5,520000
 Principado de Asturias,Asturias,Casa Rural,busfrio 4,6.75,6,520000
-Principado de Asturias,Asturias,Duplex,Calle Ingeniero Marquina 13,114.0,3,520000
+Principado de Asturias,Asturias,Duplex,Calle Ingeniero Marquina 13,106.0,3,520000
 Principado de Asturias,Asturias,Chalet,El Franco 18,202.0,3,520000
-Principado de Asturias,Asturias,Chalet,CU-6,270.0,7,510000
+Principado de Asturias,Asturias,Chalet,"46 + 35) de porche con cubierta metalica. Distribuida en un amplio salon con cocina tres dormitorios (uno de ellos con vestidor) un despacho dos banos completos un cuarto de lavado cuarto de aperos y otro de instalaciones. Intentamos crear espacios muy luminosos naturales y obtener asi la maxima sensacion de confort. Totalmente estudiado y pensado para facilitarle su dia a dia. Cada estancia se ha calculado al mas minimo detalle.  * Y otro modelo de DOS PLANTAS. Cuenta con una superficie construida de Vivienda de gama rustica de 179.93 m2 construidos.  Distribuida en planta principal con un gran salon-comedor cocina semi-americana un dormitorio y un bano. Con un precioso Porche que rodea todo el frente y lateral de la vivienda. En la segunda planta dos dormitorios y un bano.  Todas nuestras viviendas son 100% eficientes aportamos una Calificacion energetica A.  Empleando los ultimos avances tanto en el interior como en el exterior de la Vivienda. GASTOS NO INCLUIDOS IVA NO INCLUIDO.""",1.521,1,984260825
+Principado de Asturias,Asturias,Chalet,CU-6,294.0,7,510000
 Principado de Asturias,Asturias,Chalet,CU-6 s/n,80.0,7,510000
-Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,290.0,7,508347
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,157.0,4,505000
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,100.0,3,505000
+Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,258.0,7,508347
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,155.0,4,505000
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,92.0,3,505000
 Principado de Asturias,Asturias,Chalet,Avenida de la Ponderosa 1,230.0,4,505000
-Principado de Asturias,Asturias,Chalet,Tazones - Arguero,131.0,4,503000
-Principado de Asturias,Asturias,Chalet,Lugar las Caldas,265.0,7,500000
-Principado de Asturias,Asturias,Casa Rural,Salas,614.0,12,500000
+Principado de Asturias,Asturias,Chalet,Tazones - Arguero,139.0,4,503000
+Principado de Asturias,Asturias,Chalet,Lugar las Caldas,262.0,7,500000
+Principado de Asturias,Asturias,Casa Rural,Salas,648.0,12,500000
 Principado de Asturias,Asturias,Piso,Calle Ventura Rodriguez 4,175.0,4,500000
 Principado de Asturias,Asturias,Chalet,Las Caldas,400.0,4,500000
-Principado de Asturias,Asturias,Piso,Calle Leopoldo Calvo Sotelo,245.0,6,500000
+Principado de Asturias,Asturias,Piso,Calle Leopoldo Calvo Sotelo,210.0,6,500000
 Principado de Asturias,Asturias,Chalet,Lugar Alea 11,263.0,7,500000
 Principado de Asturias,Asturias,Piso,Calle Corrida 23,210.0,4,500000
 Principado de Asturias,Asturias,Piso,Calle Pablo Laloux,115.0,4,500000
 Principado de Asturias,Asturias,Piso,Salinas,132.0,4,500000
-Principado de Asturias,Asturias,Chalet,Calle Porrua,414.0,9,500000
-Principado de Asturias,Asturias,Chalet,Lugar Alea,296.0,7,500000
+Principado de Asturias,Asturias,Chalet,Calle Porrua,599.0,9,500000
+Principado de Asturias,Asturias,Chalet,Lugar Alea,271.0,7,500000
 Principado de Asturias,Asturias,Chalet,recreo s/n,162.0,7,500000
-Principado de Asturias,Asturias,Chalet,AS-373 26,120.0,3,500000
+Principado de Asturias,Asturias,Chalet,AS-373 26,97.0,3,500000
 Principado de Asturias,Asturias,Chalet,Calle Porrua,3700.0,9,500000
 Principado de Asturias,Asturias,Chalet,La Casona,410.0,3,500000
 Principado de Asturias,Asturias,Chalet,Carreno,16.991,0,500000
 Principado de Asturias,Asturias,Chalet,Calle pruvia de abajo 197,161.0,5,500000
-Principado de Asturias,Asturias,Chalet,Plaza Barqueras 19,186.0,5,500000
-Principado de Asturias,Asturias,Chalet,Barrio Rabeiron s/n Sn,249.0,6,500000
+Principado de Asturias,Asturias,Chalet,Plaza Barqueras 19,193.0,5,500000
+Principado de Asturias,Asturias,Chalet,Barrio Rabeiron s/n Sn,227.0,6,500000
 Principado de Asturias,Asturias,Piso,Calle valdes pumarino 10,500.0,4,500000
 Principado de Asturias,Asturias,Chalet,Avenida Federico Fernandez Trapa,277.0,11,499000
 Principado de Asturias,Asturias,Piso,Calle del Concejo de Amieva 1,245.0,4,499000
@@ -838,52 +841,52 @@ Principado de Asturias,Asturias,Chalet,Lugar Mones,270.0,7,499000
 Principado de Asturias,Asturias,Piso,independencia,195.0,4,499000
 Principado de Asturias,Asturias,Chalet,Avenida Federico Fernandez Trapa 36,3.719,7,499000
 Principado de Asturias,Asturias,Chalet,VILLAVICIOSA 10,3.0,3,499000
-Principado de Asturias,Asturias,Chalet,San Cipriano de Pando s/n,90.0,3,498900
+Principado de Asturias,Asturias,Chalet,San Cipriano de Pando s/n,95.0,3,498900
 Principado de Asturias,Asturias,Chalet,Carretera Terenes,242.0,4,498000
 Principado de Asturias,Asturias,Chalet,Lugar Terenes 65 E,81.0,4,498000
 Principado de Asturias,Asturias,Piso,cervantes 19,40.0,4,498000
-Principado de Asturias,Asturias,Chalet,Lugar Terenes 34,139.0,4,498000
-Principado de Asturias,Asturias,Chalet,Ribadesella,135.0,4,498000
-Principado de Asturias,Asturias,Chalet,Lugar el Cuadro,102.0,3,497832
-Principado de Asturias,Asturias,Chalet,Carretera de San Pedro,224.0,6,497000
-Principado de Asturias,Asturias,Chalet,Lugar Villaverde 94,150.0,4,495000
-Principado de Asturias,Asturias,Piso,Calle Ventura Rodriguez,123.0,4,495000
+Principado de Asturias,Asturias,Chalet,Lugar Terenes 34,146.0,4,498000
+Principado de Asturias,Asturias,Chalet,Ribadesella,127.0,4,498000
+Principado de Asturias,Asturias,Chalet,Lugar el Cuadro,88.0,3,497832
+Principado de Asturias,Asturias,Chalet,Carretera de San Pedro,241.0,6,497000
+Principado de Asturias,Asturias,Chalet,Lugar Villaverde 94,130.0,4,495000
+Principado de Asturias,Asturias,Piso,Calle Ventura Rodriguez,148.0,4,495000
 Principado de Asturias,Asturias,Chalet,Lugar Naon,2.5,7,495000
 Principado de Asturias,Asturias,Chalet,Calle Maestro Valeriano Diaz Saraste,100.0,3,495000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,193.0,5,495000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,177.0,5,495000
 Principado de Asturias,Asturias,Piso,Ventura Rodriguez,150.0,4,495000
-Principado de Asturias,Asturias,Chalet,Calle Rio Silvestre,92.0,3,495000
+Principado de Asturias,Asturias,Chalet,Calle Rio Silvestre,91.0,3,495000
 Principado de Asturias,Asturias,Chalet,Calle Tolombredo de Arriba,256.0,4,495000
 Principado de Asturias,Asturias,Piso,Calle Marques de Teverga,336.0,5,495000
-Principado de Asturias,Asturias,Piso,Calle Cervantes,238.0,6,495000
-Principado de Asturias,Asturias,Piso,Calle Ventura Rodriguez,141.0,4,495000
+Principado de Asturias,Asturias,Piso,Calle Cervantes,223.0,6,495000
+Principado de Asturias,Asturias,Piso,Calle Ventura Rodriguez,156.0,4,495000
 Principado de Asturias,Asturias,Chalet,Las Vallinas,332.0,4,495000
 Principado de Asturias,Asturias,Chalet,GIJON,360.0,7,495000
 Principado de Asturias,Asturias,Casa Rural,Caserio Berruga,440.0,9,495000
-Principado de Asturias,Asturias,Piso,Campomanes,231.0,6,495000
+Principado de Asturias,Asturias,Piso,Campomanes,208.0,6,495000
 Principado de Asturias,Asturias,Chalet,colombres s/n,217.0,4,495000
-Principado de Asturias,Asturias,Piso,Calle San Antonio,41.0,1,495000
-Principado de Asturias,Asturias,Estudio,Calle San Antonio 12,50.0,0,495000
-Principado de Asturias,Asturias,Chalet,Las vallinas s/n,144.0,4,495000
-Principado de Asturias,Asturias,Chalet,Caserio Villaverde,143.0,4,495000
-Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,108.0,3,495000
-Principado de Asturias,Asturias,Piso,barrio Auditorio-Seminario-Parque de Invierno,156.0,4,495000
+Principado de Asturias,Asturias,Piso,Calle San Antonio,54.0,1,495000
+Principado de Asturias,Asturias,Estudio,Calle San Antonio 12,28.0,0,495000
+Principado de Asturias,Asturias,Chalet,Las vallinas s/n,149.0,4,495000
+Principado de Asturias,Asturias,Chalet,Caserio Villaverde,149.0,4,495000
+Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,88.0,3,495000
+Principado de Asturias,Asturias,Piso,barrio Auditorio-Seminario-Parque de Invierno,137.0,4,495000
 Principado de Asturias,Asturias,Chalet,Selorio - Tornon,40.0,4,495000
-Principado de Asturias,Asturias,Chalet,barrio Somio,152.0,4,495000
+Principado de Asturias,Asturias,Chalet,barrio Somio,134.0,4,495000
 Principado de Asturias,Asturias,Chalet,Calle de Galileo Galilei,4500.0,5,495000
 Principado de Asturias,Asturias,Chalet,REQUEXU s/n,200.0,3,495000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,171.0,5,495000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,199.0,5,495000
 Principado de Asturias,Asturias,Chalet,barrio Cabuenes,2.977,4,495000
-Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,263.0,7,495000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,200.0,5,495000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 6,243.0,6,495000
+Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,257.0,7,495000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,180.0,5,495000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 6,236.0,6,495000
 Principado de Asturias,Asturias,Casa Rural,Calle Rio Silvestre 1004 A,519.0,3,495000
-Principado de Asturias,Asturias,Chalet,Calle Riba 7,286.0,7,495000
+Principado de Asturias,Asturias,Chalet,Calle Riba 7,258.0,7,495000
 Principado de Asturias,Asturias,Chalet,Calle lugar la 3,30.0,7,495000
-Principado de Asturias,Asturias,Piso,Calle San Bernardo,144.0,4,491000
+Principado de Asturias,Asturias,Piso,Calle San Bernardo,158.0,4,491000
 Principado de Asturias,Asturias,Piso,Calle Uria 70,18.0,5,490000
-Principado de Asturias,Asturias,Atico,Avenida de las Gaviotas 12,62.0,2,490000
-Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,135.0,4,490000
+Principado de Asturias,Asturias,Atico,Avenida de las Gaviotas 12,64.0,2,490000
+Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,142.0,4,490000
 Principado de Asturias,Asturias,Chalet,AS-328,2.6,5,490000
 Principado de Asturias,Asturias,Chalet,Calle Ferreros,2500.0,4,490000
 Principado de Asturias,Asturias,Chalet,Calle Lugar la,340.0,7,490000
@@ -892,183 +895,183 @@ Principado de Asturias,Asturias,Chalet,Muros de Nalon,1.75,7,490000
 Principado de Asturias,Asturias,Chalet,Calle Ortega y Gasset 4,216.0,5,490000
 Principado de Asturias,Asturias,Piso,barrio La Arena,200.0,3,490000
 Principado de Asturias,Asturias,Chalet,Ribera de Arriba,2500.0,4,490000
-Principado de Asturias,Asturias,Chalet,984260070,552.0,490000,VV-6
+Principado de Asturias,Asturias,Chalet,984260070,681.0,490000,0
 Principado de Asturias,Asturias,Chalet,Lugar Barredo 27,2.7,5,490000
 Principado de Asturias,Asturias,Chalet,ISIDORO ACEVEDO 203 18  A,180.0,5,490000
 Principado de Asturias,Asturias,Chalet,Lugar Barredo,295.0,5,490000
-Principado de Asturias,Asturias,Chalet,Calle Isidoro Acevedo 203,168.0,5,490000
+Principado de Asturias,Asturias,Chalet,Calle Isidoro Acevedo 203,171.0,5,490000
 Principado de Asturias,Asturias,Piso,cervantes s/n,212.0,5,490000
-Principado de Asturias,Asturias,Chalet,Calle Lugar la,265.0,7,490000
-Principado de Asturias,Asturias,Chalet,Camino de la Cuesta del Perru,153.0,4,490000
+Principado de Asturias,Asturias,Chalet,Calle Lugar la,290.0,7,490000
+Principado de Asturias,Asturias,Chalet,Camino de la Cuesta del Perru,130.0,4,490000
 Principado de Asturias,Asturias,Chalet,Urbanizacion Los Laureles calle Asturias 21,800.0,4,490000
 Principado de Asturias,Asturias,Chalet,Arriondas,500.0,5,490000
 Principado de Asturias,Asturias,Chalet,Avenida Covadonga 24,30.0,10,490000
-Principado de Asturias,Asturias,Casa Rural,AS-237 4,93.0,3,490000
-Principado de Asturias,Asturias,Chalet,LA BARGANIZA s/n S/N,122.0,4,489500
+Principado de Asturias,Asturias,Casa Rural,AS-237 4,85.0,3,490000
+Principado de Asturias,Asturias,Chalet,LA BARGANIZA s/n S/N,129.0,4,489500
 Principado de Asturias,Asturias,Chalet,barrio Somio,606.0,3,489000
 Principado de Asturias,Asturias,Chalet,Via,300.0,6,487000
 Principado de Asturias,Asturias,Chalet,Vereda Paneda Nueva 57,1250.0,6,487000
-Principado de Asturias,Asturias,Chalet,Camino Urbanizacion Parque Colonia,85.0,3,485000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,121.0,4,485000
+Principado de Asturias,Asturias,Chalet,Camino Urbanizacion Parque Colonia,110.0,3,485000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,149.0,4,485000
 Principado de Asturias,Asturias,Casa Rural,San Claudio-Trubia-Las Caldas,3.6,8,485000
 Principado de Asturias,Asturias,Chalet,Valdredo,1200.0,6,485000
 Principado de Asturias,Asturias,Chalet,Calle Castanera,400.0,4,485000
 Principado de Asturias,Asturias,Chalet,Caravia de Limanes,32.0,4,485000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia 10,151.0,4,485000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia 10,123.0,4,485000
 Principado de Asturias,Asturias,Chalet,Camino de los Geranios,789.0,5,484900
 Principado de Asturias,Asturias,Chalet,Camino de los Geranios,12.0,5,483900
-Principado de Asturias,Asturias,Chalet,barrio Somio,196.0,5,483900
+Principado de Asturias,Asturias,Chalet,barrio Somio,188.0,5,483900
 Principado de Asturias,Asturias,Piso,Calle Alonso de Quintanilla 9,152.0,4,480745
 Principado de Asturias,Asturias,Piso,Calle San Bernardo 38,0.0,5,480000
 Principado de Asturias,Asturias,Chalet,Calle Galea,283.0,4,480000
-Principado de Asturias,Asturias,Piso,Calle Perez de la Sala 37,188.0,5,480000
+Principado de Asturias,Asturias,Piso,Calle Perez de la Sala 37,171.0,5,480000
 Principado de Asturias,Asturias,Chalet,Avenida San Martin,1200.0,4,480000
-Principado de Asturias,Asturias,Chalet,Llanes,156.0,4,480000
+Principado de Asturias,Asturias,Chalet,Llanes,148.0,4,480000
 Principado de Asturias,Asturias,Piso,Calle Constantino Cabal 3,157.0,5,480000
 Principado de Asturias,Asturias,Chalet,Calle Galea,80.0,4,480000
-Principado de Asturias,Asturias,Piso,Calle Concepcion Arenal 18,105.0,3,480000
+Principado de Asturias,Asturias,Piso,Calle Concepcion Arenal 18,84.0,3,480000
 Principado de Asturias,Asturias,Chalet,Coana,2500.0,5,480000
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,103.0,3,480000
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,122.0,4,480000
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,93.0,3,480000
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,120.0,4,480000
 Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,400.0,8,480000
-Principado de Asturias,Asturias,Chalet,Avenida San Martin,163.0,5,480000
+Principado de Asturias,Asturias,Chalet,Avenida San Martin,193.0,5,480000
 Principado de Asturias,Asturias,Chalet,Llanes,5.0,10,480000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,268.0,7,480000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,298.0,7,480000
 Principado de Asturias,Asturias,Chalet,Camino de la Pontica 548,240.0,4,480000
 Principado de Asturias,Asturias,Chalet,Ribadesella,0.0,6,480000
 Principado de Asturias,Asturias,Casa Rural,Huexes s/n,140.0,1,480000
 Principado de Asturias,Asturias,Chalet,Piedras Blancas,30.0,4,480000
 Principado de Asturias,Asturias,Chalet,Llovera Centro del Pueblo 7,40.0,4,480000
-Principado de Asturias,Asturias,Piso,Calle Cabrunana 54,146.0,4,480000
+Principado de Asturias,Asturias,Piso,Calle Cabrunana 54,158.0,4,480000
 Principado de Asturias,Asturias,Casa Rural,Huexes 1,140.0,5,480000
-Principado de Asturias,Asturias,Chalet,Camino Amapolas,120.0,4,479900
-Principado de Asturias,Asturias,Chalet,Caserio Esfreita 1,118.0,3,479000
-Principado de Asturias,Asturias,Chalet,Calle Niembro,150.0,4,475000
+Principado de Asturias,Asturias,Chalet,Camino Amapolas,138.0,4,479900
+Principado de Asturias,Asturias,Chalet,Caserio Esfreita 1,108.0,3,479000
+Principado de Asturias,Asturias,Chalet,Calle Niembro,133.0,4,475000
 Principado de Asturias,Asturias,Chalet,Villarmil 6B Sograndio 6 B,300.0,4,475000
 Principado de Asturias,Asturias,Chalet,Calle Niembro,220.0,4,475000
 Principado de Asturias,Asturias,Chalet,CM VILLAR-TACONES 382,9.968,4,475000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,60.0,4,475000
-Principado de Asturias,Asturias,Piso,Calle Palacio Valdes,496.0,10,475000
-Principado de Asturias,Asturias,Piso,Calle Arganosa 11,470.0,15,475000
-Principado de Asturias,Asturias,Piso,Calle Comandante Caballero 14,183.0,5,475000
+Principado de Asturias,Asturias,Piso,Calle Palacio Valdes,610.0,10,475000
+Principado de Asturias,Asturias,Piso,Calle Arganosa 11,429.0,15,475000
+Principado de Asturias,Asturias,Piso,Calle Comandante Caballero 14,187.0,5,475000
 Principado de Asturias,Asturias,Chalet,Lugar Niembru 185,234.0,5,475000
 Principado de Asturias,Asturias,Chalet,Camin de Carceo 50,1500.0,4,475000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,830.0,4,475000
 Principado de Asturias,Asturias,Chalet,Castiello de Lue s/n sn,153.0,3,475000
 Principado de Asturias,Asturias,Chalet,Venta las Ranas 24,2772.0,5,474900
-Principado de Asturias,Asturias,Chalet,Avenida de Jose Garcia Bernardo,155.0,4,472000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,295.0,7,470000
-Principado de Asturias,Asturias,Chalet,Tazones - Arguero,214.0,6,470000
+Principado de Asturias,Asturias,Chalet,Avenida de Jose Garcia Bernardo,132.0,4,472000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,294.0,7,470000
+Principado de Asturias,Asturias,Chalet,Tazones - Arguero,245.0,6,470000
 Principado de Asturias,Asturias,Chalet,Calle Pria 1,1.29,4,470000
 Principado de Asturias,Asturias,Piso,Calle Uria,226.0,5,470000
 Principado de Asturias,Asturias,Piso,Calle Uria 100,30.0,5,470000
-Principado de Asturias,Asturias,Chalet,Carretera Duyos,81.0,3,470000
-Principado de Asturias,Asturias,Piso,Calle Uria,246.0,6,470000
+Principado de Asturias,Asturias,Chalet,Carretera Duyos,89.0,3,470000
+Principado de Asturias,Asturias,Piso,Calle Uria,217.0,6,470000
 Principado de Asturias,Asturias,Chalet,Calle Botanico Valdes 3,603.0,4,470000
 Principado de Asturias,Asturias,Piso,Calle Uria,220.0,5,470000
 Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,66.0,5,465000
-Principado de Asturias,Asturias,Piso,Calle Concejo de Quiros 4,121.0,4,465000
+Principado de Asturias,Asturias,Piso,Calle Concejo de Quiros 4,150.0,4,465000
 Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,200.0,4,465000
 Principado de Asturias,Asturias,Piso,Calle de Campomanes 23,11.0,3,465000
-Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto,183.0,5,465000
-Principado de Asturias,Asturias,Piso,Calle Uria,68.0,2,465000
-Principado de Asturias,Asturias,Piso,Calle Uria,70.0,2,465000
+Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto,181.0,5,465000
+Principado de Asturias,Asturias,Piso,Calle Uria,76.0,2,465000
+Principado de Asturias,Asturias,Piso,Calle Uria,75.0,2,465000
 Principado de Asturias,Asturias,Chalet,Calle Ventura Alvarez Sala,285.0,4,465000
 Principado de Asturias,Asturias,Chalet,los Prietos,295.0,4,464000
 Principado de Asturias,Asturias,Atico,Plaza Estacion del Vasco 1,83.0,2,464000
-Principado de Asturias,Asturias,Atico,Calle Victor Chavarri,80.0,2,464000
-Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,152.0,4,464000
+Principado de Asturias,Asturias,Atico,Calle Victor Chavarri,75.0,2,464000
+Principado de Asturias,Asturias,Chalet,La Manjoya-Parroquias Sur,123.0,4,464000
 Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,240.0,6,460000
-Principado de Asturias,Asturias,Piso,Calle de Llamaquique 4,166.0,5,460000
-Principado de Asturias,Asturias,Chalet,Colloto 68,147.0,4,460000
+Principado de Asturias,Asturias,Piso,Calle de Llamaquique 4,178.0,5,460000
+Principado de Asturias,Asturias,Chalet,Colloto 68,123.0,4,460000
 Principado de Asturias,Asturias,Chalet,Aldea Cortinas,279.0,5,460000
 Principado de Asturias,Asturias,Chalet,fonciello s/n,825.0,18,460000
 Principado de Asturias,Asturias,Chalet,Camino Ovio,1400.0,4,460000
 Principado de Asturias,Asturias,Chalet,barrio Porceyo - Cenero,2.948,4,460000
-Principado de Asturias,Asturias,Piso,Calle de Llamaquique,135.0,4,460000
+Principado de Asturias,Asturias,Piso,Calle de Llamaquique,140.0,4,460000
 Principado de Asturias,Asturias,Chalet,Aldea Cortinas 10 B,279.0,5,460000
 Principado de Asturias,Asturias,Chalet,Lugar Gobiendes 107 A,35.0,6,460000
-Principado de Asturias,Asturias,Chalet,LAS HUERTAS s/n,178.0,5,460000
-Principado de Asturias,Asturias,Chalet,LLN-5,574.0,9,460000
+Principado de Asturias,Asturias,Chalet,LAS HUERTAS s/n,176.0,5,460000
+Principado de Asturias,Asturias,Chalet,LLN-5,617.0,9,460000
 Principado de Asturias,Asturias,Chalet,Lg. Ovio,200.0,4,460000
-Principado de Asturias,Asturias,Chalet,Lugar Villamiana,130.0,4,460000
-Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,245.0,6,460000
-Principado de Asturias,Asturias,Chalet,LLN-5,589.0,9,460000
+Principado de Asturias,Asturias,Chalet,Lugar Villamiana,145.0,4,460000
+Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,215.0,6,460000
+Principado de Asturias,Asturias,Chalet,LLN-5,448.0,9,460000
 Principado de Asturias,Asturias,Chalet,Camino Ovio s/n,200.0,4,460000
-Principado de Asturias,Asturias,Chalet,Avenida Lugar Buenavista Las Cortinas,193.0,5,460000
+Principado de Asturias,Asturias,Chalet,Avenida Lugar Buenavista Las Cortinas,177.0,5,460000
 Principado de Asturias,Asturias,Chalet,Lugar Obiu 13,1.4,4,460000
-Principado de Asturias,Asturias,Chalet,Lugar Villamiana,151.0,4,460000
-Principado de Asturias,Asturias,Chalet,Lugar Santa Rosa,504.0,18,460000
+Principado de Asturias,Asturias,Chalet,Lugar Villamiana,140.0,4,460000
+Principado de Asturias,Asturias,Chalet,Lugar Santa Rosa,647.0,18,460000
 Principado de Asturias,Asturias,Chalet,Llanera,4277.0,18,460000
 Principado de Asturias,Asturias,Chalet,OLIVARES,296.0,4,459000
 Principado de Asturias,Asturias,Chalet,OLIVARES,296.0,4,459000
-Principado de Asturias,Asturias,Chalet,barrio Colloto,103.0,3,458000
+Principado de Asturias,Asturias,Chalet,barrio Colloto,91.0,3,458000
 Principado de Asturias,Asturias,Chalet,San Claudio-Trubia-Las Caldas,2.515,5,455000
-Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,116.0,3,454545
-Principado de Asturias,Asturias,Chalet,barrio Cerdeno-El Palais-Mercadin,171.0,5,450100
-Principado de Asturias,Asturias,Piso,Calle Pelayo,71.0,2,450000
+Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,91.0,3,454545
+Principado de Asturias,Asturias,Chalet,barrio Cerdeno-El Palais-Mercadin,185.0,5,450100
+Principado de Asturias,Asturias,Piso,Calle Pelayo,73.0,2,450000
 Principado de Asturias,Asturias,Piso,Avenida de la Costa,150.0,3,450000
 Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,66.0,5,450000
 Principado de Asturias,Asturias,Piso,Calle Uria,190.0,4,450000
-Principado de Asturias,Asturias,Atico,Calle Asturias 39,117.0,3,450000
+Principado de Asturias,Asturias,Atico,Calle Asturias 39,93.0,3,450000
 Principado de Asturias,Asturias,Chalet,LG TORIELLO s/n,2000.0,4,450000
 Principado de Asturias,Asturias,Piso,Paseo Begona 24,152.0,5,450000
-Principado de Asturias,Asturias,Chalet,Camino Pinzales,120.0,4,450000
+Principado de Asturias,Asturias,Chalet,Camino Pinzales,138.0,4,450000
 Principado de Asturias,Asturias,Chalet,Lugar Toriello,179.0,4,450000
 Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,205.0,6,450000
 Principado de Asturias,Asturias,Chalet,AS-262,620.0,6,450000
 Principado de Asturias,Asturias,Chalet,Calle Penascosa,30.0,4,450000
-Principado de Asturias,Asturias,Piso,Calle Santa Susana,138.0,4,450000
-Principado de Asturias,Asturias,Chalet,Alles 45,240.0,6,450000
+Principado de Asturias,Asturias,Piso,Calle Santa Susana,156.0,4,450000
+Principado de Asturias,Asturias,Chalet,Alles 45,248.0,6,450000
 Principado de Asturias,Asturias,Chalet,Carretera de Pinzales,310.0,3,450000
 Principado de Asturias,Asturias,Chalet,Lugar Cuenco,300.0,6,450000
-Principado de Asturias,Asturias,Chalet,Camino Claveles,152.0,4,450000
+Principado de Asturias,Asturias,Chalet,Camino Claveles,141.0,4,450000
 Principado de Asturias,Asturias,Casa Rural,Calle Parres,327.0,5,450000
-Principado de Asturias,Asturias,Piso,Calle Uria,195.0,5,450000
-Principado de Asturias,Asturias,Piso,Calle Campoamor,68.0,2,450000
+Principado de Asturias,Asturias,Piso,Calle Uria,164.0,5,450000
+Principado de Asturias,Asturias,Piso,Calle Campoamor,73.0,2,450000
 Principado de Asturias,Asturias,Atico,Calle Juan Antonio Alvarez Rabanal 1,91.0,3,450000
 Principado de Asturias,Asturias,Chalet,Lugar Fozalguera,662.0,5,450000
 Principado de Asturias,Asturias,Chalet,Cangas de Onis,1.26,6,450000
-Principado de Asturias,Asturias,Estudio,Calle Pedro Duro 2,37.0,0,450000
-Principado de Asturias,Asturias,Chalet,Calle Parroco Don Jose F. Teral,137.0,4,450000
+Principado de Asturias,Asturias,Estudio,Calle Pedro Duro 2,31.0,0,450000
+Principado de Asturias,Asturias,Chalet,Calle Parroco Don Jose F. Teral,157.0,4,450000
 Principado de Asturias,Asturias,Chalet,Lugar Toriello,186.0,4,450000
 Principado de Asturias,Asturias,Chalet,Avenida los Campones 21,1099.0,12,450000
 Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,204.0,5,450000
 Principado de Asturias,Asturias,Piso,Calle Quintana,173.0,4,450000
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,126.0,4,450000
-Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,178.0,5,450000
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,123.0,4,450000
+Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,181.0,5,450000
 Principado de Asturias,Asturias,Chalet,Lugar Forfontia 27,526.0,5,450000
 Principado de Asturias,Asturias,Chalet,Lugar Toriello s/n,186.0,4,450000
 Principado de Asturias,Asturias,Chalet,Calle Penascosa 1,30.0,4,450000
-Principado de Asturias,Asturias,Chalet,Calle Isidoro Acevedo,143.0,4,450000
-Principado de Asturias,Asturias,Chalet,Avenida DEL CAMPO,119.0,3,450000
+Principado de Asturias,Asturias,Chalet,Calle Isidoro Acevedo,153.0,4,450000
+Principado de Asturias,Asturias,Chalet,Avenida DEL CAMPO,97.0,3,450000
 Principado de Asturias,Asturias,Chalet,Plaza Del Marques de Muros,400.0,6,450000
 Principado de Asturias,Asturias,Chalet,Avenida del padre montana s/n,1.032,1,450000
-Principado de Asturias,Asturias,Chalet,Lugar Pepin,128.0,4,450000
-Principado de Asturias,Asturias,Chalet,Llanes,158.0,4,450000
-Principado de Asturias,Asturias,Chalet,Carretera Cala de Moniello 1,158.0,4,450000
+Principado de Asturias,Asturias,Chalet,Lugar Pepin,135.0,4,450000
+Principado de Asturias,Asturias,Chalet,Llanes,152.0,4,450000
+Principado de Asturias,Asturias,Chalet,Carretera Cala de Moniello 1,123.0,4,450000
 Principado de Asturias,Asturias,Chalet,Caserio Areces 7 A,25.0,5,450000
-Principado de Asturias,Asturias,Chalet,Calle el Costazu s/n,163.0,5,450000
+Principado de Asturias,Asturias,Chalet,Calle el Costazu s/n,160.0,5,450000
 Principado de Asturias,Asturias,Casa Rural,Muros de Nalon,1700.0,5,450000
 Principado de Asturias,Asturias,Casa Rural,Camino Ovio 7,1000.0,35,450000
 Principado de Asturias,Asturias,Casa Rural,Calle Villar 17 -19,3500.0,8,450000
 Principado de Asturias,Asturias,Chalet,Carretera Cangas de Onis a Covadonga 49,600.0,6,450000
-Principado de Asturias,Asturias,Chalet,Calle Maximino Miyar 16 D,185.0,5,450000
+Principado de Asturias,Asturias,Chalet,Calle Maximino Miyar 16 D,178.0,5,450000
 Principado de Asturias,Asturias,Chalet,el crucero s/n,75.0,10,450000
 Principado de Asturias,Asturias,Chalet,Calle GREGORIO MARANON,22.0,5,449900
 Principado de Asturias,Asturias,Duplex,Calle de la Independencia 6,22.0,4,449900
 Principado de Asturias,Asturias,Chalet,Avenida DE LOS MONUMENTOS,22.0,5,449900
-Principado de Asturias,Asturias,Duplex,Calle de la Independencia,154.0,4,449900
+Principado de Asturias,Asturias,Duplex,Calle de la Independencia,150.0,4,449900
 Principado de Asturias,Asturias,Piso,Calle Jose Garcia Bernardo 480,15.0,3,449500
-Principado de Asturias,Asturias,Chalet,lastres 8,212.0,6,449000
-Principado de Asturias,Asturias,Casa Rural,Lamuno 1,136.0,4,449000
+Principado de Asturias,Asturias,Chalet,lastres 8,240.0,6,449000
+Principado de Asturias,Asturias,Casa Rural,Lamuno 1,154.0,4,449000
 Principado de Asturias,Asturias,Chalet,Calle Jose Garcia Nieto 1,322.0,4,449000
-Principado de Asturias,Asturias,Piso,Calle Marques de Pidal 7,126.0,4,449000
-Principado de Asturias,Asturias,Chalet,Calle Quintana,115.0,3,448000
+Principado de Asturias,Asturias,Piso,Calle Marques de Pidal 7,120.0,4,449000
+Principado de Asturias,Asturias,Chalet,Calle Quintana,109.0,3,448000
 Principado de Asturias,Asturias,Chalet,San Justo - Bedrinana,333.0,5,447000
-Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,152.0,4,446000
-Principado de Asturias,Asturias,Atico,Calle Suarez de la Riva,195.0,5,445000
-Principado de Asturias,Asturias,Chalet,SR-1 1,89.0,3,445000
+Principado de Asturias,Asturias,Piso,Avenida Rufo Garcia Rendueles,123.0,4,446000
+Principado de Asturias,Asturias,Atico,Calle Suarez de la Riva,161.0,5,445000
+Principado de Asturias,Asturias,Chalet,SR-1 1,120.0,3,445000
 Principado de Asturias,Asturias,Chalet,Avenida de Los Porqueros 20,25.0,4,445000
 Principado de Asturias,Asturias,Duplex,Calle Independencia 6,22.0,4,445000
 Principado de Asturias,Asturias,Chalet,Santo Medero 57,76.0,6,445000
@@ -1079,76 +1082,76 @@ Principado de Asturias,Asturias,Chalet,Urbanizacion Corona,750.0,4,440000
 Principado de Asturias,Asturias,Chalet,Caserio Aronces 50,1.4,3,440000
 Principado de Asturias,Asturias,Chalet,Navia,195.0,5,440000
 Principado de Asturias,Asturias,Chalet,Calle de Ramon y Cajal 31,403.0,0,440000
-Principado de Asturias,Asturias,Chalet,Calle Jose Fernandez Ferrador,162.0,5,440000
+Principado de Asturias,Asturias,Chalet,Calle Jose Fernandez Ferrador,175.0,5,440000
 Principado de Asturias,Asturias,Piso,Calle Ezcurdia 186,140.0,4,440000
-Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo 1,127.0,4,440000
-Principado de Asturias,Asturias,Chalet,Calle Parroco Don Jose F. Teral,172.0,5,440000
-Principado de Asturias,Asturias,Chalet,Barrio Olla,186.0,5,440000
+Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo 1,138.0,4,440000
+Principado de Asturias,Asturias,Chalet,Calle Parroco Don Jose F. Teral,194.0,5,440000
+Principado de Asturias,Asturias,Chalet,Barrio Olla,191.0,5,440000
 Principado de Asturias,Asturias,Chalet,Calle Parroco Don Jose F. Teral,700.0,5,440000
-Principado de Asturias,Asturias,Chalet,Villar s/n,131.0,4,440000
+Principado de Asturias,Asturias,Chalet,Villar s/n,149.0,4,440000
 Principado de Asturias,Asturias,Atico,ALVAREZ GARAYA,190.0,4,440000
-Principado de Asturias,Asturias,Casa Rural,Quintes - Arroes,130.0,4,440000
-Principado de Asturias,Asturias,Chalet,Tornin s/n,137.0,4,440000
+Principado de Asturias,Asturias,Casa Rural,Quintes - Arroes,137.0,4,440000
+Principado de Asturias,Asturias,Chalet,Tornin s/n,129.0,4,440000
 Principado de Asturias,Asturias,Chalet,Camino de la Fontona s/n,134.0,4,438000
-Principado de Asturias,Asturias,Piso,URIA,160.0,4,438000
-Principado de Asturias,Asturias,Atico,Calle campoamor 29,147.0,4,436000
+Principado de Asturias,Asturias,Piso,URIA,126.0,4,438000
+Principado de Asturias,Asturias,Atico,Calle campoamor 29,156.0,4,436000
 Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,66.0,5,435000
-Principado de Asturias,Asturias,Piso,Calle Doctor Casal,118.0,3,435000
-Principado de Asturias,Asturias,Piso,Calle Uria,146.0,4,435000
-Principado de Asturias,Asturias,Chalet,Camino de Fojanes,253.0,7,435000
+Principado de Asturias,Asturias,Piso,Calle Doctor Casal,116.0,3,435000
+Principado de Asturias,Asturias,Piso,Calle Uria,136.0,4,435000
+Principado de Asturias,Asturias,Chalet,Camino de Fojanes,284.0,7,435000
 Principado de Asturias,Asturias,Chalet,barrio Somio,300.0,4,435000
-Principado de Asturias,Asturias,Piso,Ribadesella,182.0,5,435000
+Principado de Asturias,Asturias,Piso,Ribadesella,196.0,5,435000
 Principado de Asturias,Asturias,Chalet,Calle Folgueras 88,30.0,4,435000
-Principado de Asturias,Asturias,Piso,Calle Marques de Teverga,239.0,6,431870
-Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,148.0,4,431819
-Principado de Asturias,Asturias,Chalet,Vegadeo,105.0,3,431000
+Principado de Asturias,Asturias,Piso,Calle Marques de Teverga,207.0,6,431870
+Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,120.0,4,431819
+Principado de Asturias,Asturias,Chalet,Vegadeo,102.0,3,431000
 Principado de Asturias,Asturias,Piso,Calle Jesus Arias de Velasco,150.0,5,430000
 Principado de Asturias,Asturias,Piso,Calle Gonzalez Abarca,275.0,7,430000
 Principado de Asturias,Asturias,Chalet,LLN-7 140,1.5,3,430000
 Principado de Asturias,Asturias,Chalet,Camin de la Fuente del Canu Jove 1031,221.0,3,430000
-Principado de Asturias,Asturias,Chalet,La Collada s/n,491.0,9,430000
-Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,194.0,5,430000
-Principado de Asturias,Asturias,Chalet,Lugar Siejo,271.0,7,430000
-Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva s/n,177.0,5,430000
+Principado de Asturias,Asturias,Chalet,La Collada s/n,451.0,9,430000
+Principado de Asturias,Asturias,Chalet,El Carbayedo - El Quirinal,177.0,5,430000
+Principado de Asturias,Asturias,Chalet,Lugar Siejo,265.0,7,430000
+Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva s/n,188.0,5,430000
 Principado de Asturias,Asturias,Chalet,barrio Castiello - Bernueces,3.484,3,430000
-Principado de Asturias,Asturias,Atico,Avenida del Cristo de las Cadenas 93,147.0,4,430000
+Principado de Asturias,Asturias,Atico,Avenida del Cristo de las Cadenas 93,159.0,4,430000
 Principado de Asturias,Asturias,Chalet,Quintes - Arroes,1250.0,4,430000
 Principado de Asturias,Asturias,Chalet,Lugar Fuente del Forno 3,295.0,6,430000
-Principado de Asturias,Asturias,Duplex,Calle de la Camara 9,121.0,4,429000
+Principado de Asturias,Asturias,Duplex,Calle de la Camara 9,127.0,4,429000
 Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,158.0,4,429000
-Principado de Asturias,Asturias,Chalet,Camino de la Redonda 7,151.0,4,429000
-Principado de Asturias,Asturias,Chalet,tresgrandas 13,171.0,5,428000
+Principado de Asturias,Asturias,Chalet,Camino de la Redonda 7,130.0,4,429000
+Principado de Asturias,Asturias,Chalet,tresgrandas 13,192.0,5,428000
 Principado de Asturias,Asturias,Chalet,las huertas,10.0,5,428000
-Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,90.0,3,427272
-Principado de Asturias,Asturias,Piso,Calle Corrida 5 b,70.0,2,426000
+Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,98.0,3,427272
+Principado de Asturias,Asturias,Piso,Calle Corrida 5 b,77.0,2,426000
 Principado de Asturias,Asturias,Chalet,Lugar Villarin 4,10.0,7,425000
 Principado de Asturias,Asturias,Chalet,Calle Picu Pienzu,53.0,6,425000
-Principado de Asturias,Asturias,Chalet,Calle Cimadevilla,114.0,3,425000
+Principado de Asturias,Asturias,Chalet,Calle Cimadevilla,100.0,3,425000
 Principado de Asturias,Asturias,Chalet,Lugar Cuerres 73 C,400.0,4,425000
 Principado de Asturias,Asturias,Chalet,Quintes - Arroes,4.0,6,425000
-Principado de Asturias,Asturias,Chalet,Piedras Blancas,99.0,3,425000
-Principado de Asturias,Asturias,Chalet,El Berron-La Carrera,239.0,6,425000
+Principado de Asturias,Asturias,Chalet,Piedras Blancas,110.0,3,425000
+Principado de Asturias,Asturias,Chalet,El Berron-La Carrera,241.0,6,425000
 Principado de Asturias,Asturias,Chalet,Caserio Belga Baja 142 A,1.25,4,425000
-Principado de Asturias,Asturias,Piso,Pepa Ojanguren 5,73.0,2,425000
-Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez 3,159.0,4,425000
-Principado de Asturias,Asturias,Chalet,Avenida Fernando Diaz Villabella s/n,179.0,5,425000
+Principado de Asturias,Asturias,Piso,Pepa Ojanguren 5,71.0,2,425000
+Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez 3,134.0,4,425000
+Principado de Asturias,Asturias,Chalet,Avenida Fernando Diaz Villabella s/n,194.0,5,425000
 Principado de Asturias,Asturias,Piso,19 de julio 5,110.0,2,425000
 Principado de Asturias,Asturias,Chalet,La Cruz,150.0,3,425000
 Principado de Asturias,Asturias,Chalet,Llantero,3000.0,5,425000
-Principado de Asturias,Asturias,Piso,Calle diecinueve de julio 5,79.0,2,425000
-Principado de Asturias,Asturias,Casa Rural,Calle Belmonte de Pria s/n,128.0,4,425000
-Principado de Asturias,Asturias,Chalet,Caserio Campo la Vega 1,139.0,4,425000
-Principado de Asturias,Asturias,Chalet,Avenida Melquiades Alvarez 67,302.0,8,425000
+Principado de Asturias,Asturias,Piso,Calle diecinueve de julio 5,70.0,2,425000
+Principado de Asturias,Asturias,Casa Rural,Calle Belmonte de Pria s/n,123.0,4,425000
+Principado de Asturias,Asturias,Chalet,Caserio Campo la Vega 1,125.0,4,425000
+Principado de Asturias,Asturias,Chalet,Avenida Melquiades Alvarez 67,366.0,8,425000
 Principado de Asturias,Asturias,Chalet,Avenida Mantaras s/n,1500.0,7,425000
 Principado de Asturias,Asturias,Duplex,Calle Domingo Garcia de la Fuente,54.0,4,424500
 Principado de Asturias,Asturias,Chalet,el Monte 67,110.0,4,423356
-Principado de Asturias,Asturias,Piso,Calle Compositor Facundo de la Vina 21,132.0,4,420000
-Principado de Asturias,Asturias,Chalet,Via del Cantabrico,165.0,5,420000
+Principado de Asturias,Asturias,Piso,Calle Compositor Facundo de la Vina 21,151.0,4,420000
+Principado de Asturias,Asturias,Chalet,Via del Cantabrico,190.0,5,420000
 Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,300.0,5,420000
-Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,124.0,4,420000
+Principado de Asturias,Asturias,Chalet,Pria-Nueva-Hontoria-Naves,140.0,4,420000
 Principado de Asturias,Asturias,Chalet,Peruyes,1500.0,4,420000
 Principado de Asturias,Asturias,Chalet,Camin de la Fuente del Canu 556,250.0,4,420000
-Principado de Asturias,Asturias,Chalet,MERES. 21,197.0,5,420000
+Principado de Asturias,Asturias,Chalet,MERES. 21,179.0,5,420000
 Principado de Asturias,Asturias,Chalet,Carretera Pola de Somiedo,1.6,5,420000
 Principado de Asturias,Asturias,Chalet,Carretera General,1.328,5,420000
 Principado de Asturias,Asturias,Chalet,Calle del Llugar de Arriba,428.0,6,420000
@@ -1157,69 +1160,69 @@ Principado de Asturias,Asturias,Chalet,Linero s/n,985.0,4,420000
 Principado de Asturias,Asturias,Chalet,Lugar POSADA,3.967,4,420000
 Principado de Asturias,Asturias,Chalet,Lugar la Galguera,181.0,5,420000
 Principado de Asturias,Asturias,Chalet,Lugar Andrin,181.0,5,420000
-Principado de Asturias,Asturias,Chalet,LA POLADURA 49,87.0,3,420000
-Principado de Asturias,Asturias,Chalet,LA POLADURA 49,91.0,3,420000
+Principado de Asturias,Asturias,Chalet,LA POLADURA 49,92.0,3,420000
+Principado de Asturias,Asturias,Chalet,LA POLADURA 49,103.0,3,420000
 Principado de Asturias,Asturias,Chalet,Victor Saenz 10,40.0,4,420000
-Principado de Asturias,Asturias,Chalet,Lugar Sebreno,116.0,3,420000
+Principado de Asturias,Asturias,Chalet,Lugar Sebreno,90.0,3,420000
 Principado de Asturias,Asturias,Chalet,Carbayin-Lieres-Valdesoto,1.364,5,420000
-Principado de Asturias,Asturias,Chalet,Calle Andrin,197.0,5,420000
-Principado de Asturias,Asturias,Chalet,Calle de Palacio Valdes,188.0,5,420000
+Principado de Asturias,Asturias,Chalet,Calle Andrin,190.0,5,420000
+Principado de Asturias,Asturias,Chalet,Calle de Palacio Valdes,184.0,5,420000
 Principado de Asturias,Asturias,Chalet,Andrin s/n,32.648,5,420000
-Principado de Asturias,Asturias,Piso,Calle Ezcurdia,147.0,4,420000
+Principado de Asturias,Asturias,Piso,Calle Ezcurdia,127.0,4,420000
 Principado de Asturias,Asturias,Chalet,Lugar Sebreno,1.2,3,420000
-Principado de Asturias,Asturias,Chalet,Lugar Pumeo 23,108.0,3,420000
-Principado de Asturias,Asturias,Chalet,Romillo 9,267.0,7,420000
-Principado de Asturias,Asturias,Chalet,Lugar Sebreno,110.0,3,420000
+Principado de Asturias,Asturias,Chalet,Lugar Pumeo 23,111.0,3,420000
+Principado de Asturias,Asturias,Chalet,Romillo 9,263.0,7,420000
+Principado de Asturias,Asturias,Chalet,Lugar Sebreno,102.0,3,420000
 Principado de Asturias,Asturias,Chalet,Calle Villahormes 155,300.0,4,420000
 Principado de Asturias,Asturias,Chalet,Castanera 67,1.6,8,420000
 Principado de Asturias,Asturias,Chalet,villahormes 1,600.0,4,420000
 Principado de Asturias,Asturias,Chalet,El Berron-La Carrera,3.967,6,420000
 Principado de Asturias,Asturias,Chalet,Piniella 4,1.4,5,420000
 Principado de Asturias,Asturias,Chalet,Carretera General 14 A,1.6,5,420000
-Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,182.0,5,420000
+Principado de Asturias,Asturias,Chalet,Cue-San Roque-Andrin,194.0,5,420000
 Principado de Asturias,Asturias,Chalet,LUGAR PERUYES,1500.0,4,420000
 Principado de Asturias,Asturias,Chalet,Coana,11.366,3,420000
 Principado de Asturias,Asturias,Chalet,Carretera a Foxos s/n sn,11.0,4,420000
-Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,110.0,3,420000
-Principado de Asturias,Asturias,Chalet,Calle aldea ovies s/n,150.0,4,420000
+Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,114.0,3,420000
+Principado de Asturias,Asturias,Chalet,Calle aldea ovies s/n,159.0,4,420000
 Principado de Asturias,Asturias,Piso,Plaza Europa,176.0,5,419000
-Principado de Asturias,Asturias,Chalet,AS-331,141.0,4,419000
-Principado de Asturias,Asturias,Chalet,Lugar Tuernes el Pequeno 1,176.0,5,418600
+Principado de Asturias,Asturias,Chalet,AS-331,152.0,4,419000
+Principado de Asturias,Asturias,Chalet,Lugar Tuernes el Pequeno 1,195.0,5,418600
 Principado de Asturias,Asturias,Piso,Avenida de la Constitucion,208.0,6,418000
 Principado de Asturias,Asturias,Chalet,Aguilar Aronzes 300,3000.0,5,417000
-Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes,129.0,4,416000
+Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes,155.0,4,416000
 Principado de Asturias,Asturias,Chalet,Camin de la Nisal 339,4.0,4,415000
-Principado de Asturias,Asturias,Casa Rural,Ribadesella,110.0,3,415000
+Principado de Asturias,Asturias,Casa Rural,Ribadesella,87.0,3,415000
 Principado de Asturias,Asturias,Chalet,Ribadesella,3700.0,3,415000
 Principado de Asturias,Asturias,Chalet,Lugar Cuerres,3700.0,3,415000
-Principado de Asturias,Asturias,Piso,Calle Asturias Oviedo 5,151.0,4,415000
-Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban  21,135.0,4,415000
-Principado de Asturias,Asturias,Casa Rural,el molin de pria s/n,96.0,3,415000
-Principado de Asturias,Asturias,Chalet,Carretera Castiello,152.0,4,415000
+Principado de Asturias,Asturias,Piso,Calle Asturias Oviedo 5,145.0,4,415000
+Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban  21,143.0,4,415000
+Principado de Asturias,Asturias,Casa Rural,el molin de pria s/n,92.0,3,415000
+Principado de Asturias,Asturias,Chalet,Carretera Castiello,148.0,4,415000
 Principado de Asturias,Asturias,Chalet,Carretera Playa del Aguilar,3.0,5,414700
-Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,105.0,3,413636
-Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,98.0,3,413000
-Principado de Asturias,Asturias,Chalet,Caserio Casa de Anes 20,121.0,4,412000
-Principado de Asturias,Asturias,Piso,Calle Manuel Garcia Conde,148.0,4,410000
-Principado de Asturias,Asturias,Chalet,Calle Maestru Enrique Truan 16,75.0,2,410000
-Principado de Asturias,Asturias,Chalet,Parroquias Norte,158.0,4,410000
-Principado de Asturias,Asturias,Chalet,Parroquias Norte,96.0,3,410000
-Principado de Asturias,Asturias,Piso,Calle Manuel Garcia Conde,126.0,4,410000
+Principado de Asturias,Asturias,Piso,Avenida De Los Oscos 2,104.0,3,413636
+Principado de Asturias,Asturias,Chalet,Calle Campos de Otero s/n,112.0,3,413000
+Principado de Asturias,Asturias,Chalet,Caserio Casa de Anes 20,148.0,4,412000
+Principado de Asturias,Asturias,Piso,Calle Manuel Garcia Conde,157.0,4,410000
+Principado de Asturias,Asturias,Chalet,Calle Maestru Enrique Truan 16,74.0,2,410000
+Principado de Asturias,Asturias,Chalet,Parroquias Norte,128.0,4,410000
+Principado de Asturias,Asturias,Chalet,Parroquias Norte,108.0,3,410000
+Principado de Asturias,Asturias,Piso,Calle Manuel Garcia Conde,158.0,4,410000
 Principado de Asturias,Asturias,Chalet,Camino la Texuca,74.0,5,410000
 Principado de Asturias,Asturias,Duplex,Hermanos Alas Urena,40.0,4,410000
 Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,155.0,4,410000
-Principado de Asturias,Asturias,Atico,Calle Manuel Garcia Conde 1,137.0,4,410000
-Principado de Asturias,Asturias,Piso,984260103,40.0,408000,Calle la Muralla
-Principado de Asturias,Asturias,Chalet,Barrio la Poledura 49,156.0,4,405000
+Principado de Asturias,Asturias,Atico,Calle Manuel Garcia Conde 1,154.0,4,410000
+Principado de Asturias,Asturias,Piso,984260103,40.0,408000,0
+Principado de Asturias,Asturias,Chalet,Barrio la Poledura 49,131.0,4,405000
 Principado de Asturias,Asturias,Chalet,Barrio la Poledura s/n,1214.0,4,405000
 Principado de Asturias,Asturias,Atico,Calle Gremio de Pescadores 18,55.0,3,405000
 Principado de Asturias,Asturias,Chalet,Verdicio - Banugues - Cabo Pena,1047.0,5,404000
 Principado de Asturias,Asturias,Chalet,Barrio Fitoria,1.3,3,400000
-Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva,169.0,5,400000
-Principado de Asturias,Asturias,Piso,Plaza de Longoria Carbajal,154.0,4,400000
-Principado de Asturias,Asturias,Chalet,Calle del Fuerte,189.0,5,400000
-Principado de Asturias,Asturias,Piso,Calle Cervantes,164.0,5,400000
-Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva,186.0,5,400000
+Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva,178.0,5,400000
+Principado de Asturias,Asturias,Piso,Plaza de Longoria Carbajal,122.0,4,400000
+Principado de Asturias,Asturias,Chalet,Calle del Fuerte,179.0,5,400000
+Principado de Asturias,Asturias,Piso,Calle Cervantes,161.0,5,400000
+Principado de Asturias,Asturias,Piso,Calle Suarez de la Riva,194.0,5,400000
 Principado de Asturias,Asturias,Chalet,Lugar Perdiz,2.275,2,400000
 Principado de Asturias,Asturias,Chalet,Lugar Cuerres,503.0,5,400000
 Principado de Asturias,Asturias,Chalet,Ribadesella,244.0,5,400000
@@ -1227,572 +1230,572 @@ Principado de Asturias,Asturias,Chalet,SL-12 16,6.174,6,400000
 Principado de Asturias,Asturias,Chalet,MIERA 1,357.0,6,400000
 Principado de Asturias,Asturias,Chalet,Ribadesella,10.0,5,400000
 Principado de Asturias,Asturias,Chalet,Luarca - Valdes,2.08,6,400000
-Principado de Asturias,Asturias,Piso,Calle Fernando el Santo 25,122.0,4,400000
-Principado de Asturias,Asturias,Chalet,San Juan de Pinera,153.0,4,400000
-Principado de Asturias,Asturias,Chalet,Calle Porrua,342.0,8,400000
-Principado de Asturias,Asturias,Piso,Plaza del Marques 10,65.0,2,400000
+Principado de Asturias,Asturias,Piso,Calle Fernando el Santo 25,123.0,4,400000
+Principado de Asturias,Asturias,Chalet,San Juan de Pinera,121.0,4,400000
+Principado de Asturias,Asturias,Chalet,Calle Porrua,357.0,8,400000
+Principado de Asturias,Asturias,Piso,Plaza del Marques 10,62.0,2,400000
 Principado de Asturias,Asturias,Chalet,Lugar Cuerres,311.0,5,400000
 Principado de Asturias,Asturias,Chalet,Millara - Miera s/n,6.174,6,400000
 Principado de Asturias,Asturias,Chalet,Calle del Fuerte 4,276.0,5,400000
 Principado de Asturias,Asturias,Chalet,ribadesella 1,276.0,5,400000
-Principado de Asturias,Asturias,Chalet,Avenida unio gozaniega de la habana s/n Avdapaseouniogozaniegadelahabana,134.0,4,400000
+Principado de Asturias,Asturias,Chalet,Avenida unio gozaniega de la habana s/n Avdapaseouniogozaniegadelahabana,158.0,4,400000
 Principado de Asturias,Asturias,Piso,cervantes,180.0,6,400000
 Principado de Asturias,Asturias,Chalet,barrio La Pedrera - Leorio - Huerces - Ruedes,10.415,3,400000
 Principado de Asturias,Asturias,Chalet,Navia,397.0,7,400000
-Principado de Asturias,Asturias,Casa Rural,Camino del roble 1,163.0,5,400000
+Principado de Asturias,Asturias,Casa Rural,Camino del roble 1,200.0,5,400000
 Principado de Asturias,Asturias,Chalet,Salas,357.0,6,400000
-Principado de Asturias,Asturias,Piso,Plaza de Longoria Carbajal 4,141.0,4,400000
-Principado de Asturias,Asturias,Chalet,Calle Reborio 151,116.0,3,400000
+Principado de Asturias,Asturias,Piso,Plaza de Longoria Carbajal 4,129.0,4,400000
+Principado de Asturias,Asturias,Chalet,Calle Reborio 151,94.0,3,400000
 Principado de Asturias,Asturias,Casa Rural,Lugar San Mames 63,17.5,0,400000
-Principado de Asturias,Asturias,Atico,barrio Centro - Puerto,66.0,2,400000
+Principado de Asturias,Asturias,Atico,barrio Centro - Puerto,72.0,2,400000
 Principado de Asturias,Asturias,Chalet,Navia,96.0,4,400000
-Principado de Asturias,Asturias,Chalet,Belmonte de Miranda,215.0,6,400000
+Principado de Asturias,Asturias,Chalet,Belmonte de Miranda,232.0,6,400000
 Principado de Asturias,Asturias,Casa Rural,PELEON s/n SN,32000.0,5,400000
-Principado de Asturias,Asturias,Casa Rural,Caserio el Horrin 11,174.0,5,400000
-Principado de Asturias,Asturias,Piso,Calle Fernandez Vallin 3,172.0,5,399999
+Principado de Asturias,Asturias,Casa Rural,Caserio el Horrin 11,192.0,5,400000
+Principado de Asturias,Asturias,Piso,Calle Fernandez Vallin 3,168.0,5,399999
 Principado de Asturias,Asturias,Chalet,Carretera Barrio Castiello Urbano,1.165,6,399900
 Principado de Asturias,Asturias,Atico,Calle Fray Ceferino 55,25.0,3,399000
 Principado de Asturias,Asturias,Chalet,Lugar Pumarin 50 b,12.0,6,399000
 Principado de Asturias,Asturias,Chalet,Lugar Pumarin,12.677,7,399000
 Principado de Asturias,Asturias,Chalet,Lugar Labares 104 A,327.0,4,399000
 Principado de Asturias,Asturias,Chalet,Hevia,363.0,6,399000
-Principado de Asturias,Asturias,Chalet,Carbayin-Lieres-Valdesoto,80.0,3,399000
+Principado de Asturias,Asturias,Chalet,Carbayin-Lieres-Valdesoto,110.0,3,399000
 Principado de Asturias,Asturias,Chalet,Lugar de Folgueras,1.1,4,399000
 Principado de Asturias,Asturias,Chalet,Barrio Llugarin 15,1.3,5,399000
 Principado de Asturias,Asturias,Chalet,Caserio Cerracin 709,104.0,7,399000
 Principado de Asturias,Asturias,Piso,Calle Posada Herrera,140.0,3,399000
 Principado de Asturias,Asturias,Chalet,Calle Lecenes 7 B,40.0,3,399000
 Principado de Asturias,Asturias,Chalet,Avenida San Martin,300.0,4,399000
-Principado de Asturias,Asturias,Piso,Calle Ildefonso Sanchez del Rio 5,98.0,3,399000
-Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,114.0,3,399000
+Principado de Asturias,Asturias,Piso,Calle Ildefonso Sanchez del Rio 5,104.0,3,399000
+Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,109.0,3,399000
 Principado de Asturias,Asturias,Chalet,Avenida San Martin,234.0,4,399000
-Principado de Asturias,Asturias,Piso,Calle luis treillard,94.0,3,399000
-Principado de Asturias,Asturias,Chalet,Camin del Noceu 11,160.0,5,399000
-Principado de Asturias,Asturias,Chalet,Camin de Lleme,155.0,4,399000
-Principado de Asturias,Asturias,Chalet,Avenida San Martin,145.0,4,399000
-Principado de Asturias,Asturias,Chalet,Camino de san juan,154.0,4,399000
+Principado de Asturias,Asturias,Piso,Calle luis treillard,88.0,3,399000
+Principado de Asturias,Asturias,Chalet,Camin del Noceu 11,165.0,5,399000
+Principado de Asturias,Asturias,Chalet,Camin de Lleme,134.0,4,399000
+Principado de Asturias,Asturias,Chalet,Avenida San Martin,151.0,4,399000
+Principado de Asturias,Asturias,Chalet,Camino de san juan,139.0,4,399000
 Principado de Asturias,Asturias,Chalet,Barrio Llugarin,615.0,5,399000
-Principado de Asturias,Asturias,Chalet,Avenida San Martin,138.0,4,399000
+Principado de Asturias,Asturias,Chalet,Avenida San Martin,129.0,4,399000
 Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,16.0,3,399000
 Principado de Asturias,Asturias,Chalet,Aldea San Vicente,5.0,15,399000
-Principado de Asturias,Asturias,Chalet,Calle Catedratico Noel Llopis 26,154.0,4,399000
+Principado de Asturias,Asturias,Chalet,Calle Catedratico Noel Llopis 26,156.0,4,399000
 Principado de Asturias,Asturias,Chalet,Calle Cat Noel Llopis,17.0,4,399000
-Principado de Asturias,Asturias,Piso,Calle Asturias 10,109.0,3,399000
-Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,61.0,2,399000
-Principado de Asturias,Asturias,Chalet,Calle Antonio Alvarez Galan,126.0,4,399000
+Principado de Asturias,Asturias,Piso,Calle Asturias 10,85.0,3,399000
+Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,70.0,2,399000
+Principado de Asturias,Asturias,Chalet,Calle Antonio Alvarez Galan,127.0,4,399000
 Principado de Asturias,Asturias,Chalet,Cerracin 709,9.3,7,399000
-Principado de Asturias,Asturias,Chalet,Camino castanera s/n,102.0,3,399000
+Principado de Asturias,Asturias,Chalet,Camino castanera s/n,85.0,3,399000
 Principado de Asturias,Asturias,Chalet,Ribadesella,19.0,3,399000
-Principado de Asturias,Asturias,Chalet,Ribadesella,153.0,4,399000
-Principado de Asturias,Asturias,Chalet,Cimadevilla 10,159.0,4,399000
+Principado de Asturias,Asturias,Chalet,Ribadesella,151.0,4,399000
+Principado de Asturias,Asturias,Chalet,Cimadevilla 10,138.0,4,399000
 Principado de Asturias,Asturias,Atico,Pepa Ojanguren 10,27.0,2,398500
 Principado de Asturias,Asturias,Chalet,LABRA s/n,325.0,4,398000
 Principado de Asturias,Asturias,Piso,Calle Ezcurdia,35.0,2,398000
 Principado de Asturias,Asturias,Chalet,Plaza Carbayedo,181.0,5,398000
-Principado de Asturias,Asturias,Piso,santa susana,186.0,5,398000
+Principado de Asturias,Asturias,Piso,santa susana,172.0,5,398000
 Principado de Asturias,Asturias,Piso,Calle Pedro Antonio Menendez 2,208.0,5,398000
-Principado de Asturias,Asturias,Piso,barrio Plaza de America,160.0,5,398000
+Principado de Asturias,Asturias,Piso,barrio Plaza de America,192.0,5,398000
 Principado de Asturias,Asturias,Piso,matematico pedrayes 20,66.0,4,398000
-Principado de Asturias,Asturias,Piso,Calle Santa Susana,171.0,5,398000
+Principado de Asturias,Asturias,Piso,Calle Santa Susana,198.0,5,398000
 Principado de Asturias,Asturias,Chalet,Barrio Udrion Abajo,2.8,5,398000
-Principado de Asturias,Asturias,Piso,Plaza Carbayedo 39,167.0,5,398000
+Principado de Asturias,Asturias,Piso,Plaza Carbayedo 39,188.0,5,398000
 Principado de Asturias,Asturias,Chalet,Lugar Pando 23 B,456.0,7,397000
-Principado de Asturias,Asturias,Chalet,Pancar,113.0,3,395000
-Principado de Asturias,Asturias,Chalet,sales s/n,457.0,9,395000
+Principado de Asturias,Asturias,Chalet,Pancar,93.0,3,395000
+Principado de Asturias,Asturias,Chalet,sales s/n,440.0,9,395000
 Principado de Asturias,Asturias,Piso,Calle de la Camara 51,150.0,3,395000
 Principado de Asturias,Asturias,Chalet,Camin del Pozaco 3,40.0,4,395000
 Principado de Asturias,Asturias,Chalet,Lugar Carrandi 102,270.0,4,395000
-Principado de Asturias,Asturias,Chalet,Llanes s/n,110.0,3,395000
+Principado de Asturias,Asturias,Chalet,Llanes s/n,98.0,3,395000
 Principado de Asturias,Asturias,Chalet,AS-340,400.0,4,395000
-Principado de Asturias,Asturias,Atico,Calle Uria,172.0,5,395000
+Principado de Asturias,Asturias,Atico,Calle Uria,173.0,5,395000
 Principado de Asturias,Asturias,Chalet,Lugar la Casona,1.2,3,395000
 Principado de Asturias,Asturias,Piso,Calle de la Camara,135.0,3,395000
 Principado de Asturias,Asturias,Piso,Calle Adosinda 11,180.0,6,395000
-Principado de Asturias,Asturias,Piso,Plaza de Nicanor Pinole,108.0,3,395000
+Principado de Asturias,Asturias,Piso,Plaza de Nicanor Pinole,118.0,3,395000
 Principado de Asturias,Asturias,Chalet,Carretera de latores,1000.0,4,395000
-Principado de Asturias,Asturias,Piso,Avenida AVENIDA DE LA CONCEPCION s/n,96.0,3,395000
-Principado de Asturias,Asturias,Chalet,Via,110.0,3,395000
+Principado de Asturias,Asturias,Piso,Avenida AVENIDA DE LA CONCEPCION s/n,105.0,3,395000
+Principado de Asturias,Asturias,Chalet,Via,94.0,3,395000
 Principado de Asturias,Asturias,Chalet,AS-379,80.0,4,395000
 Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban 28,56.0,3,395000
 Principado de Asturias,Asturias,Atico,santa clara,53.0,3,395000
-Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,81.0,3,395000
-Principado de Asturias,Asturias,Piso,Calle de la Camara,200.0,5,395000
-Principado de Asturias,Asturias,Chalet,Llanes 3,102.0,3,395000
-Principado de Asturias,Asturias,Chalet,Camino Real s/n,179.0,5,395000
+Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,89.0,3,395000
+Principado de Asturias,Asturias,Piso,Calle de la Camara,175.0,5,395000
+Principado de Asturias,Asturias,Chalet,Llanes 3,120.0,3,395000
+Principado de Asturias,Asturias,Chalet,Camino Real s/n,172.0,5,395000
 Principado de Asturias,Asturias,Chalet,Lugar Latores,170.0,5,395000
 Principado de Asturias,Asturias,Casa Rural,Celorio-Poo-Parres,200.0,3,395000
 Principado de Asturias,Asturias,Chalet,Ad Parda,170.0,3,395000
 Principado de Asturias,Asturias,Chalet,barrio Vallobin,1.1,3,395000
 Principado de Asturias,Asturias,Piso,Calle Uria,180.0,5,395000
 Principado de Asturias,Asturias,Atico,Paseo Begona 14,20.0,2,395000
-Principado de Asturias,Asturias,Piso,Calle las Barcenas 2,71.0,2,395000
+Principado de Asturias,Asturias,Piso,Calle las Barcenas 2,68.0,2,395000
 Principado de Asturias,Asturias,Chalet,Carretera de Rovigo 9,120.0,4,395000
 Principado de Asturias,Asturias,Chalet,Lugar Bueres,38.0,4,394000
-Principado de Asturias,Asturias,Piso,Calle Dindurra 1,134.0,4,394000
-Principado de Asturias,Asturias,Chalet,Selorio - Tornon,145.0,4,392000
-Principado de Asturias,Asturias,Chalet,Calle Faro de arriba s/n,160.0,5,390657
+Principado de Asturias,Asturias,Piso,Calle Dindurra 1,136.0,4,394000
+Principado de Asturias,Asturias,Chalet,Selorio - Tornon,122.0,4,392000
+Principado de Asturias,Asturias,Chalet,Calle Faro de arriba s/n,161.0,5,390657
 Principado de Asturias,Asturias,Chalet,Camino de Paredes,344.0,4,390000
 Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,165.0,5,390000
-Principado de Asturias,Asturias,Chalet,Plaza DE LA CORRADA,115.0,3,390000
+Principado de Asturias,Asturias,Chalet,Plaza DE LA CORRADA,117.0,3,390000
 Principado de Asturias,Asturias,Chalet,Camino la Iglesia 125,1.058,4,390000
-Principado de Asturias,Asturias,Chalet,La rebollada 60,121.0,4,390000
+Principado de Asturias,Asturias,Chalet,La rebollada 60,145.0,4,390000
 Principado de Asturias,Asturias,Chalet,Lugar Tuernes el Pequeno 1,2.5,2,390000
 Principado de Asturias,Asturias,Chalet,Calle Reborio,100.0,3,390000
 Principado de Asturias,Asturias,Chalet,Calle Mayor 2,70.0,3,390000
 Principado de Asturias,Asturias,Chalet,Lugar Po 94 A,50.0,4,390000
-Principado de Asturias,Asturias,Chalet,Calle Rebollada,216.0,6,390000
+Principado de Asturias,Asturias,Chalet,Calle Rebollada,245.0,6,390000
 Principado de Asturias,Asturias,Chalet,Calle Rebollada,327.0,6,390000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,93.0,3,390000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,113.0,3,390000
 Principado de Asturias,Asturias,Chalet,Azaleas 38,369.0,6,390000
-Principado de Asturias,Asturias,Chalet,Barrio San Miguel s/n,176.0,5,390000
+Principado de Asturias,Asturias,Chalet,Barrio San Miguel s/n,164.0,5,390000
 Principado de Asturias,Asturias,Chalet,Ribadesella,217.0,4,390000
-Principado de Asturias,Asturias,Chalet,Calle Emigrante 12,484.0,14,390000
-Principado de Asturias,Asturias,Chalet,Cs RIVIELLA,166.0,5,390000
-Principado de Asturias,Asturias,Piso,Plaza Barqueras,195.0,5,390000
-Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,231.0,6,390000
-Principado de Asturias,Asturias,Piso,Plaza Corrada s/n,91.0,3,390000
-Principado de Asturias,Asturias,Chalet,Plaza Corrada s/n,117.0,3,390000
+Principado de Asturias,Asturias,Chalet,Calle Emigrante 12,538.0,14,390000
+Principado de Asturias,Asturias,Chalet,Cs RIVIELLA,178.0,5,390000
+Principado de Asturias,Asturias,Piso,Plaza Barqueras,194.0,5,390000
+Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,240.0,6,390000
+Principado de Asturias,Asturias,Piso,Plaza Corrada s/n,112.0,3,390000
+Principado de Asturias,Asturias,Chalet,Plaza Corrada s/n,116.0,3,390000
 Principado de Asturias,Asturias,Piso,Llanes,200.0,4,390000
-Principado de Asturias,Asturias,Chalet,Carretera de la Nora 111,112.0,3,390000
+Principado de Asturias,Asturias,Chalet,Carretera de la Nora 111,88.0,3,390000
 Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban 28,56.0,3,390000
-Principado de Asturias,Asturias,Chalet,BO Rebollada 60,189.0,5,390000
-Principado de Asturias,Asturias,Duplex,Plaza Corrada 1,106.0,3,390000
-Principado de Asturias,Asturias,Piso,Calle del Concejo de Caso,84.0,3,390000
-Principado de Asturias,Asturias,Chalet,LA PEDRERA s/n,131.0,4,390000
-Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,197.0,5,390000
-Principado de Asturias,Asturias,Piso,Calle Quintana 16,112.0,3,390000
-Principado de Asturias,Asturias,Chalet,Paseo de las Campas,123.0,4,390000
-Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,141.0,4,390000
+Principado de Asturias,Asturias,Chalet,BO Rebollada 60,165.0,5,390000
+Principado de Asturias,Asturias,Duplex,Plaza Corrada 1,94.0,3,390000
+Principado de Asturias,Asturias,Piso,Calle del Concejo de Caso,105.0,3,390000
+Principado de Asturias,Asturias,Chalet,LA PEDRERA s/n,140.0,4,390000
+Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,162.0,5,390000
+Principado de Asturias,Asturias,Piso,Calle Quintana 16,106.0,3,390000
+Principado de Asturias,Asturias,Chalet,Paseo de las Campas,140.0,4,390000
+Principado de Asturias,Asturias,Piso,Calle Conde de Toreno,144.0,4,390000
 Principado de Asturias,Asturias,Chalet,Las Regueras,50.0,5,390000
-Principado de Asturias,Asturias,Chalet,los pontones 8,571.0,9,390000
-Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,164.0,5,390000
+Principado de Asturias,Asturias,Chalet,los pontones 8,648.0,9,390000
+Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,169.0,5,390000
 Principado de Asturias,Asturias,Piso,Calle Conde de Toreno 5,137.0,4,390000
-Principado de Asturias,Asturias,Piso,barrio Fontan,142.0,4,390000
-Principado de Asturias,Asturias,Casa Rural,Carreno,52.0,1,390000
-Principado de Asturias,Asturias,Piso,Cue-San Roque-Andrin,302.0,8,390000
-Principado de Asturias,Asturias,Piso,Plaza Nicanor Pinole 1,108.0,3,390000
-Principado de Asturias,Asturias,Chalet,Lugones,135.0,4,390000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,129.0,4,390000
-Principado de Asturias,Asturias,Piso,Calle de Doctor Alfredo Martinez 7,211.0,6,390000
-Principado de Asturias,Asturias,Casa Rural,as 233 s/n,128.0,4,390000
-Principado de Asturias,Asturias,Chalet,Camino de la fuente del moro 19,165.0,5,390000
-Principado de Asturias,Asturias,Chalet,Calle Rebollada 60,183.0,5,390000
+Principado de Asturias,Asturias,Piso,barrio Fontan,149.0,4,390000
+Principado de Asturias,Asturias,Casa Rural,Carreno,59.0,1,390000
+Principado de Asturias,Asturias,Piso,Cue-San Roque-Andrin,363.0,8,390000
+Principado de Asturias,Asturias,Piso,Plaza Nicanor Pinole 1,90.0,3,390000
+Principado de Asturias,Asturias,Chalet,Lugones,151.0,4,390000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,134.0,4,390000
+Principado de Asturias,Asturias,Piso,Calle de Doctor Alfredo Martinez 7,236.0,6,390000
+Principado de Asturias,Asturias,Casa Rural,as 233 s/n,158.0,4,390000
+Principado de Asturias,Asturias,Chalet,Camino de la fuente del moro 19,176.0,5,390000
+Principado de Asturias,Asturias,Chalet,Calle Rebollada 60,162.0,5,390000
 Principado de Asturias,Asturias,Chalet,Colunga,1500.0,4,389000
 Principado de Asturias,Asturias,Chalet,VV-6 26,1750.0,3,389000
-Principado de Asturias,Asturias,Chalet,Selorio - Tornon,102.0,3,389000
+Principado de Asturias,Asturias,Chalet,Selorio - Tornon,91.0,3,389000
 Principado de Asturias,Asturias,Chalet,Calle Catedratico Noel Llopis,180.0,4,389000
-Principado de Asturias,Asturias,Piso,Plaza Humedal,182.0,5,389000
+Principado de Asturias,Asturias,Piso,Plaza Humedal,178.0,5,389000
 Principado de Asturias,Asturias,Chalet,Parte alta de Los Olivares,30.0,4,389000
 Principado de Asturias,Asturias,Chalet,Calle Catedratico Noel Llopis 23,17.0,4,389000
 Principado de Asturias,Asturias,Piso,C. de la Muralla 6,40.0,3,388000
-Principado de Asturias,Asturias,Piso,984260103,40.0,388000,Calle la Muralla
+Principado de Asturias,Asturias,Piso,984260103,40.0,388000,0
 Principado de Asturias,Asturias,Piso,barrio Centro - San Lorenzo,100.0,3,388000
 Principado de Asturias,Asturias,Chalet,Calle Ateneo Obrero de Luanco,294.0,5,387500
 Principado de Asturias,Asturias,Chalet,Calle Ateneo Obrero de Luanco,400.0,5,387500
-Principado de Asturias,Asturias,Chalet,Calle Ateneo Obrero de Luanco 10,187.0,5,387500
+Principado de Asturias,Asturias,Chalet,Calle Ateneo Obrero de Luanco 10,184.0,5,387500
 Principado de Asturias,Asturias,Chalet,Luanco - Aramar - Antromero,238.0,5,387500
 Principado de Asturias,Asturias,Atico,Calle Colegio San Isidoro 1,38.0,3,387300
-Principado de Asturias,Asturias,Piso,Plaza de la Ensenanza,92.0,3,387000
-Principado de Asturias,Asturias,Piso,Plaza del Carbayon 3,140.0,4,387000
-Principado de Asturias,Asturias,Chalet,Camino castanera,162.0,5,385000
-Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,110.0,3,385000
+Principado de Asturias,Asturias,Piso,Plaza de la Ensenanza,84.0,3,387000
+Principado de Asturias,Asturias,Piso,Plaza del Carbayon 3,133.0,4,387000
+Principado de Asturias,Asturias,Chalet,Camino castanera,182.0,5,385000
+Principado de Asturias,Asturias,Piso,Calle Melquiades Alvarez,86.0,3,385000
 Principado de Asturias,Asturias,Chalet,Barrio Tarna,285.0,5,385000
 Principado de Asturias,Asturias,Piso,Calle Marques de Pidal,182.0,4,385000
 Principado de Asturias,Asturias,Chalet,Calle Parres 53,25.0,3,385000
-Principado de Asturias,Asturias,Chalet,Camino de la Eria 350,214.0,6,385000
-Principado de Asturias,Asturias,Piso,Avenida Castilla 5,91.0,3,385000
+Principado de Asturias,Asturias,Chalet,Camino de la Eria 350,248.0,6,385000
+Principado de Asturias,Asturias,Piso,Avenida Castilla 5,87.0,3,385000
 Principado de Asturias,Asturias,Atico,Calle Valparaiso 5,60.0,4,385000
-Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,236.0,6,385000
+Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,226.0,6,385000
 Principado de Asturias,Asturias,Piso,Calle Fernando el Santo 25,122.0,4,385000
-Principado de Asturias,Asturias,Chalet,Plaza la Victoria 16,217.0,6,385000
+Principado de Asturias,Asturias,Chalet,Plaza la Victoria 16,239.0,6,385000
 Principado de Asturias,Asturias,Chalet,Carretera de Lavandera,800.0,4,385000
-Principado de Asturias,Asturias,Piso,Calle Diario  1,111.0,3,385000
+Principado de Asturias,Asturias,Piso,Calle Diario  1,107.0,3,385000
 Principado de Asturias,Asturias,Chalet,Urbanizacion Los Bayones 27,65.0,5,385000
 Principado de Asturias,Asturias,Piso,Calle Gonzalez Abarca 18 -C,24.0,5,385000
 Principado de Asturias,Asturias,Chalet,Quintes - Arroes,372.0,5,385000
 Principado de Asturias,Asturias,Piso,barrio Parque San Francisco-Uria,260.0,6,385000
 Principado de Asturias,Asturias,Piso,Pepa Ojanguren 5,110.0,2,383000
-Principado de Asturias,Asturias,Piso,Calle Pepa Ojanguren 5,77.0,2,383000
-Principado de Asturias,Asturias,Piso,Calle Diecinueve de Julio 5,66.0,2,383000
-Principado de Asturias,Asturias,Piso,Calle Conde de Toreno s/n,88.0,3,380900
+Principado de Asturias,Asturias,Piso,Calle Pepa Ojanguren 5,69.0,2,383000
+Principado de Asturias,Asturias,Piso,Calle Diecinueve de Julio 5,71.0,2,383000
+Principado de Asturias,Asturias,Piso,Calle Conde de Toreno s/n,97.0,3,380900
 Principado de Asturias,Asturias,Piso,Calle Perez de Ayala 6,142.0,4,380000
-Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,154.0,4,380000
+Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,120.0,4,380000
 Principado de Asturias,Asturias,Chalet,Aldea Samartin 60,150.0,4,380000
-Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,135.0,4,380000
+Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,148.0,4,380000
 Principado de Asturias,Asturias,Chalet,Pilona,300.0,4,380000
 Principado de Asturias,Asturias,Chalet,Lugar Linares,1183.0,4,380000
 Principado de Asturias,Asturias,Chalet,Calle Castanera,406.0,6,380000
-Principado de Asturias,Asturias,Chalet,Lugar Nora,151.0,4,380000
-Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,162.0,5,380000
+Principado de Asturias,Asturias,Chalet,Lugar Nora,139.0,4,380000
+Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,188.0,5,380000
 Principado de Asturias,Asturias,Chalet,LInero,375.0,3,380000
 Principado de Asturias,Asturias,Piso,barrio Centro - San Lorenzo,72.0,5,380000
 Principado de Asturias,Asturias,Piso,barrio Plaza de America,213.0,5,380000
 Principado de Asturias,Asturias,Chalet,Calle Conde Sizzo,307.0,5,380000
-Principado de Asturias,Asturias,Chalet,Llanera,132.0,4,380000
+Principado de Asturias,Asturias,Chalet,Llanera,150.0,4,380000
 Principado de Asturias,Asturias,Duplex,Calle Nueve de Mayo,93.0,4,380000
 Principado de Asturias,Asturias,Piso,Calle Mariano Pola 6,100.0,2,380000
-Principado de Asturias,Asturias,Chalet,Pilona,146.0,4,380000
-Principado de Asturias,Asturias,Duplex,Instituto 20,120.0,3,380000
-Principado de Asturias,Asturias,Piso,Calle Uria 21,121.0,4,380000
-Principado de Asturias,Asturias,Piso,Calle General Elorza  67,106.0,3,380000
+Principado de Asturias,Asturias,Chalet,Pilona,140.0,4,380000
+Principado de Asturias,Asturias,Duplex,Instituto 20,101.0,3,380000
+Principado de Asturias,Asturias,Piso,Calle Uria 21,135.0,4,380000
+Principado de Asturias,Asturias,Piso,Calle General Elorza  67,108.0,3,380000
 Principado de Asturias,Asturias,Piso,Calle Pintor Orlando Pelayo 9,5.0,3,380000
-Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,123.0,4,380000
-Principado de Asturias,Asturias,Chalet,Calle Castanera,249.0,6,380000
+Principado de Asturias,Asturias,Piso,Calle Nueve de Mayo,158.0,4,380000
+Principado de Asturias,Asturias,Chalet,Calle Castanera,204.0,6,380000
 Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban 28,56.0,3,380000
-Principado de Asturias,Asturias,Chalet,CASTANERA,125.0,4,380000
+Principado de Asturias,Asturias,Chalet,CASTANERA,138.0,4,380000
 Principado de Asturias,Asturias,Chalet,Lugar Linares,36.0,4,380000
-Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,104.0,3,380000
-Principado de Asturias,Asturias,Chalet,Carreno,544.0,10,380000
+Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,101.0,3,380000
+Principado de Asturias,Asturias,Chalet,Carreno,593.0,10,380000
 Principado de Asturias,Asturias,Casa Rural,San Pedro de Ambas s/n,17.0,8,380000
-Principado de Asturias,Asturias,Chalet,LUGAR CASTANERA s/n,122.0,4,380000
-Principado de Asturias,Asturias,Piso,Calle Uria,126.0,4,380000
-Principado de Asturias,Asturias,Chalet,Sirviella s/n,50.0,1,380000
+Principado de Asturias,Asturias,Chalet,LUGAR CASTANERA s/n,134.0,4,380000
+Principado de Asturias,Asturias,Piso,Calle Uria,152.0,4,380000
+Principado de Asturias,Asturias,Chalet,Sirviella s/n,54.0,1,380000
 Principado de Asturias,Asturias,Chalet,Calle Castanera 52,406.0,4,380000
-Principado de Asturias,Asturias,Chalet,La Pesa,220.0,6,380000
+Principado de Asturias,Asturias,Chalet,La Pesa,223.0,6,380000
 Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,187.0,4,380000
 Principado de Asturias,Asturias,Chalet,Calle Conde Sizzo 3,392.0,5,380000
-Principado de Asturias,Asturias,Chalet,Posada-Barro,148.0,4,380000
-Principado de Asturias,Asturias,Casa Rural,lledias,182.0,5,380000
-Principado de Asturias,Asturias,Casa Rural,Cereceda s/n sn,132.0,4,380000
+Principado de Asturias,Asturias,Chalet,Posada-Barro,146.0,4,380000
+Principado de Asturias,Asturias,Casa Rural,lledias,190.0,5,380000
+Principado de Asturias,Asturias,Casa Rural,Cereceda s/n sn,122.0,4,380000
 Principado de Asturias,Asturias,Chalet,Ribadesella,1.8,6,380000
 Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,20.0,3,380000
 Principado de Asturias,Asturias,Casa Rural,Avenida de la Libertad 59,880.0,5,380000
-Principado de Asturias,Asturias,Piso,Calle Uria 15,176.0,5,379000
-Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,124.0,4,379000
-Principado de Asturias,Asturias,Chalet,Faro De Arriba,120.0,4,379000
-Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,130.0,4,379000
-Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,160.0,4,379000
-Principado de Asturias,Asturias,Piso,asturias,81.0,3,378000
+Principado de Asturias,Asturias,Piso,Calle Uria 15,198.0,5,379000
+Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,148.0,4,379000
+Principado de Asturias,Asturias,Chalet,Faro De Arriba,157.0,4,379000
+Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,134.0,4,379000
+Principado de Asturias,Asturias,Duplex,Calle Doctor Casal,120.0,4,379000
+Principado de Asturias,Asturias,Piso,asturias,87.0,3,378000
 Principado de Asturias,Asturias,Chalet,Lugar Soto,750.0,4,378000
-Principado de Asturias,Asturias,Chalet,Carretera Carmen Sardeu 1,147.0,4,378000
-Principado de Asturias,Asturias,Piso,Calle General Elorza  67,118.0,3,377000
+Principado de Asturias,Asturias,Chalet,Carretera Carmen Sardeu 1,127.0,4,378000
+Principado de Asturias,Asturias,Piso,Calle General Elorza  67,104.0,3,377000
 Principado de Asturias,Asturias,Chalet,Caserio Llano 106,450.0,4,375000
 Principado de Asturias,Asturias,Duplex,Calle Santa Clara,53.0,3,375000
 Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,192.0,4,375000
 Principado de Asturias,Asturias,Chalet,Parque Ruedes 7 A,220.0,3,375000
 Principado de Asturias,Asturias,Piso,Calle Doctor Alfredo Martinez,135.0,4,375000
-Principado de Asturias,Asturias,Chalet,Pruvia de Arriba,157.0,4,375000
+Principado de Asturias,Asturias,Chalet,Pruvia de Arriba,141.0,4,375000
 Principado de Asturias,Asturias,Chalet,N-643 45,353.0,4,375000
 Principado de Asturias,Asturias,Chalet,Lugar las Caldas 12 -26,450.0,5,375000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,108.0,3,375000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,99.0,3,375000
 Principado de Asturias,Asturias,Chalet,Caserio Quemada,1500.0,4,375000
-Principado de Asturias,Asturias,Chalet,Calle Urogallo,124.0,4,375000
-Principado de Asturias,Asturias,Chalet,Caserio Quemada,190.0,5,375000
-Principado de Asturias,Asturias,Piso,Calle Campoamor,134.0,4,375000
+Principado de Asturias,Asturias,Chalet,Calle Urogallo,134.0,4,375000
+Principado de Asturias,Asturias,Chalet,Caserio Quemada,173.0,5,375000
+Principado de Asturias,Asturias,Piso,Calle Campoamor,131.0,4,375000
 Principado de Asturias,Asturias,Chalet,Llanera,3.336,4,375000
 Principado de Asturias,Asturias,Atico,Paseo de la Florida 31,55.0,4,375000
 Principado de Asturias,Asturias,Chalet,Lugar las Caldas,450.0,4,375000
 Principado de Asturias,Asturias,Chalet,Lugar Torre,11000.0,4,375000
-Principado de Asturias,Asturias,Chalet,Llanes,43.0,1,375000
+Principado de Asturias,Asturias,Chalet,Llanes,49.0,1,375000
 Principado de Asturias,Asturias,Chalet,Pravia,4326.0,3,375000
 Principado de Asturias,Asturias,Chalet,Calduenin,240.0,4,375000
-Principado de Asturias,Asturias,Chalet,Urogallo 5,129.0,4,375000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,96.0,3,375000
+Principado de Asturias,Asturias,Chalet,Urogallo 5,130.0,4,375000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,99.0,3,375000
 Principado de Asturias,Asturias,Chalet,Caldueno s/n,240.0,4,375000
 Principado de Asturias,Asturias,Chalet,Calle de la Ferreria,200.0,6,375000
-Principado de Asturias,Asturias,Casa Rural,LUGAR PRUVIA DE ARRIBA 117,130.0,4,375000
-Principado de Asturias,Asturias,Chalet,Urogallo 5,186.0,5,375000
-Principado de Asturias,Asturias,Chalet,Lugar Coballes 21,98.0,3,375000
+Principado de Asturias,Asturias,Casa Rural,LUGAR PRUVIA DE ARRIBA 117,134.0,4,375000
+Principado de Asturias,Asturias,Chalet,Urogallo 5,197.0,5,375000
+Principado de Asturias,Asturias,Chalet,Lugar Coballes 21,103.0,3,375000
 Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban  21,148.0,4,375000
-Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban  21,97.0,3,375000
+Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban  21,83.0,3,375000
 Principado de Asturias,Asturias,Chalet,Barrio Campiello,2.236,6,375000
 Principado de Asturias,Asturias,Chalet,Lugar las Caldas,450.0,5,375000
 Principado de Asturias,Asturias,Chalet,San Claudio-Trubia-Las Caldas,450.0,5,375000
 Principado de Asturias,Asturias,Chalet,CACES 1,450.0,4,375000
-Principado de Asturias,Asturias,Chalet,Calle Urogallo,182.0,5,375000
+Principado de Asturias,Asturias,Chalet,Calle Urogallo,162.0,5,375000
 Principado de Asturias,Asturias,Chalet,Lugar la Pinera 1,412.0,4,375000
 Principado de Asturias,Asturias,Chalet,Vallin,2400.0,5,375000
 Principado de Asturias,Asturias,Casa Rural,caldueno 1,240.0,4,375000
-Principado de Asturias,Asturias,Chalet,LECENES,656.0,9,375000
+Principado de Asturias,Asturias,Chalet,LECENES,445.0,9,375000
 Principado de Asturias,Asturias,Chalet,San Claudio-Trubia-Las Caldas,198.0,5,375000
 Principado de Asturias,Asturias,Chalet,Lugar Soberron,15000.0,0,375000
-Principado de Asturias,Asturias,Casa Rural,Unnamed Road s/n,335.0,8,375000
+Principado de Asturias,Asturias,Casa Rural,Unnamed Road s/n,388.0,8,375000
 Principado de Asturias,Asturias,Chalet,VERDICIO s/n CRRTGENERAL,2.5,6,375000
 Principado de Asturias,Asturias,Chalet,Olivares 10,123.0,4,375000
-Principado de Asturias,Asturias,Chalet,ferreirameon,191.0,5,375000
+Principado de Asturias,Asturias,Chalet,ferreirameon,166.0,5,375000
 Principado de Asturias,Asturias,Chalet,Caserio Rienda,1.5,5,375000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 4,118.0,3,375000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 4,87.0,3,375000
 Principado de Asturias,Asturias,Chalet,Lugar Torre 22,199.0,4,375000
-Principado de Asturias,Asturias,Piso,Calle Covadonga 20,102.0,3,374340
+Principado de Asturias,Asturias,Piso,Calle Covadonga 20,89.0,3,374340
 Principado de Asturias,Asturias,Chalet,AS-371 4,178.0,3,374000
 Principado de Asturias,Asturias,Chalet,barrio La Pedrera - Leorio - Huerces - Ruedes,1.76,4,374000
 Principado de Asturias,Asturias,Atico,Calle Manuel Junquera,200.0,3,370000
-Principado de Asturias,Asturias,Chalet,CASERIO LAS CAMPAS,109.0,3,370000
-Principado de Asturias,Asturias,Piso,Calle Uria 54,184.0,5,370000
+Principado de Asturias,Asturias,Chalet,CASERIO LAS CAMPAS,103.0,3,370000
+Principado de Asturias,Asturias,Piso,Calle Uria 54,161.0,5,370000
 Principado de Asturias,Asturias,Atico,Calle Manuel Junquera,200.0,3,370000
-Principado de Asturias,Asturias,Chalet,Lugar San Lazaro de Paniceres,159.0,4,370000
+Principado de Asturias,Asturias,Chalet,Lugar San Lazaro de Paniceres,134.0,4,370000
 Principado de Asturias,Asturias,Chalet,Calle Urogallo,297.0,5,370000
 Principado de Asturias,Asturias,Chalet,Calle la Vega,450.0,8,370000
-Principado de Asturias,Asturias,Chalet,Poo 249 -247,82.0,3,370000
-Principado de Asturias,Asturias,Chalet,Calle la Vega 44,328.0,8,370000
+Principado de Asturias,Asturias,Chalet,Poo 249 -247,94.0,3,370000
+Principado de Asturias,Asturias,Chalet,Calle la Vega 44,308.0,8,370000
 Principado de Asturias,Asturias,Duplex,Los Avellanos,120.0,3,370000
 Principado de Asturias,Asturias,Chalet,SI-8,394.0,7,370000
-Principado de Asturias,Asturias,Chalet,Urbanizacion Los Ablanos 18,252.0,7,370000
-Principado de Asturias,Asturias,Piso,Calle Aguado 18,103.0,3,370000
+Principado de Asturias,Asturias,Chalet,Urbanizacion Los Ablanos 18,280.0,7,370000
+Principado de Asturias,Asturias,Piso,Calle Aguado 18,119.0,3,370000
 Principado de Asturias,Asturias,Piso,Calle Uria,35.0,5,370000
 Principado de Asturias,Asturias,Chalet,La Granda 25,400.0,4,370000
 Principado de Asturias,Asturias,Atico,Calle Manuel Junquera,200.0,3,370000
-Principado de Asturias,Asturias,Chalet,Caserio las Campas,126.0,4,370000
+Principado de Asturias,Asturias,Chalet,Caserio las Campas,122.0,4,370000
 Principado de Asturias,Asturias,Piso,Manuel Junquera,200.0,3,370000
-Principado de Asturias,Asturias,Chalet,Caserio Penedo 8 A,230.0,6,370000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,110.0,3,370000
-Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,106.0,3,370000
-Principado de Asturias,Asturias,Atico,MANUEL JUNQUERA,107.0,3,370000
+Principado de Asturias,Asturias,Chalet,Caserio Penedo 8 A,237.0,6,370000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,91.0,3,370000
+Principado de Asturias,Asturias,Piso,Calle Hermanos Felgueroso 14,104.0,3,370000
+Principado de Asturias,Asturias,Atico,MANUEL JUNQUERA,100.0,3,370000
 Principado de Asturias,Asturias,Piso,Calle Manuel Junquera,200.0,3,370000
-Principado de Asturias,Asturias,Chalet,Carreno,278.0,7,370000
+Principado de Asturias,Asturias,Chalet,Carreno,277.0,7,370000
 Principado de Asturias,Asturias,Chalet,Carreno,350.0,4,370000
 Principado de Asturias,Asturias,Chalet,Avenida DE LA CAMOCHA,18.0,4,370000
-Principado de Asturias,Asturias,Chalet,LAS CAMPAS,120.0,3,370000
-Principado de Asturias,Asturias,Piso,Conde Toreno,91.0,3,370000
+Principado de Asturias,Asturias,Chalet,LAS CAMPAS,90.0,3,370000
+Principado de Asturias,Asturias,Piso,Conde Toreno,114.0,3,370000
 Principado de Asturias,Asturias,Chalet,barrio Somio,800.0,3,370000
-Principado de Asturias,Asturias,Atico,barrio El Coto,88.0,3,370000
+Principado de Asturias,Asturias,Atico,barrio El Coto,117.0,3,370000
 Principado de Asturias,Asturias,Chalet,Camin de la Bonagua 5,280.0,6,370000
 Principado de Asturias,Asturias,Atico,barrio Colloto,60.0,4,370000
 Principado de Asturias,Asturias,Atico,barrio Colloto,70.0,4,370000
-Principado de Asturias,Asturias,Chalet,Calle Urogallo 5,178.0,5,370000
-Principado de Asturias,Asturias,Chalet,Calle de la Vega 44,293.0,7,370000
-Principado de Asturias,Asturias,Atico,Calle manuel junquera 35,107.0,3,370000
-Principado de Asturias,Asturias,Atico,barrio Ciudad Naranco-Prados de La Fuente,93.0,3,370000
+Principado de Asturias,Asturias,Chalet,Calle Urogallo 5,176.0,5,370000
+Principado de Asturias,Asturias,Chalet,Calle de la Vega 44,259.0,7,370000
+Principado de Asturias,Asturias,Atico,Calle manuel junquera 35,85.0,3,370000
+Principado de Asturias,Asturias,Atico,barrio Ciudad Naranco-Prados de La Fuente,107.0,3,370000
 Principado de Asturias,Asturias,Chalet,Navia,98.0,9,370000
-Principado de Asturias,Asturias,Duplex,Calle Juan Botas Roldan 1,125.0,4,370000
-Principado de Asturias,Asturias,Chalet,barrio El Cristo,159.0,4,369900
-Principado de Asturias,Asturias,Piso,Calle Cervantes,136.0,4,369000
-Principado de Asturias,Asturias,Chalet,Calle de Victor Saenz,102.0,3,369000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,126.0,4,369000
-Principado de Asturias,Asturias,Piso,Calle Cervantes,156.0,4,369000
+Principado de Asturias,Asturias,Duplex,Calle Juan Botas Roldan 1,146.0,4,370000
+Principado de Asturias,Asturias,Chalet,barrio El Cristo,153.0,4,369900
+Principado de Asturias,Asturias,Piso,Calle Cervantes,122.0,4,369000
+Principado de Asturias,Asturias,Chalet,Calle de Victor Saenz,82.0,3,369000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,123.0,4,369000
+Principado de Asturias,Asturias,Piso,Calle Cervantes,159.0,4,369000
 Principado de Asturias,Asturias,Piso,Calle Posada Herrera,160.0,3,369000
-Principado de Asturias,Asturias,Chalet,barrio Olivares,161.0,5,369000
+Principado de Asturias,Asturias,Chalet,barrio Olivares,177.0,5,369000
 Principado de Asturias,Asturias,Casa Rural,AS-322 15,10.0,4,366900
 Principado de Asturias,Asturias,Piso,Calle Matematico Pedrayes 6,160.0,5,366000
 Principado de Asturias,Asturias,Piso,Calle Cervantes 11,217.0,5,365200
-Principado de Asturias,Asturias,Piso,Cervantes 11,142.0,4,365200
-Principado de Asturias,Asturias,Piso,barrio Plaza de America,100.0,3,365200
+Principado de Asturias,Asturias,Piso,Cervantes 11,122.0,4,365200
+Principado de Asturias,Asturias,Piso,barrio Plaza de America,99.0,3,365200
 Principado de Asturias,Asturias,Piso,Calle Donato Arguelles 9,133.0,3,365000
-Principado de Asturias,Asturias,Duplex,Calle Lola Mateos,156.0,4,365000
+Principado de Asturias,Asturias,Duplex,Calle Lola Mateos,122.0,4,365000
 Principado de Asturias,Asturias,Chalet,Calle Santullano,500.0,5,365000
-Principado de Asturias,Asturias,Piso,Calle Marques de Arguelles 25 -23,82.0,3,365000
-Principado de Asturias,Asturias,Atico,Calle San Avelino 2,68.0,2,365000
+Principado de Asturias,Asturias,Piso,Calle Marques de Arguelles 25 -23,89.0,3,365000
+Principado de Asturias,Asturias,Atico,Calle San Avelino 2,66.0,2,365000
 Principado de Asturias,Asturias,Chalet,Via,286.0,7,365000
-Principado de Asturias,Asturias,Piso,Avenida de la Cueva de Tito Bustillo,92.0,3,365000
+Principado de Asturias,Asturias,Piso,Avenida de la Cueva de Tito Bustillo,99.0,3,365000
 Principado de Asturias,Asturias,Duplex,Calle Lola Mateos,175.0,5,365000
 Principado de Asturias,Asturias,Chalet,Lugar Santo Medero,300.0,6,365000
-Principado de Asturias,Asturias,Piso,barrio El Natahoyo,147.0,4,365000
+Principado de Asturias,Asturias,Piso,barrio El Natahoyo,130.0,4,365000
 Principado de Asturias,Asturias,Chalet,Cudillero,400.0,5,365000
 Principado de Asturias,Asturias,Chalet,LA FERRERIA s/n,1000.0,4,365000
 Principado de Asturias,Asturias,Chalet,Lugar Folgueras 44  A,6200.0,4,365000
-Principado de Asturias,Asturias,Piso,Calle SANTA TERESA DE JESUS,117.0,3,365000
-Principado de Asturias,Asturias,Duplex,Calle Cienfuegos 19,240.0,6,365000
-Principado de Asturias,Asturias,Chalet,ubanizacion playa Xivares 10,120.0,3,365000
+Principado de Asturias,Asturias,Piso,Calle SANTA TERESA DE JESUS,114.0,3,365000
+Principado de Asturias,Asturias,Duplex,Calle Cienfuegos 19,245.0,6,365000
+Principado de Asturias,Asturias,Chalet,ubanizacion playa Xivares 10,96.0,3,365000
 Principado de Asturias,Asturias,Atico,Calle Lola Mateos 22,70.0,5,365000
 Principado de Asturias,Asturias,Duplex,Calle Lola Mateos,175.0,5,365000
-Principado de Asturias,Asturias,Piso,Calle Dionisio Ridruejo,111.0,3,365000
-Principado de Asturias,Asturias,Duplex,Calle Marcos Pena Royo,160.0,5,365000
+Principado de Asturias,Asturias,Piso,Calle Dionisio Ridruejo,81.0,3,365000
+Principado de Asturias,Asturias,Duplex,Calle Marcos Pena Royo,165.0,5,365000
 Principado de Asturias,Asturias,Chalet,Lugar Santullano,300.0,6,365000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,70.0,4,365000
 Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,140.0,2,365000
-Principado de Asturias,Asturias,Chalet,Lugar Santianes 122,147.0,4,365000
-Principado de Asturias,Asturias,Chalet,Viella-Granda-Meres,130.0,4,365000
-Principado de Asturias,Asturias,Piso,Calle calvario 2,89.0,3,365000
-Principado de Asturias,Asturias,Piso,Calle Posada Herrera,84.0,3,364900
-Principado de Asturias,Asturias,Piso,Calle Posada Herrera,85.0,3,364900
-Principado de Asturias,Asturias,Chalet,Llanera,87.0,3,363000
-Principado de Asturias,Asturias,Chalet,Calle los Cedros 3,81.0,3,363000
-Principado de Asturias,Asturias,Piso,Avenida del Llano,148.0,4,362000
+Principado de Asturias,Asturias,Chalet,Lugar Santianes 122,139.0,4,365000
+Principado de Asturias,Asturias,Chalet,Viella-Granda-Meres,121.0,4,365000
+Principado de Asturias,Asturias,Piso,Calle calvario 2,103.0,3,365000
+Principado de Asturias,Asturias,Piso,Calle Posada Herrera,103.0,3,364900
+Principado de Asturias,Asturias,Piso,Calle Posada Herrera,87.0,3,364900
+Principado de Asturias,Asturias,Chalet,Llanera,94.0,3,363000
+Principado de Asturias,Asturias,Chalet,Calle los Cedros 3,108.0,3,363000
+Principado de Asturias,Asturias,Piso,Avenida del Llano,142.0,4,362000
 Principado de Asturias,Asturias,Chalet,Calle San Avelino 1,10.0,3,360607
-Principado de Asturias,Asturias,Chalet,El Campo 15,92.0,3,360500
-Principado de Asturias,Asturias,Piso,Calle San Bernardo 41,149.0,4,360000
+Principado de Asturias,Asturias,Chalet,El Campo 15,113.0,3,360500
+Principado de Asturias,Asturias,Piso,Calle San Bernardo 41,130.0,4,360000
 Principado de Asturias,Asturias,Atico,Calle Marques de Pidal,35.0,3,360000
-Principado de Asturias,Asturias,Piso,Calle Marques de Casa Valdes 15,131.0,4,360000
+Principado de Asturias,Asturias,Piso,Calle Marques de Casa Valdes 15,139.0,4,360000
 Principado de Asturias,Asturias,Piso,Calle Menendez Valdes 36,133.0,4,360000
-Principado de Asturias,Asturias,Atico,Calle Poetas Gamoneda,101.0,3,360000
+Principado de Asturias,Asturias,Atico,Calle Poetas Gamoneda,80.0,3,360000
 Principado de Asturias,Asturias,Chalet,CAMPANONES,55.0,4,360000
 Principado de Asturias,Asturias,Piso,Soledad,195.0,3,360000
 Principado de Asturias,Asturias,Chalet,Juan Sin Tierra,300.0,5,360000
 Principado de Asturias,Asturias,Piso,Calle Perez de la Sala,171.0,4,360000
 Principado de Asturias,Asturias,Atico,barrio Parque San Francisco-Uria,110.0,3,360000
 Principado de Asturias,Asturias,Chalet,Pueblo s/n,7.0,3,360000
-Principado de Asturias,Asturias,Chalet,Calle Acebo 104,146.0,4,360000
+Principado de Asturias,Asturias,Chalet,Calle Acebo 104,155.0,4,360000
 Principado de Asturias,Asturias,Piso,Plaza de la Soledad,195.0,3,360000
-Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban,151.0,4,360000
-Principado de Asturias,Asturias,Piso,Avenida Galicia 13,160.0,4,360000
-Principado de Asturias,Asturias,Chalet,Lugar Obiu,114.0,3,360000
+Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban,157.0,4,360000
+Principado de Asturias,Asturias,Piso,Avenida Galicia 13,144.0,4,360000
+Principado de Asturias,Asturias,Chalet,Lugar Obiu,110.0,3,360000
 Principado de Asturias,Asturias,Duplex,Calle Santa Lucia 8 -14,30.0,3,360000
-Principado de Asturias,Asturias,Chalet,Lugar Novellana,129.0,4,360000
-Principado de Asturias,Asturias,Chalet,Av. del Jardin Botanico,127.0,4,360000
-Principado de Asturias,Asturias,Chalet,Avenida de la Camocha 179,159.0,4,360000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,136.0,4,360000
-Principado de Asturias,Asturias,Atico,Llanes,156.0,4,360000
-Principado de Asturias,Asturias,Chalet,El Franco,160.0,4,360000
+Principado de Asturias,Asturias,Chalet,Lugar Novellana,121.0,4,360000
+Principado de Asturias,Asturias,Chalet,Av. del Jardin Botanico,142.0,4,360000
+Principado de Asturias,Asturias,Chalet,Avenida de la Camocha 179,160.0,4,360000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,133.0,4,360000
+Principado de Asturias,Asturias,Atico,Llanes,137.0,4,360000
+Principado de Asturias,Asturias,Chalet,El Franco,152.0,4,360000
 Principado de Asturias,Asturias,Chalet,Faro s/n sn,2600.0,5,360000
 Principado de Asturias,Asturias,Chalet,Villaviciosa,71.0,3,360000
 Principado de Asturias,Asturias,Chalet,Quintes - Arroes,240.0,4,360000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,86.0,3,360000
-Principado de Asturias,Asturias,Atico,Avenida del Mar Cantabrico,88.0,3,360000
-Principado de Asturias,Asturias,Piso,CONDE TORENO,81.0,3,360000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,102.0,3,360000
+Principado de Asturias,Asturias,Atico,Avenida del Mar Cantabrico,120.0,3,360000
+Principado de Asturias,Asturias,Piso,CONDE TORENO,114.0,3,360000
 Principado de Asturias,Asturias,Chalet,Caserio Arganoso,112.0,3,360000
-Principado de Asturias,Asturias,Piso,Avenida de Galicia,123.0,4,360000
+Principado de Asturias,Asturias,Piso,Avenida de Galicia,124.0,4,360000
 Principado de Asturias,Asturias,Chalet,Calle Marcelino Fernandez 6,363.0,6,360000
 Principado de Asturias,Asturias,Casa Rural,la caleyona 53,50.0,5,360000
-Principado de Asturias,Asturias,Chalet,ribadesella,61.0,2,360000
+Principado de Asturias,Asturias,Chalet,ribadesella,80.0,2,360000
 Principado de Asturias,Asturias,Chalet,Caserio Silva s/n,21.0,3,360000
 Principado de Asturias,Asturias,Chalet,Corvera de Asturias,175.0,4,360000
 Principado de Asturias,Asturias,Chalet,Calle Fuente el Espino 31,230.0,2,360000
-Principado de Asturias,Asturias,Piso,CONDE TORENO,93.0,3,360000
-Principado de Asturias,Asturias,Chalet,martimporras,224.0,6,360000
+Principado de Asturias,Asturias,Piso,CONDE TORENO,115.0,3,360000
+Principado de Asturias,Asturias,Chalet,martimporras,200.0,6,360000
 Principado de Asturias,Asturias,Chalet,Avenida del Jardin Botanico s/n,25.0,4,360000
 Principado de Asturias,Asturias,Chalet,Caserio Silva,1.5,3,360000
-Principado de Asturias,Asturias,Chalet,barrio Buenavista,219.0,6,360000
-Principado de Asturias,Asturias,Piso,Calle Poetas Gamoneda,104.0,3,360000
-Principado de Asturias,Asturias,Chalet,Ceano Vivas 2,205.0,6,360000
+Principado de Asturias,Asturias,Chalet,barrio Buenavista,230.0,6,360000
+Principado de Asturias,Asturias,Piso,Calle Poetas Gamoneda,113.0,3,360000
+Principado de Asturias,Asturias,Chalet,Ceano Vivas 2,206.0,6,360000
 Principado de Asturias,Asturias,Piso,Avenida de Galicia,135.0,4,360000
 Principado de Asturias,Asturias,Chalet,Lugar Urb Xivares 323 A,165.0,3,360000
 Principado de Asturias,Asturias,Chalet,Lugar Villahormes,1700.0,3,360000
 Principado de Asturias,Asturias,Chalet,Tazones - Arguero,1506.0,3,360000
-Principado de Asturias,Asturias,Duplex,barrio Centro - Puerto,110.0,3,360000
-Principado de Asturias,Asturias,Duplex,Calle santa lucia 1,87.0,3,360000
+Principado de Asturias,Asturias,Duplex,barrio Centro - Puerto,119.0,3,360000
+Principado de Asturias,Asturias,Duplex,Calle santa lucia 1,119.0,3,360000
 Principado de Asturias,Asturias,Chalet,Camino La Aguilera 18,230.0,5,360000
-Principado de Asturias,Asturias,Chalet,Nueva de Llanes 4,129.0,4,360000
-Principado de Asturias,Asturias,Piso,Plaza de la Puerta de Europa,87.0,3,360000
-Principado de Asturias,Asturias,Atico,Avenida Mar Cantabrico 16,106.0,3,360000
-Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,63.0,2,360000
-Principado de Asturias,Asturias,Chalet,Carretera Cangas de Onis 1,83.0,3,360000
-Principado de Asturias,Asturias,Piso,Corrida 4,89.0,3,359900
-Principado de Asturias,Asturias,Piso,Calle Cervantes 12,79.0,2,359000
+Principado de Asturias,Asturias,Chalet,Nueva de Llanes 4,138.0,4,360000
+Principado de Asturias,Asturias,Piso,Plaza de la Puerta de Europa,92.0,3,360000
+Principado de Asturias,Asturias,Atico,Avenida Mar Cantabrico 16,90.0,3,360000
+Principado de Asturias,Asturias,Piso,barrio Salesas-Foncalada-Campoamor,70.0,2,360000
+Principado de Asturias,Asturias,Chalet,Carretera Cangas de Onis 1,117.0,3,360000
+Principado de Asturias,Asturias,Piso,Corrida 4,100.0,3,359900
+Principado de Asturias,Asturias,Piso,Calle Cervantes 12,74.0,2,359000
 Principado de Asturias,Asturias,Chalet,Lugar Prieres 101,328.0,8,359000
 Principado de Asturias,Asturias,Piso,Calle del Concejo de Teverga 12,56.0,3,358000
 Principado de Asturias,Asturias,Chalet,Candamo,624.0,6,357000
 Principado de Asturias,Asturias,Casa Rural,CASERIO VILLANUEVA 13,269.0,4,355000
 Principado de Asturias,Asturias,Chalet,Quintes - Arroes,1.46,5,355000
-Principado de Asturias,Asturias,Chalet,Calle Jovellanos 14,266.0,7,355000
-Principado de Asturias,Asturias,Chalet,Cuesta de Olivares,182.0,5,355000
-Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,172.0,5,355000
-Principado de Asturias,Asturias,Chalet,Via 18,194.0,5,355000
+Principado de Asturias,Asturias,Chalet,Calle Jovellanos 14,268.0,7,355000
+Principado de Asturias,Asturias,Chalet,Cuesta de Olivares,160.0,5,355000
+Principado de Asturias,Asturias,Chalet,Parroquias Norte-Naranco,186.0,5,355000
+Principado de Asturias,Asturias,Chalet,Via 18,178.0,5,355000
 Principado de Asturias,Asturias,Chalet,Lugar Olivares 43 D,255.0,5,355000
-Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto 11,102.0,3,355000
+Principado de Asturias,Asturias,Piso,Plaza Seis de Agosto 11,115.0,3,355000
 Principado de Asturias,Asturias,Chalet,Carretera DE CARENES,360.0,5,355000
-Principado de Asturias,Asturias,Chalet,El Retorno,180.0,5,355000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,93.0,3,355000
+Principado de Asturias,Asturias,Chalet,El Retorno,166.0,5,355000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,94.0,3,355000
 Principado de Asturias,Asturias,Casa Rural,La Borbolla s/n,4.0,5,355000
 Principado de Asturias,Asturias,Chalet,Calle Villademar 176 A,1.6,3,355000
-Principado de Asturias,Asturias,Chalet,Calle Casto Plasencia,96.0,3,355000
-Principado de Asturias,Asturias,Piso,Calle Arquitecto Reguera,122.0,4,355000
-Principado de Asturias,Asturias,Piso,Plaza de la Puerta de Europa,111.0,3,355000
-Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban,116.0,3,353000
+Principado de Asturias,Asturias,Chalet,Calle Casto Plasencia,85.0,3,355000
+Principado de Asturias,Asturias,Piso,Calle Arquitecto Reguera,157.0,4,355000
+Principado de Asturias,Asturias,Piso,Plaza de la Puerta de Europa,80.0,3,355000
+Principado de Asturias,Asturias,Piso,Calle Marques de San Esteban,88.0,3,353000
 Principado de Asturias,Asturias,Chalet,Tabladiello 18,138.56,3,353000
-Principado de Asturias,Asturias,Piso,Calle General Elorza  67,100.0,3,351000
+Principado de Asturias,Asturias,Piso,Calle General Elorza  67,116.0,3,351000
 Principado de Asturias,Asturias,Chalet,Castropol,230.0,6,351000
 Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo,240.0,4,350000
 Principado de Asturias,Asturias,Chalet,Camino De La Parra,108.0,3,350000
-Principado de Asturias,Asturias,Duplex,Calle Pidal 11,147.0,4,350000
+Principado de Asturias,Asturias,Duplex,Calle Pidal 11,129.0,4,350000
 Principado de Asturias,Asturias,Casa Rural,Ribadesella,100.0,7,350000
-Principado de Asturias,Asturias,Piso,Calle Uria 43,250.0,6,350000
-Principado de Asturias,Asturias,Chalet,Calle Luis Suarez Ximielga,195.0,5,350000
+Principado de Asturias,Asturias,Piso,Calle Uria 43,218.0,6,350000
+Principado de Asturias,Asturias,Chalet,Calle Luis Suarez Ximielga,181.0,5,350000
 Principado de Asturias,Asturias,Chalet,Caserio Arquera 184,700.0,5,350000
 Principado de Asturias,Asturias,Chalet,Aldea Portiella,5.0,4,350000
 Principado de Asturias,Asturias,Chalet,Lugar Camango,174.0,7,350000
-Principado de Asturias,Asturias,Piso,Calle Uria 64,75.0,2,350000
+Principado de Asturias,Asturias,Piso,Calle Uria 64,62.0,2,350000
 Principado de Asturias,Asturias,Chalet,Lugar Camango,100.0,7,350000
-Principado de Asturias,Asturias,Chalet,629291863,107.0,350000,Barrio Montiana
+Principado de Asturias,Asturias,Chalet,629291863,107.0,350000,0
 Principado de Asturias,Asturias,Chalet,Camino de la Frontera 275,2.0,3,350000
-Principado de Asturias,Asturias,l',919389411,518.0,9,Aldea Azorera
+Principado de Asturias,Asturias,l',919389411,50.0,1,0
 Principado de Asturias,Asturias,Casa Rural,Camino Perecil 22,1945.0,9,350000
-Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo 8,158.0,4,350000
-Principado de Asturias,Asturias,Duplex,Calle Pidal 11,122.0,4,350000
-Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,114.0,3,350000
+Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo 8,147.0,4,350000
+Principado de Asturias,Asturias,Duplex,Calle Pidal 11,146.0,4,350000
+Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,119.0,3,350000
 Principado de Asturias,Asturias,Chalet,Lugar Branes,236.0,6,350000
-Principado de Asturias,Asturias,Chalet,AS-II,232.0,6,350000
-Principado de Asturias,Asturias,Chalet,Barrio Casas del Monte,186.0,5,350000
+Principado de Asturias,Asturias,Chalet,AS-II,212.0,6,350000
+Principado de Asturias,Asturias,Chalet,Barrio Casas del Monte,162.0,5,350000
 Principado de Asturias,Asturias,Chalet,La Arganosa 1,12.0,4,350000
 Principado de Asturias,Asturias,Piso,Calle Gonzalez del Valle s/n,142.0,4,350000
-Principado de Asturias,Asturias,Chalet,Calle Carrion,81.0,3,350000
+Principado de Asturias,Asturias,Chalet,Calle Carrion,93.0,3,350000
 Principado de Asturias,Asturias,Duplex,Calle Cabrunana,130.0,4,350000
 Principado de Asturias,Asturias,Chalet,Somata 20,1.2,3,350000
 Principado de Asturias,Asturias,Chalet,La Sablera,3.0,3,350000
-Principado de Asturias,Asturias,Duplex,Calle Pidal,160.0,4,350000
+Principado de Asturias,Asturias,Duplex,Calle Pidal,124.0,4,350000
 Principado de Asturias,Asturias,Chalet,La Pesa,1880.0,8,350000
 Principado de Asturias,Asturias,Piso,Avenida de Galicia 3,171.0,5,350000
-Principado de Asturias,Asturias,Chalet,Castropol,159.0,4,350000
+Principado de Asturias,Asturias,Chalet,Castropol,145.0,4,350000
 Principado de Asturias,Asturias,Chalet,Lugar Escamplero 13 A,700.0,5,350000
 Principado de Asturias,Asturias,Atico,Calle Real Oviedo 4,40.0,3,350000
-Principado de Asturias,Asturias,Chalet,La Fresneda,113.0,3,350000
+Principado de Asturias,Asturias,Chalet,La Fresneda,88.0,3,350000
 Principado de Asturias,Asturias,Atico,Paseo de la Florida 50,75.0,3,350000
 Principado de Asturias,Asturias,Chalet,El Franco,800.0,7,350000
-Principado de Asturias,Asturias,Piso,Calle Cardenal Cienfuegos 2,97.0,3,350000
+Principado de Asturias,Asturias,Piso,Calle Cardenal Cienfuegos 2,101.0,3,350000
 Principado de Asturias,Asturias,Piso,Calle Cabrunana,130.0,4,350000
 Principado de Asturias,Asturias,Chalet,Novellana,100.0,3,350000
 Principado de Asturias,Asturias,Chalet,La ferreria s/n,40.0,4,350000
-Principado de Asturias,Asturias,Piso,Calle Uria,209.0,6,350000
+Principado de Asturias,Asturias,Piso,Calle Uria,203.0,6,350000
 Principado de Asturias,Asturias,Piso,Carretera de Toro,97.0,3,350000
-Principado de Asturias,Asturias,Chalet,Calle Emigrante 12,694.0,9,350000
+Principado de Asturias,Asturias,Chalet,Calle Emigrante 12,538.0,9,350000
 Principado de Asturias,Asturias,Chalet,La Pesa,1800.0,8,350000
 Principado de Asturias,Asturias,Chalet,La Sablera,3800.0,5,350000
-Principado de Asturias,Asturias,Chalet,Lugar Valmori,232.0,6,350000
-Principado de Asturias,Asturias,Chalet,Llanes,167.0,5,350000
+Principado de Asturias,Asturias,Chalet,Lugar Valmori,209.0,6,350000
+Principado de Asturias,Asturias,Chalet,Llanes,189.0,5,350000
 Principado de Asturias,Asturias,Piso,Avenida AVENIDA DE LA CONCEPCION s/n,61.0,2,350000
-Principado de Asturias,Asturias,Piso,Calle Cervantes 27,93.0,3,350000
-Principado de Asturias,Asturias,Chalet,N-634 Granda 6,148.0,4,350000
-Principado de Asturias,Asturias,Chalet,Rosario 2,112.0,3,350000
-Principado de Asturias,Asturias,Chalet,Via Cardoso s/n,82.0,3,350000
-Principado de Asturias,Asturias,Casa Rural,Vibana-Ardisana-Caldueno,191.0,5,350000
+Principado de Asturias,Asturias,Piso,Calle Cervantes 27,81.0,3,350000
+Principado de Asturias,Asturias,Chalet,N-634 Granda 6,124.0,4,350000
+Principado de Asturias,Asturias,Chalet,Rosario 2,110.0,3,350000
+Principado de Asturias,Asturias,Chalet,Via Cardoso s/n,87.0,3,350000
+Principado de Asturias,Asturias,Casa Rural,Vibana-Ardisana-Caldueno,196.0,5,350000
 Principado de Asturias,Asturias,Chalet,Carretera Cardoso s/n,170.0,3,350000
-Principado de Asturias,Asturias,Chalet,Lugar Murias 67,519.0,11,350000
+Principado de Asturias,Asturias,Chalet,Lugar Murias 67,452.0,11,350000
 Principado de Asturias,Asturias,Chalet,N-632,10.0,4,350000
 Principado de Asturias,Asturias,Chalet,Lugar Forfontia 33,8.0,3,350000
-Principado de Asturias,Asturias,Chalet,AS-379,99.0,3,350000
-Principado de Asturias,Asturias,Casa Rural,Camango 10,299.0,7,350000
-Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,86.0,3,350000
+Principado de Asturias,Asturias,Chalet,AS-379,109.0,3,350000
+Principado de Asturias,Asturias,Casa Rural,Camango 10,251.0,7,350000
+Principado de Asturias,Asturias,Piso,Calle Alcalde Luis Treillard,107.0,3,350000
 Principado de Asturias,Asturias,Piso,Calle Gonzalez Abarca 18,293.0,5,350000
 Principado de Asturias,Asturias,Chalet,Barrio Garita 6 A,53000.0,4,350000
 Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo,265.0,4,350000
 Principado de Asturias,Asturias,Chalet,Valdedios s/n,5000.0,5,350000
 Principado de Asturias,Asturias,Chalet,Barrio Linares,75.0,2,350000
-Principado de Asturias,Asturias,Casa Rural,TANES 82,229.0,6,350000
-Principado de Asturias,Asturias,Chalet,lazana,164.0,5,350000
-Principado de Asturias,Asturias,Chalet,belmonte,223.0,6,350000
-Principado de Asturias,Asturias,Chalet,Camino de la Ferreria,130.0,4,350000
+Principado de Asturias,Asturias,Casa Rural,TANES 82,201.0,6,350000
+Principado de Asturias,Asturias,Chalet,lazana,165.0,5,350000
+Principado de Asturias,Asturias,Chalet,belmonte,242.0,6,350000
+Principado de Asturias,Asturias,Chalet,Camino de la Ferreria,125.0,4,350000
 Principado de Asturias,Asturias,Chalet,Avenida Fernandez Castro,424.0,5,350000
-Principado de Asturias,Asturias,,881350396,426.0,9,cudillero
-Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,80.0,3,350000
+Principado de Asturias,Asturias,,881350396,59.0,1,0
+Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,96.0,3,350000
 Principado de Asturias,Asturias,Chalet,Lugar Cuadrovena 46,5000.0,5,350000
 Principado de Asturias,Asturias,Chalet,Jardin de Cantos - El Nodo,3.275,3,350000
 Principado de Asturias,Asturias,Chalet,Lugar las Vallinas 69,200.0,4,350000
-Principado de Asturias,Asturias,Duplex,barrio Salesas-Foncalada-Campoamor,111.0,3,350000
+Principado de Asturias,Asturias,Duplex,barrio Salesas-Foncalada-Campoamor,99.0,3,350000
 Principado de Asturias,Asturias,Chalet,Corvera de Asturias,50.0,5,350000
-Principado de Asturias,Asturias,Piso,barrio Fontan,79.0,2,350000
-Principado de Asturias,Asturias,Chalet,Aller,436.0,11,350000
+Principado de Asturias,Asturias,Piso,barrio Fontan,62.0,2,350000
+Principado de Asturias,Asturias,Chalet,Aller,472.0,11,350000
 Principado de Asturias,Asturias,Chalet,Posada-Barro,48.0,6,350000
 Principado de Asturias,Asturias,Chalet,Cudillero,40.0,4,350000
 Principado de Asturias,Asturias,Chalet,Calle Bernardo Alvarez Galan,10.0,2,350000
-Principado de Asturias,Asturias,Chalet,Calle Juan Antonio Bravo 10,210.0,6,350000
-Principado de Asturias,Asturias,Chalet,Calle Camango s/n,94.0,3,350000
+Principado de Asturias,Asturias,Chalet,Calle Juan Antonio Bravo 10,215.0,6,350000
+Principado de Asturias,Asturias,Chalet,Calle Camango s/n,98.0,3,350000
 Principado de Asturias,Asturias,Chalet,AS-234 16 N,140.0,6,350000
-Principado de Asturias,Asturias,Chalet,Caserio Caleyon 121 A,233.0,6,350000
-Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,97.0,3,350000
-Principado de Asturias,Asturias,Casa Rural,Pravia,133.0,4,350000
+Principado de Asturias,Asturias,Chalet,Caserio Caleyon 121 A,204.0,6,350000
+Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,83.0,3,350000
+Principado de Asturias,Asturias,Casa Rural,Pravia,155.0,4,350000
 Principado de Asturias,Asturias,Chalet,Tapia de Casariego,882.0,5,350000
-Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,111.0,3,350000
+Principado de Asturias,Asturias,Chalet,Celorio-Poo-Parres,82.0,3,350000
 Principado de Asturias,Asturias,Chalet,Camino de la Parra 4,22.0,4,350000
-Principado de Asturias,Asturias,Chalet,Serantes 1,239.0,6,350000
-Principado de Asturias,Asturias,Chalet,Calle Celso Amieva 2,162.0,5,350000
-Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo 10,124.0,4,350000
-Principado de Asturias,Asturias,Piso,Avenida de las Gaviotas 3,70.0,2,350000
+Principado de Asturias,Asturias,Chalet,Serantes 1,238.0,6,350000
+Principado de Asturias,Asturias,Chalet,Calle Celso Amieva 2,197.0,5,350000
+Principado de Asturias,Asturias,Piso,Calle Fuertes Acevedo 10,157.0,4,350000
+Principado de Asturias,Asturias,Piso,Avenida de las Gaviotas 3,77.0,2,350000
 Principado de Asturias,Asturias,Chalet,Jazmin 7,45.0,5,350000
-Principado de Asturias,Asturias,Casa Rural,Bances 56,82.0,3,350000
-Principado de Asturias,Asturias,Chalet,Camino de Santiago 104,174.0,5,350000
-Principado de Asturias,Asturias,Chalet,Calle Rio 5,305.0,8,350000
-Principado de Asturias,Asturias,Chalet,el Carbain s/n,199.0,5,350000
-Principado de Asturias,Asturias,Duplex,Calle la Lila,113.0,3,349900
-Principado de Asturias,Asturias,Duplex,Calle la Lila,105.0,3,349900
-Principado de Asturias,Asturias,Piso,Calle Marques de Arguelles 21,78.0,2,349900
-Principado de Asturias,Asturias,Atico,Calle Mariscal Solis  5,150.0,4,349587
-Principado de Asturias,Asturias,Chalet,Los Olivares 15,210.0,6,349500
+Principado de Asturias,Asturias,Casa Rural,Bances 56,95.0,3,350000
+Principado de Asturias,Asturias,Chalet,Camino de Santiago 104,180.0,5,350000
+Principado de Asturias,Asturias,Chalet,Calle Rio 5,373.0,8,350000
+Principado de Asturias,Asturias,Chalet,el Carbain s/n,198.0,5,350000
+Principado de Asturias,Asturias,Duplex,Calle la Lila,84.0,3,349900
+Principado de Asturias,Asturias,Duplex,Calle la Lila,102.0,3,349900
+Principado de Asturias,Asturias,Piso,Calle Marques de Arguelles 21,77.0,2,349900
+Principado de Asturias,Asturias,Atico,Calle Mariscal Solis  5,121.0,4,349587
+Principado de Asturias,Asturias,Chalet,Los Olivares 15,240.0,6,349500
 Principado de Asturias,Asturias,Chalet,olivares,194.0,5,349500
-Principado de Asturias,Asturias,Piso,Calle las Mestas 24,88.0,3,349000
+Principado de Asturias,Asturias,Piso,Calle las Mestas 24,94.0,3,349000
 Principado de Asturias,Asturias,Chalet,Lugar Castro 4003 A,20.0,4,349000
 Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,121.0,4,349000
-Principado de Asturias,Asturias,Chalet,Carretera Cue,108.0,3,349000
-Principado de Asturias,Asturias,Piso,Calle Donato Arguelles,88.0,3,349000
+Principado de Asturias,Asturias,Chalet,Carretera Cue,119.0,3,349000
+Principado de Asturias,Asturias,Piso,Calle Donato Arguelles,97.0,3,349000
 Principado de Asturias,Asturias,Piso,Plaza del Humedal,155.0,4,349000
 Principado de Asturias,Asturias,Chalet,Lugar Forfontia 46,1.25,4,349000
-Principado de Asturias,Asturias,Piso,Avenida El Llano,160.0,4,349000
-Principado de Asturias,Asturias,Piso,Avenida del Llano,156.0,4,349000
+Principado de Asturias,Asturias,Piso,Avenida El Llano,151.0,4,349000
+Principado de Asturias,Asturias,Piso,Avenida del Llano,144.0,4,349000

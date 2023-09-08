@@ -1,1800 +1,1801 @@
-C. Autónoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
-Galicia,Ourense,Piso,Calle Pino,110,3,155000
-Galicia,Ourense,Chalet,O Vinteun,220,3,90000
-Galicia,Ourense,Piso,CURROS ENRIQUEZ 18,113,5,170000
-Galicia,Ourense,Piso,Centro,200,4,345000
-Galicia,Ourense,Piso,Centro,130,4,355000
-Galicia,Ourense,Atico,Calle Julio Prieto Nespereira,33,0,60000
-Galicia,Ourense,Piso,Centro,177,3,475000
-Galicia,Ourense,Piso,concordia,128,4,220000
-Galicia,Ourense,Chalet,Barbadas,135,4,235000
-Galicia,Ourense,Piso,Posio,160,5,235000
-Galicia,Ourense,Duplex,San Cibrao das Vinas,118,4,229000
-Galicia,Ourense,Piso,Universidad,69,2,158000
-Galicia,Ourense,Piso,Centro,82,3,285000
-Galicia,Ourense,Chalet,Calle Rampa de Sas,197,5,350000
-Galicia,Ourense,Chalet,Toen,256,3,145000
-Galicia,Ourense,Piso,Calle Bedoya,61,2,123000
-Galicia,Ourense,Piso,Calle Manuel Pereira,106,3,165000
-Galicia,Ourense,Piso,Calle Mercado 44,87,3,40000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,70,2,140000
-Galicia,Ourense,Chalet,Papela -Vilarino,588,6,218000
-Galicia,Ourense,Duplex,Calle do Progreso,102,3,450000
-Galicia,Ourense,Chalet,Cartelle,100,3,70000
-Galicia,Ourense,Piso,Casco Viejo,102,4,125000
-Galicia,Ourense,Chalet,Esgos,199,5,76000
-Galicia,Ourense,Casa Rural,Amoeiro,700,4,219000
-Galicia,Ourense,Piso,A Carballeira,107,3,69000
-Galicia,Ourense,Chalet,Calle de Galicia,405,4,539000
-Galicia,Ourense,Chalet,Calle OUR-CV-401,50,4,199900
-Galicia,Ourense,Piso,Leiro,87,3,83000
-Galicia,Ourense,Chalet,Paderne de Allariz,140,4,190000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,160,3,129000
-Galicia,Ourense,Piso,Calle Melchor de Velasco,73,2,120000
-Galicia,Ourense,Piso,AV Habana 35,139,4,330000
-Galicia,Ourense,Chalet,Marinamansa,195,3,200000
-Galicia,Ourense,Piso,Avenida santiago,100,3,160000
-Galicia,Ourense,Piso,Calle Alexandre Boveda 2,30,4,134000
-Galicia,Ourense,Duplex,Avenida de Celanova,105,3,159900
-Galicia,Ourense,Piso,Calle Fonte Boa,95,3,122000
-Galicia,Ourense,Piso,Avenida de Celanova,88,3,130000
-Galicia,Ourense,Chalet,Plaza O campo,87,3,120000
-Galicia,Ourense,Piso,A Carballeira,81,3,74000
-Galicia,Ourense,Chalet,A Peroxa,477,10,410000
-Galicia,Ourense,Piso,Calle Vicente Risco 54,99,3,160000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,124,4,335000
-Galicia,Ourense,Piso,Calle Florentino Cuevillas,116,3,230000
-Galicia,Ourense,Piso,Avenida da Habana,109,3,350000
-Galicia,Ourense,Piso,Calle Curros Enriquez,121,5,129000
-Galicia,Ourense,Piso,Posio,157,4,123000
-Galicia,Ourense,Piso,Salustiano Munoz,90,3,170000
-Galicia,Ourense,Piso,Universidad,79,2,153000
-Galicia,Ourense,Chalet,Xinzo de Limia,92,3,75000
-Galicia,Ourense,Chalet,Calle Besadas,159,4,192000
-Galicia,Ourense,Chalet,A Carballeira,102,3,145000
-Galicia,Ourense,Piso,Marinamansa,80,3,105000
-Galicia,Ourense,Chalet,Castrelo de Mino,81,3,220000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,820,2,180000
-Galicia,Ourense,Chalet,Taboadela,256,4,270000
-Galicia,Ourense,Piso,Centro,114,4,188000
-Galicia,Ourense,Chalet,Paderne de Allariz,151,4,200000
-Galicia,Ourense,Atico,Calle das Cuartas,80,3,110000
-Galicia,Ourense,Piso,Calle San Paio,68,2,139500
-Galicia,Ourense,Piso,Barbadas,118,3,135000
-Galicia,Ourense,Piso,fleming,87,3,125000
-Galicia,Ourense,Piso,Centro,242,4,570000
-Galicia,Ourense,Piso,Avenida da Habana,109,3,315000
-Galicia,Ourense,Piso,Calle Cruceiro Quebrado,100,3,90000
-Galicia,Ourense,Piso,As Lagunas,157,4,175000
-Galicia,Ourense,Piso,Calle Clara Campoamor,188,5,249000
-Galicia,Ourense,Piso,San Francisco,88,3,97000
-Galicia,Ourense,Chalet,Allariz,1915,3,335000
-Galicia,Ourense,Chalet,OU-1212,93,3,50000
-Galicia,Ourense,Piso,Centro,126,4,155000
-Galicia,Ourense,Piso,Calle do Progreso 41,178,5,349000
-Galicia,Ourense,Piso,Posio,80,2,185000
-Galicia,Ourense,Piso,Centro,186,4,270000
-Galicia,Ourense,Piso,Calle Erbedelo,118,3,95000
-Galicia,Ourense,Piso,O Vinteun,98,3,130000
-Galicia,Ourense,Piso,Quintela - Los Pinos,100,3,117000
-Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,95,3,135000
-Galicia,Ourense,Chalet,Callejon America,142,4,275000
-Galicia,Ourense,Casa Rural,vicente risco 10,220,3,79500
-Galicia,Ourense,Piso,Calle Marcelo Macias,114,3,109000
-Galicia,Ourense,Duplex,Centro,160,4,660000
-Galicia,Ourense,Chalet,Calle do Polvorin s/n,26,10,160000
-Galicia,Ourense,Duplex,Lopez Abente,102,3,245000
-Galicia,Ourense,Chalet,Principal,400,5,700000
-Galicia,Ourense,Piso,Avenida de Zamora,7,2,126000
-Galicia,Ourense,Piso,Avenida de Zamora,78,2,137000
-Galicia,Ourense,Piso,RAMON PUGA,102,3,170000
-Galicia,Ourense,Piso,Calle Santa Marina 93,170,5,125000
-Galicia,Ourense,Duplex,Calle Martin Codax,22,4,200300
-Galicia,Ourense,Piso,Calle San Rosendo,141,4,163400
-Galicia,Ourense,Piso,Progreso 40,97,3,245000
-Galicia,Ourense,Piso,Serra Martina,103,3,177000
-Galicia,Ourense,Casa Rural,Arnoia,71,1,159000
-Galicia,Ourense,Duplex,Casco Viejo,66,2,79000
-Galicia,Ourense,Chalet,Camino de Xunqueira,104,3,130000
-Galicia,Ourense,Piso,Avenida da Habana,187,4,248000
-Galicia,Ourense,Chalet,Camino de Paixon,130,4,30000
-Galicia,Ourense,Chalet,Camino a Santa Cruz de Rabeda,199,5,229000
-Galicia,Ourense,Piso,Calle do progreso,86,3,220000
-Galicia,Ourense,Piso,Posio,44,1,95000
-Galicia,Ourense,Atico,Calle Ervedelo 20,74,2,180000
-Galicia,Ourense,Casa Rural,Nogueira de Ramuin,84,3,22000
-Galicia,Ourense,Casa Rural,As Lagunas,107,3,79000
-Galicia,Ourense,Duplex,San Cibrao das Vinas,122,4,230000
-Galicia,Ourense,Chalet,Verin,400,4,1000000
-Galicia,Ourense,Casa Rural,Muinos,115,3,30000
-Galicia,Ourense,Piso,Xinzo de Limia,9,4,96000
-Galicia,Ourense,Chalet,Leiro,343,4,195000
-Galicia,Ourense,Duplex,seixalvo 1,27,4,230000
-Galicia,Ourense,Casa Rural,Muinos,384,8,115000
-Galicia,Ourense,Chalet,Amoeiro,85,3,27000
-Galicia,Ourense,Casa Rural,Rubia,8000,10,495000
-Galicia,Ourense,Chalet,Ribadavia,1182,3,275000
-Galicia,Ourense,Chalet,Vilamarin,3000,5,299000
-Galicia,Ourense,Piso,Centro,90,3,278000
-Galicia,Ourense,Chalet,Lugar Tiollo,159,3,244000
-Galicia,Ourense,Chalet,Calle Catasol 5,844,5,760000
-Galicia,Ourense,Chalet,A PORRINEIRA s/n,500,3,330000
-Galicia,Ourense,Chalet,A PORRINEIRA s/n,500,3,330000
-Galicia,Ourense,Chalet,Lugar a Veiga,83,3,80000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,3000,4,165000
-Galicia,Ourense,Piso,Avenida ZAMORA 149,46,2,115000
-Galicia,Ourense,Chalet,San Francisco,185,5,165000
-Galicia,Ourense,Casa Rural,Esgos,530,4,85000
-Galicia,Ourense,Chalet,Camino sen nome,86,3,44000
-Galicia,Ourense,Chalet,Calle Moar,114,3,120000
-Galicia,Ourense,Atico,Calle Claudio Movilla,104,3,110000
-Galicia,Ourense,Piso,Barrocanes,157,4,119000
-Galicia,Ourense,Piso,Calle Basilio Alvarez,0,3,235000
-Galicia,Ourense,Piso,Calle Aviles de Taramancos,63,2,179000
-Galicia,Ourense,Piso,Centro,137,4,255000
-Galicia,Ourense,Piso,OU-1009 16,133,4,115000
-Galicia,Ourense,Piso,Centro,50,5,465000
-Galicia,Ourense,Piso,Centro,249,5,450000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,1000,2,130000
-Galicia,Ourense,Piso,Calle Nuno de Ousende s/n,121,4,210000
-Galicia,Ourense,Piso,Calle Greco 2,120,3,199000
-Galicia,Ourense,Piso,Casco Viejo,89,3,148000
-Galicia,Ourense,Chalet,cabeza de vaca,15,3,145000
-Galicia,Ourense,Piso,antonio roman,114,3,165000
-Galicia,Ourense,Duplex,martin codax,110,4,200300
-Galicia,Ourense,Piso,habana,119,3,360000
-Galicia,Ourense,Chalet,Calle Xoan de Novoa,231,5,590000
-Galicia,Ourense,Piso,Avenida de Celanova,139,4,153000
-Galicia,Ourense,Piso,Calle Marcelo Macias,91,3,185000
-Galicia,Ourense,Piso,progreso,87,3,260000
-Galicia,Ourense,Chalet,rampa de sas,185,5,290000
-Galicia,Ourense,Chalet,xoan de novoa,100,4,495000
-Galicia,Ourense,Duplex,Calle Faustino Santalices,122,3,205000
-Galicia,Ourense,Duplex,Calle do Ensino,102,3,150000
-Galicia,Ourense,Chalet,MASIDE,137,4,59000
-Galicia,Ourense,Chalet,Vilarchao,180,4,150000
-Galicia,Ourense,Casa Rural,Aldea Verducedo,141,4,65000
-Galicia,Ourense,Piso,Calle do Bierzo,74,2,187000
-Galicia,Ourense,Chalet,Calle Fonte Alen,87,3,24000
-Galicia,Ourense,Chalet,Calle Porrineira,500,3,340000
-Galicia,Ourense,Chalet,OU-0525,430,6,170000
-Galicia,Ourense,Chalet,Celanova,771,3,160000
-Galicia,Ourense,Chalet,Lugar Pedrafita,176,5,120000
-Galicia,Ourense,Chalet,Calle Fonte Alen,87,3,24000
-Galicia,Ourense,Piso,Calle do Bierzo,73,2,187000
-Galicia,Ourense,Piso,Calle dos Pilos,142,4,130000
-Galicia,Ourense,Chalet,rairo,75,4,90000
-Galicia,Ourense,Casa Rural,Pousada de abaixo,103,3,20000
-Galicia,Ourense,Piso,Calle Claudio Movilla,155,4,65000
-Galicia,Ourense,Piso,Avenida Alfonso Rodriguez Castelao,199,5,325000
-Galicia,Ourense,Chalet,Calle Grande,222,3,98000
-Galicia,Ourense,Duplex,Marinamansa,176,4,228000
-Galicia,Ourense,Piso,Avenida Portugal,159,4,160000
-Galicia,Ourense,Chalet,Lugar a Laxe,108,4,68000
-Galicia,Ourense,Piso,Calle Ervedelo,144,4,225000
-Galicia,Ourense,Piso,Avenida de Santiago,101,3,250000
-Galicia,Ourense,Piso,Calle quintian,78,3,57000
-Galicia,Ourense,Chalet,Calle Bispo Munoz de la Cueva,300,3,260000
-Galicia,Ourense,Piso,Avenida de Santiago,99,3,139000
-Galicia,Ourense,Chalet,Calle Isaac Pineiro Varela,200,3,202000
-Galicia,Ourense,Piso,Calle Doctor Pena Rey,139,4,85000
-Galicia,Ourense,Piso,Avenida de Zamora,91,3,75000
-Galicia,Ourense,Piso,Calle Seixalbo,85,2,95000
-Galicia,Ourense,Chalet,Plaza Jose Luis Nunez 12,213,4,69000
-Galicia,Ourense,Chalet,O Vinteun,156,4,105000
-Galicia,Ourense,Piso,Calle Vasco da Ponte,64,2,131000
-Galicia,Ourense,Piso,Calle Jesus Soria,106,3,168000
-Galicia,Ourense,Chalet,Calle do Cobo,2165,3,425000
-Galicia,Ourense,Piso,Dous de Maio 5,38,1,93000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,154,4,410000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,173,3,60000
-Galicia,Ourense,Casa Rural,Freixoso de Penela 1,85,3,33000
-Galicia,Ourense,Chalet,Coles,131,4,240000
-Galicia,Ourense,Duplex,Calle Bernardo Cachamuina,135,4,235000
-Galicia,Ourense,Piso,Calle Marcelo Macias 48,80,3,125000
-Galicia,Ourense,Chalet,Lugar Aguil,89,3,28000
-Galicia,Ourense,Chalet,Camino do Balneario,95,3,95000
-Galicia,Ourense,Chalet,Lugar a Eirexa,74,2,90000
-Galicia,Ourense,Piso,Calle Ervedelo,120,3,265000
-Galicia,Ourense,Chalet,Bobadela,120,3,90000
-Galicia,Ourense,Piso,Calle do Progreso,137,4,320000
-Galicia,Ourense,Piso,Avenida Otero Pedrayo,156,4,270000
-Galicia,Ourense,Piso,Carretera Cr vigo,10,2,155000
-Galicia,Ourense,Chalet,Bobadela,103,3,90000
-Galicia,Ourense,Piso,Barbadas,27,3,59000
-Galicia,Ourense,Duplex,bonhome 30,125,4,180000
-Galicia,Ourense,Piso,Couto,155,4,135000
-Galicia,Ourense,Piso,Calle Rio Casaio 8,103,3,135000
-Galicia,Ourense,Chalet,Xinzo de Limia,110,3,33000
-Galicia,Ourense,Chalet,Capilla 2,63,2,69000
-Galicia,Ourense,Piso,Polvorin,657,12,85000
-Galicia,Ourense,Piso,Couto,119,3,155000
-Galicia,Ourense,Chalet,Calle do Sol,87,3,49900
-Galicia,Ourense,Casa Rural,Barbadas,128,4,35000
-Galicia,Ourense,Piso,Centro,137,4,450000
-Galicia,Ourense,Piso,O Carballino,97,3,97000
-Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,94,3,220000
-Galicia,Ourense,Chalet,Avenida Padre Feijoo,59,1,30000
-Galicia,Ourense,Piso,progreso,153,4,320000
-Galicia,Ourense,Piso,viso,79,2,125000
-Galicia,Ourense,Chalet,Aldea Santa Ana 10,249,6,70000
-Galicia,Ourense,Piso,habana,150,3,315000
-Galicia,Ourense,Chalet,Entrimo,99,3,54000
-Galicia,Ourense,Estudio,aviles de taramancos,30,0,155000
-Galicia,Ourense,Piso,SERRA DO BURGO,45,3,99900
-Galicia,Ourense,Piso,progreso,260,5,320000
-Galicia,Ourense,Chalet,Sandias,91,3,199000
-Galicia,Ourense,Piso,Avenida de Celanova,96,3,160000
-Galicia,Ourense,Chalet,Residencia,97,3,132000
-Galicia,Ourense,Duplex,Couto,216,6,249000
-Galicia,Ourense,Chalet,Camino sen nome,100,3,79000
-Galicia,Ourense,Piso,Doctor Fleming,77,3,145000
-Galicia,Ourense,Piso,O Vinteun,125,4,100000
-Galicia,Ourense,Piso,fonte boa,114,3,150000
-Galicia,Ourense,Piso,Calle Santo Domingo 9,85,2,156000
-Galicia,Ourense,Chalet,Barrocanes,120,4,85000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,49,1,149000
-Galicia,Ourense,Piso,Centro,233,4,550000
-Galicia,Ourense,Piso,Vista Hermosa,130,4,225000
-Galicia,Ourense,Piso,Centro,80,3,220000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,123,4,1250000
-Galicia,Ourense,Piso,Vilar de Santos,106,4,195000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,156,4,1250000
-Galicia,Ourense,Piso,Centro,80,3,220000
-Galicia,Ourense,Piso,vistahermosa,105,3,123000
-Galicia,Ourense,Piso,O Vinteun,103,3,139000
-Galicia,Ourense,Piso,antonio puga,82,3,38000
-Galicia,Ourense,Chalet,Allariz,483,10,550000
-Galicia,Ourense,Piso,Calle do Polvorin,110,3,74900
-Galicia,Ourense,Piso,Plaza Andres de Prada 4,73,2,130000
-Galicia,Ourense,Duplex,A Ponte,101,3,225000
-Galicia,Ourense,Piso,A Carballeira,82,3,134500
-Galicia,Ourense,Chalet,San Cibrao das Vinas,510,5,295000
-Galicia,Ourense,Chalet,Xunqueira de Ambia,133,4,90000
-Galicia,Ourense,Chalet,Camino sen nome,150,1,115000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,315,5,400000
-Galicia,Ourense,Piso,Centro,170,3,250000
-Galicia,Ourense,Piso,Casco Viejo,78,3,70000
-Galicia,Ourense,Chalet,Universidad,231,6,600000
-Galicia,Ourense,Chalet,Calle Ramiras 48,182,5,350000
-Galicia,Ourense,Piso,Calle Pena Trevinca,135,4,170000
-Galicia,Ourense,Piso,Calle Ponte Codesal,81,3,155000
-Galicia,Ourense,Piso,Avenida de Santiago,89,3,176000
-Galicia,Ourense,Piso,Calle Prego de Oliver,104,3,150000
-Galicia,Ourense,Piso,Calle Galicia,100,3,145000
-Galicia,Ourense,Piso,Centro,169,5,310000
-Galicia,Ourense,Piso,Avenida Portugal,89,3,85000
-Galicia,Ourense,Piso,Calle do Vinteun,118,3,149900
-Galicia,Ourense,Duplex,Calle da Mestra Paz Sueiro,120,3,225000
-Galicia,Ourense,Piso,Calle Parque de San Lazaro,250,5,700000
-Galicia,Ourense,Piso,Calle a Granxa,69,2,125000
-Galicia,Ourense,Piso,Calle Dous de Maio,40,1,75000
-Galicia,Ourense,Piso,Calle Xoan Manuel Pintos,61,2,165000
-Galicia,Ourense,Chalet,Camino Aldea Abaixo,341,8,800000
-Galicia,Ourense,Piso,Parque San Lazaro,60,1,215000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,66,2,153000
-Galicia,Ourense,Piso,Calle Pablo Iglesias,109,3,155000
-Galicia,Ourense,Piso,Calle Emilia Pardo Bazan,59,2,155000
-Galicia,Ourense,Piso,Centro,140,4,330000
-Galicia,Ourense,Piso,Avenida Portugal 61,135,4,230000
-Galicia,Ourense,Chalet,Calle Seixalbo 65,80,3,89000
-Galicia,Ourense,Piso,A Ponte,72,2,105000
-Galicia,Ourense,Piso,Avenida Portugal 61,128,4,230000
-Galicia,Ourense,Casa Rural,O Burgo 1,200,3,50000
-Galicia,Ourense,Chalet,O Vinteun,1000,4,350000
-Galicia,Ourense,Chalet,Calle Arrabaldo,4800,6,350000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,160,5,285000
-Galicia,Ourense,Piso,rio camba,118,3,89900
-Galicia,Ourense,Piso,Rua Cardenal Quevedo,58,1,139700
-Galicia,Ourense,Chalet,Calle da Esmorga,150,4,160000
-Galicia,Ourense,Piso,Calle dos Remedios,82,3,99000
-Galicia,Ourense,Piso,Calle do Paseo,114,3,480000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,74,2,158000
-Galicia,Ourense,Piso,Calle Pino,118,3,70000
-Galicia,Ourense,Piso,Calle a Granxa,158,4,120000
-Galicia,Ourense,Piso,Centro,160,5,325000
-Galicia,Ourense,Piso,Calle Rio Camba,76,2,130000
-Galicia,Ourense,Duplex,Calle Cotelma,89,3,159000
-Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,102,3,90000
-Galicia,Ourense,Piso,Barbadas,80,3,125000
-Galicia,Ourense,Piso,O Vinteun,89,3,130000
-Galicia,Ourense,Chalet,vilarino da canda,250,4,115000
-Galicia,Ourense,Piso,Xinzo de Limia,112,3,62700
-Galicia,Ourense,Casa Rural,Xunqueira de Ambia,500,0,20000
-Galicia,Ourense,Casa Rural,CARRIL 1,2176,2,80000
-Galicia,Ourense,Piso,Calle proximo a la Avenida de Zamora,65,3,49500
-Galicia,Ourense,Estudio,Calle Ramon Puga 51,46,0,105000
-Galicia,Ourense,Piso,Universidad,144,4,210000
-Galicia,Ourense,Piso,Centro,115,3,236000
-Galicia,Ourense,Chalet,Lobios,132,4,59000
-Galicia,Ourense,Casa Rural,Xunqueira de Ambia,94,3,59900
-Galicia,Ourense,Piso,vasco diaz tanco,86,3,40000
-Galicia,Ourense,Piso,ervedelo,97,3,120000
-Galicia,Ourense,Piso,valle inclan,115,3,220000
-Galicia,Ourense,Piso,outeiro,124,4,80000
-Galicia,Ourense,Piso,Calle do ventiun,136,4,84000
-Galicia,Ourense,Estudio,gregorio fernandez,38,0,102000
-Galicia,Ourense,Piso,Avenida santiago,103,3,120000
-Galicia,Ourense,Piso,jesus soria,198,5,69000
-Galicia,Ourense,Piso,Casco Viejo,53,1,150000
-Galicia,Ourense,Piso,Residencia,89,3,70000
-Galicia,Ourense,Chalet,Calle Golpellas,98,3,79000
-Galicia,Ourense,Piso,Casco Viejo,49,1,150000
-Galicia,Ourense,Chalet,Calle Golpellas,113,3,79000
-Galicia,Ourense,Chalet,As Lagunas,166,5,210000
-Galicia,Ourense,Piso,Barbadas,70,2,89900
-Galicia,Ourense,Chalet,Vilar de Santos,72,2,20000
-Galicia,Ourense,Piso,vasco diaz tanco,84,3,72000
-Galicia,Ourense,Piso,Residencia,94,3,70000
-Galicia,Ourense,Piso,pena trevinca,159,4,125000
-Galicia,Ourense,Piso,Couto,105,3,177000
-Galicia,Ourense,Casa Rural,Nogueira de Ramuin,58,1,16000
-Galicia,Ourense,Chalet,Paderne de Allariz,53,1,36000
-Galicia,Ourense,Piso,Pereiro de Aguiar,125,4,55000
-Galicia,Ourense,Piso,Avenida portugal,130,4,75000
-Galicia,Ourense,Piso,sainza,94,3,135000
-Galicia,Ourense,Piso,sainza,159,4,195000
-Galicia,Ourense,Piso,Centro,229,4,365000
-Galicia,Ourense,Duplex,Centro,225,5,580000
-Galicia,Ourense,Casa Rural,Camino Ourense - Peares,64,2,9900
-Galicia,Ourense,Piso,Centro,150,3,533000
-Galicia,Ourense,Duplex,Centro,160,4,540000
-Galicia,Ourense,Chalet,Casco Viejo,600,20,1500000
-Galicia,Ourense,Piso,Couto,85,3,131000
-Galicia,Ourense,Piso,Centro,150,4,275000
-Galicia,Ourense,Estudio,Calle Apolo 1,27,0,35000
-Galicia,Ourense,Piso,O Vinteun,87,3,120000
-Galicia,Ourense,Piso,A Carballeira,88,3,65000
-Galicia,Ourense,Piso,Casco Viejo,76,2,145000
-Galicia,Ourense,Piso,Polvorin,87,3,169000
-Galicia,Ourense,Piso,Couto,102,3,150000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,150,3,245000
-Galicia,Ourense,Piso,Marinamansa,102,3,89000
-Galicia,Ourense,Chalet,Castrelo de Mino,410,6,350000
-Galicia,Ourense,Piso,Xinzo de Limia,111,3,95000
-Galicia,Ourense,Chalet,Leiro,60,3,85000
-Galicia,Ourense,Piso,Centro,150,3,680000
-Galicia,Ourense,Piso,Centro,82,3,360000
-Galicia,Ourense,Piso,Centro,204,5,450000
-Galicia,Ourense,Piso,Casco Viejo,121,4,189000
-Galicia,Ourense,Piso,O Vinteun,70,2,125000
-Galicia,Ourense,Chalet,Banos de Molgas,120,3,15000
-Galicia,Ourense,Piso,Centro,150,3,680000
-Galicia,Ourense,Piso,Calle Ribeira Sacra 1,78,2,185000
-Galicia,Ourense,Estudio,Calle Redondela,33,0,53000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,73,2,165000
-Galicia,Ourense,Casa Rural,Estrada Vigo Outariz 17,66,4,99000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,121,4,220000
-Galicia,Ourense,Chalet,Centro,165,5,590000
-Galicia,Ourense,Piso,remedios,89,3,99000
-Galicia,Ourense,Piso,San Cibrao das Vinas,70,2,89900
-Galicia,Ourense,Piso,Calle Rio Xares 25,80,3,70000
-Galicia,Ourense,Piso,Calle Monte Seixo 5,100,4,110000
-Galicia,Ourense,Chalet,Taboadela,126,4,75000
-Galicia,Ourense,Piso,Calle Atico Noguerol 1,81,3,175000
-Galicia,Ourense,Piso,Calle Samuel Eijan 11,139,4,480000
-Galicia,Ourense,Piso,A Ponte,66,2,155000
-Galicia,Ourense,Chalet,Aldea Pereiro 7,200,4,35000
-Galicia,Ourense,Duplex,Barbadas,86,3,130000
-Galicia,Ourense,Piso,Universidad,82,2,174000
-Galicia,Ourense,Piso,Centro,79,2,145000
-Galicia,Ourense,Piso,Calle Rio Bibei 23,152,4,125000
-Galicia,Ourense,Chalet,Vilamarin,86,3,129500
-Galicia,Ourense,Chalet,Nogueira de Ramuin,44,0,15000
-Galicia,Ourense,Piso,Calle Xesus Pousa Rodriguez 2,10,3,97990
-Galicia,Ourense,Piso,Calle Cantarelina,116,3,149500
-Galicia,Ourense,Atico,Calle da Lua 20,78,2,125000
-Galicia,Ourense,Piso,Calle Mercado 7 - 1 A,95,4,95000
-Galicia,Ourense,Piso,Centro,122,4,335000
-Galicia,Ourense,Piso,Casco Viejo,60,3,185000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,300,5,239000
-Galicia,Ourense,Casa Rural,N-525 79,51,1,40000
-Galicia,Ourense,Piso,Plaza Eduardo Barreiros 2,50,1,130000
-Galicia,Ourense,Chalet,Taboadela,86,3,69000
-Galicia,Ourense,Piso,Calle Vila Valencia 3,136,4,36000
-Galicia,Ourense,Casa Rural,Calle da Fonte 1,79,2,72000
-Galicia,Ourense,Piso,Calle Doutor Fleming 6,60,2,250000
-Galicia,Ourense,Piso,Calle Colon,79,2,69500
-Galicia,Ourense,Piso,Barrocanes,80,2,155000
-Galicia,Ourense,Piso,santa teresita,85,3,52900
-Galicia,Ourense,Piso,A Ponte,107,3,167000
-Galicia,Ourense,Piso,Carretera de Vigo-Outariz 100,119,3,135000
-Galicia,Ourense,Piso,Posio,100,3,172000
-Galicia,Ourense,Piso,Barrocanes,64,2,190000
-Galicia,Ourense,Piso,Couto,64,2,118000
-Galicia,Ourense,Piso,Barbadas,120,3,115300
-Galicia,Ourense,Piso,Vista Hermosa,108,3,85000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,180,3,230000
-Galicia,Ourense,Duplex,Couto,129,4,210000
-Galicia,Ourense,Piso,Centro,166,5,138000
-Galicia,Ourense,Piso,Posio,110,4,83900
-Galicia,Ourense,Piso,Posio,85,3,69000
-Galicia,Ourense,Piso,Couto,166,5,52000
-Galicia,Ourense,Piso,Centro,120,4,259500
-Galicia,Ourense,Piso,Barrocanes,95,3,165000
-Galicia,Ourense,Piso,Barrocanes,90,3,150000
-Galicia,Ourense,Piso,Posio,100,4,139000
-Galicia,Ourense,Piso,O Vinteun,99,3,59000
-Galicia,Ourense,Piso,Centro,146,4,368000
-Galicia,Ourense,Piso,San Francisco,90,3,200000
-Galicia,Ourense,Piso,Vista Hermosa,105,3,63000
-Galicia,Ourense,Piso,Universidad,94,3,210000
-Galicia,Ourense,Piso,Polvorin,86,3,59000
-Galicia,Ourense,Piso,Casco Viejo,80,3,89000
-Galicia,Ourense,Piso,Couto,75,2,145000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,260,4,150000
-Galicia,Ourense,Piso,Marinamansa,82,2,119000
-Galicia,Ourense,Casa Rural,Aldea Sartedigos 33,70,2,36000
-Galicia,Ourense,Piso,Avenida de Buenos Aires 151,17,3,270000
-Galicia,Ourense,Piso,Avenida de Santiago 98,117,3,137500
-Galicia,Ourense,Piso,Avenida Habana 60,113,3,150000
-Galicia,Ourense,Piso,O Vinteun,50,1,70000
-Galicia,Ourense,Chalet,Calle das Oliveiras 12,79,3,120000
-Galicia,Ourense,Piso,Calle dos mirtos 3,74,2,90000
-Galicia,Ourense,Estudio,Calle Rodriguez de la Passera 4,40,0,125000
-Galicia,Ourense,Piso,Centro,160,4,320000
-Galicia,Ourense,Piso,O Vinteun,70,2,93000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII 22,157,4,475000
-Galicia,Ourense,Piso,O Vinteun,77,2,120000
-Galicia,Ourense,Casa Rural,Lugar San Lourenzo 90,150,2,38500
-Galicia,Ourense,Atico,Calle Marcelo Macias 62,80,3,187000
-Galicia,Ourense,Piso,Couto,120,4,135000
-Galicia,Ourense,Piso,Greco 2,127,4,250000
-Galicia,Ourense,Piso,Rafael Dieste 32005,74,2,130903
-Galicia,Ourense,Casa Rural,Calle de Tarascon s/n Tarascon,61,2,30000
-Galicia,Ourense,Casa Rural,Carretera OUR-CV-461 de Paradela-Vilar s/n,41,0,20000
-Galicia,Ourense,Chalet,Calle O lagar 10,96,3,120000
-Galicia,Ourense,Chalet,Calle da Estrada Vella 15,70,5,240000
-Galicia,Ourense,Chalet,Calle Alexandre Boveda 5,100,0,290000
-Galicia,Ourense,Piso,Calle do Progreso 125,90,3,240000
-Galicia,Ourense,Chalet,Calle Ponte Pelamios 17,84,3,75000
-Galicia,Ourense,Estudio,Calle nosa senora da sainza 50,33,0,139000
-Galicia,Ourense,Chalet,Lugar Tiollo,170,3,206000
-Galicia,Ourense,Chalet,Calle Progreso 126,181,5,165000
-Galicia,Ourense,Piso,Avenida da Habana,126,4,150000
-Galicia,Ourense,Piso,Plaza Alferez Provisional 2,115,4,165000
-Galicia,Ourense,Duplex,Plaza Eduardo Barreiros 8,97,3,170000
-Galicia,Ourense,Piso,Calle Munoz Calero,118,3,79600
-Galicia,Ourense,Chalet,LG Casa Do Campo - Paradela s/n,243,5,155000
-Galicia,Ourense,Piso,Calle Bedoya,106,5,170000
-Galicia,Ourense,Duplex,CL Monasterio 5,147,4,210000
-Galicia,Ourense,Duplex,AV HABANA 35,262,7,580000
-Galicia,Ourense,Chalet,Calle Freas,185,5,290000
-Galicia,Ourense,Piso,Vista Hermosa,107,3,130000
-Galicia,Ourense,Piso,Centro,100,3,290000
-Galicia,Ourense,Piso,Bernardo Gonzalez Cachamuina,78,2,174000
-Galicia,Ourense,Piso,Calle Alejandro Pedrosa,85,2,47000
-Galicia,Ourense,Chalet,Parroquia Untes 9,63,2,29840
-Galicia,Ourense,Piso,Polvorin,75,3,70000
-Galicia,Ourense,Chalet,Calle o Seixo,80,4,200000
-Galicia,Ourense,Piso,Marinamansa,87,3,93000
-Galicia,Ourense,Piso,Couto,114,4,119000
-Galicia,Ourense,Chalet,Calle Val do Seixo 3 33,115,3,147000
-Galicia,Ourense,Piso,Centro,127,3,236000
-Galicia,Ourense,Chalet,Carballeda de Avia,147,4,490000
-Galicia,Ourense,Chalet,Amoeiro,200,4,215000
-Galicia,Ourense,Piso,Couto,85,3,210000
-Galicia,Ourense,Chalet,Calle Ramiras,450,5,490000
-Galicia,Ourense,Piso,Centro,105,3,169000
-Galicia,Ourense,Piso,Vista Hermosa,89,4,160000
-Galicia,Ourense,Piso,Quintela - Los Pinos,113,3,155000
-Galicia,Ourense,Piso,Vista Hermosa,89,4,160000
-Galicia,Ourense,Piso,Centro,105,3,169000
-Galicia,Ourense,Piso,Calle San Rosendo,65,2,113999
-Galicia,Ourense,Piso,Calle Arturo Perez Serantes,61,2,175000
-Galicia,Ourense,Piso,Calle Parque de San Lazaro,139,6,290000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,154,4,370000
-Galicia,Ourense,Chalet,Lugar San Salvador,4260,8,270000
-Galicia,Ourense,Chalet,Lugar Fea,90,3,330000
-Galicia,Ourense,Chalet,Caseriu Soutullo de Arriba,126,4,325000
-Galicia,Ourense,Piso,Caseriu O Pineiral,105,3,135000
-Galicia,Ourense,Piso,Marinamansa,104,3,148000
-Galicia,Ourense,Piso,Centro,150,3,285000
-Galicia,Ourense,Piso,Calle do Progreso,211,6,249000
-Galicia,Ourense,Piso,As Lagunas,100,4,188000
-Galicia,Ourense,Piso,Centro,229,4,365000
-Galicia,Ourense,Piso,Casco Viejo,91,3,149000
-Galicia,Ourense,Chalet,Calle Ceibe,192,5,250000
-Galicia,Ourense,Chalet,Calle Julia Minguillon,160,5,290000
-Galicia,Ourense,Piso,Calle Vicente Risco,76,2,115000
-Galicia,Ourense,Piso,Calle Rio Cerves,77,2,139000
-Galicia,Ourense,Duplex,CL FORNOS 12,129,3,110000
-Galicia,Ourense,Piso,Calle Quintian,78,2,83435
-Galicia,Ourense,Casa Rural,CAXAMONDE 4,80,2,65000
-Galicia,Ourense,Chalet,Coles,734,4,240000
-Galicia,Ourense,Piso,Casco Viejo,153,4,170000
-Galicia,Ourense,Chalet,Allariz,84,3,180000
-Galicia,Ourense,Piso,A Ponte,82,3,156000
-Galicia,Ourense,Chalet,Calle Quins,800,4,80000
-Galicia,Ourense,Chalet,Cesareo Gonzalez 64,276,4,385000
-Galicia,Ourense,Duplex,O Vinteun,170,3,229000
-Galicia,Ourense,Piso,Casco Viejo,159,4,132000
-Galicia,Ourense,Piso,Couto,85,3,168000
-Galicia,Ourense,Chalet,Barbadas,82,3,288000
-Galicia,Ourense,Piso,A Ponte,121,3,172000
-Galicia,Ourense,Piso,Casco Viejo,45,2,142000
-Galicia,Ourense,Chalet,A Carballeira,700,5,595000
-Galicia,Ourense,Piso,Universidad,116,3,119000
-Galicia,Ourense,Piso,Centro,95,3,278000
-Galicia,Ourense,Piso,Centro,67,2,134000
-Galicia,Ourense,Duplex,Marinamansa,127,4,230000
-Galicia,Ourense,Piso,Centro,95,3,278000
-Galicia,Ourense,Piso,Universidad,85,3,115000
-Galicia,Ourense,Piso,Couto,85,3,168000
-Galicia,Ourense,Chalet,Barbadas,82,3,288000
-Galicia,Ourense,Piso,Av Portugal,164,4,160000
-Galicia,Ourense,Chalet,Barrocanes,200,4,320000
-Galicia,Ourense,Casa Rural,A Peroxa,183,5,475000
-Galicia,Ourense,Piso,Posio,105,3,144000
-Galicia,Ourense,Piso,Centro,149,4,365000
-Galicia,Ourense,Chalet,Amoeiro,487,3,330000
-Galicia,Ourense,Chalet,Barbadas,115,3,330000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,260,5,269000
-Galicia,Ourense,Piso,Calle Serra Martina,87,3,177000
-Galicia,Ourense,Piso,Calle a Granxa,70,2,125000
-Galicia,Ourense,Piso,Calle a Granxa,70,2,98000
-Galicia,Ourense,Piso,Centro,191,4,475000
-Galicia,Ourense,Piso,O Vinteun,113,3,79000
-Galicia,Ourense,Chalet,Cenlle,318,5,210000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,740,4,140000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,130,4,280000
-Galicia,Ourense,Piso,A Ponte,125,4,205000
-Galicia,Ourense,Chalet,Barbadas,188,5,240000
-Galicia,Ourense,Chalet,O Vinteun,1000,6,350000
-Galicia,Ourense,Chalet,As Lagunas,185,4,199990
-Galicia,Ourense,Duplex,A Ponte,150,4,398000
-Galicia,Ourense,Chalet,Coles,1700,3,160000
-Galicia,Ourense,Piso,CL Concejo 18,140,5,330000
-Galicia,Ourense,Atico,Calle Florentino Cuevillas,30,2,240000
-Galicia,Ourense,Duplex,Couto,124,5,249000
-Galicia,Ourense,Piso,Centro,60,2,210000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,61,2,153000
-Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,92,3,220000
-Galicia,Ourense,Piso,Casco Viejo,128,4,195000
-Galicia,Ourense,Piso,O Vinteun,91,2,150000
-Galicia,Ourense,Piso,As Lagunas,140,5,223000
-Galicia,Ourense,Piso,A Ponte,127,4,145000
-Galicia,Ourense,Casa Rural,Esgos,280,5,97000
-Galicia,Ourense,Piso,Centro,40,4,400000
-Galicia,Ourense,Piso,Centro,150,4,255000
-Galicia,Ourense,Piso,Calle Doutor Fleming,94,3,125000
-Galicia,Ourense,Piso,Marinamansa,159,4,139500
-Galicia,Ourense,Piso,Calle Bano,85,2,165000
-Galicia,Ourense,Chalet,N-120,600,5,75000
-Galicia,Ourense,Piso,A Carballeira,102,3,134500
-Galicia,Ourense,Piso,Barrocanes,77,2,130000
-Galicia,Ourense,Chalet,Lugar Moreiras,1000,3,260000
-Galicia,Ourense,Piso,Barrocanes,95,3,180000
-Galicia,Ourense,Piso,Pz Alferez Provisional,12,3,175000
-Galicia,Ourense,Chalet,Parada pinor,990,4,355000
-Galicia,Ourense,Piso,Universidad,119,3,208000
-Galicia,Ourense,Piso,Universidad,100,3,67000
-Galicia,Ourense,Chalet,Aldea Montelongo Abaixo 13 A,207,6,299000
-Galicia,Ourense,Chalet,Quintela - Los Pinos,134,4,67600
-Galicia,Ourense,Piso,Vasco diaz tanco 10,151,4,85000
-Galicia,Ourense,Chalet,Calle Aldea Dabaixo 34,155,4,70000
-Galicia,Ourense,Piso,Centro,104,3,340000
-Galicia,Ourense,Piso,Avenida Santiago s/n,129,4,175000
-Galicia,Ourense,Piso,Centro,99,4,125000
-Galicia,Ourense,Chalet,Calle Petin 25,109,3,260000
-Galicia,Ourense,Chalet,Bieite- A Puntina,76,2,35000
-Galicia,Ourense,Piso,Avenida de Celanova,144,4,135000
-Galicia,Ourense,Piso,Centro,170,6,310000
-Galicia,Ourense,Casa Rural,XANDRESA DE QUEIXA 10,105,3,120000
-Galicia,Ourense,Piso,Calle RIO TAMEGA 23,63,2,91690
-Galicia,Ourense,Casa Rural,Camino sen nome s/n SN,126,4,30000
-Galicia,Ourense,Piso,Centro,47,1,134550
-Galicia,Ourense,Chalet,Pereiro de Aguiar,80,3,190000
-Galicia,Ourense,Piso,Camelias s/n,120,3,134500
-Galicia,Ourense,Chalet,Coles,1100,3,150000
-Galicia,Ourense,Duplex,Couto,182,5,295000
-Galicia,Ourense,Piso,O Vinteun,80,3,90000
-Galicia,Ourense,Piso,Barrocanes,132,4,155000
-Galicia,Ourense,Estudio,Barbadas,40,0,94000
-Galicia,Ourense,Chalet,Aldea Pereiro 5,322,3,70000
-Galicia,Ourense,Piso,Couto,154,4,99000
-Galicia,Ourense,Piso,A Ponte,118,3,110000
-Galicia,Ourense,Chalet,Bieite,180,5,127000
-Galicia,Ourense,Chalet,A Penalba s/n,156,4,40000
-Galicia,Ourense,Piso,O Vinteun,120,3,57000
-Galicia,Ourense,Piso,A Ponte,85,3,167000
-Galicia,Ourense,Piso,Barbadas,80,2,103000
-Galicia,Ourense,Piso,A Ponte,85,3,167000
-Galicia,Ourense,Piso,Couto,79,2,72000
-Galicia,Ourense,Piso,A Carballeira,99,3,55000
-Galicia,Ourense,Piso,Calle Doutor Fleming 8,132,4,109000
-Galicia,Ourense,Piso,Couto,128,4,85000
-Galicia,Ourense,Piso,A Carballeira,15,3,230000
-Galicia,Ourense,Chalet,Vista Hermosa,96,3,260000
-Galicia,Ourense,Duplex,Calle Martin Codax,135,4,200300
-Galicia,Ourense,Chalet,Lugar Cunas,200,3,100000
-Galicia,Ourense,Piso,O Vinteun,96,3,175000
-Galicia,Ourense,Chalet,o castro,50,4,199900
-Galicia,Ourense,Piso,Casco Viejo,120,3,159000
-Galicia,Ourense,Piso,Avenida de Santiago,130,3,120000
-Galicia,Ourense,Chalet,Lugar Marcelin 36 A,148,4,164000
-Galicia,Ourense,Casa Rural,Naranxos s/n,70,3,35000
-Galicia,Ourense,Chalet,Casco Viejo,45,1,195000
-Galicia,Ourense,Piso,Rio Mente 4,83,3,90000
-Galicia,Ourense,Piso,Rua do Paseo 23 -9,120,3,620000
-Galicia,Ourense,Atico,OU-310 40,95,3,60000
-Galicia,Ourense,Piso,JUAN XXIII 33,230,4,460000
-Galicia,Ourense,Piso,Antonio Roman s/n,67,2,130000
-Galicia,Ourense,Piso,progreso 32005 s/n,60,2,165000
-Galicia,Ourense,Piso,Avenida de Santiago,12,4,60000
-Galicia,Ourense,Piso,Calle da Coruna 1,75,2,126000
-Galicia,Ourense,Piso,O Barco de Valdeorras,75,3,74500
-Galicia,Ourense,Casa Rural,Lugar de Carracedo 28,166,5,20000
-Galicia,Ourense,Casa Rural,Mandras s/n Cea,83,3,15000
-Galicia,Ourense,Casa Rural,Senorin 19,650,2,60000
-Galicia,Ourense,Piso,Celanova,115,3,70000
-Galicia,Ourense,Chalet,Melon,165,2,34000
-Galicia,Ourense,Piso,Coruna s/n,7,2,126000
-Galicia,Ourense,Chalet,Boboras,3807,4,82700
-Galicia,Ourense,Piso,Xinzo de Limia,65,2,33368
-Galicia,Ourense,Estudio,As Lagunas,50,0,117000
-Galicia,Ourense,Casa Rural,Aldea Barxa 21,81,3,32000
-Galicia,Ourense,Chalet,Centro,59,1,620000
-Galicia,Ourense,Chalet,Allariz,341,8,480000
-Galicia,Ourense,Piso,Centro,116,4,109000
-Galicia,Ourense,Chalet,Calle Boavista 7,378,6,250000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,123,4,199990
-Galicia,Ourense,Casa Rural,O Reguengo s/n sn,700,5,40000
-Galicia,Ourense,Chalet,Carretera o Vinao 14,100,3,50000
-Galicia,Ourense,Piso,Calle San Antonio 1,63,2,58900
-Galicia,Ourense,Casa Rural,Calle Cimadevila 1,82,3,20000
-Galicia,Ourense,Chalet,Calle San Salvador 6,139,4,32300
-Galicia,Ourense,Piso,Calle de Ribadavia,93,3,75000
-Galicia,Ourense,Piso,Avenida de Santiago,110,4,175000
-Galicia,Ourense,Piso,O Vinteun,143,4,175000
-Galicia,Ourense,Piso,Calle Godalla,144,4,90000
-Galicia,Ourense,Chalet,Oleiros 3,85,4,72000
-Galicia,Ourense,Chalet,Aldea Forcadela,126,4,26500
-Galicia,Ourense,Chalet,Calle a Calvos,91,3,94600
-Galicia,Ourense,Chalet,Lugar de Chaodarcas de Arriba 62,83,3,120500
-Galicia,Ourense,Chalet,Lugar Cortinas,150,2,95000
-Galicia,Ourense,Casa Rural,Lugar Naves,50,1,89000
-Galicia,Ourense,Piso,Calle da Granxa,110,3,147000
-Galicia,Ourense,Piso,O Vinteun,96,3,49400
-Galicia,Ourense,Piso,Casco Viejo,60,2,130000
-Galicia,Ourense,Casa Rural,Traveso 6,110,3,42000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,110,3,67000
-Galicia,Ourense,Piso,Couto,114,3,70000
-Galicia,Ourense,Piso,Calle del Paseo 33,178,5,320000
-Galicia,Ourense,Piso,Avenida Celanova,140,4,115000
-Galicia,Ourense,Piso,Barbadas,105,3,128000
-Galicia,Ourense,Chalet,lugar curras 24,300,7,229000
-Galicia,Ourense,Piso,Carretera Vigo-Pino,50,3,74727
-Galicia,Ourense,Piso,Calle de Tomas Rguez Punxin,82,3,115300
-Galicia,Ourense,Piso,Calle San Rosendo,153,4,163400
-Galicia,Ourense,Piso,santo cristo 32005 s/n,89,3,37000
-Galicia,Ourense,Chalet,Caseriu Sagra,500,4,240000
-Galicia,Ourense,Piso,Vasco Diaz tanco s/n,69,2,39000
-Galicia,Ourense,Chalet,Aldea Eirexa,164,5,160000
-Galicia,Ourense,Chalet,Calle da Encarnacion,400,6,140000
-Galicia,Ourense,Chalet,Lugar Outeiro Calvo,245,6,152680
-Galicia,Ourense,Chalet,a abelleira s/n,124,4,35000
-Galicia,Ourense,Chalet,Caseriu Sagra 13,500,4,240000
-Galicia,Ourense,Chalet,Lugar Cruz de Rante 16,267,5,343000
-Galicia,Ourense,Chalet,Alberto Garcia Ferreiro s/n,146,4,300000
-Galicia,Ourense,Duplex,Calle Martin Codax,22,4,200300
-Galicia,Ourense,Chalet,Plaza maior s/n,500,5,200000
-Galicia,Ourense,Piso,xoan manuel pintos 32005 ourense s/n,91,3,172000
-Galicia,Ourense,Piso,Calle Xoan Manuel Pintos,108,3,172000
-Galicia,Ourense,Chalet,Aldea Eirexa,165,5,160000
-Galicia,Ourense,Chalet,Calle do Regato,197,5,96000
-Galicia,Ourense,Piso,OU-0517 35,118,3,129000
-Galicia,Ourense,Chalet,a abelleira s/n,138,4,35000
-Galicia,Ourense,Duplex,Calle Martin Codax,22,4,200300
-Galicia,Ourense,Chalet,Lugar Outeiro Calvo,245,6,152680
-Galicia,Ourense,Chalet,Alberto Garcia Ferreiro s/n,121,4,300000
-Galicia,Ourense,Piso,Pena nofre s/n,92,3,165000
-Galicia,Ourense,Chalet,Aldea Regoufe 89,176,5,140000
-Galicia,Ourense,Piso,colon 32003 s/n,62,2,70000
-Galicia,Ourense,Chalet,Caseriu Sagra,500,4,240000
-Galicia,Ourense,Chalet,Camino do Coino,354,8,480000
-Galicia,Ourense,Casa Rural,Carretera de Velle s/n,138,4,120000
-Galicia,Ourense,Chalet,Calle da Lua,75,5,254000
-Galicia,Ourense,Chalet,Caseriu Sagra 13,500,4,240000
-Galicia,Ourense,Chalet,zamora s/n,155,4,160000
-Galicia,Ourense,Piso,Carretera de Vigo-Outariz,29,3,55000
-Galicia,Ourense,Casa Rural,Lugar Vilarino,5200,4,125000
-Galicia,Ourense,Piso,Calle do Paseo,150,3,620000
-Galicia,Ourense,Piso,Calle do Paseo,120,3,620000
-Galicia,Ourense,Chalet,Calle Santome,86,4,139000
-Galicia,Ourense,Piso,Avenida da Habana,139,4,340000
-Galicia,Ourense,Piso,Calle San Rosendo,138,4,205000
-Galicia,Ourense,Chalet,Lugar Outeiro Calvo,600,6,152680
-Galicia,Ourense,Piso,Calle do Concello,160,5,320000
-Galicia,Ourense,Piso,Calle Ervedelo,80,3,85000
-Galicia,Ourense,Casa Rural,Aldea Barreal 2,104,3,64000
-Galicia,Ourense,Piso,ribeira de canedo s/n,68,2,155000
-Galicia,Ourense,Casa Rural,Camino Cabo de Vila,251,7,65000
-Galicia,Ourense,Piso,Calle Picasso,125,4,100000
-Galicia,Ourense,Piso,Calle do Progreso 89,200,6,249000
-Galicia,Ourense,Casa Rural,Eirexa Soutopenedo 2,192,5,160000
-Galicia,Ourense,Chalet,Camino do Curro,193,5,170000
-Galicia,Ourense,Chalet,Calle Porteleira,146,4,55000
-Galicia,Ourense,Piso,Calle Antonio Jaunsaras,95,4,93000
-Galicia,Ourense,Chalet,Calle Cruz da Oliveira,82,3,69900
-Galicia,Ourense,Chalet,Carretera de Corvillon,82,3,77500
-Galicia,Ourense,Casa Rural,Aldea Barreal 2,101,3,64000
-Galicia,Ourense,Chalet,Calle Cruz da Oliveira,104,3,69900
-Galicia,Ourense,Casa Rural,Camino de Loeda,161,5,1000000
-Galicia,Ourense,Casa Rural,Eirexa Soutopenedo 2,164,5,160000
-Galicia,Ourense,Piso,ribeira de canedo s/n,78,2,155000
-Galicia,Ourense,Piso,Calle San Rosendo,156,4,205000
-Galicia,Ourense,Chalet,Camino do Curro,180,5,170000
-Galicia,Ourense,Chalet,Camino das Lamas,250,4,95000
-Galicia,Ourense,Casa Rural,Lugar a Vacariza 12,54,1,16000
-Galicia,Ourense,Chalet,Lobios,86,3,48000
-Galicia,Ourense,Chalet,Aldea Casanova,2000,4,370000
-Galicia,Ourense,Chalet,Lobios,70,2,42000
-Galicia,Ourense,Piso,Calle Eulogio Gomez Franqueira,141,4,139000
-Galicia,Ourense,Chalet,Calle da Estrada Vella,554,5,240000
-Galicia,Ourense,Duplex,Calle do Paseo,78,2,377400
-Galicia,Ourense,Piso,Avenida ZAMORA 154,200,4,260000
-Galicia,Ourense,Chalet,ALDEA GRANDE,608,7,159000
-Galicia,Ourense,Piso,Calle Ramon Puga,114,3,178000
-Galicia,Ourense,Chalet,Lugar a Seara 63,5000,6,140000
-Galicia,Ourense,Piso,Calle das Camelias,117,3,134500
-Galicia,Ourense,Piso,Avenida de la Habana,148,4,160000
-Galicia,Ourense,Duplex,Avenida de Manuel Quiroga 17,100,3,92000
-Galicia,Ourense,Piso,ALFONSO ALCARAZ 5,96,3,99000
-Galicia,Ourense,Duplex,Calle Doctor Maranon 7,60,3,245000
-Galicia,Ourense,Piso,Calle Doctor Maranon 7,60,3,235000
-Galicia,Ourense,Piso,Calle Doctor Maranon 7,60,1,130000
-Galicia,Ourense,Piso,Calle Doctor Maranon 7,60,3,240000
-Galicia,Ourense,Piso,Calle Doctor Maranon 7,60,3,185000
-Galicia,Ourense,Chalet,Calle Carriarico,146,4,185000
-Galicia,Ourense,Chalet,Leiro,132,4,198000
-Galicia,Ourense,Piso,Calle Colon,76,2,75000
-Galicia,Ourense,Piso,Calle Paseo,88,3,620000
-Galicia,Ourense,Piso,Rampa de Sas,102,4,135000
-Galicia,Ourense,Piso,Calle Doutor Maranon,69,2,125000
-Galicia,Ourense,Casa Rural,razamonde,1000,3,89000
-Galicia,Ourense,Piso,Calle Coruna,75,2,126000
-Galicia,Ourense,Piso,Calle Valle Inclan,90,3,220000
-Galicia,Ourense,Piso,San Cibrao das Vinas,56,3,29408
-Galicia,Ourense,Chalet,Xinzo de Limia,43,1,280000
-Galicia,Ourense,Atico,Calle Ribeira de Canedo,70,2,165000
-Galicia,Ourense,Piso,Calle Coruna,75,2,126000
-Galicia,Ourense,Piso,Calle Paseo,111,3,620000
-Galicia,Ourense,Casa Rural,SAN CRISTOBO DE CEA s/n,192,5,35000
-Galicia,Ourense,Piso,Calle das Camelias,93,3,134500
-Galicia,Ourense,Piso,O Barco de Valdeorras,142,4,84000
-Galicia,Ourense,Piso,Calle _Rua de Progreso,211,6,249000
-Galicia,Ourense,Chalet,Camino Os beleiros 28,8234,0,95000
-Galicia,Ourense,Piso,Calle Juan XXIII,154,4,235000
-Galicia,Ourense,Atico,Ribeira de Canedo,85,2,155000
-Galicia,Ourense,Chalet,Casagrandes 48,840,5,68000
-Galicia,Ourense,Piso,Universidad,72,2,231000
-Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro,148,4,215000
-Galicia,Ourense,Piso,Plaza do Concello,223,6,315000
-Galicia,Ourense,Duplex,Calle Pura y Dora Vazquez,140,4,310000
-Galicia,Ourense,Duplex,Calle Ensino,15,4,210000
-Galicia,Ourense,Piso,O Carballino,104,3,135000
-Galicia,Ourense,Atico,Calle Jesus Soria,70,2,225000
-Galicia,Ourense,Piso,Couto,109,4,65000
-Galicia,Ourense,Piso,Valenza,89,3,135000
-Galicia,Ourense,Casa Rural,Calle Santa Maria 17,20,5,250000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII 31,147,4,550000
-Galicia,Ourense,Piso,Calle do Progreso,43,1,20000
-Galicia,Ourense,Casa Rural,Aldea Moreira 1,100,3,37000
-Galicia,Ourense,Chalet,Calle Veiga de Abaixo,110,3,130000
-Galicia,Ourense,Chalet,Lugar O Pazo,61,3,19500
-Galicia,Ourense,Casa Rural,VILAR,1800,10,50000
-Galicia,Ourense,Chalet,Os Viros,87,3,77500
-Galicia,Ourense,Piso,Calle Xaime Prada,113,3,80000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,171,5,450000
-Galicia,Ourense,Piso,Calle do Progreso,111,3,23500
-Galicia,Ourense,Piso,Centro,157,4,325000
-Galicia,Ourense,Piso,Calle Ervedelo,87,3,107000
-Galicia,Ourense,Piso,Calle Garcia Mosquera,147,4,125000
-Galicia,Ourense,Chalet,Camino de Piton,25,4,200000
-Galicia,Ourense,Chalet,Beran s/n,160,4,198000
-Galicia,Ourense,Chalet,Calle Alfredo Branas 39,209,6,110000
-Galicia,Ourense,Piso,Camino dos Coutos 2,100,3,92000
-Galicia,Ourense,Piso,CL CONCEJO 4,45,5,375000
-Galicia,Ourense,Casa Rural,Lugar Bieite 147,88,3,35000
-Galicia,Ourense,Casa Rural,Calle Padre Eijan 23,135,2,99000
-Galicia,Ourense,Duplex,Calle do Areal 9,160,4,160000
-Galicia,Ourense,Piso,JUAN XXIII 11,198,5,240000
-Galicia,Ourense,Casa Rural,Calle Padre Eijan 23,135,2,99000
-Galicia,Ourense,Chalet,Urbanizacion Montealegre s/n,500,5,355000
-Galicia,Ourense,Piso,Camino dos Coutos 2,100,3,92000
-Galicia,Ourense,Duplex,Avenida de Celanova,149,4,156000
-Galicia,Ourense,Chalet,Caseriu a Castellana,580,3,315000
-Galicia,Ourense,Chalet,Calle do Couto,136,4,78500
-Galicia,Ourense,Chalet,San Cibrao das Vinas,189,5,500000
-Galicia,Ourense,Duplex,zona Campus As Lagoas,120,3,225000
-Galicia,Ourense,Chalet,pradabo 1,240,4,280000
-Galicia,Ourense,Piso,Avenida da Habana 59,101,3,315000
-Galicia,Ourense,Piso,Calle Ervedelo 62,129,4,225000
-Galicia,Ourense,Chalet,Calle do Santo 13,134,4,230000
-Galicia,Ourense,Piso,Calle Ramon Cabanillas 20,70,4,200000
-Galicia,Ourense,Piso,Calle de Ourense 7,110,3,155000
-Galicia,Ourense,Chalet,Calle do Pouso,37,3,31500
-Galicia,Ourense,Piso,Calle da Concordia 6,174,5,245000
-Galicia,Ourense,Chalet,OU-0517 29 -27,116,3,220000
-Galicia,Ourense,Chalet,Calle Aurelaneo Ferreiro 61,63,2,125000
-Galicia,Ourense,Piso,Calle Enriquez Parrondo 18,68,2,135000
-Galicia,Ourense,Piso,Calle Consejo,168,5,330000
-Galicia,Ourense,Piso,Calle Rampa de Sas 1,146,4,143700
-Galicia,Ourense,Piso,Maceda,120,4,80000
-Galicia,Ourense,Chalet,Toen,163,4,115000
-Galicia,Ourense,Piso,Habana 22,123,4,199000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,250,4,67600
-Galicia,Ourense,Piso,O Vinteun,70,3,90000
-Galicia,Ourense,Piso,Calle da Encarnacion,143,4,135000
-Galicia,Ourense,Piso,Couto,96,3,158400
-Galicia,Ourense,Piso,Centro,68,2,140000
-Galicia,Ourense,Chalet,Barbadas,298,3,110000
-Galicia,Ourense,Piso,Avenida da Habana,120,3,360000
-Galicia,Ourense,Piso,Casco Viejo,65,2,126000
-Galicia,Ourense,Piso,Xinzo de Limia,91,3,62700
-Galicia,Ourense,Chalet,Loiro de Abaixo,61,2,120000
-Galicia,Ourense,Chalet,Universidad,66,6,195000
-Galicia,Ourense,Piso,Calle Fonte Boa,98,3,119000
-Galicia,Ourense,Chalet,Calle da Estrada Vella,195,6,210000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,1842,4,675000
-Galicia,Ourense,Piso,Posio,129,4,179598
-Galicia,Ourense,Atico,Calle Jesus Soria,70,2,180000
-Galicia,Ourense,Chalet,A Ponte,182,4,155000
-Galicia,Ourense,Piso,Couto,92,3,164000
-Galicia,Ourense,Piso,Calle Pino,29,3,55000
-Galicia,Ourense,Chalet,O Carballino,134,4,513000
-Galicia,Ourense,Piso,Calle Luis Trabazos,70,2,140000
-Galicia,Ourense,Chalet,San Mamede da Canda,55,7,120000
-Galicia,Ourense,Chalet,Vilamarin,1100,4,220000
-Galicia,Ourense,Chalet,Camino de Santa Marina,199,4,120000
-Galicia,Ourense,Chalet,Leiro,200,3,164000
-Galicia,Ourense,Piso,Calle Xaime Prada,50,2,80000
-Galicia,Ourense,Chalet,Carretera Amoeiro 2 -6,6500,3,206000
-Galicia,Ourense,Chalet,FARAMONTAOS s/n,91,3,120000
-Galicia,Ourense,Piso,Calle a Granxa,110,3,147000
-Galicia,Ourense,Chalet,O tiollo,6500,3,206000
-Galicia,Ourense,Piso,lidl s/n,49,1,89000
-Galicia,Ourense,Chalet,A Quinta,135,4,47000
-Galicia,Ourense,Piso,Calle Nosa Senora do Cristal,110,4,135000
-Galicia,Ourense,Casa Rural,Barbantes 1,131,4,190000
-Galicia,Ourense,Piso,fonteboa s/n,60,2,82000
-Galicia,Ourense,Chalet,Camino Zamora-Santiago,300,5,220000
-Galicia,Ourense,Casa Rural,Camino da Viladequinta 5,400,3,76000
-Galicia,Ourense,Piso,francisco de Moure s/n,129,4,135000
-Galicia,Ourense,Estudio,Calle Amado Carballo,36,0,121000
-Galicia,Ourense,Chalet,OU-0517,104,3,94600
-Galicia,Ourense,Chalet,Lugar Bouza,252,4,180000
-Galicia,Ourense,Duplex,Camino de Xunqueira,90,2,130000
-Galicia,Ourense,Duplex,ponte codesal s/n,110,3,209000
-Galicia,Ourense,Piso,Calle Bano,67,2,165000
-Galicia,Ourense,Piso,Avenida universidade s/n,92,3,85000
-Galicia,Ourense,Atico,Calle Ribeira de Canedo,85,2,155000
-Galicia,Ourense,Chalet,Calle Santa Eufemia,127,3,95000
-Galicia,Ourense,Piso,padre sarmiento s/n,145,4,135000
-Galicia,Ourense,Piso,O Vinteun,96,3,150000
-Galicia,Ourense,Chalet,A Ponte,600,6,550000
-Galicia,Ourense,Chalet,Doctor Fleming,110,4,125000
-Galicia,Ourense,Piso,antonio roman s/n,98,3,170000
-Galicia,Ourense,Piso,bonhome s/n,144,4,185000
-Galicia,Ourense,Chalet,Calle da Moura,500,4,120000
-Galicia,Ourense,Chalet,A Ponte,600,6,550000
-Galicia,Ourense,Piso,chano pineiro s/n,67,2,145000
-Galicia,Ourense,Piso,Calle a Granxa,110,3,147000
-Galicia,Ourense,Piso,Calle do Progreso,118,4,285000
-Galicia,Ourense,Piso,otero pedraio,90,3,97000
-Galicia,Ourense,Casa Rural,Camino da Viladequinta 5,400,3,76000
-Galicia,Ourense,Chalet,Lugar Bouza,252,4,180000
-Galicia,Ourense,Piso,Avenida universidade s/n,106,3,85000
-Galicia,Ourense,Chalet,Igrexa,200,5,132500
-Galicia,Ourense,Piso,Calle Antonio Saenz-Diez,158,4,150000
-Galicia,Ourense,Chalet,condado,97,3,190000
-Galicia,Ourense,Chalet,Lugar Partovia,600,3,105000
-Galicia,Ourense,Chalet,Calle de Barrio Balneario,648,10,130000
-Galicia,Ourense,Atico,Avenida de Santiago,110,3,250000
-Galicia,Ourense,Chalet,Plaza Maior,61,2,130000
-Galicia,Ourense,Piso,Calle Curros Enriquez,86,3,75000
-Galicia,Ourense,Piso,Camino de Ponferrada,152,4,66880
-Galicia,Ourense,Piso,Progreso,80,3,236000
-Galicia,Ourense,Chalet,Calle Xoan Montes Capon,500,4,219000
-Galicia,Ourense,Piso,Ervedelo,99,3,265000
-Galicia,Ourense,Piso,Calle Carmen Novoa,94,3,125000
-Galicia,Ourense,Duplex,Calle da Fonte,95,3,140000
-Galicia,Ourense,Piso,Calle Rio Camba,100,3,89990
-Galicia,Ourense,Piso,Calle Ramon Cabanillas,185,4,275000
-Galicia,Ourense,Piso,Avenida de Zamora 32,126,4,135000
-Galicia,Ourense,Piso,Calle Dous de Maio,49,1,93000
-Galicia,Ourense,Chalet,Calle Pereiro de Aguiar,186,4,220000
-Galicia,Ourense,Piso,Calle dos Berrocas,90,4,100000
-Galicia,Ourense,Piso,Calle do Progreso,100,3,240000
-Galicia,Ourense,Duplex,Camino Miramon,150,4,250000
-Galicia,Ourense,Piso,Calle dos Remedios,85,4,199999
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,92,3,480000
-Galicia,Ourense,Piso,Camino de Ponferrada,126,4,63840
-Galicia,Ourense,Chalet,Calle Julia Minguillon,320,5,290000
-Galicia,Ourense,Piso,Avenida de la Habana,118,3,350000
-Galicia,Ourense,Piso,Nosa Senora da Sainza,90,3,160000
-Galicia,Ourense,Duplex,Calle Desengano,90,3,225000
-Galicia,Ourense,Piso,Avenida Celanova,40,1,85000
-Galicia,Ourense,Piso,Camino Ponte Codesal,90,3,160000
-Galicia,Ourense,Piso,Calle San Martino,90,3,119000
-Galicia,Ourense,Piso,Calle San Martino,90,3,119000
-Galicia,Ourense,Piso,Camino de Ponferrada,136,4,66880
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,82,3,480000
-Galicia,Ourense,Atico,Avenida de Santiago,110,3,250000
-Galicia,Ourense,Chalet,Calle Julia Minguillon,320,5,290000
-Galicia,Ourense,Duplex,Calle Desengano,90,3,225000
-Galicia,Ourense,Piso,Calle Curros Enriquez,86,3,75000
-Galicia,Ourense,Chalet,SEIXO 20,86,3,177000
-Galicia,Ourense,Chalet,OU-0519,200,6,310000
-Galicia,Ourense,Piso,Ervedelo,107,3,265000
-Galicia,Ourense,Piso,Calle das Camelias,102,3,134500
-Galicia,Ourense,Piso,Calle Rio Camba,100,3,89990
-Galicia,Ourense,Chalet,Calle Pereiro de Aguiar,186,4,220000
-Galicia,Ourense,Chalet,Cesareo Gonzalez,270,4,385000
-Galicia,Ourense,Piso,Calle Barros Sibelo,85,2,225000
-Galicia,Ourense,Piso,Calle Vila Valencia,90,3,131000
-Galicia,Ourense,Piso,Avenida Julio Rodriguez Soto,100,3,75000
-Galicia,Ourense,Chalet,Lugar Seijo,156,4,332000
-Galicia,Ourense,Piso,Calle Bonhome,128,4,179598
-Galicia,Ourense,Chalet,Calle Xoan Montes Capon,500,4,219000
-Galicia,Ourense,Chalet,Avenida de Madrid,778,6,190000
-Galicia,Ourense,Chalet,pumares s/n,140,4,75000
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,35,3,480000
-Galicia,Ourense,Chalet,OU-320,345,4,185000
-Galicia,Ourense,Chalet,condado,111,3,190000
-Galicia,Ourense,Piso,Avenida Celanova,47,1,85000
-Galicia,Ourense,Piso,Calle San Rosendo,121,4,163400
-Galicia,Ourense,Piso,Calle Curros Enriquez 37,74,2,169000
-Galicia,Ourense,Piso,emilia pardo bazan 32003 s/n,119,3,75000
-Galicia,Ourense,Piso,Avenida de Celanova,130,4,128000
-Galicia,Ourense,Chalet,Las escuelas 41,197,5,499900
-Galicia,Ourense,Casa Rural,Aldea de Abaixo,776,8,780000
-Galicia,Ourense,Piso,Plaza Andres de Prada 1 nB,97,3,135000
-Galicia,Ourense,Piso,Calle da Coruna 1,7,2,126000
-Galicia,Ourense,Chalet,Camino Longo,188,5,90000
-Galicia,Ourense,Piso,Calle Doctor Pena Rey,120,3,90000
-Galicia,Ourense,Chalet,Troncoso s/n,300,4,260000
-Galicia,Ourense,Piso,Cardenal Quevedo,101,3,295000
-Galicia,Ourense,Duplex,Xesus Pousa,126,4,398000
-Galicia,Ourense,Chalet,Calle o Seixo,84,3,177000
-Galicia,Ourense,Chalet,Calle o Seixo,84,3,177000
-Galicia,Ourense,Piso,Cardenal Quevedo,95,3,295000
-Galicia,Ourense,Chalet,Xunqueira de Ambia,193,5,40000
-Galicia,Ourense,Piso,Pena Trevinca,91,4,129000
-Galicia,Ourense,Piso,Travesia Vista Fermosa,73,2,129000
-Galicia,Ourense,Piso,Calle Prego de Oliver,110,3,190000
-Galicia,Ourense,Casa Rural,Calle Paradela 17,88,3,30000
-Galicia,Ourense,Chalet,Camino Longo,200,5,90000
-Galicia,Ourense,Chalet,Caseriu Nevoade 7,80,2,39500
-Galicia,Ourense,Chalet,Camino Real,81,4,190000
-Galicia,Ourense,Chalet,Troncoso Castrelo de Mino,100,3,130000
-Galicia,Ourense,Chalet,Calle santa cruz de o bolo 13,87,4,35000
-Galicia,Ourense,Piso,Calle do Ribeiro,83,3,88000
-Galicia,Ourense,Chalet,Os Peares s/n,300,4,165000
-Galicia,Ourense,Chalet,OU-402 1,13500,5,700000
-Galicia,Ourense,Duplex,Plaza Eduardo BARREIROS,83,3,170000
-Galicia,Ourense,Piso,Calle Picasso 1,3,5,100000
-Galicia,Ourense,Chalet,Barbadas,500,3,295000
-Galicia,Ourense,Chalet,VILAR,370,8,1000000
-Galicia,Ourense,Piso,Plaza Andres de Prada 1 nB,104,3,135000
-Galicia,Ourense,Piso,Calle Progreso,105,4,320000
-Galicia,Ourense,Chalet,Avenida do Parque 49,25,4,498000
-Galicia,Ourense,Chalet,Soutullo s/n,2200,5,325000
-Galicia,Ourense,Duplex,Xesus Pousa,140,4,398000
-Galicia,Ourense,Chalet,Troncoso s/n,300,4,260000
-Galicia,Ourense,Chalet,A peroxa,100,2,90000
-Galicia,Ourense,Chalet,OU-CV-346 18,247,4,171000
-Galicia,Ourense,Casa Rural,Aldea de Abaixo,776,8,780000
-Galicia,Ourense,Piso,Calle da Coruna 1,7,2,126000
-Galicia,Ourense,Piso,Calle Doctor Pena Rey,119,3,90000
-Galicia,Ourense,Piso,Avenida de Calvo Sotelo 11 N,106,3,87000
-Galicia,Ourense,Chalet,O Carballino,6000,3,400000
-Galicia,Ourense,Chalet,Avenida Lopez Blanco,147,4,112600
-Galicia,Ourense,Piso,Calle Rio Navea,80,3,185000
-Galicia,Ourense,Chalet,Calle Adoria,2800,6,460000
-Galicia,Ourense,Chalet,Barrio de Abaixo,157,4,55000
-Galicia,Ourense,Casa Rural,Lugar Carracedo 11,100,3,40000
-Galicia,Ourense,Piso,Avenida das Caldas,114,3,170000
-Galicia,Ourense,Casa Rural,Calle Alfredo Nan 6,570,10,199000
-Galicia,Ourense,Piso,Calle de Tomas Rguez Punxin,93,3,115300
-Galicia,Ourense,Casa Rural,San Cristovo de Cea,240,2,44500
-Galicia,Ourense,Piso,Hermanos Fernandez Alvarez 9,91,3,69500
-Galicia,Ourense,Duplex,Calle Manuel Murguia,122,4,189000
-Galicia,Ourense,Casa Rural,Calle Alfredo Nan 6,521,10,199000
-Galicia,Ourense,Chalet,Olas de Vilarino s/n,625,4,490000
-Galicia,Ourense,Piso,Marinamansa,73,4,200300
-Galicia,Ourense,Casa Rural,parada de sil s/n,286,7,990000
-Galicia,Ourense,Piso,Calle do Bierzo,61,2,187000
-Galicia,Ourense,Casa Rural,Lugar Carracedo 11,100,3,40000
-Galicia,Ourense,Chalet,Calle lugar de zapeaus s/n,145,4,30000
-Galicia,Ourense,Chalet,Calle Conde,30,5,350000
-Galicia,Ourense,Piso,Calle de Tomas Rguez Punxin,118,3,115300
-Galicia,Ourense,Chalet,Avenida Lopez Blanco,132,4,112600
-Galicia,Ourense,Chalet,Calle Adoria,2800,6,460000
-Galicia,Ourense,Piso,Avenida de Calvo Sotelo 11 N,120,3,87000
-Galicia,Ourense,Piso,Calle do Progreso,178,5,360000
-Galicia,Ourense,Chalet,Barrio de Abaixo,130,4,55000
-Galicia,Ourense,Piso,Avenida de Santiago,98,3,159000
-Galicia,Ourense,Chalet,Plaza de Pena Vixia 4,131,3,240000
-Galicia,Ourense,Chalet,Vista Hermosa,156,4,540000
-Galicia,Ourense,Chalet,Allariz,241,5,230000
-Galicia,Ourense,Chalet,Camino de Loiro,80,3,68000
-Galicia,Ourense,Chalet,Marinamansa,8,4,155000
-Galicia,Ourense,Piso,Casco Viejo,70,4,360000
-Galicia,Ourense,Chalet,Barbadas,372,9,129000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,370,4,325000
-Galicia,Ourense,Chalet,O Vinteun,690,4,350000
-Galicia,Ourense,Piso,Vilamarin,190,2,93000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,111,3,55000
-Galicia,Ourense,Piso,Calle Parque San Lazaro 2,102,3,190000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,277,5,269000
-Galicia,Ourense,Chalet,Coles,1800,3,240000
-Galicia,Ourense,Chalet,Vista Hermosa,270,3,99000
-Galicia,Ourense,Piso,Couto,115,3,150000
-Galicia,Ourense,Chalet,Couto,169,5,125000
-Galicia,Ourense,Casa Rural,Lugar Rosairo 8,147,4,62000
-Galicia,Ourense,Chalet,Amoeiro,340,5,335000
-Galicia,Ourense,Chalet,Barbadas,50,5,240000
-Galicia,Ourense,Chalet,Maside,160,1,29000
-Galicia,Ourense,Piso,O Vinteun,88,3,170000
-Galicia,Ourense,Piso,Centro,150,4,275000
-Galicia,Ourense,Piso,San Cibrao das Vinas,91,3,129900
-Galicia,Ourense,Piso,Polvorin,118,4,65000
-Galicia,Ourense,Chalet,Barbadas,245,6,460000
-Galicia,Ourense,Piso,Calle Espido 3,97,3,100370
-Galicia,Ourense,Piso,Couto,145,4,75000
-Galicia,Ourense,Piso,Couto,74,3,77000
-Galicia,Ourense,Chalet,Lugar Remoino 9,134,4,150000
-Galicia,Ourense,Chalet,Amoeiro,2000,1,149000
-Galicia,Ourense,Piso,Calle Juan XXIII,148,4,550000
-Galicia,Ourense,Chalet,Muinos,300,5,99000
-Galicia,Ourense,Piso,Barrocanes,184,5,260000
-Galicia,Ourense,Chalet,Lugar Xestosa 54,300,6,155000
-Galicia,Ourense,Chalet,Barbadas,427,3,186000
-Galicia,Ourense,Piso,Couto,110,3,330000
-Galicia,Ourense,Chalet,Celanova,128,3,47025
-Galicia,Ourense,Chalet,Toen,170,2,80500
-Galicia,Ourense,Chalet,Coles,367,12,450000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,450,5,330000
-Galicia,Ourense,Chalet,Vilamarin,215,3,76599
-Galicia,Ourense,Chalet,Barbadas,60,2,75000
-Galicia,Ourense,Piso,Barrocanes,95,4,105000
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,60,1,134500
-Galicia,Ourense,Chalet,Vista Hermosa,149,4,540000
-Galicia,Ourense,Chalet,Calle Campo Feria 3 -1,118,3,145000
-Galicia,Ourense,Chalet,Couto,164,5,125000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,172,3,48000
-Galicia,Ourense,Chalet,Coles,350,4,325000
-Galicia,Ourense,Piso,A Carballeira,98,3,125000
-Galicia,Ourense,Piso,Casco Viejo,195,5,215000
-Galicia,Ourense,Piso,Centro,228,3,650000
-Galicia,Ourense,Chalet,Marinamansa,8,4,155000
-Galicia,Ourense,Chalet,Maside,160,1,29000
-Galicia,Ourense,Piso,Couto,103,3,150000
-Galicia,Ourense,Duplex,Avenida de Santiago,85,3,185000
-Galicia,Ourense,Chalet,Barbadas,372,9,129000
-Galicia,Ourense,Chalet,O Vinteun,556,5,450000
-Galicia,Ourense,Chalet,Barrocanes,100,7,100000
-Galicia,Ourense,Chalet,Coles,4500,4,350000
-Galicia,Ourense,Chalet,Allariz,175,4,100000
-Galicia,Ourense,Chalet,Couto,175,5,125000
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,57,1,134500
-Galicia,Ourense,Chalet,San Cibrao das Vinas,450,5,330000
-Galicia,Ourense,Chalet,Celanova,128,3,47025
-Galicia,Ourense,Chalet,O Vinteun,559,3,98000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,255,4,100000
-Galicia,Ourense,Piso,Calle San Rosendo,133,4,163400
-Galicia,Ourense,Piso,Barrocanes,95,4,105000
-Galicia,Ourense,Piso,A Carballeira,93,3,125000
-Galicia,Ourense,Piso,Centro,123,3,265000
-Galicia,Ourense,Piso,Casco Viejo,70,4,360000
-Galicia,Ourense,Piso,Calle Espido 3,111,3,100370
-Galicia,Ourense,Chalet,Vista Hermosa,127,4,540000
-Galicia,Ourense,Piso,A Ponte,50,2,125000
-Galicia,Ourense,Piso,Casco Viejo,123,4,150000
-Galicia,Ourense,Piso,Casco Viejo,195,5,215000
-Galicia,Ourense,Chalet,Lugar Remoino 9,153,4,150000
-Galicia,Ourense,Piso,Couto,155,4,75000
-Galicia,Ourense,Chalet,Allariz,241,5,230000
-Galicia,Ourense,Piso,Barbadas,133,4,167000
-Galicia,Ourense,Chalet,Amoeiro,340,5,335000
-Galicia,Ourense,Piso,Couto,115,3,330000
-Galicia,Ourense,Piso,Centro,222,4,460000
-Galicia,Ourense,Chalet,Coles,367,12,450000
-Galicia,Ourense,Piso,A Ponte,112,3,225000
-Galicia,Ourense,Chalet,O Vinteun,556,5,450000
-Galicia,Ourense,Chalet,Calle Campo Feria 3 -1,88,3,145000
-Galicia,Ourense,Piso,Nogueira de Ramuin,86,4,45000
-Galicia,Ourense,Chalet,Camino de Loiro,81,3,68000
-Galicia,Ourense,Chalet,Vista Hermosa,270,3,99000
-Galicia,Ourense,Piso,Centro,150,3,620000
-Galicia,Ourense,Piso,Calle Fonte Boa 11,117,3,110000
-Galicia,Ourense,Piso,A Carballeira,89,3,90000
-Galicia,Ourense,Chalet,Coles,400,5,40000
-Galicia,Ourense,Piso,Casco Viejo,91,4,220000
-Galicia,Ourense,Chalet,Aldea Penedo 30,179,5,250000
-Galicia,Ourense,Chalet,Cenlle,208,3,55000
-Galicia,Ourense,Piso,Centro,242,4,590000
-Galicia,Ourense,Chalet,Maside,160,1,29000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,374,4,230000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,370,4,325000
-Galicia,Ourense,Chalet,Couto,200,5,125000
-Galicia,Ourense,Chalet,A Carballeira,165,5,350000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,100,2,55000
-Galicia,Ourense,Duplex,Avenida de Santiago,106,3,185000
-Galicia,Ourense,Chalet,Polvorin,62,2,120000
-Galicia,Ourense,Chalet,Quintela - Los Pinos,488,5,75000
-Galicia,Ourense,Chalet,Vista Hermosa,133,4,540000
-Galicia,Ourense,Piso,Polvorin,118,4,65000
-Galicia,Ourense,Piso,Couto,135,4,75000
-Galicia,Ourense,Piso,Casco Viejo,144,4,150000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,255,4,100000
-Galicia,Ourense,Piso,Nogueira de Ramuin,86,4,45000
-Galicia,Ourense,Chalet,Coles,350,4,325000
-Galicia,Ourense,Chalet,Coles,367,12,450000
-Galicia,Ourense,Piso,A Ponte,100,3,130000
-Galicia,Ourense,Chalet,San Andres de Camporredondo,130,3,128500
-Galicia,Ourense,Piso,Calle Francisco Llorens Diaz,106,3,300000
-Galicia,Ourense,Chalet,Toen,100,3,30000
-Galicia,Ourense,Piso,Xinzo de Limia,115,3,100700
-Galicia,Ourense,Chalet,San Cibrao das Vinas,400,5,700000
-Galicia,Ourense,Piso,Calle Quintian,118,3,57000
-Galicia,Ourense,Piso,Emilia pardo bazan 28,104,3,115000
-Galicia,Ourense,Piso,Avenida Ribeira Sacra 1,88,3,175000
-Galicia,Ourense,Piso,Marinamansa,96,4,140000
-Galicia,Ourense,Chalet,Calle da Costa,5000,3,120000
-Galicia,Ourense,Piso,O Carballino,90,3,85000
-Galicia,Ourense,Piso,Cartelle,136,4,160000
-Galicia,Ourense,Chalet,Allariz,190,2,65000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,70,2,140000
-Galicia,Ourense,Piso,Centro,200,4,550000
-Galicia,Ourense,Piso,Centro,203,5,240000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,90,2,41000
-Galicia,Ourense,Chalet,San Cristovo de Cea,339,4,220000
-Galicia,Ourense,Piso,A Carballeira,83,3,89900
-Galicia,Ourense,Piso,Posio,103,3,240000
-Galicia,Ourense,Chalet,Calle Marques de Trives 62,193,5,250000
-Galicia,Ourense,Piso,Barrocanes,86,3,175000
-Galicia,Ourense,Casa Rural,Aldea Alemparte,140,4,70000
-Galicia,Ourense,Piso,Barrocanes,90,3,185000
-Galicia,Ourense,Chalet,Quintela - Los Pinos,338,4,310000
-Galicia,Ourense,Piso,Barrocanes,90,3,185000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,303,3,100000
-Galicia,Ourense,Piso,Couto,153,4,225000
-Galicia,Ourense,Piso,Centro,203,5,240000
-Galicia,Ourense,Chalet,Calle da Costa,200,3,110000
-Galicia,Ourense,Casa Rural,Trandeiras,150,3,155000
-Galicia,Ourense,Piso,Couto,137,4,210000
-Galicia,Ourense,Piso,Calle Quintian,109,3,57000
-Galicia,Ourense,Chalet,Toen,100,3,30000
-Galicia,Ourense,Chalet,San Cristovo de Cea,339,4,220000
-Galicia,Ourense,Chalet,Cartelle,566,3,65000
-Galicia,Ourense,Piso,A Ponte,129,4,156000
-Galicia,Ourense,Piso,Couto,90,7,99000
-Galicia,Ourense,Piso,Centro,200,4,550000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,1500,6,230000
-Galicia,Ourense,Piso,Couto,102,4,135000
-Galicia,Ourense,Piso,O Vinteun,120,3,150000
-Galicia,Ourense,Piso,Xinzo de Limia,115,3,100700
-Galicia,Ourense,Piso,O Carballino,90,3,85000
-Galicia,Ourense,Piso,Couto,110,4,100000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,70,2,140000
-Galicia,Ourense,Casa Rural,San Amaro,500,7,650000
-Galicia,Ourense,Chalet,San Andres de Camporredondo,130,3,128500
-Galicia,Ourense,Chalet,As Lagunas,97,3,120000
-Galicia,Ourense,Piso,Cartelle,136,4,160000
-Galicia,Ourense,Chalet,Allariz,350,6,580000
-Galicia,Ourense,Chalet,Vista Hermosa,384,4,83000
-Galicia,Ourense,Chalet,Calle Marques de Trives 62,181,5,250000
-Galicia,Ourense,Piso,A Carballeira,63,3,49000
-Galicia,Ourense,Chalet,Allariz,190,2,65000
-Galicia,Ourense,Piso,Casco Viejo,89,3,125000
-Galicia,Ourense,Piso,A Ponte,100,3,130000
-Galicia,Ourense,Chalet,Marinamansa,9,3,158990
-Galicia,Ourense,Piso,Posio,103,3,240000
-Galicia,Ourense,Piso,Barrocanes,83,3,84000
-Galicia,Ourense,Chalet,Taboadela,256,4,270000
-Galicia,Ourense,Chalet,Lugar Agro Maior,109,3,76599
-Galicia,Ourense,Piso,Centro,75,3,66000
-Galicia,Ourense,Casa Rural,Lugar Mugares 61,20,3,59000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,400,5,700000
-Galicia,Ourense,Piso,Centro,100,3,320000
-Galicia,Ourense,Piso,Couto,120,4,135000
-Galicia,Ourense,Piso,Calle Curros Enriquez,150,4,390000
-Galicia,Ourense,Piso,Calle Curros Enriquez,223,4,450000
-Galicia,Ourense,Casa Rural,Carretera de San Estevo,411,4,54900
-Galicia,Ourense,Atico,Reboredo,80,2,78000
-Galicia,Ourense,Piso,Calle Francisco Llorens Diaz,99,3,350000
-Galicia,Ourense,Chalet,Aldea Pieles,131,4,175000
-Galicia,Ourense,Chalet,Calle Ridadela,260,4,110000
-Galicia,Ourense,Casa Rural,Calle Portocelo 2,166,5,160000
-Galicia,Ourense,Chalet,Carretera de Logrono,145,4,69000
-Galicia,Ourense,Casa Rural,Lugar a Albergueria,366,8,475000
-Galicia,Ourense,Piso,Calle Zurbaran,72,3,100000
-Galicia,Ourense,Chalet,Calle SUATORRE,132,4,65000
-Galicia,Ourense,Chalet,Plaza de Barral,54,1,41900
-Galicia,Ourense,Piso,Calle Rio Avia,87,3,52000
-Galicia,Ourense,Piso,Calle Carriarico,100,3,158400
-Galicia,Ourense,Piso,Calle Quintian,18,2,83435
-Galicia,Ourense,Piso,Calle do Progreso,85,2,175000
-Galicia,Ourense,Chalet,Camino Zamora-Santiago,240,4,175000
-Galicia,Ourense,Piso,Avenida da Habana,159,3,350000
-Galicia,Ourense,Chalet,Camino de Portugal,143,4,335000
-Galicia,Ourense,Chalet,COLES,150,4,600000
-Galicia,Ourense,Piso,Calle Doutor Cabaleiro,117,3,73000
-Galicia,Ourense,Chalet,Rabaza Arriba,81,3,39900
-Galicia,Ourense,Chalet,Lugar Trellerma,277,4,215000
-Galicia,Ourense,Casa Rural,Carretera Palmes,519,3,125000
-Galicia,Ourense,Chalet,Calle Caudillo,80,3,295000
-Galicia,Ourense,Piso,Carretera Vigo,110,2,155000
-Galicia,Ourense,Piso,Calle dos Berrocas,80,3,85000
-Galicia,Ourense,Casa Rural,Camino sen nome,270,7,450000
-Galicia,Ourense,Chalet,Aldea Vilar,640,7,999000
-Galicia,Ourense,Piso,Avenida da Habana,97,4,170000
-Galicia,Ourense,Chalet,Leiro,160,4,145000
-Galicia,Ourense,Chalet,Lugar a Derrasa,17000,6,475000
-Galicia,Ourense,Piso,Calle Carriarico,126,4,70000
-Galicia,Ourense,Piso,Calle San Rosendo,100,3,160000
-Galicia,Ourense,Chalet,Calle da Moura,500,4,320000
-Galicia,Ourense,Chalet,Lugar Boveda,192,5,219000
-Galicia,Ourense,Piso,Calle Curros Enriquez,223,4,450000
-Galicia,Ourense,Duplex,Calle la Bella Otero,189,5,250000
-Galicia,Ourense,Chalet,Carretera de Logrono,139,4,69000
-Galicia,Ourense,Piso,Calle Doutor Cabaleiro,90,3,73000
-Galicia,Ourense,Chalet,Lugar a Madalena,2500,5,250000
-Galicia,Ourense,Casa Rural,Calle Portocelo 2,198,5,160000
-Galicia,Ourense,Piso,Calle San Rosendo,100,3,160000
-Galicia,Ourense,Chalet,Calle Caudillo,111,3,295000
-Galicia,Ourense,Piso,Calle Zurbaran,72,3,100000
-Galicia,Ourense,Chalet,Lg A Fontela s/n,180,4,45000
-Galicia,Ourense,Piso,Calle do Progreso,85,2,175000
-Galicia,Ourense,Casa Rural,Lugar a Albergueria,304,8,475000
-Galicia,Ourense,Chalet,Calle Gustei,10000,6,2600000
-Galicia,Ourense,Chalet,Plaza de Barral,51,1,41900
-Galicia,Ourense,Casa Rural,PAIZAS s/n,112,3,48000
-Galicia,Ourense,Piso,Calle do Ribeiro,6,3,138000
-Galicia,Ourense,Chalet,Lugar Cotelas,83,3,55000
-Galicia,Ourense,Chalet,Calle Santo Estevo,121,4,40000
-Galicia,Ourense,Chalet,OU-209,50,4,340000
-Galicia,Ourense,Piso,Calle Ribeira de Canedo,75,2,160000
-Galicia,Ourense,Piso,Avenida da Habana,134,3,198000
-Galicia,Ourense,Atico,Calle Fonte Boa,85,3,135000
-Galicia,Ourense,Chalet,Plaza da Madalena,117,3,109000
-Galicia,Ourense,Piso,Calle Doutor Fleming,110,3,180000
-Galicia,Ourense,Chalet,Calle Rampa de Sas,400,5,350000
-Galicia,Ourense,Duplex,Calle do Paseo,115,3,358000
-Galicia,Ourense,Piso,Calle do Progreso,100,2,218000
-Galicia,Ourense,Chalet,Lugar Cachamuina,276,7,999000
-Galicia,Ourense,Piso,Calle Prego de Oliver,103,3,150000
-Galicia,Ourense,Chalet,Pereiras,170,5,254000
-Galicia,Ourense,Piso,Calle do Progreso,110,4,320000
-Galicia,Ourense,Chalet,Calle Mezquita,204,6,133000
-Galicia,Ourense,Piso,Calle Galicia,94,3,83000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,461,6,350000
-Galicia,Ourense,Chalet,Calle Regueira,4500,4,198000
-Galicia,Ourense,Duplex,Cesareo Gonzalez,30,4,249000
-Galicia,Ourense,Chalet,Camino de Lebosende,136,4,83000
-Galicia,Ourense,Chalet,Lugar Sequeiros,152,4,250000
-Galicia,Ourense,Duplex,Calle J,80,3,154900
-Galicia,Ourense,Chalet,urbanizacion pazo ramiras,171,5,490000
-Galicia,Ourense,Chalet,Calle Regueira,4500,4,198000
-Galicia,Ourense,Chalet,Calle de San Silvestre,4500,6,390000
-Galicia,Ourense,Estudio,Calle Dous de Maio,42,0,75000
-Galicia,Ourense,Duplex,Calle J,102,3,154900
-Galicia,Ourense,Casa Rural,Arnoia s/n,300,3,48000
-Galicia,Ourense,Chalet,Santa uxia de lobas,243,3,43000
-Galicia,Ourense,Chalet,OU-0525,5800,5,219000
-Galicia,Ourense,Chalet,Carretera Gabino Bugallal,343,4,195000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,461,6,350000
-Galicia,Ourense,Chalet,Calle Mezquita,229,6,133000
-Galicia,Ourense,Chalet,Calle de Ribadavia,360,4,208000
-Galicia,Ourense,Chalet,Calle do Vinteun,133,4,345000
-Galicia,Ourense,Piso,Calle da Concordia,115,4,185000
-Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54,2,93000
-Galicia,Ourense,Chalet,Cesareo Gonzalez,276,4,385000
-Galicia,Ourense,Piso,Calle de Blanco Amor,80,3,70000
-Galicia,Ourense,Piso,Calle Ribeira de Canedo,85,2,155000
-Galicia,Ourense,Chalet,Calle Regueira,128,4,198000
-Galicia,Ourense,Piso,Calle Valle Inclan,110,3,210000
-Galicia,Ourense,Piso,Calle Curros Enriquez,104,3,350000
-Galicia,Ourense,Piso,Calle das Camelias,107,3,134500
-Galicia,Ourense,Piso,Calle Ramon Cabanillas,158,4,275000
-Galicia,Ourense,Chalet,Calle das Coinas,261,3,139000
-Galicia,Ourense,Piso,Calle do Bierzo,70,2,187000
-Galicia,Ourense,Piso,Calle Garcia Mosquera,83,3,90000
-Galicia,Ourense,Piso,Calle do Ensino,90,3,130000
-Galicia,Ourense,Chalet,Calle Ramon Otero Pedrayo,270,3,195900
-Galicia,Ourense,Chalet,OU-402,100,4,375000
-Galicia,Ourense,Duplex,Calle Vicente Risco,130,4,380000
-Galicia,Ourense,Piso,Calle Valle Inclan,100,3,230000
-Galicia,Ourense,Chalet,Aldea Barzamedelle,110,2,49900
-Galicia,Ourense,Duplex,Calle Cotelma,112,3,175000
-Galicia,Ourense,Chalet,Lugar Barbantes,108,3,55000
-Galicia,Ourense,Casa Rural,Camino de Lebosende,140,4,53000
-Galicia,Ourense,Piso,Calle Ramon Cabanillas,180,4,275000
-Galicia,Ourense,Piso,Calle Ribeira de Canedo,75,2,160000
-Galicia,Ourense,Chalet,Camino de Lebosende,86,3,69900
-Galicia,Ourense,Estudio,17 de Mayo,31,0,89000
-Galicia,Ourense,Piso,Calle Galicia,117,3,83000
-Galicia,Ourense,Chalet,Camino de Leiro,198,5,380000
-Galicia,Ourense,Chalet,Lugar Sequeiros,134,4,250000
-Galicia,Ourense,Piso,Calle Ribeirino,87,3,95000
-Galicia,Ourense,Piso,Av de Portugal,72,2,205000
-Galicia,Ourense,Casa Rural,Camino Cruz de Beran,142,4,79000
-Galicia,Ourense,Duplex,Calle Galicia,234,6,103000
-Galicia,Ourense,Piso,Eulogio Fernandez,157,4,95000
-Galicia,Ourense,Duplex,Avenida de Celanova,137,4,153000
-Galicia,Ourense,Piso,Calle Parque de San Lazaro,128,4,450000
-Galicia,Ourense,Piso,Avenida de Santiago,104,3,87000
-Galicia,Ourense,Atico,Calle Arturo Perez Serantes,113,3,220000
-Galicia,Ourense,Chalet,Tamallancos,4800,5,580000
-Galicia,Ourense,Piso,Avenida da Habana,134,3,198000
-Galicia,Ourense,Casa Rural,Puga s/n,419,9,95000
-Galicia,Ourense,Piso,Calle Rio Bibei,87,3,165000
-Galicia,Ourense,Chalet,Plaza San Lourenzo,94,3,65000
-Galicia,Ourense,Chalet,BANGA (CRTA MISIEGO),128,4,350000
-Galicia,Ourense,Chalet,Calle Toribio Garcia F Marqu,100,3,135000
-Galicia,Ourense,Piso,Calle do Ensino,90,3,130000
-Galicia,Ourense,Atico,Calle Fonte Boa,85,3,135000
-Galicia,Ourense,Chalet,o seixo,102,3,169000
-Galicia,Ourense,Piso,Calle do Bierzo,71,2,187000
-Galicia,Ourense,Chalet,Calle os Chaos,241,6,270000
-Galicia,Ourense,Duplex,Cesareo Gonzalez,45,4,249000
-Galicia,Ourense,Chalet,Camino de Lebosende,122,4,83000
-Galicia,Ourense,Chalet,N-120,190,5,90000
-Galicia,Ourense,Chalet,Aldea Picouto,362,6,260000
-Galicia,Ourense,Chalet,Lugar Barbantes,113,3,55000
-Galicia,Ourense,Chalet,Calle Regueira,151,4,198000
-Galicia,Ourense,Piso,Calle Noriega Varela,102,3,155000
-Galicia,Ourense,Chalet,Lugar Bieite,200,3,72900
-Galicia,Ourense,Chalet,Camino de Pazos,197,5,120000
-Galicia,Ourense,Chalet,Camino Real,133,4,200000
-Galicia,Ourense,Chalet,Camino de Lebosende,91,3,69900
-Galicia,Ourense,Chalet,OU-0201,200,4,49000
-Galicia,Ourense,Duplex,Avenida Lopez Blanco 70,119,3,126000
-Galicia,Ourense,Chalet,Carretera Cruceiro,273,7,148000
-Galicia,Ourense,Piso,Calle do Paseo,8,4,485000
-Galicia,Ourense,Chalet,urbanizacion pazo ramiras,193,5,490000
-Galicia,Ourense,Chalet,Lugar Cachamuina,294,7,999000
-Galicia,Ourense,Piso,Avenida de Santiago,109,3,120000
-Galicia,Ourense,Chalet,Calle de Ribadavia,360,4,208000
-Galicia,Ourense,Piso,Calle de Blanco Amor,116,3,70000
-Galicia,Ourense,Chalet,Travesia Xaquin Lorenzo,144,4,138000
-Galicia,Ourense,Piso,Calle do Progreso,110,4,320000
-Galicia,Ourense,Piso,Avenida de Santiago,119,3,87000
-Galicia,Ourense,Casa Rural,Arnoia s/n,300,3,48000
-Galicia,Ourense,Chalet,Cesareo Gonzalez,276,4,385000
-Galicia,Ourense,Chalet,Camino de Sabadelle,420,5,350000
-Galicia,Ourense,Chalet,Calle Rampa de Sas,400,5,439000
-Galicia,Ourense,Piso,Calle do Paseo,8,4,485000
-Galicia,Ourense,Chalet,Aldea Picouto,362,6,260000
-Galicia,Ourense,Chalet,Calle Santa Catalina,560,6,450000
-Galicia,Ourense,Piso,Calle Prego de Oliver,110,3,190000
-Galicia,Ourense,Piso,Calle Basilio Alvarez,82,3,190000
-Galicia,Ourense,Chalet,Lugar Barbantes,81,3,55000
-Galicia,Ourense,Duplex,Calle Galicia,238,6,103000
-Galicia,Ourense,Casa Rural,Camino de Lebosende,142,4,53000
-Galicia,Ourense,Chalet,Calle Eligio Gonzalez,200,4,320000
-Galicia,Ourense,Chalet,Lugar Cenlle,3000,3,66000
-Galicia,Ourense,Piso,Calle Ribeirino,109,3,95000
-Galicia,Ourense,Piso,Calle Ribeira de Canedo,85,2,155000
-Galicia,Ourense,Piso,Calle das Camelias,102,3,134500
-Galicia,Ourense,Piso,Calle Valle Inclan,108,3,210000
-Galicia,Ourense,Chalet,OU-402,100,4,375000
-Galicia,Ourense,Piso,Avenida da Habana,134,3,198000
-Galicia,Ourense,Casa Rural,Puga s/n,655,9,95000
-Galicia,Ourense,Piso,Calle Ramon Cabanillas,127,4,275000
-Galicia,Ourense,Chalet,Carretera Cruceiro,260,7,148000
-Galicia,Ourense,Duplex,Avenida Portugal,104,3,210000
-Galicia,Ourense,Chalet,N-120,165,5,90000
-Galicia,Ourense,Duplex,Avenida Portugal,100,3,220000
-Galicia,Ourense,Piso,Calle Ramon Cabanillas,180,4,275000
-Galicia,Ourense,Chalet,Calle das Coinas,261,3,139000
-Galicia,Ourense,Piso,Calle San Paio,144,4,136000
-Galicia,Ourense,Piso,Av de Portugal,72,2,205000
-Galicia,Ourense,Chalet,Camino Real,144,4,200000
-Galicia,Ourense,Duplex,Calle Cotelma,112,3,175000
-Galicia,Ourense,Piso,Avenida da Habana,160,3,349000
-Galicia,Ourense,Piso,Calle do Progreso,100,2,218000
-Galicia,Ourense,Casa Rural,Calle Regueira,62,2,75800
-Galicia,Ourense,Chalet,Carretera Amiudal,92,3,165000
-Galicia,Ourense,Chalet,Calle Veiga de Abaixo,85,3,129900
-Galicia,Ourense,Piso,Eulogio Fernandez,157,4,95000
-Galicia,Ourense,Chalet,Camino da Capela,218,6,53000
-Galicia,Ourense,Chalet,Calle do Vinteun,111,3,160000
-Galicia,Ourense,Chalet,Lugar a Peroxa,986,2,65000
-Galicia,Ourense,Piso,O Vinteun,80,3,35000
-Galicia,Ourense,Piso,Parque San Lazaro,165,5,700000
-Galicia,Ourense,Chalet,Avenida de Zamora,180,3,165000
-Galicia,Ourense,Piso,Carretera de Vigo-Outariz,91,3,114000
-Galicia,Ourense,Piso,Posio,98,3,135000
-Galicia,Ourense,Chalet,Calle Julia Minguillon,50,5,290000
-Galicia,Ourense,Chalet,Celanova,158,3,90500
-Galicia,Ourense,Duplex,Calle Pena Nofre,104,3,165000
-Galicia,Ourense,Chalet,Celanova,20408,3,165000
-Galicia,Ourense,Chalet,Flariz,248,4,55000
-Galicia,Ourense,Chalet,Calle da Marquesa,200,3,135000
-Galicia,Ourense,Piso,Universidad,63,2,225000
-Galicia,Ourense,Piso,Calle do Progreso,131,4,340000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,250,5,80000
-Galicia,Ourense,Chalet,Chaodarcas s/n,3000,2,155000
-Galicia,Ourense,Chalet,Camino do Conde 2,110,3,145000
-Galicia,Ourense,Piso,O Carballino,159,3,261000
-Galicia,Ourense,Casa Rural,Reboredo 21,47,1,52000
-Galicia,Ourense,Piso,Barrocanes,95,3,147000
-Galicia,Ourense,Piso,Calle Deputacion 1,101,3,110000
-Galicia,Ourense,Chalet,duque de ahumada 36,128,4,98000
-Galicia,Ourense,Chalet,Universidad,251,3,150000
-Galicia,Ourense,Chalet,LG MEIRE,168,2,59000
-Galicia,Ourense,Casa Rural,Lugar As Lamas 18,87,3,55000
-Galicia,Ourense,Chalet,O Barco de Valdeorras,232,3,113000
-Galicia,Ourense,Chalet,Ribadavia,210,1,110000
-Galicia,Ourense,Duplex,Barrocanes,80,2,149900
-Galicia,Ourense,Chalet,A Seara s/n,135,4,90000
-Galicia,Ourense,Piso,Calle Serra Martina,90,3,175000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,204,3,85000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,166,4,423000
-Galicia,Ourense,Piso,Couto,125,4,100000
-Galicia,Ourense,Casa Rural,Covelas Os Blancos s/n sn,300,4,31000
-Galicia,Ourense,Piso,Calle A Noriega Varela 6,108,3,155000
-Galicia,Ourense,Chalet,Leiro,42,1,185000
-Galicia,Ourense,Casa Rural,Lugar Freixoso de Penela 19,1000,4,33000
-Galicia,Ourense,Chalet,Nogueira de Ramuin,204,3,85000
-Galicia,Ourense,Chalet,SOUTOPENEDO s/n,80,0,35000
-Galicia,Ourense,Piso,JUAN GUERRA VALDES,80,2,58000
-Galicia,Ourense,Duplex,Calle do Paseo,8,4,550000
-Galicia,Ourense,Piso,Calle Progreso,99,3,260000
-Galicia,Ourense,Piso,Calle Jesus Soria,139,4,85000
-Galicia,Ourense,Chalet,Calle do Campo,159,4,99900
-Galicia,Ourense,Piso,Avenida Portugal 75 -73,76,2,205000
-Galicia,Ourense,Atico,Calle Xavier Prado Lameiro,103,3,195000
-Galicia,Ourense,Piso,Calle Fonte Boa,70,2,90000
-Galicia,Ourense,Piso,Calle Vazquez de Mella 2,73,2,117000
-Galicia,Ourense,Chalet,Comarcal 14 -16,122,4,270000
-Galicia,Ourense,Piso,Calle do Progreso 87,62,2,175000
-Galicia,Ourense,Chalet,Cumial s/n,4000,5,620000
-Galicia,Ourense,Piso,Plaza Maior 10,98,3,120000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,129,4,185000
-Galicia,Ourense,Piso,Calle do Concello 18,180,5,330000
-Galicia,Ourense,Chalet,Calle Bieito Amado,100,4,250000
-Galicia,Ourense,Duplex,Calle Nsa Sra da Sainza,108,3,250000
-Galicia,Ourense,Piso,Curros Enriquez,223,4,499000
-Galicia,Ourense,Piso,O Carballino,85,4,70000
-Galicia,Ourense,Piso,PARQUE DE SAN LAZARO 6,148,4,400000
-Galicia,Ourense,Piso,Avenida das Caldas,84,3,170000
-Galicia,Ourense,Chalet,Beade s/n,120,2,40000
-Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,102,3,220000
-Galicia,Ourense,Piso,Calle Fonte Boa,68,2,80000
-Galicia,Ourense,Atico,Calle Fonte Boa,86,3,135000
-Galicia,Ourense,Chalet,Camino sen nome 40,100,3,35000
-Galicia,Ourense,Duplex,Calle Ramon Puga,86,3,225000
-Galicia,Ourense,Piso,Calle do Caravel,65,2,110000
-Galicia,Ourense,Duplex,Calle do Paseo 23 -9,137,4,480000
-Galicia,Ourense,Duplex,Avenida Habana,113,3,540000
-Galicia,Ourense,Piso,Avenida da Habana,170,3,450000
-Galicia,Ourense,Piso,Calle Gregorio Fernandez 1,65,2,110000
-Galicia,Ourense,Casa Rural,Paseo da Praia Fluvial,185,5,150000
-Galicia,Ourense,Piso,Avenida Buenos Aires,137,4,110000
-Galicia,Ourense,Piso,Avenida de la Habana,114,3,320000
-Galicia,Ourense,Duplex,Plaza Sorolla,157,4,220000
-Galicia,Ourense,Piso,Calle Carlos Maside,117,3,190000
-Galicia,Ourense,Casa Rural,Calle Hospital,122,4,170000
-Galicia,Ourense,Piso,Rua Velazquez 12,92,3,140000
-Galicia,Ourense,Piso,Calle Joaquin Lorenzo 2,227,6,290000
-Galicia,Ourense,Piso,Calle Eulogio Gomez Franqueira 29,110,3,190000
-Galicia,Ourense,Piso,Calle Alberto Garcia Ferreiro,100,3,144000
-Galicia,Ourense,Piso,Calle Mateo de Prado,99,3,135000
-Galicia,Ourense,Piso,Calle Melchor de Velasco 13,62,2,145000
-Galicia,Ourense,Piso,Calle Gregorio Fernandez 17,120,4,200000
-Galicia,Ourense,Chalet,Toen,201,6,230000
-Galicia,Ourense,Piso,Calle do Progreso 49,152,4,200000
-Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,63,3,135000
-Galicia,Ourense,Chalet,Calle Invernadoiro,115,3,288000
-Galicia,Ourense,Chalet,Porqueira,216,3,98000
-Galicia,Ourense,Piso,Calle Prego de Oliver,110,3,150000
-Galicia,Ourense,Piso,Calle Ramon Cabanillas 7,147,4,275000
-Galicia,Ourense,Piso,Calle Garcia Mosquera 1,90,3,159000
-Galicia,Ourense,Chalet,Calle Rio Limia 12,86,3,160000
-Galicia,Ourense,Chalet,Altamira,250,4,228000
-Galicia,Ourense,Chalet,Calle Curuxa,171,4,159000
-Galicia,Ourense,Piso,Calle Rampa de Sas 3,129,4,100000
-Galicia,Ourense,Chalet,Torneiros 29,101,3,33000
-Galicia,Ourense,Piso,Calle Ribeirino 16,115,3,95000
-Galicia,Ourense,Piso,Andurina,400,3,232000
-Galicia,Ourense,Piso,Avenida de Elena Quiroga,125,4,51030
-Galicia,Ourense,Piso,Carretera de la Granxa,117,3,115000
-Galicia,Ourense,Piso,Avenida da Universidade 7,109,3,85000
-Galicia,Ourense,Chalet,Avenida de Portugal,105,3,150000
-Galicia,Ourense,Piso,Calle Alejandro Pedrosa,100,3,210000
-Galicia,Ourense,Piso,Avenida de Celanova 75,108,3,127000
-Galicia,Ourense,Piso,Calle Parque San Lazaro 7,138,2,325000
-Galicia,Ourense,Piso,Calle Doutor Fleming 12 B,126,4,200000
-Galicia,Ourense,Duplex,Da Presa 4,127,4,155000
-Galicia,Ourense,Chalet,Calle b,170,4,179000
-Galicia,Ourense,Chalet,Lugar Vilar da Barra 18,112,3,150000
-Galicia,Ourense,Chalet,Allariz,63,2,75000
-Galicia,Ourense,Piso,Jesus Soria 11,81,3,98000
-Galicia,Ourense,Piso,Calle Parque de San Lazaro 2,80,3,190000
-Galicia,Ourense,Piso,Calle Cardenal Quevedo,132,3,550000
-Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54,2,96900
-Galicia,Ourense,Piso,Calle Ramon Cabanillas 7,152,4,275000
-Galicia,Ourense,Chalet,Avenida de Portugal,80,3,150000
-Galicia,Ourense,Piso,Avenida de portugal,86,3,73000
-Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,63,3,135000
-Galicia,Ourense,Piso,Calle Alejandro Pedrosa,100,3,210000
-Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54,2,96900
-Galicia,Ourense,Chalet,Vilamarin,350,7,125000
-Galicia,Ourense,Chalet,Calle Chao do Rio,1240,3,28700
-Galicia,Ourense,Chalet,Lg casnaloba,352,6,159000
-Galicia,Ourense,Chalet,Camino Real,129,4,190000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,300,5,240000
-Galicia,Ourense,Casa Rural,Calle DA PITA - REQUEIXO - PINOR 21,273,0,99000
-Galicia,Ourense,Piso,Calle Vasco da Ponte,30,2,129000
-Galicia,Ourense,Chalet,VISTAHERMOSA,207,6,150000
-Galicia,Ourense,Piso,Calle Xoan XXIII,171,5,169000
-Galicia,Ourense,Piso,Emilia Pardo Bazan,68,2,80000
-Galicia,Ourense,Chalet,Amoeiro,200,4,96000
-Galicia,Ourense,Casa Rural,Nogueira de Ramuin,1300,4,43000
-Galicia,Ourense,Duplex,Calle Anxel Fole,120,3,250000
-Galicia,Ourense,Chalet,Paderne de Allariz,135,3,95000
-Galicia,Ourense,Chalet,Calle Casardomato,90,3,33300
-Galicia,Ourense,Piso,Calle Ervedelo,130,4,225000
-Galicia,Ourense,Chalet,Taboadela,300,3,50000
-Galicia,Ourense,Chalet,Camino do Muino,46,1,164000
-Galicia,Ourense,Piso,Calle Concejo,178,5,320000
-Galicia,Ourense,Piso,ELENA QUIROGA 2,165,5,56700
-Galicia,Ourense,Duplex,Calle Manzaneda,74,2,45000
-Galicia,Ourense,Piso,Avenida de Santiago,130,3,120000
-Galicia,Ourense,Piso,Calle Goya,110,3,80000
-Galicia,Ourense,Piso,Calle Cabeza de Manzaneda,80,3,88000
-Galicia,Ourense,Chalet,Cenlle,205,3,148000
-Galicia,Ourense,Casa Rural,Toen,265,3,45000
-Galicia,Ourense,Piso,Calle Doctor Pena Rey,130,4,85000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,93,3,94600
-Galicia,Ourense,Chalet,Plaza de San Isidro,297,5,258000
-Galicia,Ourense,Chalet,Abelardo Arce Mayora,136,3,248000
-Galicia,Ourense,Piso,Antonio Roman,72,2,130000
-Galicia,Ourense,Chalet,Calle Cidade Deportiva,101,3,180000
-Galicia,Ourense,Piso,Calle do Progreso,104,3,245000
-Galicia,Ourense,Chalet,Lg Meire,150,3,76000
-Galicia,Ourense,Chalet,Taboadela,300,3,50000
-Galicia,Ourense,Chalet,Lg casnaloba,352,6,159000
-Galicia,Ourense,Chalet,Lg Meire,150,3,76000
-Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,111,3,237000
-Galicia,Ourense,Chalet,Calle Casardomato,120,3,33300
-Galicia,Ourense,Piso,Calle Doctor Pena Rey,150,4,85000
-Galicia,Ourense,Chalet,VISTAHERMOSA,221,6,150000
-Galicia,Ourense,Piso,Avenida Padre Feijoo,7400,2,33700
-Galicia,Ourense,Casa Rural,Toen,265,3,45000
-Galicia,Ourense,Piso,Calle Cabeza de Manzaneda,80,3,88000
-Galicia,Ourense,Chalet,Paderne de Allariz,135,3,95000
-Galicia,Ourense,Estudio,Casco Viejo,40,0,74000
-Galicia,Ourense,Chalet,Barbadas,273,6,210000
-Galicia,Ourense,Casa Rural,Carretera Vigo-Pino,393,2,98000
-Galicia,Ourense,Piso,Posio,108,4,219000
-Galicia,Ourense,Piso,Calle Ervedelo,90,4,85000
-Galicia,Ourense,Chalet,sin numero,40000,45,1113000
-Galicia,Ourense,Piso,Avenida da Habana,178,3,315000
-Galicia,Ourense,Chalet,Amoeiro,200,3,165000
-Galicia,Ourense,Piso,Calle Roi Paez 14,110,4,105000
-Galicia,Ourense,Chalet,O Vinteun,3000,6,450000
-Galicia,Ourense,Chalet,O Vinteun,80,3,159000
-Galicia,Ourense,Piso,Calle Pena Trevinca,40,4,190000
-Galicia,Ourense,Piso,Universidad,80,2,174000
-Galicia,Ourense,Atico,Centro,100,3,380000
-Galicia,Ourense,Piso,Barbadas,110,3,185000
-Galicia,Ourense,Estudio,Casco Viejo,45,0,74000
-Galicia,Ourense,Chalet,Coles,125,3,50000
-Galicia,Ourense,Piso,Posio,94,3,155000
-Galicia,Ourense,Chalet,Entrimo,400,5,90000
-Galicia,Ourense,Casa Rural,LG LONOA GRANDE 25,156,3,92000
-Galicia,Ourense,Piso,Calle Antonio Roman,70,2,130000
-Galicia,Ourense,Piso,Calle Ponte Codesal,114,3,170000
-Galicia,Ourense,Chalet,CAMBEO,80,3,275000
-Galicia,Ourense,Duplex,Couto,118,3,210000
-Galicia,Ourense,Piso,Calle Urano,50,3,25000
-Galicia,Ourense,Piso,Calle Juan de Porres 7,70,3,75000
-Galicia,Ourense,Chalet,Taboadela,437,4,100000
-Galicia,Ourense,Chalet,MONTERREI,230,4,164000
-Galicia,Ourense,Casa Rural,Puga s/n,120,4,30000
-Galicia,Ourense,Duplex,Couto,98,3,210000
-Galicia,Ourense,Chalet,O Vinteun,3000,6,450000
-Galicia,Ourense,Piso,Posio,94,3,155000
-Galicia,Ourense,Piso,Centro,18,3,525000
-Galicia,Ourense,Piso,Calle San Rosendo,72,2,140000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,4800,5,350000
-Galicia,Ourense,Piso,Calle Pena Trevinca,133,4,170000
-Galicia,Ourense,Casa Rural,Puga s/n,120,4,30000
-Galicia,Ourense,Estudio,Casco Viejo,45,0,74000
-Galicia,Ourense,Piso,Centro,203,5,260000
-Galicia,Ourense,Chalet,O Irixo,197,5,27500
-Galicia,Ourense,Chalet,O Vinteun,80,3,159000
-Galicia,Ourense,Chalet,Barbadas,273,6,210000
-Galicia,Ourense,Chalet,Barbadas,97,3,79000
-Galicia,Ourense,Casa Rural,Fontedoso,172,5,40000
-Galicia,Ourense,Piso,Barbadas,108,3,185000
-Galicia,Ourense,Chalet,Amoeiro,200,3,165000
-Galicia,Ourense,Piso,Calle Ervedelo,90,4,85000
-Galicia,Ourense,Chalet,OU-402,92,3,100000
-Galicia,Ourense,Piso,O Vinteun,130,5,105000
-Galicia,Ourense,Piso,Couto,81,3,70000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,205,4,530000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,43,1,40000
-Galicia,Ourense,Chalet,Coles,3500,4,600000
-Galicia,Ourense,Piso,Centro,88,3,620000
-Galicia,Ourense,Piso,Plaza de la Legion s/n,110,3,49000
-Galicia,Ourense,Piso,Calle da Concordia 26,157,4,185000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,90,4,110000
-Galicia,Ourense,Chalet,Camino da Noria,2500,5,395000
-Galicia,Ourense,Piso,Avenida DE SANTIAGO,110,3,82000
-Galicia,Ourense,Piso,Avenida de Santiago 57,110,3,120000
-Galicia,Ourense,Chalet,Canella Cega,386,4,279000
-Galicia,Ourense,Piso,O Vinteun,90,3,178000
-Galicia,Ourense,Piso,Barbadas,113,3,139000
-Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,105,3,210000
-Galicia,Ourense,Piso,17 de Mayo 19,51,1,89000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,2200,6,380000
-Galicia,Ourense,Atico,OU-0517,90,2,87000
-Galicia,Ourense,Chalet,Marinamansa,80,4,169000
-Galicia,Ourense,Casa Rural,Santirso s/n sn,17000,0,130000
-Galicia,Ourense,Piso,Calle Curros Enriquez 2,220,4,350000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,800,3,400000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,58,1,40000
-Galicia,Ourense,Chalet,Canella Cega,386,4,279000
-Galicia,Ourense,Piso,Casco Viejo,74,2,131000
-Galicia,Ourense,Piso,Calle Curros Enriquez 22,200,4,335000
-Galicia,Ourense,Piso,Couto,119,3,160000
-Galicia,Ourense,Piso,Calle Rio Tamega 44,137,4,115000
-Galicia,Ourense,Casa Rural,LG Cobas 3,119,3,110000
-Galicia,Ourense,Chalet,Camino Barra de Mino,3075,4,260000
-Galicia,Ourense,Casa Rural,Calle Progreso 28,184,5,210000
-Galicia,Ourense,Piso,Calle do Concello,136,5,330000
-Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,107,3,210000
-Galicia,Ourense,Casa Rural,Monterrei,800,8,300000
-Galicia,Ourense,Chalet,Marinamansa,80,4,169000
-Galicia,Ourense,Piso,Calle do Progreso 29,200,4,550000
-Galicia,Ourense,Piso,Calle Rio Avia 15,80,3,52000
-Galicia,Ourense,Chalet,San Cibrao das Vinas,145,3,218000
-Galicia,Ourense,Piso,Avenida DE SANTIAGO,110,3,82000
-Galicia,Ourense,Chalet,Camino da Noria,2500,5,395000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,2200,6,380000
-Galicia,Ourense,Piso,Calle do Progreso,120,3,236000
-Galicia,Ourense,Piso,O Vinteun,52,3,24368
-Galicia,Ourense,Chalet,Puga 1,400,6,95000
-Galicia,Ourense,Piso,Calle da Concordia 26,121,4,185000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,850,5,850000
-Galicia,Ourense,Casa Rural,Santirso s/n sn,17000,0,130000
-Galicia,Ourense,Chalet,Coles,3500,4,600000
-Galicia,Ourense,Piso,Calle Curros Enriquez 1,72,2,240000
-Galicia,Ourense,Piso,Barbadas,236,6,126000
-Galicia,Ourense,Chalet,Veiga de Abaixo,102,3,130000
-Galicia,Ourense,Piso,Couto,140,5,320000
-Galicia,Ourense,Piso,Couto,88,3,189000
-Galicia,Ourense,Piso,Calle de Salgueirinos,130,3,145000
-Galicia,Ourense,Piso,Couto,110,3,189000
-Galicia,Ourense,Chalet,Coles,800,3,285000
-Galicia,Ourense,Piso,Calle do Arco,80,3,120000
-Galicia,Ourense,Piso,Avenida de Celanova,90,3,162000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,1300,4,135000
-Galicia,Ourense,Chalet,Amoeiro,2100,3,375000
-Galicia,Ourense,Chalet,Toen,5000,6,519000
-Galicia,Ourense,Duplex,Parque do Malecon 3,20,4,245000
-Galicia,Ourense,Piso,Centro,115,3,285000
-Galicia,Ourense,Chalet,Vilamarin,1000,4,120000
-Galicia,Ourense,Chalet,San Cristovo de Cea,2500,5,220000
-Galicia,Ourense,Piso,Barbadas,80,2,155000
-Galicia,Ourense,Chalet,Barbadas,3000,4,460000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,3600,5,335000
-Galicia,Ourense,Piso,O Vinteun,95,3,165000
-Galicia,Ourense,Piso,O Vinteun,104,3,59900
-Galicia,Ourense,Chalet,Calle Gabino Bugallal,3000,1,185000
-Galicia,Ourense,Chalet,Amoeiro,6500,3,255000
-Galicia,Ourense,Piso,Centro,96,2,285000
-Galicia,Ourense,Chalet,Feas s/n,360,5,250000
-Galicia,Ourense,Piso,Calle de Salgueirinos,130,3,145000
-Galicia,Ourense,Piso,Calle do Arco,80,3,120000
-Galicia,Ourense,Piso,Couto,110,3,205000
-Galicia,Ourense,Piso,Calle Papa Juan XXIII,210,4,335000
-Galicia,Ourense,Piso,Couto,117,3,189000
-Galicia,Ourense,Piso,Calle da Barreira,45,1,99000
-Galicia,Ourense,Chalet,Coles,3800,3,265000
-Galicia,Ourense,Piso,Avenida de Celanova,90,3,162000
-Galicia,Ourense,Piso,Barrocanes,144,4,105000
-Galicia,Ourense,Chalet,Vista Hermosa,248,6,375000
-Galicia,Ourense,Chalet,Amoeiro,2100,3,375000
-Galicia,Ourense,Piso,O Vinteun,87,3,99000
-Galicia,Ourense,Chalet,Veiga de Abaixo,115,3,130000
-Galicia,Ourense,Piso,Calle Mercado,87,3,80000
-Galicia,Ourense,Piso,Centro,152,4,195000
-Galicia,Ourense,Piso,Plaza das Burgas 8 -14,103,3,85000
-Galicia,Ourense,Piso,Universidad,160,4,230000
-Galicia,Ourense,Chalet,Calle Serra San Mamede,300,6,350000
-Galicia,Ourense,Duplex,Avenida de Celanova,117,4,153000
-Galicia,Ourense,Chalet,Toen,13000,2,275000
-Galicia,Ourense,Piso,Centro,185,4,550000
-Galicia,Ourense,Chalet,Toen,316,8,99000
-Galicia,Ourense,Chalet,Coles,2400,5,285000
-Galicia,Ourense,Chalet,Calle das Dilueiras,200,4,98000
-Galicia,Ourense,Piso,Marinamansa,100,3,249000
-Galicia,Ourense,Piso,Plaza da marina 1,98,3,135000
-Galicia,Ourense,Piso,Calle Curros Enriquez 1,63,2,240000
-Galicia,Ourense,Piso,Celanova,154,4,130000
-Galicia,Ourense,Piso,Calle das Camelias 16,104,3,134500
-Galicia,Ourense,Chalet,Toen,225,6,300000
-Galicia,Ourense,Piso,Calle de Tomas Rguez Punxin,90,3,74727
-Galicia,Ourense,Piso,Calle Ribeira Sacra,90,3,185000
-Galicia,Ourense,Chalet,Amoeiro,2100,3,375000
-Galicia,Ourense,Piso,Parque de San Lazaro,160,4,450000
-Galicia,Ourense,Piso,Barrocanes,151,4,105000
-Galicia,Ourense,Duplex,Parque do Malecon 3,20,4,245000
-Galicia,Ourense,Chalet,Coles,800,3,285000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,1500,4,120000
-Galicia,Ourense,Casa Rural,Baldariz,5000,4,70000
-Galicia,Ourense,Chalet,Coles,2400,5,285000
-Galicia,Ourense,Duplex,Rua Antonio Roman 14,73,2,154000
-Galicia,Ourense,Piso,Calle do Arco,80,3,120000
-Galicia,Ourense,Estudio,Dos Ponxos,40,0,85000
-Galicia,Ourense,Chalet,Toen,13000,2,275000
-Galicia,Ourense,Chalet,Pereiro de Aguiar,800,7,999000
-Galicia,Ourense,Chalet,Coles,100,5,39000
-Galicia,Ourense,Piso,Barbadas,249,6,126000
-Galicia,Ourense,Piso,Centro,180,4,395000
-Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,3600,5,335000
-Galicia,Ourense,Piso,Rua Hernan Cortes 14,76,2,100000
-Galicia,Ourense,Piso,Plaza Daniel Gonzalez 2,125,4,210000
-Galicia,Ourense,Chalet,Vilamarin,1000,4,120000
-Galicia,Ourense,Chalet,Amoeiro,6500,3,255000
-Galicia,Ourense,Chalet,Toen,5000,6,519000
-Galicia,Ourense,Piso,Centro,146,4,195000
-Galicia,Ourense,Chalet,A Carballeira,80,3,240000
-Galicia,Ourense,Chalet,Allariz,131,4,145000
-Galicia,Ourense,Chalet,Marinamansa,1500,4,280000
-Galicia,Ourense,Piso,Calle Antonio Puga,73,2,79500
-Galicia,Ourense,Chalet,Calle Ramiras 60,330,4,195000
-Galicia,Ourense,Piso,A Ponte,98,3,174000
-Galicia,Ourense,Piso,Calle de Salgueirinos,130,3,145000
-Galicia,Ourense,Chalet,Toen,397,8,99000
-Galicia,Ourense,Piso,Centro,131,4,365000
-Galicia,Ourense,Piso,Barbadas,107,3,170000
-Galicia,Ourense,Chalet,Barbadas,3000,4,460000
-Galicia,Ourense,Piso,Parque de San Lazaro,131,4,450000
-Galicia,Ourense,Piso,Calle Monte Seixo,88,3,97000
-Galicia,Ourense,Piso,Calle do Progreso,101,3,245000
-Galicia,Ourense,Piso,Avenida de Buenos Aires,193,5,415000
-Galicia,Ourense,Chalet,Calle Verdade 5,347,5,173500
-Galicia,Ourense,Piso,Avenida de Buenos Aires,179,3,210000
-Galicia,Ourense,Casa Rural,Lugar Ver 34,1214,4,57500
-Galicia,Ourense,Piso,Cardenal quevedo,150,3,480000
-Galicia,Ourense,Chalet,Lugar Beiro de Abaixo,183,5,290000
-Galicia,Ourense,Piso,Calle Curros Enriquez,230,5,450000
-Galicia,Ourense,Chalet,Ramiras,500,5,65000
-Galicia,Ourense,Chalet,Calle Santa Eufemia,111,3,178000
-Galicia,Ourense,Casa Rural,Meson de Erosa 7,3000,6,65000
-Galicia,Ourense,Chalet,Calle Cerdeira 10,100,9,20000
-Galicia,Ourense,Piso,Calle do Progreso,100,3,220000
-Galicia,Ourense,Piso,Avenida de Celanova,67,2,130000
-Galicia,Ourense,Piso,Avenida de Santiago 40 N,82,3,175000
-Galicia,Ourense,Piso,Calle a Granxa,115,3,52000
-Galicia,Ourense,Casa Rural,Lugar Vilarino 78,5200,4,100000
-Galicia,Ourense,Chalet,Lugar Doade,122,4,48000
-Galicia,Ourense,Piso,Calle Plaza Mercedes,94,3,200000
-Galicia,Ourense,Chalet,Camino de Loureiro 5,292,4,180000
-Galicia,Ourense,Casa Rural,Calle do Cruceiro 11,231,6,60000
-Galicia,Ourense,Chalet,poligono Industrial,300,5,240000
-Galicia,Ourense,Casa Rural,Calle Carballeira 24,108,2,49000
-Galicia,Ourense,Chalet,As Lagunas,154,4,180000
-Galicia,Ourense,Piso,Calle Marcelo Macias,120,3,68800
-Galicia,Ourense,Chalet,O Val 1,242,3,126000
-Galicia,Ourense,Piso,Calle do Bierzo,71,2,187000
-Galicia,Ourense,Piso,Zurbaran,106,3,90000
-Galicia,Ourense,Piso,Calle do Progreso,106,3,215000
-Galicia,Ourense,Atico,Avenida de Santiago,105,3,185000
-Galicia,Ourense,Casa Rural,A Eirexa Loureiro 2,127,3,90000
-Galicia,Ourense,Piso,Marinamansa,87,3,95000
-Galicia,Ourense,Piso,Calle Rio Avia,98,3,52000
-Galicia,Ourense,Piso,Calle Antonio Roman 16,68,2,130000
-Galicia,Ourense,Piso,As Camelias,100,3,134500
-Galicia,Ourense,Chalet,Lugar Trellerma,130,4,215000
-Galicia,Ourense,Casa Rural,cerval 3,20,4,18000
-Galicia,Ourense,Piso,Calle Erbedelo,103,3,265000
+C. Autonoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
+Galicia,Ourense,Piso,Calle Pino,110.0,3,155000
+Galicia,Ourense,Chalet,O Vinteun,220.0,3,90000
+Galicia,Ourense,Piso,CURROS ENRIQUEZ 18,113.0,5,170000
+Galicia,Ourense,Piso,Centro,200.0,4,345000
+Galicia,Ourense,Piso,Centro,130.0,4,355000
+Galicia,Ourense,Atico,Calle Julio Prieto Nespereira,50.0,0,60000
+Galicia,Ourense,Piso,Centro,177.0,3,475000
+Galicia,Ourense,Piso,concordia,124.0,4,220000
+Galicia,Ourense,Chalet,Barbadas,124.0,4,235000
+Galicia,Ourense,Piso,Posio,160.0,5,235000
+Galicia,Ourense,Duplex,San Cibrao das Vinas,118.0,4,229000
+Galicia,Ourense,Piso,Universidad,61.0,2,158000
+Galicia,Ourense,Piso,Centro,104.0,3,285000
+Galicia,Ourense,Chalet,Calle Rampa de Sas,164.0,5,350000
+Galicia,Ourense,Chalet,Toen,256.0,3,145000
+Galicia,Ourense,Piso,Calle Bedoya,72.0,2,123000
+Galicia,Ourense,Piso,Calle Manuel Pereira,81.0,3,165000
+Galicia,Ourense,Piso,Calle Mercado 44,119.0,3,40000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,60.0,2,140000
+Galicia,Ourense,Chalet,Papela -Vilarino,588.0,6,218000
+Galicia,Ourense,Duplex,Calle do Progreso,100.0,3,450000
+Galicia,Ourense,Chalet,Cartelle,103.0,3,70000
+Galicia,Ourense,Piso,Casco Viejo,102.0,4,125000
+Galicia,Ourense,Chalet,Esgos,160.0,5,76000
+Galicia,Ourense,Casa Rural,Amoeiro,700.0,4,219000
+Galicia,Ourense,Piso,A Carballeira,107.0,3,69000
+Galicia,Ourense,Chalet,Calle de Galicia,405.0,4,539000
+Galicia,Ourense,Chalet,Calle OUR-CV-401,50.0,4,199900
+Galicia,Ourense,Piso,Leiro,103.0,3,83000
+Galicia,Ourense,Chalet,Paderne de Allariz,145.0,4,190000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,160.0,3,129000
+Galicia,Ourense,Piso,Calle Melchor de Velasco,62.0,2,120000
+Galicia,Ourense,Piso,AV. Habana 35,139.0,4,330000
+Galicia,Ourense,Chalet,Marinamansa,195.0,3,200000
+Galicia,Ourense,Piso,Avenida santiago,100.0,3,160000
+Galicia,Ourense,Piso,Calle Alexandre Boveda 2,30.0,4,134000
+Galicia,Ourense,Duplex,Avenida de Celanova,118.0,3,159900
+Galicia,Ourense,Piso,Calle Fonte Boa,95.0,3,122000
+Galicia,Ourense,Piso,Avenida de Celanova,89.0,3,130000
+Galicia,Ourense,Chalet,Plaza O campo,83.0,3,120000
+Galicia,Ourense,Piso,A Carballeira,89.0,3,74000
+Galicia,Ourense,Chalet,A Peroxa,477.0,10,410000
+Galicia,Ourense,Piso,Calle Vicente Risco 54,99.0,3,160000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,121.0,4,335000
+Galicia,Ourense,Piso,Calle Florentino Cuevillas,101.0,3,230000
+Galicia,Ourense,Piso,Avenida da Habana,84.0,3,350000
+Galicia,Ourense,Piso,Calle Curros Enriquez,121.0,5,129000
+Galicia,Ourense,Piso,Posio,134.0,4,123000
+Galicia,Ourense,Piso,Salustiano Munoz,90.0,3,170000
+Galicia,Ourense,Piso,Universidad,74.0,2,153000
+Galicia,Ourense,Chalet,Xinzo de Limia,113.0,3,75000
+Galicia,Ourense,Chalet,Calle Besadas,153.0,4,192000
+Galicia,Ourense,Chalet,A Carballeira,101.0,3,145000
+Galicia,Ourense,Piso,Marinamansa,98.0,3,105000
+Galicia,Ourense,Chalet,Castrelo de Mino,115.0,3,220000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,820.0,2,180000
+Galicia,Ourense,Chalet,Taboadela,256.0,4,270000
+Galicia,Ourense,Piso,Centro,114.0,4,188000
+Galicia,Ourense,Chalet,Paderne de Allariz,136.0,4,200000
+Galicia,Ourense,Atico,Calle das Cuartas,80.0,3,110000
+Galicia,Ourense,Piso,Calle San Paio,67.0,2,139500
+Galicia,Ourense,Piso,Barbadas,115.0,3,135000
+Galicia,Ourense,Piso,fleming,101.0,3,125000
+Galicia,Ourense,Piso,Centro,242.0,4,570000
+Galicia,Ourense,Piso,Avenida da Habana,108.0,3,315000
+Galicia,Ourense,Piso,Calle Cruceiro Quebrado,86.0,3,90000
+Galicia,Ourense,Piso,As Lagunas,123.0,4,175000
+Galicia,Ourense,Piso,Calle Clara Campoamor,180.0,5,249000
+Galicia,Ourense,Piso,San Francisco,107.0,3,97000
+Galicia,Ourense,Chalet,Allariz,1.915,3,335000
+Galicia,Ourense,Chalet,OU-1212,80.0,3,50000
+Galicia,Ourense,Piso,Centro,126.0,4,155000
+Galicia,Ourense,Piso,Calle do Progreso 41,177.0,5,349000
+Galicia,Ourense,Piso,Posio,61.0,2,185000
+Galicia,Ourense,Piso,Centro,186.0,4,270000
+Galicia,Ourense,Piso,Calle Erbedelo,89.0,3,95000
+Galicia,Ourense,Piso,O Vinteun,80.0,3,130000
+Galicia,Ourense,Piso,Quintela - Los Pinos,100.0,3,117000
+Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,92.0,3,135000
+Galicia,Ourense,Chalet,Callejon America,125.0,4,275000
+Galicia,Ourense,Casa Rural,vicente risco 10,220.0,3,79500
+Galicia,Ourense,Piso,Calle Marcelo Macias,110.0,3,109000
+Galicia,Ourense,Duplex,Centro,160.0,4,660000
+Galicia,Ourense,Chalet,Calle do Polvorin s/n,26.0,10,160000
+Galicia,Ourense,Duplex,Lopez Abente,109.0,3,245000
+Galicia,Ourense,Chalet,Principal,400.0,5,700000
+Galicia,Ourense,Piso,Avenida de Zamora,7.0,2,126000
+Galicia,Ourense,Piso,Avenida de Zamora,80.0,2,137000
+Galicia,Ourense,Piso,RAMON PUGA,107.0,3,170000
+Galicia,Ourense,Piso,Calle Santa Marina 93,170.0,5,125000
+Galicia,Ourense,Duplex,Calle Martin Codax,22.0,4,200300
+Galicia,Ourense,Piso,Calle San Rosendo,145.0,4,163400
+Galicia,Ourense,Piso,Progreso 40,105.0,3,245000
+Galicia,Ourense,Piso,Serra Martina,103.0,3,177000
+Galicia,Ourense,Casa Rural,Arnoia,71.0,1,159000
+Galicia,Ourense,Duplex,Casco Viejo,66.0,2,79000
+Galicia,Ourense,Chalet,Camino de Xunqueira,85.0,3,130000
+Galicia,Ourense,Piso,Avenida da Habana,187.0,4,248000
+Galicia,Ourense,Chalet,Camino de Paixon,121.0,4,30000
+Galicia,Ourense,Chalet,Camino a Santa Cruz de Rabeda,191.0,5,229000
+Galicia,Ourense,Piso,Calle do progreso,108.0,3,220000
+Galicia,Ourense,Piso,Posio,40.0,1,95000
+Galicia,Ourense,Atico,Calle Ervedelo 20,66.0,2,180000
+Galicia,Ourense,Casa Rural,Nogueira de Ramuin,95.0,3,22000
+Galicia,Ourense,Casa Rural,As Lagunas,101.0,3,79000
+Galicia,Ourense,Duplex,San Cibrao das Vinas,122.0,4,230000
+Galicia,Ourense,Chalet,Verin,400.0,4,1000000
+Galicia,Ourense,Casa Rural,Muinos,83.0,3,30000
+Galicia,Ourense,Piso,Xinzo de Limia,9.0,4,96000
+Galicia,Ourense,Chalet,Leiro,343.0,4,195000
+Galicia,Ourense,Duplex,seixalvo 1,27.0,4,230000
+Galicia,Ourense,Casa Rural,Muinos,357.0,8,115000
+Galicia,Ourense,Chalet,Amoeiro,83.0,3,27000
+Galicia,Ourense,Casa Rural,Rubia,8.0,10,495000
+Galicia,Ourense,Chalet,Ribadavia,1.182,3,275000
+Galicia,Ourense,Chalet,Vilamarin,3.0,5,299000
+Galicia,Ourense,Piso,Centro,90.0,3,278000
+Galicia,Ourense,Chalet,Lugar Tiollo,159.0,3,244000
+Galicia,Ourense,Chalet,Calle Catasol 5,844.0,5,760000
+Galicia,Ourense,Chalet,A PORRINEIRA s/n,500.0,3,330000
+Galicia,Ourense,Chalet,A PORRINEIRA s/n,500.0,3,330000
+Galicia,Ourense,Chalet,Lugar a Veiga,108.0,3,80000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,3.0,4,165000
+Galicia,Ourense,Piso,Avenida ZAMORA 149,46.0,2,115000
+Galicia,Ourense,Chalet,San Francisco,187.0,5,165000
+Galicia,Ourense,Casa Rural,Esgos,530.0,4,85000
+Galicia,Ourense,Chalet,Camino sen nome,83.0,3,44000
+Galicia,Ourense,Chalet,Calle Moar,98.0,3,120000
+Galicia,Ourense,Atico,Calle Claudio Movilla,120.0,3,110000
+Galicia,Ourense,Piso,Barrocanes,142.0,4,119000
+Galicia,Ourense,Piso,Calle Basilio Alvarez,0.0,3,235000
+Galicia,Ourense,Piso,Calle Aviles de Taramancos,75.0,2,179000
+Galicia,Ourense,Piso,Centro,137.0,4,255000
+Galicia,Ourense,Piso,OU-1009 16,150.0,4,115000
+Galicia,Ourense,Piso,Centro,50.0,5,465000
+Galicia,Ourense,Piso,Centro,249.0,5,450000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,1000.0,2,130000
+Galicia,Ourense,Piso,Calle Nuno de Ousende s/n,148.0,4,210000
+Galicia,Ourense,Piso,Calle Greco 2,91.0,3,199000
+Galicia,Ourense,Piso,Casco Viejo,80.0,3,148000
+Galicia,Ourense,Chalet,cabeza de vaca,15.0,3,145000
+Galicia,Ourense,Piso,antonio roman,88.0,3,165000
+Galicia,Ourense,Duplex,martin codax,110.0,4,200300
+Galicia,Ourense,Piso,habana,100.0,3,360000
+Galicia,Ourense,Chalet,Calle Xoan de Novoa,231.0,5,590000
+Galicia,Ourense,Piso,Avenida de Celanova,139.0,4,153000
+Galicia,Ourense,Piso,Calle Marcelo Macias,91.0,3,185000
+Galicia,Ourense,Piso,progreso,109.0,3,260000
+Galicia,Ourense,Chalet,rampa de sas,193.0,5,290000
+Galicia,Ourense,Chalet,xoan de novoa,100.0,4,495000
+Galicia,Ourense,Duplex,Calle Faustino Santalices,122.0,3,205000
+Galicia,Ourense,Duplex,Calle do Ensino,83.0,3,150000
+Galicia,Ourense,Chalet,MASIDE,146.0,4,59000
+Galicia,Ourense,Chalet,Vilarchao,180.0,4,150000
+Galicia,Ourense,Casa Rural,Aldea Verducedo,140.0,4,65000
+Galicia,Ourense,Piso,Calle do Bierzo,61.0,2,187000
+Galicia,Ourense,Chalet,Calle Fonte Alen,87.0,3,24000
+Galicia,Ourense,Chalet,Calle Porrineira,500.0,3,340000
+Galicia,Ourense,Chalet,OU-0525,430.0,6,170000
+Galicia,Ourense,Chalet,Celanova,771.0,3,160000
+Galicia,Ourense,Chalet,Lugar Pedrafita,192.0,5,120000
+Galicia,Ourense,Chalet,Calle Fonte Alen,87.0,3,24000
+Galicia,Ourense,Piso,Calle do Bierzo,76.0,2,187000
+Galicia,Ourense,Piso,Calle dos Pilos,156.0,4,130000
+Galicia,Ourense,Chalet,rairo,75.0,4,90000
+Galicia,Ourense,Casa Rural,Pousada de abaixo,82.0,3,20000
+Galicia,Ourense,Piso,Calle Claudio Movilla,130.0,4,65000
+Galicia,Ourense,Piso,Avenida Alfonso Rodriguez Castelao,193.0,5,325000
+Galicia,Ourense,Chalet,Calle Grande,222.0,3,98000
+Galicia,Ourense,Duplex,Marinamansa,176.0,4,228000
+Galicia,Ourense,Piso,Avenida Portugal,157.0,4,160000
+Galicia,Ourense,Chalet,Lugar a Laxe,108.0,4,68000
+Galicia,Ourense,Piso,Calle Ervedelo,154.0,4,225000
+Galicia,Ourense,Piso,Avenida de Santiago,117.0,3,250000
+Galicia,Ourense,Piso,Calle quintian,78.0,3,57000
+Galicia,Ourense,Chalet,Calle Bispo Munoz de la Cueva,300.0,3,260000
+Galicia,Ourense,Piso,Avenida de Santiago,106.0,3,139000
+Galicia,Ourense,Chalet,Calle Isaac Pineiro Varela,200.0,3,202000
+Galicia,Ourense,Piso,Calle Doctor Pena Rey,145.0,4,85000
+Galicia,Ourense,Piso,Avenida de Zamora,99.0,3,75000
+Galicia,Ourense,Piso,Calle Seixalbo,85.0,2,95000
+Galicia,Ourense,Chalet,Plaza Jose Luis Nunez 12,213.0,4,69000
+Galicia,Ourense,Chalet,O Vinteun,121.0,4,105000
+Galicia,Ourense,Piso,Calle Vasco da Ponte,80.0,2,131000
+Galicia,Ourense,Piso,Calle Jesus Soria,118.0,3,168000
+Galicia,Ourense,Chalet,Calle do Cobo,2.165,3,425000
+Galicia,Ourense,Piso,Dous de Maio 5,38.0,1,93000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,123.0,4,410000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,173.0,3,60000
+Galicia,Ourense,Casa Rural,Freixoso de Penela 1,87.0,3,33000
+Galicia,Ourense,Chalet,Coles,129.0,4,240000
+Galicia,Ourense,Duplex,Calle Bernardo Cachamuina,135.0,4,235000
+Galicia,Ourense,Piso,Calle Marcelo Macias 48,91.0,3,125000
+Galicia,Ourense,Chalet,Lugar Aguil,120.0,3,28000
+Galicia,Ourense,Chalet,Camino do Balneario,88.0,3,95000
+Galicia,Ourense,Chalet,Lugar a Eirexa,74.0,2,90000
+Galicia,Ourense,Piso,Calle Ervedelo,86.0,3,265000
+Galicia,Ourense,Chalet,Bobadela,92.0,3,90000
+Galicia,Ourense,Piso,Calle do Progreso,130.0,4,320000
+Galicia,Ourense,Piso,Avenida Otero Pedrayo,129.0,4,270000
+Galicia,Ourense,Piso,Carretera Cr vigo,10.0,2,155000
+Galicia,Ourense,Chalet,Bobadela,99.0,3,90000
+Galicia,Ourense,Piso,Barbadas,27.0,3,59000
+Galicia,Ourense,Duplex,bonhome 30,154.0,4,180000
+Galicia,Ourense,Piso,Couto,158.0,4,135000
+Galicia,Ourense,Piso,Calle Rio Casaio 8,112.0,3,135000
+Galicia,Ourense,Chalet,Xinzo de Limia,100.0,3,33000
+Galicia,Ourense,Chalet,Capilla 2,63.0,2,69000
+Galicia,Ourense,Piso,Polvorin,591.0,12,85000
+Galicia,Ourense,Piso,Couto,86.0,3,155000
+Galicia,Ourense,Chalet,Calle do Sol,97.0,3,49900
+Galicia,Ourense,Casa Rural,Barbadas,142.0,4,35000
+Galicia,Ourense,Piso,Centro,160.0,4,450000
+Galicia,Ourense,Piso,O Carballino,119.0,3,97000
+Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,89.0,3,220000
+Galicia,Ourense,Chalet,Avenida Padre Feijoo,45.0,1,30000
+Galicia,Ourense,Piso,progreso,136.0,4,320000
+Galicia,Ourense,Piso,viso,60.0,2,125000
+Galicia,Ourense,Chalet,Aldea Santa Ana 10,216.0,6,70000
+Galicia,Ourense,Piso,habana,150.0,3,315000
+Galicia,Ourense,Chalet,Entrimo,96.0,3,54000
+Galicia,Ourense,Estudio,aviles de taramancos,44.0,0,155000
+Galicia,Ourense,Piso,SERRA DO BURGO,45.0,3,99900
+Galicia,Ourense,Piso,progreso,260.0,5,320000
+Galicia,Ourense,Chalet,Sandias,100.0,3,199000
+Galicia,Ourense,Piso,Avenida de Celanova,109.0,3,160000
+Galicia,Ourense,Chalet,Residencia,104.0,3,132000
+Galicia,Ourense,Duplex,Couto,248.0,6,249000
+Galicia,Ourense,Chalet,Camino sen nome,93.0,3,79000
+Galicia,Ourense,Piso,Doctor Fleming,77.0,3,145000
+Galicia,Ourense,Piso,O Vinteun,152.0,4,100000
+Galicia,Ourense,Piso,fonte boa,95.0,3,150000
+Galicia,Ourense,Piso,Calle Santo Domingo 9,85.0,2,156000
+Galicia,Ourense,Chalet,Barrocanes,120.0,4,85000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,41.0,1,149000
+Galicia,Ourense,Piso,Centro,233.0,4,550000
+Galicia,Ourense,Piso,Vista Hermosa,130.0,4,225000
+Galicia,Ourense,Piso,Centro,80.0,3,220000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,153.0,4,1250000
+Galicia,Ourense,Piso,Vilar de Santos,106.0,4,195000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,133.0,4,1250000
+Galicia,Ourense,Piso,Centro,80.0,3,220000
+Galicia,Ourense,Piso,vistahermosa,99.0,3,123000
+Galicia,Ourense,Piso,O Vinteun,103.0,3,139000
+Galicia,Ourense,Piso,antonio puga,93.0,3,38000
+Galicia,Ourense,Chalet,Allariz,573.0,10,550000
+Galicia,Ourense,Piso,Calle do Polvorin,90.0,3,74900
+Galicia,Ourense,Piso,Plaza Andres de Prada 4,71.0,2,130000
+Galicia,Ourense,Duplex,A Ponte,81.0,3,225000
+Galicia,Ourense,Piso,A Carballeira,95.0,3,134500
+Galicia,Ourense,Chalet,San Cibrao das Vinas,510.0,5,295000
+Galicia,Ourense,Chalet,Xunqueira de Ambia,146.0,4,90000
+Galicia,Ourense,Chalet,Camino sen nome,150.0,1,115000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,315.0,5,400000
+Galicia,Ourense,Piso,Centro,170.0,3,250000
+Galicia,Ourense,Piso,Casco Viejo,78.0,3,70000
+Galicia,Ourense,Chalet,Universidad,231.0,6,600000
+Galicia,Ourense,Chalet,Calle Ramiras 48,176.0,5,350000
+Galicia,Ourense,Piso,Calle Pena Trevinca,135.0,4,170000
+Galicia,Ourense,Piso,Calle Ponte Codesal,106.0,3,155000
+Galicia,Ourense,Piso,Avenida de Santiago,112.0,3,176000
+Galicia,Ourense,Piso,Calle Prego de Oliver,110.0,3,150000
+Galicia,Ourense,Piso,Calle Galicia,84.0,3,145000
+Galicia,Ourense,Piso,Centro,169.0,5,310000
+Galicia,Ourense,Piso,Avenida Portugal,89.0,3,85000
+Galicia,Ourense,Piso,Calle do Vinteun,94.0,3,149900
+Galicia,Ourense,Duplex,Calle da Mestra Paz Sueiro,120.0,3,225000
+Galicia,Ourense,Piso,Calle Parque de San Lazaro,250.0,5,700000
+Galicia,Ourense,Piso,Calle a Granxa,78.0,2,125000
+Galicia,Ourense,Piso,Calle Dous de Maio,40.0,1,75000
+Galicia,Ourense,Piso,Calle Xoan Manuel Pintos,73.0,2,165000
+Galicia,Ourense,Chalet,Camino Aldea Abaixo,300.0,8,800000
+Galicia,Ourense,Piso,Parque San Lazaro,59.0,1,215000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,60.0,2,153000
+Galicia,Ourense,Piso,Calle Pablo Iglesias,90.0,3,155000
+Galicia,Ourense,Piso,Calle Emilia Pardo Bazan,59.0,2,155000
+Galicia,Ourense,Piso,Centro,140.0,4,330000
+Galicia,Ourense,Piso,Avenida Portugal 61,128.0,4,230000
+Galicia,Ourense,Chalet,Calle Seixalbo 65,83.0,3,89000
+Galicia,Ourense,Piso,A Ponte,72.0,2,105000
+Galicia,Ourense,Piso,Avenida Portugal 61,127.0,4,230000
+Galicia,Ourense,Casa Rural,O Burgo 1,200.0,3,50000
+Galicia,Ourense,Chalet,O Vinteun,1000.0,4,350000
+Galicia,Ourense,Chalet,Calle Arrabaldo,4.8,6,350000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,200.0,5,285000
+Galicia,Ourense,Piso,rio camba,87.0,3,89900
+Galicia,Ourense,Piso,Rua Cardenal Quevedo,47.0,1,139700
+Galicia,Ourense,Chalet,Calle da Esmorga,150.0,4,160000
+Galicia,Ourense,Piso,Calle dos Remedios,114.0,3,99000
+Galicia,Ourense,Piso,Calle do Paseo,85.0,3,480000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,68.0,2,158000
+Galicia,Ourense,Piso,Calle Pino,112.0,3,70000
+Galicia,Ourense,Piso,Calle a Granxa,135.0,4,120000
+Galicia,Ourense,Piso,Centro,178.0,5,325000
+Galicia,Ourense,Piso,Calle Rio Camba,71.0,2,130000
+Galicia,Ourense,Duplex,Calle Cotelma,99.0,3,159000
+Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,90.0,3,90000
+Galicia,Ourense,Piso,Barbadas,85.0,3,125000
+Galicia,Ourense,Piso,O Vinteun,81.0,3,130000
+Galicia,Ourense,Chalet,vilarino da canda,250.0,4,115000
+Galicia,Ourense,Piso,Xinzo de Limia,111.0,3,62700
+Galicia,Ourense,Casa Rural,Xunqueira de Ambia,500.0,0,20000
+Galicia,Ourense,Casa Rural,CARRIL 1,2176.0,2,80000
+Galicia,Ourense,Piso,Calle proximo a la Avenida de Zamora,65.0,3,49500
+Galicia,Ourense,Estudio,Calle Ramon Puga 51,29.0,0,105000
+Galicia,Ourense,Piso,Universidad,137.0,4,210000
+Galicia,Ourense,Piso,Centro,112.0,3,236000
+Galicia,Ourense,Chalet,Lobios,132.0,4,59000
+Galicia,Ourense,Casa Rural,Xunqueira de Ambia,86.0,3,59900
+Galicia,Ourense,Piso,vasco diaz tanco,96.0,3,40000
+Galicia,Ourense,Piso,ervedelo,90.0,3,120000
+Galicia,Ourense,Piso,valle inclan,99.0,3,220000
+Galicia,Ourense,Piso,outeiro,128.0,4,80000
+Galicia,Ourense,Piso,Calle do ventiun,151.0,4,84000
+Galicia,Ourense,Estudio,gregorio fernandez,30.0,0,102000
+Galicia,Ourense,Piso,Avenida santiago,112.0,3,120000
+Galicia,Ourense,Piso,jesus soria,183.0,5,69000
+Galicia,Ourense,Piso,Casco Viejo,50.0,1,150000
+Galicia,Ourense,Piso,Residencia,98.0,3,70000
+Galicia,Ourense,Chalet,Calle Golpellas,108.0,3,79000
+Galicia,Ourense,Piso,Casco Viejo,44.0,1,150000
+Galicia,Ourense,Chalet,Calle Golpellas,118.0,3,79000
+Galicia,Ourense,Chalet,As Lagunas,192.0,5,210000
+Galicia,Ourense,Piso,Barbadas,73.0,2,89900
+Galicia,Ourense,Chalet,Vilar de Santos,67.0,2,20000
+Galicia,Ourense,Piso,vasco diaz tanco,89.0,3,72000
+Galicia,Ourense,Piso,Residencia,108.0,3,70000
+Galicia,Ourense,Piso,pena trevinca,131.0,4,125000
+Galicia,Ourense,Piso,Couto,115.0,3,177000
+Galicia,Ourense,Casa Rural,Nogueira de Ramuin,56.0,1,16000
+Galicia,Ourense,Chalet,Paderne de Allariz,46.0,1,36000
+Galicia,Ourense,Piso,Pereiro de Aguiar,138.0,4,55000
+Galicia,Ourense,Piso,Avenida portugal,132.0,4,75000
+Galicia,Ourense,Piso,sainza,101.0,3,135000
+Galicia,Ourense,Piso,sainza,146.0,4,195000
+Galicia,Ourense,Piso,Centro,229.0,4,365000
+Galicia,Ourense,Duplex,Centro,225.0,5,580000
+Galicia,Ourense,Casa Rural,Camino Ourense - Peares,67.0,2,9900
+Galicia,Ourense,Piso,Centro,150.0,3,533000
+Galicia,Ourense,Duplex,Centro,160.0,4,540000
+Galicia,Ourense,Chalet,Casco Viejo,600.0,20,1500000
+Galicia,Ourense,Piso,Couto,85.0,3,131000
+Galicia,Ourense,Piso,Centro,150.0,4,275000
+Galicia,Ourense,Estudio,Calle Apolo 1,22.0,0,35000
+Galicia,Ourense,Piso,O Vinteun,87.0,3,120000
+Galicia,Ourense,Piso,A Carballeira,116.0,3,65000
+Galicia,Ourense,Piso,Casco Viejo,80.0,2,145000
+Galicia,Ourense,Piso,Polvorin,100.0,3,169000
+Galicia,Ourense,Piso,Couto,102.0,3,150000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,150.0,3,245000
+Galicia,Ourense,Piso,Marinamansa,98.0,3,89000
+Galicia,Ourense,Chalet,Castrelo de Mino,410.0,6,350000
+Galicia,Ourense,Piso,Xinzo de Limia,89.0,3,95000
+Galicia,Ourense,Chalet,Leiro,60.0,3,85000
+Galicia,Ourense,Piso,Centro,150.0,3,680000
+Galicia,Ourense,Piso,Centro,106.0,3,360000
+Galicia,Ourense,Piso,Centro,204.0,5,450000
+Galicia,Ourense,Piso,Casco Viejo,158.0,4,189000
+Galicia,Ourense,Piso,O Vinteun,70.0,2,125000
+Galicia,Ourense,Chalet,Banos de Molgas,120.0,3,15000
+Galicia,Ourense,Piso,Centro,150.0,3,680000
+Galicia,Ourense,Piso,Calle Ribeira Sacra 1,63.0,2,185000
+Galicia,Ourense,Estudio,Calle Redondela,40.0,0,53000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,74.0,2,165000
+Galicia,Ourense,Casa Rural,Estrada Vigo Outariz 17,66.0,4,99000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,155.0,4,220000
+Galicia,Ourense,Chalet,Centro,182.0,5,590000
+Galicia,Ourense,Piso,remedios,110.0,3,99000
+Galicia,Ourense,Piso,San Cibrao das Vinas,70.0,2,89900
+Galicia,Ourense,Piso,Calle Rio Xares 25,80.0,3,70000
+Galicia,Ourense,Piso,Calle Monte Seixo 5,100.0,4,110000
+Galicia,Ourense,Chalet,Taboadela,151.0,4,75000
+Galicia,Ourense,Piso,Calle Atico Noguerol 1,81.0,3,175000
+Galicia,Ourense,Piso,Calle Samuel Eijan 11,123.0,4,480000
+Galicia,Ourense,Piso,A Ponte,69.0,2,155000
+Galicia,Ourense,Chalet,Aldea Pereiro 7,200.0,4,35000
+Galicia,Ourense,Duplex,Barbadas,89.0,3,130000
+Galicia,Ourense,Piso,Universidad,82.0,2,174000
+Galicia,Ourense,Piso,Centro,64.0,2,145000
+Galicia,Ourense,Piso,Calle Rio Bibei 23,134.0,4,125000
+Galicia,Ourense,Chalet,Vilamarin,84.0,3,129500
+Galicia,Ourense,Chalet,Nogueira de Ramuin,48.0,0,15000
+Galicia,Ourense,Piso,Calle Xesus Pousa Rodriguez 2,10.0,3,97990
+Galicia,Ourense,Piso,Calle Cantarelina,95.0,3,149500
+Galicia,Ourense,Atico,Calle da Lua 20,78.0,2,125000
+Galicia,Ourense,Piso,Calle Mercado 7 - 1 A,95.0,4,95000
+Galicia,Ourense,Piso,Centro,138.0,4,335000
+Galicia,Ourense,Piso,Casco Viejo,60.0,3,185000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,300.0,5,239000
+Galicia,Ourense,Casa Rural,N-525 79,49.0,1,40000
+Galicia,Ourense,Piso,Plaza Eduardo Barreiros 2,45.0,1,130000
+Galicia,Ourense,Chalet,Taboadela,101.0,3,69000
+Galicia,Ourense,Piso,Calle Vila Valencia 3,124.0,4,36000
+Galicia,Ourense,Casa Rural,Calle da Fonte 1,77.0,2,72000
+Galicia,Ourense,Piso,Calle Doutor Fleming 6,60.0,2,250000
+Galicia,Ourense,Piso,Calle Colon,67.0,2,69500
+Galicia,Ourense,Piso,Barrocanes,80.0,2,155000
+Galicia,Ourense,Piso,santa teresita,85.0,3,52900
+Galicia,Ourense,Piso,A Ponte,106.0,3,167000
+Galicia,Ourense,Piso,Carretera de Vigo-Outariz 100,104.0,3,135000
+Galicia,Ourense,Piso,Posio,100.0,3,172000
+Galicia,Ourense,Piso,Barrocanes,73.0,2,190000
+Galicia,Ourense,Piso,Couto,80.0,2,118000
+Galicia,Ourense,Piso,Barbadas,80.0,3,115300
+Galicia,Ourense,Piso,Vista Hermosa,83.0,3,85000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,180.0,3,230000
+Galicia,Ourense,Duplex,Couto,157.0,4,210000
+Galicia,Ourense,Piso,Centro,183.0,5,138000
+Galicia,Ourense,Piso,Posio,110.0,4,83900
+Galicia,Ourense,Piso,Posio,119.0,3,69000
+Galicia,Ourense,Piso,Couto,180.0,5,52000
+Galicia,Ourense,Piso,Centro,120.0,4,259500
+Galicia,Ourense,Piso,Barrocanes,89.0,3,165000
+Galicia,Ourense,Piso,Barrocanes,90.0,3,150000
+Galicia,Ourense,Piso,Posio,100.0,4,139000
+Galicia,Ourense,Piso,O Vinteun,119.0,3,59000
+Galicia,Ourense,Piso,Centro,146.0,4,368000
+Galicia,Ourense,Piso,San Francisco,90.0,3,200000
+Galicia,Ourense,Piso,Vista Hermosa,92.0,3,63000
+Galicia,Ourense,Piso,Universidad,83.0,3,210000
+Galicia,Ourense,Piso,Polvorin,107.0,3,59000
+Galicia,Ourense,Piso,Casco Viejo,80.0,3,89000
+Galicia,Ourense,Piso,Couto,67.0,2,145000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,260.0,4,150000
+Galicia,Ourense,Piso,Marinamansa,82.0,2,119000
+Galicia,Ourense,Casa Rural,Aldea Sartedigos 33,70.0,2,36000
+Galicia,Ourense,Piso,Avenida de Buenos Aires 151,17.0,3,270000
+Galicia,Ourense,Piso,Avenida de Santiago 98,96.0,3,137500
+Galicia,Ourense,Piso,Avenida Habana 60,120.0,3,150000
+Galicia,Ourense,Piso,O Vinteun,44.0,1,70000
+Galicia,Ourense,Chalet,Calle das Oliveiras 12,79.0,3,120000
+Galicia,Ourense,Piso,Calle dos mirtos 3,79.0,2,90000
+Galicia,Ourense,Estudio,Calle Rodriguez de la Passera 4,47.0,0,125000
+Galicia,Ourense,Piso,Centro,160.0,4,320000
+Galicia,Ourense,Piso,O Vinteun,70.0,2,93000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII 22,151.0,4,475000
+Galicia,Ourense,Piso,O Vinteun,77.0,2,120000
+Galicia,Ourense,Casa Rural,Lugar San Lourenzo 90,150.0,2,38500
+Galicia,Ourense,Atico,Calle Marcelo Macias 62,115.0,3,187000
+Galicia,Ourense,Piso,Couto,120.0,4,135000
+Galicia,Ourense,Piso,Greco 2,136.0,4,250000
+Galicia,Ourense,Piso,Rafael Dieste 32005,80.0,2,130903
+Galicia,Ourense,60,Se venden 3 casas anexas en la zona de la Cuna para reformar pudiendose construir 2 viviendas con patio. A 10 minutos del centro de Ourense. Excelente oportunidad para inversion y buena perspectiva urbanistica de futuro. La vivienda pertenece al ayuntamiento de Ourense. Precio negociable.,252.0,7,655912007
+Galicia,Ourense,Casa Rural,Calle de Tarascon s/n Tarascon,78.0,2,30000
+Galicia,Ourense,Casa Rural,Carretera OUR-CV-461 de Paradela-Vilar s/n,29.0,0,20000
+Galicia,Ourense,Chalet,Calle O lagar 10,106.0,3,120000
+Galicia,Ourense,Chalet,Calle da Estrada Vella 15,70.0,5,240000
+Galicia,Ourense,Chalet,Calle Alexandre Boveda 5,100.0,0,290000
+Galicia,Ourense,Piso,Calle do Progreso 125,88.0,3,240000
+Galicia,Ourense,Chalet,Calle Ponte Pelamios 17,90.0,3,75000
+Galicia,Ourense,Estudio,Calle nosa senora da sainza 50,32.0,0,139000
+Galicia,Ourense,Chalet,Lugar Tiollo,170.0,3,206000
+Galicia,Ourense,Chalet,Calle Progreso 126,174.0,5,165000
+Galicia,Ourense,Piso,Avenida da Habana,126.0,4,150000
+Galicia,Ourense,Piso,Plaza Alferez Provisional 2,115.0,4,165000
+Galicia,Ourense,Duplex,Plaza Eduardo Barreiros 8,113.0,3,170000
+Galicia,Ourense,Piso,Calle Munoz Calero,107.0,3,79600
+Galicia,Ourense,Chalet,LG. Casa Do Campo - Paradela s/n,243.0,5,155000
+Galicia,Ourense,Piso,Calle Bedoya,106.0,5,170000
+Galicia,Ourense,Duplex,CL. Monasterio 5,147.0,4,210000
+Galicia,Ourense,Duplex,AV. HABANA 35,262.0,7,580000
+Galicia,Ourense,Chalet,Calle Freas,187.0,5,290000
+Galicia,Ourense,Piso,Vista Hermosa,107.0,3,130000
+Galicia,Ourense,Piso,Centro,113.0,3,290000
+Galicia,Ourense,Piso,Bernardo Gonzalez Cachamuina,78.0,2,174000
+Galicia,Ourense,Piso,Calle Alejandro Pedrosa,85.0,2,47000
+Galicia,Ourense,Chalet,Parroquia Untes 9,79.0,2,29840
+Galicia,Ourense,Piso,Polvorin,75.0,3,70000
+Galicia,Ourense,Chalet,Calle o Seixo,80.0,4,200000
+Galicia,Ourense,Piso,Marinamansa,87.0,3,93000
+Galicia,Ourense,Piso,Couto,114.0,4,119000
+Galicia,Ourense,Chalet,Calle Val do Seixo 3 33,110.0,3,147000
+Galicia,Ourense,Piso,Centro,127.0,3,236000
+Galicia,Ourense,Chalet,Carballeda de Avia,131.0,4,490000
+Galicia,Ourense,Chalet,Amoeiro,200.0,4,215000
+Galicia,Ourense,Piso,Couto,93.0,3,210000
+Galicia,Ourense,Chalet,Calle Ramiras,450.0,5,490000
+Galicia,Ourense,Piso,Centro,105.0,3,169000
+Galicia,Ourense,Piso,Vista Hermosa,89.0,4,160000
+Galicia,Ourense,Piso,Quintela - Los Pinos,114.0,3,155000
+Galicia,Ourense,Piso,Vista Hermosa,89.0,4,160000
+Galicia,Ourense,Piso,Centro,105.0,3,169000
+Galicia,Ourense,Piso,Calle San Rosendo,65.0,2,113999
+Galicia,Ourense,Piso,Calle Arturo Perez Serantes,61.0,2,175000
+Galicia,Ourense,Piso,Calle Parque de San Lazaro,139.0,6,290000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,153.0,4,370000
+Galicia,Ourense,Chalet,Lugar San Salvador,4260.0,8,270000
+Galicia,Ourense,Chalet,Lugar Fea,112.0,3,330000
+Galicia,Ourense,Chalet,Caseriu Soutullo de Arriba,131.0,4,325000
+Galicia,Ourense,Piso,Caseriu O Pineiral,105.0,3,135000
+Galicia,Ourense,Piso,Marinamansa,99.0,3,148000
+Galicia,Ourense,Piso,Centro,150.0,3,285000
+Galicia,Ourense,Piso,Calle do Progreso,211.0,6,249000
+Galicia,Ourense,Piso,As Lagunas,100.0,4,188000
+Galicia,Ourense,Piso,Centro,229.0,4,365000
+Galicia,Ourense,Piso,Casco Viejo,117.0,3,149000
+Galicia,Ourense,Chalet,Calle Ceibe,164.0,5,250000
+Galicia,Ourense,Chalet,Calle Julia Minguillon,161.0,5,290000
+Galicia,Ourense,Piso,Calle Vicente Risco,66.0,2,115000
+Galicia,Ourense,Piso,Calle Rio Cerves,80.0,2,139000
+Galicia,Ourense,Duplex,CL. FORNOS 12,129.0,3,110000
+Galicia,Ourense,Piso,Calle Quintian,70.0,2,83435
+Galicia,Ourense,Casa Rural,CAXAMONDE 4,80.0,2,65000
+Galicia,Ourense,Chalet,Coles,734.0,4,240000
+Galicia,Ourense,Piso,Casco Viejo,124.0,4,170000
+Galicia,Ourense,Chalet,Allariz,84.0,3,180000
+Galicia,Ourense,Piso,A Ponte,99.0,3,156000
+Galicia,Ourense,Chalet,Calle Quins,800.0,4,80000
+Galicia,Ourense,Chalet,Cesareo Gonzalez 64,276.0,4,385000
+Galicia,Ourense,Duplex,O Vinteun,170.0,3,229000
+Galicia,Ourense,Piso,Casco Viejo,154.0,4,132000
+Galicia,Ourense,Piso,Couto,85.0,3,168000
+Galicia,Ourense,Chalet,Barbadas,82.0,3,288000
+Galicia,Ourense,Piso,A Ponte,121.0,3,172000
+Galicia,Ourense,Piso,Casco Viejo,45.0,2,142000
+Galicia,Ourense,Chalet,A Carballeira,700.0,5,595000
+Galicia,Ourense,Piso,Universidad,116.0,3,119000
+Galicia,Ourense,Piso,Centro,95.0,3,278000
+Galicia,Ourense,Piso,Centro,67.0,2,134000
+Galicia,Ourense,Duplex,Marinamansa,130.0,4,230000
+Galicia,Ourense,Piso,Centro,95.0,3,278000
+Galicia,Ourense,Piso,Universidad,85.0,3,115000
+Galicia,Ourense,Piso,Couto,85.0,3,168000
+Galicia,Ourense,Chalet,Barbadas,82.0,3,288000
+Galicia,Ourense,Piso,Av. Portugal,164.0,4,160000
+Galicia,Ourense,Chalet,Barrocanes,200.0,4,320000
+Galicia,Ourense,Casa Rural,A Peroxa,163.0,5,475000
+Galicia,Ourense,Piso,Posio,104.0,3,144000
+Galicia,Ourense,Piso,Centro,155.0,4,365000
+Galicia,Ourense,Chalet,Amoeiro,487.0,3,330000
+Galicia,Ourense,Chalet,Barbadas,109.0,3,330000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,260.0,5,269000
+Galicia,Ourense,Piso,Calle Serra Martina,94.0,3,177000
+Galicia,Ourense,Piso,Calle a Granxa,70.0,2,125000
+Galicia,Ourense,Piso,Calle a Granxa,70.0,2,98000
+Galicia,Ourense,Piso,Centro,191.0,4,475000
+Galicia,Ourense,Piso,O Vinteun,108.0,3,79000
+Galicia,Ourense,Chalet,Cenlle,318.0,5,210000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,740.0,4,140000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,140.0,4,280000
+Galicia,Ourense,Piso,A Ponte,142.0,4,205000
+Galicia,Ourense,Chalet,Barbadas,181.0,5,240000
+Galicia,Ourense,Chalet,O Vinteun,1000.0,6,350000
+Galicia,Ourense,Chalet,As Lagunas,185.0,4,199990
+Galicia,Ourense,Duplex,A Ponte,150.0,4,398000
+Galicia,Ourense,Chalet,Coles,1700.0,3,160000
+Galicia,Ourense,Piso,CL. Concejo 18,140.0,5,330000
+Galicia,Ourense,Atico,Calle Florentino Cuevillas,30.0,2,240000
+Galicia,Ourense,Duplex,Couto,124.0,5,249000
+Galicia,Ourense,Piso,Centro,77.0,2,210000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,77.0,2,153000
+Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,92.0,3,220000
+Galicia,Ourense,Piso,Casco Viejo,131.0,4,195000
+Galicia,Ourense,Piso,O Vinteun,91.0,2,150000
+Galicia,Ourense,Piso,As Lagunas,140.0,5,223000
+Galicia,Ourense,Piso,A Ponte,127.0,4,145000
+Galicia,Ourense,Casa Rural,Esgos,280.0,5,97000
+Galicia,Ourense,Piso,Centro,40.0,4,400000
+Galicia,Ourense,Piso,Centro,158.0,4,255000
+Galicia,Ourense,Piso,Calle Doutor Fleming,90.0,3,125000
+Galicia,Ourense,Piso,Marinamansa,145.0,4,139500
+Galicia,Ourense,Piso,Calle Bano,85.0,2,165000
+Galicia,Ourense,Chalet,N-120,600.0,5,75000
+Galicia,Ourense,Piso,A Carballeira,102.0,3,134500
+Galicia,Ourense,Piso,Barrocanes,62.0,2,130000
+Galicia,Ourense,Chalet,Lugar Moreiras,1.0,3,260000
+Galicia,Ourense,Piso,Barrocanes,106.0,3,180000
+Galicia,Ourense,Piso,Pz. Alferez Provisional,12.0,3,175000
+Galicia,Ourense,Chalet,Parada pinor,990.0,4,355000
+Galicia,Ourense,Piso,Universidad,97.0,3,208000
+Galicia,Ourense,Piso,Universidad,100.0,3,67000
+Galicia,Ourense,Chalet,Aldea Montelongo Abaixo 13 A,237.0,6,299000
+Galicia,Ourense,Chalet,Quintela - Los Pinos,149.0,4,67600
+Galicia,Ourense,Piso,Vasco diaz tanco 10,144.0,4,85000
+Galicia,Ourense,Chalet,Calle Aldea Dabaixo 34,150.0,4,70000
+Galicia,Ourense,Piso,Centro,91.0,3,340000
+Galicia,Ourense,Piso,Avenida Santiago s/n,135.0,4,175000
+Galicia,Ourense,Piso,Centro,99.0,4,125000
+Galicia,Ourense,Chalet,Calle Petin 25,116.0,3,260000
+Galicia,Ourense,Chalet,Bieite- A Puntina,76.0,2,35000
+Galicia,Ourense,Piso,Avenida de Celanova,124.0,4,135000
+Galicia,Ourense,Piso,Centro,170.0,6,310000
+Galicia,Ourense,Casa Rural,XANDRESA DE QUEIXA 10,88.0,3,120000
+Galicia,Ourense,Piso,Calle RIO TAMEGA 23,64.0,2,91690
+Galicia,Ourense,Casa Rural,Camino sen nome s/n SN,138.0,4,30000
+Galicia,Ourense,Piso,Centro,44.0,1,134550
+Galicia,Ourense,Chalet,Pereiro de Aguiar,116.0,3,190000
+Galicia,Ourense,Piso,Camelias s/n,99.0,3,134500
+Galicia,Ourense,Chalet,Coles,1.1,3,150000
+Galicia,Ourense,Duplex,Couto,198.0,5,295000
+Galicia,Ourense,Piso,O Vinteun,96.0,3,90000
+Galicia,Ourense,Piso,Barrocanes,126.0,4,155000
+Galicia,Ourense,Estudio,Barbadas,25.0,0,94000
+Galicia,Ourense,Chalet,Aldea Pereiro 5,322.0,3,70000
+Galicia,Ourense,Piso,Couto,136.0,4,99000
+Galicia,Ourense,Piso,A Ponte,93.0,3,110000
+Galicia,Ourense,Chalet,Bieite,186.0,5,127000
+Galicia,Ourense,Chalet,A Penalba s/n,138.0,4,40000
+Galicia,Ourense,Piso,O Vinteun,90.0,3,57000
+Galicia,Ourense,Piso,A Ponte,85.0,3,167000
+Galicia,Ourense,Piso,Barbadas,80.0,2,103000
+Galicia,Ourense,Piso,A Ponte,85.0,3,167000
+Galicia,Ourense,Piso,Couto,74.0,2,72000
+Galicia,Ourense,Piso,A Carballeira,108.0,3,55000
+Galicia,Ourense,Piso,Calle Doutor Fleming 8,132.0,4,109000
+Galicia,Ourense,Piso,Couto,159.0,4,85000
+Galicia,Ourense,Piso,A Carballeira,15.0,3,230000
+Galicia,Ourense,Chalet,Vista Hermosa,110.0,3,260000
+Galicia,Ourense,Duplex,Calle Martin Codax,135.0,4,200300
+Galicia,Ourense,Chalet,Lugar Cunas,200.0,3,100000
+Galicia,Ourense,Piso,O Vinteun,94.0,3,175000
+Galicia,Ourense,Chalet,o castro,50.0,4,199900
+Galicia,Ourense,Piso,Casco Viejo,120.0,3,159000
+Galicia,Ourense,Piso,Avenida de Santiago,130.0,3,120000
+Galicia,Ourense,Chalet,Lugar Marcelin 36 A,153.0,4,164000
+Galicia,Ourense,Casa Rural,Naranxos s/n,70.0,3,35000
+Galicia,Ourense,Chalet,Casco Viejo,46.0,1,195000
+Galicia,Ourense,Piso,Rio Mente 4,83.0,3,90000
+Galicia,Ourense,Piso,Rua do Paseo 23 -9,98.0,3,620000
+Galicia,Ourense,Atico,OU-310 40,95.0,3,60000
+Galicia,Ourense,Piso,JUAN XXIII 33,230.0,4,460000
+Galicia,Ourense,Piso,Antonio Roman s/n,71.0,2,130000
+Galicia,Ourense,Piso,progreso 32005 s/n,69.0,2,165000
+Galicia,Ourense,Piso,Avenida de Santiago,12.0,4,60000
+Galicia,Ourense,Piso,Calle da Coruna 1,73.0,2,126000
+Galicia,Ourense,Piso,O Barco de Valdeorras,75.0,3,74500
+Galicia,Ourense,Casa Rural,Lugar de Carracedo 28,189.0,5,20000
+Galicia,Ourense,Casa Rural,Mandras s/n Cea,109.0,3,15000
+Galicia,Ourense,Casa Rural,Senorin 19,650.0,2,60000
+Galicia,Ourense,Piso,Celanova,82.0,3,70000
+Galicia,Ourense,Chalet,Melon,165.0,2,34000
+Galicia,Ourense,Piso,Coruna s/n,7.0,2,126000
+Galicia,Ourense,Chalet,Boboras,3807.0,4,82700
+Galicia,Ourense,Piso,Xinzo de Limia,65.0,2,33368
+Galicia,Ourense,Estudio,As Lagunas,50.0,0,117000
+Galicia,Ourense,Casa Rural,Aldea Barxa 21,103.0,3,32000
+Galicia,Ourense,Chalet,Centro,49.0,1,620000
+Galicia,Ourense,Chalet,Allariz,302.0,8,480000
+Galicia,Ourense,Piso,Centro,116.0,4,109000
+Galicia,Ourense,Chalet,Calle Boavista 7,378.0,6,250000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,123.0,4,199990
+Galicia,Ourense,Casa Rural,O Reguengo s/n sn,700.0,5,40000
+Galicia,Ourense,Chalet,Carretera o Vinao 14,105.0,3,50000
+Galicia,Ourense,Piso,Calle San Antonio 1,65.0,2,58900
+Galicia,Ourense,Casa Rural,Calle Cimadevila 1,114.0,3,20000
+Galicia,Ourense,Chalet,Calle San Salvador 6,150.0,4,32300
+Galicia,Ourense,Piso,Calle de Ribadavia,93.0,3,75000
+Galicia,Ourense,Piso,Avenida de Santiago,110.0,4,175000
+Galicia,Ourense,Piso,O Vinteun,131.0,4,175000
+Galicia,Ourense,Piso,Calle Godalla,121.0,4,90000
+Galicia,Ourense,Chalet,Oleiros 3,85.0,4,72000
+Galicia,Ourense,Chalet,Aldea Forcadela,138.0,4,26500
+Galicia,Ourense,Chalet,Calle a Calvos,93.0,3,94600
+Galicia,Ourense,Chalet,Lugar de Chaodarcas de Arriba 62,96.0,3,120500
+Galicia,Ourense,Chalet,Lugar Cortinas,150.0,2,95000
+Galicia,Ourense,Casa Rural,Lugar Naves,50.0,1,89000
+Galicia,Ourense,Piso,Calle da Granxa,110.0,3,147000
+Galicia,Ourense,Piso,O Vinteun,110.0,3,49400
+Galicia,Ourense,Piso,Casco Viejo,60.0,2,130000
+Galicia,Ourense,Casa Rural,Traveso 6,85.0,3,42000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,110.0,3,67000
+Galicia,Ourense,Piso,Couto,80.0,3,70000
+Galicia,Ourense,Piso,Calle del Paseo 33,168.0,5,320000
+Galicia,Ourense,Piso,Avenida Celanova,129.0,4,115000
+Galicia,Ourense,Piso,Barbadas,88.0,3,128000
+Galicia,Ourense,Chalet,lugar curras 24,300.0,7,229000
+Galicia,Ourense,Piso,Carretera Vigo-Pino,50.0,3,74727
+Galicia,Ourense,Piso,Calle de Tomas Rguez. Punxin,97.0,3,115300
+Galicia,Ourense,Piso,Calle San Rosendo,127.0,4,163400
+Galicia,Ourense,Piso,santo cristo 32005 s/n,93.0,3,37000
+Galicia,Ourense,Chalet,Caseriu Sagra,500.0,4,240000
+Galicia,Ourense,Piso,Vasco Diaz tanco s/n,61.0,2,39000
+Galicia,Ourense,Chalet,Aldea Eirexa,175.0,5,160000
+Galicia,Ourense,Chalet,Calle da Encarnacion,400.0,6,140000
+Galicia,Ourense,Chalet,Lugar Outeiro Calvo,245.0,6,152680
+Galicia,Ourense,Chalet,a abelleira s/n,126.0,4,35000
+Galicia,Ourense,Chalet,Caseriu Sagra 13,500.0,4,240000
+Galicia,Ourense,Chalet,Lugar Cruz de Rante 16,267.0,5,343000
+Galicia,Ourense,Chalet,Alberto Garcia Ferreiro s/n,138.0,4,300000
+Galicia,Ourense,Duplex,Calle Martin Codax,22.0,4,200300
+Galicia,Ourense,Chalet,Plaza maior s/n,500.0,5,200000
+Galicia,Ourense,Piso,xoan manuel pintos 32005 ourense s/n,84.0,3,172000
+Galicia,Ourense,Piso,Calle Xoan Manuel Pintos,112.0,3,172000
+Galicia,Ourense,Chalet,Aldea Eirexa,197.0,5,160000
+Galicia,Ourense,Chalet,Calle do Regato,180.0,5,96000
+Galicia,Ourense,Piso,OU-0517 35,117.0,3,129000
+Galicia,Ourense,Chalet,a abelleira s/n,138.0,4,35000
+Galicia,Ourense,Duplex,Calle Martin Codax,22.0,4,200300
+Galicia,Ourense,Chalet,Lugar Outeiro Calvo,245.0,6,152680
+Galicia,Ourense,Chalet,Alberto Garcia Ferreiro s/n,158.0,4,300000
+Galicia,Ourense,Piso,Pena nofre s/n,84.0,3,165000
+Galicia,Ourense,Chalet,Aldea Regoufe 89,188.0,5,140000
+Galicia,Ourense,Piso,colon 32003 s/n,63.0,2,70000
+Galicia,Ourense,Chalet,Caseriu Sagra,500.0,4,240000
+Galicia,Ourense,Chalet,Camino do Coino,309.0,8,480000
+Galicia,Ourense,Casa Rural,Carretera de Velle s/n,128.0,4,120000
+Galicia,Ourense,Chalet,Calle da Lua,75.0,5,254000
+Galicia,Ourense,Chalet,Caseriu Sagra 13,500.0,4,240000
+Galicia,Ourense,Chalet,zamora s/n,154.0,4,160000
+Galicia,Ourense,Piso,Carretera de Vigo-Outariz,29.0,3,55000
+Galicia,Ourense,Casa Rural,Lugar Vilarino,5200.0,4,125000
+Galicia,Ourense,Piso,Calle do Paseo,150.0,3,620000
+Galicia,Ourense,Piso,Calle do Paseo,90.0,3,620000
+Galicia,Ourense,Chalet,Calle Santome,86.0,4,139000
+Galicia,Ourense,Piso,Avenida da Habana,139.0,4,340000
+Galicia,Ourense,Piso,Calle San Rosendo,154.0,4,205000
+Galicia,Ourense,Chalet,Lugar Outeiro Calvo,600.0,6,152680
+Galicia,Ourense,Piso,Calle do Concello,160.0,5,320000
+Galicia,Ourense,Piso,Calle Ervedelo,80.0,3,85000
+Galicia,Ourense,Casa Rural,Aldea Barreal 2,111.0,3,64000
+Galicia,Ourense,Piso,ribeira de canedo s/n,78.0,2,155000
+Galicia,Ourense,Casa Rural,Camino Cabo de Vila,288.0,7,65000
+Galicia,Ourense,Piso,Calle Picasso,158.0,4,100000
+Galicia,Ourense,Piso,Calle do Progreso 89,200.0,6,249000
+Galicia,Ourense,Casa Rural,Eirexa Soutopenedo 2,165.0,5,160000
+Galicia,Ourense,Chalet,Camino do Curro,180.0,5,170000
+Galicia,Ourense,Chalet,Calle Porteleira,131.0,4,55000
+Galicia,Ourense,Piso,Calle Antonio Jaunsaras,95.0,4,93000
+Galicia,Ourense,Chalet,Calle Cruz da Oliveira,114.0,3,69900
+Galicia,Ourense,Chalet,Carretera de Corvillon,98.0,3,77500
+Galicia,Ourense,Casa Rural,Aldea Barreal 2,110.0,3,64000
+Galicia,Ourense,Chalet,Calle Cruz da Oliveira,81.0,3,69900
+Galicia,Ourense,Casa Rural,Camino de Loeda,168.0,5,1000000
+Galicia,Ourense,Casa Rural,Eirexa Soutopenedo 2,172.0,5,160000
+Galicia,Ourense,Piso,ribeira de canedo s/n,60.0,2,155000
+Galicia,Ourense,Piso,Calle San Rosendo,160.0,4,205000
+Galicia,Ourense,Chalet,Camino do Curro,192.0,5,170000
+Galicia,Ourense,Chalet,Camino das Lamas,250.0,4,95000
+Galicia,Ourense,Casa Rural,Lugar a Vacariza 12,47.0,1,16000
+Galicia,Ourense,Chalet,Lobios,114.0,3,48000
+Galicia,Ourense,Chalet,Aldea Casanova,2.0,4,370000
+Galicia,Ourense,Chalet,Lobios,71.0,2,42000
+Galicia,Ourense,Piso,Calle Eulogio Gomez Franqueira,139.0,4,139000
+Galicia,Ourense,Chalet,Calle da Estrada Vella,554.0,5,240000
+Galicia,Ourense,Duplex,Calle do Paseo,67.0,2,377400
+Galicia,Ourense,Piso,Avenida ZAMORA 154,200.0,4,260000
+Galicia,Ourense,Chalet,ALDEA GRANDE,608.0,7,159000
+Galicia,Ourense,Piso,Calle Ramon Puga,104.0,3,178000
+Galicia,Ourense,Chalet,Lugar a Seara 63,5000.0,6,140000
+Galicia,Ourense,Piso,Calle das Camelias,115.0,3,134500
+Galicia,Ourense,Piso,Avenida de la Habana,121.0,4,160000
+Galicia,Ourense,Duplex,Avenida de Manuel Quiroga 17,82.0,3,92000
+Galicia,Ourense,Piso,ALFONSO ALCARAZ 5,119.0,3,99000
+Galicia,Ourense,Duplex,Calle Doctor Maranon 7,60.0,3,245000
+Galicia,Ourense,Piso,Calle Doctor Maranon 7,60.0,3,235000
+Galicia,Ourense,Piso,Calle Doctor Maranon 7,60.0,1,130000
+Galicia,Ourense,Piso,Calle Doctor Maranon 7,60.0,3,240000
+Galicia,Ourense,Piso,Calle Doctor Maranon 7,60.0,3,185000
+Galicia,Ourense,Chalet,Calle Carriarico,120.0,4,185000
+Galicia,Ourense,Chalet,Leiro,122.0,4,198000
+Galicia,Ourense,Piso,Calle Colon,67.0,2,75000
+Galicia,Ourense,Piso,Calle Paseo,102.0,3,620000
+Galicia,Ourense,Piso,Rampa de Sas,102.0,4,135000
+Galicia,Ourense,Piso,Calle Doutor Maranon,62.0,2,125000
+Galicia,Ourense,Casa Rural,razamonde,1.0,3,89000
+Galicia,Ourense,Piso,Calle Coruna,75.0,2,126000
+Galicia,Ourense,Piso,Calle Valle Inclan,90.0,3,220000
+Galicia,Ourense,Piso,San Cibrao das Vinas,56.0,3,29408
+Galicia,Ourense,Chalet,Xinzo de Limia,43.0,1,280000
+Galicia,Ourense,Atico,Calle Ribeira de Canedo,70.0,2,165000
+Galicia,Ourense,Piso,Calle Coruna,75.0,2,126000
+Galicia,Ourense,Piso,Calle Paseo,99.0,3,620000
+Galicia,Ourense,Casa Rural,SAN CRISTOBO DE CEA s/n,199.0,5,35000
+Galicia,Ourense,Piso,Calle das Camelias,87.0,3,134500
+Galicia,Ourense,Piso,O Barco de Valdeorras,142.0,4,84000
+Galicia,Ourense,Piso,Calle _Rua de Progreso,211.0,6,249000
+Galicia,Ourense,Chalet,Camino Os beleiros 28,8.234,0,95000
+Galicia,Ourense,Piso,Calle Juan XXIII,150.0,4,235000
+Galicia,Ourense,Atico,Ribeira de Canedo,85.0,2,155000
+Galicia,Ourense,Chalet,Casagrandes 48,840.0,5,68000
+Galicia,Ourense,Piso,Universidad,60.0,2,231000
+Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro,149.0,4,215000
+Galicia,Ourense,Piso,Plaza do Concello,213.0,6,315000
+Galicia,Ourense,Duplex,Calle Pura y Dora Vazquez,140.0,4,310000
+Galicia,Ourense,Duplex,Calle Ensino,15.0,4,210000
+Galicia,Ourense,Piso,O Carballino,104.0,3,135000
+Galicia,Ourense,Atico,Calle Jesus Soria,70.0,2,225000
+Galicia,Ourense,Piso,Couto,109.0,4,65000
+Galicia,Ourense,Piso,Valenza,96.0,3,135000
+Galicia,Ourense,Casa Rural,Calle Santa Maria 17,20.0,5,250000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII 31,120.0,4,550000
+Galicia,Ourense,Piso,Calle do Progreso,56.0,1,20000
+Galicia,Ourense,Casa Rural,Aldea Moreira 1,93.0,3,37000
+Galicia,Ourense,Chalet,Calle Veiga de Abaixo,110.0,3,130000
+Galicia,Ourense,Chalet,Lugar O Pazo,61.0,3,19500
+Galicia,Ourense,Casa Rural,VILAR,1800.0,10,50000
+Galicia,Ourense,Chalet,Os Viros,110.0,3,77500
+Galicia,Ourense,Piso,Calle Xaime Prada,95.0,3,80000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,182.0,5,450000
+Galicia,Ourense,Piso,Calle do Progreso,108.0,3,23500
+Galicia,Ourense,Piso,Centro,131.0,4,325000
+Galicia,Ourense,Piso,Calle Ervedelo,87.0,3,107000
+Galicia,Ourense,Piso,Calle Garcia Mosquera,133.0,4,125000
+Galicia,Ourense,Chalet,Camino de Piton,25.0,4,200000
+Galicia,Ourense,Chalet,Beran s/n,160.0,4,198000
+Galicia,Ourense,Chalet,Calle Alfredo Branas 39,249.0,6,110000
+Galicia,Ourense,Piso,Camino dos Coutos 2,100.0,3,92000
+Galicia,Ourense,Piso,CL. CONCEJO 4,45.0,5,375000
+Galicia,Ourense,Casa Rural,Lugar Bieite 147,93.0,3,35000
+Galicia,Ourense,Casa Rural,Calle Padre Eijan 23,135.0,2,99000
+Galicia,Ourense,Duplex,Calle do Areal 9,157.0,4,160000
+Galicia,Ourense,Piso,JUAN XXIII 11,194.0,5,240000
+Galicia,Ourense,Casa Rural,Calle Padre Eijan 23,135.0,2,99000
+Galicia,Ourense,Chalet,Urbanizacion Montealegre s/n,500.0,5,355000
+Galicia,Ourense,Piso,Camino dos Coutos 2,100.0,3,92000
+Galicia,Ourense,Duplex,Avenida de Celanova,122.0,4,156000
+Galicia,Ourense,Chalet,Caseriu a Castellana,580.0,3,315000
+Galicia,Ourense,Chalet,Calle do Couto,153.0,4,78500
+Galicia,Ourense,Chalet,San Cibrao das Vinas,173.0,5,500000
+Galicia,Ourense,Duplex,zona Campus As Lagoas,120.0,3,225000
+Galicia,Ourense,Chalet,pradabo 1,240.0,4,280000
+Galicia,Ourense,Piso,Avenida da Habana 59,80.0,3,315000
+Galicia,Ourense,Piso,Calle Ervedelo 62,128.0,4,225000
+Galicia,Ourense,Chalet,Calle do Santo 13,144.0,4,230000
+Galicia,Ourense,Piso,Calle Ramon Cabanillas 20,70.0,4,200000
+Galicia,Ourense,Piso,Calle de Ourense 7,81.0,3,155000
+Galicia,Ourense,Chalet,Calle do Pouso,37.0,3,31500
+Galicia,Ourense,Piso,Calle da Concordia 6,176.0,5,245000
+Galicia,Ourense,Chalet,OU-0517 29 -27,117.0,3,220000
+Galicia,Ourense,Chalet,Calle Aurelaneo Ferreiro 61,74.0,2,125000
+Galicia,Ourense,Piso,Calle Enriquez Parrondo 18,72.0,2,135000
+Galicia,Ourense,Piso,Calle Consejo,200.0,5,330000
+Galicia,Ourense,Piso,Calle Rampa de Sas 1,155.0,4,143700
+Galicia,Ourense,Piso,Maceda,120.0,4,80000
+Galicia,Ourense,Chalet,Toen,163.0,4,115000
+Galicia,Ourense,Piso,Habana 22,160.0,4,199000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,250.0,4,67600
+Galicia,Ourense,Piso,O Vinteun,70.0,3,90000
+Galicia,Ourense,Piso,Calle da Encarnacion,143.0,4,135000
+Galicia,Ourense,Piso,Couto,96.0,3,158400
+Galicia,Ourense,Piso,Centro,68.0,2,140000
+Galicia,Ourense,Chalet,Barbadas,298.0,3,110000
+Galicia,Ourense,Piso,Avenida da Habana,120.0,3,360000
+Galicia,Ourense,Piso,Casco Viejo,65.0,2,126000
+Galicia,Ourense,Piso,Xinzo de Limia,86.0,3,62700
+Galicia,Ourense,Chalet,Loiro de Abaixo,76.0,2,120000
+Galicia,Ourense,Chalet,Universidad,66.0,6,195000
+Galicia,Ourense,Piso,Calle Fonte Boa,98.0,3,119000
+Galicia,Ourense,Chalet,Calle da Estrada Vella,195.0,6,210000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,1.842,4,675000
+Galicia,Ourense,Piso,Posio,125.0,4,179598
+Galicia,Ourense,Atico,Calle Jesus Soria,70.0,2,180000
+Galicia,Ourense,Chalet,A Ponte,182.0,4,155000
+Galicia,Ourense,Piso,Couto,107.0,3,164000
+Galicia,Ourense,Piso,Calle Pino,29.0,3,55000
+Galicia,Ourense,Chalet,O Carballino,145.0,4,513000
+Galicia,Ourense,Piso,Calle Luis Trabazos,70.0,2,140000
+Galicia,Ourense,Chalet,San Mamede da Canda,55.0,7,120000
+Galicia,Ourense,Chalet,Vilamarin,1.1,4,220000
+Galicia,Ourense,Chalet,Camino de Santa Marina,199.0,4,120000
+Galicia,Ourense,Chalet,Leiro,200.0,3,164000
+Galicia,Ourense,Piso,Calle Xaime Prada,50.0,2,80000
+Galicia,Ourense,Chalet,Carretera Amoeiro 2 -6,6500.0,3,206000
+Galicia,Ourense,Chalet,FARAMONTAOS s/n,92.0,3,120000
+Galicia,Ourense,Piso,Calle a Granxa,110.0,3,147000
+Galicia,Ourense,Chalet,O tiollo,6500.0,3,206000
+Galicia,Ourense,Piso,lidl s/n,60.0,1,89000
+Galicia,Ourense,Chalet,A Quinta,135.0,4,47000
+Galicia,Ourense,Piso,Calle Nosa Senora do Cristal,110.0,4,135000
+Galicia,Ourense,Casa Rural,Barbantes 1,158.0,4,190000
+Galicia,Ourense,Piso,fonteboa s/n,69.0,2,82000
+Galicia,Ourense,Chalet,Camino Zamora-Santiago,300.0,5,220000
+Galicia,Ourense,Casa Rural,Camino da Viladequinta 5,400.0,3,76000
+Galicia,Ourense,Piso,francisco de Moure s/n,146.0,4,135000
+Galicia,Ourense,Estudio,Calle Amado Carballo,36.0,0,121000
+Galicia,Ourense,Chalet,OU-0517,100.0,3,94600
+Galicia,Ourense,Chalet,Lugar Bouza,252.0,4,180000
+Galicia,Ourense,Duplex,Camino de Xunqueira,90.0,2,130000
+Galicia,Ourense,Duplex,ponte codesal s/n,110.0,3,209000
+Galicia,Ourense,Piso,Calle Bano,74.0,2,165000
+Galicia,Ourense,Piso,Avenida universidade s/n,96.0,3,85000
+Galicia,Ourense,Atico,Calle Ribeira de Canedo,85.0,2,155000
+Galicia,Ourense,Chalet,Calle Santa Eufemia,127.0,3,95000
+Galicia,Ourense,Piso,padre sarmiento s/n,142.0,4,135000
+Galicia,Ourense,Piso,O Vinteun,96.0,3,150000
+Galicia,Ourense,Chalet,A Ponte,600.0,6,550000
+Galicia,Ourense,Chalet,Doctor Fleming,110.0,4,125000
+Galicia,Ourense,Piso,antonio roman s/n,109.0,3,170000
+Galicia,Ourense,Piso,bonhome s/n,149.0,4,185000
+Galicia,Ourense,Chalet,Calle da Moura,500.0,4,120000
+Galicia,Ourense,Chalet,A Ponte,600.0,6,550000
+Galicia,Ourense,Piso,chano pineiro s/n,70.0,2,145000
+Galicia,Ourense,Piso,Calle a Granxa,110.0,3,147000
+Galicia,Ourense,Piso,Calle do Progreso,118.0,4,285000
+Galicia,Ourense,Piso,otero pedraio,113.0,3,97000
+Galicia,Ourense,Casa Rural,Camino da Viladequinta 5,400.0,3,76000
+Galicia,Ourense,Chalet,Lugar Bouza,252.0,4,180000
+Galicia,Ourense,Piso,Avenida universidade s/n,107.0,3,85000
+Galicia,Ourense,Chalet,Igrexa,197.0,5,132500
+Galicia,Ourense,Piso,Calle Antonio Saenz-Diez,158.0,4,150000
+Galicia,Ourense,Chalet,condado,100.0,3,190000
+Galicia,Ourense,Chalet,Lugar Partovia,600.0,3,105000
+Galicia,Ourense,Chalet,Calle de Barrio Balneario,561.0,10,130000
+Galicia,Ourense,Atico,Avenida de Santiago,110.0,3,250000
+Galicia,Ourense,Chalet,Plaza Maior,76.0,2,130000
+Galicia,Ourense,Piso,Calle Curros Enriquez,86.0,3,75000
+Galicia,Ourense,Piso,Camino de Ponferrada,144.0,4,66880
+Galicia,Ourense,Piso,Progreso,84.0,3,236000
+Galicia,Ourense,Chalet,Calle Xoan Montes Capon,500.0,4,219000
+Galicia,Ourense,Piso,Ervedelo,117.0,3,265000
+Galicia,Ourense,Piso,Calle Carmen Novoa,105.0,3,125000
+Galicia,Ourense,Duplex,Calle da Fonte,95.0,3,140000
+Galicia,Ourense,Piso,Calle Rio Camba,100.0,3,89990
+Galicia,Ourense,Piso,Calle Ramon Cabanillas,185.0,4,275000
+Galicia,Ourense,Piso,Avenida de Zamora 32,142.0,4,135000
+Galicia,Ourense,Piso,Calle Dous de Maio,59.0,1,93000
+Galicia,Ourense,Chalet,Calle Pereiro de Aguiar,186.0,4,220000
+Galicia,Ourense,Piso,Calle dos Berrocas,90.0,4,100000
+Galicia,Ourense,Piso,Calle do Progreso,100.0,3,240000
+Galicia,Ourense,Duplex,Camino Miramon,150.0,4,250000
+Galicia,Ourense,Piso,Calle dos Remedios,85.0,4,199999
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,114.0,3,480000
+Galicia,Ourense,Piso,Camino de Ponferrada,126.0,4,63840
+Galicia,Ourense,Chalet,Calle Julia Minguillon,320.0,5,290000
+Galicia,Ourense,Piso,Avenida de la Habana,106.0,3,350000
+Galicia,Ourense,Piso,Nosa Senora da Sainza,90.0,3,160000
+Galicia,Ourense,Duplex,Calle Desengano,90.0,3,225000
+Galicia,Ourense,Piso,Avenida Celanova,46.0,1,85000
+Galicia,Ourense,Piso,Camino Ponte Codesal,90.0,3,160000
+Galicia,Ourense,Piso,Calle San Martino,90.0,3,119000
+Galicia,Ourense,Piso,Calle San Martino,90.0,3,119000
+Galicia,Ourense,Piso,Camino de Ponferrada,154.0,4,66880
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,84.0,3,480000
+Galicia,Ourense,Atico,Avenida de Santiago,110.0,3,250000
+Galicia,Ourense,Chalet,Calle Julia Minguillon,320.0,5,290000
+Galicia,Ourense,Duplex,Calle Desengano,90.0,3,225000
+Galicia,Ourense,Piso,Calle Curros Enriquez,86.0,3,75000
+Galicia,Ourense,Chalet,SEIXO 20,118.0,3,177000
+Galicia,Ourense,Chalet,OU-0519,200.0,6,310000
+Galicia,Ourense,Piso,Ervedelo,91.0,3,265000
+Galicia,Ourense,Piso,Calle das Camelias,102.0,3,134500
+Galicia,Ourense,Piso,Calle Rio Camba,100.0,3,89990
+Galicia,Ourense,Chalet,Calle Pereiro de Aguiar,186.0,4,220000
+Galicia,Ourense,Chalet,Cesareo Gonzalez,270.0,4,385000
+Galicia,Ourense,Piso,Calle Barros Sibelo,85.0,2,225000
+Galicia,Ourense,Piso,Calle Vila Valencia,90.0,3,131000
+Galicia,Ourense,Piso,Avenida Julio Rodriguez Soto,100.0,3,75000
+Galicia,Ourense,Chalet,Lugar Seijo,155.0,4,332000
+Galicia,Ourense,Piso,Calle Bonhome,146.0,4,179598
+Galicia,Ourense,Chalet,Calle Xoan Montes Capon,500.0,4,219000
+Galicia,Ourense,Chalet,Avenida de Madrid,778.0,6,190000
+Galicia,Ourense,Chalet,pumares s/n,153.0,4,75000
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,35.0,3,480000
+Galicia,Ourense,Chalet,OU-320,345.0,4,185000
+Galicia,Ourense,Chalet,condado,80.0,3,190000
+Galicia,Ourense,Piso,Avenida Celanova,40.0,1,85000
+Galicia,Ourense,Piso,Calle San Rosendo,122.0,4,163400
+Galicia,Ourense,Piso,Calle Curros Enriquez 37,61.0,2,169000
+Galicia,Ourense,Piso,emilia pardo bazan 32003 s/n,83.0,3,75000
+Galicia,Ourense,Piso,Avenida de Celanova,130.0,4,128000
+Galicia,Ourense,Chalet,Las escuelas 41,163.0,5,499900
+Galicia,Ourense,Casa Rural,Aldea de Abaixo,776.0,8,780000
+Galicia,Ourense,Piso,Plaza Andres de Prada 1 nB,103.0,3,135000
+Galicia,Ourense,Piso,Calle da Coruna 1,7.0,2,126000
+Galicia,Ourense,Chalet,Camino Longo,188.0,5,90000
+Galicia,Ourense,Piso,Calle Doctor Pena Rey,91.0,3,90000
+Galicia,Ourense,Chalet,Troncoso s/n,300.0,4,260000
+Galicia,Ourense,Piso,Cardenal Quevedo,117.0,3,295000
+Galicia,Ourense,Duplex,Xesus Pousa,145.0,4,398000
+Galicia,Ourense,Chalet,Calle o Seixo,84.0,3,177000
+Galicia,Ourense,Chalet,Calle o Seixo,84.0,3,177000
+Galicia,Ourense,Piso,Cardenal Quevedo,109.0,3,295000
+Galicia,Ourense,Chalet,Xunqueira de Ambia,190.0,5,40000
+Galicia,Ourense,Piso,Pena Trevinca,91.0,4,129000
+Galicia,Ourense,Piso,Travesia Vista Fermosa,65.0,2,129000
+Galicia,Ourense,Piso,Calle Prego de Oliver,110.0,3,190000
+Galicia,Ourense,Casa Rural,Calle Paradela 17,107.0,3,30000
+Galicia,Ourense,Chalet,Camino Longo,195.0,5,90000
+Galicia,Ourense,Chalet,Caseriu Nevoade 7,80.0,2,39500
+Galicia,Ourense,Chalet,Camino Real,81.0,4,190000
+Galicia,Ourense,Chalet,Troncoso Castrelo de Mino,100.0,3,130000
+Galicia,Ourense,Chalet,Calle santa cruz de o bolo 13,87.0,4,35000
+Galicia,Ourense,Piso,Calle do Ribeiro,97.0,3,88000
+Galicia,Ourense,Chalet,Os Peares s/n,300.0,4,165000
+Galicia,Ourense,Chalet,OU-402 1,13.5,5,700000
+Galicia,Ourense,Duplex,Plaza Eduardo BARREIROS,88.0,3,170000
+Galicia,Ourense,Piso,Calle Picasso 1,3.0,5,100000
+Galicia,Ourense,Chalet,Barbadas,500.0,3,295000
+Galicia,Ourense,Chalet,VILAR,386.0,8,1000000
+Galicia,Ourense,Piso,Plaza Andres de Prada 1 nB,95.0,3,135000
+Galicia,Ourense,Piso,Calle Progreso,105.0,4,320000
+Galicia,Ourense,Chalet,Avenida do Parque 49,25.0,4,498000
+Galicia,Ourense,Chalet,Soutullo s/n,2.2,5,325000
+Galicia,Ourense,Duplex,Xesus Pousa,128.0,4,398000
+Galicia,Ourense,Chalet,Troncoso s/n,300.0,4,260000
+Galicia,Ourense,Chalet,A peroxa,100.0,2,90000
+Galicia,Ourense,Chalet,OU-CV-346 18,247.0,4,171000
+Galicia,Ourense,Casa Rural,Aldea de Abaixo,776.0,8,780000
+Galicia,Ourense,Piso,Calle da Coruna 1,7.0,2,126000
+Galicia,Ourense,Piso,Calle Doctor Pena Rey,97.0,3,90000
+Galicia,Ourense,Piso,Avenida de Calvo Sotelo 11 N,82.0,3,87000
+Galicia,Ourense,Chalet,O Carballino,6000.0,3,400000
+Galicia,Ourense,Chalet,Avenida Lopez Blanco,131.0,4,112600
+Galicia,Ourense,Piso,Calle Rio Navea,81.0,3,185000
+Galicia,Ourense,Chalet,Calle Adoria,2.8,6,460000
+Galicia,Ourense,Chalet,Barrio de Abaixo,157.0,4,55000
+Galicia,Ourense,Casa Rural,Lugar Carracedo 11,100.0,3,40000
+Galicia,Ourense,Piso,Avenida das Caldas,81.0,3,170000
+Galicia,Ourense,Casa Rural,Calle Alfredo Nan 6,429.0,10,199000
+Galicia,Ourense,Piso,Calle de Tomas Rguez. Punxin,118.0,3,115300
+Galicia,Ourense,Casa Rural,San Cristovo de Cea,240.0,2,44500
+Galicia,Ourense,Piso,Hermanos Fernandez Alvarez 9,102.0,3,69500
+Galicia,Ourense,Duplex,Calle Manuel Murguia,142.0,4,189000
+Galicia,Ourense,Casa Rural,Calle Alfredo Nan 6,464.0,10,199000
+Galicia,Ourense,Chalet,Olas de Vilarino s/n,625.0,4,490000
+Galicia,Ourense,Piso,Marinamansa,73.0,4,200300
+Galicia,Ourense,Casa Rural,parada de sil s/n,250.0,7,990000
+Galicia,Ourense,Piso,Calle do Bierzo,77.0,2,187000
+Galicia,Ourense,Casa Rural,Lugar Carracedo 11,100.0,3,40000
+Galicia,Ourense,Chalet,Calle lugar de zapeaus s/n,132.0,4,30000
+Galicia,Ourense,Chalet,Calle Conde,30.0,5,350000
+Galicia,Ourense,Piso,Calle de Tomas Rguez. Punxin,104.0,3,115300
+Galicia,Ourense,Chalet,Avenida Lopez Blanco,153.0,4,112600
+Galicia,Ourense,Chalet,Calle Adoria,2.8,6,460000
+Galicia,Ourense,Piso,Avenida de Calvo Sotelo 11 N,87.0,3,87000
+Galicia,Ourense,Piso,Calle do Progreso,168.0,5,360000
+Galicia,Ourense,Chalet,Barrio de Abaixo,125.0,4,55000
+Galicia,Ourense,Piso,Avenida de Santiago,108.0,3,159000
+Galicia,Ourense,Chalet,Plaza de Pena Vixia 4,131.0,3,240000
+Galicia,Ourense,Chalet,Vista Hermosa,132.0,4,540000
+Galicia,Ourense,Chalet,Allariz,241.0,5,230000
+Galicia,Ourense,Chalet,Camino de Loiro,99.0,3,68000
+Galicia,Ourense,Chalet,Marinamansa,8.0,4,155000
+Galicia,Ourense,Piso,Casco Viejo,70.0,4,360000
+Galicia,Ourense,Chalet,Barbadas,372.0,9,129000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,370.0,4,325000
+Galicia,Ourense,Chalet,O Vinteun,690.0,4,350000
+Galicia,Ourense,Piso,Vilamarin,190.0,2,93000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,93.0,3,55000
+Galicia,Ourense,Piso,Calle Parque San Lazaro 2,84.0,3,190000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,277.0,5,269000
+Galicia,Ourense,Chalet,Coles,1.8,3,240000
+Galicia,Ourense,Chalet,Vista Hermosa,270.0,3,99000
+Galicia,Ourense,Piso,Couto,118.0,3,150000
+Galicia,Ourense,Chalet,Couto,186.0,5,125000
+Galicia,Ourense,Casa Rural,Lugar Rosairo 8,121.0,4,62000
+Galicia,Ourense,Chalet,Amoeiro,340.0,5,335000
+Galicia,Ourense,Chalet,Barbadas,50.0,5,240000
+Galicia,Ourense,Chalet,Maside,160.0,1,29000
+Galicia,Ourense,Piso,O Vinteun,88.0,3,170000
+Galicia,Ourense,Piso,Centro,150.0,4,275000
+Galicia,Ourense,Piso,San Cibrao das Vinas,91.0,3,129900
+Galicia,Ourense,Piso,Polvorin,118.0,4,65000
+Galicia,Ourense,Chalet,Barbadas,245.0,6,460000
+Galicia,Ourense,Piso,Calle Espido 3,116.0,3,100370
+Galicia,Ourense,Piso,Couto,155.0,4,75000
+Galicia,Ourense,Piso,Couto,74.0,3,77000
+Galicia,Ourense,Chalet,Lugar Remoino 9,134.0,4,150000
+Galicia,Ourense,Chalet,Amoeiro,2.0,1,149000
+Galicia,Ourense,Piso,Calle Juan XXIII,141.0,4,550000
+Galicia,Ourense,Chalet,Muinos,300.0,5,99000
+Galicia,Ourense,Piso,Barrocanes,161.0,5,260000
+Galicia,Ourense,Chalet,Lugar Xestosa 54,300.0,6,155000
+Galicia,Ourense,Chalet,Barbadas,427.0,3,186000
+Galicia,Ourense,Piso,Couto,116.0,3,330000
+Galicia,Ourense,Chalet,Celanova,128.0,3,47025
+Galicia,Ourense,Chalet,Toen,170.0,2,80500
+Galicia,Ourense,Chalet,Coles,367.0,12,450000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,450.0,5,330000
+Galicia,Ourense,Chalet,Vilamarin,215.0,3,76599
+Galicia,Ourense,Chalet,Barbadas,60.0,2,75000
+Galicia,Ourense,Piso,Barrocanes,95.0,4,105000
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,51.0,1,134500
+Galicia,Ourense,Chalet,Vista Hermosa,154.0,4,540000
+Galicia,Ourense,Chalet,Calle Campo Feria 3 -1,83.0,3,145000
+Galicia,Ourense,Chalet,Couto,200.0,5,125000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,172.0,3,48000
+Galicia,Ourense,Chalet,Coles,350.0,4,325000
+Galicia,Ourense,Piso,A Carballeira,85.0,3,125000
+Galicia,Ourense,Piso,Casco Viejo,195.0,5,215000
+Galicia,Ourense,Piso,Centro,228.0,3,650000
+Galicia,Ourense,Chalet,Marinamansa,8.0,4,155000
+Galicia,Ourense,Chalet,Maside,160.0,1,29000
+Galicia,Ourense,Piso,Couto,96.0,3,150000
+Galicia,Ourense,Duplex,Avenida de Santiago,108.0,3,185000
+Galicia,Ourense,Chalet,Barbadas,372.0,9,129000
+Galicia,Ourense,Chalet,O Vinteun,556.0,5,450000
+Galicia,Ourense,Chalet,Barrocanes,100.0,7,100000
+Galicia,Ourense,Chalet,Coles,4.5,4,350000
+Galicia,Ourense,Chalet,Allariz,175.0,4,100000
+Galicia,Ourense,Chalet,Couto,189.0,5,125000
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,57.0,1,134500
+Galicia,Ourense,Chalet,San Cibrao das Vinas,450.0,5,330000
+Galicia,Ourense,Chalet,Celanova,128.0,3,47025
+Galicia,Ourense,Chalet,O Vinteun,559.0,3,98000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,255.0,4,100000
+Galicia,Ourense,Piso,Calle San Rosendo,133.0,4,163400
+Galicia,Ourense,Piso,Barrocanes,95.0,4,105000
+Galicia,Ourense,Piso,A Carballeira,118.0,3,125000
+Galicia,Ourense,Piso,Centro,123.0,3,265000
+Galicia,Ourense,Piso,Casco Viejo,70.0,4,360000
+Galicia,Ourense,Piso,Calle Espido 3,118.0,3,100370
+Galicia,Ourense,Chalet,Vista Hermosa,155.0,4,540000
+Galicia,Ourense,Piso,A Ponte,50.0,2,125000
+Galicia,Ourense,Piso,Casco Viejo,136.0,4,150000
+Galicia,Ourense,Piso,Casco Viejo,195.0,5,215000
+Galicia,Ourense,Chalet,Lugar Remoino 9,157.0,4,150000
+Galicia,Ourense,Piso,Couto,128.0,4,75000
+Galicia,Ourense,Chalet,Allariz,241.0,5,230000
+Galicia,Ourense,Piso,Barbadas,133.0,4,167000
+Galicia,Ourense,Chalet,Amoeiro,340.0,5,335000
+Galicia,Ourense,Piso,Couto,85.0,3,330000
+Galicia,Ourense,Piso,Centro,222.0,4,460000
+Galicia,Ourense,Chalet,Coles,367.0,12,450000
+Galicia,Ourense,Piso,A Ponte,115.0,3,225000
+Galicia,Ourense,Chalet,O Vinteun,556.0,5,450000
+Galicia,Ourense,Chalet,Calle Campo Feria 3 -1,111.0,3,145000
+Galicia,Ourense,Piso,Nogueira de Ramuin,86.0,4,45000
+Galicia,Ourense,Chalet,Camino de Loiro,99.0,3,68000
+Galicia,Ourense,Chalet,Vista Hermosa,270.0,3,99000
+Galicia,Ourense,Piso,Centro,150.0,3,620000
+Galicia,Ourense,Piso,Calle Fonte Boa 11,116.0,3,110000
+Galicia,Ourense,Piso,A Carballeira,89.0,3,90000
+Galicia,Ourense,Chalet,Coles,400.0,5,40000
+Galicia,Ourense,Piso,Casco Viejo,91.0,4,220000
+Galicia,Ourense,Chalet,Aldea Penedo 30,183.0,5,250000
+Galicia,Ourense,Chalet,Cenlle,208.0,3,55000
+Galicia,Ourense,Piso,Centro,242.0,4,590000
+Galicia,Ourense,Chalet,Maside,160.0,1,29000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,374.0,4,230000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,370.0,4,325000
+Galicia,Ourense,Chalet,Couto,200.0,5,125000
+Galicia,Ourense,Chalet,A Carballeira,162.0,5,350000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,100.0,2,55000
+Galicia,Ourense,Duplex,Avenida de Santiago,90.0,3,185000
+Galicia,Ourense,Chalet,Polvorin,79.0,2,120000
+Galicia,Ourense,Chalet,Quintela - Los Pinos,488.0,5,75000
+Galicia,Ourense,Chalet,Vista Hermosa,120.0,4,540000
+Galicia,Ourense,Piso,Polvorin,118.0,4,65000
+Galicia,Ourense,Piso,Couto,135.0,4,75000
+Galicia,Ourense,Piso,Casco Viejo,126.0,4,150000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,255.0,4,100000
+Galicia,Ourense,Piso,Nogueira de Ramuin,86.0,4,45000
+Galicia,Ourense,Chalet,Coles,350.0,4,325000
+Galicia,Ourense,Chalet,Coles,367.0,12,450000
+Galicia,Ourense,Piso,A Ponte,100.0,3,130000
+Galicia,Ourense,Chalet,San Andres de Camporredondo,130.0,3,128500
+Galicia,Ourense,Piso,Calle Francisco Llorens Diaz,83.0,3,300000
+Galicia,Ourense,Chalet,Toen,100.0,3,30000
+Galicia,Ourense,Piso,Xinzo de Limia,115.0,3,100700
+Galicia,Ourense,Chalet,San Cibrao das Vinas,400.0,5,700000
+Galicia,Ourense,Piso,Calle Quintian,110.0,3,57000
+Galicia,Ourense,Piso,Emilia pardo bazan 28,112.0,3,115000
+Galicia,Ourense,Piso,Avenida Ribeira Sacra 1,88.0,3,175000
+Galicia,Ourense,Piso,Marinamansa,96.0,4,140000
+Galicia,Ourense,Chalet,Calle da Costa,5.0,3,120000
+Galicia,Ourense,Piso,O Carballino,90.0,3,85000
+Galicia,Ourense,Piso,Cartelle,136.0,4,160000
+Galicia,Ourense,Chalet,Allariz,190.0,2,65000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,70.0,2,140000
+Galicia,Ourense,Piso,Centro,200.0,4,550000
+Galicia,Ourense,Piso,Centro,203.0,5,240000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,90.0,2,41000
+Galicia,Ourense,Chalet,San Cristovo de Cea,339.0,4,220000
+Galicia,Ourense,Piso,A Carballeira,83.0,3,89900
+Galicia,Ourense,Piso,Posio,103.0,3,240000
+Galicia,Ourense,Chalet,Calle Marques de Trives 62,186.0,5,250000
+Galicia,Ourense,Piso,Barrocanes,86.0,3,175000
+Galicia,Ourense,Casa Rural,Aldea Alemparte,140.0,4,70000
+Galicia,Ourense,Piso,Barrocanes,90.0,3,185000
+Galicia,Ourense,Chalet,Quintela - Los Pinos,338.0,4,310000
+Galicia,Ourense,Piso,Barrocanes,90.0,3,185000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,303.0,3,100000
+Galicia,Ourense,Piso,Couto,126.0,4,225000
+Galicia,Ourense,Piso,Centro,203.0,5,240000
+Galicia,Ourense,Chalet,Calle da Costa,200.0,3,110000
+Galicia,Ourense,Casa Rural,Trandeiras,150.0,3,155000
+Galicia,Ourense,Piso,Couto,137.0,4,210000
+Galicia,Ourense,Piso,Calle Quintian,117.0,3,57000
+Galicia,Ourense,Chalet,Toen,100.0,3,30000
+Galicia,Ourense,Chalet,San Cristovo de Cea,339.0,4,220000
+Galicia,Ourense,Chalet,Cartelle,566.0,3,65000
+Galicia,Ourense,Piso,A Ponte,129.0,4,156000
+Galicia,Ourense,Piso,Couto,90.0,7,99000
+Galicia,Ourense,Piso,Centro,200.0,4,550000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,1500.0,6,230000
+Galicia,Ourense,Piso,Couto,102.0,4,135000
+Galicia,Ourense,Piso,O Vinteun,120.0,3,150000
+Galicia,Ourense,Piso,Xinzo de Limia,115.0,3,100700
+Galicia,Ourense,Piso,O Carballino,90.0,3,85000
+Galicia,Ourense,Piso,Couto,110.0,4,100000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,70.0,2,140000
+Galicia,Ourense,Casa Rural,San Amaro,500.0,7,650000
+Galicia,Ourense,Chalet,San Andres de Camporredondo,130.0,3,128500
+Galicia,Ourense,Chalet,As Lagunas,97.0,3,120000
+Galicia,Ourense,Piso,Cartelle,136.0,4,160000
+Galicia,Ourense,Chalet,Allariz,350.0,6,580000
+Galicia,Ourense,Chalet,Vista Hermosa,384.0,4,83000
+Galicia,Ourense,Chalet,Calle Marques de Trives 62,193.0,5,250000
+Galicia,Ourense,Piso,A Carballeira,63.0,3,49000
+Galicia,Ourense,Chalet,Allariz,190.0,2,65000
+Galicia,Ourense,Piso,Casco Viejo,89.0,3,125000
+Galicia,Ourense,Piso,A Ponte,100.0,3,130000
+Galicia,Ourense,Chalet,Marinamansa,9.0,3,158990
+Galicia,Ourense,Piso,Posio,103.0,3,240000
+Galicia,Ourense,Piso,Barrocanes,83.0,3,84000
+Galicia,Ourense,Chalet,Taboadela,256.0,4,270000
+Galicia,Ourense,Chalet,Lugar Agro Maior,103.0,3,76599
+Galicia,Ourense,Piso,Centro,75.0,3,66000
+Galicia,Ourense,Casa Rural,Lugar Mugares 61,20.0,3,59000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,400.0,5,700000
+Galicia,Ourense,Piso,Centro,100.0,3,320000
+Galicia,Ourense,Piso,Couto,120.0,4,135000
+Galicia,Ourense,Piso,Calle Curros Enriquez,120.0,4,390000
+Galicia,Ourense,Piso,Calle Curros Enriquez,223.0,4,450000
+Galicia,Ourense,Casa Rural,Carretera de San Estevo,411.0,4,54900
+Galicia,Ourense,Atico,Reboredo,60.0,2,78000
+Galicia,Ourense,Piso,Calle Francisco Llorens Diaz,82.0,3,350000
+Galicia,Ourense,Chalet,Aldea Pieles,121.0,4,175000
+Galicia,Ourense,Chalet,Calle Ridadela,260.0,4,110000
+Galicia,Ourense,Casa Rural,Calle Portocelo 2,197.0,5,160000
+Galicia,Ourense,Chalet,Carretera de Logrono,139.0,4,69000
+Galicia,Ourense,Casa Rural,Lugar a Albergueria,342.0,8,475000
+Galicia,Ourense,Piso,Calle Zurbaran,72.0,3,100000
+Galicia,Ourense,Chalet,Calle SUATORRE,125.0,4,65000
+Galicia,Ourense,Chalet,Plaza de Barral,56.0,1,41900
+Galicia,Ourense,Piso,Calle Rio Avia,89.0,3,52000
+Galicia,Ourense,Piso,Calle Carriarico,110.0,3,158400
+Galicia,Ourense,Piso,Calle Quintian,18.0,2,83435
+Galicia,Ourense,Piso,Calle do Progreso,85.0,2,175000
+Galicia,Ourense,Chalet,Camino Zamora-Santiago,240.0,4,175000
+Galicia,Ourense,Piso,Avenida da Habana,159.0,3,350000
+Galicia,Ourense,Chalet,Camino de Portugal,158.0,4,335000
+Galicia,Ourense,Chalet,COLES,139.0,4,600000
+Galicia,Ourense,Piso,Calle Doutor Cabaleiro,104.0,3,73000
+Galicia,Ourense,Chalet,Rabaza Arriba,113.0,3,39900
+Galicia,Ourense,Chalet,Lugar Trellerma,277.0,4,215000
+Galicia,Ourense,Casa Rural,Carretera Palmes,519.0,3,125000
+Galicia,Ourense,Chalet,Calle Caudillo,117.0,3,295000
+Galicia,Ourense,Piso,Carretera Vigo,110.0,2,155000
+Galicia,Ourense,Piso,Calle dos Berrocas,117.0,3,85000
+Galicia,Ourense,Casa Rural,Camino sen nome,288.0,7,450000
+Galicia,Ourense,Chalet,Aldea Vilar,640.0,7,999000
+Galicia,Ourense,Piso,Avenida da Habana,97.0,4,170000
+Galicia,Ourense,Chalet,Leiro,147.0,4,145000
+Galicia,Ourense,Chalet,Lugar a Derrasa,17.0,6,475000
+Galicia,Ourense,Piso,Calle Carriarico,141.0,4,70000
+Galicia,Ourense,Piso,Calle San Rosendo,100.0,3,160000
+Galicia,Ourense,Chalet,Calle da Moura,500.0,4,320000
+Galicia,Ourense,Chalet,Lugar Boveda,195.0,5,219000
+Galicia,Ourense,Piso,Calle Curros Enriquez,223.0,4,450000
+Galicia,Ourense,Duplex,Calle la Bella Otero,176.0,5,250000
+Galicia,Ourense,Chalet,Carretera de Logrono,132.0,4,69000
+Galicia,Ourense,Piso,Calle Doutor Cabaleiro,81.0,3,73000
+Galicia,Ourense,Chalet,Lugar a Madalena,2.5,5,250000
+Galicia,Ourense,Casa Rural,Calle Portocelo 2,194.0,5,160000
+Galicia,Ourense,Piso,Calle San Rosendo,100.0,3,160000
+Galicia,Ourense,Chalet,Calle Caudillo,113.0,3,295000
+Galicia,Ourense,Piso,Calle Zurbaran,72.0,3,100000
+Galicia,Ourense,Chalet,Lg A Fontela s/n,180.0,4,45000
+Galicia,Ourense,Piso,Calle do Progreso,85.0,2,175000
+Galicia,Ourense,Casa Rural,Lugar a Albergueria,357.0,8,475000
+Galicia,Ourense,Chalet,Calle Gustei,10.0,6,2600000
+Galicia,Ourense,Chalet,Plaza de Barral,40.0,1,41900
+Galicia,Ourense,Casa Rural,PAIZAS s/n,92.0,3,48000
+Galicia,Ourense,Piso,Calle do Ribeiro,6.0,3,138000
+Galicia,Ourense,Chalet,Lugar Cotelas,115.0,3,55000
+Galicia,Ourense,Chalet,Calle Santo Estevo,128.0,4,40000
+Galicia,Ourense,Chalet,OU-209,50.0,4,340000
+Galicia,Ourense,Piso,Calle Ribeira de Canedo,75.0,2,160000
+Galicia,Ourense,Piso,Avenida da Habana,134.0,3,198000
+Galicia,Ourense,Atico,Calle Fonte Boa,85.0,3,135000
+Galicia,Ourense,Chalet,Plaza da Madalena,87.0,3,109000
+Galicia,Ourense,Piso,Calle Doutor Fleming,110.0,3,180000
+Galicia,Ourense,Chalet,Calle Rampa de Sas,400.0,5,350000
+Galicia,Ourense,Duplex,Calle do Paseo,115.0,3,358000
+Galicia,Ourense,Piso,Calle do Progreso,100.0,2,218000
+Galicia,Ourense,Chalet,Lugar Cachamuina,297.0,7,999000
+Galicia,Ourense,Piso,Calle Prego de Oliver,103.0,3,150000
+Galicia,Ourense,Chalet,Pereiras,194.0,5,254000
+Galicia,Ourense,Piso,Calle do Progreso,110.0,4,320000
+Galicia,Ourense,Chalet,Calle Mezquita,237.0,6,133000
+Galicia,Ourense,Piso,Calle Galicia,88.0,3,83000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,461.0,6,350000
+Galicia,Ourense,Chalet,Calle Regueira,4.5,4,198000
+Galicia,Ourense,Duplex,Cesareo Gonzalez,30.0,4,249000
+Galicia,Ourense,Chalet,Camino de Lebosende,130.0,4,83000
+Galicia,Ourense,Chalet,Lugar Sequeiros,143.0,4,250000
+Galicia,Ourense,Duplex,Calle J,95.0,3,154900
+Galicia,Ourense,Chalet,urbanizacion pazo ramiras,193.0,5,490000
+Galicia,Ourense,Chalet,Calle Regueira,4.5,4,198000
+Galicia,Ourense,Chalet,Calle de San Silvestre,4500.0,6,390000
+Galicia,Ourense,Estudio,Calle Dous de Maio,42.0,0,75000
+Galicia,Ourense,Duplex,Calle J,98.0,3,154900
+Galicia,Ourense,Casa Rural,Arnoia s/n,300.0,3,48000
+Galicia,Ourense,Chalet,Santa uxia de lobas,243.0,3,43000
+Galicia,Ourense,Chalet,OU-0525,5.8,5,219000
+Galicia,Ourense,Chalet,Carretera Gabino Bugallal,343.0,4,195000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,461.0,6,350000
+Galicia,Ourense,Chalet,Calle Mezquita,242.0,6,133000
+Galicia,Ourense,Chalet,Calle de Ribadavia,360.0,4,208000
+Galicia,Ourense,Chalet,Calle do Vinteun,125.0,4,345000
+Galicia,Ourense,Piso,Calle da Concordia,115.0,4,185000
+Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54.0,2,93000
+Galicia,Ourense,Chalet,Cesareo Gonzalez,276.0,4,385000
+Galicia,Ourense,Piso,Calle de Blanco Amor,91.0,3,70000
+Galicia,Ourense,Piso,Calle Ribeira de Canedo,85.0,2,155000
+Galicia,Ourense,Chalet,Calle Regueira,160.0,4,198000
+Galicia,Ourense,Piso,Calle Valle Inclan,98.0,3,210000
+Galicia,Ourense,Piso,Calle Curros Enriquez,93.0,3,350000
+Galicia,Ourense,Piso,Calle das Camelias,81.0,3,134500
+Galicia,Ourense,Piso,Calle Ramon Cabanillas,152.0,4,275000
+Galicia,Ourense,Chalet,Calle das Coinas,261.0,3,139000
+Galicia,Ourense,Piso,Calle do Bierzo,80.0,2,187000
+Galicia,Ourense,Piso,Calle Garcia Mosquera,105.0,3,90000
+Galicia,Ourense,Piso,Calle do Ensino,90.0,3,130000
+Galicia,Ourense,Chalet,Calle Ramon Otero Pedrayo,270.0,3,195900
+Galicia,Ourense,Chalet,OU-402,100.0,4,375000
+Galicia,Ourense,Duplex,Calle Vicente Risco,126.0,4,380000
+Galicia,Ourense,Piso,Calle Valle Inclan,100.0,3,230000
+Galicia,Ourense,Chalet,Aldea Barzamedelle,110.0,2,49900
+Galicia,Ourense,Duplex,Calle Cotelma,112.0,3,175000
+Galicia,Ourense,Chalet,Lugar Barbantes,111.0,3,55000
+Galicia,Ourense,Casa Rural,Camino de Lebosende,127.0,4,53000
+Galicia,Ourense,Piso,Calle Ramon Cabanillas,180.0,4,275000
+Galicia,Ourense,Piso,Calle Ribeira de Canedo,75.0,2,160000
+Galicia,Ourense,Chalet,Camino de Lebosende,90.0,3,69900
+Galicia,Ourense,Estudio,17 de Mayo,40.0,0,89000
+Galicia,Ourense,Piso,Calle Galicia,115.0,3,83000
+Galicia,Ourense,Chalet,Camino de Leiro,178.0,5,380000
+Galicia,Ourense,Chalet,Lugar Sequeiros,128.0,4,250000
+Galicia,Ourense,Piso,Calle Ribeirino,89.0,3,95000
+Galicia,Ourense,Piso,Av de Portugal,73.0,2,205000
+Galicia,Ourense,Casa Rural,Camino Cruz de Beran,130.0,4,79000
+Galicia,Ourense,Duplex,Calle Galicia,226.0,6,103000
+Galicia,Ourense,Piso,Eulogio Fernandez,157.0,4,95000
+Galicia,Ourense,Duplex,Avenida de Celanova,160.0,4,153000
+Galicia,Ourense,Piso,Calle Parque de San Lazaro,135.0,4,450000
+Galicia,Ourense,Piso,Avenida de Santiago,115.0,3,87000
+Galicia,Ourense,Atico,Calle Arturo Perez Serantes,113.0,3,220000
+Galicia,Ourense,Chalet,Tamallancos,4800.0,5,580000
+Galicia,Ourense,Piso,Avenida da Habana,134.0,3,198000
+Galicia,Ourense,Casa Rural,Puga s/n,517.0,9,95000
+Galicia,Ourense,Piso,Calle Rio Bibei,103.0,3,165000
+Galicia,Ourense,Chalet,Plaza San Lourenzo,84.0,3,65000
+Galicia,Ourense,Chalet,BANGA (CRTA MISIEGO),149.0,4,350000
+Galicia,Ourense,Chalet,Calle Toribio Garcia F Marqu,100.0,3,135000
+Galicia,Ourense,Piso,Calle do Ensino,90.0,3,130000
+Galicia,Ourense,Atico,Calle Fonte Boa,85.0,3,135000
+Galicia,Ourense,Chalet,o seixo,110.0,3,169000
+Galicia,Ourense,Piso,Calle do Bierzo,73.0,2,187000
+Galicia,Ourense,Chalet,Calle os Chaos,212.0,6,270000
+Galicia,Ourense,Duplex,Cesareo Gonzalez,45.0,4,249000
+Galicia,Ourense,Chalet,Camino de Lebosende,150.0,4,83000
+Galicia,Ourense,Chalet,N-120,188.0,5,90000
+Galicia,Ourense,Chalet,Aldea Picouto,362.0,6,260000
+Galicia,Ourense,Chalet,Lugar Barbantes,111.0,3,55000
+Galicia,Ourense,Chalet,Calle Regueira,140.0,4,198000
+Galicia,Ourense,Piso,Calle Noriega Varela,106.0,3,155000
+Galicia,Ourense,Chalet,Lugar Bieite,200.0,3,72900
+Galicia,Ourense,Chalet,Camino de Pazos,194.0,5,120000
+Galicia,Ourense,Chalet,Camino Real,148.0,4,200000
+Galicia,Ourense,Chalet,Camino de Lebosende,117.0,3,69900
+Galicia,Ourense,Chalet,OU-0201,200.0,4,49000
+Galicia,Ourense,Duplex,Avenida Lopez Blanco 70,83.0,3,126000
+Galicia,Ourense,Chalet,Carretera Cruceiro,261.0,7,148000
+Galicia,Ourense,Piso,Calle do Paseo,8.0,4,485000
+Galicia,Ourense,Chalet,urbanizacion pazo ramiras,178.0,5,490000
+Galicia,Ourense,Chalet,Lugar Cachamuina,288.0,7,999000
+Galicia,Ourense,Piso,Avenida de Santiago,109.0,3,120000
+Galicia,Ourense,Chalet,Calle de Ribadavia,360.0,4,208000
+Galicia,Ourense,Piso,Calle de Blanco Amor,85.0,3,70000
+Galicia,Ourense,Chalet,Travesia Xaquin Lorenzo,144.0,4,138000
+Galicia,Ourense,Piso,Calle do Progreso,110.0,4,320000
+Galicia,Ourense,Piso,Avenida de Santiago,83.0,3,87000
+Galicia,Ourense,Casa Rural,Arnoia s/n,300.0,3,48000
+Galicia,Ourense,Chalet,Cesareo Gonzalez,276.0,4,385000
+Galicia,Ourense,Chalet,Camino de Sabadelle,420.0,5,350000
+Galicia,Ourense,Chalet,Calle Rampa de Sas,400.0,5,439000
+Galicia,Ourense,Piso,Calle do Paseo,8.0,4,485000
+Galicia,Ourense,Chalet,Aldea Picouto,362.0,6,260000
+Galicia,Ourense,Chalet,Calle Santa Catalina,560.0,6,450000
+Galicia,Ourense,Piso,Calle Prego de Oliver,110.0,3,190000
+Galicia,Ourense,Piso,Calle Basilio Alvarez,104.0,3,190000
+Galicia,Ourense,Chalet,Lugar Barbantes,100.0,3,55000
+Galicia,Ourense,Duplex,Calle Galicia,205.0,6,103000
+Galicia,Ourense,Casa Rural,Camino de Lebosende,121.0,4,53000
+Galicia,Ourense,Chalet,Calle Eligio Gonzalez,200.0,4,320000
+Galicia,Ourense,Chalet,Lugar Cenlle,3000.0,3,66000
+Galicia,Ourense,Piso,Calle Ribeirino,117.0,3,95000
+Galicia,Ourense,Piso,Calle Ribeira de Canedo,85.0,2,155000
+Galicia,Ourense,Piso,Calle das Camelias,102.0,3,134500
+Galicia,Ourense,Piso,Calle Valle Inclan,116.0,3,210000
+Galicia,Ourense,Chalet,OU-402,100.0,4,375000
+Galicia,Ourense,Piso,Avenida da Habana,134.0,3,198000
+Galicia,Ourense,Casa Rural,Puga s/n,422.0,9,95000
+Galicia,Ourense,Piso,Calle Ramon Cabanillas,124.0,4,275000
+Galicia,Ourense,Chalet,Carretera Cruceiro,290.0,7,148000
+Galicia,Ourense,Duplex,Avenida Portugal,112.0,3,210000
+Galicia,Ourense,Chalet,N-120,187.0,5,90000
+Galicia,Ourense,Duplex,Avenida Portugal,100.0,3,220000
+Galicia,Ourense,Piso,Calle Ramon Cabanillas,180.0,4,275000
+Galicia,Ourense,Chalet,Calle das Coinas,261.0,3,139000
+Galicia,Ourense,Piso,Calle San Paio,149.0,4,136000
+Galicia,Ourense,Piso,Av de Portugal,63.0,2,205000
+Galicia,Ourense,Chalet,Camino Real,158.0,4,200000
+Galicia,Ourense,Duplex,Calle Cotelma,112.0,3,175000
+Galicia,Ourense,Piso,Avenida da Habana,160.0,3,349000
+Galicia,Ourense,Piso,Calle do Progreso,100.0,2,218000
+Galicia,Ourense,Casa Rural,Calle Regueira,72.0,2,75800
+Galicia,Ourense,Chalet,Carretera Amiudal,112.0,3,165000
+Galicia,Ourense,Chalet,Calle Veiga de Abaixo,113.0,3,129900
+Galicia,Ourense,Piso,Eulogio Fernandez,157.0,4,95000
+Galicia,Ourense,Chalet,Camino da Capela,246.0,6,53000
+Galicia,Ourense,Chalet,Calle do Vinteun,120.0,3,160000
+Galicia,Ourense,Chalet,Lugar a Peroxa,986.0,2,65000
+Galicia,Ourense,Piso,O Vinteun,118.0,3,35000
+Galicia,Ourense,Piso,Parque San Lazaro,184.0,5,700000
+Galicia,Ourense,Chalet,Avenida de Zamora,180.0,3,165000
+Galicia,Ourense,Piso,Carretera de Vigo-Outariz,111.0,3,114000
+Galicia,Ourense,Piso,Posio,98.0,3,135000
+Galicia,Ourense,Chalet,Calle Julia Minguillon,50.0,5,290000
+Galicia,Ourense,Chalet,Celanova,158.0,3,90500
+Galicia,Ourense,Duplex,Calle Pena Nofre,85.0,3,165000
+Galicia,Ourense,Chalet,Celanova,20.408,3,165000
+Galicia,Ourense,Chalet,Flariz,248.0,4,55000
+Galicia,Ourense,Chalet,Calle da Marquesa,200.0,3,135000
+Galicia,Ourense,Piso,Universidad,73.0,2,225000
+Galicia,Ourense,Piso,Calle do Progreso,132.0,4,340000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,250.0,5,80000
+Galicia,Ourense,Chalet,Chaodarcas s/n,3000.0,2,155000
+Galicia,Ourense,Chalet,Camino do Conde 2,83.0,3,145000
+Galicia,Ourense,Piso,O Carballino,159.0,3,261000
+Galicia,Ourense,Casa Rural,Reboredo 21,50.0,1,52000
+Galicia,Ourense,Piso,Barrocanes,95.0,3,147000
+Galicia,Ourense,Piso,Calle Deputacion 1,101.0,3,110000
+Galicia,Ourense,Chalet,duque de ahumada 36,138.0,4,98000
+Galicia,Ourense,Chalet,Universidad,251.0,3,150000
+Galicia,Ourense,Chalet,LG MEIRE,168.0,2,59000
+Galicia,Ourense,Casa Rural,Lugar As Lamas 18,87.0,3,55000
+Galicia,Ourense,Chalet,O Barco de Valdeorras,232.0,3,113000
+Galicia,Ourense,Chalet,Ribadavia,210.0,1,110000
+Galicia,Ourense,Duplex,Barrocanes,80.0,2,149900
+Galicia,Ourense,Chalet,A Seara s/n,121.0,4,90000
+Galicia,Ourense,Piso,Calle Serra Martina,90.0,3,175000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,204.0,3,85000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,166.0,4,423000
+Galicia,Ourense,Piso,Couto,125.0,4,100000
+Galicia,Ourense,Casa Rural,Covelas Os Blancos s/n sn,300.0,4,31000
+Galicia,Ourense,Piso,Calle A. Noriega Varela 6,94.0,3,155000
+Galicia,Ourense,Chalet,Leiro,51.0,1,185000
+Galicia,Ourense,Casa Rural,Lugar Freixoso de Penela 19,1000.0,4,33000
+Galicia,Ourense,Chalet,Nogueira de Ramuin,204.0,3,85000
+Galicia,Ourense,Chalet,SOUTOPENEDO s/n,80.0,0,35000
+Galicia,Ourense,Piso,JUAN GUERRA VALDES,80.0,2,58000
+Galicia,Ourense,Duplex,Calle do Paseo,8.0,4,550000
+Galicia,Ourense,Piso,Calle Progreso,97.0,3,260000
+Galicia,Ourense,Piso,Calle Jesus Soria,143.0,4,85000
+Galicia,Ourense,Chalet,Calle do Campo,125.0,4,99900
+Galicia,Ourense,Piso,Avenida Portugal 75 -73,67.0,2,205000
+Galicia,Ourense,Atico,Calle Xavier Prado Lameiro,103.0,3,195000
+Galicia,Ourense,Piso,Calle Fonte Boa,70.0,2,90000
+Galicia,Ourense,Piso,Calle Vazquez de Mella 2,65.0,2,117000
+Galicia,Ourense,Chalet,Comarcal 14 -16,137.0,4,270000
+Galicia,Ourense,Piso,Calle do Progreso 87,63.0,2,175000
+Galicia,Ourense,Chalet,Cumial s/n,4000.0,5,620000
+Galicia,Ourense,Piso,Plaza Maior 10,98.0,3,120000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,131.0,4,185000
+Galicia,Ourense,Piso,Calle do Concello 18,180.0,5,330000
+Galicia,Ourense,Chalet,Calle Bieito Amado,100.0,4,250000
+Galicia,Ourense,Duplex,Calle Nsa. Sra. da Sainza,96.0,3,250000
+Galicia,Ourense,Piso,Curros Enriquez,223.0,4,499000
+Galicia,Ourense,Piso,O Carballino,85.0,4,70000
+Galicia,Ourense,Piso,PARQUE DE SAN LAZARO 6,147.0,4,400000
+Galicia,Ourense,Piso,Avenida das Caldas,101.0,3,170000
+Galicia,Ourense,Chalet,Beade s/n,120.0,2,40000
+Galicia,Ourense,Piso,Calle Nosa Senora da Sainza,110.0,3,220000
+Galicia,Ourense,Piso,Calle Fonte Boa,68.0,2,80000
+Galicia,Ourense,Atico,Calle Fonte Boa,100.0,3,135000
+Galicia,Ourense,Chalet,Camino sen nome 40,100.0,3,35000
+Galicia,Ourense,Duplex,Calle Ramon Puga,118.0,3,225000
+Galicia,Ourense,Piso,Calle do Caravel,65.0,2,110000
+Galicia,Ourense,Duplex,Calle do Paseo 23 -9,142.0,4,480000
+Galicia,Ourense,Duplex,Avenida Habana,81.0,3,540000
+Galicia,Ourense,Piso,Avenida da Habana,170.0,3,450000
+Galicia,Ourense,Piso,Calle Gregorio Fernandez 1,77.0,2,110000
+Galicia,Ourense,Casa Rural,Paseo da Praia Fluvial,185.0,5,150000
+Galicia,Ourense,Piso,Avenida Buenos Aires,154.0,4,110000
+Galicia,Ourense,Piso,Avenida de la Habana,90.0,3,320000
+Galicia,Ourense,Duplex,Plaza Sorolla,132.0,4,220000
+Galicia,Ourense,Piso,Calle Carlos Maside,82.0,3,190000
+Galicia,Ourense,Casa Rural,Calle Hospital,146.0,4,170000
+Galicia,Ourense,Piso,Rua Velazquez 12,110.0,3,140000
+Galicia,Ourense,Piso,Calle Joaquin Lorenzo 2,223.0,6,290000
+Galicia,Ourense,Piso,Calle Eulogio Gomez Franqueira 29,100.0,3,190000
+Galicia,Ourense,Piso,Calle Alberto Garcia Ferreiro,100.0,3,144000
+Galicia,Ourense,Piso,Calle Mateo de Prado,99.0,3,135000
+Galicia,Ourense,Piso,Calle Melchor de Velasco 13,62.0,2,145000
+Galicia,Ourense,Piso,Calle Gregorio Fernandez 17,133.0,4,200000
+Galicia,Ourense,Chalet,Toen,207.0,6,230000
+Galicia,Ourense,Piso,Calle do Progreso 49,158.0,4,200000
+Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,63.0,3,135000
+Galicia,Ourense,Chalet,Calle Invernadoiro,91.0,3,288000
+Galicia,Ourense,Chalet,Porqueira,216.0,3,98000
+Galicia,Ourense,Piso,Calle Prego de Oliver,110.0,3,150000
+Galicia,Ourense,Piso,Calle Ramon Cabanillas 7,152.0,4,275000
+Galicia,Ourense,Piso,Calle Garcia Mosquera 1,80.0,3,159000
+Galicia,Ourense,Chalet,Calle Rio Limia 12,83.0,3,160000
+Galicia,Ourense,Chalet,Altamira,250.0,4,228000
+Galicia,Ourense,Chalet,Calle Curuxa,171.0,4,159000
+Galicia,Ourense,Piso,Calle Rampa de Sas 3,120.0,4,100000
+Galicia,Ourense,Chalet,Torneiros 29,114.0,3,33000
+Galicia,Ourense,Piso,Calle Ribeirino 16,106.0,3,95000
+Galicia,Ourense,Piso,Andurina,400.0,3,232000
+Galicia,Ourense,Piso,Avenida de Elena Quiroga,145.0,4,51030
+Galicia,Ourense,Piso,Carretera de la Granxa,117.0,3,115000
+Galicia,Ourense,Piso,Avenida da Universidade 7,101.0,3,85000
+Galicia,Ourense,Chalet,Avenida de Portugal,82.0,3,150000
+Galicia,Ourense,Piso,Calle Alejandro Pedrosa,100.0,3,210000
+Galicia,Ourense,Piso,Avenida de Celanova 75,105.0,3,127000
+Galicia,Ourense,Piso,Calle Parque San Lazaro 7,138.0,2,325000
+Galicia,Ourense,Piso,Calle Doutor Fleming 12 B,126.0,4,200000
+Galicia,Ourense,Duplex,Da Presa 4,159.0,4,155000
+Galicia,Ourense,Chalet,Calle b,170.0,4,179000
+Galicia,Ourense,Chalet,Lugar Vilar da Barra 18,81.0,3,150000
+Galicia,Ourense,Chalet,Allariz,71.0,2,75000
+Galicia,Ourense,Piso,Jesus Soria 11,95.0,3,98000
+Galicia,Ourense,Piso,Calle Parque de San Lazaro 2,80.0,3,190000
+Galicia,Ourense,Piso,Calle Cardenal Quevedo,132.0,3,550000
+Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54.0,2,96900
+Galicia,Ourense,Piso,Calle Ramon Cabanillas 7,158.0,4,275000
+Galicia,Ourense,Chalet,Avenida de Portugal,111.0,3,150000
+Galicia,Ourense,Piso,Avenida de portugal,86.0,3,73000
+Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,63.0,3,135000
+Galicia,Ourense,Piso,Calle Alejandro Pedrosa,100.0,3,210000
+Galicia,Ourense,Piso,Calle Vasco Diaz Tanco,54.0,2,96900
+Galicia,Ourense,Chalet,Vilamarin,350.0,7,125000
+Galicia,Ourense,Chalet,Calle Chao do Rio,124.0,3,28700
+Galicia,Ourense,Chalet,Lg casnaloba,352.0,6,159000
+Galicia,Ourense,Chalet,Camino Real,142.0,4,190000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,300.0,5,240000
+Galicia,Ourense,Casa Rural,Calle DA PITA - REQUEIXO - PINOR 21,273.0,0,99000
+Galicia,Ourense,Piso,Calle Vasco da Ponte,30.0,2,129000
+Galicia,Ourense,Chalet,VISTAHERMOSA,220.0,6,150000
+Galicia,Ourense,Piso,Calle Xoan XXIII,196.0,5,169000
+Galicia,Ourense,Piso,Emilia Pardo Bazan,63.0,2,80000
+Galicia,Ourense,Chalet,Amoeiro,200.0,4,96000
+Galicia,Ourense,Casa Rural,Nogueira de Ramuin,1300.0,4,43000
+Galicia,Ourense,Duplex,Calle Anxel Fole,120.0,3,250000
+Galicia,Ourense,Chalet,Paderne de Allariz,135.0,3,95000
+Galicia,Ourense,Chalet,Calle Casardomato,85.0,3,33300
+Galicia,Ourense,Piso,Calle Ervedelo,130.0,4,225000
+Galicia,Ourense,Chalet,Taboadela,300.0,3,50000
+Galicia,Ourense,Chalet,Camino do Muino,43.0,1,164000
+Galicia,Ourense,Piso,Calle Concejo,184.0,5,320000
+Galicia,Ourense,Piso,ELENA QUIROGA 2,198.0,5,56700
+Galicia,Ourense,Duplex,Calle Manzaneda,70.0,2,45000
+Galicia,Ourense,Piso,Avenida de Santiago,130.0,3,120000
+Galicia,Ourense,Piso,Calle Goya,89.0,3,80000
+Galicia,Ourense,Piso,Calle Cabeza de Manzaneda,80.0,3,88000
+Galicia,Ourense,Chalet,Cenlle,205.0,3,148000
+Galicia,Ourense,Casa Rural,Toen,265.0,3,45000
+Galicia,Ourense,Piso,Calle Doctor Pena Rey,159.0,4,85000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,93.0,3,94600
+Galicia,Ourense,Chalet,Plaza de San Isidro,297.0,5,258000
+Galicia,Ourense,Chalet,Abelardo Arce Mayora,136.0,3,248000
+Galicia,Ourense,Piso,Antonio Roman,72.0,2,130000
+Galicia,Ourense,Chalet,Calle Cidade Deportiva,81.0,3,180000
+Galicia,Ourense,Piso,Calle do Progreso,109.0,3,245000
+Galicia,Ourense,Chalet,Lg. Meire,150.0,3,76000
+Galicia,Ourense,Chalet,Taboadela,300.0,3,50000
+Galicia,Ourense,Chalet,Lg casnaloba,352.0,6,159000
+Galicia,Ourense,Chalet,Lg. Meire,150.0,3,76000
+Galicia,Ourense,Piso,Calle Celso Emilio Ferreiro,111.0,3,237000
+Galicia,Ourense,Chalet,Calle Casardomato,100.0,3,33300
+Galicia,Ourense,Piso,Calle Doctor Pena Rey,123.0,4,85000
+Galicia,Ourense,Chalet,VISTAHERMOSA,227.0,6,150000
+Galicia,Ourense,Piso,Avenida Padre Feijoo,74.0,2,33700
+Galicia,Ourense,Casa Rural,Toen,265.0,3,45000
+Galicia,Ourense,Piso,Calle Cabeza de Manzaneda,80.0,3,88000
+Galicia,Ourense,Chalet,Paderne de Allariz,135.0,3,95000
+Galicia,Ourense,Estudio,Casco Viejo,40.0,0,74000
+Galicia,Ourense,Chalet,Barbadas,273.0,6,210000
+Galicia,Ourense,Casa Rural,Carretera Vigo-Pino,393.0,2,98000
+Galicia,Ourense,Piso,Posio,108.0,4,219000
+Galicia,Ourense,Piso,Calle Ervedelo,90.0,4,85000
+Galicia,Ourense,Chalet,sin numero,40.0,45,1113000
+Galicia,Ourense,Piso,Avenida da Habana,178.0,3,315000
+Galicia,Ourense,Chalet,Amoeiro,200.0,3,165000
+Galicia,Ourense,Piso,Calle Roi Paez 14,110.0,4,105000
+Galicia,Ourense,Chalet,O Vinteun,3000.0,6,450000
+Galicia,Ourense,Chalet,O Vinteun,80.0,3,159000
+Galicia,Ourense,Piso,Calle Pena Trevinca,40.0,4,190000
+Galicia,Ourense,Piso,Universidad,80.0,2,174000
+Galicia,Ourense,Atico,Centro,111.0,3,380000
+Galicia,Ourense,Piso,Barbadas,113.0,3,185000
+Galicia,Ourense,Estudio,Casco Viejo,45.0,0,74000
+Galicia,Ourense,Chalet,Coles,125.0,3,50000
+Galicia,Ourense,Piso,Posio,94.0,3,155000
+Galicia,Ourense,Chalet,Entrimo,400.0,5,90000
+Galicia,Ourense,Casa Rural,LG. LONOA GRANDE 25,156.0,3,92000
+Galicia,Ourense,Piso,Calle Antonio Roman,80.0,2,130000
+Galicia,Ourense,Piso,Calle Ponte Codesal,88.0,3,170000
+Galicia,Ourense,Chalet,CAMBEO,119.0,3,275000
+Galicia,Ourense,Duplex,Couto,116.0,3,210000
+Galicia,Ourense,Piso,Calle Urano,50.0,3,25000
+Galicia,Ourense,Piso,Calle Juan de Porres 7,70.0,3,75000
+Galicia,Ourense,Chalet,Taboadela,437.0,4,100000
+Galicia,Ourense,Chalet,MONTERREI,230.0,4,164000
+Galicia,Ourense,Casa Rural,Puga s/n,120.0,4,30000
+Galicia,Ourense,Duplex,Couto,98.0,3,210000
+Galicia,Ourense,Chalet,O Vinteun,3000.0,6,450000
+Galicia,Ourense,Piso,Posio,94.0,3,155000
+Galicia,Ourense,Piso,Centro,18.0,3,525000
+Galicia,Ourense,Piso,Calle San Rosendo,71.0,2,140000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,4.8,5,350000
+Galicia,Ourense,Piso,Calle Pena Trevinca,156.0,4,170000
+Galicia,Ourense,Casa Rural,Puga s/n,120.0,4,30000
+Galicia,Ourense,Estudio,Casco Viejo,45.0,0,74000
+Galicia,Ourense,Piso,Centro,203.0,5,260000
+Galicia,Ourense,Chalet,O Irixo,189.0,5,27500
+Galicia,Ourense,Chalet,O Vinteun,80.0,3,159000
+Galicia,Ourense,Chalet,Barbadas,273.0,6,210000
+Galicia,Ourense,Chalet,Barbadas,97.0,3,79000
+Galicia,Ourense,Casa Rural,Fontedoso,177.0,5,40000
+Galicia,Ourense,Piso,Barbadas,99.0,3,185000
+Galicia,Ourense,Chalet,Amoeiro,200.0,3,165000
+Galicia,Ourense,Piso,Calle Ervedelo,90.0,4,85000
+Galicia,Ourense,Chalet,OU-402,101.0,3,100000
+Galicia,Ourense,Piso,O Vinteun,130.0,5,105000
+Galicia,Ourense,Piso,Couto,81.0,3,70000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,205.0,4,530000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,50.0,1,40000
+Galicia,Ourense,Chalet,Coles,3500.0,4,600000
+Galicia,Ourense,Piso,Centro,115.0,3,620000
+Galicia,Ourense,Piso,Plaza de la Legion s/n,117.0,3,49000
+Galicia,Ourense,Piso,Calle da Concordia 26,137.0,4,185000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,90.0,4,110000
+Galicia,Ourense,Chalet,Camino da Noria,2.5,5,395000
+Galicia,Ourense,Piso,Avenida DE SANTIAGO,110.0,3,82000
+Galicia,Ourense,Piso,Avenida de Santiago 57,104.0,3,120000
+Galicia,Ourense,Chalet,Canella Cega,386.0,4,279000
+Galicia,Ourense,Piso,O Vinteun,90.0,3,178000
+Galicia,Ourense,Piso,Barbadas,96.0,3,139000
+Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,86.0,3,210000
+Galicia,Ourense,Piso,17 de Mayo 19,58.0,1,89000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,2.2,6,380000
+Galicia,Ourense,Atico,OU-0517,90.0,2,87000
+Galicia,Ourense,Chalet,Marinamansa,80.0,4,169000
+Galicia,Ourense,Casa Rural,Santirso s/n sn,17000.0,0,130000
+Galicia,Ourense,Piso,Calle Curros Enriquez 2,220.0,4,350000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,800.0,3,400000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,53.0,1,40000
+Galicia,Ourense,Chalet,Canella Cega,386.0,4,279000
+Galicia,Ourense,Piso,Casco Viejo,74.0,2,131000
+Galicia,Ourense,Piso,Calle Curros Enriquez 22,200.0,4,335000
+Galicia,Ourense,Piso,Couto,119.0,3,160000
+Galicia,Ourense,Piso,Calle Rio Tamega 44,127.0,4,115000
+Galicia,Ourense,Casa Rural,LG. Cobas 3,95.0,3,110000
+Galicia,Ourense,Chalet,Camino Barra de Mino,3.075,4,260000
+Galicia,Ourense,Casa Rural,Calle Progreso 28,174.0,5,210000
+Galicia,Ourense,Piso,Calle do Concello,136.0,5,330000
+Galicia,Ourense,Duplex,Calle Xavier Prado Lameiro 10,81.0,3,210000
+Galicia,Ourense,Casa Rural,Monterrei,800.0,8,300000
+Galicia,Ourense,Chalet,Marinamansa,80.0,4,169000
+Galicia,Ourense,Piso,Calle do Progreso 29,200.0,4,550000
+Galicia,Ourense,Piso,Calle Rio Avia 15,109.0,3,52000
+Galicia,Ourense,Chalet,San Cibrao das Vinas,145.0,3,218000
+Galicia,Ourense,Piso,Avenida DE SANTIAGO,110.0,3,82000
+Galicia,Ourense,Chalet,Camino da Noria,2.5,5,395000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,2.2,6,380000
+Galicia,Ourense,Piso,Calle do Progreso,120.0,3,236000
+Galicia,Ourense,Piso,O Vinteun,52.0,3,24368
+Galicia,Ourense,Chalet,Puga 1,400.0,6,95000
+Galicia,Ourense,Piso,Calle da Concordia 26,147.0,4,185000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,850.0,5,850000
+Galicia,Ourense,Casa Rural,Santirso s/n sn,17000.0,0,130000
+Galicia,Ourense,Chalet,Coles,3500.0,4,600000
+Galicia,Ourense,Piso,Calle Curros Enriquez 1,63.0,2,240000
+Galicia,Ourense,Piso,Barbadas,211.0,6,126000
+Galicia,Ourense,Chalet,Veiga de Abaixo,111.0,3,130000
+Galicia,Ourense,Piso,Couto,140.0,5,320000
+Galicia,Ourense,Piso,Couto,96.0,3,189000
+Galicia,Ourense,Piso,Calle de Salgueirinos,130.0,3,145000
+Galicia,Ourense,Piso,Couto,110.0,3,189000
+Galicia,Ourense,Chalet,Coles,800.0,3,285000
+Galicia,Ourense,Piso,Calle do Arco,80.0,3,120000
+Galicia,Ourense,Piso,Avenida de Celanova,90.0,3,162000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,1.3,4,135000
+Galicia,Ourense,Chalet,Amoeiro,2.1,3,375000
+Galicia,Ourense,Chalet,Toen,5000.0,6,519000
+Galicia,Ourense,Duplex,Parque do Malecon 3,20.0,4,245000
+Galicia,Ourense,Piso,Centro,115.0,3,285000
+Galicia,Ourense,Chalet,Vilamarin,1.0,4,120000
+Galicia,Ourense,Chalet,San Cristovo de Cea,2.5,5,220000
+Galicia,Ourense,Piso,Barbadas,67.0,2,155000
+Galicia,Ourense,Chalet,Barbadas,3.0,4,460000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,3.6,5,335000
+Galicia,Ourense,Piso,O Vinteun,95.0,3,165000
+Galicia,Ourense,Piso,O Vinteun,116.0,3,59900
+Galicia,Ourense,Chalet,Calle Gabino Bugallal,3000.0,1,185000
+Galicia,Ourense,Chalet,Amoeiro,6.5,3,255000
+Galicia,Ourense,Piso,Centro,96.0,2,285000
+Galicia,Ourense,Chalet,Feas s/n,360.0,5,250000
+Galicia,Ourense,Piso,Calle de Salgueirinos,130.0,3,145000
+Galicia,Ourense,Piso,Calle do Arco,80.0,3,120000
+Galicia,Ourense,Piso,Couto,89.0,3,205000
+Galicia,Ourense,Piso,Calle Papa Juan XXIII,210.0,4,335000
+Galicia,Ourense,Piso,Couto,95.0,3,189000
+Galicia,Ourense,Piso,Calle da Barreira,51.0,1,99000
+Galicia,Ourense,Chalet,Coles,3.8,3,265000
+Galicia,Ourense,Piso,Avenida de Celanova,90.0,3,162000
+Galicia,Ourense,Piso,Barrocanes,144.0,4,105000
+Galicia,Ourense,Chalet,Vista Hermosa,221.0,6,375000
+Galicia,Ourense,Chalet,Amoeiro,2.1,3,375000
+Galicia,Ourense,Piso,O Vinteun,114.0,3,99000
+Galicia,Ourense,Chalet,Veiga de Abaixo,98.0,3,130000
+Galicia,Ourense,Piso,Calle Mercado,87.0,3,80000
+Galicia,Ourense,Piso,Centro,130.0,4,195000
+Galicia,Ourense,Piso,Plaza das Burgas 8 -14,114.0,3,85000
+Galicia,Ourense,Piso,Universidad,129.0,4,230000
+Galicia,Ourense,Chalet,Calle Serra San Mamede,300.0,6,350000
+Galicia,Ourense,Duplex,Avenida de Celanova,117.0,4,153000
+Galicia,Ourense,Chalet,Toen,13.0,2,275000
+Galicia,Ourense,Piso,Centro,185.0,4,550000
+Galicia,Ourense,Chalet,Toen,300.0,8,99000
+Galicia,Ourense,Chalet,Coles,2400.0,5,285000
+Galicia,Ourense,Chalet,Calle das Dilueiras,200.0,4,98000
+Galicia,Ourense,Piso,Marinamansa,100.0,3,249000
+Galicia,Ourense,Piso,Plaza da marina 1,81.0,3,135000
+Galicia,Ourense,Piso,Calle Curros Enriquez 1,63.0,2,240000
+Galicia,Ourense,Piso,Celanova,154.0,4,130000
+Galicia,Ourense,Piso,Calle das Camelias 16,117.0,3,134500
+Galicia,Ourense,Chalet,Toen,223.0,6,300000
+Galicia,Ourense,Piso,Calle de Tomas Rguez. Punxin,87.0,3,74727
+Galicia,Ourense,Piso,Calle Ribeira Sacra,90.0,3,185000
+Galicia,Ourense,Chalet,Amoeiro,2.1,3,375000
+Galicia,Ourense,Piso,Parque de San Lazaro,126.0,4,450000
+Galicia,Ourense,Piso,Barrocanes,160.0,4,105000
+Galicia,Ourense,Duplex,Parque do Malecon 3,20.0,4,245000
+Galicia,Ourense,Chalet,Coles,800.0,3,285000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,1500.0,4,120000
+Galicia,Ourense,Casa Rural,Baldariz,5000.0,4,70000
+Galicia,Ourense,Chalet,Coles,2400.0,5,285000
+Galicia,Ourense,Duplex,Rua Antonio Roman 14,64.0,2,154000
+Galicia,Ourense,Piso,Calle do Arco,80.0,3,120000
+Galicia,Ourense,Estudio,Dos Ponxos,40.0,0,85000
+Galicia,Ourense,Chalet,Toen,13.0,2,275000
+Galicia,Ourense,Chalet,Pereiro de Aguiar,800.0,7,999000
+Galicia,Ourense,Chalet,Coles,100.0,5,39000
+Galicia,Ourense,Piso,Barbadas,203.0,6,126000
+Galicia,Ourense,Piso,Centro,180.0,4,395000
+Galicia,Ourense,Chalet,Vilar de Astres - Palmes - Arrabaldo,3.6,5,335000
+Galicia,Ourense,Piso,Rua Hernan Cortes 14,67.0,2,100000
+Galicia,Ourense,Piso,Plaza Daniel Gonzalez 2,130.0,4,210000
+Galicia,Ourense,Chalet,Vilamarin,1.0,4,120000
+Galicia,Ourense,Chalet,Amoeiro,6.5,3,255000
+Galicia,Ourense,Chalet,Toen,5000.0,6,519000
+Galicia,Ourense,Piso,Centro,145.0,4,195000
+Galicia,Ourense,Chalet,A Carballeira,80.0,3,240000
+Galicia,Ourense,Chalet,Allariz,131.0,4,145000
+Galicia,Ourense,Chalet,Marinamansa,1.5,4,280000
+Galicia,Ourense,Piso,Calle Antonio Puga,78.0,2,79500
+Galicia,Ourense,Chalet,Calle Ramiras 60,330.0,4,195000
+Galicia,Ourense,Piso,A Ponte,88.0,3,174000
+Galicia,Ourense,Piso,Calle de Salgueirinos,130.0,3,145000
+Galicia,Ourense,Chalet,Toen,345.0,8,99000
+Galicia,Ourense,Piso,Centro,138.0,4,365000
+Galicia,Ourense,Piso,Barbadas,109.0,3,170000
+Galicia,Ourense,Chalet,Barbadas,3.0,4,460000
+Galicia,Ourense,Piso,Parque de San Lazaro,133.0,4,450000
+Galicia,Ourense,Piso,Calle Monte Seixo,89.0,3,97000
+Galicia,Ourense,Piso,Calle do Progreso,101.0,3,245000
+Galicia,Ourense,Piso,Avenida de Buenos Aires,184.0,5,415000
+Galicia,Ourense,Chalet,Calle Verdade 5,347.0,5,173500
+Galicia,Ourense,Piso,Avenida de Buenos Aires,179.0,3,210000
+Galicia,Ourense,Casa Rural,Lugar Ver 34,1214.0,4,57500
+Galicia,Ourense,Piso,Cardenal quevedo,150.0,3,480000
+Galicia,Ourense,Chalet,Lugar Beiro de Abaixo,183.0,5,290000
+Galicia,Ourense,Piso,Calle Curros Enriquez,230.0,5,450000
+Galicia,Ourense,Chalet,Ramiras,500.0,5,65000
+Galicia,Ourense,Chalet,Calle Santa Eufemia,118.0,3,178000
+Galicia,Ourense,Casa Rural,Meson de Erosa 7,3000.0,6,65000
+Galicia,Ourense,Chalet,Calle Cerdeira 10,100.0,9,20000
+Galicia,Ourense,Piso,Calle do Progreso,100.0,3,220000
+Galicia,Ourense,Piso,Avenida de Celanova,79.0,2,130000
+Galicia,Ourense,Piso,Avenida de Santiago 40 N,81.0,3,175000
+Galicia,Ourense,Piso,Calle a Granxa,111.0,3,52000
+Galicia,Ourense,Casa Rural,Lugar Vilarino 78,5200.0,4,100000
+Galicia,Ourense,Chalet,Lugar Doade,122.0,4,48000
+Galicia,Ourense,Piso,Calle Plaza Mercedes,94.0,3,200000
+Galicia,Ourense,Chalet,Camino de Loureiro 5,292.0,4,180000
+Galicia,Ourense,Casa Rural,Calle do Cruceiro 11,241.0,6,60000
+Galicia,Ourense,Chalet,poligono Industrial,300.0,5,240000
+Galicia,Ourense,Casa Rural,Calle Carballeira 24,108.0,2,49000
+Galicia,Ourense,Chalet,As Lagunas,141.0,4,180000
+Galicia,Ourense,Piso,Calle Marcelo Macias,120.0,3,68800
+Galicia,Ourense,Chalet,O Val 1,242.0,3,126000
+Galicia,Ourense,Piso,Calle do Bierzo,64.0,2,187000
+Galicia,Ourense,Piso,Zurbaran,117.0,3,90000
+Galicia,Ourense,Piso,Calle do Progreso,106.0,3,215000
+Galicia,Ourense,Atico,Avenida de Santiago,117.0,3,185000
+Galicia,Ourense,Casa Rural,A Eirexa Loureiro 2,127.0,3,90000
+Galicia,Ourense,Piso,Marinamansa,82.0,3,95000
+Galicia,Ourense,Piso,Calle Rio Avia,80.0,3,52000
+Galicia,Ourense,Piso,Calle Antonio Roman 16,70.0,2,130000
+Galicia,Ourense,Piso,As Camelias,109.0,3,134500
+Galicia,Ourense,Chalet,Lugar Trellerma,148.0,4,215000
+Galicia,Ourense,Casa Rural,cerval 3,20.0,4,18000
+Galicia,Ourense,Piso,Calle Erbedelo,118.0,3,265000
