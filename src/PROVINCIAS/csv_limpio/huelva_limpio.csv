@@ -13,7 +13,7 @@ Duplex,Ayamonte Pueblo,110000,2,73
 Piso,Camino del Saladillo,160000,4,115
 Piso,La Hispanidad - Verdeluz,133000,3,109
 Ático,Centro,185000,4,91
-Chalet,Calle Bollullos,3500000,10,2.473
+Chalet,Calle Bollullos,3500000,10,2473
 Ático,Avenida de Islantilla 263,247500,3,102
 Chalet,Avenida de las Cumbres s/n,207000,4,20
 Chalet,Avenida Calamar 16,205000,4,151
@@ -35,7 +35,7 @@ Chalet,Urbanizacion UER24,130000,2,12
 Chalet,Avenida de las Cumbres,175000,4,122
 Chalet,Calle Cañaveral,155000,2,73
 Chalet,Urbanizacion UER28,156000,3,15
-Chalet,Calle Vicente F. Campos,498000,6,202
+Chalet,Calle Vicente F Campos,498000,6,202
 Piso,Avenida Italia,295000,5,180
 Chalet,Calle Cañaveral 17,144995,2,67
 Piso,Urbanización Puntamar 1,224900,2,90
@@ -81,7 +81,7 @@ Chalet,Corteconcepcion,154000,3,83
 Piso,Calle Vázquez López 31 -19,210000,3,120
 Piso,Parcela 8 sector Nuevo Rompido Oeste s/n,387000,3,81
 Piso,Parcela 8 sector Nuevo Rompido Oeste s/n,316000,2,77
-Piso,Calle Jesús del Calvario,216263,4,133.21
+Piso,Calle Jesús del Calvario,216263,4,13321
 Piso,Parcela 8 sector Nuevo Rompido Oeste s/n,317000,2,64
 Chalet,Calle concha 1,497000,3,116
 Chalet,la romeria 17,595000,8,348
@@ -94,7 +94,7 @@ Chalet,Calle Lope de vega,845000,3,430
 Piso,Paseo de las cumbres s/n,198000,2,77
 Chalet,Avenida de las Cumbres 1,205000,3,117
 Chalet,Calle Lopez de Ayala,310000,4,167
-Chalet,Urb. Las Colinas,250000,7,212
+Chalet,Urb Las Colinas,250000,7,212
 Piso,Calle Felipe Hidalgo,109000,3,95
 Duplex,Avenida de Islantilla,429000,3,125
 Piso,Calle Golf Norte A-7,159900,2,113
@@ -103,7 +103,7 @@ Chalet,Calle Las Tapias,139500,3,145
 Piso,Avenida de los Cisnes,239000,2,71
 Casa Rural,Camino del Cabezo Gordo,390000,4,150
 Chalet,Calle Miguel de Unamuno,189000,3,169
-Casa Rural,DS Fontanilla,459000,5,4.350
+Casa Rural,DS Fontanilla,459000,5,4350
 Chalet,barrio estación de tren,68000,4,127
 Chalet,Calle Jorge de Guillen,189000,3,169
 Chalet,Calle Ejido,129000,3,96
@@ -119,7 +119,7 @@ Piso,Paseo Blasco Ibáñez,139000,2,89
 Chalet,Camino de la Noria,229000,4,224
 Chalet,Pinares de Lepe,139000,3,20
 Piso,Calle Chaveta,195000,2,96
-Chalet,Urb. Las Colinas,250000,7,212
+Chalet,Urb Las Colinas,250000,7,212
 Piso,Paseo Blasco Ibáñez,139000,2,89
 Piso,Avenida de las Cumbres,120000,1,25
 Chalet,Ballena,330000,4,50
@@ -168,13 +168,13 @@ Casa Rural,Aljaraque,1900000,6,206
 Piso,Calle San José,98000,2,67
 Chalet,ARAUCARIA 3,321000,6,213
 Chalet,Calle Cresta del Gallo,259900,5,1500
-Chalet,Calle Alfonso X el Sabio Esq. calle Carmen Conde s/n,263000,3,200
+Chalet,Calle Alfonso X el Sabio Esq calle Carmen Conde s/n,263000,3,200
 Piso,Plaza don eloy martín mayor 11,18790,3,114
 Chalet,Minas de Riotinto,300000,3,105
-Chalet,Calle Alfonso X el Sabio Esq. calle Carmen Conde s/n,263000,3,200
+Chalet,Calle Alfonso X el Sabio Esq calle Carmen Conde s/n,263000,3,200
 Piso,Avenida del Nuevo Colombino s/n,171200,3,10
 Chalet,Paseo Blasco Ibáñez s/n,280000,3,500
-Chalet,Calle Alfonso X el Sabio Esq. calle Carmen Conde s/n,263000,3,200
+Chalet,Calle Alfonso X el Sabio Esq calle Carmen Conde s/n,263000,3,200
 Duplex,Isla Cristina,165000,2,31
 Ático,Calle Diego de Almagro s/n,281100,2,52
 Piso,Avenida del Nuevo Colombino s/n,170800,3,10
@@ -220,7 +220,7 @@ Piso,Plaza Eloy Martín Mayor s/n,99314,2,80
 Piso,Isla Cristina,195000,3,92
 Chalet,Calle Isidro Pinedo,374900,4,136
 Chalet,Santa Olalla del Cala,68000,3,33
-Chalet,Calle Campanillas 16,340000,4,3.000
+Chalet,Calle Campanillas 16,340000,4,3000
 Piso,Costa Esuri,126000,2,104
 Chalet,Calle Isla Canela 5,112000,3,95
 Casa Rural,Camino del Romerano,380000,0,39
@@ -241,7 +241,7 @@ Chalet,Paseo del Golf,225000,3,130
 Chalet,Calle Reino Unido s/n,199900,4,132
 Piso,Calle Ancha,139000,4,138
 Chalet,Calle Reino Unido s/n,199900,4,132
-Casa Rural,Carretera Cash Lepe Finca el Zorriño 5,149900,2,10.000
+Casa Rural,Carretera Cash Lepe Finca el Zorriño 5,149900,2,10000
 Piso,Avenida de Islantilla,239900,2,71
 Chalet,Laguna de El Portil,169000,3,30
 Chalet,Palos de la Frontera,140000,4,219
@@ -291,7 +291,7 @@ Piso,Calle Paco Cerrejón,113000,2,76
 Chalet,Calle Monte Luna,209500,3,119
 Chalet,Sector E,350000,4,543
 Piso,Avenida de Islantilla 1,249990,2,66
-Casa Rural,DS Diseminados cañada pavon 546,240000,5,9.859
+Casa Rural,DS Diseminados cañada pavon 546,240000,5,9859
 Piso,Calle ballena 11,184990,3,103
 Piso,fundadores 3,155000,3,85
 Piso,Sector T,119000,2,50
@@ -308,11 +308,11 @@ Piso,Avenida JUAN PABLO II,109250,2,70
 Chalet,Paseo de la Chirina,215000,3,101
 Piso,Calle Tharsis,104900,3,115
 Piso,JOSE OLIVA,265000,5,170
-Casa Rural,Camino el Puntal,1250000,10,16.000
+Casa Rural,Camino el Puntal,1250000,10,16000
 Casa Rural,Camino de Matacaballos,250000,4,113
 Piso,Calle Palos de la Frontera,238900,4,180
 Chalet,Avenida DEL CALVARIO,145000,4,136
-Casa Rural,Valle Granero s/n,725000,11,70.000
+Casa Rural,Valle Granero s/n,725000,11,70000
 Piso,Calle Alonso de Ercilla s/n,126900,4,120
 Duplex,Avenida de las Cumbres,145000,2,67
 Chalet,Lepe,209995,3,114
@@ -338,7 +338,7 @@ Piso,Avenida de Islantilla,255000,2,20
 Ático,Mercado Urbanización El Higueral,80000,3,90
 Piso,Urbasur,149900,2,69
 Piso,Flecha de Nueva Umbría,135000,2,79
-Chalet,Vallegiraldo,325000,4,1.180
+Chalet,Vallegiraldo,325000,4,1180
 Chalet,barrio Centro,390000,4,129
 Chalet,Avenida de las Cumbres 1,217000,3,107
 Piso,Calle Aviador Ramón Franco,94900,3,90
@@ -469,7 +469,7 @@ Casa Rural,Ayamonte Pueblo,895000,6,239
 Chalet,Lepe,170000,3,85
 Piso,Isla Cristina,136000,3,98
 Piso,Lepe,218000,3,150
-Chalet,Cala,123900,3,131.78
+Chalet,Cala,123900,3,13178
 Piso,Nuevo Portil,125000,1,28
 Chalet,Aljaraque,143100,4,143
 Piso,Ayamonte Pueblo,240000,4,130
@@ -517,7 +517,7 @@ Piso,barrio nuevo,98000,2,76
 Piso,Lepe,140000,2,98
 Piso,Cartaya pueblo,69000,3,85
 Piso,Punta del Moral,174000,2,68
-Chalet,La Redondela,390000,5,5.500
+Chalet,La Redondela,390000,5,5500
 Chalet,Barriada Nueva,85000,3,118
 Piso,Ayamonte Pueblo,99700,2,30
 Piso,Poligono Sector Boliche,119000,2,77
@@ -530,9 +530,9 @@ Chalet,Sector O 52,179900,3,113
 Piso,Cartaya pueblo,69000,3,118
 Piso,Punta del Moral,174000,2,71
 Chalet,Lepe,205000,3,140
-Chalet,La Redondela,390000,5,5.500
+Chalet,La Redondela,390000,5,5500
 Piso,Calle Roque Barcia,122000,3,83
-Chalet,Ayamonte Pueblo,490000,7,50.000
+Chalet,Ayamonte Pueblo,490000,7,50000
 Chalet,Avenida de las Cumbres 1,164990,2,70
 Chalet,Isla Chica,346000,5,194
 Piso,Avenida del Deporte 1,154990,2,72
@@ -652,7 +652,7 @@ Piso,Plaza Rozalejo,83500,3,113
 Piso,Avenida Veintiocho de Febrero,119000,4,130
 Piso,El Rompido,290000,2,64
 Piso,Punta Umbría pueblo,205000,4,113
-Chalet,Aljaraque,450000,5,1.200
+Chalet,Aljaraque,450000,5,1200
 Piso,Avenida del Carnaval s/n s/n,165000,2,78
 Chalet,Punta Umbría pueblo,695000,4,650
 Piso,La Hispanidad - Verdeluz,81000,3,93
@@ -661,7 +661,7 @@ Piso,Avenida Campos de Montiel,124900,3,93
 Chalet,Lepe,137000,3,117
 Piso,Punta Umbría pueblo,214600,3,114
 Piso,La Hispanidad - Verdeluz,56800,3,83
-Piso,Nuevo Parque - Los Rosales - Tráfico Pesado,153000,3,97.94
+Piso,Nuevo Parque - Los Rosales - Tráfico Pesado,153000,3,9794
 Casa Rural,Lucena del Puerto,200000,4,9800
 Piso,Cartaya pueblo,82000,3,98
 Piso,Punta Umbría pueblo,99000,3,88
@@ -677,9 +677,9 @@ Chalet,Lepe,93000,2,60
 Duplex,Cartaya pueblo,85000,2,74
 Piso,Solar Peri,214000,4,159
 Chalet,Aljaraque,255400,4,147
-Piso,Isla Cristina,140000,3,56.98
+Piso,Isla Cristina,140000,3,5698
 Piso,Solar Peri,175000,3,101
-Piso,Isla Cristina,140000,3,56.98
+Piso,Isla Cristina,140000,3,5698
 Piso,Las Colonias,98500,3,111
 Chalet,Aljaraque,255400,4,154
 Piso,barrio Zona Coto,199000,3,108
@@ -774,7 +774,7 @@ Piso,Calle Palos de la Frontera 27,170000,5,192
 Piso,Las Colonias,98500,3,00
 Chalet,Avenida José Fariña 29,200000,3,60
 Ático,Avenida Alemania 128,205000,3,110
-Chalet,gran almirante cristobal colon,499000,0,2.000
+Chalet,gran almirante cristobal colon,499000,0,2000
 Piso,Avenida Pío XII 2,340000,4,149
 Piso,Calle Cadiz Salvatierra 3,130000,3,85
 Piso,Avenida Alemania 38,168000,4,147
@@ -914,7 +914,7 @@ Duplex,Calle San Isidro,95900,2,104
 Chalet,Calle Rosa de los Vientos 17,240000,4,154
 Piso,Avenida Isla Cristina 9,255000,3,117
 Piso,Calle Rafael Guillén,244900,4,151
-Chalet,Calle Misericordia,799990,5,11.991
+Chalet,Calle Misericordia,799990,5,11991
 Piso,Calle Cascanueces,179900,3,111
 Chalet,Calle Teide 33,241000,3,83
 Chalet,Calle Teide 33,299000,4,136
@@ -978,7 +978,7 @@ Piso,Calle Nuestra Señora del Carmen,82000,3,85
 Casa Rural,El Rompido,560000,5,202
 Piso,Calle Fray Junípero Serra s/n,199000,3,102
 Piso,Avenida de Andalucía 75,129900,3,83
-Chalet,Urb. La Barrera 3,118000,3,130
+Chalet,Urb La Barrera 3,118000,3,130
 Piso,Calle Fray Junípero Serra s/n,252000,4,149
 Ático,Avenida de los Cisnes 38,650000,3,129
 Piso,Urbanización Puente Esuri 901,124500,2,80
@@ -1037,10 +1037,10 @@ Piso,Calle Pelicanos 3 s/n,250900,2,61
 Piso,Avenida de Mazagón,55000,4,154
 Chalet,Aldea los Andreses 2,135000,3,446
 Chalet,Diseminado Diseminados 494,325000,4,240
-Casa Rural,A-490 81,255000,2,5.900
+Casa Rural,A-490 81,255000,2,5900
 Chalet,Urbanización Villas del Rompido 1,599000,3,800
 Chalet,Diseminado Diseminados 494,325000,4,240
-Casa Rural,A-490 81,255000,2,5.900
+Casa Rural,A-490 81,255000,2,5900
 Piso,Avenida Playas de Cartaya 6 -14,265000,2,74
 Duplex,Calle López de Ayala 105,159000,3,145
 Casa Rural,HU-4402 s/n,199000,4,172
@@ -1052,7 +1052,7 @@ Piso,Calle López de Ayala 5,128000,2,120
 Piso,Paseo Blasco Ibáñez 23,129000,2,84
 Piso,Paseo Blasco Ibañez 85,135000,2,85
 Chalet,Barrio obrero / Reina Victoria,225000,2,65
-Casa Rural,HU 4400 80,135000,3,12.000
+Casa Rural,HU 4400 80,135000,3,12000
 Piso,Paseo Blasco Ibañez 78,125000,2,85
 Piso,Avenida Juan Pablo II 76,149500,2,84
 Casa Rural,Carretar s/n,215000,4,220
@@ -1072,7 +1072,7 @@ Piso,Avenida Juan Pablo II 354,159000,3,114
 Piso,Paseo Blasco Ibañez 34,115000,2,85
 Piso,Lope de Ayala 36,117000,2,120
 Piso,Calle Golf Norte 3,159000,2,100
-Casa Rural,Carretera Fuente de la Corcha 7,239000,2,2.400
+Casa Rural,Carretera Fuente de la Corcha 7,239000,2,2400
 Piso,Lope de Rueda 68,125000,2,85
 Piso,Paseo Blasco Ibañez 47,125000,2,89
 Chalet,Calle Jorge Guillen 34,129500,2,90
@@ -1090,7 +1090,7 @@ Chalet,Calle Juan Ramón Jiménez,79000,3,94
 Piso,Calle fragata,119900,2,55
 Piso,Nuevo Parque - Los Rosales - Tráfico Pesado,78000,3,81
 Chalet,Avenida Ramón y Cajal,56000,2,69
-Chalet,Aljaraque,380000,6,1.228
+Chalet,Aljaraque,380000,6,1228
 Piso,Avenida Cristóbal Colón PARA PLAZA TOROS,104900,3,87
 Chalet,Calle Huelva 14,120000,3,97
 Piso,Islantilla Golf,117000,2,75
@@ -1113,8 +1113,8 @@ Casa Rural,Aldea Puerto Lucia,180000,3,600
 Casa Rural,Paseo Ramon Regajo,180000,14,128
 Piso,Juan XXIII 10,235700,3,85
 Chalet,Callejón del Pinar,133000,9,583
-Piso,Calle ESPATULA EDF.MARANTILLA SOL 1,160000,2,65
-Piso,Av. De La Ría Carreras s/n,77500,2,79
+Piso,Calle ESPATULA EDFMARANTILLA SOL 1,160000,2,65
+Piso,Av De La Ría Carreras s/n,77500,2,79
 Chalet,Calle Nueva,129000,4,133
 Estudio,barrio Centro,145000,0,23
 Chalet,Calle Cañaveral 1,135000,2,72
@@ -1177,13 +1177,13 @@ Piso,Calle diego de almagro,176200,2,14
 Piso,Avenida Playas de Cartaya,87000,1,49
 Chalet,Avenida Cristóbal Colón,174900,2,83
 Piso,Linares de la Sierra 52,71000,2,70
-Chalet,Murillo 19,340000,4,2.472
+Chalet,Murillo 19,340000,4,2472
 Casa Rural,Cartaya s/n,650000,4,160
 Chalet,Calle Málaga,295000,3,145
 Chalet,Hernan Cortes,239900,3,105
 Piso,Plaza MADAM IVONNE CAZENAVE 1,325000,4,139
 Estudio,Avenida Alcalde Federico Molina,80500,0,113
-Chalet,Calle Isaac Peral,1950000,7,1.220
+Chalet,Calle Isaac Peral,1950000,7,1220
 Piso,Avenida de la Mojarra s/n,305000,3,90
 Chalet,Romería 17,595000,8,351
 Piso,Calle Jesús del Calvario,216263,4,133
@@ -1222,7 +1222,7 @@ Piso,Calle Diego de Almagro,185800,2,68
 Piso,Calle Diego de Almagro,175100,2,74
 Casa Rural,Urbanizacion Huerta del Hambre 538,119990,3,2901
 Piso,Calle Diego de Almagro,197800,2,71
-Piso,Urbanizacion Nuevo Rompido Oeste 12,271000,3,10.000
+Piso,Urbanizacion Nuevo Rompido Oeste 12,271000,3,10000
 Piso,Calle Villanueva de las Cruces s/n,174800,2,72
 Piso,Calle el Saltillo 10,115000,3,88
 Chalet,jose hierro s/n,119900,3,100
@@ -1230,7 +1230,7 @@ Chalet,Calle Romaneros 5,260000,4,57
 Casa Rural,Calle Buenavista,132000,3,84
 Chalet,Calle La Encina,285000,3,277
 Chalet,Calle Sierra Morena 9,282500,4,187
-Chalet,Ronda de los Pájaros,360000,5,254.00
+Chalet,Ronda de los Pájaros,360000,5,25400
 Piso,Calle Galeón,155000,2,66
 Chalet,Calle Sierra Morena 9,285000,4,187
 Piso,miguel de unamuno,109900,4,131
@@ -1253,7 +1253,7 @@ Chalet,Calle Lusitania 12,229000,6,138
 Chalet,Calle La Encina,285000,3,277
 Chalet,Calle Bailén,460000,4,158
 Chalet,Rube Dario 334,195000,3,165
-Ático,Av. las Codornices s/n,420000,3,120
+Ático,Av las Codornices s/n,420000,3,120
 Piso,Calle Galeón,155000,2,77
 Piso,Calle Lepe,160000,3,110
 Piso,Plaza de la Merced,223734,4,106
@@ -1304,11 +1304,11 @@ Piso,COQUINA,149000,2,30
 Chalet,Aljaraque,194900,4,134
 Chalet,Cartaya pueblo,139000,4,123
 Chalet,Calle Santa María de la Rábida,599000,4,135
-Chalet,URB. FUENTE DE LA CORCHA 36,155000,4,45
+Chalet,URB FUENTE DE LA CORCHA 36,155000,4,45
 Chalet,Sector C,230000,3,119
 Piso,Plaza de la Romera,76884,3,116
 Piso,Avenida Alcalde Federico Molina Orta,99900,4,115
-Chalet,Sector-M Parc. 150,570000,4,134
+Chalet,Sector-M Parc 150,570000,4,134
 Piso,AV DEL DEPORTE,159000,2,74
 Casa Rural,Alfonso XII 11,100000,2,106
 Casa Rural,Ordoñez Rincón 19,120000,3,137
@@ -1321,7 +1321,7 @@ Casa Rural,vazquez diaz 16,145000,4,150
 Casa Rural,Avenida de la cabalgata 6,75000,3,177
 Chalet,La Antilla,141000,2,75
 Casa Rural,Calle de la Constitución 31,89000,3,290
-Chalet,Crucecita 3,380000,4,1.382
+Chalet,Crucecita 3,380000,4,1382
 Piso,Calle pelícanos 2,680000,3,68
 Casa Rural,Aldea Ventas de Arriba 68,39000,1,50
 Casa Rural,Cabezo 27,49000,4,150
@@ -1332,7 +1332,7 @@ Casa Rural,Ordoñez Rincón 19,120000,3,137
 Casa Rural,vazquez diaz 16,145000,4,150
 Chalet,Gibraleon,153000,3,80
 Casa Rural,Calle Paymogo 10,98000,4,148
-Casa Rural,Lugar la Corte 142,59000,3,5.200
+Casa Rural,Lugar la Corte 142,59000,3,5200
 Chalet,Paseo de la Chirina 9,210000,3,95
 Casa Rural,Aldea Molares 33 A,150000,3,177
 Chalet,Calle Nueva 19,148000,3,265
@@ -1362,7 +1362,7 @@ Casa Rural,Calle Altozano 4,115000,5,162
 Ático,Calle Gaviotas s/n,399000,3,147
 Casa Rural,HU-3402 54,205000,3,164
 Piso,Calle Beas,89900,2,68
-Piso,Calle Isabel M.maña Vazquez,122000,3,84
+Piso,Calle Isabel Mmaña Vazquez,122000,3,84
 Chalet,Avenida del Deporte 6,198000,3,101
 Piso,Paseo Blasco Ibáñez 2,117000,2,77
 Chalet,Calle Calamar 20,169790,2,76
@@ -1371,7 +1371,7 @@ Casa Rural,A-495 s/n,179000,4,139
 Chalet,Trigueros,119500,3,1500
 Casa Rural,A490 s/n,109000,2,80
 Chalet,Calle Galdames 39,439500,4,40
-Casa Rural,A-472 1000,185000,3,2.500
+Casa Rural,A-472 1000,185000,3,2500
 Chalet,Narciso,199900,4,122
 Chalet,Lepe,195000,4,122
 Piso,Calle Lucena del Puerto,106000,2,64
@@ -1403,7 +1403,7 @@ Piso,Calle Agustin Dominguez Belda,74700,3,94
 Piso,Calle Agustin Dominguez Belda,91700,3,115
 Piso,Calle Agustin Dominguez Belda,76850,3,91
 Chalet,Sector D,350000,4,154
-Casa Rural,Rociana del Condado,125000,3,12.800
+Casa Rural,Rociana del Condado,125000,3,12800
 Piso,Calle Agustin Dominguez Belda,74900,3,102
 Piso,Avenida de Islantilla 2,220000,1,51
 Duplex,Centro,233000,4,140
@@ -1552,11 +1552,11 @@ Casa Rural,Calle del Doctor Romero Rábana,475000,6,243
 Chalet,Roble,180000,3,2500
 Piso,Punta del Moral,190000,2,78
 Piso,Punta del Moral,177000,2,80
-Chalet,Alosno,284990,6,24.480
+Chalet,Alosno,284990,6,24480
 Piso,Calle la Palma 13,182000,3,119
 Chalet,Calle la Fuente 11,1100000,10,03
 Piso,Isla Canela,156000,2,78
-Casa Rural,A-5300 s/n,110000,2,12.500
+Casa Rural,A-5300 s/n,110000,2,12500
 Ático,Isla Canela,230000,4,80
 Piso,Calle Diego de Almagro,183400,2,79
 Chalet,-,Calle Tomillo 3,164000,813
@@ -1564,8 +1564,8 @@ Piso,Punta del Moral,177000,2,63
 Piso,Punta del Moral,250000,3,118
 Piso,Ayamonte Pueblo,175000,1,75
 Piso,Ayamonte Pueblo,380000,3,12
-Chalet,Alosno,284990,6,24.480
-Casa Rural,A-5300 s/n,110000,2,12.500
+Chalet,Alosno,284990,6,24480
+Casa Rural,A-5300 s/n,110000,2,12500
 Piso,Punta del Moral,380000,3,51
 Chalet,Calle Panamá 1,149000,4,57
 Chalet,Calle Dos de Mayo 1,75000,3,99
@@ -1584,7 +1584,7 @@ Piso,Urbanizacion Nuevo Rompido Oeste 12,273000,2,30
 Chalet,Corrales,128800,3,109
 Chalet,Sector C Segunda Fase,230000,3,350
 Chalet,Travesía María Auxiliadora 1 -3,103400,3,50
-Piso,Paseo de la Torre del Catalán 19 -11,108200,2,49.53
+Piso,Paseo de la Torre del Catalán 19 -11,108200,2,4953
 Piso,Aragon 31,79900,3,132
 Chalet,Corrales,150800,3,93
 Chalet,Laguna de El Portil,290000,6,212
@@ -1592,21 +1592,21 @@ Chalet,Calle Granaitos 1,147000,3,110
 Piso,Avenida Juan Pablo II 1,117500,2,24
 Chalet,Calle Tavira 49,114990,3,109
 Piso,Calle Maestra Ana Espina 12,114000,2,72
-Casa Rural,Calle San Bartolome s/n,154990,3,26.000
+Casa Rural,Calle San Bartolome s/n,154990,3,26000
 Piso,Camino de la Noria 1,128000,3,105
-Piso,Calle Ricardo Velázquez 10,426120,3,530.70
+Piso,Calle Ricardo Velázquez 10,426120,3,53070
 Chalet,Camino de Valverde,155000,4,250
 Chalet,959680038,Avenida del Almendro 87,450000,458
 Piso,Calle Martín Pescador 8,84900,3,95
 Casa Rural,Jabugo,120000,3,224
 Duplex,Calle Bailén,122000,3,84
-Chalet,Aljaraque,680000,6,1.410
+Chalet,Aljaraque,680000,6,1410
 Chalet,Avenida AndalucÍa 101,129900,4,158
 Chalet,959680038,Avenida del Almendro 87,450000,408
 Piso,Avenida Alcalde Narciso Martín Navarro 4,97000,3,96
 Piso,Camino de la Noria 1,128000,3,80
-Casa Rural,DS. Rodeo,144500,3,101
-Piso,Calle Ricardo Velázquez 10,426120,3,530.70
+Casa Rural,DS Rodeo,144500,3,101
+Piso,Calle Ricardo Velázquez 10,426120,3,53070
 Piso,Calle Maestra Ana Espina 12,114000,2,72
 Piso,Calle Estadio 1,90000,1,58
 Chalet,Calle Tavira 49,114990,3,109
@@ -1626,7 +1626,7 @@ Piso,Calle Fernando el Católico,430000,5,300
 Chalet,Rotonda de entrada un paraje natural y protegido s/n,229000,3,89
 Piso,Calle Golf Norte s/n,165000,2,10
 Chalet,Calle Doctor Gumersindo Marquez 12,198000,7,563
-Ático,Calle Golf Norte A-7 7 A,299900,3,112.50
+Ático,Calle Golf Norte A-7 7 A,299900,3,11250
 Ático,Avenida Castilla,360000,3,150
 Chalet,Urbanización las Palmeritas 22,340000,4,900
 Piso,Calle Doctor Plácido Bañuelos,99000,3,88
@@ -1639,7 +1639,7 @@ Chalet,Aljaraque,350000,6,160
 Piso,Avenida de la playa s/n,145000,2,65
 Casa Rural,Diseminado los Almendrales 2,141900,3,1500
 Piso,Calle Codornices 1,139000,1,4
-Chalet,Camino del pozo s/n,360000,8,20.000
+Chalet,Camino del pozo s/n,360000,8,20000
 Casa Rural,Calle Galdames 9,135000,3,150
 Chalet,Avenida de Andalucía,129900,3,150
 Chalet,Calle Doctor Gumersindo Marquez 12,198000,7,563
@@ -1650,13 +1650,13 @@ Chalet,Calle Tintoretto,198000,3,98
 Casa Rural,Huerta las Veredas s/n,184990,4,5400
 Piso,NUESTRA SEÑORA DEL CARMEN,81500,3,70
 Piso,Trigueros,65000,2,71
-Casa Rural,Concejal José Parrilla González 10,420000,6,1.685
+Casa Rural,Concejal José Parrilla González 10,420000,6,1685
 Chalet,Avenida del rio piedras s/n,220000,3,20
 Casa Rural,LOS POCITOS 12,245000,3,150
 Casa Rural,Diseminados s/n,540000,5,180
 Casa Rural,EL SANTO 22,83000,4,132
 Chalet,DIEZ DE SOLIS 5,450000,3,107
-Ático,Calle Golf Norte A-7 7 A,299900,3,112.50
+Ático,Calle Golf Norte A-7 7 A,299900,3,11250
 Piso,Avenida de la playa s/n,145000,2,76
 Chalet,Avenida del terrón s/n,362700,8,800
 Piso,Avenida Cayetano Feu 17,99000,3,103
@@ -1673,13 +1673,13 @@ Chalet,Sector T,300000,5,138
 Chalet,Calle Campanario,220000,2,67
 Piso,Calle Virgen Chiquita,84900,3,86
 Piso,Calle Presbítero Manuel López Vega,104900,3,97
-Chalet,Calle de la Plaza,480000,5,1.000
+Chalet,Calle de la Plaza,480000,5,1000
 Chalet,Sector N,275000,4,300
 Duplex,959680235,Calle de los Zarapitos,209000,424
 Casa Rural,Calle Valverde del Camino,185000,4,148
 Chalet,Aldea Valdezufre,96000,2,37
 Piso,cale Rederos 3,105000,3,90
-Chalet,Calle de la Plaza,480000,5,1.000
+Chalet,Calle de la Plaza,480000,5,1000
 Ático,Plaza del Nogal 1,97000,3,88
 Chalet,Avenida del terrón 1,220000,3,20
 Chalet,Calle Campanario,220000,2,65
@@ -1690,10 +1690,10 @@ Chalet,cañaveral s/n,230000,3,20
 Chalet,Carretera de El Rocío,145000,6,249
 Casa Rural,Calle Rico,105000,2,190
 Piso,cale Rederos 3,105000,3,94
-Chalet,Via A-49 32,140000,3,2.000
+Chalet,Via A-49 32,140000,3,2000
 Piso,Lepe,129000,3,109
 Piso,Avenida Alcalde Federico Molina Orta,200000,4,123
-Chalet,Calle Baobab,385000,5,1.329
+Chalet,Calle Baobab,385000,5,1329
 Chalet,Calle de los Álamos,259000,4,154
 Piso,Plaza de Moguer,180000,3,106
 Chalet,Calle Encinilla,314000,4,325
@@ -1714,13 +1714,13 @@ Chalet,Calle José Caballero,179000,3,47
 Casa Rural,Calle Valverde del Camino,185000,4,143
 Chalet,Calle estrella de mar s/n,362700,4,600
 Ático,Calle Tres de Agosto,380000,5,169
-Chalet,Calle Abajo,1500000,41,3.500
+Chalet,Calle Abajo,1500000,41,3500
 Piso,Avenida Alemania,140000,4,105
 Chalet,Virgen de Fátima,359900,4,300
 Chalet,Calle Casa de la Era,365800,3,158
-Chalet,Parcela 135 Poligo 7,289000,3,17.200
+Chalet,Parcela 135 Poligo 7,289000,3,17200
 Chalet,Calle estrella de mar s/n,362700,4,600
-Chalet,Calle de la Plaza,480000,5,1.000
+Chalet,Calle de la Plaza,480000,5,1000
 Chalet,Calle de los Álamos,259000,4,149
 Chalet,Calle Darbon,169900,4,126
 Duplex,Avenida de las Cumbres,150000,2,78
@@ -1730,7 +1730,7 @@ Chalet,PLAYA DE CASTILLA,124900,4,155
 Chalet,Valverde s/n,395000,3,116
 Chalet,Calle Sierra Morena,282500,4,187
 Piso,Calle Doctor Gieb Cabrera 3,83000,3,114
-Chalet,Via A-49 32,140000,3,2.000
+Chalet,Via A-49 32,140000,3,2000
 Chalet,Avenida del deporte 112 00,215000,3,16
 Casa Rural,Carretera de Huelva,199000,4,172
 Chalet,Lepe,165000,4,159
@@ -1747,11 +1747,11 @@ Chalet,Avenida Punta Umbria,129000,3,96
 Chalet,Doñana s/n,1300000,5,196
 Duplex,Juan Pablo II 2,165000,3,35
 Piso,Gibraleon,72300,3,105
-Chalet,Calle el Acebuche,420000,6,1.217
+Chalet,Calle el Acebuche,420000,6,1217
 Chalet,Calle Encinilla,314000,4,325
 Piso,Avenida Santa Marta,129500,3,100
 Chalet,Sector N,407000,4,127
-Chalet,Sector-M Parc. 150,650000,3,500
+Chalet,Sector-M Parc 150,650000,3,500
 Ático,Paseo de los huertos s/n,150000,2,12
 Chalet,Avenida las Camelias,185000,4,180
 Piso,Islantilla Costa,197000,2,68

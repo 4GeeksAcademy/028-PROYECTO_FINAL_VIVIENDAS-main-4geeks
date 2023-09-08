@@ -27,7 +27,7 @@ Piso,Calle Huesca,185000,2,63
 Duplex,Plaza Mayor 32,250000,2,74
 Piso,Avenida Huesca,233000,2,74
 Casa Rural,Borau,399000,6,300
-Ático,Calle San Sebastian Ag. Formiga,350000,3,96
+Ático,Calle San Sebastian Ag Formiga,350000,3,96
 Piso,Carretera de Pamplona 14,57000,1,52
 Chalet,Vía 76,575000,4,124
 Piso,Calle Peña Telera,158000,3,7
@@ -39,7 +39,7 @@ Chalet,Calle Villacampa Pied 26,119000,4,140
 Ático,Calle Luis Espada,65000,2,79
 Chalet,Calle Pilar,106000,5,168
 Duplex,Calle Única 17,130000,2,103
-Chalet,Plaza Mayor 1,2500000,20,2.850
+Chalet,Plaza Mayor 1,2500000,20,2850
 Duplex,La fuente,130000,2,69
 Duplex,Calle Pedro Pac,124900,3,140
 Chalet,Calle la Corona 1,420000,5,596
@@ -48,14 +48,14 @@ Chalet,Diseminado Berdun y Alrededores 153,350000,5,280
 Ático,Calle de Santiago 36,149000,2,61
 Chalet,Plaza la 1,185000,3,226
 Piso,Carretera Graus-Viella 9,65000,2,51
-Chalet,Calle Barcelona 23,875000,6,1.100
+Chalet,Calle Barcelona 23,875000,6,1100
 Piso,Calle de los Fueros de Jaca 8,135000,3,86
 Piso,Calle Única 13,135000,1,53
-Chalet,Camino Monte Pano 17,590000,7,5.879
+Chalet,Camino Monte Pano 17,590000,7,5879
 Piso,Calle Mallos de Riglos 4,159000,2,12
 Piso,Calle unica 12,105000,2,60
 Piso,Plaza del pez 4,125000,3,100
-Chalet,Calle Jaca s/n,980000,5,1.200
+Chalet,Calle Jaca s/n,980000,5,1200
 Estudio,Calle Única 4,119000,0,42
 Chalet,Cartuja Monegros s/n,80000,5,199
 Chalet,Calle Gil Berges 3,34000,2,92
@@ -104,7 +104,7 @@ Casa Rural,Calle San Esteban,300000,5,185
 Piso,Calle San Mateo,89900,1,45
 Casa Rural,Calle la Fuente 10,135000,3,165
 Piso,Calle de Valle de Oza s/n,157000,3,117
-Duplex,Calle San Cristobal Ag. Badaguas 15,98000,1,47
+Duplex,Calle San Cristobal Ag Badaguas 15,98000,1,47
 Chalet,asunción 15,225000,2,264
 Piso,Calle Albareda,151000,2,61
 Piso,Avenida de Francia 49,239000,3,92
@@ -167,7 +167,7 @@ Casa Rural,Calle san roque s/n,186000,3,156
 Chalet,Calle unica s/n,180000,4,1392
 Chalet,Calle ulima s/n,120000,2,60
 Casa Rural,Calle Joaquín Costa 8,93000,11,788
-Casa Rural,torrijos 36,280000,3,3.069
+Casa Rural,torrijos 36,280000,3,3069
 Piso,Avenida EJERCITO s/n,95000,1,47
 Casa Rural,barrio bajo s/n,75000,3,116
 Piso,Urbanizacion Burgo Rapitan 2,39900,1,57
@@ -203,11 +203,11 @@ Chalet,Calle unica s/n,319000,7,500
 Casa Rural,LA LUERA DE ACUMUER s/n,127000,3,92
 Piso,ramon y cajal s/n,107000,4,60
 Piso,Calle Membrilleras,187000,2,14
-Casa Rural,Carretera AISA s/n,95000,2,2.000
+Casa Rural,Carretera AISA s/n,95000,2,2000
 Piso,Alto Coso 55,220000,4,138
 Casa Rural,Camino Banariés s/n,77000,1,900
 Piso,Regimiento de Galicia 15,160000,2,55
-Chalet,Carretera Puibolea,420000,10,1.300
+Chalet,Carretera Puibolea,420000,10,1300
 Ático,Calle Pedro Ruimonte 12,225000,2,62
 Duplex,Calle Única,102500,2,73
 Piso,Urbanizacion Burgo Rapitan,45000,1,46
@@ -232,7 +232,7 @@ Piso,Calle Pico Marboré,360000,4,100
 Chalet,Paseo de la Cantera Jaca,1500000,6,100
 Piso,Calle Huesca,179000,2,72
 Chalet,lavadero,450000,5,400
-Piso,Calle San Sebastian Ag. Formiga,249000,2,63
+Piso,Calle San Sebastian Ag Formiga,249000,2,63
 Duplex,Calle Santa Cruz,660000,3,92
 Casa Rural,Calle mayor,198000,5,250
 Casa Rural,aire,450000,5,250
@@ -267,7 +267,7 @@ Chalet,Calle Mayor 25,199000,3,30
 Estudio,Calle oriente s/n,45000,0,34
 Piso,Calle Felipe V 2,97000,1,12
 Chalet,Alto de Bescansa s/n,257000,3,96
-Piso,Carretera Pte. Escarrilla Ag Pueyo 1,224000,3,85
+Piso,Carretera Pte Escarrilla Ag Pueyo 1,224000,3,85
 Chalet,Unica 1,319000,7,500
 Duplex,Calle Esterres,189000,3,97
 Piso,Fernando el Catolico 20,186000,3,88
@@ -331,7 +331,7 @@ Piso,Urbanizacion Burgo Rapitan,40000,1,36
 Ático,Avenida de Huesca 3 A,210000,3,96
 Piso,Calle Autonomía de Aragón,184900,3,118
 Chalet,Calle Baja,72000,2,70
-Casa Rural,Plaza Mayor Ag. Besians,98000,1,42
+Casa Rural,Plaza Mayor Ag Besians,98000,1,42
 Casa Rural,Carretera Iglesia,58000,5,169
 Piso,pirineos,170000,1,49
 Ático,Avenida de Francia 36,54000,0,25
@@ -473,11 +473,11 @@ Piso,Calle Benito Coll,99000,3,90
 Duplex,Avenida de los Arañones,116800,2,52
 Chalet,Partida Afueras Jaca Industrial,275000,3,100
 Ático,Carretera,79500,2,65
-Casa Rural,Sobrarbe s/n,360000,5,34.000
+Casa Rural,Sobrarbe s/n,360000,5,34000
 Chalet,Calle Entrada 9 -5,319999,9,440
 Piso,Barbastro,139000,3,101
 Chalet,ALTA,45000,5,252
-Chalet,Borda Escampez 65,375000,3,4.000
+Chalet,Borda Escampez 65,375000,3,4000
 Piso,antonio machado,57500,4,90
 Chalet,Barbastro,107000,2,70
 Piso,antonio machado,57500,4,90
@@ -492,7 +492,7 @@ Piso,Avenida Juan XXIII 19,129000,2,85
 Chalet,Calle la Iglesia 13,99000,6,180
 Piso,Calle San Victorián 25,145000,2,58
 Piso,Simeon Pons 2,145000,2,64
-Chalet,Colonia Molino Aceite 5,275000,2,18.200
+Chalet,Colonia Molino Aceite 5,275000,2,18200
 Ático,Calle Peña Montañesa 10,97000,2,68
 Piso,major 2,120000,1,40
 Chalet,Mayor 17,240000,6,604
@@ -524,8 +524,8 @@ Piso,Calle Doña Sancha 30 32,288687,4,25
 Casa Rural,Calle Mayor 49,350000,3,127
 Piso,Carretera Tuberia,282000,2,46
 Piso,Avenida  Benito coll 25,140000,2,77
-Piso,Calle F Ag.cerler 4,440000,5,167
-Piso,Calle Escalar Ag. Astun 13,89000,2,69
+Piso,Calle F Agcerler 4,440000,5,167
+Piso,Calle Escalar Ag Astun 13,89000,2,69
 Chalet,Urbanización Linsoles 20,1049000,6,50
 Chalet,Calle Mayor,45000,3,180
 Piso,Calle Varellas,149000,3,108
@@ -590,7 +590,7 @@ Piso,Calle Coso Alto 34,280000,5,17
 Chalet,Calle el Castillo 2,114000,4,29
 Piso,Calle de Serrablo 90,75145,4,100
 Piso,Paseo Camino de Santiago 7,230000,2,200
-Chalet,Calle San José 15,250000,3,1.300
+Chalet,Calle San José 15,250000,3,1300
 Chalet,Calle mayor,265000,4,187
 Duplex,Calle Ramiro Primero 30,265000,2,67
 Piso,Calle Ramiro Primero 30,330000,3,72
@@ -710,7 +710,7 @@ Chalet,Calle la Fuente Arasan,390000,3,88
 Chalet,Avenida DE HUESCA 60,330000,5,315
 Chalet,Calle Calvario,199990,7,146
 Piso,Calle Mayor 3,235000,2,74
-Chalet,Carretera fuente de sieste,309000,4,10.000
+Chalet,Carretera fuente de sieste,309000,4,10000
 Piso,Calle las Aliagas,116000,2,8
 Ático,Sallent de Gallego,290000,2,74
 Casa Rural,La Fueva,20000,2,72
@@ -742,7 +742,7 @@ Chalet,Calle Molino 10,544475,5,191
 Piso,Calle Ramiro I 27,202151,2,15
 Duplex,Calle  de San Jorge 66,385000,3,114
 Piso,Calle Molino 10,243046,2,76
-Chalet,Calle san blas 23,90000,3,2.800
+Chalet,Calle san blas 23,90000,3,2800
 Piso,Calle Molino 10,213995,2,71
 Piso,SAN SEBASTIAN 9,189000,2,79
 Ático,Calle Molino 10,256072,2,77
@@ -755,9 +755,9 @@ Piso,Avenida del Primer Viernes de Mayo 14,260000,3,106
 Chalet,Plaza San Martín 2,62000,3,140
 Piso,Calle Ingeniero Montaner 8,120000,3,85
 Chalet,Calle Foncillas 14,86000,3,105
-Casa Rural,Calle Puente s/n,180000,3,4.724
+Casa Rural,Calle Puente s/n,180000,3,4724
 Piso,Calle Varellas 45,150000,3,109
-Chalet,Unica 9,450000,12,1.100
+Chalet,Unica 9,450000,12,1100
 Piso,Avenida de Pineta 21,66000,1,45
 Chalet,Calle Santa Cruz 26,350000,4,146
 Piso,Calle Varellas 45,150000,3,106
@@ -769,7 +769,7 @@ Casa Rural,Calle Baja 8,219900,7,270
 Chalet,Calle San José s/n,400000,4,350
 Piso,Calle Urbanización Espata R6 3,119000,1,45
 Piso,Calle las Aliagas 1,150000,3,10
-Casa Rural,Calle Puente s/n,180000,3,4.724
+Casa Rural,Calle Puente s/n,180000,3,4724
 Piso,Calle Ingeniero Montaner 8,120000,3,107
 Piso,Plaza de Europa 5,95000,1,60
 Piso,Calle las Aliagas 1,98000,1,7
@@ -814,13 +814,13 @@ Chalet,Calle del Carmen s/n,118000,4,155
 Chalet,PIEDRAFITA DE JACA 3,390000,3,96
 Piso,EL PACO 25,440000,3,82
 Piso,Puente la Reina,50000,1,57
-Chalet,Partida Afueras Huesca 105c s/n,950000,6,19.000
+Chalet,Partida Afueras Huesca 105c s/n,950000,6,19000
 Duplex,Carretera FRANCIA 8,300000,3,81
 Piso,Calle del General Villacampa 2,115000,1,98
 Chalet,Calle occidente 8,116000,5,91
 Ático,Camino de Saras 15,300000,3,100
 Chalet,POUCHANGÓN 15,295000,4,143
-Piso,Av. Yebra de Basa 2,131000,4,148
+Piso,Av Yebra de Basa 2,131000,4,148
 Duplex,Calle estudios 22,215000,3,100
 Piso,Calle de Serrablo 104,120000,3,101
 Piso,Avenida ORDESA 40,130000,4,105
@@ -832,21 +832,21 @@ Chalet,Calle San Sebastian 1 A,275000,4,157
 Piso,Calle VICO 18,178000,2,63
 Piso,Avenida zaragoza 22,194500,2,55
 Piso,Avenida Regimiento de Galicia 21,349000,4,109
-Chalet,C. Costera no10 10,275000,4,50
+Chalet,C Costera no10 10,275000,4,50
 Chalet,Plaza MAYOR NAVAL s/n,55000,5,365
 Piso,San Juan de la peña 1,104000,3,99
-Piso,Av. Francia 9,166500,2,77
+Piso,Av Francia 9,166500,2,77
 Chalet,Calle Santiago 22,220000,3,93
 Chalet,Calle EL LLANO 31,260000,7,160
 Chalet,Torrontillo 5,98000,5,164
-Piso,C. Peña Telera 10,127000,2,15
+Piso,C Peña Telera 10,127000,2,15
 Piso,Calle Santiago 22,115000,2,18
 Chalet,Calle Alta 3,200000,6,230
 Piso,Calle Calle Ramiro El Monje  22,100684,1,49
 Piso,Calle Gil Bergés s/n,195615,3,87
 Piso,Perpetuo Socorro,165000,2,66
 Piso,Calle Santiago 22,88800,2,50
-Ático,Av. Francia 14,163000,4,108
+Ático,Av Francia 14,163000,4,108
 Chalet,Calle Valle de Ordesa 3,175000,4,151
 Piso,Calle Calle Ramiro El Monje  22,127130,2,69
 Chalet,Calle Santiago 22,199900,3,114
@@ -887,7 +887,7 @@ Piso,Avenida de Pineta,85000,3,80
 Piso,Avenida Yebra de Basa,105000,2,60
 Casa Rural,Bruis s/n,22000,3,110
 Piso,Avenida Fuendeplata 9,82000,1,60
-Piso,Calle Varellas Ag. Latas,90000,1,45
+Piso,Calle Varellas Ag Latas,90000,1,45
 Chalet,Calle Baja,95000,6,465
 Piso,Calle Baja 17,415000,11,526
 Piso,Calle las Aliagas,185000,3,92
@@ -907,7 +907,7 @@ Piso,Calle T 16 -28,192000,2,96
 Ático,LA RAMPA s/n 0,135000,2,60
 Piso,Calle las Aliagas,107000,1,43
 Casa Rural,Carretera Cartirana,189000,1,42
-Casa Rural,PIRINEO DE HUESCA VALLE RIO ARA s/n,18000,0,8.435
+Casa Rural,PIRINEO DE HUESCA VALLE RIO ARA s/n,18000,0,8435
 Chalet,TORLA s/n,360000,4,210
 Casa Rural,Calle Única,279000,2,250
 Piso,Pirineos,107000,2,64
@@ -926,7 +926,7 @@ Chalet,Carretera N-260 s/n 0,110000,6,380
 Piso,ARBOLEDA s/n,127000,2,69
 Chalet,Casa Campo,168000,4,145
 Duplex,Calle Única,250000,3,6
-Chalet,Francia s/n,350000,2,1.900
+Chalet,Francia s/n,350000,2,1900
 Chalet,ALMACELLAS s/n,260000,6,288
 Chalet,GRAUS s/n,68000,1,65
 Piso,Calle Valle de Tena,105000,3,85
@@ -943,7 +943,7 @@ Chalet,Calle Unica s/n,60000,0,390
 Duplex,candelera 2,98000,1,48
 Chalet,CANCILLAR 78,265000,3,118
 Chalet,Calle UNICA s/n,210000,3,144
-Casa Rural,PIRINEO DE HUESCA VALLE RIO ARA s/n,18000,0,8.435
+Casa Rural,PIRINEO DE HUESCA VALLE RIO ARA s/n,18000,0,8435
 Chalet,Avenida SUDIERA s/n,299000,6,235
 Ático,LA RAMPA s/n 0,135000,2,60
 Casa Rural,Carretera Cartirana,189000,1,56
@@ -952,7 +952,7 @@ Chalet,LAS PEÑAS s/n,50000,3,180
 Chalet,Calle de la Roqueta 15,137600,3,104
 Piso,Calle Sierra de Guara,98000,2,73
 Piso,UNICA s/n,149000,2,68
-Chalet,Carretera DE MONZON s/n,199000,6,13.700
+Chalet,Carretera DE MONZON s/n,199000,6,13700
 Piso,Margudgued s/n,125000,2,60
 Chalet,MAYOR s/n,35000,1,310
 Duplex,Avenida ORDESA s/n,198000,3,108
@@ -993,7 +993,7 @@ Piso,Plaza europa,95000,1,42
 Chalet,Plaza Mayor s/n,225000,8,304
 Chalet,BARRIO PALOMAR 9,254000,4,220
 Chalet,Calle Autonomía de Aragón,384000,4,127
-Casa Rural,Mayor 3,239900,20,2.100
+Casa Rural,Mayor 3,239900,20,2100
 Casa Rural,Partida Gesera 2,212000,3,112
 Chalet,MAYOR s/n,65000,5,448
 Chalet,Calle la Balsa 19,138000,4,145
@@ -1024,7 +1024,7 @@ Chalet,La luna 3,98000,2,70
 Chalet,Calle San José Artesano,290000,3,112
 Piso,La Parra 23,174000,2,63
 Piso,Las Aliagas 4,164000,2,95
-Chalet,UNICA s/n,1650000,6,27.135
+Chalet,UNICA s/n,1650000,6,27135
 Piso,Calle Caldearenas Sabiñánigo,120000,2,65
 Chalet,Camino Polideportivo 5,180000,5,206
 Chalet,Calle Valle de Ordesa 2,198000,3,50
@@ -1043,7 +1043,7 @@ Chalet,La Paz 27,139000,3,81
 Piso,El Pilar,50000,3,120
 Duplex,Paseo de Ardonés 2,170000,3,101
 Piso,Calle Vico,112520,1,51
-Casa Rural,Diseminado Afueras 33,89900,1,10.000
+Casa Rural,Diseminado Afueras 33,89900,1,10000
 Chalet,Calle la Fuente Urmella 7,180000,3,112
 Duplex,Avenida Molsa 20,178000,2,75
 Chalet,SAN GRIMIEN 10,260000,4,80
@@ -1075,7 +1075,7 @@ Piso,Serrablo,58000,3,109
 Chalet,Calle Baja 14,280000,3,109
 Piso,Calle del Rector Sichar 1,155000,2,75
 Piso,Serrablo,59000,3,95
-Casa Rural,Calle Santa Ana,525000,4,17.544
+Casa Rural,Calle Santa Ana,525000,4,17544
 Chalet,Calle Estiras,550000,3,98
 Piso,Calle Peguera,259800,3,64
 Piso,Avenida DE YEBRA DE BASA 15,97000,2,75
@@ -1086,7 +1086,7 @@ Chalet,Urbanización els Escamps 12,570000,4,159
 Casa Rural,Calle ESCUELAS 16,81000,4,155
 Casa Rural,Sabiñánigo s/n,330000,8,500
 Chalet,Calle Mayor,169000,5,177
-Casa Rural,La Guarguera s/n,220000,8,15.000
+Casa Rural,La Guarguera s/n,220000,8,15000
 Chalet,CUADRONES 32,167000,4,145
 Chalet,Ainsa s/n,165000,2,150
 Chalet,Calle de la Roqueta,121000,3,107
@@ -1122,7 +1122,7 @@ Piso,Avenida JUAN XXIII,143000,3,116
 Piso,Calle Sierra de Guara,105000,2,65
 Piso,Avenida Juan XXIII 18,148500,3,88
 Chalet,Ronda ARAGON 3,197000,4,180
-Casa Rural,La Guarguera s/n,220000,8,15.000
+Casa Rural,La Guarguera s/n,220000,8,15000
 Casa Rural,Unic 5,77000,0,300
 Piso,Picaruelas s/n,130000,2,90
 Chalet,Calle Monzon 35,82000,3,84
@@ -1177,7 +1177,7 @@ Chalet,Aínsa s/n,86000,4,300
 Chalet,Sariñena 21,119000,1,250
 Chalet,Calle Río Sosa,135000,4,158
 Chalet,Ainsa s/n,169000,4,120
-Piso,Calle Calle Escalar Ag. Astun 13,165000,2,67
+Piso,Calle Calle Escalar Ag Astun 13,165000,2,67
 Piso,Poblaciones norte,92055,2,63
 Chalet,Calle la Peña 12,95000,1,212
 Chalet,Alcampell,50000,4,265
@@ -1191,18 +1191,18 @@ Piso,Apiés,83000,2,68
 Piso,Pasaje Río Flumen 3,29500,3,105
 Chalet,El Plano 1,27000,1,107
 Chalet,Calle San Esteban,290000,4,248
-Chalet,Foradada del toscar s/n,95000,4,2.000
+Chalet,Foradada del toscar s/n,95000,4,2000
 Piso,Calle Lepanto 2,110000,2,65
 Ático,Plan s/n,124000,2,55
 Casa Rural,Hoz y Costean,22000,3,180
-Chalet,Calle Salto de Roldan Ag. Yeque 2,287000,4,211
+Chalet,Calle Salto de Roldan Ag Yeque 2,287000,4,211
 Piso,Calle Antonio Saura 7,88000,2,7
 Chalet,Calle ESPERANZA,150000,8,299
 Chalet,Calle CERVANTES,55000,3,82
 Piso,Calle Peña Telera 9,100000,1,52
 Casa Rural,Calle Castelnou 5,75000,5,168
 Piso,Calle Santa Ana 2,68500,4,134
-Chalet,barrio Centro - Llano Samper,590000,7,5.500
+Chalet,barrio Centro - Llano Samper,590000,7,5500
 Chalet,Las Feixas s/n,1650000,6,232
 Chalet,Calle CERVANTES,55000,3,82
 Piso,Calle Lepanto 2,110000,2,65
@@ -1236,7 +1236,7 @@ Chalet,Calle Población 14,125000,1,40
 Chalet,Calle canal 3,132000,1,44
 Chalet,Calle Alta,59200,3,103
 Chalet,Calle Río Sosa,150000,3,53
-Chalet,Carretera Lasieso,620000,6,2.000
+Chalet,Carretera Lasieso,620000,6,2000
 Chalet,Calle Barbastro,29000,4,158
 Piso,Calle del Ibon d Estanes,200000,3,106
 Piso,Avenida de los Monegros 24,115000,4,6
@@ -1249,7 +1249,7 @@ Chalet,Calle Alta,59200,3,104
 Chalet,Calle Flandero 8,300000,3,180
 Piso,Camino San Antón 11,320000,3,88
 Chalet,Calle Barbastro,29000,4,160
-Chalet,Carretera Lasieso,620000,6,2.000
+Chalet,Carretera Lasieso,620000,6,2000
 Piso,Calle Rafael Gil 5 -1,110000,3,84
 Chalet,Calle 7 de Febrero de 1883 12,199000,9,480
 Casa Rural,Calle el Sol,130000,4,153
@@ -1305,7 +1305,7 @@ Chalet,Ordesa,275000,4,180
 Piso,Biescas,182000,2,78
 Piso,Calle Bozocarro 9,158000,1,25
 Casa Rural,El Horno,381000,4,530
-Chalet,carretera,188000,3,2.000
+Chalet,carretera,188000,3,2000
 Chalet,Baja,88000,4,120
 Chalet,Calle Ribagorza,69000,3,100
 Piso,Calle Monte Perdido,179000,4,157
@@ -1353,7 +1353,7 @@ Piso,ibon de iserias 2,127000,2,76
 Chalet,Calle Llenado s/n,50000,0,200
 Piso,Doña Sancha 14,248000,3,114
 Piso,Calle Zaragoza 9,169000,4,120
-Casa Rural,La Vispesa s/n,250000,4,12.500
+Casa Rural,La Vispesa s/n,250000,4,12500
 Piso,Calle Sierra de Guara,130000,2,79
 Piso,Calle peña telera 2,148000,2,79
 Chalet,S/N,189000,0,31
@@ -1367,7 +1367,7 @@ Chalet,Monflorite-Lascasas,245000,4,139
 Piso,Calle Mayor 10,239000,5,82
 Piso,Avenida los Danzantes de Huesca,184900,3,109
 Chalet,Calle Padre Querbes 7,680000,5,254
-Casa Rural,La Vispesa s/n,250000,4,12.500
+Casa Rural,La Vispesa s/n,250000,4,12500
 Chalet,Plaza Mayor s/n,170000,2,128
 Chalet,ZONA AINSA SOBRARBE s/n,460000,4,400
 Chalet,MAYOR s/n,11000,0,353
@@ -1485,7 +1485,7 @@ Chalet,Cerler,309000,3,107
 Casa Rural,Alto Serveto 8,80000,4,120
 Piso,Calle de Lepanto,75000,2,50
 Duplex,Avenida de Huesca,160000,0,25
-Chalet,Calle Dr. Castanera 8,55000,4,128
+Chalet,Calle Dr Castanera 8,55000,4,128
 Ático,Calle de San Sebastián,125000,1,47
 Piso,Plaza de Europa 2,119000,1,49
 Chalet,OITURIA s/n,200000,18,400
@@ -1518,11 +1518,11 @@ Chalet,Calle San Juan de la Peña 30,160000,5,120
 Casa Rural,Calle Traviesa 22,239000,6,644
 Chalet,Calle Solana Alta,75000,5,196
 Duplex,Carretera Iglesia 6,170000,3,86
-Chalet,. s/n,249000,4,86
+Chalet, s/n,249000,4,86
 Duplex,Carretera Iglesia 6,170000,3,110
 Casa Rural,Diseminados 306,150000,2,130
 Piso,Calle del Sol 4,100000,3,111
-Chalet,. s/n,249000,4,86
+Chalet, s/n,249000,4,86
 Chalet,Calle Ribagorza 11,100000,8,397
 Chalet,Calle Almacellas 28,260000,5,65
 Casa Rural,Plaza Mayor 1,53000,2,157
@@ -1541,7 +1541,7 @@ Piso,Calle Zaragoza,125000,3,90
 Piso,Calle els Pllans de Ansils 11,176000,3,87
 Chalet,Bisaurri,690000,5,178
 Chalet,Calle San Juan de la Peña 30,160000,5,120
-Ático,Calle San Cristobal Ag. Badaguas 17,102500,1,55
+Ático,Calle San Cristobal Ag Badaguas 17,102500,1,55
 Piso,Calle Única 13,93500,1,52
 Casa Rural,mayor 6,96000,4,149
 Chalet,Avenida Ejea de los Caballeros 27,98000,5,173
@@ -1550,7 +1550,7 @@ Chalet,Calle Santos Lalueza 6,252100,5,450
 Chalet,Urbanización Luga de Castiello 8,330000,4,10
 Duplex,Avenida de Fernando el Católico 43,125000,1,48
 Chalet,Calle Horno 18,75000,5,186
-Chalet,Carretera Jaca - Pamplona 17 CtraJacaPamplonaKm,140000,3,50.000
+Chalet,Carretera Jaca - Pamplona 17 CtraJacaPamplonaKm,140000,3,50000
 Duplex,Calle de los Estudios 22,215000,3,113
 Piso,Calle Mirador del Valle 9,155000,3,119
 Casa Rural,medio 21,30000,6,160
@@ -1570,7 +1570,7 @@ Piso,Calle RECONQUISTA,165000,3,89
 Chalet,Calle Galán Bergua 17,710000,4,400
 Chalet,Calle Almacellas 28,260000,5,65
 Chalet,Bisaurri,690000,5,194
-Chalet,. s/n,249000,4,86
+Chalet, s/n,249000,4,86
 Piso,Calle Única 13,93500,1,52
 Piso,Calle Mayor,135000,3,79
 Piso,iglesia 15,179000,2,46
@@ -1581,7 +1581,7 @@ Piso,Calle Carretera 6,95000,2,68
 Chalet,Benasque,950000,5,360
 Casa Rural,UNICA LLAGUNAS s/n,189000,5,100
 Piso,Estada,48000,1,45
-Casa Rural,graus 12,870000,4,700.000
+Casa Rural,graus 12,870000,4,700000
 Chalet,Calle Nueva 6,24000,5,136
 Piso,Calle Peroneros 2,160000,3,108
 Piso,Calle San Juan de la Peña 1,104000,3,99
@@ -1606,7 +1606,7 @@ Piso,Camino de la Barca,154000,3,98
 Chalet,Calle Extramuros 3  B,160000,3,184
 Piso,Estada,48000,1,50
 Duplex,Calle els Pllans de Ansils 1 D,240000,4,142
-Casa Rural,graus 12,870000,4,700.000
+Casa Rural,graus 12,870000,4,700000
 Chalet,Calle a Sector 2 8,325000,4,129
 Duplex,N/A s/n NA,215000,3,81
 Casa Rural,Calle Castelnou 24,119000,3,87
@@ -1681,7 +1681,7 @@ Chalet,Salas Bajas,285000,3,85
 Piso,San José,123700,3,101
 Piso,Monzon,82000,3,89
 Estudio,Carretera de Rapitán,52000,0,32
-Casa Rural,Agüero,335000,5,2.250
+Casa Rural,Agüero,335000,5,2250
 Estudio,rapitan s/n,56000,0,36
 Piso,Plaza España,125000,4,138
 Chalet,mayor 27,26500,0,43
@@ -1691,8 +1691,8 @@ Chalet,Lascuarre,1650000,6,239
 Duplex,Calle Chapitel,249000,3,59
 Piso,Binéfar,116000,4,141
 Casa Rural,Plaza mayor 1,120000,6,120
-Piso,Calle Tenerías,69900,3,71.0
-Chalet,Calle Molino,200000,6,1.538
+Piso,Calle Tenerías,69900,3,710
+Chalet,Calle Molino,200000,6,1538
 Casa Rural,Avenida General Coll,53000,4,157
 Chalet,Peralta de Alcofea,95000,5,200
 Casa Rural,Calle Mayor Martes 23,14500,0,50
@@ -1714,29 +1714,29 @@ Piso,Camino de Aurín,39400,3,116
 Chalet,Calle San Lorenzo,40000,2,65
 Piso,Avenida CORONA DE ARAGÓN 35,132000,4,140
 Chalet,Calle La Fuente,79900,6,220
-Piso,Sto.Domingo y S.Martín,169500,4,9
+Piso,StoDomingo y SMartín,169500,4,9
 Piso,Calle Bellido,216000,3,80
 Piso,Calle Conde,29000,3,100
 Chalet,Calle Barranco,55500,5,177
 Piso,Calle de Serrablo,42000,3,87
 Piso,Calle Zocotín,570000,3,15
 Chalet,Alcampell,65000,3,83
-Piso,Calle Mayor Estiche,57400,3,147.00
+Piso,Calle Mayor Estiche,57400,3,14700
 Chalet,Calle Argensola,170000,10,438
 Casa Rural,fiscal,119000,2,85
 Chalet,Calle Castillo,17000,2,19
 Piso,Calle de Lepanto,32000,2,73
 Piso,Calle San Lorenzo 31,74900,2,50
-Piso,Calle Caballeros,27000,3,73.00
+Piso,Calle Caballeros,27000,3,7300
 Piso,Calle Fornillos,28000,3,95
 Piso,Calle Fornillos,28000,2,95
 Chalet,Calle de la Roqueta,93200,1,91
 Piso,Calle Conde,29000,3,117
 Chalet,Plaza de la Tallada 13,140000,6,292
 Chalet,Calle ESCUELAS PIAS,70000,5,197
-Piso,Calle Dr. Barraquer,62800,3,112
+Piso,Calle Dr Barraquer,62800,3,112
 Chalet,Calle San Lorenzo,40000,2,62
-Piso,Sto.Domingo y S.Martín,169500,4,9
+Piso,StoDomingo y SMartín,169500,4,9
 Piso,Calle Dos de Mayo,144000,3,106
 Piso,Calle Coli Escalona Leonardo,46000,3,00
 Piso,Casco Antiguo,228000,5,197
@@ -1767,7 +1767,7 @@ Casa Rural,Travesía SAN VALERO AG ENATE,37000,5,166
 Piso,Avenida Yebra de Basa 11,73000,1,39
 Piso,Sabiñanigo Centro-Aurín,195000,3,5
 Casa Rural,Calle medio 2,185000,6,228
-Casa Rural,Carretera EMBÚN s/n,240000,2,98.000
+Casa Rural,Carretera EMBÚN s/n,240000,2,98000
 Piso,Calle de la Universidad,168000,2,66
 Piso,Calle de Lepanto 17,47000,2,57
 Piso,Avenida Rio Vero,175000,3,131
@@ -1779,7 +1779,7 @@ Chalet,Calle Escuer 7,55000,2,60
 Casa Rural,Calle del Castillo 40,90000,6,210
 Casa Rural,Calle Luis Espada 8,67500,3,361
 Casa Rural,Calle San Pedro,85000,3,94
-Chalet,Calle Valencia Ag. Enate,35500,3,113
+Chalet,Calle Valencia Ag Enate,35500,3,113
 Casa Rural,Calle Miguel Servet,90000,4,146
 Piso,San Salvador s/n,140000,3,86
 Casa Rural,Calle UNICA s/n,55000,3,36

@@ -106,12 +106,12 @@ Duplex,Era Tor,490000,3,4
 Piso,Sudanell,94000,3,99
 Ático,Calle Carrèr Montcorbison 2,176500,2,73
 Chalet,Camino Beliera 4,700000,4,126
-Chalet,Carretera Ag. Garos 11,590000,5,176
+Chalet,Carretera Ag Garos 11,590000,5,176
 Piso,Calle del Comte de Vinatesa,115500,2,75
-Ático,Carrer Enginyer Antoni Llobet s/n,305000,4,4.000
-Piso,Carrer Enginyer Antoni Llobet s/n,256000,4,4.000
+Ático,Carrer Enginyer Antoni Llobet s/n,305000,4,400
+Piso,Carrer Enginyer Antoni Llobet s/n,256000,4,400
 Piso,Tredòs,605000,3,103
-Piso,Carrer Enginyer Antoni Llobet s/n,242000,3,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,242000,3,400
 Chalet,Avenida Catalunya,184900,8,392
 Duplex,Calle Residencial I 11,680000,4,148
 Piso,Camino de Pessola 5,475000,3,127
@@ -122,12 +122,12 @@ Chalet,Calle Placita Beret 2 A,2450000,19,647
 Piso,Calle Placita Beret 30,950000,5,198
 Chalet,Calle Placita Beret 2 A,2450000,19,647
 Piso,Calle Residencial I 6,660000,3,100
-Ag. Baqueira 1,936176444,Edifici Bonaigua,10,619
+Ag Baqueira 1,936176444,Edifici Bonaigua,10,619
 Piso,Camino de Pessola 5,475000,3,127
-Duplex,Lloc Cota 1. 700 107,650000,3,108
+Duplex,Lloc Cota 1 700 107,650000,3,108
 Chalet,Calle Segre,500000,4,167
 Chalet,Calle major s/n,890000,4,134
-Ag. Baqueira 1,936176444,Edifici Bonaigua,10,563
+Ag Baqueira 1,936176444,Edifici Bonaigua,10,563
 Chalet,Calle Plaus s/n,670000,3,92
 Duplex,Calle Residencial I 11,680000,4,121
 Chalet,Calle solsones,260000,6,260
@@ -176,7 +176,7 @@ Piso,ESTACIO 12,58000,3,96
 Duplex,DEL MONTSEC 7,191500,3,109
 Piso,VERGE DE MONTSERRAT 15,97000,3,100
 Piso,Mariola,83500,3,90
-Casa Rural,La Bordeta,730000,6,20.000
+Casa Rural,La Bordeta,730000,6,20000
 Piso,Mariola,81000,2,78
 Chalet,Rossello,147500,4,151
 Piso,Cappont,164000,2,73
@@ -188,7 +188,7 @@ Piso,Calle del Mestre Tàpies,120999,3,106
 Piso,Calle del Mestre Tàpies,129999,3,105
 Chalet,Calle Hont 14,675000,3,45
 Piso,Calle del Mestre Tàpies,170999,3,163
-Ag. Bagergue,873610977,Calle Lagoarto,10,487
+Ag Bagergue,873610977,Calle Lagoarto,10,487
 Piso,Calle Corts catalanes 21,165000,3,60
 Piso,Calle Manuel Gaya i Tomàs,175000,4,155
 Piso,Calle Corts catalanes 21,138000,3,88
@@ -197,9 +197,9 @@ Piso,Calle Corts catalanes 21,140000,3,107
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,166000,2,63
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,166000,2,65
 Piso,Instituts,230000,4,160
-Piso,Avgd. Garrigues,85000,4,108
+Piso,Avgd Garrigues,85000,4,108
 Chalet,Calle l'Obaga,54000,4,131
-Piso,Avgd. Garrigues,85000,4,108
+Piso,Avgd Garrigues,85000,4,108
 Piso,Paseo d'urgell,85000,2,75
 Piso,Sudanell,95000,3,80
 Chalet,Calle Carrèr Sant Antòni 3,525000,3,102
@@ -294,7 +294,7 @@ Chalet,Calle san Agustin Arro 16,430000,5,230
 Ático,Esterri d'Aneu,160000,2,62
 Duplex,Calle residencial 1,680000,4,132
 Piso,Baqueira,300000,1,55
-Ag.baqueira 26,873610901,Calle Placita Beret,10,505
+Agbaqueira 26,873610901,Calle Placita Beret,10,505
 Chalet,Les Borges Blanques,196000,15,465
 Chalet,Vielha,475000,4,148
 Piso,Cappont,200450,3,80
@@ -310,7 +310,7 @@ Piso,Balafia,79500,3,98
 Piso,Camp d'Esports,194700,3,25
 Chalet,sant isidre 47,220000,3,90
 Piso,Alcoletge,90000,2,62
-Ag. Baqueira 47,873610272,Calle Pla Beret,10,547
+Ag Baqueira 47,873610272,Calle Pla Beret,10,547
 Chalet,Calle Carrèr Sant Nicolau 4,550000,6,241
 Duplex,Passatge Pompeu,250000,3,82
 Piso,Calle Agustins,160000,3,99
@@ -321,7 +321,7 @@ Chalet,Calle de Piedat 16,450000,5,260
 Chalet,Calle Carrèr des Arroquets 25,990000,7,258
 Chalet,Urbanitzacio Pleta de Garos 9,1350000,5,169
 Duplex,Perimetrau S/N s/n,575000,3,88
-Chalet,Calle de San Jaime s/n,1000000,14,1.000
+Chalet,Calle de San Jaime s/n,1000000,14,1000
 Chalet,Ramon Escuer,240000,2,700
 Piso,Abat Oliba,129000,3,104
 Piso,Calle Perimetrau s/n,500000,3,106
@@ -332,7 +332,7 @@ Chalet,Calle Carrèr des Maries 20,470000,5,250
 Duplex,Carretera Montgarri s/n,895000,3,98
 Chalet,Avenida Sant Isidre,175000,6,103
 Piso,Carretera Montgarri s/n,370000,2,69
-Casa Rural,Calle Carrèr Sant Esteve 31,1050000,6,3.000
+Casa Rural,Calle Carrèr Sant Esteve 31,1050000,6,3000
 Chalet,Carretera de tahull,250000,12,457
 Piso,Calle del Bruc 9,148000,4,149
 Piso,XAVIER PUIG ANDREU,140000,4,123
@@ -377,7 +377,7 @@ Chalet,Soriguera,275000,7,259
 Chalet,Calle Carrèr Sarriulèra,1100000,5,40
 Chalet,MIRASOL 8,700000,5,196
 Chalet,Alpicat,256000,4,120
-Chalet,Carretera 230 km 171,795000,10,10.000
+Chalet,Carretera 230 km 171,795000,10,10000
 Piso,Centre Històric,148000,4,135
 Casa Rural,Magraners,55000,1,58
 Duplex,Calle Pas d'Arro,350000,3,120
@@ -420,7 +420,7 @@ Casa Rural,LA GRANADELLA,59000,0,20
 Chalet,Camino Bellera,590000,4,149
 Piso,Cappont,144775,3,87
 Piso,Calle Indústria,48000,2,76
-Ag. Arties,873610901,Calle Estupe,10,553
+Ag Arties,873610901,Calle Estupe,10,553
 Estudio,palla 5,110000,0,44
 Chalet,Calle del pla s/n,289000,4,290
 Piso,Torrefarrera,158000,4,80
@@ -465,7 +465,7 @@ Casa Rural,LA IGLESIA,42000,3,8
 Piso,Calle Major,80000,1,48
 Chalet,Calle Ponent,195000,3,105
 Chalet,Calle Placita Beret,990000,7,284
-Piso,Avgd. Blondel,370000,3,80
+Piso,Avgd Blondel,370000,3,80
 Piso,Germans Izquierdo,92000,3,125
 Chalet,CL FIRAL PERE III,84500,4,148
 Chalet,cinto verdaguer 14,165000,4,460
@@ -527,7 +527,7 @@ Chalet,Major 61,100000,0,106
 Piso,Avenida de Pius XII,120000,4,139
 Piso,Travesía Alfred Perenya,90000,4,155
 Duplex,Calle Trauèssa Major 9,250000,4,157
-Chalet,Tárrega,365000,12,1.200
+Chalet,Tárrega,365000,12,1200
 Casa Rural,Bausen,110000,1,87
 Piso,Baqueira,355000,2,67
 Piso,Vielha,449500,5,173
@@ -588,7 +588,7 @@ Piso,Avenida Onze de Setembre,98000,2,69
 Piso,Plaza Sant Jaume,91000,2,64
 Piso,Cappont,245000,4,133
 Chalet,Les,185000,4,138
-Chalet,Calle de Teix-ur S. M,90000,4,400
+Chalet,Calle de Teix-ur S M,90000,4,400
 Casa Rural,Calle Carrèr Sant Esteve 19,260000,6,173
 Chalet,Via sense nom,147000,5,178
 Chalet,Calle Sardana,62900,4,128
@@ -651,7 +651,7 @@ Piso,Calle Acadèmia,109900,2,78
 Chalet,Calle de Lleida,108900,4,128
 Piso,Calle Sant Gil,84900,1,60
 Chalet,Calle Sant Isidre,89500,3,109
-Chalet,Alás i Cerc,1585000,5,15.000
+Chalet,Alás i Cerc,1585000,5,15000
 Casa Rural,Calle Carrèr des Arroquets 2,300000,2,105
 Chalet,SASCUMES,600000,4,260
 Casa Rural,Calle del Pont 7,160000,2,71
@@ -669,7 +669,7 @@ Casa Rural,Casau,400000,5,190
 Casa Rural,Bausen,490000,5,184
 Casa Rural,Alpicat,43500,1,43
 Chalet,Baqueira,2400000,5,199
-Casa Rural,Torres de Segre,106000,3,1.594
+Casa Rural,Torres de Segre,106000,3,1594
 Piso,PICASSO 4,155000,2,30
 Casa Rural,Cappont,220000,7,1123
 Piso,Avenida Prat de la Riba,235000,6,230
@@ -700,7 +700,7 @@ Chalet,Salardú,600000,4,152
 Piso,Vielha,280000,2,61
 Chalet,Alpicat,225000,2,78
 Duplex,Salardú,640000,3,126
-Chalet,Les,800000,5,10.000
+Chalet,Les,800000,5,10000
 Duplex,Vielha,430000,4,107
 Duplex,Betren,280000,4,134
 Chalet,Vielha,1600000,8,106
@@ -782,7 +782,7 @@ Chalet,Balaguer,690000,6,474
 Piso,RIU EBRE,98000,3,87
 Piso,Alcarrás,77000,4,131
 Piso,Calle de la Ciutadella,93000,3,108
-Chalet,Alás i Cerc,1585000,5,15.000
+Chalet,Alás i Cerc,1585000,5,15000
 Chalet,Avenida Anselm Clavé,170000,1,51
 Piso,Avenguda deth Pas d'Arró 52,350000,3,190
 Piso,Calle Carrèr Major 16 -26,480000,3,80
@@ -827,7 +827,7 @@ Piso,Carrer de l'Enginyer Santi Companys,223000,4,125
 Chalet,Plaza Major Osso de Sio,100000,3,116
 Chalet,de les Eres,139900,5,165
 Chalet,Arrós,206800,3,99
-Chalet,Alás i Cerc,1585000,5,15.000
+Chalet,Alás i Cerc,1585000,5,15000
 Duplex,Calle Baró de Maials 42,259000,4,50
 Piso,Calle Bonaire 14,265000,4,121
 Piso,Baqueira,190000,1,46
@@ -892,7 +892,7 @@ Piso,Calle García Lorca,105000,3,100
 Piso,Calle de l'anselm clavé 33,72000,2,72
 Chalet,Vila,740000,4,1654
 Ático,Calle Alfred Perenya 40,95000,1,45
-ag. Durro 10,873610057,Calle Sant Antoni,10,430
+ag Durro 10,873610057,Calle Sant Antoni,10,430
 Chalet,Puigverd de Lleida,295000,4,130
 Piso,Paseo de l'Onze de Setembre,158500,4,133
 Piso,Avenida del Doctor Fleming,170000,4,123
@@ -1134,7 +1134,7 @@ Chalet,ARQUITECTE VILLALONGA 2,440000,4,141
 Chalet,Calle Major,165000,8,390
 Piso,Avenida MARIMUNT 2,317000,3,118
 Piso,Princep de Viana-Clot,180000,3,102
-Chalet,Calle Plaus Ag. Arties,850000,6,234
+Chalet,Calle Plaus Ag Arties,850000,6,234
 Chalet,Albatárrec,179000,4,64
 Piso,Rambla de Ferran - Estaciò,186000,5,190
 Chalet,Balafia,245000,3,87
@@ -1169,9 +1169,9 @@ Chalet,N-141a,201000,5,166
 Piso,Camino de Picos,130000,2,76
 Chalet,Calle Riu 22,49000,5,190
 Chalet,Conca de Dalt,132000,4,159
-Chalet,Torrefarrera,271000,3,5.300
+Chalet,Torrefarrera,271000,3,5300
 Duplex,Balafia,165000,4,15
-Piso,Calle Algerri 36 -24,37100,1,53.84
+Piso,Calle Algerri 36 -24,37100,1,5384
 Piso,Paseo de l'Onze de Setembre 131,116500,3,88
 Chalet,Rossello,180000,3,93
 Piso,julio cesar,140000,4,129
@@ -1191,7 +1191,7 @@ Piso,Balafia,98000,1,55
 Piso,Instituts,88000,3,93
 Piso,Calle dels Canonges,125000,2,80
 Duplex,Calle dels Canonges,215000,3,96
-Chalet,Solsona,1500000,6,60.000
+Chalet,Solsona,1500000,6,60000
 Piso,Calle Vall d'Aran,126000,3,107
 Piso,Carrer de Ramon Llull,51800,2,60
 Chalet,Calle Castell,22900,1,53
@@ -1206,12 +1206,12 @@ Piso,Vielha,165000,1,59
 Piso,Vielha,350000,3,114
 Chalet,Almenar,310000,4,155
 Chalet,Cervera,245000,4,173
-Casa Rural,Gualda,225000,3,2.047
+Casa Rural,Gualda,225000,3,2047
 Chalet,UNIC 2,200000,4,427
 Piso,Baqueira,115000,1,23
 Chalet,Plaza Santa Magdalena,160000,3,119
 Piso,Avenida de Marímunt,100000,3,88
-Casa Rural,figols i alinyà s/n,600000,0,30.000
+Casa Rural,figols i alinyà s/n,600000,0,30000
 Casa Rural,Carretera de Ponts,19000,2,74
 Piso,Calle Sant Josep Calasanç,230000,3,111
 Piso,Calle de Vilaller,132000,2,76
@@ -1229,37 +1229,37 @@ Duplex,Calle Sobernedo s/n,935000,6,300
 Piso,Calle Sobernedo s/n,440000,4,300
 Piso,Calle Sobernedo s/n,235000,1,300
 Duplex,Calle Sobernedo s/n,535000,4,300
-Chalet,Calle Narcís Monturiol 7-11 esq. Calle La Plana 67,453000,5,177
+Chalet,Calle Narcís Monturiol 7-11 esq Calle La Plana 67,453000,5,177
 Chalet,Camino Pessola AG Bagergue s/n,1365000,6,206
-Chalet,Calle Narcís Monturiol 7-11 esq. Calle La Plana 67,390000,5,195
+Chalet,Calle Narcís Monturiol 7-11 esq Calle La Plana 67,390000,5,195
 Chalet,Camino Pessola AG Bagergue s/n,1420000,6,235
-Chalet,Calle Narcís Monturiol 7-11 esq. Calle La Plana 67,368000,5,172
-Chalet,Calle Narcís Monturiol 7-11 esq. Calle La Plana 67,370000,5,174
-Chalet,Calle Narcís Monturiol 7-11 esq. Calle La Plana 67,399000,5,169
+Chalet,Calle Narcís Monturiol 7-11 esq Calle La Plana 67,368000,5,172
+Chalet,Calle Narcís Monturiol 7-11 esq Calle La Plana 67,370000,5,174
+Chalet,Calle Narcís Monturiol 7-11 esq Calle La Plana 67,399000,5,169
 Chalet,Camino Pessola AG Bagergue s/n,1495000,6,216
 Chalet,Goya,150000,6,96
 Piso,Calle Montsec,53000,2,70
-Piso,Carrer Enginyer Antoni Llobet s/n,220000,4,4.000
-Piso,Carrer Enginyer Antoni Llobet s/n,323000,4,4.000
-Piso,Carrer Enginyer Antoni Llobet s/n,188000,3,4.000
-Piso,Carrer Enginyer Antoni Llobet s/n,212000,4,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,220000,4,4000
+Piso,Carrer Enginyer Antoni Llobet s/n,323000,4,4000
+Piso,Carrer Enginyer Antoni Llobet s/n,188000,3,4000
+Piso,Carrer Enginyer Antoni Llobet s/n,212000,4,4000
 Piso,Calle Mossèn Solé,87000,2,93
 Piso,Princep de Viana-Clot,75000,3,89
-Piso,Carrer Enginyer Antoni Llobet s/n,213000,4,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,213000,4,4000
 Piso,Calle Agustins 17,189000,3,111
-Chalet,Riner,695000,8,6.400
-Piso,Carrer Enginyer Antoni Llobet s/n,315000,4,4.000
-Piso,Carrer Enginyer Antoni Llobet s/n,194000,3,4.000
+Chalet,Riner,695000,8,6400
+Piso,Carrer Enginyer Antoni Llobet s/n,315000,4,4000
+Piso,Carrer Enginyer Antoni Llobet s/n,194000,3,4000
 Casa Rural,Calle de Sant Jaume,77900,3,129
-Piso,Carrer Enginyer Antoni Llobet s/n,258000,3,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,258000,3,4000
 Chalet,Calle Cervantes Saavedra,265000,6,250
-Piso,Carrer Enginyer Antoni Llobet s/n,171100,2,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,171100,2,4000
 Chalet,Calle de Sant Joan,46000,4,148
 Casa Rural,Avenida de Cataluña,108000,4,65
 Duplex,Calle Jeroni Pujades 23,240000,3,109
 Casa Rural,Calle de les eres 1,35000,5,544
 Piso,Carretera de las Pistas 7,150000,2,8
-Casa Rural,Lloc Montargull,175000,9,23.538
+Casa Rural,Lloc Montargull,175000,9,23538
 Casa Rural,Calle Estac,84900,3,112
 Chalet,Calle Raval,152900,4,124
 Casa Rural,Calle de la Diputació,244900,5,47
@@ -1357,14 +1357,14 @@ Duplex,Calle de Peguera,199000,3,84
 Chalet,877260997,major,164600,50
 Piso,Calle de Gregorio Marañón,69900,3,107
 Chalet,C-1412b,459900,3,93
-ag. Roni,873610594,Calle Major,10,617
+ag Roni,873610594,Calle Major,10,617
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,171000,2,70
 Chalet,Calle la Costa,49890,3,102
 Piso,Calle del Sant Crist,119000,4,131
 Piso,Calle Estació,99000,3,93
 Duplex,Calle les Escoles,84900,3,120
 Chalet,Calle Única,98990,3,100
-Casa Rural,Via sense nom,199500,10,3.500
+Casa Rural,Via sense nom,199500,10,3500
 Chalet,Calle CANAL 10,170000,4,100
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,171000,2,80
 Chalet,877260997,major,164600,50
@@ -1389,7 +1389,7 @@ Piso,Carrer de Manuel Carrasco i Formiguera s/n,170000,2,73
 Piso,Calle Riquer,299000,5,190
 Piso,Rambla de Ferran,199000,5,164
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,195000,3,85
-ag. Roni,873610594,Calle Major,10,418
+ag Roni,873610594,Calle Major,10,418
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,190000,3,97
 Piso,Calle d'Aragó,66990,4,145
 Piso,Carrer de Manuel Carrasco i Formiguera s/n,176000,2,65
@@ -1451,19 +1451,19 @@ Piso,Avenida de Balmes,155500,4,153
 Piso,Avenida Jaume Nadal,37500,3,102
 Casa Rural,LA GRANJA,44500,4,112
 Piso,Avenida de les Garrigues,168000,3,87
-Chalet,pla d'urgell,100000,4,15.00
-Piso,vila antonia,159000,5,160.00
+Chalet,pla d'urgell,100000,4,1500
+Piso,vila antonia,159000,5,16000
 Chalet,garrigues,295000,7,475
-Piso,Calle Major,103000,4,229.45
+Piso,Calle Major,103000,4,22945
 Casa Rural,Calle Major,74000,7,272
 Piso,Calle Segrià,65000,3,95
-Duplex,Calle Sant Semilh,260000,1,145.49
+Duplex,Calle Sant Semilh,260000,1,14549
 Piso,cavallers,80000,5,5
 Duplex,Calle Torres de Sanui s/n,215000,3,125
 Chalet,LLEIDA,120000,6,50
 Chalet,Baqueira,1550000,6,400
 Duplex,Avenida Fontanet 101,265000,4,132
-Piso,Carrer Enginyer Antoni Llobet s/n,176700,2,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,176700,2,4000
 Chalet,Vinyes d'Alt,279000,4,580
 Piso,Paseo de Ronda,239000,5,189
 Ático,Calle Joc de la Bola,1200000,3,360
@@ -1472,7 +1472,7 @@ Piso,Avenida Fontanet 101,215000,4,155
 Piso,Calle Enric Farreny 9,345000,4,153
 Casa Rural,Calle Jacint Verdaguer,290000,3,241
 Piso,Avenida Fontanet 101,260000,4,129
-Piso,Carrer Enginyer Antoni Llobet s/n,174000,2,4.000
+Piso,Carrer Enginyer Antoni Llobet s/n,174000,2,4000
 Chalet,Calle Carrèr Sant Quirgo 7,330000,8,370
 Piso,Rambla Ferran,127000,1,50
 Piso,Joan Maragall,105000,4,108
@@ -1488,7 +1488,7 @@ Duplex,Ronda Sud 11,155000,4,147
 Piso,Ronda Sud 11,110000,3,100
 Piso,Calle Enric Farreny 9,475000,4,156
 Duplex,Ronda Sud 11,165000,4,138
-Ático,Av. de la Fira,310000,3,87
+Ático,Av de la Fira,310000,3,87
 Duplex,Ronda Sud 11,165000,4,130
 Piso,Arco DEL PONT 2,180000,2,74
 Chalet,Tárrega,311056,4,125
@@ -1540,7 +1540,7 @@ Chalet,Mollerussa,279000,4,100
 Chalet,Guissona,225000,4,35
 Chalet,MAJOR 29,46500,3,83
 Chalet,La Coma i la Pedra,240000,3,144
-Casa Rural,partida Rufes s/n,120000,2,44.100
+Casa Rural,partida Rufes s/n,120000,2,44100
 Duplex,Calle Picasso,259000,4,182
 Casa Rural,Nou,1100000,8,493
 Ático,Calle Perimetrau 4,575000,3,115
@@ -1568,7 +1568,7 @@ Piso,Carrer Nou,78831,3,94
 Duplex,Plaza de la Reguereta 3,235000,5,210
 Chalet,Alpicat,389000,4,121
 Chalet,Calle Baró d'Eroles,45900,3,99
-Casa Rural,Agregat Sapeira,66990,1,25.825
+Casa Rural,Agregat Sapeira,66990,1,25825
 Piso,Avenida de les Garrigues 84,120000,3,120
 Chalet,Juneda,170000,2,283
 Piso,Paseo de l'Onze de Setembre 127,121000,4,155
@@ -1634,12 +1634,12 @@ Piso,c/sant josep de calassanç 12,300000,3,73
 Chalet,Calle Mayor,155000,5,222
 Piso,Calle Costa dels Magraners,77615,3,95
 Piso,Francesc Macià,115000,2,59
-Chalet,Dr. Combelles,350000,4,135
+Chalet,Dr Combelles,350000,4,135
 Piso,Calle de Jaume Balmes,75000,2,65
 Piso,Calle Botera,58000,3,94
 Chalet,Secà de San Pere Lleida,185000,3,82
-Casa Rural,Planes,215000,2,23.271
-Casa Rural,Planes,215000,2,23.271
+Casa Rural,Planes,215000,2,23271
+Casa Rural,Planes,215000,2,23271
 Piso,Calle Venus,83600,3,82
 Chalet,Ramón Carnicer,118000,4,398
 Chalet,c/sau s/n,325000,5,386
@@ -1686,7 +1686,7 @@ Chalet,Avenida de Lleida,255000,5,360
 Chalet,Major agregado de gausach 59,420000,5,13
 Casa Rural,Unic Baro s/n,530000,7,259
 Chalet,Pou del gel,73000,3,173
-Chalet,AV. LLEIDA 86,420000,6,1.000
+Chalet,AV LLEIDA 86,420000,6,1000
 Duplex,Calle d'Ausiàs March 1,186000,4,128
 Chalet,Plaza Església,180000,2,70
 Ático,Roger de Llúria 35,85000,2,76
@@ -1715,7 +1715,7 @@ Piso,Lluís Companys 21,110000,3,94
 Duplex,Lleida 7,147900,5,35
 Chalet,Plaza Mancomunitat 1,95000,3,186
 Chalet,Calle President Tarradellas 15,179000,4,133
-Casa Rural,BALASCH. ISONA I CONCA DELLA s/n,230000,5,164
+Casa Rural,BALASCH ISONA I CONCA DELLA s/n,230000,5,164
 Piso,Carrer Tamarit de Llitera,77330,2,75
 Piso,Alcarrás,105100,3,102
 Duplex,Carretera RAVAL DE LA 40,285000,4,159
@@ -1732,9 +1732,9 @@ Chalet,Calle President Tarradellas 17,165000,4,50
 Duplex,Avenida Lleida 7 i 8,109900,3,25
 Chalet,Calle sant josep,240000,6,230
 Chalet,Calle Partida Saset 1,182000,4,225
-Chalet,Calle Unica,260000,4,3.600
+Chalet,Calle Unica,260000,4,3600
 Piso,Plaza Ramon Berenguer IV 6,218000,4,160
-Casa Rural,BALASCH. ISONA I CONCA DELLA s/n,230000,5,194
+Casa Rural,BALASCH ISONA I CONCA DELLA s/n,230000,5,194
 Piso,Calle de la Comtessa Dolça 5,99300,3,117
 Chalet,Paseo vall 25,210000,7,266
 Piso,Calle Orient 12,220000,3,25
@@ -1750,7 +1750,7 @@ Piso,Avinguda Francesc Macià 43 -45,150000,2,78
 Piso,Avinguda Francesc Macià 43 -45,175000,3,86
 Piso,Avinguda Francesc Macià 43 -45,250000,3,118
 Chalet,Calle Carrèr Sant Miqueu 9,280000,4,140
-Casa Rural,Riner,1500000,10,13.000
+Casa Rural,Riner,1500000,10,13000
 Piso,Avinguda Francesc Macià 43 -45,260000,4,153
 Casa Rural,Artesa de Segre,340000,6,230
 Duplex,LP-4033a,339000,2,24
@@ -1758,7 +1758,6 @@ Piso,Avinguda Francesc Macià 43 -45,245000,3,106
 Casa Rural,Bellvis,199900,5,753
 Duplex,Sant Guim de Freixenet,89900,2,73
 Piso,Camino de Picos,225000,4,138
-Piso,"63 m2 útiles distribuidos en salón cocina equipada 2 dormitorios 1 baño y galería. Cuenta con suelo de tarima flotante aire acondicionado con bomba de calor y calefacción. Se encuentra en buen estado de mantenimiento.   Inviertis es un marketplace para inversores inmobiliarios donde encontrar conocimientos y herramientas para comprar propiedades rentables que ya están alquiladas. Los inversores inmobiliarios pueden acceder a viviendas que tienen inquilinos en un proceso de fricción sin problemas y en línea y comprar una propiedad como si fuera un activo financiero. El comprador tiene acceso a una herramienta financiera desde donde encontrar el ROI las rentabilidades descargar todo el documento y los datos. Inviertis ayuda de esta manera a los pequeños y medianos inversores a la vez que ayuda a los inquilinos a conservar sus viviendas. Infórmate más en Inviertispro. com La información proporcionada en tiene diversas fuentes entre ellas organismos oficiales o el propietario del inmueble con lo que a veces puede no ser del todo correcta o exacta. Inviertis no se hace legalmente responsable de los errores o inexactitudes que puedan existir por favor consulta con uno de nuestros agentes para más información.""",936171844,10,481
 Piso,Camino de Picos,225000,4,132
  52,873610997,NOSTRA SENYORA DE MONTSERRAT,52,630
 Chalet,Térmens,60000,2,256
@@ -1771,10 +1770,9 @@ Duplex,Sant Guim de Freixenet,89900,2,79
 Piso,Calle del Nord lleida,89000,3,89
 Piso,Camino de Picos,225000,4,154
 Duplex,LP-4033a,417000,3,64
-Chalet,Calle Major,103000,3,229.45
+Chalet,Calle Major,103000,3,22945
 Chalet,Carretera Vall,320000,4,130
 Casa Rural,Calle Buida-Sacs,64000,3,86
-Piso,"63 m2 útiles distribuidos en salón cocina equipada 2 dormitorios 1 baño y galería. Cuenta con suelo de tarima flotante aire acondicionado con bomba de calor y calefacción. Se encuentra en buen estado de mantenimiento.   Inviertis es un marketplace para inversores inmobiliarios donde encontrar conocimientos y herramientas para comprar propiedades rentables que ya están alquiladas. Los inversores inmobiliarios pueden acceder a viviendas que tienen inquilinos en un proceso de fricción sin problemas y en línea y comprar una propiedad como si fuera un activo financiero. El comprador tiene acceso a una herramienta financiera desde donde encontrar el ROI las rentabilidades descargar todo el documento y los datos. Inviertis ayuda de esta manera a los pequeños y medianos inversores a la vez que ayuda a los inquilinos a conservar sus viviendas. Infórmate más en Inviertispro. com La información proporcionada en tiene diversas fuentes entre ellas organismos oficiales o el propietario del inmueble con lo que a veces puede no ser del todo correcta o exacta. Inviertis no se hace legalmente responsable de los errores o inexactitudes que puedan existir por favor consulta con uno de nuestros agentes para más información.""",936171844,10,576
 Chalet,font s/n,350000,4,124
 Piso,A-2,32000,3,105
 Ático,Calle Mariola 12,100000,4,141

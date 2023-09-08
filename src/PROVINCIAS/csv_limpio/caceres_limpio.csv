@@ -65,7 +65,7 @@ Chalet,Torrejon el Rubio,3000000,4,600
 Piso,Ronda del Salvador,82000,2,71
 Piso,Avenida Federico García Lorca 12,147900,3,104
 Casa Rural,Bohonal de Ibor,100000,5,195
-Piso,Zona Sur-Av. de España-San Miguel,75000,3,93
+Piso,Zona Sur-Av de España-San Miguel,75000,3,93
 Chalet,Madroñera,550000,12,468
 Chalet,Casas de Don Gomez,55500,2,65
 Piso,Avenida de la Vera,120000,3,116
@@ -93,7 +93,7 @@ Casa Rural,Jarandilla de la Vera,1100000,9,475
 Piso,Avenida de Alemania,220000,2,123
 Chalet,Calle Federico Mayor Zaragoza,180000,4,201
 Piso,Plaza de Islandia,167000,3,115
-Piso,Avenida Virgen de la Montaña,205000,4,22.17
+Piso,Avenida Virgen de la Montaña,205000,4,2217
 Piso,Avenida Virgen de la Montaña,205000,4,122
 Chalet,Calle Alcor del Roble,450000,4,1000
 Casa Rural,Jarandilla de la Vera,1100000,9,475
@@ -113,7 +113,7 @@ Piso,Avenida del Valle,135000,3,110
 Casa Rural,Las ollas s/n,630000,3,103
 Chalet,Calle del Salvador,115000,3,114
 Chalet,Calle San Fernando,97990,4,251
-Chalet,La Narota,150000,3,3.000
+Chalet,La Narota,150000,3,3000
 Duplex,Calle Alonso Hipólito,165000,4,180
 Piso,Camino MOZARABE,190000,3,93
 Duplex,GARCÍA PLATA DE OSMA,265000,5,172
@@ -140,13 +140,13 @@ Chalet,Plaza de españa,298000,4,134
 Chalet,Calle Tolerancia,157000,4,25
 Casa Rural,Herguijuela,750000,5,500
 Piso,Calle Manuel Revilla Castán,124000,4,127
-Piso,Miralvalle-Av. Virgen del Puerto-La Data,69000,4,127
+Piso,Miralvalle-Av Virgen del Puerto-La Data,69000,4,127
 Chalet,Calle José Canalejas,230000,4,138
 Piso,Montehermoso,85000,4,50
 Casa Rural,Trujillo,2100000,7,20
 Piso,Calle Pedro de Lorenzo s/n,75000,4,142
 Piso,hernan cortes 7,87000,3,120
-Piso,Miralvalle-Av. Virgen del Puerto-La Data,149500,4,122
+Piso,Miralvalle-Av Virgen del Puerto-La Data,149500,4,122
 Chalet,Casco Antiguo,139000,5,199
 Piso,Calle Santa Lucia,55000,3,93
 Piso,Calle DIEGO MARIA CREHUET,159000,2,79
@@ -168,7 +168,7 @@ Chalet,Trujillo,2100000,7,5
 Piso,Centro Ciudad,149000,4,135
 Piso,Calle Piornal,80000,3,84
 Piso,MARGALLO,70000,2,79
-Casa Rural,Cuacos de Yuste,690000,11,13.000
+Casa Rural,Cuacos de Yuste,690000,11,13000
 Casa Rural,Torremenga,890000,14,605
 Piso,TRANSHUMANCIA,225000,3,95
 Piso,Centro,210000,3,83
@@ -176,7 +176,7 @@ Piso,Avenida de Alemania 4,215000,5,163
 Casa Rural,Carretera de Conquista a Garciaz s/n,420000,4,153
 Chalet,Campus Universitario,160000,3,83
 Chalet,Plaza Alcalde Antonio Canales,190000,6,230
-Chalet,Centro Ciudad,360000,6,4.000
+Chalet,Centro Ciudad,360000,6,4000
 Piso,Calle Argentina,145000,2,79
 Piso,Ronda Sur,95000,3,80
 Piso,Calle Periodista Sánchez Asensio,159000,2,69
@@ -202,7 +202,7 @@ Chalet,Montesol - Mejostilla,264000,3,218
 Chalet,Sierra de Fuentes,380000,6,489
 Ático,Aguas Vivas - La Zambomba,228000,3,117
 Piso,Calle San Pedro de Alcántara,330000,5,190
-Chalet,Zona Sur-Av. de España-San Miguel,198000,3,81
+Chalet,Zona Sur-Av de España-San Miguel,198000,3,81
 Piso,Avenida de Hernán Cortés,103000,2,63
 Piso,Calle Julián Murillo,129000,3,95
 Piso,La Granja,69900,2,77
@@ -226,23 +226,23 @@ Piso,Calle Pedro de Lorenzo,85000,4,105
 Piso,Avenida de la Vera,79000,3,79
 Piso,Montesol - Mejostilla,185000,4,133
 Piso,Casco Antiguo,130000,5,187
-Piso,Zona Sur-Av. de España-San Miguel,87000,4,158
+Piso,Zona Sur-Av de España-San Miguel,87000,4,158
 Piso,Calle Navaconcejo,69000,4,100
 Piso,Calle de Maluquer,100000,3,114
 Piso,damas,62000,2,70
 Piso,Calle Flor 5,24900,3,110
 Piso,Centro,90000,3,101
-Casa Rural,Paraje Piurruyo s/n,185000,3,2.318
+Casa Rural,Paraje Piurruyo s/n,185000,3,2318
 Casa Rural,Parajes Las Planas s/n,550000,4,180
 Casa Rural,DISEMINADO s/n,3000000,14,662
 Casa Rural,Paraje las planas s/n,690000,7,686
 Ático,Calle Arroyo los castaños s/n,60000,1,35
-Casa Rural,Diseminado Robledillo 1,335000,3,7.628
+Casa Rural,Diseminado Robledillo 1,335000,3,7628
 Chalet,Avenida DE LA VERA 45,79800,3,85
 Casa Rural,Calle Horno s/n,150000,6,93
 Chalet,Plaza Santa Ana s/n,135000,3,180
 Chalet,LAS LANCHAS 1,400000,7,299
-Casa Rural,Diseminado los Jaritales,345000,3,15.092
+Casa Rural,Diseminado los Jaritales,345000,3,15092
 Casa Rural,Carretera Aldea Tudal,980000,3,250
 Chalet,URBANIZACIÓN LAS SOLANAS,320000,4,156
 Casa Rural,Carretera DE LA VEGA DEL NIÑO,1680000,10,890
@@ -251,19 +251,19 @@ Piso,Sur,170000,3,113
 Chalet,Calle del Agua,349000,5,1083
 Chalet,Calle las Grullas,260000,4,180
 Piso,Centro Ciudad,92000,2,90
-Chalet,Urbanización las Solanas s/n,390000,3,1.452
+Chalet,Urbanización las Solanas s/n,390000,3,1452
 Chalet,Calle Pajonal Alto 10,136000,4,66
-Casa Rural,Cl. Santiago 69,65000,3,74
+Casa Rural,Cl Santiago 69,65000,3,74
 Casa Rural,Calle Parra,85000,7,288
 Piso,Centro Ciudad,150000,5,171
 Piso,Calle Andrés Valiente Valiente s/n,85000,4,90
 Chalet,Serradilla,260000,4,365
-Chalet,Zona Sur-Av. de España-San Miguel,479000,4,16.558
+Chalet,Zona Sur-Av de España-San Miguel,479000,4,16558
 Chalet,Hervas,415000,4,155
 Chalet,Barriada las Eras Bloque,63000,3,92
 Chalet,virgen del pilar,145000,4,38
 Chalet,Hervas,250000,7,270
-Casa Rural,Camino VALCAMELLO,75000,1,9.721
+Casa Rural,Camino VALCAMELLO,75000,1,9721
 Piso,Plaza del Convento 3,64995,3,83
 Ático,Calle Argentina,171000,4,124
 Piso,Calle Pedro Romero Mendoza,120000,3,112
@@ -288,7 +288,7 @@ Estudio,Casco Antiguo,72000,0,42
 Chalet,Avenida España 2 D,135000,2,60
 Piso,Sur,192000,4,145
 Piso,Casco Antiguo,100000,3,89
-Piso,Avenida Virgen de Argeme 33,78000,3,22.92
+Piso,Avenida Virgen de Argeme 33,78000,3,2292
 Piso,Calle Peñas del Tinte 1,69900,3,110
 Chalet,Casco Antiguo,300000,14,700
 Piso,Calle isabel la catolica s/n,30144,3,65
@@ -296,7 +296,7 @@ Piso,Avenida de la Vera,115000,3,0
 Piso,Centro,180000,3,97
 Piso,Hervas,82000,3,81
 Casa Rural,Calle Los Olivos s/n,60000,3,56
-Piso,Avenida Virgen de Argeme 35 -27,74000,3,99.26
+Piso,Avenida Virgen de Argeme 35 -27,74000,3,9926
 Piso,Campus Universitario,165000,3,104
 Casa Rural,Plaza DE ESPAÑA s/n,45000,4,129
 Chalet,Villanueva de la Vera,43000,2,69
@@ -308,7 +308,7 @@ Piso,Avenida GABRIEL Y GALAN,85000,4,150
 Chalet,Travesía buenavista,74900,3,195
 Chalet,Calle Constitución 67,29000,4,151
 Piso,Avenida de España 66,30000,3,83
-Chalet,Cabezuela del Valle,328000,3,28.000
+Chalet,Cabezuela del Valle,328000,3,28000
 Casa Rural,Valdelacasa de Tajo,65000,4,146
 Chalet,Zarza la Mayor,145000,4,137
 Chalet,Plaza DE ESPAÑA s/n,95000,3,106
@@ -354,9 +354,9 @@ Chalet,Calle Reducto,59000,6,65
 Chalet,Calle jacinto benavente 45,285000,5,183
 Chalet,Calle Los Castaños,240000,4,382
 Piso,Avenida Antonio Hurtado,162000,2,83
-Chalet,Calle la Merced 4,750000,9,1.865
+Chalet,Calle la Merced 4,750000,9,1865
 Piso,San José,84000,3,106
-Casa Rural,Camino rural Boguillas s/n,220000,2,17.265
+Casa Rural,Camino rural Boguillas s/n,220000,2,17265
 Chalet,Calle Juan Sebastián Bach 90,250000,5,163
 Chalet,Camino de buena vista,640000,5,450
 Piso,Avenida Río Tíber,36000,3,78
@@ -385,9 +385,9 @@ Piso,Avenida de la bondad,87000,3,110
 Casa Rural,EL TUDAL s/n,60000,2,67
 Chalet,Camino de Garganta la Olla 3,198000,5,182
 Chalet,Paraje las Planas 1,690000,7,686
-Chalet,Diseminado Data 1,196000,4,11.750
+Chalet,Diseminado Data 1,196000,4,11750
 Piso,Calle Profesor Rodríguez Moñino 3,169000,4,126
-Casa Rural,EL VINCULO,215000,4,10.300
+Casa Rural,EL VINCULO,215000,4,10300
 Piso,Calle Saturnino Martín Moreno s/n,70500,3,97
 Piso,Avenida Cañada Real,149500,4,157
 Piso,Calle Azahar s/n,86500,3,103
@@ -400,7 +400,7 @@ Chalet,Calle San Gregorio s/n,72000,3,107
 Piso,Avenida de la Hispanidad,115000,4,152
 Piso,Calle Huerta del Conde s/n,250400,4,155
 Piso,Calle Moraleja,98000,4,120
-Chalet,Calle Virgen de Guadalupe,152000,2,20.000
+Chalet,Calle Virgen de Guadalupe,152000,2,20000
 Ático,Calle Huerta del Conde s/n,387000,4,150
 Chalet,Calle Alcor del Roble 4 -18,299000,4,125
 Piso,Avenida Antonio Hurtado 24,185000,4,131
@@ -409,7 +409,7 @@ Chalet,Barriada Diputación 9 -23,110000,5,187
 Casa Rural,Calle de los Alemanes 10 12 14,785000,7,490
 Piso,Avenida de España,199000,4,147
 Chalet,Calle Santa Catalina 23,159000,4,129
-Casa Rural,VILLANUEVA DE LA VERA,220000,1,17.265
+Casa Rural,VILLANUEVA DE LA VERA,220000,1,17265
 Piso,Calle Barrio Nuevo 2,150000,4,170
 Piso,Calle del Faro,71000,3,117
 Chalet,Calle Cerro,38000,3,82
@@ -431,19 +431,19 @@ Chalet,Calle REBOLLAR 4,110000,3,82
 Chalet,Calle El Barrio s/n,80000,6,154
 Chalet,CRTA PLASENCIA s/n,298500,6,211
 Chalet,Calle Los Chopos s/n,315000,5,170
-Casa Rural,Paraje Majalardos s/n,135000,4,2.319
+Casa Rural,Paraje Majalardos s/n,135000,4,2319
 Casa Rural,paraje Robladillo s/n,24000,1,2002
 Casa Rural,paraje Juan Rasero s/n,790000,4,350
 Casa Rural,Carretera del Canal s/n,860000,4,250
-Chalet,Av. de la vera s/n,125000,2,162
+Chalet,Av de la vera s/n,125000,2,162
 Piso,Calle EL ROZO s/n,59900,2,63
 Casa Rural,Calle HORMANUEVAS s/n,83000,2,78
 Casa Rural,Calle Donoso cortes 29,25000,4,30
 Piso,Calle EL ROZO s/n,59900,2,63
-Chalet,Av. de la vera s/n,125000,2,162
+Chalet,Av de la vera s/n,125000,2,162
 Casa Rural,Calle Gabriel y Galán s/n,16000,2,672
 Casa Rural,paraje Juan Rasero s/n,790000,4,350
-Casa Rural,Paraje Majalardos s/n,135000,4,2.319
+Casa Rural,Paraje Majalardos s/n,135000,4,2319
 Casa Rural,paraje Robladillo s/n,24000,1,2002
 Chalet,Carretera PLASENCIA s/n,190000,5,173
 Chalet,Calle San Blas 62,20000,1,44
@@ -461,7 +461,7 @@ Chalet,Las llanadas 1 Bajo,100000,4,150
 Casa Rural,Camino LABRADO SEÑOR s/n,1800000,12,539
 Chalet,Calle Platón 1,255000,4,124
 Casa Rural,Villanueva de la Vera,790000,4,340
-Chalet,Carretera Moraleja a Huélaga 11 B,275000,5,3.000
+Chalet,Carretera Moraleja a Huélaga 11 B,275000,5,3000
 Piso,Avenida García Lorca 26,147894,3,105
 Piso,Calle Peral,33000,2,72
 Piso,Calle Peral,48000,2,60
@@ -545,8 +545,8 @@ Chalet,Calle los Abedules 29,234735,5,50
 Casa Rural,Calle Altozanillo 15,66000,4,35
 Casa Rural,Carretera Riberilla,160000,2,77
 Casa Rural,Calle Real,160000,6,265
-Chalet,Avenida DE LA VERA,350000,10,11.402
-Casa Rural,Camino rural Minchones,210000,3,4.127
+Chalet,Avenida DE LA VERA,350000,10,11402
+Casa Rural,Camino rural Minchones,210000,3,4127
 Casa Rural,Calle el Cristo 19,66000,3,80
 Duplex,barrio Parque del Príncipe - La Madrila,290000,5,197
 Piso,Casco Antiguo,92500,3,113
@@ -564,7 +564,7 @@ Casa Rural,ALDEANUEVA DE LA VERA,249000,7,251
 Piso,Casco Antiguo,92500,3,96
 Casa Rural,Carretera Riberilla,160000,2,77
 Chalet,Calle Coria 16,110000,8,164
-Casa Rural,Camino rural Minchones,210000,3,4.127
+Casa Rural,Camino rural Minchones,210000,3,4127
 Chalet,Carretera EX-203,250000,4,138
 Casa Rural,Cañada,29000,3,118
 Piso,Aguas Vivas - La Zambomba,95000,2,63
@@ -693,7 +693,7 @@ Piso,Calle Luis Vélez de Guevara,88000,1,102
 Casa Rural,Avenida Cáceres 38,119200,6,400
 Duplex,Centro,330000,4,158
 Chalet,TORREMENGA s/n,160000,2,75
-Casa Rural,ex 207 s/n,219900,3,7.000
+Casa Rural,ex 207 s/n,219900,3,7000
 Chalet,Jose Echegaray s/n,204000,3,92
 Chalet,Calle Simón Benito Boxoyo s/n,206000,3,90
 Casa Rural,Calle costanilla s/n,127000,4,122
@@ -718,13 +718,12 @@ Piso,Calle Zurbaran s/n,50200,3,108
 Piso,DONOSO CORTES,192000,3,155
 Chalet,Calle Cisne s/n,77600,3,110
 Chalet,LAS PLANAS s/n,1800000,12,643
-Piso,C. Miguel Serrano 17,179000,3,119
+Piso,C Miguel Serrano 17,179000,3,119
 Chalet,Calle Islas Cíes 5,420000,5,100
 Casa Rural,Plaza de la Corredera 13,240000,12,48
 Chalet,BARRIO s/n,80000,6,202
 Casa Rural,TALAVERUELA DE LA VERA s/n,68000,4,139
 Chalet,LAS PLANAS s/n,1800000,12,567
-Chalet,"00 m de cloro. Dispone además de una amplia terraza con porche amplio salón comedor cocina patio trasero baño completo y un dormitorio. En la primera planta nos encontramos tres dormitorios dos cuartos de baño y uno de ellos en la habitación principal con un vestidor incluido. El sótano tiene además una amplia bodega. Equipadas con ventanas de PVC/ Climalit y calefacción por suelo radiante y aero-termia y puerta de garaje motorizada. IVA no incluido. Podemos encontrar varios modelos de vivienda si quieren mas información no duden en ponerse en contacto con nosotros.   BRICKASA INMOBILIAIRA.  .""",927893154,8,342
 Piso,DONOSO CORTES,192000,3,155
 Chalet,Pozo de la Nieve s/n,210000,4,30
 Chalet,Calle Cisne s/n,77600,3,113
@@ -816,17 +815,17 @@ Chalet,Calle Cerro de los Romanos,390000,5,168
 Piso,Avenida Extremadura s/n,74300,3,112
 Piso,Avenida de la constitucion,69300,3,91
 Piso,Calle de la Trashumancia,185000,3,94
-Casa Rural,Calle el vinculo,215000,4,10.300
+Casa Rural,Calle el vinculo,215000,4,10300
 Chalet,Carretera Montánchez,265000,3,250
 Piso,Avenida Dolores Ibarruri s/n,67900,3,95
 Chalet,Calle Mártires,479000,4,340
 Piso,Avenida Ambroz,138000,3,104
 Piso,Miajadas,52000,3,102
 Ático,Montesol,215000,3,87
-Piso,Urb. Junquillo,134000,3,81
+Piso,Urb Junquillo,134000,3,81
 Piso,Kinea,61400,2,80
 Piso,Casco Antiguo,130000,8,530
-Chalet,Calle Nueva,210000,3,16.407
+Chalet,Calle Nueva,210000,3,16407
 Chalet,Calle Pintores,10300,1,57
 Piso,barrio Macondo - Los Castellanos,142000,3,101
 Chalet,Calle del Faro 5,71000,3,83
@@ -834,7 +833,7 @@ Chalet,Calle los Riberos,270000,4,45
 Piso,Avenida de Maltravieso,145000,4,6
 Piso,Guadalupe Sur Calle Cáceres,80000,3,92
 Casa Rural,Eljas,1290000,8,308
-Chalet,Urbanización el Pinar,198000,4,5.000
+Chalet,Urbanización el Pinar,198000,4,5000
 Chalet,Calle la Parda s/n,88000,3,115
 Chalet,Carretera de Badajoz,85000,4,158
 Piso,Plaza de san juan,210000,5,200
@@ -844,17 +843,17 @@ Chalet,Carretera de Badajoz,85000,4,133
 Chalet,Carretera Montánchez,265000,3,250
 Piso,Calle de la Trashumancia,185000,3,92
 Piso,Calle del Cura s/n,63800,3,118
-Casa Rural,Calle el vinculo,215000,4,10.300
+Casa Rural,Calle el vinculo,215000,4,10300
 Piso,Avenida Dolores Ibarruri s/n,67900,3,94
 Piso,San Petesburgo,157500,4,151
 Piso,Cañada Real,159000,4,146
 Chalet,Calle Espronceda s/n,118000,3,119
-Chalet,Calle Comarca de Gata,540000,7,1.100
+Chalet,Calle Comarca de Gata,540000,7,1100
 Piso,Guadalupe Sur Calle Cáceres,80000,3,92
 Casa Rural,Losar de la Vera,495000,6,270
 Piso,Centro,110000,3,105
 Chalet,Calle Cabezabellosa 49,215000,4,121
-Chalet,EX-302 s/n SN,1500000,25,47.935
+Chalet,EX-302 s/n SN,1500000,25,47935
 Casa Rural,Alcántara,2250000,30,641
 Chalet,Calle Primero de Mayo 21 -17,66000,4,80
 Piso,Calle Berrocala 25,119000,5,143
@@ -881,7 +880,7 @@ Chalet,Calle el Rosario 13,110000,3,92
 Piso,parque san pedro de alcántara 2,139000,2,110
 Chalet,Calle Escampleros 9,95000,4,140
 Casa Rural,Valverde del Fresno,1800000,8,329
-Chalet,EX-302 s/n SN,1500000,25,47.935
+Chalet,EX-302 s/n SN,1500000,25,47935
 Chalet,Calle Cabezabellosa 49,215000,4,123
 Chalet,Calle Hernán Cortés 5,170000,5,182
 Chalet,Travesía Iglesia 8,1200000,11,1651
@@ -908,7 +907,7 @@ Casa Rural,Valverde de la Vera,24000,4,142
 Chalet,Calle Noria Vieja,26000,3,120
 Chalet,Avenida del Emigrante,55000,4,150
 Chalet,Montesol - Mejostilla,240000,4,148
-Casa Rural,Carretera CC-4.2 Cilleros-Hoyos s/n,220000,3,87
+Casa Rural,Carretera CC-42 Cilleros-Hoyos s/n,220000,3,87
 Chalet,Calle Guatemala 33,105000,5,180
 Chalet,Calle de Cervantes,27000,3,90
 Chalet,Calle Severiano Masides,20000,2,164
@@ -984,7 +983,7 @@ Chalet,Hervas,280000,4,159
 Chalet,Calle Castaño 12,35000,4,151
 Piso,Calle Santa Ana 30,107000,3,114
 Chalet,Malpartida de Plasencia,6600000,29,429
-Chalet,Sur,125000,4,9.00
+Chalet,Sur,125000,4,900
 Chalet,Puerta del Carro 3,495000,5,38
 Chalet,corchito,168000,4,139
 Chalet,Pasaje Monte del Casar,209990,4,150
@@ -1068,7 +1067,7 @@ Chalet,Robles 3,125000,4,264
 Piso,Calle Pozos de Tello s/n,29500,3,90
 Piso,Calle Mirador del Monasterio s/n,75000,3,97
 Chalet,Calle del Cura 29,63800,3,102
-Casa Rural,Jarandilla de la Vera,215000,5,10.366
+Casa Rural,Jarandilla de la Vera,215000,5,10366
 Piso,Centro,318500,5,200
 Chalet,Calle Herrerías 1,45000,4,140
 Chalet,Madrigal de la Vera,199500,6,151
@@ -1085,7 +1084,7 @@ Chalet,Jaraiz de la Vera,279500,6,326
 Chalet,Puente Abajo 8,79000,4,230
 Chalet,Zona Norte-Hospital-Urbanizaciones,332800,5,216
 Chalet,Tornavacas,197300,4,170
-Casa Rural,Robledillo de la Vera,425000,4,38.000
+Casa Rural,Robledillo de la Vera,425000,4,38000
 Casa Rural,Jarandilla de la Vera,95000,2,1500
 Piso,Calle Santa Elena 26,125000,4,133
 Chalet,Avenida Virgen de Guadalupe 29,44500,5,198
@@ -1140,7 +1139,7 @@ Piso,hernan cortes 40,70000,1,44
 Piso,Villanueva de la Vera,75000,3,91
 Chalet,Plaza Mayor 22,69000,9,105
 Chalet,Calle lanchas 14,42000,6,200
-Chalet,Calle Comarca de Gata 80,795000,5,2.500
+Chalet,Calle Comarca de Gata 80,795000,5,2500
 Chalet,Paraje Hacitas 32,180000,7,3000
 Casa Rural,Calle Eras 1,36000,3,115
 Casa Rural,Calle Tiétar 17,76000,4,160
@@ -1161,7 +1160,7 @@ Chalet,Calle García de Paredes 67,90000,11,200
 Chalet,Calle Santiago 23,103000,4,123
 Chalet,El Torno,120000,4,150
 Chalet,Avenida San Jovita,80000,1,43
-Chalet,Calle Comarca de Gata 80,795000,5,2.500
+Chalet,Calle Comarca de Gata 80,795000,5,2500
 Chalet,Unnamed Road s/n,485000,7,251
 Chalet,barrio Iglesias 28,22000,2,63
 Duplex,Calle Clavero 1,239000,3,185
@@ -1179,7 +1178,7 @@ Casa Rural,Calle la Magdalena 33,85000,4,151
 Casa Rural,Calle Regajo 13,248900,7,265
 Piso,Ronda de la Charca 18,69000,3,80
 Chalet,Zona Norte-Hospital-Urbanizaciones,290000,4,319
-Chalet,El Cajuco. Viñas de la Mata s/n sn,210000,5,1250
+Chalet,El Cajuco Viñas de la Mata s/n sn,210000,5,1250
 Casa Rural,Caridad 3,24000,3,75
 Chalet,Carretera Ávila s/n,269000,6,248
 Chalet,Calle la Estrella 14,66000,4,240
@@ -1193,9 +1192,9 @@ Chalet,Calle del Paseo Parque 2,175000,4,256
 Chalet,Los Pinos-El Pilar,199000,4,155
 Piso,DONOSO CORTES,56950,3,100
 Chalet,Calle valfermoso 66,89950,3,114
- 110 Nkm,656319402,a 14 km de Plasencia. Puente de los tubos,8,369
+ 110 Nkm,656319402,a 14 km de Plasencia Puente de los tubos,8,369
 Chalet,Centro Ciudad,182000,5,377
-Casa Rural,EX-203 5,350000,6,5.300
+Casa Rural,EX-203 5,350000,6,5300
 Casa Rural,Calle de Dirección 6,110000,4,90
 Chalet,Calle Torviscal 1,68000,4,142
 Piso,Centro Ciudad,140000,3,80
@@ -1204,7 +1203,7 @@ Casa Rural,Calle Atrás 30,30000,3,84
 Chalet,Numancia 14,290000,4,50
 Chalet,La Encina 7,150000,4,148
 Piso,Calle José Pérez Rodríguez 2,89950,2,63
-Casa Rural,Carretera de Jaraíz EX-203 s/n 2.9,290000,3,100
+Casa Rural,Carretera de Jaraíz EX-203 s/n 29,290000,3,100
 Casa Rural,Calle la Magdalena 33,85000,4,142
 Casa Rural,Calle Cilla 2,31500,3,106
 Casa Rural,Plaza Aniceto Marinas 1,37000,3,100
@@ -1218,9 +1217,9 @@ Piso,Calle Marrakech 21,180000,4,105
 Casa Rural,Avenida de la Constitución 29,120000,9,270
 Chalet,EX-203 s/n,277000,6,140
 Chalet,Avenida la Pica 10,120000,2,140
-Chalet,Miralvalle-Av. Virgen del Puerto-La Data,850000,3,28.393
+Chalet,Miralvalle-Av Virgen del Puerto-La Data,850000,3,28393
 Chalet,Trujillo,102500,3,119
-Casa Rural,Carretera CC-6.1 s/n,170000,4,100
+Casa Rural,Carretera CC-61 s/n,170000,4,100
 Chalet,Avenida la Libertad s/n sinnumero,85000,4,471
 Chalet,Calle García de Paredes 67,90000,11,200
 Chalet,Madrigal de la Vera,60000,1,35
@@ -1233,7 +1232,7 @@ Casa Rural,Calle Nueva de los Capellanes 6,170000,6,205
 Chalet,Zona Norte-Hospital-Urbanizaciones,290000,4,319
 Piso,Plaza Iberoamérica s/n Sn,120000,3,121
 Piso,Calle Parras 18,100000,3,99
-Casa Rural,CC-27.1 s/n,350000,5,250
+Casa Rural,CC-271 s/n,350000,5,250
 Chalet,Madrigal de la Vera,38999,2,53
 Casa Rural,Calle Mari Lopez 30,85000,4,156
 Chalet,Avenida Constitución 74,160000,4,197
@@ -1255,7 +1254,7 @@ Chalet,Los Pinos-El Pilar,277000,6,3
 Casa Rural,Camino de San Marcos s/n,580000,5,400
 Piso,Calle Marrakech 21,180000,4,105
 Piso,Calle VIENA,119900,4,144
-Chalet,Paraje El Collado s/n,135000,3,10.000
+Chalet,Paraje El Collado s/n,135000,3,10000
 Casa Rural,Calle Medio 3,115000,2,40
 Chalet,Santiago 18,105000,4,125
 Casa Rural,Calle el Hondón 55,75000,4,138
@@ -1286,13 +1285,13 @@ Chalet,Calle Miguel Muñoz Dávila 12,45000,5,350
 Casa Rural,Carretera Torre de Don Miguel s/n,47000,1,66
 Piso,Avenida Virgen de Argeme 41,82000,4,98
 Duplex,Calle Clavero 1,239000,3,185
-Chalet,Centro Ciudad,265000,4,5.500
+Chalet,Centro Ciudad,265000,4,5500
 Chalet,Calle Oriente 16,150000,5,200
 Casa Rural,Calle Real de Abajo 43,125000,5,184
 Piso,Calle del Camino Llano 12,185000,3,98
 Piso,Plaza San Miguel 4,110000,4,120
-Chalet,Mirabel,185000,5,3.000
-Casa Rural,Diseminado Dehesa los Pinos 34,180000,4,5.849
+Chalet,Mirabel,185000,5,3000
+Casa Rural,Diseminado Dehesa los Pinos 34,180000,4,5849
 Chalet,Plaza de Granados Aldeacentenera 47,80000,3,84
 Chalet,Robledo 12,280000,6,235
 Casa Rural,Calle la Magdalena 33,85000,4,145
@@ -1300,7 +1299,7 @@ Chalet,Montehermoso,1300000,6,150
 Chalet,Martin Laguna s/n,150000,3,114
 Chalet,Calle Matadero 14,300000,9,433
 Chalet,Merlot 38,227000,4,80
-Casa Rural,EX-203 5,350000,6,5.300
+Casa Rural,EX-203 5,350000,6,5300
 Chalet,Unnamed Road s/n,485000,7,290
 Chalet,Travesía Calvario 7,180000,4,130
 Casa Rural,Calle del Norte 5,60000,3,12
@@ -1317,13 +1316,13 @@ Chalet,Avenida la Libertad s/n sinnumero,85000,4,471
 Chalet,EX-108 s/n SN,990000,6,250
 Piso,Calle vicente antonio arce 6,68000,4,149
 Chalet,Via de Hoyos a Perales 1 8,750000,5,260
-Casa Rural,CC-27.1 s/n,350000,5,250
+Casa Rural,CC-271 s/n,350000,5,250
 Chalet,Calle Almazara 3,199999,4,141
 Casa Rural,Calle Subida al Consistorio 12,160000,5,74
 Casa Rural,Calle Cañería Vieja s/n,45000,2,71
 Casa Rural,Calle Tiétar 17,76000,4,160
 Casa Rural,Calle del Coso 45,179000,6,207
-Chalet,Camino de Sierra de Fuentes,375000,6,2.500
+Chalet,Camino de Sierra de Fuentes,375000,6,2500
 Chalet,Calle Cónsul Lucio Cornelio Balbo 8,350000,5,382
 Casa Rural,Carretera Torre de Don Miguel s/n,47000,1,66
 Piso,Navalmoral de la Mata,64000,3,118
@@ -1331,7 +1330,7 @@ Casa Rural,Calle Medio 3,115000,2,40
 Chalet,Cuatro Caminos s/n,325000,4,120
 Casa Rural,Calle Cilla 2,31500,3,98
 Piso,Los Pinos-El Pilar,90000,3,107
-Piso,Zona Sur-Av. de España-San Miguel,65000,3,102
+Piso,Zona Sur-Av de España-San Miguel,65000,3,102
 Chalet,Santiago 18,105000,4,142
 Casa Rural,Paraje La Somadilla s/n sn,175000,2,63
 Chalet,Calle fuente del castaño 52,32990,4,150
@@ -1347,7 +1346,7 @@ Casa Rural,Calle Torre 28,312000,4,141
 Chalet,Avenida Extremadura 45,170000,5,300
 Casa Rural,Plaza de España 13,65000,1,285
 Casa Rural,Plaza de la iglesia 2,78000,4,2192
-Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9.000
+Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9000
 Ático,Calle cáceres 1,130000,3,91
 Casa Rural,Calle Hernando Stuart 5,59000,2,64
 Chalet,Calle Viñillas 5,115000,5,50
@@ -1391,8 +1390,8 @@ Chalet,Calle fuente del castaño 52,32990,4,137
 Piso,Avenida Antonio Hurtado,175000,4,153
 Piso,Barrio Ciudad Madrid 1,47000,5,105
 Casa Rural,Calle Solana s/n,660000,22,25
-Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9.000
-Chalet,Pasaje Monte del Casar,270000,5,5.000
+Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9000
+Chalet,Pasaje Monte del Casar,270000,5,5000
 Chalet,Valdelacasa de Tajo,26000,3,114
 Piso,Calle Polideportivo 6,90000,3,95
 Piso,Paseo de la Ribera 27,80000,3,115
@@ -1404,7 +1403,7 @@ Chalet,montesol 5,247000,4,122
 Piso,Avenida Pureza Canelo 64 B,92000,3,108
 Casa Rural,Calle Santa Teresa 23,38000,4,132
 Chalet,La Zambomba s/n sn,510000,7,500
-Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9.000
+Chalet,Carretera Torrejoncillo Holguera s/n,125000,5,9000
 Piso,Avenida Antonio Hurtado,175000,4,150
 Piso,Calle Cristóbal Flores 1,103000,4,142
 Chalet,Valdelacasa de Tajo,26000,3,105
@@ -1413,12 +1412,12 @@ Casa Rural,EX-118 48560 Km,117000,6,190
 Piso,ISABEL DE MOCTEZUMA,140000,4,133
 Chalet,Aldea Moret - La Cañada,127300,4,121
 Chalet,Casco Antiguo,400000,5,199
-Casa Rural,Cl. Santiago,45000,6,205
+Casa Rural,Cl Santiago,45000,6,205
 Chalet,Montesol - Mejostilla,241000,4,139
 Chalet,Calle Calvario 21,25000,2,77
 Piso,Montesol - Mejostilla,110000,3,74
 Chalet,Jarandilla de la Vera,170000,6,270
-Piso,barrio Macondo - Los Castellanos,190000,4,91.44
+Piso,barrio Macondo - Los Castellanos,190000,4,9144
 Duplex,Plaza de toros,90000,4,160
 Chalet,Avenida LA PISCINA s/n,190000,4,280
 Chalet,barrio La Sierrilla,350000,7,277
@@ -1434,7 +1433,7 @@ Chalet,Aldea Moret - La Cañada,137260,4,145
 Piso,Casco Antiguo,179000,3,109
 Piso,Calle santa lucia s/n,64500,3,61
 Chalet,Aguas Vivas - La Zambomba,89900,4,155
-Chalet,Torreorgaz,89000,2,1.800
+Chalet,Torreorgaz,89000,2,1800
 Casa Rural,larga baja,40000,8,346
 Chalet,Casco Antiguo,97260,4,131
 Chalet,Casco Antiguo,95000,8,319
@@ -1449,10 +1448,10 @@ Chalet,barrio Macondo - Los Castellanos,250000,4,9
 Casa Rural,Cabezuela del Valle,690000,5,199
 Piso,Centro,207250,5,188
 Chalet,Calle las Grullas s/n,260000,4,120
-Piso,barrio Macondo - Los Castellanos,190000,4,91.44
+Piso,barrio Macondo - Los Castellanos,190000,4,9144
 Chalet,Aldea Moret - La Cañada,137260,4,120
 Chalet,barrio El Arco,800000,5,600
-Casa Rural,Cuacos de Yuste,3800000,38,556.197
+Casa Rural,Cuacos de Yuste,3800000,38,556197
 Duplex,Plaza de toros,90000,4,137
 Chalet,Jarandilla de la Vera,660000,6,428
 Piso,Centro,250000,4,199
@@ -1474,14 +1473,14 @@ Casa Rural,san pedro 3,80000,0,276
 Piso,Montesol - Mejostilla,138000,3,110
 Chalet,Jarandilla de la Vera,150000,4,125
 Chalet,Montesol - Mejostilla,136000,4,20
-Chalet,Miralvalle-Av. Virgen del Puerto-La Data,82000,3,108
+Chalet,Miralvalle-Av Virgen del Puerto-La Data,82000,3,108
 Chalet,CESAREO MORENO 14,89900,4,190
 Chalet,Calle Cervantes 10,69900,4,125
 Chalet,Sur,288000,9,521
 Piso,Sur,176000,3,112
 Piso,Aldea Moret - La Cañada,93000,3,16
 Chalet,Casar de Cáceres,85000,3,93
-Casa Rural,Hinojal,239000,6,2.800
+Casa Rural,Hinojal,239000,6,2800
 Chalet,SAN PEDRO 8,69000,4,300
 Chalet,Sur,288000,9,684
 Chalet,Montesol - Mejostilla,154990,3,159
@@ -1493,7 +1492,7 @@ Piso,Centro,230000,5,174
 Casa Rural,Jarandilla de la Vera,290000,5,250
 Chalet,Calle del Santo,52650,5,173
 Chalet,Montesol - Mejostilla,204000,3,202
-Chalet,Alto C. Barrionuevo 42,39000,3,80
+Chalet,Alto C Barrionuevo 42,39000,3,80
 Chalet,Navalmoral de la Mata,210000,4,149
 Chalet,CL NUEVA 3,145000,4,146
 Piso,CONSTITUCIÓN 35,69900,4,150
@@ -1505,8 +1504,8 @@ Piso,Casco Antiguo,350000,4,146
 Piso,Aldea Moret - La Cañada,30000,3,68
 Piso,Sur,176000,3,80
 Chalet,Montesol - Mejostilla,180000,4,128
-Chalet,Miralvalle-Av. Virgen del Puerto-La Data,82000,3,96
-Piso,C. Constitución 16,55000,4,25
+Chalet,Miralvalle-Av Virgen del Puerto-La Data,82000,3,96
+Piso,C Constitución 16,55000,4,25
 Piso,Calle Sor Valentina Mirón 55,145000,3,90
 Chalet,Alcuéscar,23800,3,86
 Chalet,Calle Santa Teresa 2,45000,3,50
@@ -1517,7 +1516,7 @@ Piso,Santamaria de la Torre s/n,70000,3,140
 Chalet,barrio La Sierrilla,470000,5,165
 Piso,Calle Ecuador s/n,85000,4,160
 Chalet,IGLESIA 9,35000,4,230
-Chalet,TR. PADRE GILETA 10,125000,4,130
+Chalet,TR PADRE GILETA 10,125000,4,130
 Chalet,Montesol - Mejostilla,240000,4,201
 Piso,Navalmoral de la Mata,149000,4,131
 Piso,Centro Ciudad,191000,4,180
@@ -1532,12 +1531,12 @@ Estudio,Calle Profesor Hernández Pacheco 13,57000,0,43
 Piso,Calle el Cancho,48000,3,84
 Chalet,Calle Ramón y Cajal,39000,3,50
 Chalet,Calle Delicias,59000,5,190
-Piso,Calle V Centenario,82000,3,160.0
+Piso,Calle V Centenario,82000,3,1600
 Piso,Calle Martín Cerezo 47 -33,51500,3,80
 Piso,Calle Peñas,75000,2,75
 Chalet,Calle Juan Rodríguez de Molina,199900,3,90
 Chalet,Calle San Roque,23000,3,111
-Piso,Avenida de la Constitución,52000,3,92.00
+Piso,Avenida de la Constitución,52000,3,9200
 Chalet,Ceres Golf,490000,4,419
 Chalet,Calle del Santo 9,65000,6,300
 Piso,Calle Luis Vélez de Guevara,88000,3,102
@@ -1554,9 +1553,9 @@ Casa Rural,Carretera Plasencia,133000,3,94
 Piso,Calle Andrés de Plasencia,160000,5,128
 Piso,Calle TRASCORRALES,44000,2,62
 Piso,Cueva de la Serrana,162000,2,62
-Piso,Avenida de Cervantes,38000,3,111.00
+Piso,Avenida de Cervantes,38000,3,11100
 Chalet,VALLE DEL JERTE,331500,4,159
-Piso,Calle San Miguel,42000,3,81.0
+Piso,Calle San Miguel,42000,3,810
 Piso,Calle Niscalo,85000,3,120
 Chalet,Jaime Mosquera 29,100000,3,100
 Piso,Calle Niscalo,85000,3,87
@@ -1580,7 +1579,7 @@ Piso,Sierra de Fuentes,63000,4,144
 Piso,RODRIGO ALEMAN,90000,4,124
 Chalet,Guadalupe,58000,4,201
 Piso,Montesol - Mejostilla,105000,2,80
-Casa Rural,Calle S.Juan,49000,4,140
+Casa Rural,Calle SJuan,49000,4,140
 Piso,Avenida juan carlos primero,280000,3,101
 Chalet,Jaime Mosquera 29,100000,3,100
 Piso,Centro Ciudad,74500,2,85
@@ -1678,7 +1677,7 @@ Duplex,Sur,400000,4,125
 Chalet,Carretera MIAJADAS 12,175000,3,113
 Chalet,Carcaboso,59800,4,139
 Chalet,Casar de Cáceres,120000,4,135
-Casa Rural,Estación Arroyo Malpartida,155000,4,5.000
+Casa Rural,Estación Arroyo Malpartida,155000,4,5000
 Piso,Centro,285000,5,200
 Piso,Avenida del Valle,140000,3,90
 Chalet,Casco Antiguo,99500,2,73
@@ -1691,7 +1690,7 @@ Chalet,Calle San Pedro,145000,5,30
 Piso,Calle Alfonso VIII,160000,4,157
 Chalet,Trujillo,94200,3,96
 Chalet,Malpartida de Cáceres,64000,2,30
-Piso,Centro,175000,4,117.10
+Piso,Centro,175000,4,11710
 Chalet,Cuesta de la Torre,26000,3,91
 Piso,Guzman el Bueno 39,36000,2,77
 Chalet,Calle Cabezabellosa,220000,4,216
@@ -1707,7 +1706,7 @@ Piso,Centro,195000,3,117
 Piso,Centro,155000,3,87
 Chalet,Plaza Santa Clara,249000,2,62
 Piso,Montesol - Mejostilla,105990,3,90
-Chalet,Sur,414000,4,2.800
+Chalet,Sur,414000,4,2800
 Chalet,barrio El Arco,480000,5,170
 Piso,Calle el Cancho,51000,4,152
 Piso,Montesol - Mejostilla,106900,2,74
@@ -1749,7 +1748,7 @@ Chalet,Montesol - Mejostilla,245000,3,235
 Piso,Torremocha,36000,3,93
 Chalet,Arroyomolinos,48100,3,84
 Chalet,Montesol - Mejostilla,145000,4,177
-Piso,Centro,175000,4,117.10
+Piso,Centro,175000,4,11710
 Chalet,Trujillo,94200,3,120
 Chalet,Calle Cabezabellosa,220000,4,216
 Piso,barrio Parque del Príncipe - La Madrila,280000,3,17
@@ -1763,7 +1762,7 @@ Piso,barrio Parque del Príncipe - La Madrila,330000,5,167
 Piso,Sur,60000,3,77
 Piso,Calle Alfonso VIII,160000,4,131
 Piso,Centro,170000,3,120
-Piso,Centro,175000,4,117.10
+Piso,Centro,175000,4,11710
 Chalet,Montesol - Mejostilla,245000,4,200
 Chalet,Cuesta de la Torre,26000,3,113
 Ático,Centro,195000,3,60
@@ -1789,7 +1788,7 @@ Casa Rural,Calle Paso 3,25000,2,64
 Casa Rural,Calle José María Muñoz 40,50000,4,123
 Chalet,Calle Iglesia 2,40000,3,99
 Piso,Calle Prado 4,30000,4,149
-Piso,Zona Sur-Av. de España-San Miguel,116000,2,110
+Piso,Zona Sur-Av de España-San Miguel,116000,2,110
 Piso,Calle de la mesta,202900,3,113
 Chalet,URBANIZACIÓN RESIDENCIAL PARRALUZ,102000,3,202
 Piso,Navalmoral de la Mata,30144,2,65

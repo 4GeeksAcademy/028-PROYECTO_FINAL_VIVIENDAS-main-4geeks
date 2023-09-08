@@ -79,9 +79,9 @@ Piso,Calle San Pablo 12,118500,3,88
 Piso,Avenida de la Paz,340000,3,89
 Piso,Calle Luis Alberdi,103000,3,102
 Chalet,Calle Hijos de Santiago Rodríguez,812000,4,138
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,109900,3,97
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,350000,5,30
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,84000,3,102
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,109900,3,97
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,350000,5,30
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,84000,3,102
 Piso,Calle Madrid,89000,3,85
 Piso,Calle Vitoria,95000,2,67
 Piso,Avenida de los Derechos Humanos 09007,89000,3,91
@@ -117,7 +117,7 @@ Chalet,Calle San Roman,199000,3,190
 Piso,Calle Navarrete,184500,3,111
 Chalet,Camino Real,299500,4,714
 Piso,Calle Avila,97000,1,40
-Piso,C. Sagrada Familia 27,135000,3,91
+Piso,C Sagrada Familia 27,135000,3,91
 Piso,Calle Guardia Civil,420000,3,160
 Piso,Calle Martín Antolínez,180000,4,121
 Piso,Calle Laín Calvo,220000,3,102
@@ -179,7 +179,7 @@ Chalet,Camino Burgos,210000,4,136
 Piso,Anduva - Miranda sur,155000,2,64
 Chalet,Crucero - Aquende,115000,5,172
 Chalet,Calle Beato Antonio Arribas,210000,3,16
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,130000,2,64
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,130000,2,64
 Chalet,Calle lago,189000,3,96
 Piso,Avenida palencia,180000,3,113
 Piso,Calle San Pedro y San Felices,120000,2,65
@@ -226,14 +226,14 @@ Piso,Avenida Alcalde Valentín Niño,165000,2,66
 Piso,Calle Santa Águeda,410000,5,162
 Piso,Calle Federico Martínez Varea,130000,3,85
 Piso,Calle Fuenteovejuna  20,230000,3,103
-Piso,Calle Pdte. Adolfo Suárez s/n,163500,2,60
+Piso,Calle Pdte Adolfo Suárez s/n,163500,2,60
 Chalet,Condado de Treviño,352000,7,30
 Piso,Calle Fuenteovejuna  20,120000,1,103
 Piso,Calle Lovaina,205000,3,105
 Piso,Calle Fuenteovejuna  20,240000,3,103
-Piso,Calle Pdte. Adolfo Suárez s/n,195300,3,83
+Piso,Calle Pdte Adolfo Suárez s/n,195300,3,83
 Piso,Calle Esteban Sáez Alvarado,235000,3,104
-Chalet,Diseminado,500000,3,2.300
+Chalet,Diseminado,500000,3,2300
 Piso,Avenida Vena,250000,3,127
 Chalet,Calle Mirador de Entrambasaguas,325000,4,843
 Piso,Calle Antonio García Martín s/n,158000,2,69
@@ -267,7 +267,7 @@ Piso,Avenida de la Paz,280000,4,123
 Piso,Calle san francisco,110000,3,93
 Piso,Calle Fuente Lázaro,79800,2,64
 Piso,Calle Lealtad,110000,3,111
-Chalet,Carretera Villadiego,830000,8,10.000
+Chalet,Carretera Villadiego,830000,8,10000
 Piso,Calle Frías,155000,3,120
 Chalet,hospital yelmo,295000,3,700
 Piso,Calle Francisco de Enzinas,210000,3,105
@@ -283,7 +283,7 @@ Piso,Avenida de la Paz,280000,4,149
 Piso,Calle Batalla Navas de Tolosa,139000,2,76
 Piso,Avenida la paz,280000,2,20
 Piso,Calle San Miguel,79000,3,89
-Piso,Plaza Pl. Luis Martín Santos,179000,3,117
+Piso,Plaza Pl Luis Martín Santos,179000,3,117
 Duplex,Calle Murcia,144000,2,77
 Chalet,Urbanización los Molinos,420000,6,1000
 Piso,Avenida del Cid Campeador,155000,3,105
@@ -311,10 +311,10 @@ Piso,Calle Llana de Afuera,100000,3,97
 Chalet,Calle del olmo,425000,5,375
 Piso,Calle Santa Águeda,80000,1,60
 Chalet,Calle Portal de Zaldiaran,330000,3,500
-Chalet,Calle Portal de Zaldiaran,410000,4,1.062
+Chalet,Calle Portal de Zaldiaran,410000,4,1062
 Piso,Fuente Lugarejos 3,194500,2,77
-Chalet,Calle Portal de Zaldiaran,360000,2,1.062
-Chalet,Calle Portal de Zaldiaran,390000,3,1.062
+Chalet,Calle Portal de Zaldiaran,360000,2,1062
+Chalet,Calle Portal de Zaldiaran,390000,3,1062
 Piso,Fuente Lugarejos 3,202500,2,68
 Piso,Calle La Iglesia,203000,4,180
 Chalet,palillos,470000,4,150
@@ -347,7 +347,7 @@ Casa Rural,Concepción 14,80000,3,86
 Chalet,Celada del Camino,85000,4,152
 Chalet,San Mamés de Burgos,69900,2,75
 Chalet,Ibeas de Juarros,195000,3,120
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,185000,4,100
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,185000,4,100
 Chalet,Villafría - La Ventilla - Castañares,290000,4,25
 Chalet,Calle Argentina,195000,3,374
 Chalet,Calle Carmen Amaya,195000,3,99
@@ -361,11 +361,11 @@ Piso,Calle Palma de Mallorca,171950,2,67
 Chalet,Calle Doña Jimena,189900,4,135
 Piso,Plaza Vega,185000,2,74
 Piso,Calle Eras de San Francisco,89900,3,110
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,95000,2,64
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,95000,2,64
 Piso,Calle la Tala s/n,189900,3,15
 Piso,Plaza Alonso Martínez  2,465000,3,97
 Piso,barrio Gamonal - San Bruno - G9,158000,4,134
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,169000,2,72
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,169000,2,72
 Ático,Calle la Tala s/n,195600,2,15
 Piso,las bodegas,56000,2,61
 Piso,Plaza Alonso Martínez  2,990000,5,192
@@ -373,7 +373,7 @@ Piso,Calle Aparicio y Ruiz,390000,5,184
 Piso,Plaza Alonso Martínez  2,390000,4,150
 Ático,Calle Fuenteovejuna s/n,177000,2,77
 Ático,Calle Fuenteovejuna s/n,178000,2,71
-Piso,Calle Pdte. Adolfo Suárez s/n,204000,3,93
+Piso,Calle Pdte Adolfo Suárez s/n,204000,3,93
 Piso,Calle Fuenteovejuna s/n,170000,2,63
 Duplex,Avenida Monasterio de las Huelgas,780000,5,177
 Chalet,Calle Cubillo del Cesar,69900,3,92
@@ -434,7 +434,7 @@ Piso,barrio Gamonal - San Bruno - G9,140000,2,73
 Piso,Calle Santa Clara 52,125000,4,149
 Piso,Pasaje de Radio Popular,280000,5,195
 Chalet,Arcos,179000,3,95
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,80000,1,48
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,80000,1,48
 Piso,Plaza Jardines de Don Diego,143000,2,102
 Piso,Plantío - Alcampo,95000,1,58
 Piso,Calle Almacenes,149000,2,67
@@ -467,7 +467,7 @@ Piso,Calle Esteban Sáez Alvarado 41,195000,2,74
 Piso,Plaza de España 6,415000,3,83
 Piso,Villafría - La Ventilla - Castañares,50000,1,49
 Casa Rural,ALBAINA s/n,62000,4,154
-Chalet,barrio Los Vadillos - R. Sanitaria - Pozanos,1650000,6,211
+Chalet,barrio Los Vadillos - R Sanitaria - Pozanos,1650000,6,211
 Casa Rural,La Iglesia 2,410000,4,150
 Piso,Calle Calzadas  13,340000,3,113
 Piso,Calle San Isidro,47000,2,77
@@ -496,7 +496,7 @@ Chalet,Juan II de Castilla,164000,3,103
 Piso,Calle Cadena,123000,2,70
 Piso,barrio Gamonal - San Bruno - G9,195000,4,160
 Piso,Calle María Amigo,195000,4,158
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,115000,4,122
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,115000,4,122
 Casa Rural,Calle Acorro,2395000,19,670
 Piso,concepcion,229000,3,15
 Piso,SAN FRANCISCO,99000,3,80
@@ -531,7 +531,7 @@ Chalet,Calle mayor s/n,390000,3,88
 Piso,Calle de Manuel Muñoz Guillén,239000,4,147
 Piso,Calle Villalón 45,159000,2,70
 Piso,Calle Obras Públicas,22000,3,89
-Chalet,Calle Mayor,650000,7,7.389
+Chalet,Calle Mayor,650000,7,7389
 Chalet,Villatoro,215000,3,90
 Piso,Calle de la Igualdad,139000,2,86
 Piso,Calle Esteban Sáez Alvarado 41,169000,2,63
@@ -638,11 +638,11 @@ Piso,Calle Calera,210000,4,124
 Piso,Calle Zamora,94000,3,94
 Piso,barrio San Agustín-Parque Europa,135000,3,15
 Duplex,Fuentecillas-S7-S8,144000,2,66
-Piso,barrio Bda. Militar 2 de Mayo - Capiscol,89000,3,80
-Piso,barrio Bda. Militar 2 de Mayo - Capiscol,89000,3,80
+Piso,barrio Bda Militar 2 de Mayo - Capiscol,89000,3,80
+Piso,barrio Bda Militar 2 de Mayo - Capiscol,89000,3,80
 Piso,Calle Presidente Adolfo Suárez 16,150000,2,5
 Piso,Calle Esteban Sáez Alvarado 40,250000,3,27
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,180000,2,77
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,180000,2,77
 Piso,Calle Río Viejo,312000,3,90
 Ático,Villimar - V1 - V2 - S3 - S4 - San Cristobal,245000,2,67
 Chalet,Villimar - V1 - V2 - S3 - S4 - San Cristobal,190000,3,119
@@ -660,7 +660,7 @@ Chalet,Merindad de Valdeporres,120000,5,194
 Duplex,barrio San Julián-Bº de Cortes,120000,3,84
 Piso,Calle Marqués de Berlanga 38,166000,2,72
 Piso,Anduva - Miranda sur,165000,2,80
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,125000,3,106
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,125000,3,106
 Duplex,Centro,230000,4,23
 Piso,Juan ramon jimenez 10,95000,3,93
 Piso,Calle Condesa Mencía 117,275000,3,99
@@ -782,7 +782,7 @@ Chalet,Calle Argentina 17,192000,1,56
 Chalet,Crucero 22,200000,3,113
 Piso,Calle Rosa Chacel 12,199900,2,73
 Piso,Luis Rodríguez Arango 24,330000,3,93
-Casa Rural,Carretera de la Cartuja s/n,1000000,0,24.750
+Casa Rural,Carretera de la Cartuja s/n,1000000,0,24750
 Piso,Briviesca,20000,4,152
 Piso,Calle de Alonso de Cartagena 9,125000,3,82
 Piso,Calle Lovaina 4,211000,3,107
@@ -793,7 +793,7 @@ Piso,barrio Gamonal - San Bruno - G9,150000,2,61
 Piso,Calle San Agustín,29640,3,96
 Casa Rural,Calle Santa Maria de Vadillo,246000,4,37
 Chalet,Calle las Moreras,155000,3,120
-Chalet,Camino Sopeñano,260000,5,1.268
+Chalet,Camino Sopeñano,260000,5,1268
 Piso,Calle Toledo,399000,4,159
 Chalet,Calle Hospital Yelmo,295000,3,82
 Piso,Calle Mayoral,110000,2,67
@@ -816,7 +816,7 @@ Piso,Ramón y Cajal 49,140000,2,9
 Piso,Calle Asprilla,70000,3,102
 Chalet,Universidad - Las Huelgas,549000,5,40
 Chalet,Villimar - V1 - V2 - S3 - S4 - San Cristobal,250000,4,159
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,169000,4,130
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,169000,4,130
 Piso,Calle Máquina de vapor,183000,3,62
 Chalet,Carcedo de Burgos,359000,2,77
 Ático,Aranda De Duero,252000,3,82
@@ -837,7 +837,7 @@ Chalet,Villatoro,220000,3,80
 Piso,Calle los Sauces 22,72800,3,84
 Piso,Calle de las Calzadas,135000,2,74
 Piso,Calle los Sauces 22,73600,3,83
-Chalet,Calle Real 29,160000,2,1.848
+Chalet,Calle Real 29,160000,2,1848
 Piso,barrio Gamonal - San Bruno - G9,110000,2,66
 Piso,Avenida Castilla,139000,3,91
 Piso,Centro,119000,2,72
@@ -909,7 +909,7 @@ Piso,Villarcayo de Merindad de Castilla la Vieja,80000,2,79
 Piso,barrio Gamonal - San Bruno - G9,100812,3,114
 Piso,barrio Gamonal - San Bruno - G9,92000,3,115
 Chalet,barrio San Julián-Bº de Cortes,155000,3,86
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,95000,3,4
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,95000,3,4
 Piso,Calle Hermano Rafael,99000,2,72
 Chalet,Calle Ángel Nuño García 19 E,340000,4,430
 Piso,Calle Álava,39000,3,69
@@ -931,7 +931,7 @@ Piso,Calle Paloma,99000,1,47
 Piso,Calle Vitoria,108000,3,93
 Piso,Calle Eduardo Martínez del Campo,185000,4,141
 Piso,Calle San Juan de Ortega,99000,3,107
-Chalet,Burgos,150000,3,1.000
+Chalet,Burgos,150000,3,1000
 Piso,Calle San Pedro y San Felices,64000,3,83
 Casa Rural,Calle el Rollo 18,23000,3,95
 Piso,Plaza Jesus Maria Jabato,175000,3,85
@@ -945,7 +945,7 @@ Chalet,Calle Ángel Nuño García 23,230000,4,133
 Chalet,Carretera Mercadillo 47,399900,6,572
 Piso,Calle Puentearroya 1,130000,4,120
 Chalet,Carretera Encima Angulo 25 -19,60000,4,200
-Chalet,Carretera Ungo 4,420000,4,1.500
+Chalet,Carretera Ungo 4,420000,4,1500
 Chalet,Calle la Iglesia,120000,4,136
 Chalet,Medina de Pomar,222000,4,800
 Piso,Medina de Pomar,35000,3,80
@@ -980,7 +980,7 @@ Chalet,Villagonzalo-Pedernales,152000,3,119
 Piso,Bulevar Ferroviario s/n,390000,3,107
 Piso,Bulevar Ferroviario s/n,390000,4,137
 Piso,Bulevar Ferroviario s/n,395000,4,133
-Piso,Calle Alfonso VI 37,48000,1,71.12
+Piso,Calle Alfonso VI 37,48000,1,7112
 Piso,Bulevar Ferroviario s/n,405000,4,138
 Casa Rural,Calle Francisco Gil y Pablos 32,164900,17,640
 Piso,barrio Reyes Católicos,230000,2,25
@@ -1052,7 +1052,7 @@ Piso,Calle Villadiego con Calle Oxford s/n,233800,3,115
 Piso,Calle Villadiego con Calle Oxford s/n,226800,3,120
 Piso,Calle Villadiego con Calle Oxford s/n,229800,3,104
 Piso,Calle Villadiego con Calle Oxford s/n,237800,3,98
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,98000,3,80
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,98000,3,80
 Casa Rural,DISEMINADO s/n,1610000,16,416
 Piso,Travesía Generalisimo,24000,2,112
 Piso,Calle Vitoria,149900,3,109
@@ -1115,7 +1115,7 @@ Chalet,Lugar la Sia 13,24000,0,180
 Chalet,Lugar la Sia 30,39900,0,100
 Chalet,Calle Francisco Salinas,170000,3,98
 Chalet,Rioseco 69,39900,0,202
-Chalet,Carretera Pto de La Sía Km.6´5 s/n,27000,0,124
+Chalet,Carretera Pto de La Sía Km6´5 s/n,27000,0,124
 Chalet,Lugar la Sia 6,129900,4,146
 Chalet,Lugar Trueba 163,52900,0,118
 Piso,Medina de Pomar,58000,2,67
@@ -1144,7 +1144,7 @@ Chalet,Lugar la Sia 13,24000,0,180
 Chalet,Camino las Huertas,319000,5,181
 Chalet,Valle de Mena,130000,4,300
 Ático,Calle de Diego de Siloe 16,115000,1,55
-Chalet,Estacas de Trueba km.16 50,56000,0,282
+Chalet,Estacas de Trueba km16 50,56000,0,282
 Chalet,Quintana,125000,4,197
 Piso,Calle María Moliner,139900,2,69
 Piso,Calle Santo Domingo,88000,3,23
@@ -1230,16 +1230,16 @@ Piso,Calle Vitoria 137,130000,3,91
 Duplex,Calle María de Zayas 8,189900,4,131
 Piso,Calle Palma de Mallorca,227450,3,85
 Piso,Calle Perdiguero de Burgos,160000,3,117
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,169000,2,15
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,169000,2,15
 Ático,Camino casa la Vega s/n,351000,3,80
-Piso,Calle Pdte. Adolfo Suárez s/n,200800,3,116
+Piso,Calle Pdte Adolfo Suárez s/n,200800,3,116
 Piso,Illera,165000,2,77
 Piso,Calle la Tala s/n,222900,4,15
-Piso,Calle Pdte. Adolfo Suárez s/n,184250,2,74
+Piso,Calle Pdte Adolfo Suárez s/n,184250,2,74
 Piso,barrio El Carmen-Barrio Gimeno,115000,2,69
 Piso,Plaza Alonso Martínez  2,513000,4,149
 Duplex,Villagonzalo-Pedernales,149000,3,106
-Piso,Calle Pdte. Adolfo Suárez s/n,200800,3,88
+Piso,Calle Pdte Adolfo Suárez s/n,200800,3,88
 Chalet,Paseo los mesones 9 9340 0,109000,6,210
 Piso,Los mesones 14,50000,5,192
 Ático,Camino casa la Vega s/n,351000,3,105
@@ -1248,8 +1248,8 @@ Piso,jardines de don diego 2,125000,4,144
 Piso,El Carmen,299000,5,194
 Piso,Calle la Tala s/n,222900,4,15
 Chalet,montejo 46,455000,4,152
-Piso,Calle Pdte. Adolfo Suárez s/n,205600,3,96
-Piso,Calle Pdte. Adolfo Suárez s/n,184250,2,71
+Piso,Calle Pdte Adolfo Suárez s/n,205600,3,96
+Piso,Calle Pdte Adolfo Suárez s/n,184250,2,71
 Chalet,Cardeñajimeno,139999,3,91
 Duplex,Plaza Alonso Martínez  2,640000,3,116
 Piso,Illera,165000,2,69
@@ -1272,7 +1272,7 @@ Chalet,Calle Albacastro s/n,192900,3,80
 Chalet,Calle Albacastro s/n,237900,4,140
 Chalet,Calle Albacastro s/n,191900,3,92
 Piso,Calle Don Juan de Austria s/n,234000,3,131
-Chalet,Carretera VALVERDE,645000,4,3.200
+Chalet,Carretera VALVERDE,645000,4,3200
 Duplex,Plaza Alonso Martínez  2,530000,3,86
 Chalet,Calle Albacastro s/n,195900,3,96
 Piso,Calle fernan gonzalez 18,70000,4,136
@@ -1285,7 +1285,7 @@ Piso,Calle Don Juan de Austria s/n,237000,3,131
 Piso,Calle Fuenteovejuna s/n,177000,2,75
 Piso,Calle Fuenteovejuna s/n,180000,2,66
 Piso,Calle Villadiego con Calle Oxford s/n,178800,2,78
-Piso,barrio Los Vadillos - R. Sanitaria - Pozanos,169000,3,82
+Piso,barrio Los Vadillos - R Sanitaria - Pozanos,169000,3,82
 Piso,Avenida Ruperta Baraya s/n,205688,4,139
 Piso,barrio Villa Pilar,330000,4,131
 Piso,Calle Fuenteovejuna s/n,187000,3,89
@@ -1428,7 +1428,7 @@ Piso,Calle Corredera del Palacio 9,79000,2,20
 Chalet,Calle Vela Zaneti,65000,4,129
 Chalet,Calle Vela Zaneti,65000,1,57
 Chalet,Calle Marceliano Santamaría,67000,1,53
-Chalet,F. URBANIZACION HIDESILLA,117100,3,216
+Chalet,F URBANIZACION HIDESILLA,117100,3,216
 Chalet,Calle Mateo Cerezo,74000,1,42
 Chalet,Calle Marceliano Santamaría,78000,1,58
 Chalet,Calle Marceliano Santamaría,56000,1,53
@@ -1507,7 +1507,7 @@ Chalet,Calle Vivar,139900,3,113
 Piso,San Antón,75000,3,109
 Piso,Calle Temiño 1,6000,3,150
 Piso,Calle los titos,169000,3,85
-Chalet,Calle la Encina,330000,2,3.000
+Chalet,Calle la Encina,330000,2,3000
 Piso,Paseo de la Audiencia  15,460000,2,87
 Piso,Calle la Isla 26,103300,3,81
 Piso,Calle Jardines de Don Diego,169900,4,127
@@ -1531,7 +1531,7 @@ Chalet,Vadillo 21,56000,2,67
 Duplex,Carmen de Burgos s/n,119000,3,18
 Chalet,Calle la Fuente,49000,4,440
 Duplex,Travesía Carmen de Burgos 1,132000,3,18
-Casa Rural,Valle de Sedano,475000,8,4.733
+Casa Rural,Valle de Sedano,475000,8,4733
 Chalet,Avenida Campo de los Deportes,240000,6,550
 Chalet,Calle Real,32000,3,108
 Piso,Calle Rosales 14,165000,4,40
@@ -1557,10 +1557,10 @@ Chalet,Calle Raimundo de Miguel,48700,2,69
 Piso,ACACIAS 7,79500,2,74
 Chalet,Calle Acuario,128000,9,318
 Piso,Avenida de Santiago,48000,2,100
-Piso,Avenida Andres G. de Cerezo,50000,3,90
+Piso,Avenida Andres G de Cerezo,50000,3,90
 Chalet,Calle de Nuestra Señora la Antigua,125000,4,144
 Piso,Avenida de Santiago,48000,2,100
-Piso,Avenida Andres G. de Cerezo,50000,3,98
+Piso,Avenida Andres G de Cerezo,50000,3,98
 Piso,Los Resineros,44000,2,40
 Piso,Ronda del Ferrocarril,178000,3,87
 Piso,Calle Río Oca 6,37000,3,80
@@ -1589,7 +1589,7 @@ Piso,Reyes Católicos,16000,3,120
 Piso,Calle Moneda 2,375000,6,231
 Piso,El Toloño,19500,1,46
 Piso,Calle Benito Pérez Galdós,116600,4,124
-Chalet,Eladio Bustamante,720000,5,3.000
+Chalet,Eladio Bustamante,720000,5,3000
 Piso,Calle Hospicio 27,48000,3,97
 Piso,ESTACION,260000,4,131
 Piso,Calle Crucero de San Julián,25000,2,67
@@ -1601,7 +1601,7 @@ Chalet,barrio San Julián-Bº de Cortes,350000,7,326
 Piso,Avenida de la Paz,273000,4,143
 Piso,Calle Urbanización los Pontones,50000,3,81
 Piso,Calle Hospicio 27,48000,3,91
-Casa Rural,Calle Ramón y Cajal 43,62600,3,730.06
+Casa Rural,Calle Ramón y Cajal 43,62600,3,73006
 Chalet,Merindad de Montija,99900,5,450
 Piso,Paseo de los Mesones 22,69000,3,116
 Piso,Calle María Amigo,195000,4,131
@@ -1609,7 +1609,7 @@ Piso,Calle Esteban Saez Alvarado,109900,2,69
 Piso,DIEGO SALINAS,62000,2,82
 Piso,Calle Palma de Mallorca,251600,3,104
 Chalet,Camino Hondo 39,188000,4,136
-Chalet,Carretera a Menamayor s/n s/n,399000,7,8.000
+Chalet,Carretera a Menamayor s/n s/n,399000,7,8000
 Chalet,Calle Ángel García Bedoya,154000,5,164
 Chalet,Calle Centeno 7,60000,3,11
 Piso,Avenida Reyes Católicos,190000,3,81
@@ -1727,7 +1727,7 @@ Piso,Parque Virgen del Manzano,329000,4,127
 Chalet,BU-526,35000,4,101
 Chalet,Calle San Nicolás,90000,3,89
 Piso,Calle San Roque,27000,2,61
-Chalet,Barrio Villacomparada,295000,4,1.500
+Chalet,Barrio Villacomparada,295000,4,1500
 Chalet,Felipe garcia 34,20000,3,108
 Duplex,Calle Pedro Fernández de Velasco,93500,3,84
 Chalet,Calle la Venta,57000,4,352
@@ -1786,7 +1786,7 @@ Chalet,Calle Quintana de Rueda,34000,4,390
 Chalet,Calle Cañada Real,185000,5,210
 Duplex,Avenida Burgos,129900,4,130
 Piso,Puente Villanueva,38000,2,73
-Chalet,Barrio Villacomparada,295000,4,1.500
+Chalet,Barrio Villacomparada,295000,4,1500
 Chalet,Calle San Francisco,49000,1,341
 Chalet,Calle Encimera,47000,3,56
 Piso,Avenida Bilbao,49000,3,91

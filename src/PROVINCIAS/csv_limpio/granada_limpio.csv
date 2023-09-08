@@ -19,7 +19,7 @@ Piso,Avenida AMERICA,149900,3,86
 Piso,Pasaje Profesor Sainz Cantero 3,298000,3,97
 Piso,Calle Pico del Caballo,124900,3,93
 Piso,Calle Sócrates 31,295000,4,120
-Chalet,Calle Retama 2,548000,5,1.800
+Chalet,Calle Retama 2,548000,5,1800
 Piso,Plaza Periodista José María Gonzalo de la Torre,205000,3,110
 Piso,VIRGEN DE LA ESPERANZA,180000,3,98
 Piso,Calle SOLARILLO DE GRACIA,420000,4,120
@@ -190,9 +190,9 @@ Chalet,Calle Catamarán 2,179000,4,132
 Piso,Calle Recogidas,345000,3,300
 Chalet,Calle Zamora,160000,4,130
 Ático,Camino de Ronda,239900,3,87
-Chalet,Carretera de la Sierra,1390000,5,2.158
+Chalet,Carretera de la Sierra,1390000,5,2158
 Chalet,Motril pueblo,126500,5,190
-Chalet,Santa Fe,367000,3,4.951
+Chalet,Santa Fe,367000,3,4951
 Chalet,San Miguel,242900,3,83
 Piso,Zona de San Cayetano,105000,2,77
 Chalet,Albolote,199000,3,120
@@ -230,7 +230,7 @@ Piso,Maracena,94900,3,119
 Chalet,Albolote,139900,4,124
 Chalet,Calle Aurora,150000,2,67
 Duplex,Maracena,159900,3,117
-Casa Rural,Cadiar,289900,2,256.153
+Casa Rural,Cadiar,289900,2,256153
 Piso,Calle San Pedro Mártir 38,265000,2,110
 Piso,Avenida Circunvalación 10,138000,2,64
 Chalet,Maracena,189900,3,91
@@ -244,13 +244,13 @@ Piso,angel ganivet 6,498000,3,170
 Piso,Cuesta Blanquilla 2,75900,2,76
 Piso,SAN PEDRO MARTIR 38,265000,2,110
 Piso,BUENSUCESO 24,269000,4,139
-Casa Rural,Santa Fe,84900,1,8.000
+Casa Rural,Santa Fe,84900,1,8000
 Piso,Calle Doctor Azpitarte,200000,4,148
 Piso,Calle Sol,205000,3,107
 Chalet,Pitágoras,335000,4,146
 Piso,ANGEL GANIVET,498000,3,170
 Piso,Calle San Pedro Mártir,265000,2,110
-Chalet,Calle Escultor Cayetano Aníbal,1600000,7,5.000
+Chalet,Calle Escultor Cayetano Aníbal,1600000,7,5000
 Chalet,Manuel de Falla,299000,3,106
 Chalet,Avenida de los Cerezos,318000,3,400
 Duplex,Maestro Gregorio Salas,117500,2,35
@@ -300,7 +300,7 @@ Chalet,Calle Carretera,195000,5,174
 Chalet,Calle Hermanos Carazo,295000,8,356
 Piso,Cervantes-Palacio de Deportes,199900,3,110
 Piso,Segunda Circunvalación de Granada,89900,2,74
-Chalet,Santa Fe,1200000,10,9.000
+Chalet,Santa Fe,1200000,10,9000
 Chalet,Calle Gerardo Diego,149000,3,214
 Chalet,8 del secanillo,349000,6,155
 Chalet,Bola de Oro,970000,5,850
@@ -414,13 +414,13 @@ Piso,Calle Joan Miró,94990,2,75
 Chalet,IBIZA,293000,4,138
 Chalet,Loja,149900,5,180
 Chalet,Calle Ermita huetor vega,99900,3,117
-Casa Rural,Vélez de Benaudalla,235000,4,19.332
+Casa Rural,Vélez de Benaudalla,235000,4,19332
 Piso,Calle Sagrada Familia,74900,2,80
 Piso,Zaidín,130000,3,100
 Chalet,El Pinar,44900,3,124
 Chalet,Los Guajares,129900,7,313
 Piso,Playa Granada,135000,2,74
-Casa Rural,Padul,350000,4,6.000
+Casa Rural,Padul,350000,4,6000
 Piso,San Francisco Javier,199900,3,81
 Piso,barrio Ronda - Arabial,199900,4,151
 Chalet,Jun,179900,3,183
@@ -545,7 +545,7 @@ Chalet,Calle del Abedul,750000,6,60
 Piso,Camino de Ronda 129,442500,3,100
 Piso,Avenida de Cadiz,120000,3,88
 Piso,Camino de Ronda 129,442500,3,94
-Ático,Calle Real,200000,3,9.40
+Ático,Calle Real,200000,3,940
 Piso,Calle Palencia,179900,3,89
 Ático,Ronda Lindaraja,99000,2,98
 Piso,Calle Doctor Muñoz Fernández,321900,5,194
@@ -574,7 +574,7 @@ Chalet,de azorin,154900,3,106
 Chalet,san juan de los reyes,289000,2,21
 Chalet,Calle Santo Cristo 16,260000,4,153
 Piso,Maracena,99900,3,108
-Casa Rural,Moraleda de Zafayona,87500,1,2.500
+Casa Rural,Moraleda de Zafayona,87500,1,2500
 Piso,Acera canasteros 12,144900,1,53
 Chalet,malaga,147000,2,79
 Chalet,Calle Terrerón,99750,4,142
@@ -605,7 +605,7 @@ Chalet,Calle Mulhacen,126000,3,115
 Piso,Calle Espetos,170000,3,87
 Chalet,Calle Paris,390000,4,145
 Piso,Lachar,99900,2,90
-Casa Rural,Moraleda de Zafayona,59900,3,1.635
+Casa Rural,Moraleda de Zafayona,59900,3,1635
 Piso,Calle Maestro Noguerol,145000,3,87
 Chalet,Calle NARANJO,265000,4,123
 Piso,Calle Pintor Hermenegildo Lanz,150000,3,91
@@ -616,7 +616,7 @@ Casa Rural,Calle de San Francisco,34000,5,283
 Piso,Vía,69500,2,79
 Casa Rural,Calle Abadía,110000,2,1500
 Piso,Calle Acera de Canasteros,144900,1,45
-Casa Rural,Chauchina,68000,2,7.000
+Casa Rural,Chauchina,68000,2,7000
 Chalet,Calle Almendros,130000,5,60
 Piso,Calle Gran Vía de Colón,139000,3,114
 Chalet,Calle Atalaya,259500,3,115
@@ -740,7 +740,7 @@ Chalet,Majuelo Lomaverde 5,265000,4,125
 Chalet,Avenida Cristóbal Colón,250000,4,151
 Chalet,Calle San Andrés,749900,6,247
 Piso,Ancha de Gracia,580000,4,210
-Chalet,Urb. Residencial Los Pinos s/n,259000,3,91
+Chalet,Urb Residencial Los Pinos s/n,259000,3,91
 Piso,Carril del Picón,230000,2,72
 Piso,Calle Manuel de Falla s/n,365000,9,653
 Piso,san miguel,89000,2,70
@@ -753,7 +753,7 @@ Piso,acera de canastero,149900,1,55
 Duplex,gran via de colon,420000,4,32
 Piso,Calle Ízbor,75000,2,73
 Piso,Avenida de la Constitución 8,490000,5,253
-Casa Rural,Calle Virgen Blanca 52,300000,3,3.127
+Casa Rural,Calle Virgen Blanca 52,300000,3,3127
 Casa Rural,GP LOS DÍAZ 16,31000,2,80
 Piso,Calle Beaterio del Santísimo,320000,6,236
 Piso,Calle Avila 25,153000,3,103
@@ -781,7 +781,7 @@ Piso,Calle Vista Blanca,59500,2,64
 Chalet,barrio La Herradura,145000,6,226
 Piso,Camino de Ronda,225000,3,92
 Chalet,Avenida la Razuela 16,350000,4,159
-Piso,Avenida F.González Carrascosa 6,79000,3,110
+Piso,Avenida FGonzález Carrascosa 6,79000,3,110
 Casa Rural,Calle San Anton de Acequias 22,150000,3,93
 Chalet,Calle Cerro de las Pipas,338000,10,1022
 Chalet,Calle Piedrabuena 14,67000,3,119
@@ -896,7 +896,7 @@ Chalet,Calle Rosalia de Castro,163000,4,124
 Chalet,Calle Alamos,149900,4,290
 Piso,Calle Andújar 4,121000,3,82
 Piso,Calle Andújar 4,121000,3,87
-Chalet,Calle del Molino 1,615000,6,2.000
+Chalet,Calle del Molino 1,615000,6,2000
 Piso,Plaza de los Campos 5,945000,4,155
 Chalet,Calle F-1 35,249500,4,152
 Chalet,Calle Cotobro 1,170000,4,12
@@ -921,7 +921,7 @@ Piso,Calle Sos del Rey Católico 9,410000,5,168
 Chalet,Calle Badajoz,320000,4,147
 Piso,Calle Ancha de la Virgen 20,198000,4,126
 Chalet,Calle Cotobro 1,170000,4,12
-Chalet,Calle Valle de Lecrín 3,249000,3,1.800
+Chalet,Calle Valle de Lecrín 3,249000,3,1800
 Chalet,Miguel de Cervantes 2,150000,3,95
 Chalet,Camino Haza llana s/n,640000,10,652
 Chalet,Calle Petunia,490000,5,163
@@ -959,7 +959,7 @@ Piso,Calle Martínez Campos 9,339000,5,161
 Piso,Calle Aconcagua 2,298000,3,84
 Casa Rural,W9JJ+HQC La Loma s/n,197000,2,61
 Piso,Calle Periodista Eugenio Selles,245000,3,101
-Chalet,Calle Larga,45000,1,7.5
+Chalet,Calle Larga,45000,1,75
 Casa Rural,Calle Barrio Bajo 6,180000,8,140
 Piso,Calle Huenes 18,99900,3,104
 Piso,Plaza de los Campos 5,945000,4,120
@@ -994,7 +994,7 @@ Chalet,Calle Montepino Sur 1,360000,5,196
 Chalet,Calle los Madroños 13,239000,4,122
 Piso,Camino de Ronda 41,159900,3,90
 Piso,Avenida de Pulianas 18,437000,5,174
-Chalet,Calle Valle de Lecrín 3,249000,3,1.800
+Chalet,Calle Valle de Lecrín 3,249000,3,1800
 Piso,Calle Badajoz,134000,3,108
 Chalet,Calle Félix Rodríguez de la Fuente,179900,3,108
 Piso,Calle Pico del Caballo 56,124900,3,80
@@ -1003,7 +1003,7 @@ Chalet,Calle Los Llanos,170000,5,166
 Casa Rural,Calle Real 37,190000,4,148
 Piso,Avenida Europa 41,299000,3,117
 Chalet,San Vicente 10,87000,4,121
-Casa Rural,Camino de la sierra s/n,198000,2,18.000
+Casa Rural,Camino de la sierra s/n,198000,2,18000
 Piso,Avenida san miguel,92000,3,80
 Chalet,Calle Acequia 8,190000,4,128
 Duplex,Calle Pablo Picasso 29,139900,3,98
@@ -1061,7 +1061,7 @@ Piso,Paseo del Río,140000,3,95
 Piso,Calle Alhambra 2,84900,3,99
 Piso,Calle Rauda,190000,2,77
 Duplex,Calle Diego Almagro,162000,3,105
-Piso,Calle del olivo,135000,2,73.63
+Piso,Calle del olivo,135000,2,7363
 Chalet,Calle Fuente Alta 25,29900,3,96
 Chalet,Plaza Clara Campoamor 3,540000,6,215
 Casa Rural,Calle Solana 19,80000,3,119
@@ -1085,7 +1085,7 @@ Chalet,Calle Galeno,330000,3,83
 Piso,Calle Cardenal Parrado 3,299000,4,135
 Piso,Camino de Ronda 41,159900,3,106
 Chalet,Calle Brasil 18,149900,3,92
-Piso,Calle del olivo,135000,2,73.63
+Piso,Calle del olivo,135000,2,7363
 Chalet,Avenida Caparacena,109900,3,105
 Piso,Calle Nelson Mandela,123000,2,67
 Chalet,Avenida de Andalucia 49,395000,3,1043
@@ -1127,7 +1127,7 @@ Piso,Calle Isla Cabrera,119900,2,69
 Chalet,Calle DUENDE,750000,12,490
 Piso,Avenida de maracena,135000,1,42
 Chalet,Rambla de las chinas,180000,3,221
-Chalet,Gustavo Adolfo Becquer urb. Los Portones,199000,3,50
+Chalet,Gustavo Adolfo Becquer urb Los Portones,199000,3,50
 Piso,Calle de las orquideas,97000,2,60
 Duplex,Avenida de Andalucía,175000,3,134
 Piso,aixa,95000,2,74
@@ -1166,7 +1166,7 @@ Chalet,Calle DUENDE,750000,12,476
 Chalet,SEVERO OCHOA,200000,4,5
 Piso,Travesía San Miguel,89000,2,74
 Piso,Calle Agustina de Aragón,149000,3,89
-Chalet,Avenida de los Alamos,255000,4,2.500
+Chalet,Avenida de los Alamos,255000,4,2500
 Chalet,Calle Horno San Agustín,299900,6,212
 Piso,fray junipero serra,119000,2,65
 Piso,VIRGEN DE LA LUZ,149000,2,79
@@ -1215,10 +1215,10 @@ Piso,Calle Doctor Muñoz Fernández 2,321900,5,164
 Chalet,Calle Torre de las Infantas,270000,3,40
 Chalet,858210280,Plaza Larga,520000,525
 Chalet,Calle Everest,499990,8,900
-Chalet,Gustavo Adolfo Becquer urb. Los Portones,199000,3,50
+Chalet,Gustavo Adolfo Becquer urb Los Portones,199000,3,50
 Chalet,Calle Horno San Agustín,299900,6,235
 Piso,Calle Avila,153000,3,87
-Chalet,Avenida de los Alamos,255000,4,2.500
+Chalet,Avenida de los Alamos,255000,4,2500
 Piso,Plaza Virgen de la Luz,149000,2,75
 Chalet,Calle Zaragoza,176500,5,200
 Casa Rural,Calle la Redonda 7,208000,4,147
@@ -1387,7 +1387,7 @@ Piso,Calle Molino de la Corteza de San Andrés 20,120000,1,57
 Piso,Avenida de Murcia,179000,2,69
 Piso,Calle Buenavista,149000,3,113
 Chalet,Calle Rosa 8,379000,5,1000
-Chalet,pago de Las Landerillas s/n,350000,4,3.550
+Chalet,pago de Las Landerillas s/n,350000,4,3550
 Chalet,Calle Infanta Cristina 30,545000,5,700
 Chalet,Cerro del Caballo 123,465000,4,900
 Piso,Ronda de Poniente,119900,3,112
@@ -1424,7 +1424,7 @@ Piso,Calle Virgen de la Esperanza 1,158000,4,150
 Piso,Calle Ribera del Genil,218000,3,94
 Chalet,Calle San Roque 37,239000,3,117
 Chalet,Calle Limón 2,895000,6,478
-Chalet,pago de Las Landerillas s/n,350000,4,3.550
+Chalet,pago de Las Landerillas s/n,350000,4,3550
 Chalet,Calle Zacatin de Mairena 8,79000,6,240
 Piso,Calle San Pedro Mártir 38,265000,2,110
 Chalet,Calle Rioja 2,460000,5,28
@@ -1449,7 +1449,7 @@ Piso,Calle Maestro Lecuona,260000,3,118
 Piso,Camino de Ronda,215000,4,138
 Piso,Calle castillo,110000,2,68
 Piso,Camino de Ronda,225000,3,120
-Piso,Camino de Ronda,163000,3,87.29
+Piso,Camino de Ronda,163000,3,8729
 Chalet,Calle Cerro de las Pipas,338000,10,1022
 Chalet,GIRASOL,239000,3,100
 Piso,Calle Generalife,109900,3,117
@@ -1478,7 +1478,7 @@ Chalet,Avenida Andalucía,159000,3,101
 Piso,Calle Recogidas,179900,3,102
 Piso,Calle Honda del Pozo,139000,3,97
 Piso,Calle Santa Clara,150000,3,114
-Chalet,Calle Bolivia,295000,3,216.11
+Chalet,Calle Bolivia,295000,3,21611
 Piso,Calle Santa Clara,150000,3,95
 Chalet,Avenida Andalucía,159000,3,103
 Ático,Calle Fray Junípero Serra,120000,2,80
@@ -1492,7 +1492,7 @@ Chalet,Cijuela,59900,3,149
 Chalet,Azorin,154900,3,99
 Piso,Calle las Orquídeas,97000,2,66
 Duplex,Enrique Morales,115900,3,95
-Piso,Camino de Ronda,163000,3,87.29
+Piso,Camino de Ronda,163000,3,8729
 Piso,Calle Ribera del Genil 20,218000,3,108
 Chalet,Andalucia s/n,50000,5,270
 Piso,Calle Doctor Pareja Yébenes,167000,4,145
@@ -1529,7 +1529,7 @@ Chalet,Calle Ancha,575000,10,17
 Piso,Calle de Alonso Cano,107500,3,113
 Piso,JARALES,109900,3,95
 Chalet,Azorin,154900,3,108
-Piso,Camino de Ronda,163000,3,87.29
+Piso,Camino de Ronda,163000,3,8729
 Chalet,Azahar,89900,3,113
 Chalet,Calle Pedro de Mena,218000,3,98
 Chalet,Calle Betis,249000,7,274
@@ -1554,7 +1554,7 @@ Piso,Calle Parra Alta de Cartuja,170000,3,93
 Piso,Camino de Ronda,215000,4,148
 Chalet,Calle B-2,220000,7,700
 Piso,Calle Solarillo de Gracia,420000,4,149
-Chalet,BORRAJA,409000,6,1.300
+Chalet,BORRAJA,409000,6,1300
 Chalet,Calle Malaga,147000,3,86
 Chalet,Calle Naranjo,265000,4,257
 Chalet,Calle Virgen del Rosario,239000,4,144
@@ -1562,14 +1562,14 @@ Piso,Calle Generalife,109900,3,104
 Piso,Calle Pedro Antonio de Alarcón,420000,5,253
 Chalet,Calle Cruz de la Rauda,385000,4,144
 Piso,Camino de Ronda,215000,4,157
-Casa Rural,Moraleda de Zafayona,84900,1,2.681
+Casa Rural,Moraleda de Zafayona,84900,1,2681
 Chalet,Carretera Puerto la Ragua,58000,2,61
 Piso,IGLESIA,73000,2,66
-Chalet,BORRAJA,409000,6,1.300
+Chalet,BORRAJA,409000,6,1300
 Piso,Camino de Ronda,149000,3,96
 Chalet,Calle Málaga,121000,4,140
 Chalet,Calle SAN RAMON 106,62000,3,20
-Chalet,Calle Bolivia,295000,3,216.11
+Chalet,Calle Bolivia,295000,3,21611
 Piso,Calle San Antón,529900,5,196
 Piso,Calle Carlos Pareja,385000,4,230
 Piso,Avenida Europa,299000,3,115
@@ -1583,7 +1583,7 @@ Piso,Calle Sos del Rey Católico,645000,9,447
 Chalet,Calle Naranjo,265000,4,151
 Piso,Calle Sos del Rey Católico,410000,5,175
 Piso,Calle CARLOS PAREJA,385000,4,230
-Casa Rural,C. Pensamiento 18650 Dúrcal Granada España,150000,1,43
+Casa Rural,C Pensamiento 18650 Dúrcal Granada España,150000,1,43
 Casa Rural,Calle Zoraba,225000,3,93
 Piso,Alminares 1,320000,4,142
 Piso,Santa Fe,54900,3,106

@@ -73,7 +73,7 @@ Piso,Calle de José Macón,78000,2,70
 Casa Rural,Vasco Nuñez,42000,3,96
 Casa Rural,Paloma,31200,3,119
 Chalet,Soledad,51800,4,145
-Chalet,San Luis - Albarregas,220000,4,10.00
+Chalet,San Luis - Albarregas,220000,4,1000
 Chalet,Cruces,74800,4,120
 Piso,Calle Circo Romano,75500,4,148
 Piso,Quintana de la Serena,129000,3,119
@@ -85,19 +85,19 @@ Piso,La Estación,87000,3,83
 Casa Rural,San Roque,33000,2,119
 Chalet,Santa Marta,425000,6,128
 Piso,Casco Antiguo - Centro,122900,5,198
-Chalet,Dehesilla de Calamón - Campomanes,345000,6,13.63
+Chalet,Dehesilla de Calamón - Campomanes,345000,6,1363
 Chalet,Reina,62000,6,250
 Piso,Pardaleras,230000,3,93
 Piso,Huerta Rosales - Valdepasillas,137000,2,76
 Piso,Republica argentina s/n,222500,2,62
-Chalet,Avda. Elvas,196000,4,145
+Chalet,Avda Elvas,196000,4,145
 Chalet,Centro - Argentina,1125000,7,100
 Piso,Avenida Damián Téllez Lafuente 20 B,167000,3,110
 Duplex,Puebla de la Calzada,131000,4,200
 Chalet,Ciudad Jardín,265000,4,149
 Chalet,Montijo,68500,3,95
 Piso,Ramon y Cajal 9,255000,4,139
-Chalet,Las Vaguadas - Carretera Valverde,675000,8,1.422
+Chalet,Las Vaguadas - Carretera Valverde,675000,8,1422
 Casa Rural,Puebla de Obando,90000,1,60
 Piso,Casco Antiguo - Centro,155000,3,145
 Piso,Casco Antiguo - Centro,93500,4,120
@@ -106,7 +106,7 @@ Chalet,Urbanizacion El Manatio s/n,172000,4,144
 Chalet,Centro - Argentina,104500,5,180
 Chalet,Villanueva de la Serena,100000,3,198
 Piso,Centro - Argentina,335000,6,230
-Chalet,Dehesilla de Calamón - Campomanes,309000,5,5.000
+Chalet,Dehesilla de Calamón - Campomanes,309000,5,5000
 Chalet,Centro - Argentina,74900,2,3246
 Piso,Santa Marina - La Paz,198000,3,86
 Piso,Maria Auxiliadora - Barriada LLera,186500,3,95
@@ -119,7 +119,7 @@ Piso,Santa Marina - La Paz,110000,3,100
 Piso,Avenida José Fernández López 6,92000,4,128
 Casa Rural,Calle Juan Carlos I 1,170000,5,172
 Casa Rural,Fuentes de Leon,90000,0,100
-Casa Rural,Fuentes de Leon,90000,1,85.000
+Casa Rural,Fuentes de Leon,90000,1,85000
 Casa Rural,Cabeza la Vaca,500000,0,1000
 Casa Rural,Fuentes de Leon,49000,1,47
 Chalet,Cabeza la Vaca,95000,5,121
@@ -131,7 +131,7 @@ Piso,Huerta Rosales - Valdepasillas,189000,3,81
 Piso,Casco Antiguo - Centro,20900,2,64
 Piso,Los Milagros - Corchera,140000,3,113
 Chalet,Golf Guadiana,360000,4,142
-Piso,Avda. Elvas,169000,3,92
+Piso,Avda Elvas,169000,3,92
 Piso,Ronda del Pilar,179000,5,138
 Chalet,Calle Cruces,54000,4,153
 Chalet,Santa Amalia,249999,7,500
@@ -140,7 +140,7 @@ Chalet,Centro - Argentina,130000,1,49
 Piso,San Luis - Albarregas,90000,4,146
 Chalet,Almendralejo,225000,3,89
 Piso,San Roque - Ronda norte,104000,2,61
-Chalet,Medellin,449999,3,2.200
+Chalet,Medellin,449999,3,2200
 Chalet,Esparragosa de la Serena,65000,4,145
 Chalet,Diseminado Diseminados 80,220000,8,250
 Chalet,Centro - Argentina,240000,1,333
@@ -210,16 +210,16 @@ Piso,Calle Museo,165000,2,78
 Chalet,Calle Garrotera,115000,4,327
 Piso,Martín Cansado,84900,1,50
 Casa Rural,Calle Coso 3,399000,8,305
-Casa Rural,EX-112,495000,1,60.000
+Casa Rural,EX-112,495000,1,60000
 Piso,Calle Real 37,110000,5,178
 Piso,Rivilla,140000,3,80
 Piso,Calle Arroyazo,148500,3,107
 Piso,Ciudad Jardín,89990,2,69
 Chalet,Diseminado Tordo,120000,4,150
 Piso,Fernando Garrorena 1,150000,4,149
-Chalet,Las Vaguadas - Carretera Valverde,480000,4,1.000
+Chalet,Las Vaguadas - Carretera Valverde,480000,4,1000
 Piso,Casco Antiguo - Centro,300000,4,143
-Piso,Avda. Elvas,230000,3,96
+Piso,Avda Elvas,230000,3,96
 Piso,Santa Marina - La Paz,415000,6,213
 Chalet,Calle Gurugú 53,45000,3,160
 Piso,Almendralejo,80000,3,110
@@ -243,7 +243,7 @@ Chalet,Calle Enrique Real,60000,4,123
 Piso,Calle Ercilla,16000,3,40
 Duplex,Centro - Argentina,335000,5,9
 Piso,Santa Marina - La Paz,245000,5,199
-Chalet,Don Benito,120000,4,4.100
+Chalet,Don Benito,120000,4,4100
 Chalet,Calle Toledillo,40500,3,93
 Piso,Santa Marina - La Paz,249500,5,160
 Chalet,Las Vaguadas - Carretera Valverde,235000,5,160
@@ -259,7 +259,7 @@ Chalet,Montijo,70000,3,115
 Piso,Montijo,38000,3,90
 Piso,Avenida del Perú 29,225000,3,101
 Chalet,Bodegones - Salesianos,29100,2,76
-Piso,Calle Romero de Cepeda,139000,3,107.62
+Piso,Calle Romero de Cepeda,139000,3,10762
 Piso,Nueva Ciudad,36500,3,89
 Piso,Santa Marina - La Paz,189900,4,154
 Piso,Santa Marina - La Paz,599000,5,170
@@ -270,12 +270,12 @@ Piso,Maria Auxiliadora - Barriada LLera,130000,2,65
 Piso,La Estación,145000,3,83
 Piso,Casco Antiguo - Centro,183000,3,85
 Chalet,San Pedro de Mérida,49800,3,115
-Chalet,Avda. Elvas,399000,4,150
+Chalet,Avda Elvas,399000,4,150
 Piso,Nueva Ciudad,57445,3,119
 Piso,Santa Marina - La Paz,123000,3,110
 Piso,La Estación,136000,3,105
 Casa Rural,Nueva Ciudad,96800,3,100
-Piso,Avda. Elvas,90000,1,46
+Piso,Avda Elvas,90000,1,46
 Piso,Calle José Martínez Ruiz-Azorín,86675,3,109
 Piso,Nueva Ciudad,109700,3,83
 Piso,Santa Marina - La Paz,140000,3,78
@@ -288,7 +288,7 @@ Chalet,Centro - Argentina,359000,7,282
 Piso,Santa Marina - La Paz,123000,3,109
 Piso,Los Milagros - Corchera,87100,3,98
 Casa Rural,Nueva Ciudad,96800,3,110
-Chalet,Avda. Elvas,399000,4,157
+Chalet,Avda Elvas,399000,4,157
 Piso,Casco Antiguo - Centro,270000,3,130
 Piso,Avenida Príncipe de Asturias esquina Calle Francisco Guerra s/n,343000,4,155
 Piso,Avenida Príncipe de Asturias esquina Calle Francisco Guerra s/n,289000,3,111
@@ -319,20 +319,20 @@ Piso,Los Milagros - Corchera,93000,2,62
 Chalet,Pozo Dulce Chacón s/n,35000,1,49
 Casa Rural,Montijo,490000,6,5
 Chalet,Calle Hornos de Medina,29000,1,48
-Piso,Calle Romero de Cepeda,149000,3,118.8
-Piso,Calle Romero de Cepeda,154000,3,123.67
-Piso,Calle Romero de Cepeda,127000,3,101.3
+Piso,Calle Romero de Cepeda,149000,3,1188
+Piso,Calle Romero de Cepeda,154000,3,12367
+Piso,Calle Romero de Cepeda,127000,3,1013
 Piso,La Estación,90000,2,50
-Piso,Calle Romero de Cepeda,152000,3,121.01
-Piso,Calle Romero de Cepeda,150000,3,120.28
-Piso,Calle Romero de Cepeda,132000,3,112.01
+Piso,Calle Romero de Cepeda,152000,3,12101
+Piso,Calle Romero de Cepeda,150000,3,12028
+Piso,Calle Romero de Cepeda,132000,3,11201
 Piso,PADRE RAFAEL,195000,5,140
-Piso,Calle Romero de Cepeda,135000,3,107.14
+Piso,Calle Romero de Cepeda,135000,3,10714
 Piso,Los Milagros - Corchera,77500,3,111
-Piso,Calle Romero de Cepeda,136000,3,114.22
+Piso,Calle Romero de Cepeda,136000,3,11422
 Duplex,Ctra de Sevilla - Ronda sur,138000,2,62
 Piso,Calle Romero de Cepeda,145000,3,102
-Piso,Calle Romero de Cepeda,149000,3,121.32
+Piso,Calle Romero de Cepeda,149000,3,12132
 Chalet,Calle Lirio 15,89990,5,175
 Chalet,Avenida Vicente Sos Baynat,80000,3,87
 Piso,Calle Ramón y Cajal 28,129870,3,84
@@ -369,7 +369,7 @@ Piso,PINTOR BARJOLA 3,125000,4,107
 Piso,Avenida Del Prado 4,113600,3,70
 Ático,Avenida Del Prado 4,144600,3,70
 Piso,VIENTO,100000,4,150
-Chalet,Plaza Concepción 27,1000000,60,1.600
+Chalet,Plaza Concepción 27,1000000,60,1600
 Duplex,ROSA MORENA,145000,2,70
 Piso,San Roque - Ronda norte,57500,2,72
 Piso,Calle Matilde Tagle Ortiz 24,249000,3,103
@@ -451,7 +451,7 @@ Duplex,Calle Eugenio Garcia Estop 20,289000,5,164
 Duplex,Calle Eugenio Garcia Estop 20,289000,4,150
 Chalet,Luis de Morales 66,56050,5,200
 Chalet,Avenida Luis Jacinto Ramallo García s/n,109000,4,550
-Chalet,Pedanías norte,260000,5,19.139
+Chalet,Pedanías norte,260000,5,19139
 Ático,Pardaleras,309900,4,40
 Piso,Calle Nuestra Señora de Bótoa,114570,2,70
 Piso,Calle santa ana s/n b,25000,3,111
@@ -467,7 +467,7 @@ Piso,Calle JHON LENNON s/n,120000,2,70
 Piso,Calle Cerro de la Fuente,56000,2,64
 Piso,Calle Nuestra Señora de Bótoa,134000,3,103
 Piso,Calle Cerro de la Fuente,62000,2,72
-Chalet,Jerez de los Caballeros,500000,10,1.800
+Chalet,Jerez de los Caballeros,500000,10,1800
 Piso,N-523,222000,4,157
 Chalet,Calle San Juan,65000,4,153
 Chalet,Calle Buenavida,17000,2,100
@@ -482,8 +482,8 @@ Piso,Plaza Padre Eugenio,94900,3,8
 Ático,Casco Antiguo - Centro,449000,6,180
 Piso,La Estación,122200,3,86
 Chalet,Calle Pantano de Puerto Peña,520000,6,1000
-Chalet,URB.CAMPO DE GOL,359000,5,1000
-Piso,Avda. Elvas,171535,2,90
+Chalet,URBCAMPO DE GOL,359000,5,1000
+Piso,Avda Elvas,171535,2,90
 Piso,Calle Díaz Tanco 1,90000,3,85
 Piso,SAN ALVADOR 29,120000,5,182
 Piso,Bodegones - Salesianos,120000,3,100
@@ -499,7 +499,7 @@ Chalet,Calle Castelar 61,13000,4,152
 Piso,Avenida Conde de Barcelona 20,230000,3,118
 Piso,Santa Marina - La Paz,165000,3,107
 Chalet,Calle Calilla,61560,5,177
-Duplex,Calle Alfonso X 7,56000,3,94.00
+Duplex,Calle Alfonso X 7,56000,3,9400
 Piso,Calle Federico García Lorca 3,9000,3,56
 Chalet,Calle Almagro,62000,3,118
 Chalet,Calle Ecuador,60000,3,116
@@ -536,7 +536,7 @@ Chalet,Calle Pablo Ruiz Picasso 26,199000,5,161
 Piso,Avenida Joaquín Costa 2,129000,3,108
 Chalet,Calle Garci Sánchez de Badajoz 6,165000,3,53
 Chalet,Calle Palmeras 2,121000,4,247
-Chalet,Calle Pantano de Puerto Peña 63,520000,6,1.000
+Chalet,Calle Pantano de Puerto Peña 63,520000,6,1000
 Piso,Alcantara,298000,3,152
 Chalet,Calle el greco 72,135000,3,87
 Piso,Calle Julio Cienfuegos Linares 6,239000,3,93
@@ -570,15 +570,15 @@ Piso,Calle Tejares 7,89900,4,155
 Chalet,Travesía de la Luz 25,75000,4,56
 Piso,Los Milagros - Corchera,127500,4,143
 Chalet,La Garrovilla,99000,5,198
-Casa Rural,Don Alvaro,125000,6,14.400
+Casa Rural,Don Alvaro,125000,6,14400
 Piso,Huerta Rosales - Valdepasillas,159990,4,158
 Chalet,Centro - Argentina,67000,2,128
 Piso,Bodegones - Salesianos,166000,2,110
 Chalet,Calle Dominga Moreno Luna s/n,87300,3,115
-Piso,Avda. Elvas,185000,4,110
+Piso,Avda Elvas,185000,4,110
 Casa Rural,La Codosera,120000,1,465
 Chalet,Los Guadalperales,97850,4,155
-Duplex,"5%.""",824800690,1,253
+Duplex,"5%""",824800690,1,253
 Chalet,Centro - Argentina,240000,5,283
 Piso,Casco Antiguo - Centro,198000,4,122
 Chalet,Bodegones - Salesianos,235000,10,556
@@ -605,14 +605,14 @@ Piso,Bodegones - Salesianos,137260,3,84
 Piso,Calle José Espronceda s/n,70000,3,94
 Chalet,Centro - Argentina,67000,2,128
 Chalet,Calle Dominga Moreno Luna s/n,87300,3,109
-Chalet,Calle Higuera de Vargas 2,153185,4,35.21
+Chalet,Calle Higuera de Vargas 2,153185,4,3521
 Chalet,Los Guadalperales,97850,4,126
 Chalet,San Luis - Albarregas,168000,4,120
 Piso,Plaza DE MINAYO,280000,5,187
 Chalet,Centro - Argentina,190000,7,273
-Piso,Avda. Elvas,185000,4,110
+Piso,Avda Elvas,185000,4,110
 Casa Rural,Valverde de Mérida,120000,3,130
-Chalet,Pedanías norte,199000,3,5.000
+Chalet,Pedanías norte,199000,3,5000
 Chalet,Centro - Argentina,238000,4,148
 Piso,Centro - Argentina,200000,4,151
 Piso,Centro - Argentina,138000,3,110
@@ -624,8 +624,8 @@ Chalet,Arroyo de San Servan,36000,2,100
 Chalet,Calle Viriato,17000,3,151
 Piso,Calle José Lanot,128999,4,156
 Piso,Zurbaran 1,65000,4,153
-Piso,Avda. Elvas,195000,3,95
-Chalet,Pedanías norte,199000,3,5.000
+Piso,Avda Elvas,195000,3,95
+Chalet,Pedanías norte,199000,3,5000
 Piso,Maria Auxiliadora - Barriada LLera,282000,4,25
 Piso,Calle Tierra de Barros,85000,3,80
 Piso,Calle Guadalquivir s/n,91000,3,93
@@ -640,7 +640,7 @@ Chalet,San Aton,105000,4,181
 ,824800417,HERMANOS SEGURA COVARSI,1,55
 Chalet,Avenida Adolfo Suárez González,215000,3,119
 Chalet,La Estación,89900,4,116
-Chalet,Calle POZO s/n,144000,4,373.75
+Chalet,Calle POZO s/n,144000,4,37375
 ,824800417,HERMANOS SEGURA COVARSI,1,42
 Piso,Avenida Europa badajoz,389000,4,156
 Piso,Calle Diego García de Andrade,41600,2,78
@@ -654,7 +654,7 @@ Piso,Travesía de la Rambla,335000,6,202
 Duplex,Avenida de Adolfo Díaz Ambrona 14,60500,0,235
 Chalet,Calle Soledad s/n,33400,3,120
 Chalet,Avenida Adolfo Suárez González,205000,3,116
-Chalet,Diseminado Diseminados,399000,6,5.222
+Chalet,Diseminado Diseminados,399000,6,5222
 Chalet,Calle Nueva,134500,5,177
 Piso,Calle Mérida s/n,63500,3,82
 Chalet,Avenida de Elvas s/n,420000,6,400
@@ -705,7 +705,7 @@ Piso,Calle Mérida s/n,42300,3,111
 Chalet,Orense 35,124000,5,163
 Piso,Calle Mérida s/n,43700,3,94
 Piso,Calle Mérida s/n,43700,3,85
-Piso,Avda. Elvas,200000,3,98
+Piso,Avda Elvas,200000,3,98
 Chalet,Carretera Mengabril 1,280000,4,8558
 Piso,Calle Mérida s/n,43700,3,100
 Piso,Calle Mérida s/n,43700,3,100
@@ -723,7 +723,7 @@ Piso,Calle Mérida s/n,43700,3,112
 Piso,Calle Mérida s/n,43700,3,110
 Piso,Calle Mérida s/n,43700,3,102
 Chalet,Orense 35,124000,5,180
-Piso,Avda. Elvas,200000,3,98
+Piso,Avda Elvas,200000,3,98
 Piso,Santa Marina - La Paz,137500,4,138
 Casa Rural,Valdecaballeros,2500000,4,200
 Piso,Eugenio Garcia Sandoval,145000,3,109
@@ -799,7 +799,7 @@ Casa Rural,Esparragosa de la Serena,120000,7,286
 Piso,Plaza de Alféreces Provisionales,650000,5,182
 Piso,Calle Linares,175000,4,145
 Chalet,El Mirador San Marcos,430000,4,250
-Chalet,Carretera la puebla,480000,5,10.000
+Chalet,Carretera la puebla,480000,5,10000
 Chalet,Calle Pedregosa s/n,116700,3,120
 Piso,Calle Antonio Machado,75000,2,416
 Chalet,Calle Cuartel Guardia Civil s/n,127500,3,111
@@ -814,7 +814,7 @@ Chalet,Calle Carretas s/n,107000,3,95
 Chalet,Calle el Fresno s/n,120800,3,106
 Piso,Calle Serranía de los Caballeros s/n,124600,4,159
 Piso,ruiz azorin 34,83000,3,107
-Casa Rural,URBANIZACION CERRO VERDE,125000,2,5.000
+Casa Rural,URBANIZACION CERRO VERDE,125000,2,5000
 Chalet,Calle Benito Toresano s/n,114500,3,95
 Piso,Calle de Federico González Moreno s/n,69500,3,118
 Piso,Calle Miguel Pérez Carrascosa s/n,125900,3,86
@@ -858,14 +858,14 @@ Piso,Avenida Ricardo Carapeto Zambrano s/n,93600,3,106
 Chalet,Calle Pedrera s/n,90600,3,85
 Chalet,Arenal,188500,5,173
 Chalet,Calle Isaac Peral s/n,65500,3,93
-Chalet,Carretera la puebla,480000,5,10.000
+Chalet,Carretera la puebla,480000,5,10000
 Piso,Calle Antonio Machado,75000,2,416
 Piso,Calle Panamá s/n,80700,3,106
 Piso,Calle Gloria Arcos Fernandez s/n,108900,3,116
 Piso,Calle SAN ISIDRO,249500,5,188
 Piso,Santa Marina - La Paz,259000,5,145
 Piso,Calle San Francisco,120000,3,98
-Ático,Avda. Elvas,295000,3,97
+Ático,Avda Elvas,295000,3,97
 Ático,Calle Torres Isunza 3,145000,3,92
 Piso,Bailen,98000,3,94
 Piso,Avenida de Europa,260000,4,136
@@ -889,7 +889,7 @@ Chalet,Calle Luis Zapata de Chaves,130000,5,132
 Piso,La Garrovilla,50000,4,125
 Chalet,Arcoaguero,125000,2,71
 Piso,Avenida de Europa,260000,4,127
-Ático,Avda. Elvas,295000,3,97
+Ático,Avda Elvas,295000,3,97
 Ático,Calle Torres Isunza 3,118000,2,66
 Piso,Calle Torres Isunza 3,157000,3,89
 Piso,Calle Torres Isunza 3,185000,4,151
@@ -904,7 +904,7 @@ Duplex,Calle romero,150000,3,97
 Chalet,alcantarilla,130000,4,156
 Chalet,CRTA DE LA CORTE,300000,5,420
 Piso,Calle Torres Isunza 3,126000,3,94
-Chalet,Avda. Elvas,287000,4,43
+Chalet,Avda Elvas,287000,4,43
 Chalet,Calle Ecuador 4 -2,60000,3,81
 Piso,Santa Marina - La Paz,260000,4,154
 Piso,San Roque - Ronda norte,147500,4,134
@@ -919,7 +919,7 @@ Chalet,Casco Antiguo - Centro,295000,5,275
 Piso,Avenida Extremadura,169000,4,190
 Chalet,Calle Francisco Gregorio de Salas s/n,108000,5,168
 Chalet,Ctra de Sevilla - Ronda sur,180000,3,42
-Chalet,Maria Auxiliadora - Barriada LLera,369900,5,44.00
+Chalet,Maria Auxiliadora - Barriada LLera,369900,5,4400
 Chalet,Don Alvaro,107000,3,104
 Chalet,Calle Raul Garcia Duran,159000,4,157
 Chalet,Casco Antiguo - Centro,295000,5,275
@@ -929,7 +929,7 @@ Chalet,Casco Antiguo - Centro,180000,5,175
 Piso,Huerta Rosales - Valdepasillas,199900,4,114
 Piso,Maria Auxiliadora - Barriada LLera,95000,2,60
 Chalet,Calle San Juan 25,27500,3,118
-Chalet,Calle Guadalupe,125000,9,1.015
+Chalet,Calle Guadalupe,125000,9,1015
 Chalet,Ctra de Sevilla - Ronda sur,348000,4,130
 Piso,Maria Auxiliadora - Barriada LLera,110000,3,60
 Chalet,Calle Muñoz Torrero,53500,3,100
@@ -958,14 +958,14 @@ Piso,Calle Morería Y Herreros,61000,5,154
 Piso,Pardaleras,89900,3,93
 Piso,Portugal 10,71500,3,133
 Piso,Casco Antiguo - Centro,305000,2,175
-Piso,Calle Telégrafos,52000,2,96.5
+Piso,Calle Telégrafos,52000,2,965
 Chalet,Calle Santa Marta,37183,4,156
 Piso,Portugal 10,71500,3,133
 Chalet,Las Vaguadas - Carretera Valverde,235000,5,220
 Piso,ZONA ABADIAS,154000,3,118
 Piso,Calle Llerena,47400,4,141
 Piso,Calle Morería Y Herreros,61000,5,154
-Piso,Calle Telégrafos,56000,2,109.7
+Piso,Calle Telégrafos,56000,2,1097
 Chalet,La Albuera,125000,4,37
 Piso,Pasaje Rigoberta Menchú,61000,2,67
 Piso,Calle Miraflores,46000,4,139
@@ -983,7 +983,7 @@ Piso,Plaza de Gacía Sola,74880,2,73
 Piso,Maria Auxiliadora - Barriada LLera,185000,3,33
 Chalet,Calle Ecuador,60000,3,100
 Piso,Pasaje Rigoberta Menchú,61000,2,80
-Piso,Calle Telégrafos,54000,2,109.7
+Piso,Calle Telégrafos,54000,2,1097
 Chalet,Diseminado Corchuela 43,350000,8,270
 Piso,Pasaje Rigoberta Menchú,77000,3,90
 Duplex,San Roque - Ronda norte,166000,3,111
@@ -1010,15 +1010,15 @@ Casa Rural,Calle Emilio Castelar 6,43000,5,207
 Chalet,Plaza Cervantes 1,46000,4,160
 Ático,Huerta Rosales - Valdepasillas,249000,3,84
 Piso,La Estación,79995,1,67
-Chalet,Calle Jacaranda,164900,4,17.00
+Chalet,Calle Jacaranda,164900,4,1700
 Casa Rural,Calle Castillo 12,35000,4,129
 Chalet,Calle Virgilio Viniegra,138500,3,25
 Piso,Los Milagros - Corchera,135900,3,86
 Casa Rural,Calle duque s/n,19950,4,126
 Piso,Santa Marina - La Paz,250000,5,171
-Casa Rural,. s/n,10000,2,79
+Casa Rural, s/n,10000,2,79
 Piso,San Roque - Ronda norte,130000,3,106
-Chalet,Carretera Olivenza 2,950000,4,12.000
+Chalet,Carretera Olivenza 2,950000,4,12000
 Piso,Plaza San Sebastián 3,52000,2,61
 Piso,Olivenza,105000,2,103
 Chalet,Las Vaguadas - Carretera Valverde,235000,5,165
@@ -1089,7 +1089,7 @@ Chalet,LEÑADOR,295000,3,340
 Chalet,Bienvenida,880000,6,630
 Piso,REPUBLICA DOMINICANA,95000,3,97
 Chalet,Puebla de la Calzada,69900,3,83
-Casa Rural,Jerez de los Caballeros,595000,5,60.000
+Casa Rural,Jerez de los Caballeros,595000,5,60000
 Piso,San Roque - Ronda norte,200000,4,144
 Chalet,GABRIEL Y GALAN 4,45000,4,153
 Ático,Calle Reyes Huertas 28,199880,3,87
@@ -1129,7 +1129,7 @@ Piso,Almendralejo,55000,3,42
 Chalet,Bienvenida,880000,6,630
 Chalet,Dehesilla de Calamón - Campomanes,250000,4,3320
 Piso,Avenida Santa Marina s/n,430000,7,255
-Chalet,Dehesilla de Calamón - Campomanes,309000,5,5.000
+Chalet,Dehesilla de Calamón - Campomanes,309000,5,5000
 Chalet,Calle ruperto chapi s/n,490000,6,249
 Chalet,Avenida Las vaguadas s/n,370000,5,183
 Ático,Juan carlos I s/n,450000,4,146
@@ -1154,7 +1154,7 @@ Piso,Calle Peñas,37000,3,118
 Piso,Montijo,98500,3,84
 Casa Rural,Bodegones - Salesianos,170000,5,185
 Piso,El Prado,160000,3,91
-Chalet,Centro - Argentina,194900,4,4.500
+Chalet,Centro - Argentina,194900,4,4500
 Piso,Bodegones - Salesianos,147500,3,94
 Piso,Pardaleras,99000,3,102
 Chalet,Valdelacalzada,95000,4,147
@@ -1192,16 +1192,16 @@ Piso,Ciudad Jardín,149000,3,103
 Piso,Huerta Rosales - Valdepasillas,189500,3,102
 Casa Rural,Oliva de la Frontera,75000,4,258
 Chalet,Calle Muza,345000,5,169
-Casa Rural,Carretera de olivenza 1.5 s/n,402824,3,35.000
+Casa Rural,Carretera de olivenza 15 s/n,402824,3,35000
 Chalet,Calle Corazón de Jesús 12,51000,4,190
 Chalet,Calle Estremoz s/n,240000,4,151
-Piso,La Estación,118900,3,124.00
+Piso,La Estación,118900,3,12400
 Chalet,Plaza Manuel Carrascal 2,155000,4,54
 Chalet,Avenida de Alange 12,63000,6,303
 Chalet,Don Benito,125900,3,115
-Casa Rural,Carretera de olivenza 1.5 s/n,402824,3,35.000
+Casa Rural,Carretera de olivenza 15 s/n,402824,3,35000
 Piso,san francisco s/n,110000,3,86
-Piso,La Estación,118900,3,124.00
+Piso,La Estación,118900,3,12400
 Chalet,Las Vaguadas - Carretera Valverde,230000,4,20
 Chalet,Plaza Manuel Carrascal 2,155000,4,54
 Chalet,Calle Corazón de Jesús 12,51000,4,190
@@ -1276,7 +1276,7 @@ Casa Rural,Calle Hernán Cortés 13,89000,4,142
 Chalet,Centro - Argentina,127500,5,240
 Chalet,Calle Teruel 16,90000,8,359
 Piso,Olivenza,129000,5,32
-Chalet,Pantano Orellana s/n,230000,3,12.000
+Chalet,Pantano Orellana s/n,230000,3,12000
 Piso,Calle Antonio Pacheco,180000,4,140
 Piso,caldas da rainha,100000,3,91
 Ático,Camino Llerena 10 PISO,37000,5,35
@@ -1294,7 +1294,7 @@ Casa Rural,Calle Duque de Feria 65,395000,6,241
 Chalet,Calle Arrabal 49,110000,4,140
 Chalet,Calle Margarita Nelken 3,340000,4,123
 Piso,Calle Héroes de Cascorro 1,126500,2,65
-Casa Rural,El Prado,97500,4,6.000
+Casa Rural,El Prado,97500,4,6000
 Chalet,Calle Piornal 7,150000,3,100
  19,924252594,Gaspar Méndez,19,552
 Chalet,Calle Urdidera 22,50000,4,130
@@ -1310,12 +1310,12 @@ Piso,Golf Guadiana,69999,1,69
 Piso,Plaza España 20,45000,4,130
 Casa Rural,Calle Hernán Cortés 13,89000,4,139
 Piso,Calle Pedro Navia 19,81000,3,102
-Casa Rural,San Francisco. 15,325000,8,60
+Casa Rural,San Francisco 15,325000,8,60
 Chalet,Carretera de Jerez 37,45000,7,289
 Chalet,Calle Real 23,90000,8,367
-Chalet,Pantano Orellana s/n,230000,3,12.000
+Chalet,Pantano Orellana s/n,230000,3,12000
 Chalet,Plaza España 19,180000,20,656
-Casa Rural,Paraje de Tentudía s/n,490000,4,43.850
+Casa Rural,Paraje de Tentudía s/n,490000,4,43850
 Piso,Calle Manuel Núñez 3,134900,2,90
 Piso,Calle Francisco Guerra 12,155000,2,3
 Casa Rural,Carretera BA-077 Pantano de Cijara s/n,372000,5,250
@@ -1349,7 +1349,7 @@ Piso,Centro - Argentina,85000,3,111
 Casa Rural,paraje las morras s/n,125000,2,66
 Casa Rural,Calle Hernán Cortés 13,89000,4,139
 Chalet,Calle Sevilla,85000,4,310
-Chalet,Pantano Orellana s/n,230000,3,12.000
+Chalet,Pantano Orellana s/n,230000,3,12000
 Ático,Centro - Argentina,112000,3,94
 Casa Rural,Calle Queipo de Llano 113,160000,3,5819
 Chalet,Calle Quejigo 30,130000,4,200
@@ -1425,7 +1425,7 @@ Piso,Casco Antiguo - Centro,450000,4,127
 Chalet,Calle José Pérez Jiménez 9,48000,5,172
 Chalet,Calle Augusta 9,85000,4,750
 Piso,Casco Antiguo - Centro,180000,3,104
-Casa Rural,Las Vaguadas - Carretera Valverde,250000,4,6.600
+Casa Rural,Las Vaguadas - Carretera Valverde,250000,4,6600
 Chalet,Urbanización Golf Guadiana 170,450000,4,180
 Casa Rural,Calle Risco 9,29000,3,90
 Piso,Calle Macarena 2,59900,4,157
@@ -1452,7 +1452,7 @@ Casa Rural,Calle San Antonio 14,62000,6,221
 Chalet,Urbanizacion las Vaguadas 145,480000,4,240
 Ático,Casco Antiguo - Centro,325000,4,145
 Piso,Calle Espronceda 12,65700,3,120
-Chalet,Las Vaguadas - Carretera Valverde,520000,5,1.000
+Chalet,Las Vaguadas - Carretera Valverde,520000,5,1000
 Chalet,Calle Patio 19,47000,9,160
 Piso,Ctra de Sevilla - Ronda sur,149736,3,112
 Piso,Casco Antiguo - Centro,255000,3,95
@@ -1492,7 +1492,7 @@ Piso,Los Milagros - Corchera,139900,3,94
 Piso,Ctra de Sevilla - Ronda sur,130751,3,115
 Chalet,Feria,141600,4,149
 Chalet,San Juan - Santa Isabel,54500,2,67
-Casa Rural,Las Vaguadas - Carretera Valverde,250000,4,6.600
+Casa Rural,Las Vaguadas - Carretera Valverde,250000,4,6600
 Chalet,Montijo,68000,3,99
 Piso,Conde Cartagena s/n,80000,3,98
 Chalet,Villagonzalo,45000,2,105
@@ -1563,7 +1563,7 @@ Chalet,Nueva Ciudad,350000,5,25
 Chalet,San Vicente de Alcántara,28000,4,145
 Casa Rural,Don Alvaro,207300,3,93
 Chalet,San Juan - Santa Isabel,105000,6,127
-Chalet,Pedanías norte,215000,3,5.000
+Chalet,Pedanías norte,215000,3,5000
 Chalet,Los Milagros - Corchera,172000,3,186
 Piso,Pardaleras,409000,5,180
 Piso,San Roque - Ronda norte,82000,2,77
@@ -1624,14 +1624,14 @@ Chalet,San Roque - Ronda norte,298000,3,230
 Piso,Arturo Gazul,100000,3,88
 Chalet,Arroyo de San Servan,170000,3,456
 Piso,San Luis - Albarregas,101000,4,150
-Chalet,Avda. Elvas,489000,7,612
+Chalet,Avda Elvas,489000,7,612
 Piso,Huerta Rosales - Valdepasillas,255000,4,98
 Chalet,Ctra de Sevilla - Ronda sur,425000,7,50
 Piso,Centro - Argentina,220000,3,120
 Chalet,Ciudad Jardín,274000,4,29
 Piso,Avenida del Ejercito,84000,4,132
 Piso,Centro - Argentina,169000,5,165
-Chalet,Ctra de Sevilla - Ronda sur,389000,5,5.300
+Chalet,Ctra de Sevilla - Ronda sur,389000,5,5300
 Chalet,Don Alvaro,120000,7,283
 Piso,Conde Cartagena s/n,80000,3,101
 Piso,Los Milagros - Corchera,96000,3,88
@@ -1669,10 +1669,10 @@ Piso,Montijo,65000,3,98
 Piso,La Estación,136000,3,100
 Piso,Casco Antiguo - Centro,257000,3,112
 Piso,Orellana la Vieja,32000,3,93
-Chalet,San Pedro de Mérida,275000,4,172.50
+Chalet,San Pedro de Mérida,275000,4,17250
 Piso,Suarez somontes,69900,3,103
 Piso,La Estación,145000,3,105
-Chalet,Avda. Elvas,330000,4,260
+Chalet,Avda Elvas,330000,4,260
 Piso,Maria Auxiliadora - Barriada LLera,185000,3,33
 Piso,Maria Auxiliadora - Barriada LLera,197000,4,100
 Piso,Pardaleras,154900,3,95
@@ -1686,7 +1686,7 @@ Piso,Santa Marina - La Paz,240000,3,100
 Piso,Calle Grecia,90000,3,80
 Piso,Plaza de Portugal,220000,3,96
 Chalet,Casco Antiguo - Centro,260000,6,231
-Chalet,Almendralejo,290000,3,1.700
+Chalet,Almendralejo,290000,3,1700
 Piso,Calle Arturo Gazul,110000,2,78
 Piso,Calle Fontanilla,85000,3,106
 Piso,Casco Antiguo - Centro,186500,5,195
@@ -1737,11 +1737,11 @@ Piso,Calle Villafranca,35000,2,90
 Piso,Calle Pintor Barjola,120000,3,100
 Ático,Calle TELEGRAFOS,78000,3,15
 Piso,Plaza Alfereces,235000,4,132
-Piso,Avda. Elvas,210000,3,115
+Piso,Avda Elvas,210000,3,115
 Piso,Calle Morería Y Herreros 1,61000,4,156
 Piso,Calle Antonio Hernández Gil,99900,1,41
 Piso,Calle Castillo de Mayorga,27300,3,9
-Piso,Calle Francisco Rodríguez Bermejo,55000,2,67.9
+Piso,Calle Francisco Rodríguez Bermejo,55000,2,679
 Piso,Avenida de Pardaleras,89000,3,98
 Chalet,El Fresno,117000,2,110
 Piso,Santa Marina - La Paz,254600,5,175
@@ -1754,11 +1754,11 @@ Chalet,Plaza de España s/n,120000,3,116
 Piso,Santa Marina - La Paz,93000,3,112
 Piso,Calle Perú,39000,2,130
 Duplex,Calle Diego Florindo 8,137000,3,148
-Piso,Carretera Valverde de Mérida,38000,2,64.00
+Piso,Carretera Valverde de Mérida,38000,2,6400
 Chalet,Avenida Extremadura,73000,3,91
 Casa Rural,carlos lima,72000,4,130
 Chalet,Don Benito,79000,3,152
-Piso,Grupo Virgen de Gracia,29000,3,107.0
+Piso,Grupo Virgen de Gracia,29000,3,1070
 Chalet,Calle Luis Navarro Sánchez,33000,3,40
 Piso,Santa Marina - La Paz,93000,3,113
 Piso,Calle Mérida,38000,3,109
@@ -1767,14 +1767,14 @@ Chalet,Olivenza,36000,2,22
 Chalet,Ctra de Sevilla - Ronda sur,125000,4,620
 Piso,Calle Perú,39000,2,130
 Chalet,Calle Donoso Cortés,41900,2,63
-Piso,Avenida de Goya,34000,3,104.61
+Piso,Avenida de Goya,34000,3,10461
 Piso,Santa Marina - La Paz,180000,4,119
 Piso,Camino de los Rostros,115000,3,125
 Piso,Calle Pintor Barjola,120000,3,100
 Piso,Talavera la Real,112000,3,11
 Chalet,Ctra de Sevilla - Ronda sur,345000,4,8
 Piso,Calle Arturo Gazul,125000,3,113
-Piso,Carretera Valverde de Mérida,38000,2,64.00
+Piso,Carretera Valverde de Mérida,38000,2,6400
 Casa Rural,carlos lima,72000,4,128
 Chalet,Don Benito,180000,4,2500
 Piso,Calle Miguel Delibes,17000,1,4
@@ -1798,4 +1798,4 @@ Chalet,Don Benito,79000,3,152
 Piso,Calle Teresa Gomez Navarrete,44500,3,105
 Piso,Avenida de Pardaleras,89000,3,105
 Chalet,El Fresno,117000,2,110
-Piso,Avenida de Goya,38000,2,113.44
+Piso,Avenida de Goya,38000,2,11344

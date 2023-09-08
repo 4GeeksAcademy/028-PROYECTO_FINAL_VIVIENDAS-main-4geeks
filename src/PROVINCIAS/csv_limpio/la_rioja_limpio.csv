@@ -9,7 +9,7 @@ Piso,Calle JUAN XXII,380000,3,97
 Piso,Avenida Solidaridad,240000,3,139
 Piso,Calle Ingenieros Pino y Amorena,167000,3,110
 Piso,Calle Nestares,217000,2,79
-Chalet,Zona Avda. de Madrid,850000,6,21
+Chalet,Zona Avda de Madrid,850000,6,21
 Piso,Gran Vía Juan Carlos I,480000,7,198
 Piso,Avenida Pérez Galdós,247000,5,182
 Piso,Centro,230000,3,91
@@ -20,7 +20,7 @@ Piso,Avenida de la Paz,226000,3,84
 Duplex,Calle Parque de Santa Juliana,130000,2,68
 Piso,Cascajos - Piqueras,245000,3,120
 Piso,Avenida Portugal,280000,2,66
-Piso,Avenida de la Sierra,450000,4,5.700
+Piso,Avenida de la Sierra,450000,4,5700
 Chalet,Avenida de la Sierra,325000,3,101
 Piso,Calle Belchite,165000,3,83
 Piso,Avenida Pérez Galdós,295000,3,106
@@ -62,7 +62,7 @@ Piso,Centro,166000,3,97
 Piso,Avenida de la Sierra,164500,2,66
 Piso,Enrique Granados,187000,2,78
 Piso,Residencia,139000,4,102
-Piso,Centro,350000,3,89.36
+Piso,Centro,350000,3,8936
 Piso,Centro,74900,3,83
 Piso,Calle Belchite,194000,5,190
 Piso,Parque de los Picos de Urbión,265000,3,86
@@ -148,7 +148,7 @@ Piso,Ezcaray,156000,2,70
 Piso,Centro,165000,3,81
 Piso,Centro,265000,4,30
 Piso,César Sierra,43000,2,62
-Piso,Calle Eduardo G. Gallarza,105000,4,150
+Piso,Calle Eduardo G Gallarza,105000,4,150
 Piso,Calle EL PINO,162000,3,30
 Piso,Via Gran,480000,7,254
 Ático,Lardero,165000,2,18
@@ -160,7 +160,7 @@ Piso,Centro,280000,5,175
 Chalet,Avenida MADRID,470000,4,150
 Duplex,Calle Juan Pablo Huerta 2,51000,1,66
 Piso,Avenida Pérez Galdós,89900,2,80
-Piso,Zona Avda. de Madrid,450000,4,145
+Piso,Zona Avda de Madrid,450000,4,145
 Piso,Ezcaray,185000,2,30
 Piso,Ezcaray,130000,2,65
 Piso,Calle Manjarrés,120000,2,61
@@ -187,7 +187,7 @@ Piso,Avenida Río Iregua,94600,3,38
 Piso,Calle Calahorra,139990,4,138
 Piso,Avenida Pérez Galdós,144900,3,110
 Piso,Calle Ateneo Riojano,129900,3,119
-Piso,Calle D.Antonio Larrea,100000,3,15
+Piso,Calle DAntonio Larrea,100000,3,15
 Piso,Calle General Vara de Rey,275000,5,190
 Duplex,Calle los Pinos,169900,3,104
 Piso,Avenida Pío XII,168000,3,115
@@ -220,14 +220,13 @@ Piso,Calle Chile,175000,2,11
 Piso,Calle Siervas de Jesús,365000,4,140
 Piso,Calle Francisco de Quevedo,115000,2,65
 Piso,Calle el Coso,124000,1,50
-Chalet,Cirueña,200000,5,16.000
+Chalet,Cirueña,200000,5,16000
 Piso,Calle San Antón,295000,5,167
 Piso,Gran Vía Juan Carlos I,480000,5,189
 Chalet,Avenida de Madrid,265000,3,85
 Piso,Jose Mª Bacigalupe 3,128000,2,79
 Chalet,Calle Alhama,365000,4,158
 Piso,Calle Eibar,225000,3,91
-Piso,"22 m2 útiles. Dotado del sistema aerotérmico con lo que ahorrarás hasta un 60% en tus facturas. Calefacción mediante suelo radiante en temporada invernal y refrigeración por suelo refrescante en época estival además de un sistema mecánico de renovación de aire con recuperación de calor. Puertas de dormitorios y baños lacadas en blanco. Puerta de acceso a la vivienda blindada. Residencial con 5.700m² con espacios verdes Soleada piscina Gimnasios y gran seguridad. “CALIFICACION ENERGÉTICA A” ""iNuevaCas@” Servicios Inmobiliarios. Telf. // C/ Pilar Salarrullana 17-1º Servicios Inmobiliarios 26002- LOGROÑO. Los datos expuestos son ofrecidos por terceros meramente informativos y se suponen correctos. i Nueva Cas@ Inmobiliaria no garantiza su veracidad. La oferta se sujeta a errores cambios de precio omisión y/o retirada del mercado sin aviso previo. Los gastos de transmisión patrimonial IVA notario y registro corren a cargo del comprador. Siguiendo la normativa española los gastos de comisión corren a cargo del vendedor.""",941773486,2,78
 Chalet,Calle los Pinos,198000,3,92
 Duplex,Donantes de Sangre,40000,2,73
 Chalet,Calle Peso,298000,4,152
@@ -242,7 +241,7 @@ Piso,Federico Gª Lorca 19,108000,2,80
 Piso,CALVARIO 39,145000,3,20
 Piso,Federico Gª Lorca 19,108000,2,77
 Piso,Calle Rio Cidacos,294000,4,146
-Chalet,Terreros 2,420000,5,9.500
+Chalet,Terreros 2,420000,5,9500
 Piso,SOLETA 7,280000,4,150
 Chalet,Aldea Zaldierna s/n,245000,3,182
 Piso,ANTONIO LARREA 17,130000,3,102
@@ -254,7 +253,7 @@ Piso,Calle Padre Jose Garcia 35,120000,1,65
 Chalet,Urbanización Usarena 11,180000,4,440
 Chalet,Calle Hermanos Sánchez del Río 9,3000000,18,534
 Chalet,LR-415 11,69000,2,140
-Chalet,Nalda,160000,6,1.180
+Chalet,Nalda,160000,6,1180
 Piso,Gimileo,79900,3,87
 Piso,Alfaro,350000,3,108
 Piso,Residencia,154900,5,190
@@ -300,7 +299,7 @@ Piso,LUIS ORTUN,130000,3,116
 Chalet,Calle Caballero de la Rosa,124000,3,102
 Piso,Nuestra Señora de Valvanera,135000,2,60
 Piso,Avenida GRAN VIA,620000,6,141
-Chalet,Cirueña,165000,3,16.000
+Chalet,Cirueña,165000,3,16000
 Chalet,Huércanos,215000,6,220
 Chalet,Lardero,250000,4,123
 Piso,Calle Saturnino Ulargui,250000,3,118
@@ -327,7 +326,7 @@ Piso,Calle Ollerías,44000,2,71
 Piso,Parque de los Picos de Urbión,265000,3,113
 Piso,Plaza de España,98000,4,129
 Piso,Calle San Roque,130000,3,113
-Piso,Calle Benemérito C. Guardia Civil,210000,3,118
+Piso,Calle Benemérito C Guardia Civil,210000,3,118
 Piso,Plaza Doña Ermesinda,139900,3,116
 Piso,Calle Río Oja,125000,2,64
 Piso,Camino Solana,130000,2,68
@@ -356,7 +355,7 @@ Piso,Avenida Santo Domingo de La Calzada 9,135000,3,100
 Piso,Calle Galicia,275000,2,68
 Piso,Calle Rio Oja,125000,2,61
 Piso,Plaza Labradores 12,28000,1,57
-Piso,Cirueña,85000,2,16.000
+Piso,Cirueña,85000,2,16000
 Chalet,Calle A,325000,3,20
 Piso,Calle Menendez Pelayo,388000,2,40
 Chalet,Zarraton,85000,4,154
@@ -405,18 +404,18 @@ Chalet,Calle Cantarranas,185000,3,80
 Piso,Republica Argentina,199000,4,135
 Piso,Avenida Burgos,141000,3,106
 Piso,Centro,750000,5,197
-Piso,Zona Avda. de Madrid,299000,3,98
+Piso,Zona Avda de Madrid,299000,3,98
 Piso,Centro,210000,3,103
 Piso,conde de haro 2,120000,1,48
 Piso,Universidad - Los Lirios,226000,3,97
-Piso,Zona Avda. de Madrid,490000,4,137
+Piso,Zona Avda de Madrid,490000,4,137
 Piso,Calle Ortega y Gasset,69000,3,103
 Piso,Villamediana de Iregua,169000,3,95
 Estudio,BAILEN,98000,0,90
 Piso,Centro,255000,4,158
 Piso,Centro,175000,2,61
 Piso,Centro,179000,5,168
-Piso,Zona Avda. de Madrid,397000,3,98
+Piso,Zona Avda de Madrid,397000,3,98
 Piso,Murillo de Rio Leza,99900,2,71
 Piso,Centro,238000,2,71
 Piso,Residencia,228000,3,119
@@ -425,25 +424,25 @@ Piso,Calle San Felices 3,179000,2,78
 Piso,Calle Virgen de Valvanera,135000,2,77
 Piso,Calle Conde de Superunda,80000,2,71
 Estudio,Calle Pasadera,140000,0,20
-Piso,Calle A.Palacio Valdés,119000,3,87
+Piso,Calle APalacio Valdés,119000,3,87
 Piso,Centro,390000,5,166
 Chalet,Las Adelfas,295000,3,99
 Piso,Calle Bretón de los Herreros 58,210000,2,40
 Chalet,Ocon,110000,4,148
 Piso,Calle Alameda,89900,2,66
 Piso,GUSTAVO ADOLFO BECQUER,165000,3,35
-Chalet,Zona Avda. de Madrid,325000,4,150
-Chalet,Haro,320000,4,2.230
-Chalet,Avenida Ingenieros del Ministerio Obras Públicas,770000,9,1.116
+Chalet,Zona Avda de Madrid,325000,4,150
+Chalet,Haro,320000,4,2230
+Chalet,Avenida Ingenieros del Ministerio Obras Públicas,770000,9,1116
 Chalet,Lardero,357000,4,149
 Piso,Calle Centro,82000,2,79
 Piso,Calle General Vara de Rey s/n,139000,3,102
 Piso,Calle César Sierra 3,48000,2,77
 Piso,Centro,265000,4,155
 Piso,Calle General Vara de Rey s/n,139000,3,114
-Chalet,Haro,320000,4,2.230
+Chalet,Haro,320000,4,2230
 Piso,Alfonso Peña,140000,3,106
-Chalet,Zona Avda. de Madrid,325000,4,126
+Chalet,Zona Avda de Madrid,325000,4,126
 Piso,Calle los Olivos,135000,2,61
 Chalet,Avenida madrid 195,430000,4,146
 Duplex,Calle Marqués de la Ensenada,160000,4,133
@@ -452,8 +451,8 @@ Piso,Calle Alfonso VI 12,171000,1,110
 Piso,La Cava,397000,3,114
 Chalet,Lardero,230000,3,57
 Piso,Avenida de los Cuerpos de Obras Publicas,115000,3,96
-Chalet,Avenida de Entrena,650000,6,3.830
-Chalet,Calle Cofradia San Sebastian M.,183000,3,113
+Chalet,Avenida de Entrena,650000,6,3830
+Chalet,Calle Cofradia San Sebastian M,183000,3,113
 Piso,Avenida de los Cuerpos de Obras Publicas,59000,4,134
 Piso,Parque de los Lirios 16,196000,2,75
 Ático,Villamediana de Iregua,129500,2,72
@@ -515,13 +514,13 @@ Piso,REPUBLICA ARGENTINA,249000,5,191
 Chalet,MANRESA,215000,3,480
 Piso,Calle Rey Pastor,180000,4,129
 Chalet,Carretera de Entrena,230000,3,80
-Chalet,Camino rio antiguo,175000,3,1.979
+Chalet,Camino rio antiguo,175000,3,1979
 Piso,Avenida Solidaridad,96000,3,94
 Piso,El Prado,90000,2,76
 Piso,Calle Río Isla 9,239000,3,12
 Piso,Avenida Jubera,110000,3,111
 Chalet,MANRESA,215000,3,480
-Chalet,Camino rio antiguo,175000,3,1.979
+Chalet,Camino rio antiguo,175000,3,1979
 Piso,Avenida Solidaridad,96000,3,96
 Piso,santa isabel,146000,2,53
 Piso,Avenida de la Paz,175000,4,158
@@ -655,13 +654,13 @@ Piso,Calle lope de vega,310000,2,62
 Piso,Calle Duquesa de la Victoria,225000,5,179
 Piso,Oeste,115000,4,136
 Piso,Centro,260000,3,102
-Piso,Cirueña,90000,1,16.000
-Chalet,Zona Avda. de Madrid,385000,4,120
+Piso,Cirueña,90000,1,16000
+Chalet,Zona Avda de Madrid,385000,4,120
 Piso,Centro,149000,3,101
-Chalet,Zona Avda. de Madrid,420000,4,123
+Chalet,Zona Avda de Madrid,420000,4,123
 Chalet,Centro,410000,5,176
 Chalet,Calle Epona,110000,3,140
-Piso,Zona Avda. de Madrid,211000,2,63
+Piso,Zona Avda de Madrid,211000,2,63
 Piso,Parque de los Picos de Urbión,265000,3,88
 Piso,Calle ALFONSO VI,249000,3,98
 Piso,Avenida La Sierra,258000,3,20
@@ -681,7 +680,7 @@ Piso,Centro,750000,6,227
 Piso,Calle Santa Lucía,52000,3,95
 Chalet,orense,268000,3,180
 Piso,Residencia,275000,3,87
-Piso,Cirueña,90000,1,16.000
+Piso,Cirueña,90000,1,16000
 Piso,Universidad - Los Lirios,129000,4,144
 Piso,Centro,130000,3,101
 Chalet,TOPACIO,495000,5,191
@@ -698,22 +697,22 @@ Piso,Calle Conde de Superunda,80000,2,71
 Piso,Calle Duquesa de la Victoria,145000,4,153
 Duplex,Portillera,84000,4,145
 Piso,Calle Marqués de Larios,169000,2,79
-Piso,Av. de la Paz,226000,3,95
+Piso,Av de la Paz,226000,3,95
 Piso,Avenida de la Sierra,175000,2,70
 Chalet,Cirueña,175000,3,40
 Chalet,Calle Miguel Villanueva,185000,4,155
 Piso,Paseo MOLINO 1,99000,3,86
-Chalet,Cirueña,195000,4,16.000
+Chalet,Cirueña,195000,4,16000
 Piso,Santo Domingo de la Calzada,95000,3,91
 Piso,Calle Marqués de la Ensenada,198000,3,98
 Piso,Escuelas Pias,72000,2,72
 Piso,Residencia,139000,4,157
 Duplex,Centro,140000,2,72
-Chalet,Cirueña,188000,3,16.000
+Chalet,Cirueña,188000,3,16000
 Piso,REAL 1,75000,3,103
 Piso,Avenida la Sierra,120000,3,118
 Piso,Santo Domingo de la Calzada,130000,3,97
-Chalet,Cirueña,189000,3,16.000
+Chalet,Cirueña,189000,3,16000
 Piso,El Cerrado 15,95000,2,61
 Chalet,Anguciana,275000,4,880
 Piso,Calle Rioja Palomar,110000,2,75
@@ -745,7 +744,7 @@ Chalet,Zarraton,218000,4,270
 Piso,Avenida Zaragoza,230000,3,105
 Piso,Navarrete,94000,3,117
 Piso,Centro,350000,4,160
-Chalet,Zona Avda. de Madrid,349000,4,146
+Chalet,Zona Avda de Madrid,349000,4,146
 Chalet,Navarrete,650000,5,179
 Piso,Calle Labradores,167000,3,115
 Piso,Calle Río Oja 4,119000,2,62
@@ -758,7 +757,7 @@ Piso,Centro,360000,2,65
 Piso,Centro,390000,5,182
 Piso,Centro,160000,4,120
 Piso,Oeste,279000,6,203
-Chalet,Plaza D.Julián Cantera Drive,75000,6,164
+Chalet,Plaza DJulián Cantera Drive,75000,6,164
 Piso,Calle General Espartero,290000,5,190
 Piso,Calle Marqués de la Ensenada,180000,3,95
 Piso,Calle Rey Pastor,93500,3,101
@@ -783,7 +782,7 @@ Piso,Calle Quintiliano,53000,2,78
 Piso,MARQUES DE LA ENSENADA,135000,3,116
 Piso,Residencia,215000,3,91
 Piso,Calle Duques de Nájera,190000,3,130
-Chalet,Zona Avda. de Madrid,415000,4,141
+Chalet,Zona Avda de Madrid,415000,4,141
 Piso,Calle Fermín Gurbindo,145000,3,102
 Piso,Nalda,56000,3,92
 Piso,gonzalez gallarza,88000,3,115
@@ -814,7 +813,7 @@ Piso,Calvario,130000,3,110
 Piso,Centro,295000,3,88
 Piso,Avenida de la Sierra,258000,3,22
 Chalet,Avenida de la Rioja,280000,4,152
-Casa Rural,Entrena,142000,1,1.900
+Casa Rural,Entrena,142000,1,1900
 Piso,Centro,175000,4,152
 Chalet,Villamediana de Iregua,170000,3,110
 Piso,Travesía RAMON Y CAJAL,115000,2,71
@@ -825,25 +824,25 @@ Chalet,San Lazaro,288500,0,100
 Piso,Los Olivos,93000,2,62
 Piso,Calle San José de Calasanz,75000,2,72
 Chalet,La Laguna,188000,3,91
-Piso,Calle Eduardo G. Gallarza,100000,2,79
+Piso,Calle Eduardo G Gallarza,100000,2,79
 Piso,Fuenmayor,103000,3,102
 Chalet,Margubete,89000,4,145
 Ático,Centro,88000,2,60
 Duplex,Rio Lavilla,76463,2,60
 Piso,Mediodia,83000,2,74
 Piso,Plaza SAN AGUSTIN,225000,3,96
-Chalet,Zona Avda. de Madrid,450000,4,143
+Chalet,Zona Avda de Madrid,450000,4,143
 Piso,Senado 7,79900,2,67
 Piso,Calle Panzares 12 -14,303000,2,65
 Piso,Los Molinos,125000,4,136
-Chalet,Zona Avda. de Madrid,450000,4,121
+Chalet,Zona Avda de Madrid,450000,4,121
 Piso,Villamediana de Iregua,105000,2,72
 Piso,San Miguel,130000,2,75
 Piso,San Miguel,130000,2,70
-Chalet,Zona Avda. de Madrid,890000,6,238
+Chalet,Zona Avda de Madrid,890000,6,238
 Piso,Centro,125000,3,95
 Piso,Senado 7,79900,2,80
-Piso,Calle Eduardo G. Gallarza,100000,2,77
+Piso,Calle Eduardo G Gallarza,100000,2,77
 Piso,Calle Panzares 12 -14,303000,2,67
 Piso,San Roque,89000,4,75
 Piso,Calle Tricio,53000,3,90
@@ -1016,7 +1015,7 @@ Piso,Centro,120000,3,85
 Piso,Calle Guillén de Brocar 21,156000,2,72
 Piso,Parque las Gaunas 1,349000,4,157
 Estudio,Calle Monasterio de Yuso 8,43000,0,33
-Piso,Zona Avda. de Madrid,365000,3,97
+Piso,Zona Avda de Madrid,365000,3,97
 Piso,Via GRAN,220000,3,91
 Piso,Calle General Urrutia 7,125000,3,102
 Piso,Parque del Carmen 5,180000,2,69
@@ -1062,7 +1061,7 @@ Piso,Calle Duquesa de la Victoria 35,205000,2,72
 Piso,Calle Baltasar Gracián 11,215000,3,91
 Piso,Ronda de los Cuarteles 8,99500,2,12
 Piso,Calle la campa 23,77000,3,101
-Chalet,Carretera Cortijo 60,700000,6,6.000
+Chalet,Carretera Cortijo 60,700000,6,6000
 Piso,Avenida de Burgos 1,130000,3,100
 Piso,Calle marqués de larios 4,275000,2,74
 Piso,Calle Huesca 45,130000,3,114
@@ -1095,7 +1094,7 @@ Piso,Avenida Solidaridad,410000,4,126
 Piso,Calle Rey Pastor,220000,2,73
 Piso,Centro,299000,3,86
 Piso,Oeste,238000,3,86
-Chalet,Zona Avda. de Madrid,390000,5,170
+Chalet,Zona Avda de Madrid,390000,5,170
 Piso,Calle San Adrián,295000,4,143
 Piso,Calle San Antón,180000,3,107
 Piso,Gran Vía Juan Carlos I,300000,3,80
@@ -1146,7 +1145,7 @@ Piso,Avenida Lope de Vega,199000,2,68
 Piso,Casco Antiguo,310000,4,140
 Piso,Centro,205000,3,91
 Piso,Calle San Andrés,97500,2,72
-Chalet,LR-441,290000,3,10.488
+Chalet,LR-441,290000,3,10488
 Piso,Centro,190000,3,109
 Piso,Centro,190000,3,84
 Piso,Avenida del Moncalvillo,253000,3,85
@@ -1200,7 +1199,7 @@ Piso,Avenida Gonzalo de Berceo,255000,4,137
 Piso,Centro,205000,3,98
 Chalet,INDEPENDENCIA,264000,5,227
 Chalet,INDEPENDENCIA,264000,5,227
-Chalet,Diseminado Nalda,160000,6,1.180
+Chalet,Diseminado Nalda,160000,6,1180
 Chalet,Juan Carlos I 46,325000,5,179
 Piso,Centro,185000,4,122
 Piso,Casco Antiguo,165000,2,62
@@ -1267,7 +1266,7 @@ Piso,Calle Rio Alhama,265000,4,133
 Piso,Calle María Teresa Gil de Gárate,55000,2,78
 Piso,Calle Alfonso VI,325000,4,156
 Chalet,Calle Niabina,330000,4,134
-Chalet,Calle San Isidro,155000,3,1.700
+Chalet,Calle San Isidro,155000,3,1700
 Chalet,Calle Independencia,320000,4,4
 Piso,Calle Eras San Cristóbal,119000,3,109
 Piso,Calle Plantío,140085,2,70
@@ -1284,7 +1283,7 @@ Piso,LAS HUERTAS,120000,3,96
 Piso,Nueva 2,90000,3,72
 Piso,Residencia,145000,4,149
 Piso,Calle Arrabal 12,99500,4,131
-Chalet,Camino VIEJO DE LOGROÑO,340000,3,2.800
+Chalet,Camino VIEJO DE LOGROÑO,340000,3,2800
 Chalet,higueruela 4,250000,4,486
 Chalet,Avenida de la rioja 62,130000,3,96
 Piso,Doctor Palacios 13,95000,2,74
@@ -1468,7 +1467,7 @@ Piso,Calle Luisa Marín Lacalle,173000,3,113
 Piso,Calle Esteban Manuel Villegas,105000,3,114
 Casa Rural,Plaza San Martín,130000,5,161
 Piso,Calle Alcalde Emilio Francés,59000,3,75
-Duplex,Cirueña,190000,3,16.000
+Duplex,Cirueña,190000,3,16000
 Casa Rural,Calle Castejón,80000,4,127
 Piso,Calle Marqueses de Terán,165000,3,100
 Chalet,Carretera del Cortijo,700000,1,49
@@ -1477,7 +1476,7 @@ Chalet,Calle la Campana,357000,3,18
 Piso,Calle Villamediana,144000,3,106
 Piso,Calle Marqués de San Nicolás,155000,4,131
 Piso,San Roque,80000,2,74
-Chalet,Avenida Zaragoza 3,1850000,6,3.733
+Chalet,Avenida Zaragoza 3,1850000,6,3733
 Chalet,Lardero,255000,3,116
 Piso,Calle General Espartero,265000,4,144
 Piso,cenicero 5,90000,3,82
@@ -1540,7 +1539,7 @@ Chalet,mirasierra 2,215000,3,370
 Piso,Camilo Jose Cela 6,120000,3,7
 Chalet,Portillejo - Valdegastea,480000,6,231
 Piso,Plaza 3,59000,2,6
-Chalet,Calle San Millán de la Cogolla 27,360000,4,5.000
+Chalet,Calle San Millán de la Cogolla 27,360000,4,5000
 Chalet,jardines 11 s/n F,230000,3,166
 Chalet,Plaza de horno 7,55000,4,20
 Chalet,Plaza del horno 7,55000,4,20
@@ -1549,7 +1548,7 @@ Piso,Avenida DE LA RIOJA 1,69000,3,5
 Casa Rural,el molino 26,75000,2,318
 Piso,Avenida de la Rioja 75 A,92000,2,86
 Ático,Calle Muro de Francisco de la Mata 7,790000,3,47
-Piso,Zona Avda. de Madrid,450000,4,142
+Piso,Zona Avda de Madrid,450000,4,142
 Piso,Calle Manjarrés,119000,2,76
 Casa Rural,Carretera Nalda 1,130000,3,107
 Chalet,Avenida Santo Domingo de la Calzada 2,559000,3,255
@@ -1598,7 +1597,7 @@ Piso,Calle las Encinas,84000,3,60
 Piso,Calle Ateneo Riojano,56000,4,125
 Piso,Calle Ortega y Gasset,58000,3,119
 Chalet,Calle Sol,200000,3,112
-Chalet,DS NALDA 339,160000,6,1.180
+Chalet,DS NALDA 339,160000,6,1180
 Duplex,Cuzcurrita,78000,3,100
 Duplex,Rio La Villa,106968,3,67
 Chalet,Santo Domingo,275000,5,600
@@ -1664,7 +1663,7 @@ Piso,Calle Menéndez Pelayo,380000,2,68
 Chalet,Calle RIO JUBERA 31,356000,4,145
 Piso,Calle Presidente Leopoldo Calvo Sotelo,160000,4,139
 Piso,Gran Vía Juan Carlos I,230000,2,72
-Piso,Calle A.Palacio Valdés,108000,2,7
+Piso,Calle APalacio Valdés,108000,2,7
 Piso,Calle Segundo Santo Tomás,185000,3,3
 Casa Rural,Calle Cuatro Cantones,55000,5,180
 Piso,Avenida Pío XII,168000,3,96
@@ -1689,7 +1688,7 @@ Piso,Calle Sagasta,178000,3,93
 Piso,Avenida Cameros,125000,3,90
 Piso,Calle Cantabria,105000,2,68
 Duplex,Calle Senado,100000,1,46
-Chalet,Diseminado Villamediana Iregua,165000,3,1.785
+Chalet,Diseminado Villamediana Iregua,165000,3,1785
 Piso,Calle General Vara de Rey,425000,4,126
 Chalet,N-232,189000,5,15
 Piso,Calle Marqués de Larios,166000,2,30
@@ -1716,7 +1715,7 @@ Casa Rural,Calle Encañado,265000,7,275
 Piso,Centro,388000,7,289
 Piso,Centro,270000,5,177
 Chalet,N-111,160000,6,247
-Chalet,Zona Avda. de Madrid,650000,4,247
+Chalet,Zona Avda de Madrid,650000,4,247
 Piso,Centro,325000,5,183
 Chalet,Carretera de Logroño 93,189000,5,189
 Piso,Centro,270000,5,197
@@ -1733,7 +1732,7 @@ Piso,Calle las Fábricas,76000,2,76
 Ático,Calle Francisco Saenz Porres s/n,230000,2,78
 Ático,Calle Francisco Saenz Porres s/n,295000,4,145
 Piso,Calle Francisco Saenz Porres s/n,251000,3,106
-Piso,Zona Avda. de Madrid,399000,4,158
+Piso,Zona Avda de Madrid,399000,4,158
 Piso,rio molinos 2 2,187000,2,62
 Piso,Casco Antiguo,240000,3,104
 Ático,Calle Francisco Saenz Porres s/n,280000,3,97
@@ -1778,7 +1777,7 @@ Piso,Calle Huesca,160000,4,153
 Duplex,Zarraton,85000,2,64
 Chalet,Hervias,140000,3,73
 Piso,Calle Isidoro Salas 26,43019,3,120
-Piso,Cirueña,95000,2,16.600
+Piso,Cirueña,95000,2,16600
 Piso,Avenida paz,89000,3,86
 Chalet,Bañares,55000,5,164
 Piso,Calle Marqués de la Ensenada,180000,4,123

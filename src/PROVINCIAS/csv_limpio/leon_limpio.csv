@@ -8,7 +8,7 @@ Duplex,Crucero- Pinilla,395000,5,217
 Piso,La Chantría- La Lastra,450000,3,155
 Piso,Las Ventas,95500,2,65
 Piso,San Mamés- La Palomera,123000,3,95
-Piso,Av. Quevedo,395000,5,183
+Piso,Av Quevedo,395000,5,183
 Piso,Avenida Ordoño II 39,335000,4,155
 Piso,ALFAGEME,153000,3,87
 Piso,Avenida del Párroco Pablo Díez 60,89900,3,25
@@ -46,14 +46,14 @@ Chalet,Calle Selmo,165000,4,40
 Chalet,Avenida el Canal,199900,6,220
 Piso,Calle Diego Antonio Gonzalez 5,127000,2,72
 Piso,Avenida Príncipe de Asturias,235000,3,90
-Chalet,C. Rey Sancho s/n,152500,3,192
+Chalet,C Rey Sancho s/n,152500,3,192
 Chalet,Calle Escipión,235000,3,118
 Piso,Plaza la Inmaculada,373500,4,139
 Piso,Avenida República Argentina,349500,5,205
 Chalet,887820951,Travesía EL CEMBO 1,109500,676
 Piso,Calle Cinco de Octubre,369000,3,125
 Piso,Zona Alta,89000,3,90
-Chalet,Calle Peña Ubiña,398500,4,1.250
+Chalet,Calle Peña Ubiña,398500,4,1250
 Chalet,Calle Rey Fernando I,279000,4,221
 Chalet,Buganvilla,330000,4,128
 Chalet,Calle Centauro,210000,4,229
@@ -91,7 +91,7 @@ Chalet,Plaza las Eras,80000,6,223
 Piso,Calle Peña Labra,125000,3,83
 Piso,Avenida Padre Isla,203519,3,199
 Chalet,Villasabariego,129000,3,95
-Piso,Centro,89900,4,5.00
+Piso,Centro,89900,4,500
 Piso,Calle La Iglesia s/n,89000,3,87
 Chalet,Blas Sierra 30,68500,4,132
 Chalet,Sariegos,328000,4,148
@@ -234,7 +234,7 @@ Piso,Calle del Oro 16,42000,1,55
 Piso,Calle Oro 3,48000,4,133
 Piso,Calle Reina Sofia 9,62000,4,159
 Piso,Avenida de valdes 23,148000,2,68
-Piso,C. José Luis Pécker 11,147000,3,115
+Piso,C José Luis Pécker 11,147000,3,115
 Piso,Avenida España 1,70000,4,150
 Chalet,Calle las Campas 9,139000,4,123
 Piso,Calle La Cemba 45,65000,3,104
@@ -250,7 +250,7 @@ Piso,Calle Fray Luis de León,130000,3,108
 Piso,Calle Fray Martín de Valencia,43000,2,70
 Chalet,Calle Cabo Gata,230000,4,137
 Piso,Calle Uruguay 11,96000,3,115
-Chalet,Calle Alisar,425000,6,2.660
+Chalet,Calle Alisar,425000,6,2660
 Chalet,Piedrasecha,390000,3,260
 Piso,Calle las Médulas,179900,3,85
 Piso,Calle Boeza 3,69900,3,91
@@ -337,7 +337,7 @@ Piso,Avenida Galicia 299,82000,4,127
 Piso,Avenida Real,149000,3,111
 Piso,Calle Mendo 3,89990,2,76
 Piso,Avenida america 29,128000,2,62
-Piso,C. las Violetas 8,87000,3,117
+Piso,C las Violetas 8,87000,3,117
 Piso,Avenida Díaz Ovelar 1,59000,3,111
 Casa Rural,Real 33,115000,7,116
 Duplex,joaquin blume 2,128000,3,83
@@ -374,7 +374,7 @@ Chalet,Calle Rinconada,45000,3,408
 Chalet,Calle Madreselva 155,199900,3,220
 Piso,Calle Maestro Nicolás,169000,3,120
 Piso,Villaquilambre,83000,2,62
-Piso,El Ejido- Sta. Ana,99000,1,53
+Piso,El Ejido- Sta Ana,99000,1,53
 Casa Rural,San Mamés- La Palomera,135000,4,131
 Piso,Trobajo del Camino,115000,3,94
 Chalet,Chozas de Abajo,158500,4,121
@@ -403,7 +403,7 @@ Piso,Las Eras de Renueva,132900,3,85
 Piso,La Vega-Oteruelo,57500,3,103
 Piso,Villaquilambre,145000,3,119
 Piso,Villaquilambre,98000,3,113
-Piso,El Ejido- Sta. Ana,99000,1,53
+Piso,El Ejido- Sta Ana,99000,1,53
 Piso,San Mamés- La Palomera,166000,2,66
 Estudio,San Andrés del Rabanedo,87000,0,20
 Chalet,Trobajo del Camino,257000,4,135
@@ -436,12 +436,12 @@ Piso,Calle jaen,46000,2,60
 Piso,Calle de Azorín,94000,2,72
 Casa Rural,Calle Real,59980,3,155
 Piso,Avenida Suero de Quiñones,320000,3,110
-Piso,C. Río Ancares 28,70000,3,86
+Piso,C Río Ancares 28,70000,3,86
 Piso,Calle Maestro Nicolás,64990,1,54
 Piso,Calle del Párroco Don Gregorio Boñar,59900,3,92
-Chalet,Calle Méndez Novoa 1,155000,4,2.726
+Chalet,Calle Méndez Novoa 1,155000,4,2726
 Piso,Calle Matilde Conesa 10,129000,3,109
-Piso,C. Río Ancares 28,70000,3,102
+Piso,C Río Ancares 28,70000,3,102
 Chalet,San Esteban 51,114900,6,214
 Piso,Calle Maestro Nicolás,64990,1,43
 Piso,Calle del Párroco Don Gregorio Boñar,59900,3,92
@@ -477,7 +477,7 @@ Piso,Avenida Independencia 5,290000,3,88
 Piso,Centro,45000,2,62
 Chalet,Cortes de León,720000,4,141
 Chalet,Calle EL MOLINO s/n,184800,4,181
-Chalet,Calle REAL (SECA) 60,130000,3,1.542
+Chalet,Calle REAL (SECA) 60,130000,3,1542
 Piso,Calle la Brañina,46000,2,63
 Piso,Avenida el Ferrocarril 42,136000,3,100
 Piso,PARROCO PABLO DIEZ 197,114000,3,112
@@ -488,7 +488,7 @@ Piso,Jorge Manrique,49900,2,62
 Chalet,Calle Valdesalgueiro 11,27000,6,234
 Chalet,Calle de Méndez Novoa,225000,5,169
 Ático,Calle Villa Benavente,275000,3,112
-Chalet,Avenida de León,475000,4,1.400
+Chalet,Avenida de León,475000,4,1400
 Piso,Calle Josefa Toral,115000,3,120
 Piso,Calle Roa de la Vega,120000,4,123
 Piso,Calle Alcázar de Toledo,330000,4,201
@@ -535,7 +535,7 @@ Piso,Calle Covadonga,160000,4,130
 Chalet,Calle la Aldea,196000,3,86
 Chalet,Calle Sol Poniente,295000,4,140
 Chalet,Calle Juan de Juanes,272500,4,122
-Piso,El Ejido- Sta. Ana,109000,4,140
+Piso,El Ejido- Sta Ana,109000,4,140
 Chalet,Calle Azucena,170000,3,112
 Chalet,Camino de la Borreca Baja,48999,6,296
 Chalet,Calle Escipión,239000,3,87
@@ -545,7 +545,7 @@ Chalet,Plaza San Juan,50000,3,113
 Piso,Calle Arribas,86000,2,63
 Chalet,Calle Rey Alfonso V,290000,3,92
 Chalet,Calle Real,85000,2,61
-Chalet,Camino Zona Camino Cuesta Luzar,620000,5,16.000
+Chalet,Camino Zona Camino Cuesta Luzar,620000,5,16000
 Chalet,Calle Cuatro Vientos,119000,5,186
 Chalet,Calle Padre Manjón,210000,5,400
 Chalet,Vega de Espinareda,75000,7,90
@@ -557,7 +557,7 @@ Piso,Villaquilambre,119000,2,71
 Duplex,Pablo Florez,180500,2,76
 Piso,La Chantría- La Lastra,125000,2,66
 Chalet,Santa Cristina de Valmadrigal,70000,3,107
-Piso,El Ejido- Sta. Ana,105000,4,129
+Piso,El Ejido- Sta Ana,105000,4,129
 Piso,San Esteban,195000,2,80
 Piso,La Chantría- La Lastra,169000,3,120
 Piso,Trobajo del Camino,99495,2,62
@@ -567,8 +567,8 @@ Piso,La Chantría- La Lastra,125000,2,62
 Casa Rural,Flores de Sil,159000,3,200
 Piso,Crucero- Pinilla,45000,2,74
 Chalet,Santa Cristina de Valmadrigal,70000,3,92
-Piso,El Ejido- Sta. Ana,134000,3,130
-Chalet,Avenida De Galicia 390,133500,3,69.15
+Piso,El Ejido- Sta Ana,134000,3,130
+Chalet,Avenida De Galicia 390,133500,3,6915
 Chalet,Calle el Medio,65000,3,94
 Casa Rural,Borrenes,55000,2,270
 Piso,San Esteban,79000,2,79
@@ -577,7 +577,7 @@ Piso,Centro,128990,3,90
 Piso,Centro Ciudad,307600,3,93
 Piso,Joaquin Blume,79000,2,61
 Piso,La Chantría- La Lastra,150000,3,110
-Chalet,Urb. El Mirador,130000,3,125
+Chalet,Urb El Mirador,130000,3,125
 Chalet,Camino de Santiago,490000,4,152
 Chalet,Compostilla-Columbrianos,45000,3,60
 Piso,Calle DONOSO CORTES,117000,4,121
@@ -619,7 +619,7 @@ Piso,Calle Veinticuatro de Abril,115000,2,61
 Piso,San Mamés- La Palomera,149900,2,79
 Casa Rural,Calle Padre Manjon,85000,4,127
 Piso,Gran Vía de San Marcos,239000,3,91
-Chalet,Calle San Pablo,60000,5,5.000
+Chalet,Calle San Pablo,60000,5,5000
 Piso,Avenida Astorga,99000,3,87
 Piso,Avenida de Antibióticos,99000,3,117
 Piso,Calle Lucas de Tuy,45000,3,98
@@ -633,7 +633,7 @@ Chalet,Campo-Los Barrios-Compludo,51000,2,61
 Chalet,Hospital de Orbigo,63900,9,300
 Chalet,Villaquilambre,274000,4,165
 Chalet,Matallana,83000,5,160
-Chalet,Dehesas,470000,4,11.000
+Chalet,Dehesas,470000,4,11000
 Chalet,La Robla,129500,4,38
 Piso,Villaquilambre,119900,2,90
 Chalet,San Cristobal de la Polantera,40000,3,59
@@ -642,7 +642,7 @@ Chalet,San Justo de la Vega,62700,4,226
 Casa Rural,Puebla de Lillo,330000,3,60
 Chalet,San Andrés del Rabanedo,239000,3,7
 Ático,Centro Ciudad,175000,2,15
-Chalet,Dehesas,470000,4,11.000
+Chalet,Dehesas,470000,4,11000
 Chalet,Villaquilambre,250000,4,143
 Piso,Villaquilambre,110000,3,113
 Chalet,Santovenia de la Valdoncina,365000,4,40
@@ -685,13 +685,13 @@ Chalet,Calle Sahagún,149000,2,69
 Chalet,Calle León,198000,4,140
 Chalet,Camino Santiago 35,140000,4,146
 Piso,Calle Paloma,150000,2,73
-Chalet,Calle León,69900,1,3.400
+Chalet,Calle León,69900,1,3400
 Piso,Calle Sampiro,195000,3,102
 Piso,Avenida del Padre Isla,99000,3,92
 Chalet,Zona Alta,43000,5,20
 Piso,Avenida del Padre Isla,99000,2,65
 Piso,Calle Marcelo Macías,79000,3,86
-Casa Rural,Riello,350000,5,1.900
+Casa Rural,Riello,350000,5,1900
 Chalet,Plaza Iglesia,179900,5,171
 Piso,Calle Eladio Tejedor,89000,2,80
 Chalet,Puente Boeza - Otero - Zona Rural Sur,79000,8,285
@@ -849,7 +849,7 @@ Piso,Centro,125000,2,74
 Piso,Calle Santiago Franco,51000,3,98
 Chalet,Calle Arriba,49000,2,72
 Chalet,Calle las Carrizas,150000,3,419
-Piso,El Ejido- Sta. Ana,75999,4,124
+Piso,El Ejido- Sta Ana,75999,4,124
 Piso,Avenida de Fernández Ladreda 62,95000,3,88
 Piso,Camponaraya,69000,2,62
 Piso,Altos de Nava,85000,2,65
@@ -910,7 +910,7 @@ Piso,Calle Fraga Iribarne 27,70000,3,102
 Piso,Calle Club Ademar4 4,130000,2,66
 Piso,La Vega-Oteruelo,85000,3,81
 Chalet,Riaño,56000,3,111
-Piso,Calle Juan Pablo II,180690,3,110.51
+Piso,Calle Juan Pablo II,180690,3,11051
 Piso,Calle la Constitución,10722,8,392
 Piso,Avenida San Mamés,83600,3,86
 Piso,Avenida San Mamés,80300,3,85
@@ -988,7 +988,7 @@ Piso,Calle tras las Casas,75000,4,110
 Piso,Plaza de Rosalía de Castro,190000,4,163
 Chalet,Urbanización Patricia Campo,141000,3,208
 Piso,Paseo San Antonio,96000,3,86
-Piso,SAN FRUCTUOSO 6,97000,3,117.00
+Piso,SAN FRUCTUOSO 6,97000,3,11700
 Piso,Centro,90000,3,110
 Piso,Calle del Conde de los Gaitanes,30000,2,50
 Piso,Calle Cinco de Octubre,190000,6,223
@@ -1007,7 +1007,7 @@ Piso,Matanzas,178000,3,120
 Chalet,Carretera VILLANUEVA,290000,4,156
 Piso,Avenida Valdés 38,59940,4,141
 Piso,Avenida Peñacorada,59000,3,112
-Chalet,Carreterra de Asturias,695000,6,3.000
+Chalet,Carreterra de Asturias,695000,6,3000
 Piso,Avenida del Padre Isla,390000,4,120
 Piso,DESCALZOS,93000,3,98
 Chalet,REAL,47975,3,113
@@ -1030,7 +1030,7 @@ Piso,CONDESA DE SAGASTA,410000,4,5
 Piso,VISTA ALEGRE,45000,2,69
 Piso,BENITO PEREZ GALDOS,150000,2,64
 Duplex,LA SERNA,225000,4,8
-Chalet,El Ejido- Sta. Ana,225000,4,154
+Chalet,El Ejido- Sta Ana,225000,4,154
 Piso,JUAN PABLO II,135000,2,63
 Chalet,MARIALBA,300000,3,103
 Piso,Calle Conde Guillén,250000,3,120
@@ -1087,7 +1087,7 @@ Chalet,La Robla,30000,5,173
 Chalet,Villasabariego s/n,269000,3,268
 Piso,velazquez 5,310000,4,158
 Piso,Calle SAN PEDRO,129900,4,77
-Piso,Avenida QUINTANA,123000,3,117.0
+Piso,Avenida QUINTANA,123000,3,1170
 Piso,Calle Peña Ubiña,94000,3,80
 Piso,JUAN MADRAZO,105000,3,95
 Piso,Calle Málaga 29,49840,4,146
@@ -1125,8 +1125,8 @@ Piso,Calle Sagitario 4,90000,3,87
 Piso,Calle Santa Ana 40,115000,3,111
 Piso,Calle el Carbón 3,69500,4,131
 Piso,Violetas 11,35000,3,107
-Piso,Avdª. Compostilla 15,49000,3,82
-Chalet,Calle Real 26,321000,4,18.900
+Piso,Avdª Compostilla 15,49000,3,82
+Chalet,Calle Real 26,321000,4,18900
 Chalet,Urbanización Los Cerezos,695000,8,445
 Chalet,Calle Constitución 10,89000,4,672
 Piso,Trobajo del Camino,105000,3,89
@@ -1183,7 +1183,7 @@ Piso,Calle Benito Arias Montano,206000,4,156
 Casa Rural,Calle Juan Guaza 2,120000,4,149
 Piso,Calle de San Guillermo,114000,3,92
 Chalet,Calle san juan 4,60000,5,40
-Duplex,Cl. Dos de mayo 31,94950,4,134
+Duplex,Cl Dos de mayo 31,94950,4,134
 Casa Rural,Plaza Ayuntamiento,110000,2,103
 Piso,SANTIAGO APOSTOL,46000,3,119
 Chalet,Calle Los Olivos s/n,180000,3,700
@@ -1299,7 +1299,7 @@ Chalet,maestro rodrigo s/n,285000,4,236
 Chalet,Calle Diecisiete 4,146000,4,500
 Chalet,Vega de Infanzones,33900,2,114
 Piso,Ayuntamiento s/n,69000,5,177
-Chalet,Lugar Gordaliza Pino 3,120000,6,7.450
+Chalet,Lugar Gordaliza Pino 3,120000,6,7450
 Piso,887820761,Calle Boby Deglané 2,140000,7
 Piso,Carretera de Carbajal,115000,3,8
 Chalet,Carretera Villalis,175000,4,120
@@ -1325,19 +1325,19 @@ Chalet,Calle el Pozo,365000,5,161
 Chalet,PARADINAS 12,350000,4,40
 Piso,Travesía Estación,50100,3,112
 Duplex,Avenida Astorga,130000,2,75
-Duplex,Calle Gumersindo Azcárate,139900,3,102.5
+Duplex,Calle Gumersindo Azcárate,139900,3,1025
 Piso,Villaquilambre,85000,3,100
 Chalet,San José 19,130900,3,115
 Piso,Gran Vía de San Marcos,298000,4,150
 Casa Rural,Boñar,94900,6,210
 Piso,Calle Rey Emperador 10,90000,3,110
-Ático,Calle Jorge de Montemayor 16,234500,2,22.70
+Ático,Calle Jorge de Montemayor 16,234500,2,2270
 Chalet,Villaquilambre,70000,3,101
-Piso,Calle Jorge de Montemayor 16,239500,3,22.70
+Piso,Calle Jorge de Montemayor 16,239500,3,2270
 Piso,Calle Padre Arintero,163000,3,100
 Casa Rural,Calle Paloma 21,65000,4,126
 Piso,Calle Ramón y Cajal,575000,3,141
-Piso,Calle Jorge de Montemayor 16,250000,3,22.70
+Piso,Calle Jorge de Montemayor 16,250000,3,2270
 Piso,Avenida del Padre Isla,295000,5,161
 Piso,Calle Sierra Pambley 5,60000,3,96
 Piso,Calle Escultor Amaya 6  - 8,100000,4,47
@@ -1353,7 +1353,7 @@ Chalet,Calle Platerías 20,99900,3,50
 Piso,Calle Revolvedero 1,139000,3,85
 Piso,Plaza de las Tierras Bañezanas s/n,85000,4,151
 Piso,Trobajo del Camino,84000,2,23
-Casa Rural,vega de viejos s/n,560000,9,1.375
+Casa Rural,vega de viejos s/n,560000,9,1375
 Piso,Calle Marcelo Macías 13,69000,3,110
 Chalet,Principal s/n,169000,3,97
 Piso,Calle San Juan Bosco,45495,3,92
@@ -1409,7 +1409,7 @@ Chalet,La Vega-Oteruelo,174900,4,145
 Piso,Joaquín Costa,130000,5,130
 Duplex,San Esteban,206000,4,148
 Chalet,Calle la Constitución 6,180000,7,471
-Ático,Calle Jorge de Montemayor 16,255000,2,22.70
+Ático,Calle Jorge de Montemayor 16,255000,2,2270
 Chalet,Villasabariego,99500,4,297
 Chalet,san juan 16,165000,3,114
 Piso,Centro,79900,4,90
@@ -1489,7 +1489,7 @@ Piso,Avenida Príncipe de Asturias,205000,4,132
 Piso,Calle el Escobar,126000,1,42
 Piso,Avenida de Portugal,96000,2,80
 Piso,blasco ibañez 5,99900,2,62
-Casa Rural,DEHESAS,260000,5,3.500
+Casa Rural,DEHESAS,260000,5,3500
 Duplex,Calle de la Serna,225000,4,100
 Duplex,Calle Monasterio de Montes,129000,3,113
 Piso,Calle Blas de Otero,120000,3,105
@@ -1535,7 +1535,7 @@ Chalet,Calle León,160000,3,210
 Piso,Calle Juan Pablo II,158900,2,70
 Piso,Calle Brianda de Olivera,163000,3,81
 Piso,Calle el Escobar,126000,1,59
-Chalet,Calle Fontoria 4,185000,4,4.600
+Chalet,Calle Fontoria 4,185000,4,4600
 Piso,Avenida Príncipe de Asturias,205000,4,154
 Piso,Avenida de Portugal,96000,2,76
 Piso,Avenida del Reino de León,133000,3,95
@@ -1785,13 +1785,13 @@ Piso,Calle Sampiro,195000,3,86
 Piso,Calle Sancho Ordóñez,115000,4,141
 Piso,Avenida de Álvaro López Núñez,178000,3,80
 Chalet,Calle Cádiz,131000,3,109
-Chalet,Calle Real,495000,5,2.350
+Chalet,Calle Real,495000,5,2350
 Chalet,Urbanizacion la Atalaya Leonesa,395000,6,223
 Duplex,Calle Ruben Dario,167000,4,107
 Piso,Avenida Portugal,79000,4,115
 Piso,Calle San Juan,56000,3,144
 Piso,Plaza la Inmaculada,255000,3,117
-Chalet,Polígono 203. Parcela 80,250000,4,9500
+Chalet,Polígono 203 Parcela 80,250000,4,9500
 Chalet,Calle Real,120000,1,1240
 Piso,Calle Federico Echevarría,129000,3,137
 Chalet,Plaza la Iglesia,180000,5,169

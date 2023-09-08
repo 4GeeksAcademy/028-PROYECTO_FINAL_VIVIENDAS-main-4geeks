@@ -69,7 +69,7 @@ Piso,San Antonio Abad - Polígono San Antón,255000,4,155
 Piso,SOCOVOS 2,89000,4,110
 Chalet,Balazote,89000,3,165
 Duplex,El Pilar,199000,2,67
-Chalet,Calle E,180000,3,1.517
+Chalet,Calle E,180000,3,1517
 Casa Rural,Vía,560000,5,130
 Piso,Avenida de Ilustración s/n,293000,3,90
 Duplex,Avenida de Ilustración s/n,332000,4,141
@@ -91,7 +91,7 @@ Chalet,Hoya-Gonzalo,49900,3,101
 Chalet,Plaza Caudillo 8,39900,4,259
 Piso,Calle Fátima,106900,3,83
 Piso,Calle Pedro Coca,119000,2,79
-Chalet,Yeste s/n,10500000,21,9.847
+Chalet,Yeste s/n,10500000,21,9847
 Piso,Calle Rosario,220000,4,133
 Piso,La Roda,69000,3,103
 Piso,Calle Rosario,212000,4,133
@@ -108,7 +108,7 @@ Chalet,Gardenia,535000,9,2600
 Piso,concepcion 4,370000,3,116
 Piso,Calle Industria 17,200000,3,111
 Piso,San Antonio Abad - Polígono San Antón,108000,4,110
-Chalet,Camino del Alto de los Chorlitos,265000,4,3.000
+Chalet,Camino del Alto de los Chorlitos,265000,4,3000
 Piso,Carretas - Huerta de Marzo,350000,6,232
 Piso,Carretas - Huerta de Marzo,395000,5,174
 Piso,Industria,140000,2,84
@@ -281,7 +281,7 @@ Chalet,La Roda,85000,4,40
 Piso,Avenida de los Reyes Católicos,89000,3,84
 Piso,Fátima,125000,5,185
 Piso,Hermanos Falcó - Sepulcro Bolera,93000,3,98
-Chalet,Urb Pinares del Júcar 8 Km,280000,4,10.000
+Chalet,Urb Pinares del Júcar 8 Km,280000,4,10000
 Piso,Fátima,165000,4,12
 Piso,Calle Octavio Cuartero 13,145000,3,150
 Piso,Calle alcalde conangla 56,140000,3,107
@@ -435,7 +435,7 @@ Chalet,Calle Empedrada 1,300000,6,204
 Chalet,Mendizabal,118000,5,169
 Chalet,Calle las Viñas 1,199000,6,220
 Piso,La Roda,80000,3,120
-Chalet,La Gineta,280000,4,25.00
+Chalet,La Gineta,280000,4,2500
 Piso,Calle Cornejo 100,190000,3,88
 Chalet,Avenida de la Mancha 18,69000,4,150
 Duplex,San Pablo,162000,2,87
@@ -543,20 +543,20 @@ Piso,Calle Poniente,123000,3,98
 Chalet,Carretera de Jaén,390000,7,130
 Piso,Calle Reus,115000,3,103
 Piso,Calle de Muñoz Seca,199000,5,120
-Chalet,Mingobazo,595000,4,1.020
+Chalet,Mingobazo,595000,4,1020
 Chalet,Calle Manzanos,180700,4,120
 Piso,Calle Ríos Rosas,125000,4,123
 Piso,Paseo DE LA CIRCUNVALACION,135000,3,100
 Piso,Calle Caldereros,220000,3,95
 Duplex,Calle León,230000,2,67
 Piso,Franciscanos,140000,4,115
-Casa Rural,Almansa,32000,1,11.000
+Casa Rural,Almansa,32000,1,11000
 Piso,Calle Trovadores,240000,4,134
 Piso,Calle Sancho Panza,315000,3,111
 Casa Rural,Calle de San Miguel,70000,7,294
 Chalet,Higueruela,49500,3,113
 Piso,Calle Juan Pablo II,100000,3,35
-Piso,Medicina,169000,2,13.00
+Piso,Medicina,169000,2,1300
 Chalet,Bonete,14500,2,109
 Piso,Avenida Isabel la Católica 1,310000,5,177
 Chalet,Calle Tercia 65,125000,4,70
@@ -786,7 +786,7 @@ Piso,Calle Pino,138000,2,75
 Chalet,Mahora,114000,3,119
 Chalet,Calle los Altos,43000,3,108
 Duplex,ALMERIA,240000,5,160
-Chalet,Barrios periféricos - Pedanías,195000,4,295.00
+Chalet,Barrios periféricos - Pedanías,195000,4,29500
 Piso,Industria,323000,3,130
 Ático,Fátima,299000,3,106
 Piso,Calle Carlos III,92000,2,71
@@ -796,7 +796,7 @@ Piso,BLASCO IBAÑEZ,169000,4,147
 Chalet,Calle San José,60420,4,146
 Chalet,urbanización las perdices,165000,3,1000
 Piso,Fátima,250000,3,87
-Chalet,AB-823,280000,5,10.000
+Chalet,AB-823,280000,5,10000
 Piso,Calle Luis Rosales,120000,4,90
 Piso,Villacerrada - Centro,155000,4,127
 Piso,Calle Fernán Pérez de Oliva,115000,1,58
@@ -808,7 +808,7 @@ Chalet,Mahora,114000,3,117
 Chalet,Calle San José,60420,4,125
 Piso,Villacerrada - Centro,155000,4,155
 Ático,Carretas - Huerta de Marzo,270000,3,102
-Piso,Calle Buen Suceso,48800,4,112.0
+Piso,Calle Buen Suceso,48800,4,1120
 Chalet,Calle Maestro Francisco Serrano 30,60000,5,220
 Casa Rural,Plaza la Amistad 1,215000,5,162
 Piso,Calle Antonio Gotor 2,259000,4,140
@@ -887,8 +887,8 @@ Chalet,Mahora,125000,4,142
 Piso,Hermanos Falcó - Sepulcro Bolera,185000,2,69
 Piso,San Pablo,140000,3,146
 Chalet,Higueruela,107500,5,95
-Casa Rural,Alborea,270000,4,420.000
-Piso,Caudete,37300,4,114.0
+Casa Rural,Alborea,270000,4,420000
+Piso,Caudete,37300,4,1140
 Piso,Peñas de San Pedro,65000,4,150
 Chalet,San Pedro,149000,4,80
 Piso,Hospital,183000,5,173
@@ -946,7 +946,7 @@ Chalet,Calle Daniel Chulvi 6,55958,3,120
 Chalet,Pozohondo,28000,4,140
 Chalet,Calle San Isidro 22,55000,3,86
 Chalet,Gomez Gil 8,149500,6,243
-Chalet,Calle C. Calvario 8 02694 Higueruela Albacete,75000,6,280
+Chalet,Calle C Calvario 8 02694 Higueruela Albacete,75000,6,280
 Piso,Calle Baños 8,250000,3,90
 Piso,Calle Sangradera s/n,112000,4,130
 Chalet,Calle las Salinas s/n,85500,3,89
@@ -967,7 +967,7 @@ Piso,josé de carvaja,105000,4,95
 Piso,Calle Pedro Coca,133500,2,73
 Piso,Calle Flor s/n,60000,3,109
 Chalet,Calle San Isidro 22,55000,3,101
-Chalet,Calle C. Calvario 8 02694 Higueruela Albacete,75000,6,280
+Chalet,Calle C Calvario 8 02694 Higueruela Albacete,75000,6,280
 Chalet,Vía,265000,4,26000
 Chalet,Gomez Gil 8,149500,6,223
 Piso,Calle Dionisio Guardiola,294000,3,101
@@ -1066,7 +1066,7 @@ Piso,San Pablo,129000,3,90
 Chalet,Calle Placeta s/n,86500,3,90
 Chalet,Calle San Miguel 17,59000,2,75
 Chalet,Calle Pelayo s/n,19200,3,119
-Casa Rural,Calle los Partidores 1,180000,5,1.362
+Casa Rural,Calle los Partidores 1,180000,5,1362
 Chalet,Calle del Cementerio s/n,45100,3,115
 Piso,Calle Blasco Ibáñez,210000,3,108
 Chalet,Tobarra,53100,10,545
@@ -1077,7 +1077,7 @@ Piso,Calle Cura s/n,78200,3,109
 Piso,Calle Ferrero,69900,4,142
 Chalet,Avenida Jose Prat s/n,320000,4,122
 Piso,Villacerrada - Centro,170000,6,249
-Chalet,Urbanización Pinares del Júcar,249900,2,15.000
+Chalet,Urbanización Pinares del Júcar,249900,2,15000
 Chalet,DISEMINADOS s/n,170000,5,380
 Piso,Medicina,165000,2,65
 Piso,Villacerrada - Centro,170000,6,218
@@ -1181,7 +1181,7 @@ Piso,La Roda,80000,3,20
 Piso,Travesía Múnera s/n,40200,3,109
 Piso,Paseo Circunvalación,210000,3,103
 Piso,Calle del Cementerio,66000,3,80
-Chalet,Carretera Santa Ana,310000,3,1.168
+Chalet,Carretera Santa Ana,310000,3,1168
 Chalet,Mingogil,100000,3,95
 Chalet,Calle Doctor Plácido González Duarte,325000,4,185
 Chalet,Calle Reina Sofía s/n,83500,3,118
@@ -1236,7 +1236,7 @@ Piso,Calle Echegaray s/n,45000,3,84
 Chalet,Aldea Potiche 11,10200,3,111
 Piso,Cañicas - Canal de María Cristina ,188000,3,91
 Piso,Hospital,195000,3,33
-Chalet,URBANIZACION PINARES DEL JUCAR,530000,5,10.000
+Chalet,URBANIZACION PINARES DEL JUCAR,530000,5,10000
 Piso,Plaza Gabriel Lodares,490000,5,196
 Chalet,Calle Cristo de la Antigua s/n,26500,3,94
 Piso,Plaza Gabriel Lodares,490000,5,196
@@ -1245,7 +1245,7 @@ Chalet,Calle San Antonio,48000,4,180
 Piso,Calle Pedro Coca,170000,2,10
 Piso,Franciscanos,140000,4,152
 Piso,Plaza San Juan de la Cruz,93000,3,90
-Chalet,URBANIZACION PINARES DEL JUCAR,530000,5,10.000
+Chalet,URBANIZACION PINARES DEL JUCAR,530000,5,10000
 Piso,Carretera Jaen,210000,3,140
 Piso,San Agustín,410000,4,158
 Chalet,Aldea Potiche 11,10200,3,84
@@ -1368,7 +1368,7 @@ Chalet,Barrios periféricos - Pedanías,300000,3,82
 Piso,Calle Nicolás belmonte 5,170000,2,74
 Piso,Calle Corredera,48000,4,141
 Ático,San Pablo,216000,2,110
-Chalet,Barrios periféricos - Pedanías,212000,3,1.000
+Chalet,Barrios periféricos - Pedanías,212000,3,1000
 Chalet,Mahora,130000,5,240
 Piso,Cañicas - Canal de María Cristina ,230000,3,80
 Piso,Carretas - Huerta de Marzo,215000,3,84
@@ -1469,7 +1469,7 @@ Piso,Barrio feria s/n,158000,4,149
 Chalet,Calle Pintada,55000,3,181
 Ático,Carretas - Huerta de Marzo,215000,3,109
 Piso,La Roda,85000,3,89
-Piso,Calle de la Nieve,49950,4,17.5
+Piso,Calle de la Nieve,49950,4,175
 Piso,Calle la Roda,120000,3,113
 Piso,Calle San Luis,243000,4,50
 Piso,Calle Feria,164000,4,124
@@ -1487,7 +1487,7 @@ Piso,Carretas - Huerta de Marzo,159000,1,57
 Piso,Hellín,96500,3,105
 Piso,Franciscanos,67800,3,102
 Chalet,Calle Ana Karenina 6,335000,3,170
-Chalet,Barrios periféricos - Pedanías,260000,3,1.900
+Chalet,Barrios periféricos - Pedanías,260000,3,1900
 Piso,Calle San Luis,243000,4,50
 Piso,Franciscanos,125000,4,137
 Piso,Calle Turbula 14,65000,4,112
@@ -1516,7 +1516,7 @@ Chalet,La Roda,60000,4,498
 Piso,Calle Doctor Beltran Mateos,190000,4,155
 Chalet,Calle San Gregorio,19000,3,89
 Chalet,Calle Amor de Dios,260000,4,1000
-Piso,Calle de la Nieve,49950,4,17.5
+Piso,Calle de la Nieve,49950,4,175
 Piso,Calle Hermanos Jiménez,130000,3,106
 Casa Rural,Aldea Solanilla 60,70000,5,165
 Piso,Calle Rosario,175000,4,140
@@ -1525,7 +1525,7 @@ Chalet,Villalgordo del Jucar,114000,3,92
 Chalet,Urbanizacion Casas Viejas,216000,3,105
 Piso,Calle San Luis,243000,4,50
 Piso,La Roda,220000,5,16
-Piso,Calle de la Nieve,49950,4,17.5
+Piso,Calle de la Nieve,49950,4,175
 Piso,Hellín,96500,3,103
 Chalet,La Roda,196000,6,210
 Piso,Feria,265000,4,161
@@ -1572,7 +1572,7 @@ Chalet,La Roda,119000,6,60
 Chalet,Calle las Petunias,350000,4,15
 Chalet,La Roda,230000,5,40
 Casa Rural,Barrax,7900000,12,447
-Chalet,Chinchilla de Monte-Aragón,125000,4,1.000
+Chalet,Chinchilla de Monte-Aragón,125000,4,1000
 Chalet,Riopar,330000,5,50
 Chalet,Barrios periféricos - Pedanías,130000,2,72
 Chalet,La Roda,132000,3,100
@@ -1589,7 +1589,7 @@ Piso,Calle Francisco Fontecha,295000,4,175
 Piso,La Roda,108000,4,149
 Piso,Feria,180000,4,129
 Duplex,La Pajarita,165000,2,68
-Chalet,Fuensanta,155000,3,2.300
+Chalet,Fuensanta,155000,3,2300
 Piso,Barrios periféricos - Pedanías,135000,3,85
 Piso,Carretas - Huerta de Marzo,180000,3,82
 Piso,Carretas - Huerta de Marzo,240000,4,146
@@ -1617,7 +1617,7 @@ Chalet,Barrios periféricos - Pedanías,390000,7,287
 Chalet,Medicina,340000,6,207
 Piso,Villacerrada - Centro,330000,5,25
 Chalet,Barrios periféricos - Pedanías,660000,7,1400
-Ático,Carretas - Huerta de Marzo,260000,3,87.56
+Ático,Carretas - Huerta de Marzo,260000,3,8756
 Piso,La Roda,80000,4,144
 Chalet,Fátima,449000,7,50
 Chalet,Calle Alta 12,79000,2,64
@@ -1629,7 +1629,7 @@ Piso,Cañicas - Canal de María Cristina ,246000,4,159
 Chalet,El Pilar,299000,4,129
 Piso,Franciscanos,141000,4,122
 Piso,Hospital,240000,4,136
-Chalet,San Antonio Abad - Polígono San Antón,325000,6,10.000
+Chalet,San Antonio Abad - Polígono San Antón,325000,6,10000
 Piso,goleta 29,70000,4,125
 Duplex,San Pablo,159000,2,79
 Piso,Carretas - Huerta de Marzo,220000,4,136
@@ -1666,7 +1666,7 @@ Piso,Franciscanos,130000,4,22
 Chalet,Calle Alta 12,79000,2,73
 Chalet,Avenida el Carrascal 26 I,199000,5,196
 Chalet,Fuensanta,50000,4,120
-Chalet,Barrios periféricos - Pedanías,250000,3,2.300
+Chalet,Barrios periféricos - Pedanías,250000,3,2300
 Piso,San Pablo,218000,3,40
 Piso,La Roda,115000,3,115
 Piso,Franciscanos,141000,4,122
@@ -1675,7 +1675,7 @@ Chalet,El Pilar,299000,4,145
 Chalet,Santa Teresa,350000,4,141
 Chalet,Bogarra,160000,6,250
 Piso,Villacerrada - Centro,260000,3,95
-Piso,San Antonio Abad - Polígono San Antón,155000,3,89.95
+Piso,San Antonio Abad - Polígono San Antón,155000,3,8995
 Chalet,Barrios periféricos - Pedanías,425000,5,2300
 Piso,Calle Virgen,103000,3,90
 Piso,El Pilar,150000,3,90
@@ -1687,7 +1687,7 @@ Piso,virrey morcillo 40,60000,4,129
 Piso,Franciscanos,130000,4,22
 Piso,Yeste,80000,2,69
 Piso,Feria,310000,4,143
-Piso,San Antonio Abad - Polígono San Antón,155000,3,89.95
+Piso,San Antonio Abad - Polígono San Antón,155000,3,8995
 Chalet,Avenida el Carrascal 26 I,199000,5,161
 Chalet,Madrigueras,235000,4,250
 Chalet,La Roda,85000,10,443
@@ -1706,7 +1706,7 @@ Chalet,Barrios periféricos - Pedanías,420000,5,200
 Chalet,Motilleja,800000,6,14000
 Piso,Franciscanos,285000,4,121
 Chalet,Calle Hospital 14,120000,5,215
-Ático,Carretas - Huerta de Marzo,260000,3,87.56
+Ático,Carretas - Huerta de Marzo,260000,3,8756
 Chalet,Barrios periféricos - Pedanías,390000,7,290
 Chalet,Villalgordo del Jucar,110000,3,112
 Piso,La Roda,75000,3,101
@@ -1721,7 +1721,7 @@ Chalet,Terreno Diseminados,200000,3,88
 Chalet,Medicina,340000,6,200
 Piso,Villacerrada - Centro,190000,4,135
 Chalet,Medicina,340000,6,203
-Chalet,Motilleja,315000,4,11.00
+Chalet,Motilleja,315000,4,1100
 Chalet,Calle Hospital 14,120000,5,215
 Piso,Franciscanos,125000,4,149
 Piso,San Antonio Abad - Polígono San Antón,250000,4,180
@@ -1778,7 +1778,7 @@ Piso,Franciscanos,220000,3,143
 Chalet,El Pilar,400000,5,278
 Piso,Santa Teresa,350000,4,128
 Piso,Plaza la Catedral,210000,3,103
-Chalet,serradiel s/n,65000,3,10.000
+Chalet,serradiel s/n,65000,3,10000
 Piso,Cañicas - Canal de María Cristina ,220000,4,125
 Chalet,967790142,Feria,360000,594
 Chalet,El Pilar,400000,5,250

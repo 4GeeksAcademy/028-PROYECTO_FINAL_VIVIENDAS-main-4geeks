@@ -96,7 +96,7 @@ Piso,Calle Navas de Tolosa,275000,3,88
 Piso,Calle San Isidro,149000,3,89
 Piso,Buztintxuri,179000,2,70
 Ático,Parque Erreniega Parkea 45,140000,1,50
-Piso,Calle Santos A. Ochandátegui 94,205000,2,70
+Piso,Calle Santos A Ochandátegui 94,205000,2,70
 Piso,Calle Emilio Arrieta 13,395000,5,141
 Piso,Calle Rioja 1,340000,3,40
 Chalet,Calle Mayor,270000,5,196
@@ -131,7 +131,7 @@ Piso,Calle Carlos II el Malo,160000,3,92
 Chalet,Calle Erdiko,398000,4,232
 Chalet,Atez,690000,8,313
 Piso,Calle Panueva 5,89000,4,123
-Duplex,Calle Santos A. Ochandátegui,188000,2,66
+Duplex,Calle Santos A Ochandátegui,188000,2,66
 Piso,Calle de Francisco Bergamin Kalea,340000,4,157
 Piso,Calle Mayor,215000,3,100
 Piso,Amaya,250000,4,150
@@ -142,7 +142,7 @@ Piso,Plaza San Blas,145000,3,80
 Chalet,Calle de la Jota,300000,3,96
 Piso,Calle Juan Maria Guelbenzu,175000,3,98
 Chalet,Carretera el Fuerte,380000,4,151
-Chalet,Calle Agrupacion Errikotxiki,595000,6,21.000
+Chalet,Calle Agrupacion Errikotxiki,595000,6,21000
 Piso,Calle de Joaquín Imaz Martínez,270000,2,70
 Duplex,Camino de la fuente 5,192000,3,119
 Ático,Calle del Monasterio de Urdax,640000,3,28
@@ -193,7 +193,7 @@ Piso,Calle Provincias,239000,3,116
 Piso,Calle de San Antón 31,162000,2,65
 Piso,Calle Ikortebidea 4,259000,3,80
 Piso,Lodosa,68000,2,64
-Piso,Calle Benjamín de Tudela 21,314000,3,92.19
+Piso,Calle Benjamín de Tudela 21,314000,3,9219
 Chalet,Calle Siglo XXI 25,220000,3,82
 Piso,Calle Doctor Anselmo Goñi 11,198000,3,81
 Piso,Iturrama,279000,3,113
@@ -278,8 +278,8 @@ Chalet,Calle Mayor,220000,4,152
 Ático,Calle Clara Campoamor 1,199000,1,42
 Piso,Calle Amaya,466000,4,124
 Piso,Ardantzeta 17,219000,3,8
-Chalet,Karrika Nagusia,430000,5,1.000
-Chalet,Karrika Nagusia,430000,5,1.000
+Chalet,Karrika Nagusia,430000,5,1000
+Chalet,Karrika Nagusia,430000,5,1000
 Piso,Calle García Castañón,560000,3,113
 Piso,Calle Amaya,466000,4,146
 Piso,Ardantzeta 17,219000,3,8
@@ -295,7 +295,7 @@ Piso,Leyre,670000,5,183
 Chalet,Bentaldea,720000,3,160
 Piso,Calle Mayor,215000,2,64
 Casa Rural,Avenida Zaragoza,215000,4,600
-Chalet,Calle Agrupacion Errikotxiki,645000,6,1.732
+Chalet,Calle Agrupacion Errikotxiki,645000,6,1732
 Piso,Calle Mindegi s/n,295000,3,111
 Duplex,Calle Boltxoko s/n,412000,3,91
 Piso,Travesía de Extremadura 2569,266000,2,74
@@ -329,7 +329,7 @@ Chalet,Avenida de Pamplona,575000,6,443
 Piso,Plaza Arbide s/n,304500,3,82
 Chalet,Calle Iturbero s/n,390000,3,115
 Piso,Plaza Arbide s/n,289500,3,114
-Piso,Urb. San Juan Corella 3,125000,1,58
+Piso,Urb San Juan Corella 3,125000,1,58
 Piso,Plaza Arbide s/n,273000,2,60
 Piso,carlos III,380000,5,187
 Piso,Calle del Monasterio de Urdax 26,390000,3,100
@@ -337,11 +337,11 @@ Chalet,Urdazubi/Urdax,550000,7,280
 Piso,Calle Merindad de Sangüesa 2,218900,2,73
 Duplex,San Gil 19,89000,2,66
 Chalet,Karrika Zaharrea,420000,4,141
-Casa Rural,Calle Mayor,270000,6,2.000
-Duplex,Carretera Obanos - Lerín,210000,4,53.52
+Casa Rural,Calle Mayor,270000,6,2000
+Duplex,Carretera Obanos - Lerín,210000,4,5352
 Chalet,Carretera de Estella Occidental,150000,4,149
 Chalet,Avenida Prado de Irache,199000,2,70
-Chalet,Avenida DE EGÜÉS,1100000,4,1.200
+Chalet,Avenida DE EGÜÉS,1100000,4,1200
 Piso,Avenida de Sancho el Fuerte,229000,1,48
 Piso,Grupo Las Hayas,130000,2,65
 Duplex,Calle de la Albalá 8,195000,3,22
@@ -378,10 +378,10 @@ Piso,Calle de Tiebas,134000,3,113
 Piso,Calle de Leyre,390000,3,111
 Piso,Calle Mañueta,165000,2,64
 Ático,Calle Parroquia,155000,3,70
-Chalet,Los Tilos 15,636000,6,1.060
+Chalet,Los Tilos 15,636000,6,1060
 Piso,Calle Nueva 12,115000,3,115
 Piso,Calle Mayor 11,143000,3,89
-Chalet,Los Tilos s/n,972000,6,1.700
+Chalet,Los Tilos s/n,972000,6,1700
 Piso,Calle Errondoa 10,159000,3,83
 Casa Rural,Calle las Eras,85000,4,268
 Piso,Calle de las Alhemas,160000,3,78
@@ -420,7 +420,7 @@ Casa Rural,San Lorenzo s/n,154000,0,4216
 Piso,Avenida Zaragoza,170000,3,92
 Piso,Fermin Daoiz s/n,163000,3,116
 Piso,Avenida de la Constitución,120000,4,149
-Chalet,Lugar Barrio Lakain 11,750000,4,9.000
+Chalet,Lugar Barrio Lakain 11,750000,4,9000
 Chalet,Calle del Bailío,230000,3,119
 Piso,Avenida Zaragoza,145000,4,148
 Chalet,Calle Cascante,450000,7,259
@@ -439,7 +439,7 @@ Piso,Avenida de Madrid,85000,3,115
 Piso,Calle Juan Antonio Fernández,120000,3,110
 Piso,Calle Angós,54910,3,97
 Chalet,Avenida Nuestra Señora del Carmen,420000,3,230
-Piso,Calle Donantes de Sangre,139000,3,105.72
+Piso,Calle Donantes de Sangre,139000,3,10572
 Piso,Camino Caritat,165000,3,85
 Piso,Avenida de Madrid,85000,3,115
 Casa Rural,Avenida las Rozas,170000,4,60
@@ -451,7 +451,7 @@ Piso,Plaza Sancho VII el Fuerte,215000,3,125
 Piso,Ronda Santa Quiteria,169000,3,95
 Piso,Calle Pau 5,317000,2,14
 Chalet,Calle Don Miguel Eza,200000,3,112
-Piso,Burlada,199500,3,10.5
+Piso,Burlada,199500,3,105
 Casa Rural,Calle Moral,130000,2,4300
 Piso,Calle Vicente Luis Garcera López 19,330000,2,15
 Duplex,Avenida Santa Ana,200000,3,93
@@ -460,7 +460,7 @@ Piso,Plaza Larrache,170000,2,71
 Piso,Calle de Irunlarrea 9,389000,4,117
 Chalet,Calle IPARBEROKI,335000,4,220
 Casa Rural,Calle San Isidro,510000,5,179
-Casa Rural,Calle San Juan Bautista 15,545000,5,2.752
+Casa Rural,Calle San Juan Bautista 15,545000,5,2752
 Piso,Avenida Central,290000,4,121
 Piso,Plaza Sancho VII el Fuerte,200000,4,157
 Casa Rural,Calle Moral,110000,2,65
@@ -470,14 +470,14 @@ Piso,Plaza Doctora Juana Garcia Orcoyen 1,275000,3,95
 Piso,Calle Concejo de Sagaseta 3,223000,3,119
 Duplex,Calle Santa Bárbara,249000,4,262
 Piso,Calle Julián Gayarre,103000,2,67
-Chalet,Baztan,650000,20,9.811
+Chalet,Baztan,650000,20,9811
 Casa Rural,Lerin,85000,3,53
 Piso,Calle del Soto de Lezkairu 17,888000,4,126
 Piso,Calle Juan Antonio Fernández,115000,3,86
 Piso,Calle Escuelas,125000,3,90
 Piso,Calle Ciego de Tudela 36,200000,3,109
 Chalet,Calle Atalaya,98000,5,130
-Chalet,Avenida de los Fueros,370000,4,1.615
+Chalet,Avenida de los Fueros,370000,4,1615
 Piso,Avenida Zaragoza 47,135000,4,136
 Duplex,Calle Herrerías 12,280000,3,92
 Piso,Calle del Monte Campamento 9,220000,3,100
@@ -526,7 +526,7 @@ Piso,Centro,165000,3,107
 Piso,Centro,290000,4,151
 Piso,Centro,105000,3,102
 Piso,Calle Doctor Anselmo Goñi,427000,3,130
-Casa Rural,Camino,123000,2,6.000
+Casa Rural,Camino,123000,2,6000
 Piso,Avenida de Guipúzcoa 39,227600,3,95
 Piso,Estella,150000,3,110
 Piso,Avenida Central,185000,3,5
@@ -609,7 +609,7 @@ Piso,Paseo García el de Nájera 11,260000,1,48
 Chalet,Ibargoiti,178000,3,74
 Piso,Calle Monasterio de la Oliva 31,285000,3,120
 Piso,Calle Francisco Javier Saenz de Oiza 65,195000,2,78
-Chalet,Baztan,995000,7,10.000
+Chalet,Baztan,995000,7,10000
 Chalet,Guesalaz,245000,6,682
 Piso,Calle del Monasterio de Urdax 30,349000,3,99
 Chalet,Egüés,1750000,4,333
@@ -621,7 +621,7 @@ Piso,Calle Abejeras 6,420000,5,162
 Piso,Calle ITURRAMA,330000,4,100
 Piso,Paseo de buztintxuri,125000,3,84
 Piso,Calle Río Alhama,120000,3,78
-Piso,Azucarera,200000,3,25.00
+Piso,Azucarera,200000,3,2500
 Duplex,ABARRATEGUI 8,280000,4,220
 Chalet,Abarzuza,395000,5,181
 Chalet,Olza,265000,4,50
@@ -672,11 +672,11 @@ Casa Rural,Olite,65000,1,8900
 Piso,Isidoro Melero,90000,3,82
 Piso,Calle San Alberto Magno 8,194000,3,87
 Piso,Altsasu/Alsasua,110000,2,77
-Chalet,Arizkun con 12.500 m2 de terreno s/n,249000,5,12.500
-Casa Rural,. s/n,250000,0,280
+Chalet,Arizkun con 12500 m2 de terreno s/n,249000,5,12500
+Casa Rural, s/n,250000,0,280
 Ático,Calle Barquilleros 6,145000,1,25
 Casa Rural,Calle San Martín 40,178000,5,187
-Casa Rural,Basaburua,365000,6,128.000
+Casa Rural,Basaburua,365000,6,128000
 Ático,Avenida de Guipúzcoa 22,269000,2,72
 Piso,Calle de Aralar 7,420000,2,61
 Piso,Calle las Merindades,93000,2,80
@@ -731,7 +731,7 @@ Piso,Calle Serafín Olave 25,349000,3,82
 Piso,Calle Ermitagaña 15,290000,2,74
 Piso,Avenida Pamplona 19,176000,1,48
 Piso,Paseo Santa Lucía 86,125000,3,109
-Piso,Calle Santos A. Ochandátegui 5,179000,1,51
+Piso,Calle Santos A Ochandátegui 5,179000,1,51
 Piso,Avenida Navarra 8,224700,5,80
 Piso,Calle Francisco Javier Saenz de Oiza 73,260000,3,118
 Piso,Casco Antiguo,180000,2,70
@@ -775,7 +775,7 @@ Chalet,nabaz,450000,3,1505
 Casa Rural,Calle NORTE,315000,4,121
 Piso,Burlada,197000,3,92
 Ático,Bera/Vera de Bidasoa,299500,3,120
-Chalet,Travesía Zizurrertea 14,769000,5,1.000
+Chalet,Travesía Zizurrertea 14,769000,5,1000
 Piso,Calle Oihana,230000,2,97
 Ático,Plaza Felisa Munárriz s/n,595000,3,114
 Chalet,Larraun,490000,5,326
@@ -802,7 +802,7 @@ Piso,Plaza Lamiturri 9,295000,3,113
 Piso,Plaza Juan XXIII 1,595000,5,170
 Chalet,Calle las Eras 2,72000,2,63
 Piso,Plaza DEL CASTILLO,595000,7,168
-Casa Rural,Alto Paraje Campo s/n,210000,2,3.601
+Casa Rural,Alto Paraje Campo s/n,210000,2,3601
 Piso,Avenida Carlos III el Noble,550000,3,109
 Piso,Calle de la Zapatería,105000,1,49
 Chalet,NA-6030,220000,3,560
@@ -814,7 +814,7 @@ Chalet,Cizur,735000,4,325
 Piso,Calle de Juan María Guelbenzu Kalea,179000,2,73
 Piso,Calle Sierra de Andía,232000,3,110
 Chalet,Calle Parque de Olaz,620000,5,400
-Chalet,Larraun,580000,4,10.000
+Chalet,Larraun,580000,4,10000
 Piso,Lekunberri,120000,2,65
 Chalet,Calle de Navarra,232000,10,615
 Chalet,castillo de maya,895000,6,209
@@ -828,7 +828,7 @@ Piso,esquiroz 26,270000,3,97
 Piso,Santa Ana 4,102900,3,80
 Piso,Calle Monasterio de Ekoien 4,320000,4,134
 Piso,Calle Mayor 18,199500,3,20
-Chalet,Avenida Nuestra Señora del Perdón,495000,5,2.600
+Chalet,Avenida Nuestra Señora del Perdón,495000,5,2600
 Chalet,Calle Quiñuetas,290000,4,148
 Piso,Olite,335000,4,148
 Piso,Iturrama,340000,4,137
@@ -843,7 +843,7 @@ Piso,Calle San Juan,137000,3,89
 Ático,Noáin (Valle de Elorz),192000,3,86
 Chalet,Calle Monjardín,80000,6,218
 Chalet,Calle Pilares 38,55000,3,83
-Chalet,Ayegui,369000,4,1.300
+Chalet,Ayegui,369000,4,1300
 Chalet,Calle San Miguel 20,30000,2,40
 Piso,Felipe Gorriti,199000,2,69
 Chalet,Avenida Esteribar,365000,3,86
@@ -931,7 +931,7 @@ Piso,Calle Rigoberta Menchú,245000,3,105
 Duplex,Avenida la Lostra,225000,3,113
 Chalet,Calle San Miguel,450000,11,686
 Piso,Plaza Herriko,120000,3,117
-Chalet,Plaza la Fuente,390000,4,1.657
+Chalet,Plaza la Fuente,390000,4,1657
 Piso,Calle Ermineta,69500,2,77
 Chalet,Calle Olleta,267000,3,89
 Piso,Plaza Duquesa de Goyeneche,150000,5,175
@@ -976,7 +976,7 @@ Piso,Calle de Irunlarrea,228000,3,93
 Chalet,Calle Mayor,30000,4,152
 Chalet,Javier,325000,4,133
 Piso,Calle Dos de Mayo,179900,1,50
-Chalet,Berbinzana,315000,4,5.600
+Chalet,Berbinzana,315000,4,5600
 Piso,Pío XII Etorbidea 26,490000,4,140
 Chalet,Aoiz,267000,3,93
 Piso,Plaza Rafael Alberti 5,225000,2,77
@@ -1023,7 +1023,7 @@ Piso,Avenida de Sancho el Fuerte,498000,4,130
 Chalet,Calle Muchos,95000,3,106
 Chalet,Calle Santa María,79000,3,114
 Casa Rural,Avenida de Madrid,95000,3,172
-Duplex,27 m2 (desde estos dos dormitorios se accede a una larga terraza con vistas a la calle Tablada) otro dormitorio de 14,"33 m2 con su baño con plato de ducha y ventana (desde este dormitorio se accede a otra terraza con vistas al jardín comunitario) y finalmente un baño común con plato de ducha y ventana. Esta vivienda se construyó en el año 2.008 y se le han realizado importantes reformas se ha instalado aire acondicionado en: cocina salón - comedor y las 4 habitaciones dispone de luces de led en toda la vivienda y en las terrazas. La calefacción y el agua caliente sanitaria funciona mediante caldera de gas ciudad individual. \"" Se vende con todo el mobiliario y electrodomésticos que se aprecian en el reportaje fotográfico no incluye: televisores sillón de masajes objetos de decoración (cuadros lámparas no fijas alfombras colchas cojines...)\"". En el garaje comunitario tiene una amplia plaza de garaje con su trastero de 8 m2 al fondo de la misma. La comunidad de vecinos dispone de una jardín comunitario y parque infantil justo entre los dos edificios de viviendas que componen esta Comunidad de vecinos. (Datos meramente informativos sin valor contractual. El PVP indicado no incluye impuestos ni gastos de transmisión) ¿Te interesa visitarla en persona? llámanos y lo haremos encantado.""",848860418,72
+Duplex,27 m2 (desde estos dos dormitorios se accede a una larga terraza con vistas a la calle Tablada) otro dormitorio de 14,"33 m2 con su baño con plato de ducha y ventana (desde este dormitorio se accede a otra terraza con vistas al jardín comunitario) y finalmente un baño común con plato de ducha y ventana Esta vivienda se construyó en el año 2008 y se le han realizado importantes reformas se ha instalado aire acondicionado en: cocina salón - comedor y las 4 habitaciones dispone de luces de led en toda la vivienda y en las terrazas La calefacción y el agua caliente sanitaria funciona mediante caldera de gas ciudad individual \"" Se vende con todo el mobiliario y electrodomésticos que se aprecian en el reportaje fotográfico no incluye: televisores sillón de masajes objetos de decoración (cuadros lámparas no fijas alfombras colchas cojines)\"" En el garaje comunitario tiene una amplia plaza de garaje con su trastero de 8 m2 al fondo de la misma La comunidad de vecinos dispone de una jardín comunitario y parque infantil justo entre los dos edificios de viviendas que componen esta Comunidad de vecinos (Datos meramente informativos sin valor contractual El PVP indicado no incluye impuestos ni gastos de transmisión) ¿Te interesa visitarla en persona? llámanos y lo haremos encantado""",848860418,72
 Chalet,Calle Monte Malkaiz,1150000,4,133
 Piso,Calle de Ororbia 2,235000,3,118
 Chalet,Calle la Asunción 3,236000,3,83
@@ -1034,7 +1034,7 @@ Piso,Calle Fernando Remacha,309000,3,118
 Chalet,Plaza Los Fueros,299000,4,137
 Piso,Paseo de Invierno,130000,3,90
 Piso,Iturrama,279000,3,94
-Duplex,Calle Santos A. Ochandátegui,225000,2,10
+Duplex,Calle Santos A Ochandátegui,225000,2,10
 Casa Rural,Ombatillo,175000,2,55
 Piso,Barrio Labaria,99000,4,140
 Piso,Itzan,289900,3,119
@@ -1097,7 +1097,7 @@ Chalet,Calle Baigorri portales del 6 24 26,179000,3,41
 Piso,Calle La falconera s/n,185000,3,136
 Piso,Calle La falconera s/n,180000,2,90
 Duplex,Calle La falconera s/n,190000,3,157
-Chalet,AMESCOAS,480000,3,2.000
+Chalet,AMESCOAS,480000,3,2000
 Piso,Avenida Anaitasuna 11,265000,3,95
 Piso,Calle Boltxoko s/n,298500,3,83
 Piso,LAMBERTO LOSANTOS 4,85000,3,109
@@ -1106,7 +1106,7 @@ Piso,Calle Jarauta 90,119000,1,56
 Casa Rural,Calle Mayor,150000,3,101
 Piso,Calle Francisco Becerra Abadía,200000,3,109
 Ático,Calle PINTOR MAEZTU,660000,4,140
-Piso,Calle D. Pablo Antoñana Angulo,150000,2,62
+Piso,Calle D Pablo Antoñana Angulo,150000,2,62
 Casa Rural,Egüés,79000,1,194
 Piso,Calle estella 3,378000,2,89
 Piso,Avenida Zaragoza,235000,1,01
@@ -1143,7 +1143,7 @@ Piso,Calle de las Maestras 4,159000,3,99
 Piso,Calle Libertad,125000,4,125
 Casa Rural,Calle Barón de la Torre 71,159900,5,165
 Chalet,Calle Urgunea,227000,3,91
-Casa Rural,Carr. de los Valles Orientales de Navarra s/n,150000,8,341
+Casa Rural,Carr de los Valles Orientales de Navarra s/n,150000,8,341
 Piso,Avenida Nuestra Señora de Ujué,190000,3,95
 Chalet,Calle Monasterio de la Oliva,196000,3,160
 Piso,Calle Emilio Arrieta 14,648000,4,166
@@ -1188,11 +1188,11 @@ Piso,caemen baroja nessi 16,220000,3,110
 Chalet,Arakil,590000,8,538
 Chalet,Calle Bizkain,97000,2,65
 Chalet,ALTA 11,40000,2,623
-Chalet,Juslapeña,795000,5,3.500
+Chalet,Juslapeña,795000,5,3500
 Chalet,Calle Errekaldea 7,430000,4,160
 Piso,Plaza Sancho VI el Sabio 7,197000,4,135
 Chalet,Calle la Cinta 16,185000,7,57
-Chalet,A-15 224,775000,8,12.500
+Chalet,A-15 224,775000,8,12500
 Chalet,Calle la Paz 16,190000,4,151
 Piso,Plaza de los Fueros 5,188000,3,114
 Piso,Plaza Rafael Alberti 9,278000,3,113
@@ -1213,15 +1213,15 @@ Chalet,Calle el Soto 23,279000,3,98
 Chalet,Calle Vista Bella 29,129000,3,82
 Chalet,Calle la Cinta 6,87000,3,291
 Piso,Calle de Juan María Guelbenzu Kalea 22,138700,3,118
-Casa Rural,Santiago 131,650000,20,9.811
-Chalet,A-15 224,775000,8,12.500
+Casa Rural,Santiago 131,650000,20,9811
+Chalet,A-15 224,775000,8,12500
 Piso,irigai auzoa 1,77000,2,75
 Piso,Plaza Rafael Alberti 9,278000,3,120
 Duplex,Calle Mayor 16,96000,1,49
 Chalet,Calle Pozoblanco 8,49000,3,110
 Chalet,Calle San Pedro 9,289000,5,170
 Chalet,Ronda San Cristóbal 99,549000,4,46
-Piso,Calle Errotaxar Kalea 2 -6,185000,1,100.000
+Piso,Calle Errotaxar Kalea 2 -6,185000,1,100000
 Piso,Ronda Cendea de Olza s/n,299500,3,103
 Piso,Calle Iturtxoko 5,185000,2,69
 Chalet,Calle Juan de Rada s/n,230000,3,116
@@ -1241,7 +1241,7 @@ Chalet,Calle Alfonso el Batallador 7,120000,13,410
 Piso,Plaza Baja Navarra 1,165000,6,188
 Chalet,Travesía Zizurrertea 23,415000,3,106
 Piso,Calle Sancho Ramírez,490000,4,137
-Chalet,Paseo del cerezo 1,895000,5,3.000
+Chalet,Paseo del cerezo 1,895000,5,3000
 Piso,Calle Bordaldea,143500,3,33
 Chalet,Calle Nueva 30,85000,4,131
 Piso,Ronda Cendea de Olza s/n,299500,3,112
@@ -1430,7 +1430,7 @@ Piso,Calle Obispo Huarte,189000,4,142
 Piso,Calle Alfonso el Batallador 2,310000,4,125
 Chalet,Isaba,225000,5,196
 Piso,Calle Mutilva Alta,429000,3,92
-Chalet,Alzuza-2 11,650000,6,21.000
+Chalet,Alzuza-2 11,650000,6,21000
 Piso,Calle del Monte Monjardín 4,785000,4,200
 Piso,Avenida de Carlos III el Noble 12,465000,5,181
 Piso,Zelai 1,385000,2,140
@@ -1453,11 +1453,11 @@ Piso,Paseo de Pablo Sarasate Pasalekua,1400000,6,204
 Duplex,Lurbeltzeta 58,325000,3,110
 Chalet,Calle Víctor Garín Moreno,229000,4,170
 Piso,Calle José Alonso 4,535000,4,8
-Piso,C. Aoiz 6,500000,5,120
+Piso,C Aoiz 6,500000,5,120
 Duplex,Calle Madrid,450000,3,44
 Chalet,Calle Hegoalde Karrika,459600,3,147
 Chalet,Calle Norte,220000,4,145
-Ático,Calle mayor,119900,3,5.91
+Ático,Calle mayor,119900,3,591
 Chalet,Calle San Juan,339000,4,127
 Piso,Tafalla,79000,3,101
 Ático,Calle Las Blancas 9,395000,3,86
@@ -1672,7 +1672,7 @@ Chalet,Calle San Miguel 37,225000,3,83
 Chalet,Calle Cantón del Silto 4,59900,6,192
 Piso,Calle Rodrigo Ximénez de Rada,40000,4,135
 Chalet,Calle San Lorenzo 5,130000,4,151
-Casa Rural,lotzabian s/n,260000,4,11.568
+Casa Rural,lotzabian s/n,260000,4,11568
 Chalet,cantera 5,86000,3,81
 Piso,Mendigorria,146000,2,61
 Casa Rural,Mañueta 6,310000,4,131
@@ -1701,7 +1701,7 @@ Casa Rural,Mañueta 6,310000,4,132
 Chalet,Calle la Fuente,49000,6,225
 Chalet,cantera 5,86000,3,92
 Chalet,Calle Pedro María Hualde 6,125000,4,171
-Casa Rural,Calle Bustorrazt s/n,600000,6,45.000
+Casa Rural,Calle Bustorrazt s/n,600000,6,45000
 Chalet,Mendigorria,69500,4,139
 Piso,Travesía Juan María Guelbenzu 7,152000,3,48
 Chalet,Carretera Zaldu 53,370000,4,137
@@ -1743,7 +1743,7 @@ Piso,Julián Gayarre,213000,2,63
 Chalet,Longuida,179900,3,108
 Piso,ANSELMO GOÑI,174900,2,65
 Piso,Calle Mayor 42,93000,2,75
-Casa Rural,Calle San Esteban 12,170000,5,1.315
+Casa Rural,Calle San Esteban 12,170000,5,1315
 Chalet,Yerri,169000,3,88
 Piso,Bera/Vera de Bidasoa,154900,2,50
 Casa Rural,Ombatillo 534 -B,103000,2,74
@@ -1768,7 +1768,7 @@ Piso,Zizur Mayor/Zizur Nagusia,259950,4,91
 Piso,Calle Pozo,140000,2,62
 Piso,Calle Verdura,85000,2,74
 Piso,Calle la Cultura,175000,1,49
-Chalet,Iruñeko Etorbideaa,750000,12,1.953
+Chalet,Iruñeko Etorbideaa,750000,12,1953
 Piso,Calle Mayor,141000,5,138
 Chalet,Fuente vieja 6,515000,4,151
 Chalet,Calle Diezma,99900,4,124
@@ -1786,7 +1786,7 @@ Chalet,Calle Mayor,65000,4,141
 Piso,Calle Miravalles,146370,3,85
 Piso,Calle Mugazuri Kalea 4,163000,3,102
 Chalet,Calle Cantones,59000,7,270
-Chalet,Santa Cruz 4,348000,8,90.000
+Chalet,Santa Cruz 4,348000,8,90000
 Chalet,NA-6115,25517,2,172
 Piso,Estella,135000,3,91
 Piso,Monte Monjardin,250000,1,45
@@ -1794,7 +1794,7 @@ Duplex,El Mirador,195381,3,90
 Chalet,Calle Aldautia,217500,3,56
 Chalet,HERRERIAS 20,310000,4,70
 Piso,Calle el salvador,175000,1,44
-Piso,"95 m2. Distribución: 2 salones 2 comedores 5 dormitorios de ellos 4 dobles gran cocina 2 baños 4 chimeneas trastero en el ático. Posibilidad de ascensor existente instalado por el vecino del 3º. Posible negociación para su uso. Reforma integral con muchas posibilidades. distribución: 2 vecinos en el edificio la casa dispone de: cocina gas natural paredes del baño de gres suelo del baño de gres portero automático.""",687954353,9,415
+Piso,"95 m2 Distribución: 2 salones 2 comedores 5 dormitorios de ellos 4 dobles gran cocina 2 baños 4 chimeneas trastero en el ático Posibilidad de ascensor existente instalado por el vecino del 3º Posible negociación para su uso Reforma integral con muchas posibilidades distribución: 2 vecinos en el edificio la casa dispone de: cocina gas natural paredes del baño de gres suelo del baño de gres portero automático""",687954353,9,415
 Piso,Calle Toki Eder,154500,4,145
 Piso,Calle Agrupación las Heras,159000,3,107
 Duplex,Rodrigo Ximenez De Rada,109000,2,80

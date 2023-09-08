@@ -1,6 +1,6 @@
 Tipo de inmueble,Dirección,Precio,Habitaciones,m2
 Piso,Calle de la Parra 2,190000,5,174
-Chalet,Urbanization Aguanaces,375000,4,5.000
+Chalet,Urbanization Aguanaces,375000,4,5000
 Casa Rural,Mirambel,375000,6,541
 Piso,Avenida de América 7,175000,4,120
 Chalet,poligono 12 109,69000,3,93
@@ -43,7 +43,7 @@ Casa Rural,Monterde de Albarracín,98000,3,10
 Piso,San León - El Carmen,89000,3,18
 Casa Rural,San Agustin,67500,2,64
 Piso,Centro,155000,4,132
-Chalet,CRTA. CASTRALVO s/n SN,695000,8,509
+Chalet,CRTA CASTRALVO s/n SN,695000,8,509
 Casa Rural,La Puebla de Valverde,50000,6,224
 Piso,Avenida de Sagunto,245000,3,118
 Chalet,Nogueruelas,980000,7,800
@@ -63,7 +63,7 @@ Piso,Barrio el Molino 24 H,150000,3,110
 Piso,Avenida Sanz Gadea,140000,5,125
 Chalet,Valjunquera,99000,4,231
 Chalet,La Fresneda,350000,5,517
-Casa Rural,Fornoles,200000,5,4.400
+Casa Rural,Fornoles,200000,5,4400
 Chalet,Lledo,65000,1,528
 Chalet,La Portellada,690000,6,668
 Chalet,Peñarroya de Tastavins,135000,6,430
@@ -95,7 +95,7 @@ Duplex,Acceso Urb Vega de la Selva  9,129500,1,94
 Duplex,Acceso Urb Vega de la Selva  9,149000,2,90
 Piso,Acceso Urb Vega de la Selva  9,145000,2,52
 Chalet,Caminreal,120000,7,100
-Chalet,Alcalá de la Selva,900000,5,4.000
+Chalet,Alcalá de la Selva,900000,5,4000
 Duplex,Valderrobres,100000,4,175
 Chalet,Calle Mayor,56737,4,155
 Piso,Calle Rubio 2,79000,2,81
@@ -231,15 +231,15 @@ Chalet,Calle de Sansebastian,99000,5,174
 Chalet,Sol s/n,65000,3,103
 Piso,Mayor 6,55000,3,30
 Piso,Plaza Ampliación Aligarico,112000,3,113
-Casa Rural,Carretera Mora-Rubielos,455000,3,728.916
+Casa Rural,Carretera Mora-Rubielos,455000,3,728916
 Casa Rural,Camino albarracín s/n,14000,1,55
 Chalet,CARRETERA 20,15000,0,20
 Chalet,Arrabal San Pascual 12 -16,139000,10,114
 Casa Rural,Azaila,29900,6,1200
 Chalet,Avenida 9 de marzo 3,80000,5,178
-Chalet,cerraja s/n,99000,4,4.500
+Chalet,cerraja s/n,99000,4,4500
 Chalet,Calle Mayor 11,220000,6,217
-Chalet,cerraja s/n,99000,4,4.500
+Chalet,cerraja s/n,99000,4,4500
 Chalet,La Fuente s/n,165000,4,200
 Chalet,Cuesta Rama 1,45000,3,123
 Chalet,alta s/n,44000,3,100
@@ -291,7 +291,7 @@ Piso,San León - El Carmen,139000,3,90
 Casa Rural,Mayor,65000,4,131
 Casa Rural,Torres,48000,5,192
 Casa Rural,Calle la Fuente 18,55000,5,50
-Casa Rural,Villel,59000,4,1.150
+Casa Rural,Villel,59000,4,1150
 Piso,Centro,210000,7,195
 Chalet,Costera,29000,3,88
 Casa Rural,Puertos 1,180000,0,71
@@ -324,11 +324,10 @@ Duplex,Calle el Cerezo,125000,3,100
 Casa Rural,Calle Tosco Adelante,99500,6,334
 Piso,Centro,235000,3,16
 Chalet,Calle Morón,79600,3,83
-Casa Rural,Calle Baja,31000,2,136.0
+Casa Rural,Calle Baja,31000,2,1360
 Casa Rural,Riodeva,55000,3,102
-Duplex,Calle Sauras,40000,2,121.0
+Duplex,Calle Sauras,40000,2,1210
 Piso,Doctor Gómez Ferrer 46,77500,2,70
-Casa Rural,3m2 Acceso a corral de 20m2 - PLANTA CALLE: 68m2 * Hall de 18,1m2 con armario empotrado * Cocina de 9,7,600
 Piso,Avenida Bartolomé Esteban,29600,2,68
 Chalet,Barrios periféricos,168000,6,248
 Chalet,Carrel - San Julián - Arrabal,410000,5,10
@@ -340,7 +339,7 @@ Casa Rural,Valderrobres,75000,1,219
 Chalet,Alcañiz,250000,7,507
 Chalet,La Fresneda,85000,5,326
 Chalet,Peñarroya de Tastavins,68000,2,156
-Casa Rural,Lledo,20000,1,8.000
+Casa Rural,Lledo,20000,1,8000
 Chalet,La Fresneda,395000,7,452
 Piso,Beceite,95000,2,73
 Chalet,Beceite,135000,3,126
@@ -360,7 +359,7 @@ Chalet,Cretas,85000,6,532
 Piso,Rosario 31,115000,4,141
 Chalet,Torre del Compte,55000,2,176
 Casa Rural,Valderrobres,75000,1,219
-Casa Rural,Lledo,20000,1,8.000
+Casa Rural,Lledo,20000,1,8000
 Chalet,Beceite,135000,3,126
 Chalet,Fuentespalda,144000,2,189
 Casa Rural,Peñarroya de Tastavins,85000,1,350
@@ -432,7 +431,7 @@ Duplex,Urbanización Vega de la Selva 1 11,125000,2,71
 Casa Rural,Rubielos de Mora,315000,6,212
 Casa Rural,Albarracín,250000,4,146
 Chalet,Calle Santa Barbara 35,120000,3,101
-Casa Rural,Mora de Rubielos,280000,1,450.280
+Casa Rural,Mora de Rubielos,280000,1,450280
 Casa Rural,La Puebla de Valverde,460600,1,460
 Casa Rural,Camarena de la Sierra,65000,4,30
 Casa Rural,Calle Eras 1,20000,4,108
@@ -457,9 +456,9 @@ Casa Rural,Manzanera,42000,5,245
 Ático,San Roque 41,90000,2,72
 Piso,Calle Yagüe de Salas 22,120000,3,95
 Casa Rural,Camarena de la Sierra,130000,8,70
-Casa Rural,Albentosa,595000,1,1.400
+Casa Rural,Albentosa,595000,1,1400
 Casa Rural,Torres de Albarracín,157500,6,243
-Casa Rural,Manzanera,85000,1,235.603
+Casa Rural,Manzanera,85000,1,235603
 Casa Rural,Calle Calvario 13,42000,5,296
 Casa Rural,Calle Carmen 33 -31,18000,2,64
 Duplex,Calle el Cerezo,80800,2,65
@@ -468,11 +467,11 @@ Duplex,SANTA LUCIA 11,170000,4,134
 Casa Rural,La Puebla de Valverde,150000,1,787
 Chalet,Cedrillas,90000,2,20
 Casa Rural,Calle Parador 19 -21,160000,5,260
-Casa Rural,Monreal del Campo,350000,31,4.727
+Casa Rural,Monreal del Campo,350000,31,4727
 Casa Rural,Manzanera,75000,2,64
 Duplex,Urbanización Vega de la Selva 1 11,125000,2,73
-Casa Rural,Mora de Rubielos,145000,4,13.790
-Casa Rural,Mora de Rubielos,280000,1,450.280
+Casa Rural,Mora de Rubielos,145000,4,13790
+Casa Rural,Mora de Rubielos,280000,1,450280
 Piso,Cella,85000,4,126
 Casa Rural,Calle San Roque Alto 8,43000,4,100
 Casa Rural,San Juan,48000,4,124
@@ -493,7 +492,7 @@ Casa Rural,Villel,25000,3,116
 Piso,Avenida Manuel Gonzalvo,138500,2,77
 Piso,Torres de Albarracín,110000,4,74
 Casa Rural,Villarquemado,75000,6,147
-Chalet,San Agustin,90000,2,10.018
+Chalet,San Agustin,90000,2,10018
 Casa Rural,unnamed road,283000,0,500
 Piso,Desvio,92000,4,141
 Duplex,Calle Trascorrales,160000,3,128
@@ -505,18 +504,18 @@ Piso,Cella,95000,3,4
 Chalet,San León - El Carmen,295000,6,45
 Chalet,Mas Blanco s/n SN,249000,6,87
 Chalet,Calle del Rosario,17500,3,114
-Casa Rural,Alcalá de la Selva,85000,1,39.369
+Casa Rural,Alcalá de la Selva,85000,1,39369
 Duplex,CAÑIZAREJO,127000,4,237
 Chalet,Calle Horno Alto,490000,3,358
 Casa Rural,Torres de Albarracín,220000,7,272
-Casa Rural,Alcalá de la Selva,85000,1,48.888
+Casa Rural,Alcalá de la Selva,85000,1,48888
 Chalet,Calaceite,320000,6,630
 Piso,Barrios periféricos,72000,1,60
 Casa Rural,Castralvo - Villaespesa - Aldehuela,198000,5,350
 Piso,Cella,92000,3,4
 Chalet,Calle Aduana 9,49900,6,18
 Chalet,Calle del Carmen,89000,4,151
-Casa Rural,Barrios periféricos,99000,2,2.121
+Casa Rural,Barrios periféricos,99000,2,2121
 Casa Rural,Sarrion,112000,3,100
 Casa Rural,Guadalaviar,100000,2,71
 Casa Rural,Torres de Albarracín,220000,7,272
@@ -525,7 +524,7 @@ Chalet,San León - El Carmen,295000,6,45
 Casa Rural,San Juan,48000,4,125
 Piso,Carrel - San Julián - Arrabal,119000,3,82
 Chalet,Barrios periféricos,95000,6,250
-Casa Rural,Cretas,499000,6,8.368
+Casa Rural,Cretas,499000,6,8368
 Chalet,Calle Baja de Carlos I,148000,2,190
 Piso,Calle Arrabal,95000,2,80
 Piso,Cella,92000,3,4
@@ -547,7 +546,7 @@ Casa Rural,Calle Prado,44000,6,64
 Casa Rural,Camañas,67000,1,10
 Chalet,Calle Barrio Verde,48000,2,174
 Chalet,Plaza Castel,130000,11,450
-Chalet,Barrios periféricos,270000,3,2.154
+Chalet,Barrios periféricos,270000,3,2154
 Piso,Manzanera,42000,3,107
 Piso,San Agustin,90000,2,62
 Piso,Plaza Jaime García Herranz 9,68000,4,100
@@ -558,9 +557,9 @@ Casa Rural,Calle Horno,78000,4,156
 Chalet,Calle Alfonso II,99000,3,40
 Casa Rural,Calle Aragón,93000,5,230
 Casa Rural,Manzanera,25000,1,42
-Chalet,Barrio la Guea,228000,3,7.000
+Chalet,Barrio la Guea,228000,3,7000
 Piso,Plaza Jaime García Herranz 9,68000,4,100
-Chalet,Barrios periféricos,270000,3,2.154
+Chalet,Barrios periféricos,270000,3,2154
 Casa Rural,Royuela,23000,3,113
 Piso,Manzanera,42000,3,116
 Casa Rural,Villel,65000,6,50
@@ -574,7 +573,7 @@ Chalet,Calle Baja 26,18500,2,30
 Casa Rural,Via sin nombre s/n,80000,1,499
 Casa Rural,Calle Rocasolano 43,160000,7,267
 Piso,Plaza Cervantes 10,36500,3,91
-Chalet,Alcalá de la Selva,900000,5,4.000
+Chalet,Alcalá de la Selva,900000,5,4000
 Casa Rural,Calaceite,420000,3,112
 Piso,Avenida Valencia s/n,79000,2,80
 Casa Rural,Calle Rincón,175000,1,55
@@ -606,7 +605,7 @@ Casa Rural,Calle Hospital 16,120000,5,194
 Duplex,Camino de Gea,135000,4,153
 Casa Rural,Calle Iglesia 4,25000,8,446
 Casa Rural,Urbanización Sol y Nieve 10,320000,3,117
-Chalet,Calle Muro,500000,5,1.270
+Chalet,Calle Muro,500000,5,1270
 Casa Rural,Rambla PARTIDA LA,185000,4,145
 Casa Rural,Singra,60000,3,119
 Piso,Avenida Albalate 11,68200,3,87
@@ -624,7 +623,7 @@ Casa Rural,Calle josé rivera 23,60000,3,110
 Piso,Calle Santa Ana 103,110000,2,37
 Piso,Calle fuente 7,75000,2,61
 Chalet,Calle Muro Santiago 63,480000,8,74
-Chalet,Ronda Castelserás 1 KmdesdeAlcaiz,320000,4,2.000
+Chalet,Ronda Castelserás 1 KmdesdeAlcaiz,320000,4,2000
 Casa Rural,Calle San Roque 10,59500,6,225
 Casa Rural,Calle EL SOL 52,65000,3,180
 Chalet,Calle Joaquín Costa 30,24900,4,26
@@ -634,7 +633,7 @@ Casa Rural,Calle San Roque,10500,1,60
 Casa Rural,Calle la Palanqueta 10,145000,8,60
 Chalet,Calle las Eras 17,153000,3,100
 Casa Rural,Calle Isidro Amela 26,30000,2,49
-Casa Rural,Poligono 29 1,150000,2,5.800
+Casa Rural,Poligono 29 1,150000,2,5800
 Chalet,Cuesta Jardinera 23,225000,6,221
 Piso,Ensanche - Fuenfresca,179000,4,135
 Piso,Calle el Pilar 1,94000,2,18
@@ -667,7 +666,7 @@ Chalet,Calle Joaquín Costa 30,24900,4,26
 Casa Rural,Calle Carnicería 5,52000,4,350
 Chalet,Calle Muro Santiago 63,480000,8,74
 Casa Rural,- s/n,47000,5,13
-Casa Rural,Poligono 29 1,150000,2,5.800
+Casa Rural,Poligono 29 1,150000,2,5800
 Casa Rural,Calle San Lorenzo 15,44950,5,180
 Casa Rural,Calle la Vuelta 2,215000,8,350
 Casa Rural,Calle Cantarerías 12,42000,3,8
@@ -734,11 +733,11 @@ Casa Rural,Calle Aguera 12,58000,5,165
 Piso,Bronchales,99000,3,86
 Chalet,Castellote,85000,4,129
 Piso,CL SAN JORGE 4,150000,6,218
-Casa Rural,Alcañiz,37000,4,176.0
+Casa Rural,Alcañiz,37000,4,1760
 Chalet,Calle San Lorenzo s/n,36500,4,128
 Chalet,Orrios,36000,7,216
 Casa Rural,Calle el más 3,68900,2,53
-Casa Rural,Andorra,37000,4,136.0
+Casa Rural,Andorra,37000,4,1360
 Casa Rural,Calle Hispano América,59500,3,56
 Casa Rural,La Rocha Alta,110000,5,172
 Chalet,Fuentes de Rubielos,255000,3,104
@@ -778,7 +777,7 @@ Piso,Calle Hispano América,220000,6,239
 Piso,Calle bronchales,99000,3,80
 Piso,Calle Mayor,37000,3,56
 Chalet,Calle Santa Bárbara,38000,4,274
-Piso,Calle Subida San Vicente,66600,3,118.98
+Piso,Calle Subida San Vicente,66600,3,11898
 Chalet,Celadas,125000,7,286
 Piso,MAYOR,54840,2,70
 Chalet,Calle de Luna,47000,4,00
@@ -808,7 +807,7 @@ Chalet,Peñarroya de Tastavins,45000,4,432
 Casa Rural,Valderrobres,22000,1,60
 Casa Rural,Cretas,85000,1,100
 Chalet,Torrecilla de Alcañiz,27500,1,252
-Casa Rural,La Fresneda,24000,1,5.000
+Casa Rural,La Fresneda,24000,1,5000
 Chalet,Cretas,85000,3,78
 Piso,Cretas,80000,3,115
 Chalet,Valderrobres,137750,3,216
@@ -879,7 +878,7 @@ Piso,Plaza Trucharte,33900,3,93
 Piso,Manzanera,60000,3,118
 Chalet,Valjunquera,57000,4,244
 Casa Rural,Gea de Albarracín,149000,1,112
-Casa Rural,Albentosa,85000,3,14.366
+Casa Rural,Albentosa,85000,3,14366
 Casa Rural,Albentosa,75000,4,133
 Casa Rural,Manzanera,35000,1,52
 Casa Rural,La Portellada,28000,1,49
@@ -890,13 +889,13 @@ Casa Rural,Riodeva,30000,5,170
 Chalet,Calle Hospital,21500,3,00
 Piso,Manzanera,15000,1,59
 Chalet,Calle Medio,36100,9,592
-Casa Rural,Alcalá de la Selva,79000,1,46.794
+Casa Rural,Alcalá de la Selva,79000,1,46794
 Casa Rural,Gea de Albarracín,149000,1,112
 Casa Rural,Calle Aragón,41700,4,173
 Chalet,Monroyo,135000,3,85
 Piso,Calle Teniente Moore,105500,3,116
 Piso,Mora de Rubielos,98000,2,62
-Casa Rural,Calle Norte,15800,2,134.0
+Casa Rural,Calle Norte,15800,2,1340
 Piso,Mora de Rubielos,123000,2,66
 Duplex,Manzanera,75000,3,100
 Piso,Cella,105000,4,25
@@ -906,7 +905,7 @@ Piso,Teruel,75000,2,71
 Casa Rural,Manzanera,165000,3,83
 Piso,Manuel Marina,96000,4,123
 Chalet,Calle María Moliner 2,109531,3,97
-Casa Rural,Urb. Solano de la Vega-Panticosa 208,120000,3,82
+Casa Rural,Urb Solano de la Vega-Panticosa 208,120000,3,82
 Piso,Valderrobres,140000,2,83
 Casa Rural,Aréns de Lledo,57000,1,41
 Piso,Calle la Iglesia 3,136000,3,110
@@ -943,19 +942,19 @@ Piso,IBAÑEZ MARTIN 50,105000,3,109
 Casa Rural,Camino del Espligar s/n caminodelespligar,20000,1,80
 Estudio,Calle Casanova 41,39000,0,30
 Piso,Calle Urbanización Sagrada Familia 7,104000,3,84
-Casa Rural,"41°00'16.2""N 0°14'47.2""E 41 °00'16.2""N 0°14'47.2""E",45000,4,200
+Casa Rural,"41°00'162""N 0°14'472""E 41 °00'162""N 0°14'472""E",45000,4,200
 Chalet,Joaquín Costa 2,17000,4,144
 Casa Rural,Calle Portillo 7,15000,6,202
 Ático,Avenida Valencia 4,89000,1,20
 Casa Rural,Retiro 11,53000,2,125
 Casa Rural,C/Sol 2,29000,4,30
-Casa Rural,Castralvo - Villaespesa - Aldehuela,131000,1,54.111
+Casa Rural,Castralvo - Villaespesa - Aldehuela,131000,1,54111
 Casa Rural,Calle Vallado 20,34000,3,95
 Chalet,Calle Iglesia 16,28000,10,448
 Chalet,Centro,60000,1,91
 Piso,AAIUN 1 -3,150000,3,112
 Casa Rural,Calle del Rosario 14,15000,4,70
-Casa Rural,San Agustin,10000,1,48.500
+Casa Rural,San Agustin,10000,1,48500
 Piso,Avenida Corona de Aragon 18,100000,2,70
 Casa Rural,Manzanera,19000,1,318
 Casa Rural,Manzanera,15000,2,66
@@ -982,7 +981,7 @@ Casa Rural,Calle Baja 2,63000,2,75
 Piso,Plaza del Ayuntamiento,69900,4,146
 Casa Rural,Cuesta de Teruel 3,135000,7,266
 Casa Rural,Plaza 1,35000,4,129
-Casa Rural,Camino de La Muela 29,225000,3,13.000
+Casa Rural,Camino de La Muela 29,225000,3,13000
 5 y 7,677612501,Calle Mayor 3 ,7,254
 Chalet,Orihuela del Tremedal,375000,5,966
 Chalet,Calle Aragón,37000,4,142
@@ -1013,7 +1012,7 @@ Casa Rural,Plaza 3,220000,10,580
 Casa Rural,Plano San Blas 1,79000,4,65
 Casa Rural,Calle la Muela 36,65000,5,466
 Ático,Camino de la Estación 3,135000,2,73
-Chalet,Calle Loreto 16,130000,3,188.59
+Chalet,Calle Loreto 16,130000,3,18859
 Casa Rural,Calle Candela 48,50000,3,96
 Chalet,San jose 9,58900,4,125
 Casa Rural,Calle de la Virgen 23,80000,8,319
@@ -1029,7 +1028,7 @@ Piso,Calle las Arribas 19,83500,2,70
 Casa Rural,Sarrion,5500,1,21
 Chalet,Calle de Teruel 36,140000,3,96
 Piso,Avenida de América 32,300000,3,104
-Chalet,Centro,257000,1,60.40
+Chalet,Centro,257000,1,6040
 Casa Rural,Calle Mesón Viejo 36,159000,2,78
 Piso,Calle la Dalia 3,170000,4,125
 Ático,Calle del Mas 7,65000,2,12
@@ -1049,10 +1048,10 @@ Casa Rural,Calle Mayor 4,120000,7,310
 Casa Rural,cantón 14,20000,5,189
 Chalet,Urbanización las Majadas 22,175000,2,64
 15,670039709,Calle Muela 13 ,15,471
-Casa Rural,Calle San Bartolomé 47,40000,4,1.143
+Casa Rural,Calle San Bartolomé 47,40000,4,1143
 Chalet,San jose 9,58900,4,125
 Casa Rural,Calle Padre Piquer 1,98000,4,156
-Chalet,Centro,257000,1,60.40
+Chalet,Centro,257000,1,6040
 Casa Rural,Calle Cantón de Miñón 3,45000,4,124
 Chalet,Calle de Teruel 36,140000,3,111
 Casa Rural,Calle Mayor s/n,45000,5,182
@@ -1117,7 +1116,7 @@ Casa Rural,Callizo Trinquete,39000,3,92
 Piso,Rubielos de Mora,135000,2,78
 Piso,Avenida Aragón,39000,4,144
 Chalet,Rubielos de Mora,59000,8,20
-Piso,El Puntal. Los Olmos s/n sn,43000,3,119
+Piso,El Puntal Los Olmos s/n sn,43000,3,119
 Piso,Calle Mosén Pedro Dosset,16000,3,112
 Casa Rural,Calle San Justo 16,28000,5,40
 Chalet,Calle virgen pilar 23,149000,4,160
@@ -1127,7 +1126,7 @@ Piso,Calle Mosén Pedro Dosset,12500,1,105
 Casa Rural,Plaza Santa Lucía 16,55000,6,515
 Piso,Barrio Troya,73000,1,51
 1ºc 1,652894797,Urbanizacion Vega de la Selva 1,7,265
-Casa Rural,Diseminado Pastores 62,105000,2,50.000
+Casa Rural,Diseminado Pastores 62,105000,2,50000
 Casa Rural,Calle Centro 78,69700,4,158
 Piso,Calle Mayor,17600,2,79
 Piso,Carretera cuenca 4,120000,3,81
@@ -1135,14 +1134,14 @@ Chalet,urb el ciervo 32,180000,6,241
 Casa Rural,Plaza Placeta 4,95000,6,241
 Piso,Plaza Bajo Aragón 4  1º D,65000,3,93
 Casa Rural,Placeta Vieja 7,140000,0,46
-Casa Rural,Plaza Andrade 1,190000,8,1.109
+Casa Rural,Plaza Andrade 1,190000,8,1109
 Casa Rural,Calle Alta 25,42000,3,87
 Casa Rural,Calle mayor 71,11000,3,88
 Piso,Plaza de las Cortes de Aragón 1,22000,3,92
 Chalet,Calle Ancha 10,120000,4,153
 Chalet,Calle San Jorge 9,125000,4,738
 Piso,Avenida Aragón,105000,4,160
-Chalet,Urbanización Vega de la Selva,110000,3,141.27
+Chalet,Urbanización Vega de la Selva,110000,3,14127
 Casa Rural,Calle Val de Zafan 8,50000,6,222
 Chalet,Calle Santiago 2,26000,2,140
 Casa Rural,Calle Vicente Pascual 20,120000,6,231
@@ -1171,7 +1170,7 @@ Casa Rural,Plaza Placeta 4,95000,6,240
 Chalet,Calle Santiago 2,26000,2,140
 Chalet,Calle Morón,75000,6,244
 Casa Rural,Alcala 7,240000,6,218
-Piso,Alcañiz,75100,1,207.29
+Piso,Alcañiz,75100,1,20729
 Casa Rural,Calle Marqués de Lema 96,100000,6,239
 Casa Rural,Barrio Troya 83,90000,4,142
 Chalet,Calle Medio 28,120000,6,232
@@ -1223,7 +1222,7 @@ Casa Rural,Avenida de Blas Murria 7,90000,5,193
 Piso,Calle serrería 6 -8,110000,3,82
 Casa Rural,Calle Mayor 3,28000,2,76
 Chalet,Pj El Batán 41 (Virgen de la Vega) 41,350000,5,183
-Duplex,Calle Arrabal 9  . 2 A,132000,5,163
+Duplex,Calle Arrabal 9   2 A,132000,5,163
 Casa Rural,Plaza de la Iglesia 3,95000,3,99
 Piso,Carretera de San Julián 46,78000,3,105
 Casa Rural,Los Baltasares s/n sn,25000,1,256
@@ -1242,7 +1241,7 @@ Piso,Centro,150000,4,146
 Chalet,Calle Portillo 19,85000,3,88
 Casa Rural,Calle juego s/n,3600,1,44
 Casa Rural,Calle Mayor 22,260000,6,231
-Casa Rural,Cl. San Antonio 31,62000,3,94
+Casa Rural,Cl San Antonio 31,62000,3,94
 Casa Rural,Beceite,69000,0,21
 Chalet,Mas de las Matas,57000,9,419
 Chalet,Calle Eras 53,136000,3,83
@@ -1266,7 +1265,7 @@ Chalet,Valjunquera,25000,4,211
 Casa Rural,Valjunquera,60000,0,100
 Chalet,Pancrudo,14000,3,110
 Chalet,Valjunquera,48000,3,142
-Piso,Mayor 92 . 3-B,79500,3,82
+Piso,Mayor 92  3-B,79500,3,82
 Piso,Avenida Aragón 61,130000,3,95
 Casa Rural,Calle Hispanoamérica,120000,12,645
 Chalet,Valjunquera,87000,6,446
@@ -1342,8 +1341,8 @@ Piso,Alcañiz,24800,1,43
 Casa Rural,Guadalaviar,42300,5,177
 Piso,Calle Amargura,83700,2,74
 Piso,Diseminado Diseminados 304,70100,2,69
-Casa Rural,Rubielos de Mora,499000,1,1.088
-Casa Rural,Castralvo - Villaespesa - Aldehuela,40000,1,5.624
+Casa Rural,Rubielos de Mora,499000,1,1088
+Casa Rural,Castralvo - Villaespesa - Aldehuela,40000,1,5624
 Casa Rural,Calle Nueva 20,50000,3,92
 Casa Rural,Calle el Patio 42,25000,7,261
 Chalet,Alcorisa,102600,8,360
@@ -1395,7 +1394,7 @@ Piso,Calle la Paz,14500,2,68
 Casa Rural,Albalate del Arzobispo,55000,7,264
 Piso,Calle Alejandre 20,60000,3,113
 Chalet,Calle Barranco 29,52000,7,280
-Casa Rural,Castralvo - Villaespesa - Aldehuela,20000,1,6.695
+Casa Rural,Castralvo - Villaespesa - Aldehuela,20000,1,6695
 Piso,Calle Palacio,120000,2,60
 Casa Rural,Calle Evaristo Escorihuela 19,95000,5,176
 Casa Rural,Barrios periféricos,110000,1,517
@@ -1670,7 +1669,7 @@ Chalet,Fuentespalda,14000,2,71
 Piso,Calle San Jorge 1,65000,3,113
 Chalet,Plaza Constantino Lorente 8,95000,4,50
 Casa Rural,Calle Eras 25,12000,3,104
-Casa Rural,Valderrobres,15000,0,1.189
+Casa Rural,Valderrobres,15000,0,1189
 Chalet,Calle San Roque Alto 53,100000,7,279
 Casa Rural,Calle Rocasolano 80,7500,2,68
 Casa Rural,Calle Eras Altas 11,14000,4,158
@@ -1762,7 +1761,7 @@ Chalet,Camino Cerrito Mas de Peirón 15 C,195000,3,80
 Casa Rural,Calle Posteros 23,35000,5,193
 Casa Rural,Calle Obispo Sánchez 34,170000,7,269
 Chalet,Calle urbanización Vega de la Selva 1 5,120000,3,87
-Casa Rural,Calle Asociación Cultural 3,12000,0,1.000
+Casa Rural,Calle Asociación Cultural 3,12000,0,1000
 Casa Rural,Calle Estrecha 8,125000,5,181
 Casa Rural,Calle Alta 3,80000,5,199
 Duplex,Avenida Dos de Mayo 48,100000,5,167

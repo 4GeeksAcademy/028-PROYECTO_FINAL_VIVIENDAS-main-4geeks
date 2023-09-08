@@ -48,16 +48,16 @@ Piso,Calle Juegos de Atenas y Languedor Rosellon s/n,151250,2,60
 Piso,Calle Juegos de Atenas y Languedor Rosellon s/n,156250,3,95
 Chalet,Avenida TORRECARDENAS 86,275000,3,101
 Piso,Avenida Mariano Hernandez s/n,190000,3,115
-Piso,Calle Estonia con Polonia s/n,150000,2,35.000
+Piso,Calle Estonia con Polonia s/n,150000,2,35000
 Piso,Avenida del Mar 101,301336,3,81
 Piso,Avenida Mariano Hernandez s/n,130000,1,59
-Piso,Avenida Nueva Musa s/n,210000,2,35.000
-Piso,Avenida Nueva Musa s/n,160000,2,35.000
+Piso,Avenida Nueva Musa s/n,210000,2,35000
+Piso,Avenida Nueva Musa s/n,160000,2,35000
 Piso,Avenida Mariano Hernandez s/n,160000,2,80
 Ático,Carrera del Mami,163000,4,122
-Piso,Calle Estonia con Polonia s/n,165000,2,35.000
-Piso,Calle Estonia con Polonia s/n,160000,2,35.000
-Piso,Avenida Nueva Musa s/n,200000,2,35.000
+Piso,Calle Estonia con Polonia s/n,165000,2,35000
+Piso,Calle Estonia con Polonia s/n,160000,2,35000
+Piso,Avenida Nueva Musa s/n,200000,2,35000
 Piso,Calle Mónaco R,159500,2,67
 Piso,Calle Garcia de Villarroel,237000,3,35
 Duplex,Almerimar,353000,3,16
@@ -68,7 +68,7 @@ Piso,Calle joaquin rodrigo 41,119900,3,112
 Piso,Calle Galán de Noche 13,215000,3,20
 Piso,Calle Real del Barrio Alto 109,120000,3,97
 Chalet,Calle Almedina,149900,4,147
-Piso,AV. REINO DE ESPAÑA 174,129900,2,76
+Piso,AV REINO DE ESPAÑA 174,129900,2,76
 Chalet,Calle Eduardo Fajardo,299000,3,92
 Piso,Calle Orquídea,110000,3,85
 Piso,Calle perú,66000,3,93
@@ -76,9 +76,9 @@ Piso,Calle troya s/n,268700,4,121
 Piso,Calle troya s/n,132800,2,76
 Chalet,Villablanca - Torrecárdenas,435000,5,266
 Ático,Villablanca - Torrecárdenas,145000,2,78
-Piso,Avenida avd. de la Cruz esquina calle Juna cuadrado Ruiz s/n,174250,2,70
-Piso,Avenida avd. de la Cruz esquina calle Juna cuadrado Ruiz s/n,153250,2,70
-Piso,Avenida avd. de la Cruz esquina calle Juna cuadrado Ruiz s/n,162250,2,60
+Piso,Avenida avd de la Cruz esquina calle Juna cuadrado Ruiz s/n,174250,2,70
+Piso,Avenida avd de la Cruz esquina calle Juna cuadrado Ruiz s/n,153250,2,70
+Piso,Avenida avd de la Cruz esquina calle Juna cuadrado Ruiz s/n,162250,2,60
 Piso,Avenida Tortuga Boba,185000,2,80
 Piso,Paseo de las Olas s/n,140000,2,65
 Piso,Paseo de las Olas s/n,135000,2,68
@@ -119,7 +119,7 @@ Piso,Calle Mérida 4,170000,3,101
 Chalet,Calle jesus de percival s/n,539000,4,98
 Piso,Calle Alvarez de Sotomayor,70000,2,70
 Piso,Balerma,149500,4,198
-Duplex,Balerma,160000,4,152.00
+Duplex,Balerma,160000,4,15200
 Ático,Plaza de la Constitución,89900,3,109
 Piso,Calle Quesada s/n,119900,2,77
 Chalet,Torre alta,149900,3,1000
@@ -140,7 +140,7 @@ Piso,Nueva Andalucía - Regiones,159000,3,109
 Piso,Altamira - Oliveros - Barrio Alto,145000,4,123
 Chalet,Santa María del Águila,189900,3,104
 Piso,Centro-Rambla,164900,3,112
-Chalet,Huércal de Almería,449000,4,3.200
+Chalet,Huércal de Almería,449000,4,3200
 Piso,barrio El Puerto - La Romanilla,119000,2,82
 Piso,Camino de los Depósitos,99900,3,93
 Piso,Calle San José Obrero,144900,3,106
@@ -193,11 +193,11 @@ Piso,Calle Arayan 1,109000,1,44
 Piso,Calle Tenis 3,119000,3,110
 Duplex,Calle las Adelfas 2,235000,3,147
 Piso,manuel azaña,198000,3,115
-Piso,C. Médico Francisco Pérez Company 17,188100,3,129
+Piso,C Médico Francisco Pérez Company 17,188100,3,129
 Piso,Calle doctor araez pacheco 9,190000,3,82
 Piso,DIQUE 14,166900,3,80
 Chalet,Avenida marinera 209,770000,3,700
-Piso,C. Médico Francisco Pérez Company 17,173800,3,123
+Piso,C Médico Francisco Pérez Company 17,173800,3,123
 Piso,Calle LA HUERTA 21,199000,4,137
 Chalet,Calle Sierra Almagro 2,114900,2,96
 Chalet,Calle San Luis,217000,5,262
@@ -262,15 +262,15 @@ Piso,Calle Tenis,115500,2,63
 Piso,barrio El Sabinar - Urbanizaciones - Las Marinas,105000,2,73
 Piso,Calle Algeciras,83000,4,141
 Piso,Benahadux,69000,3,8
-Piso,Urb.Golf Valle este,154500,2,80
+Piso,UrbGolf Valle este,154500,2,80
 Chalet,Fontaneros,28000,3,102
 Piso,Anade 17,165000,2,15
 Piso,Calle del Puerto 3,74000,3,98
-Chalet,Valle del Este s/n,600000,3,1.100
+Chalet,Valle del Este s/n,600000,3,1100
 Piso,Calle Salvia,210000,3,102
 Piso,Sevilla 1,110000,3,83
 Piso,Matagorda,159000,1,58
-Chalet,Urb.Golf Valle este,315000,3,60
+Chalet,UrbGolf Valle este,315000,3,60
 Piso,La Envía,79000,2,63
 Piso,Calle Mercado,75000,3,95
 Estudio,Avenida Sabinar,55000,0,34
@@ -310,7 +310,7 @@ Duplex,Las Cabañuelas,128000,3,82
 Chalet,La Paz,89900,3,124
 Chalet,AL-P-813,130000,7,297
 Piso,río almanzora,109900,3,3
-Casa Rural,Pago aguilar,78900,3,2.500
+Casa Rural,Pago aguilar,78900,3,2500
 Chalet,del agua,84900,3,184
 Piso,Villaricos,115000,3,82
 Casa Rural,Calle Felix Rguez de la Fuente,104900,2,653
@@ -331,7 +331,7 @@ Chalet,Celias Viñas,119900,3,60
 Chalet,Sol,194900,4,25
 Chalet,Aire,74900,4,119
 Piso,Lavadero,43900,1,12
-Casa Rural,Llanetes,54900,2,29.179
+Casa Rural,Llanetes,54900,2,29179
 Piso,Las minas,52900,3,97
 Chalet,Calle Maestro Rafael Barco,350000,4,150
 Chalet,La cruz,181900,7,60
@@ -344,22 +344,22 @@ Piso,Calle Iglesia,38000,3,118
 Chalet,Calle Cachucha,219000,6,243
 Piso,Calle Mirador de La Marina,107000,1,52
 Chalet,Castaños,79900,3,292
-Chalet,Pagos,54900,3,2.580
+Chalet,Pagos,54900,3,2580
 Casa Rural,Pago de Espeliz,156900,3,41
 Piso,Calle Belfast,153000,2,60
 Chalet,Calle Alondra,239900,6,241
 Piso,Calle Artes de Arcos Marco,49900,3,100
 Piso,Avenida de Andalucía,75000,2,63
-Chalet,Yesos,110000,3,4.000
+Chalet,Yesos,110000,3,4000
 Casa Rural,Huércal-Overa,124900,3,250
 Chalet,San sebastian,85900,3,90
 Duplex,Calle Alberto Jiménez Becerril,84900,4,143
 Chalet,cabo de gata,189900,3,100
 Piso,Calle Duque de Ahumada,54900,3,98
-Piso,Res. Albamar Calle Melodia s/n,239000,3,7
+Piso,Res Albamar Calle Melodia s/n,239000,3,7
 Piso,Calle Tijola s/n,95000,4,107
 Piso,Calle Joaquin Sabina,107000,2,68
-Piso,Res. Albamar Calle Melodia s/n,239000,3,7
+Piso,Res Albamar Calle Melodia s/n,239000,3,7
 Chalet,San sebastian,85900,3,90
 Piso,Plaza constitucion,54900,3,95
 Piso,Calle Arayan 5,143000,2,78
@@ -390,9 +390,9 @@ Piso,Avenida Juan Sebastián Elcano,105000,1,57
 Piso,Calle américa,79900,2,64
 Chalet,Avenida Ciudad de Barcelona,339000,3,108
 Chalet,Calle Zorrilla,114900,4,142
-Chalet,Calle Río Guadalquivir s/n,336000,3,1.000
-Chalet,Calle Río Guadalquivir s/n,317000,2,1.000
-Chalet,Calle Río Guadalquivir s/n,421000,3,1.000
+Chalet,Calle Río Guadalquivir s/n,336000,3,1000
+Chalet,Calle Río Guadalquivir s/n,317000,2,1000
+Chalet,Calle Río Guadalquivir s/n,421000,3,1000
 Piso,Calle Fragata,114900,1,44
 Piso,Calle Murillo,350000,3,113
 Piso,Paseo ALCALDE GARCIA ACIEN 76,66000,2,64
@@ -520,7 +520,7 @@ Piso,Calle Viena 1,157000,2,61
 Piso,Avenida REY JUAN CARLOS 32,129000,3,6
 Piso,Calle Tomillo 2,101000,2,65
 Casa Rural,Calle los Tintes s/n,129000,6,50
-Piso,C. Médico Francisco Pérez Company 17,182100,3,119
+Piso,C Médico Francisco Pérez Company 17,182100,3,119
 Piso,Calle del Mar s/n,140000,4,132
 Chalet,Calle Jacinto Anglada s/n,180000,6,238
 Piso,EL EJIDO 28,74000,3,6
@@ -532,7 +532,7 @@ Piso,Calle Julio Gómez Relampaguito,75000,3,116
 Piso,Avenida de los Ángeles s/n,139900,3,86
 Chalet,MIGUEL RUEDA s/n,480000,3,177
 Piso,PROSPERIDAD 32,59900,1,4
-Piso,C. Médico Francisco Pérez Company 17,183700,3,119
+Piso,C Médico Francisco Pérez Company 17,183700,3,119
 Piso,MIGUEL ANGEL 57,114900,3,100
 Chalet,Calle PADULES 9,199000,5,185
 Piso,CIGALA 1,87000,2,64
@@ -540,26 +540,26 @@ Chalet,Calle Cortijo de Capilla 20,239000,3,250
 Piso,Calle Ricardo Rueda,84900,3,81
 Chalet,Carretera Guainos Bajos 32,83000,2,150
 Chalet,Cortijo Capilla 19,250000,5,300
-Piso,C. Médico Francisco Pérez Company 17,178700,3,119
+Piso,C Médico Francisco Pérez Company 17,178700,3,119
 Piso,Calle Erica de la Piedad,57225,3,99
 Duplex,GONZALEZ GARBIN s/n,320000,5,15
-Piso,C. Médico Francisco Pérez Company 17,187000,3,119
+Piso,C Médico Francisco Pérez Company 17,187000,3,119
 Piso,Calle José María Cagigal 46,129900,3,8
 Piso,PROSPERIDAD 91,89900,2,71
 Chalet,LA HACIENDA s/n,1300000,8,1050
 Piso,Paseo Pedro Ponce 31,149900,3,81
 Piso,REAL 15,69900,2,68
-Piso,C. Médico Francisco Pérez Company 17,140200,2,92
+Piso,C Médico Francisco Pérez Company 17,140200,2,92
 Chalet,PERISCOPIO 19,398000,4,161
 Piso,Calle RAMOS s/n,136900,2,68
 Piso,Calle Maestro Padilla 2,154900,2,65
 Piso,Plaza MANOLO ESCOBAR 6,90000,3,103
 Piso,Calle de narciso 2,122000,2,77
 Duplex,CIRUELO 3,189900,2,63
-Piso,C. Médico Francisco Pérez Company 17,188400,3,129
-Chalet,Camino viejo de Balerma 99,179000,5,3.680
+Piso,C Médico Francisco Pérez Company 17,188400,3,129
+Chalet,Camino viejo de Balerma 99,179000,5,3680
 Ático,PROSPERIDAD 77,84000,2,80
-Piso,C. Médico Francisco Pérez Company 17,178700,3,119
+Piso,C Médico Francisco Pérez Company 17,178700,3,119
 Piso,PROSPERIDAD 32,59900,1,4
 Chalet,Calle Joaquín Turina,245000,4,173
 Piso,REAL 15,69900,2,69
@@ -590,9 +590,9 @@ Chalet,torre del oro,175000,4,23
 Chalet,Travesía de Portoalegre,795000,7,986
 Chalet,Calle Sevilla 6,825000,4,143
 Piso,Calle Tirso de Molina 8,129900,4,144
-Chalet,Barrio de Jaravía,490000,4,2.000
+Chalet,Barrio de Jaravía,490000,4,2000
 Piso,Avenida Descubrimiento,130000,2,68
-Chalet,Barriada Los Lobos 8,295000,4,1.515
+Chalet,Barriada Los Lobos 8,295000,4,1515
 Piso,Amarguillos,123000,2,62
 Piso,SAN ISIDRO LABRADOR,129900,2,115
 Chalet,Calle Alondra 14,750000,3,85
@@ -610,10 +610,10 @@ Chalet,Camino Mataix Bajo s/n,359500,4,160
 Chalet,Diseminado los Mañas 15,335000,7,25
 Piso,clavel,74900,3,84
 Piso,Calle Rafael Alberti 22,385000,4,70
-Casa Rural,Camino la Yesera,89900,2,2.800
+Casa Rural,Camino la Yesera,89900,2,2800
 Piso,Rio Turia,94900,3,90
 Chalet,SECTOR AL-2 349 s/n,365000,3,120
-Chalet,AL-6111 26,379000,4,18.197
+Chalet,AL-6111 26,379000,4,18197
 Chalet,Calle Doctor Leal de Ibarra 3,249000,5,161
 Chalet,Calle Majada 1 B,330000,4,97
 Piso,Camino Descargador 16,280000,3,22
@@ -700,7 +700,7 @@ Chalet,Calle la Fuente,74900,3,100
 Piso,Calle DALÍAS,86000,3,92
 Chalet,Calle Andalucía,475000,4,115
 Piso,Calle San Luis 45,163000,2,74
-Piso,Calle SAN ISIDRO,75000,2,25.00
+Piso,Calle SAN ISIDRO,75000,2,2500
 Chalet,Calle Doctor Morcillo,87000,4,120
 Chalet,Calle Nuñez de Balboa,115000,2,77
 Piso,Plaza Residencial C1 Playazo,170000,2,50
@@ -779,7 +779,7 @@ Piso,María Guerrero,69900,1,56
 Piso,Avenida del Mar 101,232520,3,113
 Chalet,Avenida la Giralda,209000,3,109
 Piso,Calle Pampaneira 5,86000,3,105
-Chalet,Urb.Golf Valle este,490000,5,400
+Chalet,UrbGolf Valle este,490000,5,400
 Chalet,barrio Ejido sur,127900,4,132
 Chalet,barrio Roquetas pueblo,139900,3,125
 Chalet,Las Norias,129900,4,126
@@ -791,7 +791,7 @@ Piso,barrio Roquetas pueblo,50900,3,80
 Piso,barrio Roquetas pueblo,49900,2,79
 Chalet,barrio Roquetas pueblo,149900,4,134
 Piso,barrio Roquetas pueblo,110000,3,111
-Piso,Av. del Descubrimiento 1,170000,2,63
+Piso,Av del Descubrimiento 1,170000,2,63
 Piso,barrio Roquetas pueblo,76000,2,80
 Chalet,Huércal de Almería,62200,3,98
 Piso,barrio Roquetas pueblo,79900,2,68
@@ -808,7 +808,7 @@ Piso,Pueblo del Cantal s/n b6,114900,1,12
 Piso,Calle Cádiz 1,69995,2,64
 Chalet,Cuesta Rambla,24900,4,124
 Piso,Calle Colón 2,76000,3,89
-Casa Rural,Calle de Andalucía,350000,5,5.000
+Casa Rural,Calle de Andalucía,350000,5,5000
 Piso,Calle salinas,61900,1,40
 Chalet,Calle la Granja,89900,4,527
 Piso,Plaza SAN PEDRO 1,389000,4,160
@@ -844,7 +844,7 @@ Piso,Calle san martin 4,98200,3,93
 Piso,La Gangosa,85900,3,96
 Piso,Calle Fray Luis León R,52900,1,40
 Piso,Obispo Orberá 34,190000,3,92
-Chalet,CAÑADA SAN MATEO,795000,4,10.000
+Chalet,CAÑADA SAN MATEO,795000,4,10000
 Piso,Plaza Colón 7,134900,2,77
 Piso,Paseo de Malecón,137500,2,76
 Piso,Paseo del Mediterráneo,280000,3,83
@@ -886,7 +886,7 @@ Piso,Avenida de los Motores,59400,2,67
 Chalet,Huércal de Almería,259000,3,112
 Piso,Balerma,84900,2,74
 Piso,Huércal de Almería,68900,3,6
-Duplex,Huércal de Almería,175000,4,118.00
+Duplex,Huércal de Almería,175000,4,11800
 Duplex,Vera Pueblo,120000,3,104
 Piso,Calle Sierra Almagro 2,145000,3,106
 Chalet,Abla,129000,4,60
@@ -911,17 +911,16 @@ Piso,Avenida del Mar,207000,2,63
 Chalet,Almerimar,388000,3,163
 Chalet,barrio Roquetas pueblo,119900,3,98
 Piso,Gador,89000,3,90
-Piso,Poligono P.p.aguilon Club,142500,1,55
+Piso,Poligono Ppaguilon Club,142500,1,55
 Piso,Calle Mayor 94 -104,55000,1,60
-Piso,Huércal de Almería,260000,4,20.00
+Piso,Huércal de Almería,260000,4,2000
 Piso,Carretera de la Mojonera,64900,2,81
 Piso,Avenida del Secano,75000,1,60
 Piso,La Gangosa,72000,3,99
-Casa Rural,Rioja,93000,6,31.000
-Casa Rural,Benahadux,79000,3,12.000
+Casa Rural,Rioja,93000,6,31000
+Casa Rural,Benahadux,79000,3,12000
 Chalet,Las Cabañuelas,133000,4,137
-Duplex,Carboneras,366940,3,10.00
-Ático,"86m2). Este apartamento sería una buena inversión como alquiler vacacional. Distribución Se accede al apartamento por unas escaleras exteriores. Entrando por la puerta principal se llega a un pequeño vestíbulo con la cocina independiente a la derecha y el amplio y luminoso salón-comedor delante. El salón tiene puertas que se abren a una terraza con preciosas vistas abiertas al campo de golf y el campo más allá. La cocina está totalmente amueblada y equipada con nevera-congelador cocina eléctrica y horno lavavajillas microondas y una ventana con vistas a la piscina. Los dormitorios y cuartos de baño están separados por una puerta de la sala de estar. Un pasillo le da acceso a las distintas habitaciones. Hay 2 dormitorios y 2 baños. El dormitorio principal tiene un gran ventanal con vistas al campo de golf y dos juegos de armarios empotrados que se encuentran en un pequeño vestidor junto al cuarto de baño ensuite con bañera y ventana para ventilación. La lavadora está instalada en este cuarto de baño. El segundo dormitorio también tiene una gran ventana y un armario empotrado. El cuarto de baño tiene ducha. La venta incluye: Parcialmente amueblado con electrodomésticos. Aire acondicionado (aire caliente y frío). Ventiladores de techo. Plaza de garaje. Trastero. Ubicación En el mapa de Google de arriba la ubicación exacta de la propiedad en Vera está marcada con el alfiler. El campo de golf Valle del Este es uno de los preferidos en esta zona por los golfistas experimentados. En el complejo de golf tiene un hotel de 4 estrellas con gimnasio e instalaciones de spa así como una gran piscina al aire libre estos servicios se puede acceder mediante el pago de una cuota. Hay un pequeño centro comercial con algunos bares y restaurantes y tiendas de golf. Valle del Este tiene acceso directo por autopista y está a unos 7 km de las playas de Mojácar y Garrucha y a unos 4 km de la ciudad de Vera y sus instalaciones. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche el aeropuerto de Murcia está a 1 hora y 20 minutos el aeropuerto de Alicante a 2 horas y el aeropuerto de Málaga a 2 horas y 45 minutos. Campos de Golf Mojácar: Marina de la Torre Vera: Valle del Este Cuevas de Almanzora: Desert Springs Aguilas: Aguilón Golf El precio indicado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente honorarios notariales registrales y de abogados). Le recordamos que como consumidor tiene derecho a ser informado y entregado la documentación informativa correspondiente según el caso en base a lo establecido en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y alquiler de viviendas en Andalucía.""",950790587,0,40
+Duplex,Carboneras,366940,3,1000
 Piso,Avenida del Secano,75000,1,49
 Piso,Avenida del Mar,207000,2,63
 Piso,Gador,89000,3,117
@@ -931,17 +930,17 @@ Piso,Carretera de la Mojonera,64900,2,81
 Piso,Calle Emilia Pardo Bazán,69900,4,95
 Chalet,Huércal de Almería,162000,3,60
 Chalet,barrio Ejido centro,160000,4,140
-Casa Rural,Benahadux,79000,3,12.000
+Casa Rural,Benahadux,79000,3,12000
 Chalet,Pechina,173000,3,104
 Piso,Calle las Conchas 13,110000,1,45
 Piso,Calle Joaquín Escobar,157500,2,72
 Piso,Avenida del Mar,270000,3,114
 Chalet,barrio Roquetas pueblo,119900,3,81
 Piso,Plaza de Toros,85000,2,79
-Piso,Huércal de Almería,260000,4,20.00
-Piso,Poligono P.p.aguilon Club,142500,1,55
+Piso,Huércal de Almería,260000,4,2000
+Piso,Poligono Ppaguilon Club,142500,1,55
 Chalet,Las Negras,200000,6,208
-Casa Rural,Rioja,93000,6,31.000
+Casa Rural,Rioja,93000,6,31000
 Chalet,barrio Roquetas pueblo,89900,3,174
 Piso,Calle Regimiento la Corona,87000,4,160
 Chalet,Calle Alborán,375000,5,172
@@ -1023,7 +1022,7 @@ Piso,Hispanidad,149900,3,90
 Piso,MOLINO,65000,3,113
 Ático,Avenida La Fabriquilla 38,128000,2,71
 Chalet,Calle las Artesas,380000,4,125
-Chalet,ALBARICO 19 POLIGONO 3,520000,6,14.840
+Chalet,ALBARICO 19 POLIGONO 3,520000,6,14840
 Piso,Calle Finisterre,120000,2,16
 Piso,JOAQUÍN ESCOBAR,119900,2,86
 Piso,Calle la Rambla,76000,2,80
@@ -1067,7 +1066,7 @@ Chalet,barrio Aguadulce norte,262500,4,128
 Piso,Calle Mayor,79900,2,80
 Chalet,Calle Cañada Aguilar,790000,4,144
 Ático,Calle Gladiolos,74500,4,158
-Casa Rural,Calle Fuente Pura,160000,4,2.200
+Casa Rural,Calle Fuente Pura,160000,4,2200
 Piso,Carretera de Ronda 301,135000,3,90
 Piso,Calle Pintor Zabaleta 63,154000,3,15
 Chalet,Paraje Tejar s/n,150000,2,23
@@ -1111,7 +1110,7 @@ Chalet,Pozo del Esparto s/n,1000000,6,180
 Chalet,Calle Dinamarca 10,695000,8,404
 Ático,Calle Laguna 13,89900,1,40
 Piso,Calle Quito 6,147000,3,109
-Chalet,La Mojonera,129900,4,2.027
+Chalet,La Mojonera,129900,4,2027
 Piso,Calle SANTA MARTA 2,349000,3,85
 Chalet,Ensenada s/n,279000,6,240
 Piso,Calle Sierra de María 3,159000,1,109
@@ -1177,7 +1176,7 @@ Chalet,Calle Lorito 5,130000,5,90
 Chalet,Calle El Arenal s/n,449950,4,131
 Piso,Avenida de las Marinas 28,139900,2,65
 Chalet,Dalias,65000,3,112
-Chalet,La Mojonera,129900,4,2.027
+Chalet,La Mojonera,129900,4,2027
 Piso,Calle Sotavento 4,99000,2,78
 Chalet,Calle Eduardo Fajardo 1,299000,3,508
 Piso,Calle Albardín,120000,2,71
@@ -1251,10 +1250,10 @@ Chalet,Cadenas,20500,2,68
 Chalet,Calle Países Bajos 40,319000,4,215
 Chalet,Calle Jerez,660000,5,175
 Piso,Calle Médico Francisco Pérez Company,173800,3,119
-Ático,Bda. Pozo del Esparto,280000,2,66
+Ático,Bda Pozo del Esparto,280000,2,66
 Piso,Puerta DEL SOL 12,73000,1,53
-Piso,C. Médico Francisco Pérez Company 17,165800,2,100
-Piso,C. Médico Francisco Pérez Company 17,183700,3,123
+Piso,C Médico Francisco Pérez Company 17,165800,2,100
+Piso,C Médico Francisco Pérez Company 17,183700,3,123
 Piso,Carretera granada 38,113000,2,68
 Chalet,Paraje Cortijo Gitano 4,999950,7,265
 Piso,PRINCESA SOFÍA 36,77000,3,114
@@ -1271,7 +1270,7 @@ Piso,Avenida Padre Méndez 83,161200,3,104
 Piso,San Pedro 1,180000,3,100
 Piso,Avenida DEL SECANO,79000,2,69
 Piso,Avenida de Baria,95000,3,116
-Chalet,Diseminado de la Hoica,375000,3,5.671
+Chalet,Diseminado de la Hoica,375000,3,5671
 Piso,Calle Santa Marta,230000,2,66
 Piso,Avenida de Carlos III,120000,1,53
 Chalet,Cañada de Lorca,385000,7,262
@@ -1299,7 +1298,7 @@ Piso,Calle de la Reina 26,250000,4,147
 Piso,Calle el ciruelo,140000,2,64
 Piso,Avenida de Baria,87000,3,91
 Piso,Camino de la Gamberra,135000,2,65
-Chalet,Paseo DE EL TOYO s/n,980000,5,1.400
+Chalet,Paseo DE EL TOYO s/n,980000,5,1400
 Piso,Avenida de Baria,85000,2,85
 Piso,Calle Jábega,94000,2,70
 Piso,Avenida de Baria,95000,3,117
@@ -1367,7 +1366,7 @@ Piso,Calle Puerto de Navacerrada,130000,2,77
 Casa Rural,Terque,106000,3,86
 Piso,Calle Altos del Golf,396000,4,70
 Chalet,Calle Cantoria,139000,4,144
-Piso,Av. Faro Mesa Roldán,85000,1,48
+Piso,Av Faro Mesa Roldán,85000,1,48
 Piso,Calle Lucerna 8,285000,3,88
 Piso,ALCOTAN,225000,3,100
 Casa Rural,Calle Morote,239000,4,143
@@ -1428,7 +1427,7 @@ Piso,Avenida Pedro Muñoz Seca 228,195500,3,30
 Chalet,Arboleas,219000,3,97
 Ático,Camino del Boticario 3,109000,2,08
 Chalet,Calle Arrabal,155000,3,102
-Piso,C. Largo Caballero,109000,3,109
+Piso,C Largo Caballero,109000,3,109
 Piso,Calle Miguel Hernández,140000,2,80
 Chalet,Calle Eduardo Fajardo,795000,3,96
 Chalet,Partaloa,229500,3,33
@@ -1457,7 +1456,7 @@ Chalet,Nuestra Señora del mar,170000,5,181
 Piso,Calle las Encinas,55000,1,54
 Chalet,Calle Murillo,799000,4,139
 Piso,barrio Roquetas pueblo,34900,2,60
-Piso,C. Largo Caballero,109000,3,115
+Piso,C Largo Caballero,109000,3,115
 Piso,Calle Finisterre,145000,3,117
 Chalet,Cala Marqués,379000,3,88
 Piso,Calle España,115000,3,111
@@ -1486,7 +1485,7 @@ Chalet,Calle DE FERMIN SANCHEZ,175500,4,143
 Casa Rural,Huércal-Overa,265000,4,134
 Piso,Calle Miguel Hernández,140000,2,79
 Piso,Calle Memorias,200000,4,39
-Piso,Calle Lago de Sanabria 17,120000,3,150.00
+Piso,Calle Lago de Sanabria 17,120000,3,15000
 Chalet,Albanchez,164995,3,117
 Piso,Calle Villar,299000,3,150
 Piso,Jacaranda 2,105000,1,56
@@ -1535,18 +1534,18 @@ Piso,Calle la Fuente,155000,3,85
 Chalet,Calle la Carrasca,198000,3,100
 Chalet,Poligono Ua CT-1,2200000,3,119
 Chalet,Plaza ROGELIO POMARES VELAZQUEZ,249000,5,192
-Chalet,Calle Alicante,350000,3,36.35
+Chalet,Calle Alicante,350000,3,3635
 Piso,Calle Río Andarax,125000,2,77
 Piso,Calle Villar,299000,3,150
 Piso,Poligono Residencial C 5,165000,3,102
 Chalet,Vía,385000,7,40
 Duplex,Calle Sierra Nevada,135000,2,76
 Chalet,Calle ERASMO DE ROTERDAN 14,275000,5,196
-Piso,P.º del Mediterraneo 409,190000,3,98
+Piso,Pº del Mediterraneo 409,190000,3,98
 Casa Rural,Carretera Diseminado Retamar Nijar,130000,3,101
 Piso,Calle Carlos Cano,130000,3,124
 Chalet,Calle Miguel Hernández,119900,2,45
-Piso,P.º del Mediterraneo 409,170000,3,88
+Piso,Pº del Mediterraneo 409,170000,3,88
 Duplex,Calle Sextante,144300,5,200
 Piso,Calle Frente a Bodega s/n,145000,2,72
 Casa Rural,Lugar Barriada las Cunas,123000,5,192
@@ -1557,7 +1556,7 @@ Piso,Carretera Nijar,230000,3,86
 Piso,Calle Agustín Gómez Arcos,85000,2,73
 Piso,Vera Pueblo,45000,1,58
 Piso,Calle TOMILLO,119900,2,71
-Piso,P.º del Mediterraneo 409,195000,3,84
+Piso,Pº del Mediterraneo 409,195000,3,84
 Casa Rural,DISEMINADO MICAR,179000,3,112
 Chalet,Oria,390000,4,147
 Piso,Carretera Nijar,230000,3,94
@@ -1570,8 +1569,8 @@ Chalet,ALTA,22000,2,49
 Piso,Calle TOMILLO,119900,2,71
 Duplex,Calle Ermita s/n,150000,3,80
 Duplex,Paseo CARMEN SEVILLA,258000,3,111
-Piso,P.º del Mediterraneo 409,190000,3,119
-Piso,P.º del Mediterraneo 409,170000,3,110
+Piso,Pº del Mediterraneo 409,190000,3,119
+Piso,Pº del Mediterraneo 409,170000,3,110
 Casa Rural,DISEMINADO MICAR,179000,3,112
 Casa Rural,DS BO Media Legua 2,45000,4,151
 Casa Rural,Diseminado Burgallana 4 M,275000,3,3000
@@ -1581,13 +1580,13 @@ Duplex,Calle Nuñez de Balboa s/n,111900,2,73
 Piso,Carretera de la Ballabona s/n,85000,3,90
 Chalet,Calle Sol,496000,4,45
 Chalet,Calle Mayor,145000,4,140
-Chalet,Avenida Alpujarra,355000,6,1.000
+Chalet,Avenida Alpujarra,355000,6,1000
 Piso,Calle Poeta Fermín Gil,212900,1,43
 Piso,Callejón del Amor,150000,3,117
 Piso,Calle Magisterio,95000,2,62
 Piso,Calle Primavera,71000,3,117
 Ático,Calle TOMILLO,115000,2,71
-Casa Rural,Calle Las minas,145000,3,6.000
+Casa Rural,Calle Las minas,145000,3,6000
 Duplex,Calle Juan Cuadrado,75000,3,90
 Piso,Calle Doctor Manuel Martinez Ruiz-Moron 12,159900,3,180
 Piso,Calle Perú,59900,2,90
@@ -1747,7 +1746,7 @@ Chalet,Aguamarga,320000,2,68
 Chalet,barrio El Sabinar - Urbanizaciones - Las Marinas,195000,4,138
 Piso,Santa María del Águila,55000,2,67
 Piso,barrio Carretera Mojonera - Cortijos de Marín,88900,3,90
-Piso,Av. de la Estación,200000,4,129
+Piso,Av de la Estación,200000,4,129
 Casa Rural,barrio Carretera Mojonera - Cortijos de Marín,67900,3,91
 Piso,barrio El Sabinar - Urbanizaciones - Las Marinas,92900,2,80
 Chalet,Las Norias,79900,3,114
@@ -1758,10 +1757,10 @@ Piso,Calle Profesor Mulian 43,260000,4,100
 Piso,Calle Victoria 4,70000,2,73
 Chalet,La Mojonera,189900,4,140
 Ático,Calle Movimiento Indaliano 40,155000,2,66
-Chalet,Mojácar Pueblo,89900,1,8.516
+Chalet,Mojácar Pueblo,89900,1,8516
 Chalet,Las Norias,79900,3,99
 Chalet,barrio Carretera Mojonera - Cortijos de Marín,111900,4,147
-Chalet,Mojácar Pueblo,89900,1,8.516
+Chalet,Mojácar Pueblo,89900,1,8516
 Chalet,barrio Roquetas pueblo,184900,5,195
 Chalet,Las Norias,89900,5,194
 Chalet,Las Norias,119900,4,137

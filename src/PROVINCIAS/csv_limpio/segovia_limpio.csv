@@ -3,10 +3,10 @@ Chalet ,Zarzuela del Monte ,180000 ,3,116
 Chalet ,Sanchonuño ,240000 ,3,106
 Casa Rural ,Nueva 3 ,119000 ,5,172
 Chalet ,Los Ángeles de San Rafael ,355000 ,4,128
-Piso ,Ezequiel González - Cde. Sepulveda ,180000 ,3,99
+Piso ,Ezequiel González - Cde Sepulveda ,180000 ,3,99
 Duplex ,Palazuelos de Eresma ,175000 ,4,123
 Chalet ,Matabuena ,240000 ,4,129
-Piso ,Ezequiel González - Cde. Sepulveda ,160000 ,3,97
+Piso ,Ezequiel González - Cde Sepulveda ,160000 ,3,97
 Chalet ,C/PISA 160 ,209000 ,3,115
 Piso ,Calle del Lirio ,194990 ,3,118
 Duplex ,Calle San Antonio ,120000 ,3,99
@@ -27,7 +27,7 @@ Chalet ,Los Ángeles de San Rafael ,275000 ,4,50
 Chalet ,bruselas ,350000 ,4,159
 Chalet ,El Carmen ,280000 ,6,210
 Chalet ,Turégano ,194000 ,3,107
-Piso ,Plaza Mayor - S.Agustín ,424900 ,3,98
+Piso ,Plaza Mayor - SAgustín ,424900 ,3,98
 Chalet ,Torre Val de San Pedro ,150000 ,5,196
 Ático ,MAESTROS ,155000 ,3,107
 Duplex ,Travesía del Arco ,360000 ,3,103
@@ -47,17 +47,17 @@ Chalet ,Marazoleja ,195000 ,3,120
 Chalet ,Calle Mártires 5 ,380000 ,6,467
 Chalet ,Los Ángeles de San Rafael ,282000 ,4,141
 Piso ,Calle los Cotos ,77000 ,3,90
-Ático ,Los Ángeles de San Rafael. s/n ,98000 ,2,61
+Ático ,Los Ángeles de San Rafael s/n ,98000 ,2,61
 Piso ,SG-V-6122 ,118000 ,2,73
 Chalet ,Hospital ,45500 ,3,86
 Chalet ,Enebro ,240000 ,4,135
 Piso ,El Carmen ,82900 ,3,90
 Casa Rural ,Boleo ,95000 ,6,226
 Casa Rural ,Bernardos ,395000 ,12,840
-Piso ,El Cerro - Crtra. San Rafael ,339900 ,4,132
+Piso ,El Cerro - Crtra San Rafael ,339900 ,4,132
 Piso ,Centro ,140000 ,2,72
 Chalet ,Palazuelos de Eresma ,232000 ,4,156
-Piso ,Plaza Mayor - S.Agustín ,95000 ,2,77
+Piso ,Plaza Mayor - SAgustín ,95000 ,2,77
 Chalet ,San Rafael ,470000 ,5,186
 Chalet ,Otero de Herreros ,115000 ,3,96
 Chalet ,Santa Maria la Real de Nieva ,375000 ,3,109
@@ -73,11 +73,11 @@ Chalet ,Calle de las Amapolas 250 ,245000 ,6,226
 Piso ,La Estación ,140000 ,3,104
 Chalet ,Los Ángeles de San Rafael ,449900 ,5,172
 Chalet ,El Espinar ,320000 ,4,134
-Chalet ,El Cerro - Crtra. San Rafael ,308999 ,5,187
+Chalet ,El Cerro - Crtra San Rafael ,308999 ,5,187
 Piso ,Calle París ,65000 ,2,60
 Ático ,Calle Maestros ,155000 ,3,107
-Chalet ,Calle Calvario ,423000 ,5,2.590
-Chalet ,Castillejo de Mesleon ,149900 ,2,6.275
+Chalet ,Calle Calvario ,423000 ,5,2590
+Chalet ,Castillejo de Mesleon ,149900 ,2,6275
 Chalet ,Calle San Miguel ,109000 ,4,133
 Chalet ,Calle San Miguel ,109000 ,4,150
 Chalet ,rio manzanares ,114900 ,3,108
@@ -87,7 +87,7 @@ Casa Rural ,Finca Las Isabelas s/n ,3500000 ,8,115
 Piso ,Calle Santa Teresa de Jesús ,35000 ,3,85
 Piso ,Calle Hermanos García Barbero ,32000 ,3,82
 Piso ,Calle Val Alto ,56300 ,2,83
-Chalet ,Calle Escuderos ,990000 ,16,1.000
+Chalet ,Calle Escuderos ,990000 ,16,1000
 Chalet ,Calle carbonero ,250000 ,3,800
 Piso ,Calle Rey ,480000 ,4,122
 Chalet ,SG-V-2226 7 ,144500 ,3,300
@@ -112,11 +112,11 @@ Chalet ,uruguay s/n ,255000 ,4,139
 Chalet ,ravena 108 ,235000 ,4,129
 Chalet ,paysandu ,355000 ,3,98
 Chalet ,Calle Silla Del Rey ,520000 ,3,118
-Piso ,Avenida Portugal. 3 ,125000 ,3,113
+Piso ,Avenida Portugal 3 ,125000 ,3,113
 Chalet ,paraguay ,239900 ,3,116
 Casa Rural ,Cuéllar ,700000 ,10,671
 Piso ,Calle de Riaza ,115000 ,3,74
-Chalet ,Lugar Montechico s/n ,1200000 ,6,60.000
+Chalet ,Lugar Montechico s/n ,1200000 ,6,60000
 Piso ,Los Ángeles de San Rafael ,110000 ,3,85
 Casa Rural ,mayor s/n ,350000 ,2,67
 Chalet ,Villacastin ,170000 ,5,160
@@ -133,7 +133,7 @@ Chalet ,Navas de Riofrio ,450000 ,6,227
 Duplex ,Hontoria ,120000 ,2,65
 Chalet ,Nava de la Asuncion ,330000 ,6,618
 Chalet ,Rancho ,92000 ,3,22
-Chalet ,Castillejo de Mesleon ,495000 ,7,6.700
+Chalet ,Castillejo de Mesleon ,495000 ,7,6700
 Chalet ,Calle del Arco ,209900 ,3,197
 Chalet ,Los Huertos ,109090 ,3,92
 Piso ,Grajera ,105000 ,3,0
@@ -164,9 +164,9 @@ Piso ,Calle Marqués de Perales ,155000 ,4,120
 Casa Rural ,Santiuste de San Juan Bautista ,475000 ,7,100
 Chalet ,Calle Quinta ,319500 ,4,144
 Casa Rural ,Lastras del Pozo ,440000 ,10,40
-Chalet ,Plaza Mayor - S.Agustín ,2100000 ,5,162
+Chalet ,Plaza Mayor - SAgustín ,2100000 ,5,162
 Chalet ,San Cristobal de Segovia ,1000000 ,5,196
-Chalet ,Calle Peña el Gato ,1275000 ,6,12.000
+Chalet ,Calle Peña el Gato ,1275000 ,6,12000
 Chalet ,Calle Enebro ,240000 ,4,139
 Piso ,Avenida portugal ,85000 ,3,103
 Piso ,Plaza Carrasco ,175000 ,2,73
@@ -175,10 +175,10 @@ Piso ,Carretera de Valladolid ,110000 ,2,75
 Chalet ,Calle Perú ,190000 ,5,227
 Ático ,Avenida de Madrid ,90000 ,1,46
 Piso ,Avenida Vía Roma 52 ,188000 ,2,60
-Chalet ,Calle Santos Justo y Pastor ,900000 ,1,1.619
+Chalet ,Calle Santos Justo y Pastor ,900000 ,1,1619
 Chalet ,VILLAR ,169000 ,3,175
 Piso ,Avenida Juan Carlos I ,305000 ,3,93
-Piso ,Calle San Antonio ,120000 ,2,72.00
+Piso ,Calle San Antonio ,120000 ,2,7200
 Piso ,Avenida Vía Roma 52 ,188000 ,2,76
 Piso ,Via Roma ,159000 ,3,92
 Duplex ,Calle Solana ,217000 ,4,135
@@ -225,7 +225,7 @@ Chalet ,LONDRES ,310000 ,4,151
 Chalet ,Centro ,800000 ,1,51
 Chalet ,Calle Mistral ,289900 ,6,226
 Piso ,El Carmen ,109000 ,3,97
-Piso ,Ezequiel González - Cde. Sepulveda ,150000 ,3,86
+Piso ,Ezequiel González - Cde Sepulveda ,150000 ,3,86
 Piso ,José Zorrilla - Padre Claret ,159900 ,3,102
 Piso ,Centro ,310000 ,3,104
 Ático ,Centro ,249000 ,2,114
@@ -249,10 +249,10 @@ Piso ,Calle San Carlos Borromeo ,189900 ,4,133
 Piso ,Calle Miraflores ,149500 ,2,78
 Chalet ,Hospital ,25000 ,3,102
 Chalet ,Avenida Coto San Isidro ,145000 ,3,35
-Chalet ,S.Lorenzo - S.Marcos ,415000 ,6,310
+Chalet ,SLorenzo - SMarcos ,415000 ,6,310
 Chalet ,La Lastrilla ,880000 ,7,100
-Chalet ,Marugan ,160000 ,3,2.500
-Chalet ,Marugan ,180000 ,5,2.723
+Chalet ,Marugan ,160000 ,3,2500
+Chalet ,Marugan ,180000 ,5,2723
 Piso ,Calle San Miguel ,90000 ,3,94
 Chalet ,Trescasas ,245000 ,4,299
 Chalet ,Carretera Robledo ,180000 ,7,252
@@ -263,20 +263,20 @@ Chalet ,El Carmen ,275000 ,4,121
 Piso ,Espirdo ,49000 ,1,53
 Chalet ,Calle Arriba 5 ,350000 ,4,380
 Piso ,Espirdo ,39000 ,1,50
-Chalet ,Marugan ,195000 ,4,2.500
-Chalet ,Marugan ,185000 ,7,2.500
+Chalet ,Marugan ,195000 ,4,2500
+Chalet ,Marugan ,185000 ,7,2500
 Chalet ,Revenga ,230000 ,4,14
 Chalet ,Madrona ,45000 ,4,100
 Chalet ,Los Huertos ,239000 ,4,45
 Piso ,Centro ,480000 ,4,188
-Piso ,Plaza Mayor - S.Agustín ,515000 ,4,25
+Piso ,Plaza Mayor - SAgustín ,515000 ,4,25
 Piso ,José Zorrilla - Padre Claret ,108000 ,3,87
 Chalet ,La Lastrilla ,525000 ,7,800
 Chalet ,Palazuelos de Eresma ,330000 ,4,134
 Chalet ,Otero de Herreros ,160000 ,4,50
 Chalet ,Espirdo ,299000 ,4,278
 Chalet ,Mozoncillo ,60000 ,4,149
-Piso ,El Cerro - Crtra. San Rafael ,113900 ,3,96
+Piso ,El Cerro - Crtra San Rafael ,113900 ,3,96
 Piso ,Palazuelos de Eresma ,79000 ,2,62
 Chalet ,Basardilla ,80000 ,5,285
 Chalet ,La Lastrilla ,265000 ,3,130
@@ -285,13 +285,13 @@ Piso ,Palazuelos de Eresma ,135000 ,3,99
 Chalet ,La Lastrilla ,230000 ,4,144
 Piso ,José Zorrilla - Padre Claret ,108000 ,3,106
 Chalet ,Los Ángeles de San Rafael ,295000 ,5,900
-Piso ,Ezequiel González - Cde. Sepulveda ,252500 ,4,126
-Piso ,Ezequiel González - Cde. Sepulveda ,375000 ,4,159
+Piso ,Ezequiel González - Cde Sepulveda ,252500 ,4,126
+Piso ,Ezequiel González - Cde Sepulveda ,375000 ,4,159
 Piso ,El Espinar ,113000 ,2,73
 Chalet ,Fresno de Cantespino ,129900 ,3,00
 Ático ,Sector Plaza de Toros ,305000 ,4,144
 Chalet ,La Lastrilla ,229900 ,4,130
-Piso ,El Cerro - Crtra. San Rafael ,169900 ,4,126
+Piso ,El Cerro - Crtra San Rafael ,169900 ,4,126
 Piso ,Via Roma ,126000 ,2,77
 Piso ,921263499 ,Calle San Sebastián ,89900,471
 Chalet ,Paysandú ,282000 ,4,120
@@ -307,26 +307,26 @@ Piso ,Paseo Pocillo 24 ,369000 ,4,137
 Chalet ,Grajera ,125000 ,3,20
 Casa Rural ,Matabuena ,985000 ,10,600
 Piso ,Calle del Cristo del Mercado ,225000 ,4,151
-Chalet ,Duruelo ,225000 ,3,3.000
+Chalet ,Duruelo ,225000 ,3,3000
 Chalet ,Ortigosa del Monte ,420000 ,6,1000
 Chalet ,Otero de Herreros ,230000 ,4,159
 Chalet ,Encinillas ,271000 ,3,500
 Casa Rural ,Cerezo de Arriba ,285000 ,4,300
 Piso ,Calle de José Zorrilla ,125000 ,3,111
-Chalet ,Los Ángeles de San Rafael ,299000 ,4,1.462
+Chalet ,Los Ángeles de San Rafael ,299000 ,4,1462
 Piso ,CO ESPERANZA ,105900 ,3,90
 Chalet ,Los Ángeles de San Rafael ,260000 ,4,220
 Chalet ,La Lastrilla ,299000 ,4,126
 Chalet ,Calle j 303 ,59500 ,3,1000
-Chalet ,Fresno de Cantespino ,179000 ,4,2.500
-Chalet ,Fresno de Cantespino ,179000 ,4,2.500
+Chalet ,Fresno de Cantespino ,179000 ,4,2500
+Chalet ,Fresno de Cantespino ,179000 ,4,2500
 Piso ,San Rafael ,144000 ,3,90
 Piso ,San Rafael ,111260 ,2,79
 Piso ,El Carmen ,129000 ,3,119
-Piso ,Ezequiel González - Cde. Sepulveda ,220000 ,4,139
+Piso ,Ezequiel González - Cde Sepulveda ,220000 ,4,139
 Piso ,Centro ,90000 ,3,83
 Chalet ,Avenida cerca nueva ,106000 ,2,500
-Piso ,El Cerro - Crtra. San Rafael ,235000 ,3,106
+Piso ,El Cerro - Crtra San Rafael ,235000 ,3,106
 Piso ,Bernuy de Porreros ,68000 ,2,90
 Piso ,Torrecaballeros ,125000 ,3,95
 Chalet ,Palazuelos de Eresma ,275000 ,3,340
@@ -336,7 +336,7 @@ Chalet ,Torre Val de San Pedro ,50000 ,1,42
 Chalet ,Encinillas ,99900 ,4,200
 Casa Rural ,Trescasas ,265000 ,3,214
 Piso ,El Carmen ,188700 ,4,123
-Chalet ,Plaza Mayor - S.Agustín ,360000 ,3,80
+Chalet ,Plaza Mayor - SAgustín ,360000 ,3,80
 Piso ,Sector Plaza de Toros ,199900 ,4,146
 Piso ,La Lastrilla ,175990 ,3,80
 Duplex ,Sector Plaza de Toros ,320000 ,3,20
@@ -347,7 +347,7 @@ Piso ,Espirdo ,84900 ,2,68
 Chalet ,Sauquillo de Cabezas ,45000 ,3,216
 Piso ,Espirdo ,54840 ,1,46
 Piso ,San Cristobal de Segovia ,135000 ,3,85
-Chalet ,S.Lorenzo - S.Marcos ,89000 ,3,111
+Chalet ,SLorenzo - SMarcos ,89000 ,3,111
 Casa Rural ,Fuentepelayo ,40000 ,1,444
 Chalet ,Turégano ,300000 ,5,300
 Piso ,Calle Alfonso VI ,120000 ,3,95
@@ -377,7 +377,7 @@ Chalet ,Arco Del ,210000 ,3,45
 Piso ,Melancolía Baja ,339000 ,3,113
 Chalet ,El Carmen ,275000 ,3,85
 Piso ,San Ildefonso o la Granja ,159000 ,3,82
-Chalet ,Plaza Mayor - S.Agustín ,2100000 ,5,1.786
+Chalet ,Plaza Mayor - SAgustín ,2100000 ,5,1786
 Chalet ,Trescasas ,760000 ,5,177
 Chalet ,San Ildefonso o la Granja ,150000 ,1,64
 Chalet ,Calle Pergolero ,470000 ,5,398
@@ -386,26 +386,26 @@ Piso ,Calle Ángel Barroso ,66500 ,1,40
 Chalet ,Calle Acacias ,445000 ,5,350
 Piso ,Calle Bardagueras ,89000 ,3,92
 Duplex ,Centro ,265000 ,4,132
-Duplex ,El Cerro - Crtra. San Rafael ,185000 ,3,106
+Duplex ,El Cerro - Crtra San Rafael ,185000 ,3,106
 Chalet ,Palazuelos de Eresma ,298000 ,5,179
-Piso ,S.Lorenzo - S.Marcos ,128500 ,2,67
+Piso ,SLorenzo - SMarcos ,128500 ,2,67
 Chalet ,San Ildefonso o la Granja ,850000 ,5,174
 Duplex ,Sector Plaza de Toros ,270000 ,6,201
 Chalet ,Navas de Riofrio ,450000 ,6,368
 Chalet ,Calle de las Eras ,502000 ,3,98
 Chalet ,San Pedro 31 ,269000 ,5,189
 Casa Rural ,Calle Ermita s/n ,120000 ,4,135
-Chalet ,El Espinar ,1275000 ,6,12.000
-Chalet ,Calle de Pedraza 2 ,2100000 ,10,5.000
+Chalet ,El Espinar ,1275000 ,6,12000
+Chalet ,Calle de Pedraza 2 ,2100000 ,10,5000
 Chalet ,Encinillas ,165000 ,3,92
-Piso ,Plaza Mayor - S.Agustín ,369000 ,4,120
+Piso ,Plaza Mayor - SAgustín ,369000 ,4,120
 Chalet ,San Rafael ,420000 ,5,178
 Piso ,Palazuelos de Eresma ,149500 ,3,115
 Piso ,Via Roma ,188000 ,2,77
-Chalet ,Urb. Seo de Urgel ,670000 ,6,1.835
+Chalet ,Urb Seo de Urgel ,670000 ,6,1835
 Piso ,Avenida Coto San Isidro ,115000 ,3,115
 Piso ,Calle La Virgen ,100000 ,4,100
-Chalet ,Plaza Mayor - S.Agustín ,740000 ,3,98
+Chalet ,Plaza Mayor - SAgustín ,740000 ,3,98
 Chalet ,Avenida de 7 Fuentes ,317750 ,3,250
 Chalet ,Cabañas de Polendos ,144500 ,3,309
 Chalet ,Calle Sol ,370000 ,4,312
@@ -419,28 +419,28 @@ Casa Rural ,Calle de San Agustín ,360000 ,8,115
 Chalet ,Calle San Martin 5 ,290000 ,3,120
 Piso ,Calle Valdeláguila ,425000 ,3,175
 5 ,635971142 ,N- VI Km 78,5,176
-Chalet ,S.Lorenzo - S.Marcos ,575000 ,3,85
+Chalet ,SLorenzo - SMarcos ,575000 ,3,85
 Piso ,Calle Barrio Arriba ,47000 ,1,60
 Chalet ,Calle la Cabaña ,130000 ,4,159
 Chalet ,La Losa ,280000 ,4,142
 Piso ,Palazuelos de Eresma ,129775 ,4,127
-Piso ,El Cerro - Crtra. San Rafael ,165000 ,3,103
+Piso ,El Cerro - Crtra San Rafael ,165000 ,3,103
 Chalet ,Martin Miguel ,690000 ,4,148
 Chalet ,921261187 ,La Lastrilla ,1050000,542
-Piso ,Plaza Mayor - S.Agustín ,1200000 ,7,408
-Chalet ,San Ildefonso o la Granja ,850000 ,6,1.057
+Piso ,Plaza Mayor - SAgustín ,1200000 ,7,408
+Chalet ,San Ildefonso o la Granja ,850000 ,6,1057
 Piso ,Centro ,185000 ,4,137
 Piso ,Calle Raserillo Bajo ,68500 ,1,46
 Chalet ,Marazoleja ,145000 ,5,80
 Piso ,Carretera de Villacastín ,219000 ,4,142
 Piso ,Calle del Piano ,80000 ,3,86
-Chalet ,S.Lorenzo - S.Marcos ,260000 ,3,90
+Chalet ,SLorenzo - SMarcos ,260000 ,3,90
 Casa Rural ,VIRIATO s/n ,197000 ,4,138
 Chalet ,Carretera de La Coruña 52 ,249000 ,4,127
 Piso ,Palazuelos de Eresma ,129500 ,3,80
 Chalet ,Calle de la Cruz 40 ,320000 ,5,1000
-Chalet ,Urbanizacion Parraces II 144 ,105000 ,2,2.500
-Piso ,S.Lorenzo - S.Marcos ,89900 ,2,60
+Chalet ,Urbanizacion Parraces II 144 ,105000 ,2,2500
+Piso ,SLorenzo - SMarcos ,89900 ,2,60
 Chalet ,Fuentemilanos ,199000 ,5,67
 Chalet ,Ortigosa del Monte ,220000 ,2,140
 Piso ,Calle Real ,125000 ,3,80
@@ -486,7 +486,7 @@ Piso ,Plaza Doctor Laguna ,495000 ,4,160
 Chalet ,Calle Subida a la Picota ,270000 ,8,316
 Chalet ,Calle el Chopo ,190000 ,5,173
 Piso ,Calle San Francisco ,760000 ,5,281
-Chalet ,San Ildefonso o la Granja ,2250000 ,10,1.200
+Chalet ,San Ildefonso o la Granja ,2250000 ,10,1200
 Piso ,Calle Miraflores ,120000 ,3,75
 Piso ,Calle del Sexmo de Cabezas s/n ,279450 ,3,106
 Chalet ,Calle Alameda ,87000 ,3,105
@@ -516,7 +516,7 @@ Piso ,Calle del Sexmo de Cabezas s/n ,205965 ,2,75
 Chalet ,Calle Alcalde Don Leoncio Mateos s/n ,223400 ,3,85
 Ático ,Calle del Sexmo de Cabezas s/n ,284625 ,3,119
 Chalet ,Calle Alcalde Don Leoncio Mateos s/n ,243400 ,3,81
-Piso ,Ezequiel González - Cde. Sepulveda ,162900 ,4,120
+Piso ,Ezequiel González - Cde Sepulveda ,162900 ,4,120
 Chalet ,Calle Alcalde Don Leoncio Mateos s/n ,223400 ,3,96
 Chalet ,Calle Alcalde Don Leoncio Mateos s/n ,223400 ,3,112
 Piso ,Calle del Sexmo de Cabezas s/n ,336375 ,4,152
@@ -526,7 +526,7 @@ Chalet ,Calle Alcalde Don Leoncio Mateos s/n ,223400 ,3,111
 Ático ,Calle del Sexmo de Cabezas s/n ,300150 ,3,90
 Piso ,Calle del Sexmo de Cabezas s/n ,207000 ,2,63
 Piso ,Calle del Sexmo de Cabezas s/n ,274275 ,3,108
-Chalet ,Espirdo ,370000 ,5,2.200
+Chalet ,Espirdo ,370000 ,5,2200
 Piso ,Calle del Sexmo de Cabezas s/n ,325000 ,4,156
 Chalet ,Calle Luis Felipe Peñalosa ,96900 ,5,265
 Piso ,cervantes 1 ,63000 ,2,109
@@ -547,7 +547,7 @@ Piso ,cristo del caloco 3 ,120000 ,2,59
 Chalet ,Calle del Santo Cristo ,81000 ,3,40
 Chalet ,Chopo 19 ,183000 ,5,30
 Ático ,Cantalejo ,63000 ,2,78
-Chalet ,Calle Otero 19 ,249000 ,3,6.000
+Chalet ,Calle Otero 19 ,249000 ,3,6000
 Piso ,Calle de los Coches 14 ,193000 ,2,79
 Chalet ,Calle Paysandú ,365000 ,4,1000
 Casa Rural ,Calle la Parra ,1650000 ,7,298
@@ -579,7 +579,7 @@ Chalet ,Plaza Mayor ,56000 ,3,88
 Chalet ,Florencia 5 ,190000 ,4,140
 Chalet ,parla ,140000 ,3,115
 Piso ,Calle Juan Calvo 19 ,132000 ,2,75
-Piso ,Plaza Mayor - S.Agustín ,240000 ,3,81
+Piso ,Plaza Mayor - SAgustín ,240000 ,3,81
 Chalet ,PEÑALVER ,330000 ,3,200
 Piso ,Calle PINAR DE VALSAIN 12 ,290000 ,3,81
 Ático ,Calle PINAR DE VALSAIN 12 ,390000 ,4,149
@@ -601,12 +601,12 @@ Chalet ,Los Ángeles de San Rafael ,290000 ,3,850
 Chalet ,Calle de los Potros s/n ,155000 ,1,970
 Chalet ,Calle de los Potros s/n ,155000 ,1,970
 Chalet ,Los Ángeles de San Rafael ,290000 ,3,850
-Chalet ,Calle Fuente ,2100000 ,10,5.000
+Chalet ,Calle Fuente ,2100000 ,10,5000
 Chalet ,Ortigosa del Monte ,220000 ,2,74
 Chalet ,Calle Duruelo 4 ,110000 ,1,55
 Chalet ,Urbanización Monte de los Cortos 204 ,125000 ,3,40
 Casa Rural ,Calle Estación 14 ,280000 ,5,290
-Piso ,El Cerro - Crtra. San Rafael ,75000 ,4,125
+Piso ,El Cerro - Crtra San Rafael ,75000 ,4,125
 Duplex ,velarde ,350000 ,5,97
 Piso ,Bernuy de Porreros ,75000 ,2,63
 Chalet ,Calle molino ,240000 ,4,180
@@ -636,7 +636,7 @@ Chalet ,Carretera de Valdevilla ,180000 ,4,159
 Ático ,San Pedro de Fuentidueña ,77000 ,3,110
 Chalet ,Calle Estrella 27 ,229000 ,5,182
 Chalet ,Calle Real ,150000 ,4,315
-Ático ,Plaza Mayor - S.Agustín ,724000 ,3,87
+Ático ,Plaza Mayor - SAgustín ,724000 ,3,87
 Piso ,Plaza Juan Guas ,515000 ,4,147
 Piso ,Carretera de Villacastín 24 ,185000 ,2,62
 Piso ,Peregrinos ,82000 ,2,66
@@ -650,7 +650,7 @@ Piso ,Calle de Logroño ,110000 ,3,90
 Piso ,Plaza Juan Guas ,515000 ,4,121
 Piso ,Paseo Conde de Sepúlveda ,159900 ,3,95
 Piso ,Calle Jesús Unturbe 2 ,210000 ,5,192
-Ático ,Plaza Mayor - S.Agustín ,724000 ,3,93
+Ático ,Plaza Mayor - SAgustín ,724000 ,3,93
 Chalet ,Camino de Tres Encinas 281 ,69000 ,2,500
 Piso ,Calle Alcalde Valentín Ordóñez 6 ,207500 ,3,87
 Piso ,José Zorrilla - Padre Claret ,260000 ,3,165
@@ -765,7 +765,7 @@ Chalet ,04 m²  - Superficie Parcela: 301,20 m²  - Superficie Jardín/Patio: 19
 Chalet ,paraguay ,220000 ,3,107
 Chalet ,Rosales ,85000 ,3,127
 Chalet ,Calle del Rio 4 ,80000 ,1,200
-Piso ,Plaza Mayor - S.Agustín ,1200000 ,4,160
+Piso ,Plaza Mayor - SAgustín ,1200000 ,4,160
 Piso ,San Luis ,180000 ,3,83
 Chalet ,Grajera ,199000 ,3,85
 Chalet ,Carretera San Rafael ,330000 ,4,133
@@ -784,8 +784,8 @@ Chalet ,Santa Maria la Real de Nieva ,185000 ,4,15
 Casa Rural ,Calle Real 41 ,75000 ,4,186
 Chalet ,Marugan ,119000 ,5,179
 Chalet ,Palazuelos de Eresma ,245000 ,4,148
-Casa Rural ,Condado de Castilnovo ,15000000 ,22,5.457
-Piso ,Ezequiel González - Cde. Sepulveda ,122500 ,4,127
+Casa Rural ,Condado de Castilnovo ,15000000 ,22,5457
+Piso ,Ezequiel González - Cde Sepulveda ,122500 ,4,127
 Duplex ,Calle Pinar de Valsaín 1 ,272000 ,3,102
 Chalet ,Calle San Vicente ,325000 ,4,913
 Chalet ,Santo Domingo de Piron ,350000 ,4,350
@@ -814,7 +814,7 @@ Piso ,Avenida Vía Roma 52 ,252000 ,3,115
 Chalet ,Calle Erillas 2 B ,130000 ,4,132
 Chalet ,Calle Paraguay 11 ,129000 ,3,106
 Chalet ,Calle Real 11 ,49000 ,4,150
-Chalet ,Navafria s/n ,995000 ,8,20.00
+Chalet ,Navafria s/n ,995000 ,8,2000
 Chalet ,Camino real ,110000 ,4,500
 Piso ,Avenida Vía Roma 52 ,188000 ,2,78
 Chalet ,Calle Erilla 2 ,130000 ,4,126
@@ -826,10 +826,8 @@ Piso ,Avenida Andrés Reguera 34 ,55000 ,3,112
 Chalet ,Calle cerca nueva sector G-8 s/n ,49995 ,2,63
 Piso ,Calle yecla 3 ,250000 ,3,110
 Piso ,Puente de Muerte y Vida 18 ,199000 ,3,101
-Piso ,El Cerro - Crtra. San Rafael ,220000 ,4,126
+Piso ,El Cerro - Crtra San Rafael ,220000 ,4,126
 Chalet ,Carretera Torreiglesias ,199000 ,3,370
-Chalet ,0 m2 Por último en la planta BAJO CUBIERTA hay dos dormitorios adicionales lo que la convierte en una casa perfecta para una familia numerosa o para recibir visitas. Con sus techos inclinados esta planta es acogedora y encantadora. Sup construida 32,"0 m2 En resumen esta vivienda unifamiliar en Casla que se describe es una cómoda casa con una ubicación privilegiada a los pies de la Sierra de Guadarrama. Con su jardín de entrada sus 3 plantas y sus 4 dormitorios es una casa perfecta para disfrutar de la tranquilidad de la vida en un pueblo de montaña. ¿TE HAN QUEDADO DUDAS O QUIERES VISITARLO? NO DUDES Y CONTÁCTANOS."" ",921263499,473
-Chalet ,"36 m2 y cuenta también con una pequeña bodega en sótano a la cual se accede desde el salón. La planta baja con una superficie de 40 m2 se distribuye en vestíbulo de entrada cocina aseo y salón comedor y escalera de acceso a la planta primera donde nos encontramos con tres dormitorios y un cuarto de baño y con una superficie en planta de igual superficie. Llámanos sin compromiso para realizar una visita. ""."" ",921268021 ,7,261
 Piso ,Calle la Dehesa ,95000 ,2,68
 Chalet ,Los Ángeles de San Rafael ,345000 ,3,103
 Chalet ,Calle Severo Ochoa s/n ,299000 ,4,142
@@ -839,7 +837,6 @@ Chalet ,Acebal s/n ,255000 ,4,137
 Duplex ,Avenida de la Fragua 19 ,85000 ,2,61
 Piso ,Avenida de la Fragua 19 ,89000 ,2,8
 Chalet ,Ventaquemada ,298500 ,3,154
-Chalet ,0 m2 Por último en la planta BAJO CUBIERTA hay dos dormitorios adicionales lo que la convierte en una casa perfecta para una familia numerosa o para recibir visitas. Con sus techos inclinados esta planta es acogedora y encantadora. Sup construida 32,"0 m2 En resumen esta vivienda unifamiliar en Casla que se describe es una cómoda casa con una ubicación privilegiada a los pies de la Sierra de Guadarrama. Con su jardín de entrada sus 3 plantas y sus 4 dormitorios es una casa perfecta para disfrutar de la tranquilidad de la vida en un pueblo de montaña. ¿TE HAN QUEDADO DUDAS O QUIERES VISITARLO? NO DUDES Y CONTÁCTANOS."" ",921263499,665
 Piso ,Avenida de la Fragua 19 ,89000 ,2,8
 Piso ,Matabueyes 3 ,59000 ,2,78
 Piso ,Calle la Dehesa ,95000 ,2,79
@@ -850,7 +847,6 @@ Piso ,Calle del Nte ,110000 ,2,80
 Piso ,Palazuelos de Eresma ,199000 ,3,480
 Chalet ,Acebal s/n ,255000 ,4,138
 Casa Rural ,Pozo lastras del s/n ,650000 ,5,189
-Chalet ,"36 m2 y cuenta también con una pequeña bodega en sótano a la cual se accede desde el salón. La planta baja con una superficie de 40 m2 se distribuye en vestíbulo de entrada cocina aseo y salón comedor y escalera de acceso a la planta primera donde nos encontramos con tres dormitorios y un cuarto de baño y con una superficie en planta de igual superficie. Llámanos sin compromiso para realizar una visita. ""."" ",921268021 ,7,254
 Chalet ,Los Ángeles de San Rafael ,345000 ,3,95
 Chalet ,Calle Severo Ochoa s/n ,299000 ,4,155
 Chalet ,Calle Martin Lloret ,79000 ,4,0
@@ -858,12 +854,12 @@ Chalet ,Calle de la iglesia ,700000 ,5,195
 Piso ,El Carmen ,120000 ,3,90
 Piso ,Cotos ,85000 ,4,98
 Piso ,Calle Murillo ,115000 ,3,87
-Chalet ,Alameda del.parral ,750000 ,5,188
+Chalet ,Alameda delparral ,750000 ,5,188
 Chalet ,Camino san vicente ,350000 ,6,235
 Chalet ,Palazuelos de Eresma ,100000 ,3,89
 Chalet ,Carretera DE LA GARGANTA ,235000 ,2,99
 Chalet ,Sauquillo de Cabezas ,60000 ,4,131
-Casa Rural ,Santo Tomé del Puerto ,59000 ,3,1.500
+Casa Rural ,Santo Tomé del Puerto ,59000 ,3,1500
 Chalet ,claudio moreno ,295000 ,5,720
 Chalet ,Plaza LOS CIERVOS ,340000 ,6,189
 Chalet ,Marugan ,179000 ,4,145
@@ -872,14 +868,14 @@ Piso ,Sector Plaza de Toros ,120000 ,3,89
 Chalet ,Calle Virgen de la Fuencisla ,210000 ,3,89
 Piso ,obispo quesada ,129000 ,3,80
 Piso ,Calle la Independencia ,260000 ,6,243
-Chalet ,CRTA. PASO A NIVEL ,292000 ,4,120
+Chalet ,CRTA PASO A NIVEL ,292000 ,4,120
 Piso ,Centro ,248000 ,3,80
 Duplex ,Calle Leñadores ,119900 ,5,140
 Chalet ,Paseo SAN ANTONIO ,325000 ,6,90
 Piso ,Via Roma 50 ,105000 ,3,103
 Ático ,Calle de Unión Fenosa ,92000 ,1,56
 Chalet ,Palazuelos de Eresma ,549500 ,8,323
-Chalet ,Alameda del.parral ,750000 ,5,183
+Chalet ,Alameda delparral ,750000 ,5,183
 Piso ,Calle Real ,125000 ,3,80
 Casa Rural ,Calle San Lorenzo ,130000 ,4,100
 Chalet ,Calle Virgen de la Fuencisla ,210000 ,3,117
@@ -912,14 +908,14 @@ Piso ,Palazuelos de Eresma ,121000 ,3,80
 Piso ,José Zorrilla ,250300 ,4,263
 Piso ,Calle del Doctor Gila 2 ,149000 ,3,27
 Chalet ,Los Huertos ,229500 ,4,150
-Piso ,Plaza Mayor - S.Agustín ,399000 ,5,165
+Piso ,Plaza Mayor - SAgustín ,399000 ,5,165
 Piso ,general santiago ,129000 ,2,83
 Chalet ,Calle la Montaña ,133000 ,4,145
-Piso ,Plaza Mayor - S.Agustín ,255000 ,3,114
+Piso ,Plaza Mayor - SAgustín ,255000 ,3,114
 Chalet ,Puente Ledesma ,190600 ,3,93
 Duplex ,Avenida Hontanilla ,158000 ,3,106
 Chalet ,Calle Pedrosa s/n ,170000 ,4,169
-Piso ,Plaza Mayor - S.Agustín ,399000 ,5,189
+Piso ,Plaza Mayor - SAgustín ,399000 ,5,189
 Piso ,Paseo Conde de Sepúlveda ,214000 ,4,120
 Piso ,La Cava 5 ,88000 ,2,77
 Casa Rural ,Calle Cid ,70000 ,5,192
@@ -930,7 +926,7 @@ Casa Rural ,CARNICERIA 8 ,100000 ,3,146
 Piso ,Calle Doctor Laguna s/n ,275000 ,2,71
 Chalet ,Carretera EL HENAR 1 ,120000 ,4,148
 Piso ,ERMITA 2 ,77000 ,3,100
-Piso ,Plaza Mayor - S.Agustín ,255000 ,3,114
+Piso ,Plaza Mayor - SAgustín ,255000 ,3,114
  8 ,921265494 ,Plaza de toros,8,337
 Chalet ,Carretera del Negredo s/n S/N ,120000 ,6,60
 Chalet ,Calle Pedrosa s/n ,170000 ,4,169
@@ -940,7 +936,7 @@ Chalet ,Los Ángeles de San Rafael ,267800 ,3,101
 Piso ,Calle la Lámpara ,118000 ,2,12
 Piso ,Calle Doctor Laguna s/n ,495000 ,4,138
 Piso ,ALMIRA ,220000 ,3,106
-Chalet ,Calle Faro 519 ,310000 ,4,1.421
+Chalet ,Calle Faro 519 ,310000 ,4,1421
 Piso ,Paseo Quintana 19 ,145000 ,3,110
 Casa Rural ,Larga 26 ,95000 ,4,129
 Piso ,Valentin Gil 7 ,78000 ,2,80
@@ -971,12 +967,12 @@ Piso ,Calle Ronda 124 ,88100 ,1,41
 Piso ,Calle Parras ,47400 ,2,67
 Chalet ,iglesia ,375000 ,6,222
 Piso ,Calle Larga ,185000 ,4,159
-Piso ,Ezequiel González - Cde. Sepulveda ,163000 ,4,4
+Piso ,Ezequiel González - Cde Sepulveda ,163000 ,4,4
 Duplex ,Avenida COTO DE SAN ISIDRO ,65000 ,2,64
 Piso ,Avenida Padre Claret 10 ,220000 ,4,144
-Casa Rural ,Sg-v-2311 s/n ,110000 ,0,17.500
+Casa Rural ,Sg-v-2311 s/n ,110000 ,0,17500
 Piso ,Calle de Andres Sanz ,70000 ,3,84
-Ático ,Plaza Mayor - S.Agustín ,160000 ,2,80
+Ático ,Plaza Mayor - SAgustín ,160000 ,2,80
 Chalet ,Calle El Albañil ,102000 ,4,69
 Chalet ,Calle Mota ,83800 ,3,100
 Piso ,Avenida Portugal ,114995 ,3,117
@@ -1001,18 +997,18 @@ Chalet ,Espirdo ,185000 ,4,129
 Chalet ,Calle Enebro ,210000 ,4,140
 Piso ,San Rafael ,74900 ,3,780
 Chalet ,Martin Miguel ,167000 ,4,159
-Chalet ,Palazuelos de Eresma ,450000 ,6,1.220
+Chalet ,Palazuelos de Eresma ,450000 ,6,1220
 Chalet ,Calle j 269 ,240000 ,4,1000
 Piso ,Juarros de Voltoya ,37000 ,3,97
 Casa Rural ,Zamarramala ,1100000 ,7,900
-Duplex ,El Cerro - Crtra. San Rafael ,230000 ,3,123
+Duplex ,El Cerro - Crtra San Rafael ,230000 ,3,123
 Duplex ,Hontoria ,165000 ,3,99
 Chalet ,Hontanares de Eresma ,150000 ,4,158
 Chalet ,Palazuelos de Eresma ,250000 ,3,93
 Duplex ,Hontoria ,150000 ,3,150
-Piso ,Plaza Mayor - S.Agustín ,515000 ,5,225
+Piso ,Plaza Mayor - SAgustín ,515000 ,5,225
 Chalet ,Otero de Herreros ,530000 ,6,209
-Chalet ,Vereda de Aldeanueva ,325000 ,5,2.504
+Chalet ,Vereda de Aldeanueva ,325000 ,5,2504
 Chalet ,PARAGUAY s/n ,215000 ,4,149
 Chalet ,Valverde del Majano ,399000 ,4,121
 Chalet ,921265039 ,Navafria ,129000,684
@@ -1024,7 +1020,7 @@ Chalet ,Hontanares de Eresma ,190000 ,3,171
 Chalet ,Palazuelos de Eresma ,229000 ,4,138
 Duplex ,Calle los Peldaños 4 ,280000 ,3,20
 Piso ,Vía Roma ,150000 ,3,104
-Duplex ,S.Lorenzo - S.Marcos ,247500 ,3,111
+Duplex ,SLorenzo - SMarcos ,247500 ,3,111
 Chalet ,Revenga ,250000 ,3,116
 Piso ,Hontoria ,129000 ,3,96
 Chalet ,Los Ángeles de San Rafael ,199000 ,4,135
@@ -1033,8 +1029,8 @@ Chalet ,Calle Caños ,60000 ,3,87
 Chalet ,Escarabajosa de Cabezas ,239000 ,5,116
 Chalet ,Calle Lirio 9 ,325000 ,4,120
 Piso ,Torrecaballeros ,95000 ,2,73
-Chalet ,Av. de Los Angeles 40424 ,231000 ,3,115
-Piso ,Ezequiel González - Cde. Sepulveda ,375000 ,5,179
+Chalet ,Av de Los Angeles 40424 ,231000 ,3,115
+Piso ,Ezequiel González - Cde Sepulveda ,375000 ,5,179
 Chalet ,Los Ángeles de San Rafael ,199000 ,7,285
 Piso ,Calle la Cabaña ,117000 ,3,125
 Chalet ,mayor ,285000 ,5,207
@@ -1054,14 +1050,14 @@ Chalet ,Sector Plaza de Toros ,129000 ,3,98
 Piso ,Calle Val Alto ,56300 ,3,83
 Piso ,Calle Ricardo Provencio ,81000 ,3,114
 Chalet ,Los Ángeles de San Rafael ,195000 ,4,120
-Piso ,El Cerro - Crtra. San Rafael ,220000 ,4,124
+Piso ,El Cerro - Crtra San Rafael ,220000 ,4,124
 Duplex ,José Zorrilla - Padre Claret ,285000 ,4,137
 Piso ,Calle las Moras ,125000 ,3,89
 Casa Rural ,Calle Prado 27 ,129000 ,4,800
 Chalet ,mayor ,285000 ,5,207
 Casa Rural ,Hontoria ,900000 ,3,88
 Piso ,Calle la Cabaña ,117000 ,3,125
-Piso ,Calle los Lobos ,104000 ,3,105.38
+Piso ,Calle los Lobos ,104000 ,3,10538
 Piso ,Vía Roma ,126000 ,2,87
 Chalet ,Pozo de las Tierras ,140000 ,4,170
 Chalet ,Calle de Garcillan ,64000 ,3,114
@@ -1141,7 +1137,7 @@ Piso ,Carretera de Valladolid ,155000 ,3,9
 Piso ,Centro ,250000 ,2,64
 Chalet ,Calle Alivio ,145000 ,4,126
 Chalet ,Nava de la Asuncion ,330000 ,6,683
-Piso ,Ezequiel González - Cde. Sepulveda ,165000 ,3,90
+Piso ,Ezequiel González - Cde Sepulveda ,165000 ,3,90
 Chalet ,Cerezo de Abajo ,165000 ,7,543
 Chalet ,republica dominicana ,570000 ,5,330
 Casa Rural ,Taberna 1 ,290000 ,4,400
@@ -1181,7 +1177,7 @@ Chalet ,Villaverde de Iscar ,95000 ,5,307
 Chalet ,Espirdo ,390000 ,4,143
 Casa Rural ,Matabuena ,169000 ,3,170
 Chalet ,Mozoncillo ,65000 ,4,136
-Piso ,Plaza Mayor - S.Agustín ,515000 ,4,148
+Piso ,Plaza Mayor - SAgustín ,515000 ,4,148
 Chalet ,Adrada de Piron ,280000 ,4,234
 Chalet ,El Carmen ,350000 ,4,150
 Casa Rural ,Santa Maria la Real de Nieva ,179000 ,5,532
@@ -1208,9 +1204,9 @@ Chalet ,Encinillas ,185000 ,4,133
 Chalet ,Fuentesauco de Fuentidueña ,37200 ,4,153
 Chalet ,Calle Erilla 4 ,69500 ,4,215
 Chalet ,Los Ángeles de San Rafael ,210000 ,3,161
-Piso ,S.Lorenzo - S.Marcos ,95000 ,3,70
+Piso ,SLorenzo - SMarcos ,95000 ,3,70
 Piso ,Carretera segovia 9 ,140000 ,2,90
-Chalet ,Calle J 304 ,59500 ,3,1.000
+Chalet ,Calle J 304 ,59500 ,3,1000
 Chalet ,Armuña ,97000 ,3,88
 Chalet ,Los Ángeles de San Rafael ,499000 ,3,1200
 Chalet ,Cabañas de Polendos ,140000 ,4,30
@@ -1218,11 +1214,11 @@ Chalet ,Los Ángeles de San Rafael ,264000 ,3,110
 Casa Rural ,Marazoleja ,145000 ,5,186
 Casa Rural ,Sangarcia ,39000 ,3,118
 Chalet ,Calle Fuente ,200000 ,0,0
-Piso ,Ezequiel González - Cde. Sepulveda ,250000 ,4,137
+Piso ,Ezequiel González - Cde Sepulveda ,250000 ,4,137
 Piso ,El Espinar ,90000 ,3,78
 Chalet ,Revenga ,230000 ,4,240
 Piso ,José Zorrilla - Padre Claret ,223000 ,3,140
-Chalet ,S.Lorenzo - S.Marcos ,279800 ,5,174
+Chalet ,SLorenzo - SMarcos ,279800 ,5,174
 Piso ,El Espinar ,118000 ,3,117
 Chalet ,Basardilla ,80000 ,5,284
 Chalet ,Los Ángeles de San Rafael ,219900 ,3,145
@@ -1252,25 +1248,25 @@ Chalet ,Calle Navachicero 22 ,50000 ,3,100
 Piso ,El Espinar ,118000 ,3,117
 Duplex ,Ituero y Lama ,75000 ,2,75
 Chalet ,Fuentemilanos ,199000 ,5,196
-Casa Rural ,S.Lorenzo - S.Marcos ,700000 ,5,380
+Casa Rural ,SLorenzo - SMarcos ,700000 ,5,380
 Piso ,El Espinar ,73000 ,3,95
 Piso ,José Zorrilla - Padre Claret ,223000 ,3,140
 Chalet ,Los Ángeles de San Rafael ,499000 ,3,1200
 Piso ,San Rafael ,145000 ,3,115
 Casa Rural ,Valverde del Majano ,82000 ,2,60
-Duplex ,S.Lorenzo - S.Marcos ,235000 ,3,97
+Duplex ,SLorenzo - SMarcos ,235000 ,3,97
 Duplex ,Vía Roma ,185000 ,4,126
-Piso ,S.Lorenzo - S.Marcos ,95000 ,3,70
+Piso ,SLorenzo - SMarcos ,95000 ,3,70
 Piso ,El Espinar ,116500 ,3,98
 Chalet ,Los Ángeles de San Rafael ,260000 ,4,228
 Casa Rural ,Calle Turégano 5 ,89000 ,4,140
 Chalet ,Calle Fuente ,200000 ,0,0
 Chalet ,Los Ángeles de San Rafael ,264000 ,3,90
-Chalet ,Calle J 304 ,59500 ,3,1.000
+Chalet ,Calle J 304 ,59500 ,3,1000
 Piso ,El Espinar ,95000 ,2,80
 Casa Rural ,Daniel Ortega 21 ,69900 ,0,146
-Piso ,El Cerro - Crtra. San Rafael ,220000 ,4,126
-Piso ,Plaza Mayor - S.Agustín ,339000 ,3,150
+Piso ,El Cerro - Crtra San Rafael ,220000 ,4,126
+Piso ,Plaza Mayor - SAgustín ,339000 ,3,150
 Piso ,Ituero y Lama ,115000 ,3,115
 Chalet ,Calle Molino 15 ,44900 ,0,49
 Piso ,La Losa ,88000 ,4,121
@@ -1285,19 +1281,19 @@ Chalet ,Calle de Segovia ,59900 ,3,0
 Piso ,Calle Ricardo Provencio ,64000 ,3,0
 Piso ,Cuéllar ,75000 ,4,141
 Duplex ,Centro ,310000 ,3,164
-Piso ,Plaza Mayor - S.Agustín ,196000 ,1,43
+Piso ,Plaza Mayor - SAgustín ,196000 ,1,43
 Piso ,La Losa ,88000 ,4,121
 Duplex ,Cabañas de Polendos ,44100 ,2,73
 Chalet ,Calle Molino 15 ,44900 ,0,47
 Ático ,Calle San Bartolomé 7 ,99000 ,2,77
 Piso ,Riaza ,121500 ,3,84
 Chalet ,Palazuelos de Eresma ,325000 ,6,245
-Piso ,Plaza Mayor - S.Agustín ,339000 ,3,150
+Piso ,Plaza Mayor - SAgustín ,339000 ,3,150
 Chalet ,Bernuy de Porreros ,249900 ,3,92
 Chalet ,Remondo ,133000 ,4,206
 Piso ,Sector Plaza de Toros ,395000 ,4,139
 Piso ,Ituero y Lama ,115000 ,3,115
-Piso ,Ezequiel González - Cde. Sepulveda ,590000 ,7,260
+Piso ,Ezequiel González - Cde Sepulveda ,590000 ,7,260
 Chalet ,Vía Roma ,124775 ,1,40
 Chalet ,Camino del Torrejon ,205000 ,4,407
 Piso ,Calle Polideportivo ,80000 ,4,120
@@ -1316,7 +1312,7 @@ Chalet ,Ecuador 1536 ,230000 ,3,43
 Piso ,Plaza de la Constitución ,98000 ,3,101
 Chalet ,Calle del Rio 3 ,140000 ,4,128
 Casa Rural ,Calle Zagalacasa 7 ,360000 ,6,396
-Chalet ,Calle Navales 5 ,150000 ,7,2.800
+Chalet ,Calle Navales 5 ,150000 ,7,2800
 Chalet ,Calle Cantarranas 3 ,95000 ,3,117
 Chalet ,Calle Laderas 2 ,175000 ,4,25
 Chalet ,Calle Bruselas 318 ,225000 ,5,14
@@ -1340,7 +1336,7 @@ Chalet ,Avenida de Santa Catalina 231 ,250000 ,4,139
 Chalet ,Calle Fuente del Pesebre 14 ,825000 ,6,460
 Chalet ,silla del rey ,499000 ,3,1500
 Casa Rural ,Calle Cantarranas 10 ,220000 ,4,158
-Chalet ,Camino de Villalar 3 ,189500 ,4,2.500
+Chalet ,Camino de Villalar 3 ,189500 ,4,2500
 Chalet ,Avenida de Los Angeles 985 ,395000 ,7,251
 Chalet ,Calle El Labrador 4 ,89000 ,2,95
 Chalet ,Calle San Pedro 9 ,130000 ,3,115
@@ -1418,7 +1414,7 @@ Chalet ,Avenida de Santa Catalina 231 ,250000 ,4,144
 Casa Rural ,Calle Eras 6 ,45000 ,5,272
 Casa Rural ,SG-V-2414 20 ,76000 ,3,325
 Chalet ,silla del rey ,499000 ,3,1500
-Chalet ,Camino de Villalar 3 ,189500 ,4,2.500
+Chalet ,Camino de Villalar 3 ,189500 ,4,2500
 Chalet ,Avenida de 7 Fuentes 2 ,199000 ,4,2800
 Chalet ,Carretera Boceguillas 19 ,195000 ,4,133
 Chalet ,Calle el Balagar 1 ,410000 ,4,20
@@ -1473,10 +1469,10 @@ Piso ,Sepúlveda ,99950 ,4,138
 Chalet ,Calle Alondra 11 ,380000 ,4,134
 Chalet ,Calle de la Iglesia ,63500 ,3,109
 Ático ,Calle Calandria ,120000 ,1,52
-Casa Rural ,Calle Real 20 ,550000 ,4,19.000
+Casa Rural ,Calle Real 20 ,550000 ,4,19000
 Piso ,José Zorrilla - Padre Claret ,289995 ,4,35
 Chalet ,Calle Peñalver 7 A ,163000 ,3,110
-Casa Rural ,El Cerro - Crtra. San Rafael ,600000 ,5,171
+Casa Rural ,El Cerro - Crtra San Rafael ,600000 ,5,171
 Chalet ,Avenida la de Zamorana 35 ,450000 ,4,1700
 Duplex ,Calle Morería 7 ,143480 ,3,99
 Piso ,Torrecaballeros ,96000 ,2,30
@@ -1487,8 +1483,7 @@ Chalet ,La Lastrilla ,199000 ,4,124
 Chalet ,Calle real s/n ,285000 ,4,30
 Chalet ,Calle Alondra 11 ,380000 ,4,144
 Chalet ,Calle de la Iglesia ,40300 ,3,89
-Chalet ,S.Lorenzo - S.Marcos ,665000 ,5,179
-Piso ,"52 m² (Según escritura) - Dispone de 2 dormitorios (Amplios/Exteriores) Salón-Comedor (Amplio) Cocina (Amueblada) 2 Baños (Bañera/Ducha). Trastero (Amplio-11m2) El Año de Construcción es 2001. - ACABADOS: los Suelos son en Parquet y Gres. La Carpintería Interior es en Pino. La Carpintería Exterior es de PVC con Climalit y persianas. La Calefacción y el ACS es a través de Caldera Individual de Gas Natural y c/Radiadores."" ",921268039 ,7,11
+Chalet ,SLorenzo - SMarcos ,665000 ,5,179
 Chalet ,Calle la Corredera 6 ,225000 ,3,35
 Chalet ,Calle de Santiago Gonzalez Muñoz ,45000 ,5,386
 Piso ,Sepúlveda ,99950 ,4,126
@@ -1497,7 +1492,7 @@ Piso ,Calle Enebro 9 ,170000 ,4,132
 Casa Rural ,Calle Bercial 14 ,129990 ,5,280
 Chalet ,Calle de Juan Carlos I 19 ,229000 ,4,147
 Piso ,Carretera de Villacastín 12 ,220000 ,4,135
-Casa Rural ,Calle Real 20 ,550000 ,4,19.000
+Casa Rural ,Calle Real 20 ,550000 ,4,19000
 Piso ,Calle Morería 7 ,79500 ,1,45
 Duplex ,Calle el Parque 5 ,69000 ,2,73
 Chalet ,Calle Chile 37 ,265000 ,3,98
@@ -1507,7 +1502,7 @@ Chalet ,Calle Calzada 13 ,250000 ,4,50
 Piso ,Calle Edificio Pico del Lobo 1 ,125000 ,3,15
 Chalet ,Calle Peñalver 7 A ,163000 ,3,110
 Chalet ,Calle Fuente del Cura ,114000 ,4,127
-Casa Rural ,El Cerro - Crtra. San Rafael ,600000 ,5,163
+Casa Rural ,El Cerro - Crtra San Rafael ,600000 ,5,163
 Chalet ,La Lastrilla ,425000 ,1,30
 Piso ,Avenida de la Hontanilla ,158000 ,3,109
 Piso ,Calle Subida a Santiago 1 ,160000 ,4,149
@@ -1535,22 +1530,22 @@ Chalet ,Torrecaballeros ,289000 ,5,187
 Chalet ,Calle de la Iglesia ,32300 ,0,0
 Piso ,Camino del Caserío ,68000 ,2,70
 Chalet ,Marugan ,149000 ,3,95
-Piso ,Ezequiel González - Cde. Sepulveda ,375000 ,5,177
-Duplex ,Plaza Mayor - S.Agustín ,370000 ,3,91
+Piso ,Ezequiel González - Cde Sepulveda ,375000 ,5,177
+Duplex ,Plaza Mayor - SAgustín ,370000 ,3,91
 Chalet ,Cozuelos de Fuentidueña ,525000 ,6,226
 Piso ,Torrecaballeros ,96000 ,2,65
 Chalet ,Calle Botijo 6 ,255000 ,3,116
 Chalet ,Santa Maria la Real de Nieva ,197000 ,5,165
 Piso ,Calle Libertad ,40000 ,4,152
-Piso ,Plaza Mayor - S.Agustín ,330000 ,4,140
+Piso ,Plaza Mayor - SAgustín ,330000 ,4,140
 Piso ,Calle Arrieros ,35000 ,1,64
 Chalet ,Marugan ,199000 ,4,139
 Casa Rural ,Valverde del Majano ,295000 ,6,100
-Casa Rural ,Ortigosa del Monte ,68000 ,0,1.363
+Casa Rural ,Ortigosa del Monte ,68000 ,0,1363
 Chalet ,Arcones ,240000 ,4,115
 Piso ,Palazuelos de Eresma ,119000 ,2,88
 Casa Rural ,Santa Maria la Real de Nieva ,290000 ,5,254
-Chalet ,Fresno de Cantespino ,190000 ,4,2.500
+Chalet ,Fresno de Cantespino ,190000 ,4,2500
 Casa Rural ,Navas de Riofrio ,590000 ,7,300
 Casa Rural ,Gallegos ,197000 ,6,178
 Casa Rural ,La Lastrilla ,1000000 ,1,58
@@ -1571,7 +1566,7 @@ Chalet ,La Lastrilla ,229900 ,4,154
 Piso ,Torrecaballeros ,89000 ,3,85
 Casa Rural ,Santo Tomé del Puerto ,340000 ,4,121
 Casa Rural ,La Lastrilla ,1000000 ,1,48
-Piso ,El Cerro - Crtra. San Rafael ,150000 ,3,84
+Piso ,El Cerro - Crtra San Rafael ,150000 ,3,84
 Estudio ,SAN LORENZO - TIO PINTADO s/n ,188000 ,0,38
 Casa Rural ,Condado de Castilnovo ,290000 ,3,245
 Chalet ,Calle Añe ,49000 ,4,160
@@ -1581,15 +1576,15 @@ Piso ,Avenida Coimbra ,38000 ,1,29
 Casa Rural ,Ortigosa del Monte ,440000 ,5,50
 Chalet ,Camino Tilo ,139000 ,4,49
 Piso ,Calle Larga ,96400 ,3,91
-Piso ,El Cerro - Crtra. San Rafael ,190000 ,5,159
+Piso ,El Cerro - Crtra San Rafael ,190000 ,5,159
 Piso ,Espirdo ,50000 ,1,57
 Piso ,Calle de José Zorrilla ,250300 ,4,76
 Chalet ,Avenida Jose Antonio ,26000 ,3,106
 Casa Rural ,Villacastin ,1500000 ,8,345
 Chalet ,Calle los Peñotes ,95000 ,3,108
 Piso ,Calle Hospital ,58300 ,2,77
-Piso ,Calle San Francisco ,26000 ,3,149.83
-Piso ,S.Lorenzo - S.Marcos ,159000 ,4,151
+Piso ,Calle San Francisco ,26000 ,3,14983
+Piso ,SLorenzo - SMarcos ,159000 ,4,151
 Piso ,Calle la Cabaña ,117000 ,3,94
 Casa Rural ,Cuéllar ,155000 ,5,100
 Duplex ,Centro ,290000 ,4,125
@@ -1597,7 +1592,7 @@ Chalet ,Calle de Garcillan ,64000 ,3,00
 Casa Rural ,Navalilla ,90000 ,5,210
 Piso ,Calle Val Bajo ,99300 ,1,78
 Chalet ,Calle Fuente del Cura ,78000 ,4,152
-Piso ,Hospital ,46000 ,1,87.0
+Piso ,Hospital ,46000 ,1,870
 Piso ,Calle Arrieros ,32000 ,1,62
 Chalet ,Calle Añe ,49000 ,4,137
 Casa Rural ,Cuéllar ,155000 ,5,100
@@ -1613,7 +1608,7 @@ Casa Rural ,Villacastin ,1500000 ,8,333
 Chalet ,Calle las Balsas ,95000 ,3,114
 Chalet ,Plaza Santiago ,90000 ,1,58
 Chalet ,La Lastrilla ,287000 ,5,219
-Piso ,serrano ,130000 ,2,24.77
+Piso ,serrano ,130000 ,2,2477
 Piso ,Plaza Esteban Arteaga ,52300 ,3,93
 Piso ,Calle Real ,81750 ,3,119
 Chalet ,Plaza de los coches 1 ,180000 ,3,114
@@ -1622,7 +1617,7 @@ Duplex ,Calle Real ,112000 ,2,60
 Chalet ,Calle PIMPOLLAR 11 ,350000 ,6,215
 Ático ,Centro ,249000 ,2,114
 Piso ,Sietepicos ,89000 ,3,85
-Piso ,Carretera de la coruña. ,105000 ,4,130
+Piso ,Carretera de la coruña ,105000 ,4,130
 Chalet ,San Pedro ,269000 ,4,300
 Piso ,cOTOS ,77000 ,3,108
 Piso ,Calle La granja Segovia ,120000 ,2,63
@@ -1645,7 +1640,7 @@ Chalet ,Vía Roma ,800000 ,5,1400
 Casa Rural ,la ocedilla 1 ,2000000 ,5,430
 Piso ,La Lastrilla ,183000 ,3,98
 Chalet ,Calle Generalísimo 1 ,31000 ,6,80
-Chalet ,S.Lorenzo - S.Marcos ,306900 ,5,180
+Chalet ,SLorenzo - SMarcos ,306900 ,5,180
 Chalet ,Torrecilla del Pinar ,68000 ,12,620
 Duplex ,Centro ,225000 ,3,110
 Chalet ,Los Ángeles de San Rafael ,285000 ,4,115
@@ -1659,7 +1654,7 @@ Chalet ,Torrecaballeros ,96900 ,3,110
 Chalet ,Calle Real 17 ,32000 ,2,69
 Casa Rural ,FRONTON ,75000 ,5,66
 Chalet ,Camino de Villalar 39 ,199000 ,4,120
-Piso ,El Cerro - Crtra. San Rafael ,185000 ,2,5
+Piso ,El Cerro - Crtra San Rafael ,185000 ,2,5
 Chalet ,Bernardos ,69000 ,3,100
 Piso ,Calle Fray Sebastián 26 ,34737 ,3,102
 Piso ,Revenga ,135000 ,3,20
@@ -1672,23 +1667,23 @@ Chalet ,Marugan ,135000 ,4,145
 Casa Rural ,Calle de Tomás Alonso Gómez 19 ,78000 ,6,246
 Ático ,Riaza ,115000 ,2,80
 Piso ,El Carmen ,99500 ,4,151
-Piso ,Calle Real ,98000 ,2,62.1
+Piso ,Calle Real ,98000 ,2,621
 Piso ,Centro ,195000 ,3,99
 Chalet ,Labajos ,158500 ,2,71
 Chalet ,Cabezuela ,75000 ,5,185
 Casa Rural ,Urueñas ,89000 ,5,170
 Piso ,Plaza San Antonio s/n ,56000 ,4,125
 Chalet ,Marugan ,219000 ,4,125
-Piso ,Calle Real ,125000 ,3,78.25
+Piso ,Calle Real ,125000 ,3,7825
 Piso ,Plaza San Antonio s/n ,56000 ,4,125
 Piso ,Camino nuevo 22 ,99950 ,4,134
-Piso ,Calle Real ,98000 ,2,62.1
+Piso ,Calle Real ,98000 ,2,621
 Piso ,San Cristobal de Segovia ,130000 ,3,110
-Piso ,Calle Real ,98000 ,2,62.1
+Piso ,Calle Real ,98000 ,2,621
 Piso ,Calle Real ,70000 ,2,3
 Chalet ,Labajos ,174000 ,4,136
-Piso ,Calle Real ,98000 ,2,62.1
-Piso ,Calle Real ,98000 ,2,62.1
+Piso ,Calle Real ,98000 ,2,621
+Piso ,Calle Real ,98000 ,2,621
 Chalet ,Los Ángeles de San Rafael ,260000 ,4,754
 Ático ,Riaza ,115000 ,2,71
 Chalet ,Laguna de Contreras ,47000 ,2,80
@@ -1697,12 +1692,12 @@ Piso ,Centro ,195000 ,3,102
 Chalet ,Labajos ,158500 ,2,71
 Piso ,Calle Polideportivo ,80700 ,4,123
 Chalet ,Cabañas de Polendos ,144500 ,3,105
-Piso ,Calle La Barrera ,155000 ,3,201.8
+Piso ,Calle La Barrera ,155000 ,3,2018
 Casa Rural ,Urueñas ,89000 ,5,195
 Chalet ,Marugan ,219000 ,4,129
 Chalet ,Cabezuela ,75000 ,5,187
-Chalet ,Santa Maria la Real de Nieva ,140000 ,2,1.000
-Piso ,Calle Real ,70000 ,2,53.3
+Chalet ,Santa Maria la Real de Nieva ,140000 ,2,1000
+Piso ,Calle Real ,70000 ,2,533
 Chalet ,Marugan ,115000 ,3,85
 Chalet ,Calle Ireneo Gómez ,102200 ,4,194
 Chalet ,Camino San Pedro ,40000 ,3,92
@@ -1729,7 +1724,7 @@ Chalet ,Calle diego ledesma ,69000 ,2,70
 Casa Rural ,Calle Doctor Felipe Pérez Ruano ,280300 ,3,618
 Casa Rural ,SG-V-3223 ,40000 ,1,58
 Piso ,Mozoncillo ,65000 ,3,70
-Duplex ,S.Lorenzo - S.Marcos ,165000 ,3,97
+Duplex ,SLorenzo - SMarcos ,165000 ,3,97
 Piso ,Calle Tenerías 3 ,99900 ,5,185
 Chalet ,Calle Real 31 ,55000 ,0,28
 Piso ,Calle L ,60000 ,2,63
@@ -1744,25 +1739,25 @@ Piso ,Calle Edificio Nogal 1 ,49990 ,1,51
 Casa Rural ,Calle Portugal 25 ,28000 ,3,106
 Chalet ,Avenida de las acacias ,205000 ,4,138
 Piso ,Calle de los Oficios 3 ,140000 ,3,116
-Piso ,El Cerro - Crtra. San Rafael ,247500 ,3,119
+Piso ,El Cerro - Crtra San Rafael ,247500 ,3,119
 Piso ,Calle de Vizconde 38 ,85000 ,3,107
 Chalet ,Mozoncillo ,63000 ,3,112
 Chalet ,Calle HUERTAS 2 ,75000 ,4,120
-Duplex ,Plaza Mayor - S.Agustín ,315000 ,3,136
-Piso ,El Cerro - Crtra. San Rafael ,187000 ,3,84
+Duplex ,Plaza Mayor - SAgustín ,315000 ,3,136
+Piso ,El Cerro - Crtra San Rafael ,187000 ,3,84
 Ático ,Vegas de Matute ,70000 ,1,44
 Ático ,Valverde del Majano ,95000 ,3,81
 Piso ,Bernuy de Porreros ,56000 ,1,50
 Piso ,Paseo Ezequiel González ,275000 ,3,90
 Casa Rural ,SG-723 5 ,150000 ,4,142
 Piso ,Riaza ,73000 ,1,57
-Piso ,Plaza Mayor - S.Agustín ,190000 ,2,80
-Piso ,Urb. La Pinilla 2 ,60000 ,1,48
+Piso ,Plaza Mayor - SAgustín ,190000 ,2,80
+Piso ,Urb La Pinilla 2 ,60000 ,1,48
 Piso ,Calle Sauce ,132000 ,2,61
 Casa Rural ,Calle Conde 9 ,18000 ,4,121
 Casa Rural ,Calle la Fuente 1 ,48000 ,2,72
 Chalet ,Mozoncillo ,63000 ,3,120
-Piso ,Plaza Mayor - S.Agustín ,190000 ,2,80
+Piso ,Plaza Mayor - SAgustín ,190000 ,2,80
 Duplex ,Avenida Coto San Isidro 39 -1 ,55000 ,2,74
 Ático ,Valverde del Majano ,95000 ,3,81
 Duplex ,Calle Roa 7 C ,65000 ,1,58
@@ -1789,7 +1784,7 @@ Piso ,Bernuy de Porreros ,60000 ,2,60
 Chalet ,San Rafael ,245000 ,4,152
 Piso ,Calle Villa de Cuellar 35 ,70000 ,3,98
 Piso ,Vía Roma ,125000 ,3,74
-Piso ,Plaza Mayor - S.Agustín ,350000 ,3,220
+Piso ,Plaza Mayor - SAgustín ,350000 ,3,220
 Piso ,Valverde del Majano ,69000 ,2,72
 Piso ,José Zorrilla - Padre Claret ,140000 ,3,85
 Piso ,El Espinar ,129000 ,3,98

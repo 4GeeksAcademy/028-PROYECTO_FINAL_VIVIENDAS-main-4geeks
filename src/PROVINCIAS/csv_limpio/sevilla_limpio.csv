@@ -117,9 +117,9 @@ Piso,Avenida Eduardo Dato 22,1000000,4,246
 Chalet,Camino de la Pañoleta s/n,350000,5,176
 Piso,barrio San Julián,240000,3,102
 Piso,Vista Azul - Consolación,69900,3,6
-Piso,Calle Nuestra Señora del Carmen esq. Calle Santa Ana 10,203000,3,94
-Piso,Calle Nuestra Señora del Carmen esq. Calle Santa Ana 10,249000,4,140
-Piso,Calle Nuestra Señora del Carmen esq. Calle Santa Ana 10,249000,4,144
+Piso,Calle Nuestra Señora del Carmen esq Calle Santa Ana 10,203000,3,94
+Piso,Calle Nuestra Señora del Carmen esq Calle Santa Ana 10,249000,4,140
+Piso,Calle Nuestra Señora del Carmen esq Calle Santa Ana 10,249000,4,144
 Piso,Calle Urbión,250000,3,93
 Piso,Vista Azul - Consolación,69900,3,6
 Chalet,Condequinto,237500,4,137
@@ -136,15 +136,15 @@ Chalet,Camino DE LAS PROVINCIAS,310000,4,145
 Chalet,Costurera 28,254100,5,178
 Piso,Avenida De Las Ciencias 3,205000,3,102
 Piso,Avenida Felipe González Márquez s/n,191800,2,63
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,250000,4,103.43
-Piso,barrio Avenida de las Ciencias,241000,4,121.38
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,250000,4,10343
+Piso,barrio Avenida de las Ciencias,241000,4,12138
 Chalet,Calle Carlos Benítez Saurel s/n,408900,4,145
 Chalet,Calle Carlos Benítez Saurel s/n,372000,4,153
 Chalet,Centro - Doña Mercedes,195000,3,85
 Piso,Avenida Felipe González Márquez s/n,268400,4,126
 Piso,Avenida Felipe González Márquez s/n,206900,3,111
-Piso,barrio Avenida de las Ciencias,155000,3,77.20
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,276700,3,25
+Piso,barrio Avenida de las Ciencias,155000,3,7720
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,276700,3,25
 Ático,Zona Avenida de Europa,362000,3,119
 Piso,MILETOS,139800,3,109
 Chalet,Calle Carlos Benítez Saurel s/n,395400,4,132
@@ -162,13 +162,13 @@ Piso,Calle Ruiseñor,380000,2,70
 Chalet,Avenida de España,225000,3,98
 Piso,Calle de León XIII s/n,245000,3,90
 Piso,barrio Pino Montano,141000,3,76
-Piso,barrio Parque Alcosa,190000,3,86.16
+Piso,barrio Parque Alcosa,190000,3,8616
 Piso,Avenida de Palmas Altas,228500,2,75
-Piso,barrio Santa Aurelia,160700,4,92.57
+Piso,barrio Santa Aurelia,160700,4,9257
 Piso,barrio Asunción - Adolfo Suárez,530000,4,148
-Piso,Barrio Alto,215000,3,101.08
+Piso,Barrio Alto,215000,3,10108
 Duplex,barrio Buhaira - Huerta del Rey,370000,3,106
-Piso,barrio Luis Montoto - Santa Justa,329500,3,86.94
+Piso,barrio Luis Montoto - Santa Justa,329500,3,8694
 Chalet,Espartinas Pueblo,199500,3,99
 Piso,barrio Cruz Roja - Capuchinos,185000,4,67
 Piso,Avenida de Palmas Altas,227000,2,68
@@ -233,12 +233,12 @@ Piso,Avenida Veintiocho de Febrero,157000,4,120
 Piso,barrio Puerta Carmona-Puerta Osario-Amador de los Ríos,229000,3,78
 Piso,Calle Juan Sebastián Elcano,549000,3,99
 Piso,Calle QUEVEDO,105000,2,80
-Duplex,barrio Encarnación-Las Setas,275000,1,69.96
+Duplex,barrio Encarnación-Las Setas,275000,1,6996
 Piso,Centro,140000,3,82
-Chalet,Calle Sierra Bermeja,195000,3,123.85
+Chalet,Calle Sierra Bermeja,195000,3,12385
 Chalet,Duque de Amores,325000,4,184
 Piso,sabiduria,223510,3,90
-Chalet,Torrequinto,495000,5,2.150
+Chalet,Torrequinto,495000,5,2150
 Chalet,Avenida de España 75,245000,4,124
 Piso,Calle Tajo 107,148000,3,114
 Piso,Avenida de España 40,142500,3,94
@@ -255,13 +255,13 @@ Piso,barrio Plaza de la Gavidia-San Lorenzo,475000,2,71
 Chalet,Simon Verde,650000,5,191
 Chalet,Torrequinto,374000,4,80
 Chalet,Centro - Doña Mercedes,260000,6,196
-Piso,barrio López de Gomara,311000,2,98.95
+Piso,barrio López de Gomara,311000,2,9895
 Chalet,La Motilla - Fuente del Rey,146000,3,1500
 Piso,barrio Arenal - Museo - Tetuán,2350000,5,185
 Piso,barrio Arroyo - Santa Justa,242000,4,117
-Chalet,Zona Avda. Juan Diego,198500,4,137
+Chalet,Zona Avda Juan Diego,198500,4,137
 Piso,Centro - Doña Mercedes,110000,3,117
-Piso,Barrio Alto,216000,3,90.51
+Piso,Barrio Alto,216000,3,9051
 Piso,Zona Avenida de Europa,173000,3,97
 Piso,Calle Rodo,380000,2,96
 Chalet,Olivar de Quintos,300000,4,131
@@ -274,7 +274,7 @@ Chalet,Simon Verde,1295000,9,693
 Piso,barrio Doctor Fedriani,95900,3,99
 Piso,barrio Avenida de las Ciencias,260000,4,129
 Piso,barrio Avenida de las Ciencias,222000,4,95
-Chalet,Carretera de Sevilla a Utrera,450000,5,5.000
+Chalet,Carretera de Sevilla a Utrera,450000,5,5000
 Piso,barrio Los Bermejales,210000,3,57
 Piso,barrio Calle Betis - Pagés del Corro,275000,2,73
 Casa Rural,Las Almenas,206600,4,160
@@ -289,7 +289,7 @@ Chalet,Torrequinto,425000,4,123
 Piso,barrio Emilio Lemos,145000,3,98
 Duplex,Calle San Bernardo,498000,2,90
 Piso,Centro - Doña Mercedes,128000,3,97
-Piso,barrio Ctra. de Carmona-Miraflores,185000,3,82
+Piso,barrio Ctra de Carmona-Miraflores,185000,3,82
 Piso,Nuevo Bulevar,223510,3,86
 Piso,barrio San Julián,190000,3,89
 Piso,barrio Feria,260000,3,88
@@ -300,9 +300,9 @@ Piso,juan pablo II,100000,2,64
 Piso,vistazul,125000,3,113
 Piso,barrio Santa Cruz - Alfalfa,400000,2,72
 Piso,barrio Arroyo - Santa Justa,180000,3,89
-Chalet,barrio Alcalde L. Uruñuela - Palacio de Congresos,379000,2,20
+Chalet,barrio Alcalde L Uruñuela - Palacio de Congresos,379000,2,20
 Chalet,Zona Colegio Europa,415000,4,314
-Chalet,barrio Alcalde L. Uruñuela - Palacio de Congresos,390000,4,15
+Chalet,barrio Alcalde L Uruñuela - Palacio de Congresos,390000,4,15
 Piso,Calle Castellar  9,289000,2,66
 Piso,Calle Castellar  9,379000,2,67
 Piso,Avenida de la Cruz del Campo,170000,3,115
@@ -310,13 +310,13 @@ Piso,barrio San Pablo,151000,3,118
 Piso,barrio Avenida de las Ciencias,155500,3,90
 Piso,barrio Emilio Lemos,149900,3,80
 Piso,barrio Parlamento - Torneo,152000,3,109
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,132500,1,65
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,132500,1,65
 Piso,barrio Villegas - Los Principes,140000,4,144
 Piso,barrio Villegas - Los Principes,71500,2,64
 Piso,Grupo los Príncipes P VII,99000,2,78
 Piso,El Arenal - La Pólvora,65000,3,75
 Piso,reina mercedes,475800,3,225
-Piso,Av. de Andalucia,127000,3,111
+Piso,Av de Andalucia,127000,3,111
 Piso,Calle Alfarería 138,206000,1,46
 Piso,Plaza GRAN PLAZA,399000,4,127
 Chalet,MADRE MARÍA TERESA,295000,7,135
@@ -350,7 +350,7 @@ Chalet,Avenida SAN LUIS GONZAGA,430000,5,186
 Ático,Pelay Correa,320000,1,40
 Piso,Avenida de Manuel Clavero Arévalo esquina con la calle Ajenjo s/n,180000,2,60
 Piso,Calle Virgen de Valvanera,353000,3,155
-Chalet,Urbanización las Monjas,230000,5,3.996
+Chalet,Urbanización las Monjas,230000,5,3996
 Piso,Calle Romera,150000,3,82
 Piso,Manuel Villalobos,250000,4,103
 Piso,Avenida San Juan de la Salle 5,270100,4,136
@@ -388,13 +388,13 @@ Piso,Calle León XIII 89,285000,3,96
 Piso,Calle León XIII 89,180000,1,49
 Piso,Calle Francos,640000,3,157
 Chalet,Urbanizacion la Dehesilla,499500,4,1000
-Piso,C. Rubén Darío,360000,4,117
+Piso,C Rubén Darío,360000,4,117
 Piso,Calle Santa Lucía,295000,3,107
 Piso,Calle León XIII 89,242000,2,71
 Chalet,Calle Antonio Ballesteros,838400,4,155
 Piso,Calle Cuna,950000,5,183
 Chalet,lentisco,295000,4,347
-Chalet,Retama,780000,4,1.026
+Chalet,Retama,780000,4,1026
 Chalet,Calle Triana,374000,5,340
 Piso,Calle Albaida,285000,3,102
 Chalet,Calle La Fragua,189900,3,117
@@ -402,15 +402,15 @@ Chalet,Avenida Gernika,246900,4,149
 Piso,Calle Albaida,285000,3,102
 Piso,Calle Poetisa Mariquita Fuentes  s/n,194500,3,107
 Piso,Avenida Almanzor s/n,178000,2,60
-Piso,Bulevar nuevo Bulevar esquina con Ctra. Almensilla s/n,257000,4,134
+Piso,Bulevar nuevo Bulevar esquina con Ctra Almensilla s/n,257000,4,134
 Piso,Avenida Almanzor s/n,149800,2,76
 Ático,Calle Poetisa Mariquita Fuentes  s/n,259000,3,102
 Chalet,El Arenal - La Pólvora,240000,4,159
-Piso,Bulevar nuevo Bulevar esquina con Ctra. Almensilla s/n,179000,2,69
+Piso,Bulevar nuevo Bulevar esquina con Ctra Almensilla s/n,179000,2,69
 Piso,Calle Poetisa Mariquita Fuentes  s/n,185500,2,65
 Piso,Avenida Almanzor s/n,288000,4,160
 Piso,Carretera de Carmona 4,245990,2,76
-Piso,Bulevar nuevo Bulevar esquina con Ctra. Almensilla s/n,201600,2,77
+Piso,Bulevar nuevo Bulevar esquina con Ctra Almensilla s/n,201600,2,77
 Piso,Brenes,99900,3,81
 Chalet,Calle San Juan De Aznalfarache,185000,3,91
 Piso,Calle Reina Mercedes 5,650000,5,176
@@ -419,7 +419,7 @@ Piso,Calle San Pablo,890000,3,100
 Piso,Avenida de la República Argentina,795000,5,193
 Piso,Calle Bécquer,400000,3,20
 Chalet,Calle Guadalbarbo,464900,9,424
-Chalet,Moraima,1235000,7,1.000
+Chalet,Moraima,1235000,7,1000
 Piso,Calle Abril s/n,140000,3,102
 Chalet,Calle 14 DE ABRIL 15,239500,3,97
 Chalet,Calle Pascual de Gayangos,420000,4,125
@@ -449,7 +449,7 @@ Piso,Calle Camelia 2,95000,2,67
 Duplex,Calle Florencio Quintero,243000,2,80
 Chalet,Arco norte - Avda España,225000,4,228
 Piso,Calle Santa María de Ordás,160000,3,120
-Chalet,Avenida tarazona 25,189900,3,3.178
+Chalet,Avenida tarazona 25,189900,3,3178
 Chalet,Calle Ópera Carmen,995000,6,1000
 Chalet,Calle Santa Angela de La Cruz,70000,6,133
 Chalet,Calle Robalo,205000,8,344
@@ -461,13 +461,13 @@ Piso,Calle Fuenteovejuna,490000,3,100
 Piso,Centro - Doña Mercedes,118000,2,60
 Chalet,Calle San Bernardo,790000,6,213
 Chalet,Calle Isaac Peral,590000,3,85
-Piso,Aznalcazar,128000,2,94.97
+Piso,Aznalcazar,128000,2,9497
 Chalet,Vía,499000,5,306
 Chalet,Castilleja de la Cuesta,631000,5,364
-Chalet,Marchena,412000,3,485.73
+Chalet,Marchena,412000,3,48573
 Chalet,Espartinas Pueblo,469500,5,183
 Piso,barrio Pino Montano,127260,3,79
-Chalet,Gelves,390000,5,189.35
+Chalet,Gelves,390000,5,18935
 Chalet,Loreto,325000,4,240
 Chalet,Santa Eufemia,775000,5,272
 Duplex,Vista Azul - Consolación,116900,1,52
@@ -550,7 +550,7 @@ Piso,Calle Virgen de la Antigua,311000,3,114
 Piso,Carretera de Carmona,260000,3,101
 Piso,Calle Maestro Arrieta,240000,3,87
 Piso,Calle Clara de Jesús Montero,265000,3,87
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,225000,3,30
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,225000,3,30
 Piso,Calle Zaragoza,550000,3,112
 Piso,Calle Madre Ràfols,320000,3,99
 Piso,Santa Eufemia,269000,3,136
@@ -643,7 +643,7 @@ Piso,Calle Sánchez Reciente,190000,2,68
 Piso,Calle Cortijo de la Albarrana,318000,3,112
 Piso,Carretera de Carmona,165000,3,77
 Casa Rural,DURILLO,700000,19,673
-Casa Rural,Vía,980000,7,5.286
+Casa Rural,Vía,980000,7,5286
 Piso,Calle la Campana,129000,3,90
 Piso,Calle Rayo de Luna,160000,3,81
 Piso,Calle de León XIII,250000,3,119
@@ -697,7 +697,7 @@ Chalet,SIERRA DE LAS NIEVES,166000,4,135
 Chalet,Calle Greco,90000,4,131
 Chalet,Entrenúcleos,290000,3,30
 Chalet,Hacienda casa Alegre,224400,3,12
-Piso,barrio Emilio Lemos,142000,3,69.95
+Piso,barrio Emilio Lemos,142000,3,6995
 Piso,Avenida Asia 83,320000,4,157
 Piso,MARIA DE MAEZTU,98000,3,92
 Piso,barrio Feria,260000,2,63
@@ -735,7 +735,7 @@ Piso,barrio Calle Betis - Pagés del Corro,137000,1,42
 Piso,Calle Pobladores s/n,177300,3,86
 Casa Rural,Carretera A8005 sentido Los Rosales,385000,4,100
 Piso,barrio López de Gomara,172900,3,68
-Piso,barrio Torreblanca,80000,3,88.86
+Piso,barrio Torreblanca,80000,3,8886
 Chalet,Camas,175000,3,261
 Chalet,barrio Torreblanca,131000,4,129
 Chalet,Carmona,265000,4,4766
@@ -748,7 +748,7 @@ Piso,barrio Palmete-Padre Pío-Hacienda San Antonio,133000,3,114
 Chalet,Calle Fernando Hierro,140000,3,119
 Chalet,Lepanto,170000,3,99
 Chalet,carmen frias saez,210000,5,169
-Piso,Camas,124000,1,51.59
+Piso,Camas,124000,1,5159
 Piso,barrio Palmete-Padre Pío-Hacienda San Antonio,120000,3,87
 Piso,Centro,130000,2,84
 Chalet,Bollullos de la Mitacion,55000,2,150
@@ -757,7 +757,7 @@ Piso,Aljamar,269900,3,131
 Chalet,Avenida Joselito el Gallo,95000,3,93
 Piso,barrio Parlamento - Torneo,350000,3,114
 Piso,Avenida de Palmas Altas s/n,163500,1,42
-Chalet,El Viso del Alcor,240000,3,2.154
+Chalet,El Viso del Alcor,240000,3,2154
 Piso,Avenida de Palmas Altas s/n,226500,2,75
 Chalet,Las Almenas,399900,5,500
 Piso,barrio Alameda,260000,2,63
@@ -778,7 +778,7 @@ Chalet,Calle Poligono UE-2 Entrenucleos s/n,478000,4,500
 Chalet,Calle Poligono UE-2 Entrenucleos s/n,463000,4,500
 Chalet,Calle Azafrán 131,369000,4,147
 Piso,Ramon de Carranza-Madre Rafols s/n,370000,3,131
-Chalet,Avenida de La Unión s/n,238000,4,1.000
+Chalet,Avenida de La Unión s/n,238000,4,1000
 Piso,Barriada Misionero Fernando Lora,75000,2,60
 Chalet,Calle Azafrán 131,379000,4,154
 Chalet,Calle Poligono UE-2 Entrenucleos s/n,453000,4,500
@@ -786,10 +786,10 @@ Chalet,Avenida Antonio Gavira Alba  2,239000,4,153
 Chalet,Calle Cipriano Valera 16,310000,4,142
 Chalet,URBANIZACIÓN LAS CANTERAS s/n,550000,6,226
 Piso,Calle Guzmán el Bueno,800000,5,190
-Chalet,Avenida de La Unión s/n,238000,4,1.000
+Chalet,Avenida de La Unión s/n,238000,4,1000
 Chalet,Avenida Antonio Gavira Alba  2,240800,4,127
 Chalet,Calle Redes 20,1500000,6,333
-Chalet,Avenida de La Unión s/n,238000,4,1.000
+Chalet,Avenida de La Unión s/n,238000,4,1000
 Piso,Plaza de Cuba,350000,2,66
 Piso,Paseo DE LA REDONDILLA,115000,3,81
 Chalet,Calle Cerro de las 40 Chicas 128,568000,7,820
@@ -812,7 +812,7 @@ Chalet,Jardines de los poetas,225000,3,117
 Piso,Calle Chucena,115000,2,89
 Piso,Avenida Ciudad de Chiva,113990,3,98
 Piso,Calle Loto,95000,2,67
-Piso,C. Manuel Villalobos s/n,250000,4,103
+Piso,C Manuel Villalobos s/n,250000,4,103
 Duplex,Calle asturias,143000,2,30
 Piso,Salvador Dali s/n,288500,4,109
 Piso,Calle Gonzalo Bilbao,550000,4,160
@@ -862,7 +862,7 @@ Chalet,Calle Padre Marchena 4,280000,6,250
 Piso,barrio San Pablo,77000,2,70
 Chalet,Avenida de Palmas Altas,468000,4,140
 Chalet,Calle Presidente Adolfo Suárez González,183000,4,109
-Chalet,Fuentequintillos,1500000,8,3.225
+Chalet,Fuentequintillos,1500000,8,3225
 Casa Rural,Urbanización santa teresa s/n,89990,3,90
 Chalet,Umbrete,65000,2,71
 Chalet,Calle Rayo,610000,4,900
@@ -889,18 +889,18 @@ Piso,Calle Inocentes,234500,4,154
 Chalet,Calle Plácido Orden,225000,3,166
 Chalet,Ronda de los Tejares,325000,4,145
 Duplex,Calle Infanta Cristina,94900,2,74
-Chalet,Urbanización las Monjas,230000,5,3.996
+Chalet,Urbanización las Monjas,230000,5,3996
 Chalet,Calle Camas,249770,3,18
 Piso,Calle Espíritu Santo,270000,3,84
 Piso,Calle Torres del Río,85000,2,80
 Chalet,Calle María Zambrano,144000,3,113
 Piso,Calle Jose Bermejo,66900,3,88
 Piso,Avenida de Bellavista,120000,3,65
-Chalet,moraima,1150000,4,1.250
+Chalet,moraima,1150000,4,1250
 Chalet,Calle Rafael Alberti,109900,2,80
 Chalet,Calle del Aire,256500,5,153
 Piso,rafael de leon,129000,3,106
-Chalet,Calle Virgo 84,247000,5,3.377
+Chalet,Calle Virgo 84,247000,5,3377
 Piso,Avenida Alcalde Juan Fernandez 21,247990,4,156
 Piso,Calle Bañales,115000,3,77
 Piso,Calle Valldemosa,150000,4,179
@@ -940,7 +940,7 @@ Piso,Barriada de San Diego,161000,3,80
 Piso,Calle Boteros,565000,4,141
 Piso,Calle Rubén Darío,311500,3,87
 Chalet,Calle Zurbarán,139900,1,46
-Piso,barrio Emilio Lemos,125000,2,78.63
+Piso,barrio Emilio Lemos,125000,2,7863
 Piso,Calle Sánchez Reciente,190000,2,68
 Piso,barrio San Julián,157000,2,75
 Chalet,Calle sanlucar la mayor,142000,2,70
@@ -969,7 +969,7 @@ Piso,Calle Espinosa y Cárcel 13,425000,4,125
 Piso,Avenida del Sur s/n,214000,2,65
 Piso,Avenida del Sur s/n,238000,3,83
 Piso,Avenida de las Universidades s/n,172700,3,109
-Piso,Calle Columbretes s/n,179000,3,33.000
+Piso,Calle Columbretes s/n,179000,3,33000
 Piso,Manuel Villalobos,250000,4,103
 Piso,Avenida Manuel Clavero Arévalo s/n,137800,1,59
 Piso,Calle Espinosa y Cárcel 13,375000,3,117
@@ -1025,7 +1025,7 @@ Chalet,Isaac Albéniz,210000,5,200
 Piso,Calle Venecia,215000,3,88
 Piso,Avenida De Jerez 10,148000,2,76
 Piso,Avenida del deporte s/n,184000,3,103
-Chalet,Pilas,140000,4,134.91
+Chalet,Pilas,140000,4,13491
 Chalet,Avenida Mimosas,675000,4,600
 Chalet,HOMBRE DE PIEDRA,1400000,12,415
 Piso,Avenida ANDA JALEO s/n,157000,2,185
@@ -1065,9 +1065,8 @@ Chalet,Padre Marchena,1300000,10,415
 Piso,Rodriguez Marin,235000,1,43
 Chalet,Azofairon,105000,3,112
 Piso,Calle Santiago,320000,2,71
-Casa Rural,Camino de Villanueva a Sanlucar,299000,4,16.000
+Casa Rural,Camino de Villanueva a Sanlucar,299000,4,16000
 Piso,Calle Vascongadas,189000,2,83
-Piso,44 m².) con un armario que da acceso al mismo dormitorio y al baño 1. El DORMITORIO es muy amplio 19,23 m². y luminoso con ventana a fachada (sur). Dispone de dos grandes armarios. - El BAÑO 1 (5,1,40
 Chalet,Puerta DE HIERRO,300000,5,728
 Piso,Grupo Nuestra Señora del Amparo,198700,4,89
 Piso,Avenida de Andalucía,290000,4,22
@@ -1114,7 +1113,7 @@ Piso,Calle Galicia 9,242000,3,102
 Piso,Calle Arrayán 9,300000,3,97
 Piso,Calle Amor,165000,4,98
 Chalet,ANDRES SEGOVIA,229900,4,229
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,282260,4,111.77
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,282260,4,11177
 Chalet,Castilleja de la Cuesta,549000,4,157
 Chalet,Maria Silva Cruz,238000,4,151
 Piso,Teodosio,230000,2,77
@@ -1138,18 +1137,18 @@ Piso,Calle Matrona Isabel Selma Medina  31,211500,3,104
 Piso,Calle Cardenal Lluch,230000,2,95
 Chalet,Avenida de Palmas Altas 2,410500,3,88
 Piso,Avenida de Palmas Altas 2,172500,1,51
-Piso,barrio Avenida de las Ciencias,240000,4,89.65
-Piso,barrio Avenida de las Ciencias,147260,3,69.66
+Piso,barrio Avenida de las Ciencias,240000,4,8965
+Piso,barrio Avenida de las Ciencias,147260,3,6966
 Chalet,Calle Ana María Matute,172000,3,110
 Piso,barrio Puerta Carmona-Puerta Osario-Amador de los Ríos,395000,4,58
 Ático,Calle Matrona Isabel Selma Medina  31,240000,3,85
 Piso,barrio Emilio Lemos,146600,3,87
 Chalet,Avenida de Palmas Altas s/n,504500,5,174
 Chalet,Dolores Ibarruri,123500,3,97
-Chalet,barrio Avenida de las Ciencias,299000,5,112.50
+Chalet,barrio Avenida de las Ciencias,299000,5,11250
 Chalet,barrio Avenida de las Ciencias,280000,4,90
-Piso,barrio Avenida de las Ciencias,175260,4,87.36
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,217000,3,101.58
+Piso,barrio Avenida de las Ciencias,175260,4,8736
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,217000,3,10158
 Chalet,Calle Carretera Bética nº 43 y calle Andalucía nº 26 no data s/n,258000,4,157
 Piso,Calle Galicia 9,242000,3,112
 Duplex,Calle Trajano,275000,1,41
@@ -1163,34 +1162,34 @@ Piso,Avenida de Palmas Altas 2,246000,2,64
 Piso,Plaza San Martín,495000,4,152
 Piso,Martinez montañes,300000,3,84
 Piso,Paseo de Cristina,700000,4,128
-Chalet,torrequinto,999000,5,1.592
+Chalet,torrequinto,999000,5,1592
 Piso,Calle Virgen de Robledo,250000,2,84
 Chalet,barrio Avenida de las Ciencias,280000,4,90
 Piso,Calle Matrona Isabel Selma Medina  31,150000,2,80
 Chalet,Calle Canonigos,155000,4,180
 Piso,barrio El Juncal,179999,3,87
 Chalet,barrio Feria,760000,4,291
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,217000,3,101.58
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,217000,3,10158
 Piso,Calle Felipe II,515000,4,135
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,238349,4,104.30
-Piso,barrio Avenida de las Ciencias,240000,4,89.65
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,238349,4,10430
+Piso,barrio Avenida de las Ciencias,240000,4,8965
 Duplex,Jesús del Gran Poder,375000,2,64
 Piso,Calle Aurora,198500,2,19
 Chalet,Calle Carretera Bética nº 43 y calle Andalucía nº 26 no data s/n,258000,4,149
-Piso,barrio Avenida de las Ciencias,125000,1,56.23
+Piso,barrio Avenida de las Ciencias,125000,1,5623
 Chalet,poblado de colinas,549900,5,199
 Chalet,Centro 1,156000,2,69
 Chalet,barrio Puerta Carmona-Puerta Osario-Amador de los Ríos,550000,4,129
 Chalet,Avenida de Palmas Altas 2,439500,4,155
 Chalet,Avenida de Palmas Altas s/n,437000,3,105
 Piso,barrio Puerta Carmona-Puerta Osario-Amador de los Ríos,395000,4,58
-Duplex,barrio Santa Cruz - Alfalfa,260000,1,66.01
+Duplex,barrio Santa Cruz - Alfalfa,260000,1,6601
 Piso,barrio Pino Montano,126000,3,88
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,290000,3,50
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,290000,3,50
 Piso,Los Palacios y Villafranca,143000,3,25
 Chalet,Pilas,135000,4,75
 Chalet,Salteras,172000,2,77
-Piso,barrio Santa Aurelia,175000,4,78.53
+Piso,barrio Santa Aurelia,175000,4,7853
 Chalet,Avenida de Palmas Altas 2,514000,5,190
 Piso,Calle Las Cabezas de San Juan,76000,3,67
 Chalet,Gines,280000,3,153
@@ -1234,17 +1233,17 @@ Chalet,Calle Galeota s/n,345000,4,515
 Piso,Calle La Feria,89000,1,42
 Chalet,Calle Blanca Paloma,250000,4,151
 Chalet,Cerros de Montequinto,479000,5,766
-Piso,barrio Alcalde L. Uruñuela - Palacio de Congresos,260000,4,90
+Piso,barrio Alcalde L Uruñuela - Palacio de Congresos,260000,4,90
 Piso,Avenida de Jerez s/n,307000,2,76
 Chalet,Condequinto,340000,4,302
 Chalet,Las Almenas,149900,3,158
 Chalet,Calle Fernán Caballero,780000,10,1213
-Piso,Avenida Montequinto s/n,207900,2,6.000
+Piso,Avenida Montequinto s/n,207900,2,6000
 Piso,Centro - Doña Mercedes,76000,3,84
 Piso,Calle las Cruces,160000,3,125
 Piso,Avenida Plácido Fernández Viagas s/n,183500,2,69
-Duplex,Calle Dr. Villa 1,166000,4,20.000
-Piso,Avenida Montequinto s/n,216900,2,6.000
+Duplex,Calle Dr Villa 1,166000,4,20000
+Piso,Avenida Montequinto s/n,216900,2,6000
 Duplex,Avenida Guadalquivir,237000,3,125
 Piso,Barriada de San Diego 42,152000,4,87
 Piso,Calle Bangladesh 13,189200,3,112
@@ -1259,16 +1258,16 @@ Piso,Calle costaleros s/n,194500,2,76
 Piso,Avenida Pablo Fernández Viagas s/n,194500,3,115
 Chalet,Avenida Presidente Adolfo Suárez  s/n,197500,3,101
 Piso,Avenida Plácido Fernández Viagas s/n,225500,3,85
-Ático,Avenida de Montequinto s/n,271500,2,4.500
+Ático,Avenida de Montequinto s/n,271500,2,4500
 Chalet,Calle de la arquitectura s/n,280000,4,345
 Chalet,barrio Arroyo - Santa Justa,186000,4,60
 Chalet,Guipúzcoa,210000,4,134
 Chalet,Calle Manzana UG-25 (entrenucleos) s/n,432500,4,292
 Piso,Calle Flor de Tomillo,160900,3,98
-Piso,Avenida de Montequinto s/n,220800,3,4.500
+Piso,Avenida de Montequinto s/n,220800,3,4500
 Piso,Barriada Nuestra Señora de la Oliva,80000,2,65
 Piso,El Arenal - La Pólvora,85000,3,118
-Duplex,Calle Dr. Villa 1,199000,5,20.000
+Duplex,Calle Dr Villa 1,199000,5,20000
 Chalet,Coria del Río,190000,4,135
 Chalet,Calle Cueto 26,190000,3,200
 Chalet,Calle Corneta,119000,6,160
@@ -1276,18 +1275,18 @@ Piso,La Hacienda - Nueva Andalucía,150000,4,136
 Chalet,OLIVARES s/n,135000,3,98
 Chalet,Castilblanco de los Arroyos,189999,4,800
 Piso,Calle costaleros s/n,197500,3,99
-Chalet,La Hacienda - Nueva Andalucía,190000,1,2.500
+Chalet,La Hacienda - Nueva Andalucía,190000,1,2500
 Piso,Vista Azul - Consolación,134000,4,139
 Piso,Calle SOL,120000,3,114
 Chalet,Calle Azafrán 131,453000,4,137
 Piso,Avenida Plácido Fernández Viagas s/n,183500,2,76
 Piso,Calle Virgen de Luján 15,470000,3,130
 Chalet,Bollullos de la Mitacion,70000,4,151
-Chalet,La Hacienda - Nueva Andalucía,190000,1,2.500
-Duplex,Calle Dr. Villa 1,170000,4,20.000
-Piso,Avenida de Montequinto s/n,196300,2,4.500
+Chalet,La Hacienda - Nueva Andalucía,190000,1,2500
+Duplex,Calle Dr Villa 1,170000,4,20000
+Piso,Avenida de Montequinto s/n,196300,2,4500
 Piso,Avenida Pablo Fernández Viagas s/n,167000,2,72
-Piso,Avenida Montequinto s/n,381400,4,6.000
+Piso,Avenida Montequinto s/n,381400,4,6000
 Chalet,Calle Corneta,119000,6,160
 Piso,Avenida Plácido Fernández Viagas s/n,225500,3,104
 Piso,Calle Flor de Tomillo,160900,3,111
@@ -1328,15 +1327,15 @@ Piso,Avenida de Diego Martínez Barrio,120000,3,81
 Piso,Calle Rafael Laffon,199500,3,85
 Piso,Don Cecilio de Triana,450000,3,116
 Piso,Calle Real de Utrera,103265,1,56
-Piso,Calle Berlin s/n,196300,3,80.000
+Piso,Calle Berlin s/n,196300,3,80000
 Piso,Calle Nuestra Señora del Rosario,106000,4,150
-Piso,Calle Berlin s/n,178400,3,80.000
+Piso,Calle Berlin s/n,178400,3,80000
 Piso,Avenida de Miraflores,179000,2,79
 Chalet,Calle Álvarez Quintero,259980,3,313
 Piso,barrio Pino Montano,145000,3,98
 Duplex,Juan de Oñate,288000,2,60
 Chalet,Coria del Río,100000,3,104
-Piso,Calle Berlin s/n,186000,3,80.000
+Piso,Calle Berlin s/n,186000,3,80000
 Piso,Calle Carne,42000,2,64
 Duplex,barrio Santa Cruz - Alfalfa,370000,2,76
 Chalet,Calle Rico Cejudo,379990,4,180
@@ -1376,13 +1375,13 @@ Piso,Calle Rodríguez Marín,235000,2,73
 Piso,La Puebla del Rio,59900,3,98
 Chalet,Centro - Doña Mercedes,265000,4,142
 Piso,Calle Alemania & Calle Italia s/n,169000,2,100
-Chalet,Mairena del Alcor,270000,4,903.50
+Chalet,Mairena del Alcor,270000,4,90350
 Piso,ajimez,185000,4,105
 Piso,JUAN CARLOS I,98700,3,89
 Chalet,Lepanto,175000,3,101
 Chalet,Constantina,258000,6,826
 Piso,Avenida de Andalucía,277500,2,77
-Duplex,Calle Trabajo 47,350000,3,90.82
+Duplex,Calle Trabajo 47,350000,3,9082
 Piso,barrio Plaza de Cuba - República Argentina,349990,4,142
 Chalet,Calle Santa Cruz,325000,4,298
 Chalet,Las Navas de la Concepcion,72000,3,132
@@ -1404,23 +1403,23 @@ Piso,Calle del Agua,795000,4,123
 Piso,Castilleja de la Cuesta,136000,4,156
 Duplex,Vázquez Díaz,179000,4,131
 Chalet,Coria del Río,69000,3,83
-Chalet,Cavaleri,335890,4,256.78
-Piso,barrio Torreblanca,103630,3,74.62
+Chalet,Cavaleri,335890,4,25678
+Piso,barrio Torreblanca,103630,3,7462
 Piso,Vía ,238000,4,155
 Chalet,Carmona,109900,6,312
 Duplex,Sanlúcar la Mayor,142000,3,116
 Chalet,Calle Santa Cruz,325000,4,298
 Chalet,Arco norte - Avda España,310000,3,85
 Chalet,barrio Vistalegre,299000,3,261
-Chalet,El Viso del Alcor,135000,4,134.40
+Chalet,El Viso del Alcor,135000,4,13440
 Piso,JUAN CARLOS I,98700,3,92
 Chalet,Santiponce,169000,6,150
 Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,121500,4,136
 Piso,barrio Cerro del Águila,115000,3,87
-Piso,Brenes,97000,3,99.45
+Piso,Brenes,97000,3,9945
 Chalet,Olivares,318800,5,225
 Piso,SALVADOR MADRIGAL RASERO,150000,3,108
-Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,250000,3,92.94
+Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,250000,3,9294
 Chalet,Arco norte - Avda España,229000,4,153
 Piso,Calle Mont Blanc,245000,3,111
 Chalet,barrio San Vicente,1500000,6,4
@@ -1434,11 +1433,11 @@ Chalet,Coria del Río,312000,4,240
 Piso,Calle Tomás Pérez 39,216600,2,65
 Piso,barrio Luis Montoto - Santa Justa,339900,3,113
 Chalet,Castilblanco de los Arroyos,180000,5,433
-Piso,Gelves,156000,2,52.40
+Piso,Gelves,156000,2,5240
 Chalet,Alcalá del Río,120000,4,247
 Chalet,Castilleja de la Cuesta,380000,3,218
 Piso,Avenida de Andalucía,420000,4,159
-Chalet,Carretera de Sevilla a Utrera,254900,3,2.546
+Chalet,Carretera de Sevilla a Utrera,254900,3,2546
 Piso,Las Pajanosas,160000,2,71
 Chalet,Carretero,115000,5,157
 Piso,Arco norte - Avda España,138000,3,100
@@ -1448,13 +1447,13 @@ Piso,Calle Tomás Pérez 39,172400,1,56
 Duplex,Sanlúcar la Mayor,142000,3,116
 Duplex,Vázquez Díaz,179000,4,142
 Chalet,barrio Torreblanca,105000,3,211
-Piso,barrio Palmete-Padre Pío-Hacienda San Antonio,155000,3,78.35
+Piso,barrio Palmete-Padre Pío-Hacienda San Antonio,155000,3,7835
 Piso,barrio Plaza de Cuba - República Argentina,349990,4,152
 Piso,Avenida de Andalucía,420000,4,120
 Piso,barrio Villegas - Los Principes,110500,3,78
 Duplex,Vista Azul - Consolación,116900,1,56
 Chalet,barrio Vistalegre,299000,3,261
-Chalet,Carretera de Sevilla a Utrera,254900,3,2.546
+Chalet,Carretera de Sevilla a Utrera,254900,3,2546
 Estudio,barrio Feria,140000,0,24
 Piso,barrio Cerro del Águila,115000,3,114
 Piso,Nuevo Bulevar,235000,3,108
@@ -1465,16 +1464,16 @@ Piso,barrio Cerro del Águila,125000,3,96
 Piso,Calle Mont Blanc,245000,3,82
 Chalet,Las Navas de la Concepcion,72000,3,132
 Chalet,Avenida Tierno Galván s/n,299000,4,230
-Chalet,La Rinconada,170000,3,120.59
+Chalet,La Rinconada,170000,3,12059
 Chalet,barrio Tiro de Línea,670850,5,171
 Piso,SALVADOR MADRIGAL RASERO,150000,3,90
 Piso,Calle Zaragoza,960000,2,70
-Piso,Ciudad Aljarafe,120000,4,84.30
+Piso,Ciudad Aljarafe,120000,4,8430
 Chalet,Gines,360000,6,288
-Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,250000,3,92.94
+Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,250000,3,9294
 Chalet,Olivares,318800,5,225
 Piso,Avenida de Andalucía,277500,2,71
-Chalet,Mairena del Alcor,270000,4,903.50
+Chalet,Mairena del Alcor,270000,4,90350
 Piso,Vía ,212400,3,97
 Chalet,Ramal de Espartinas,299000,4,219
 Chalet,barrio Torreblanca,157260,9,575
@@ -1483,24 +1482,24 @@ Chalet,barrio Torreblanca,123630,2,112
 Chalet,Lepanto,175000,3,101
 Chalet,barrio Torreblanca,157260,9,575
 Piso,Arco norte - Avda España,144900,3,109
-Piso,barrio La Plata,128000,4,80.35
+Piso,barrio La Plata,128000,4,8035
 Chalet,La Algaba,187500,3,89
-Chalet,Carretera de Sevilla a Utrera,254900,3,2.546
+Chalet,Carretera de Sevilla a Utrera,254900,3,2546
 Chalet,Arco norte - Avda España,229000,4,142
 Piso,barrio Los Bermejales,324200,2,104
 Piso,Barrio Bajo,75000,3,58
 Piso,Calle Tomás Pérez 39,172400,1,53
 Piso,San Jose de la Rinconada,99850,3,93
 Chalet,Castilleja de la Cuesta,380000,3,218
-Chalet,La Hacienda - Nueva Andalucía,89000,1,1.700
+Chalet,La Hacienda - Nueva Andalucía,89000,1,1700
 Chalet,barrio Torreblanca,98630,4,139
 Piso,barrio Nervión,445000,2,118
 Piso,Calle Tomás Pérez 39,270000,3,120
 Chalet,Loreto,300000,4,915
 Piso,SALVADOR MADRIGAL RASERO,150000,3,113
 Chalet,Carmona,209000,3,98
-Piso,barrio San Pablo,162000,3,83.60
-Chalet,Cavaleri,335890,4,256.78
+Piso,barrio San Pablo,162000,3,8360
+Chalet,Cavaleri,335890,4,25678
 Duplex,Vázquez Díaz,179000,4,130
 Chalet,Pilas,155000,8,243
 Chalet,Avenida Tierno Galván s/n,279000,3,230
@@ -1545,11 +1544,11 @@ Chalet,barrio Palmete-Padre Pío-Hacienda San Antonio,133095,4,141
 Ático,Avenida Cruz del Campo 24,591000,3,120
 Chalet,Calle Rosa de los vientos s/n,312000,4,129
 Chalet,Vista Azul - Consolación,180000,3,119
-Chalet,Carmona,129000,4,1.043
+Chalet,Carmona,129000,4,1043
 Ático,Calle Fragata 2,290000,3,87
 Piso,Calle Marqués del Nervión,425000,5,215
 Piso,Camas,85000,3,75
-Chalet,Villanueva del Rio y Minas,78000,3,109.62
+Chalet,Villanueva del Rio y Minas,78000,3,10962
 Chalet,Brenes,125900,3,130
 Duplex,Centro - Doña Mercedes,139900,3,84
 Chalet,Calle Rosa de los vientos s/n,285000,4,141
@@ -1586,7 +1585,7 @@ Chalet,Mairena del Alcor,225000,4,122
 Chalet,Umbrete,180000,3,199
 Chalet,Santa Eufemia,289900,4,255
 Piso,Centro,130000,2,84
-Chalet,Villanueva del Rio y Minas,78000,3,109.62
+Chalet,Villanueva del Rio y Minas,78000,3,10962
 Duplex,barrio Santa Cruz - Alfalfa,370000,2,69
 Piso,Camas,129900,2,60
 Chalet,Camas,105000,5,206
@@ -1594,7 +1593,7 @@ Chalet,Olivares,247200,4,168
 Piso,Calle Asunción,560000,5,198
 Piso,barrio Villegas - Los Principes,140000,3,102
 Piso,Avenida de la Filosofía,245000,4,9
-Chalet,Calle CORDIALIDAD 3,359990,4,1.300
+Chalet,Calle CORDIALIDAD 3,359990,4,1300
 Piso,Calle Profesor Manuel Olivencia Ruiz,135000,2,75
 Ático,Calle Bollullos de la Mitación,85000,2,65
 Chalet,Urbanización Las Canteras,695000,10,459
@@ -1634,7 +1633,7 @@ Piso,Calle Tintes,195000,1,52
 Chalet,Avenida Andalucia,130000,4,140
 Chalet,Martinete,150000,4,144
 Piso,barrio Parlamento - Torneo,350000,3,114
-Chalet,Calle CORDIALIDAD 3,359990,4,1.300
+Chalet,Calle CORDIALIDAD 3,359990,4,1300
 Piso,Calle San Alberto 14,162000,3,97
 Piso,Calle Jaime Balmes,150000,2,70
 Chalet,Ramon y Cajal,449000,5,1100
@@ -1692,7 +1691,7 @@ Piso,Calle Monte Carmelo,530000,4,168
 Piso,Avenida Rafael Escudero Rodriguez s/n,147335,3,117
 Chalet,Umbrete,65000,2,71
 Chalet,Condequinto,670000,6,202
-Chalet,Carretera de Sevilla a Utrera,254900,3,2.546
+Chalet,Carretera de Sevilla a Utrera,254900,3,2546
 Piso,barrio Los Pajaritos,39990,2,61
 Duplex,Sanlúcar la Mayor,142000,3,116
 Piso,barrio Calle Betis - Pagés del Corro,450000,3,95
@@ -1708,7 +1707,7 @@ Chalet,Avenida de Almensilla  24,165300,3,50
 Piso,Brenes,99900,3,118
 Chalet,el pulido 5,280000,3,264
 Chalet,Centro,150000,2,102
-Chalet,Calle Montoro,179990,4,22.84
+Chalet,Calle Montoro,179990,4,2284
 Piso,Calle ISAAC PERAL 33,125000,2,66
 Chalet,Avenida Juan Diego,199000,4,108
 Chalet,Avenida de Almensilla  24,166000,3,50
@@ -1773,7 +1772,6 @@ Piso,barrio Ronda de Triana-Patrocinio-Turruñuelo,230000,3,81
 Chalet,Cerros de Montequinto,470000,4,500
 Chalet,Simon Verde,320000,4,140
 Chalet,Rio Tinto,249900,5,673
-Piso,68 m². - BAÑO PRINCIPAL (1). Se encuentra a la derecha del distribuidor al inicio. Completo con placa de ducha lavabo inodoro y bidé. Exterior con ventana a fachada trasera. 5,00 m². - Con entrada desde el salón se encuentra la tercera habitación grande HABITACIÓN 3 con 10,1,40
 Piso,barrio Avenida de las Ciencias,260000,4,113
 Chalet,Salteras,176000,3,180
 Chalet,Villanueva del Ariscal,220000,4,131

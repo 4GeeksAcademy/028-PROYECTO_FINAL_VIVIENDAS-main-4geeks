@@ -101,19 +101,19 @@ Piso,Calle Capitan Liebana 14,99000,3,120
 Chalet,Calle Camilo José Cela,140000,2,74
 Piso,Avenida de Andalucía,99000,4,134
 Piso,Calle Muñoz Garnica,79000,1,54
-Chalet,JV-3222,550000,7,30.404
+Chalet,JV-3222,550000,7,30404
 Chalet,Carretera de Otíñar,64000,4,147
 Piso,Calle Sagasta,78000,4,133
 Piso,Calle Cruz,65000,3,115
 Piso,Avenida de Andalucía,100000,3,102
-Piso,Av. Libertad 20,79000,3,94
+Piso,Av Libertad 20,79000,3,94
 Piso,Calle Jorge Mercado 10,65000,1,56
 Piso,Calle Ancha,150000,4,169
 Chalet,Renfe - Bulevar 1º y 2º Fase,375000,6,235
 Chalet,Calle General Castaños,102000,3,117
 Piso,Calle República Argentina,76000,2,70
 Casa Rural,Puerta de la Hombria,50000,5,188
-Casa Rural,Avenida Felix Rodriguez de la Fuente,1496000,7,4.800
+Casa Rural,Avenida Felix Rodriguez de la Fuente,1496000,7,4800
 Piso,Calle Corredera San Bartolomé,49900,3,95
 Piso,Calle Alta,52000,2,70
 Chalet,Calle de Valencia,199000,8,497
@@ -176,7 +176,7 @@ Chalet,Alcalá la Real,280000,6,234
 Casa Rural,Alcalá la Real,40000,3,105
 Piso,Alcalá la Real,120000,3,104
 Piso,Alcalá la Real,120000,3,83
-Casa Rural,Embalse de aguascebas s/n,450000,4,5.222
+Casa Rural,Embalse de aguascebas s/n,450000,4,5222
 Chalet,Carretera valdepeñas,166000,3,86
 Chalet,Calle Conde Antillón 43,74100,7,264
 Piso,Belén - San Roque,85000,3,102
@@ -184,15 +184,15 @@ Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,90000,2,64
 Chalet,Carretera nacional Bailén-Motril,189000,3,118
 Chalet,Avenida Guadalquivir,17366,6,221
 Piso,San Felipe - El Almendral - La Merced,59900,4,157
-Casa Rural,Quesada,230000,4,20.000
-Chalet,Quesada,230000,4,20.000
+Casa Rural,Quesada,230000,4,20000
+Chalet,Quesada,230000,4,20000
 Piso,Calle Maestro Cebrián,155000,4,148
 Piso,Calle Real 43,25900,3,94
 Piso,Guadalquivir,115000,2,73
 Piso,Calle Fuente del Alamillo,89000,1,41
 Piso,Torredonjimeno,150000,4,140
 Piso,San Bartolomé - Millán de Priego,87000,3,117
-Piso,Ctra. Circunvalación - La Magdalena,39000,3,107
+Piso,Ctra Circunvalación - La Magdalena,39000,3,107
 Piso,Betania,60000,3,87
 Chalet,Calle Cojos 21,16300,4,125
 Chalet,Calle Nueva 8,15000,3,109
@@ -222,7 +222,7 @@ Piso,Paseo de la Estación s/n,96000,4,152
 Piso,Calle Santa María del Valle,44900,3,76
 Piso,San Ildefonso - Catedral,69000,3,100
 Duplex,Belén - San Roque,135000,2,87
-Chalet,Alcantarilla - La Glorieta,210000,3,1.200
+Chalet,Alcantarilla - La Glorieta,210000,3,1200
 Chalet,Renfe - Bulevar 1º y 2º Fase,370000,6,30
 Piso,San Ildefonso - Catedral,120000,3,111
 Chalet,Calle Miguel Hernández,90000,3,120
@@ -257,7 +257,7 @@ Piso,Centro Ciudad,89000,3,97
 Piso,San Ildefonso - Catedral,149900,4,110
 Chalet,Los Villares,225000,4,127
 Piso,Peñamefecit - Avda Barcelona,95000,3,94
-Piso,Ctra. Circunvalación - La Magdalena,133000,3,73
+Piso,Ctra Circunvalación - La Magdalena,133000,3,73
 Chalet,Calle los Calerines,94842,3,32
 Piso,La Guardia de Jaén,115000,3,105
 Piso,Peñamefecit - Avda Barcelona,85000,3,90
@@ -318,8 +318,8 @@ Piso,San Ildefonso - Catedral,150000,3,177
 Piso,Alcantarilla - La Glorieta,120000,3,120
 Piso,cristóbal colón,72500,3,114
 Piso,Plaza Santo Domingo 4,87000,3,98
-Chalet,Diseminado Huerta de los Pobres s/n,230000,4,3.000
-Chalet,Diseminado Huerta de los Pobres s/n,230000,4,3.000
+Chalet,Diseminado Huerta de los Pobres s/n,230000,4,3000
+Chalet,Diseminado Huerta de los Pobres s/n,230000,4,3000
 Piso,Peñamefecit - Avda Barcelona,107000,2,70
 Piso,San Felipe - El Almendral - La Merced,95000,3,70
 Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,120000,3,101
@@ -344,7 +344,7 @@ Chalet,Urbanización Arroyovil,99900,3,60
 Chalet,Calle Calzada,62000,3,92
 Chalet,LA MERCED,37500,5,173
 Piso,Calle el Aladrero,82000,3,87
-Casa Rural,Ctra. Circunvalación - La Magdalena,19000,1,1187
+Casa Rural,Ctra Circunvalación - La Magdalena,19000,1,1187
 Chalet,Calle Ronda 2,159000,4,25
 Chalet,Calle Primero de Mayo,29000,4,135
 Chalet,Carretera de Cazorla,12000,4,147
@@ -354,7 +354,7 @@ Chalet,Calle Manuel Manzano García,33000,3,109
 Piso,Calle Conde de Torreanaz,47000,3,112
 Piso,Calle San Francisco,55500,3,100
 Chalet,Calle solana,66000,3,115
-Chalet,Carretera Bailén-Motril s/n km 42,245000,4,7.500
+Chalet,Carretera Bailén-Motril s/n km 42,245000,4,7500
 Chalet,Avenida de Pozo Ancho,122000,5,167
 Piso,San Ildefonso - Catedral,55000,2,70
 Piso,Calle Fuente la Reja,115000,4,150
@@ -367,7 +367,7 @@ Piso,Avenida del Parque,64900,3,112
 Piso,Calle Ingeniero Jose Maria Almendral Lucas,144900,3,99
 Piso,Calle Almendros Aguilar,100000,3,81
 Chalet,Comunidad El Infante,240000,5,182
-Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,176000,3,1.800
+Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,176000,3,1800
 Piso,Calle del Cardenal Marcelo Spínola,78000,1,48
 Piso,Calle Cid Campeador 14,95000,3,91
 Piso,Calle Almendros Aguilar,91000,3,103
@@ -389,7 +389,7 @@ Piso,Calle Pilar de la Imprenta,62000,2,76
 Chalet,Calle del Tiro Nacional (2ª Travesía),199900,5,177
 Piso,Calle San Francisco,55500,3,120
 Chalet,Calle el Castillo 3,85000,7,240
-Casa Rural,Puente de la Sierra 168,150000,4,1.100
+Casa Rural,Puente de la Sierra 168,150000,4,1100
 Chalet,Vereda Mengíbar,102900,4,125
 Piso,Ronda Astrónomo Al-Jayyani,43500,3,115
 Chalet,´Huelva,73000,4,142
@@ -406,7 +406,7 @@ Piso,Calle Gaudi,82688,3,116
 Piso,eduardo garcia triviño 6,295000,4,156
 5,919383261,Carretera de la Bola s/n Km 4,5,197
 Piso,Paseo de la Estación 27,170000,4,157
-Chalet,San Sebastian 13,100000,4,171.85
+Chalet,San Sebastian 13,100000,4,17185
 Chalet,Belén - San Roque,2800000,4,1500
 Chalet,Calle Bolero,239000,5,260
 Chalet,Camino de las Cumbres 11,297000,4,131
@@ -414,7 +414,7 @@ Piso,Avenida de Barcelona s/n,190000,3,102
 Piso,BAEZA 56,26900,3,12
 Chalet,Calle José Zamora s/n,43000,5,195
 Piso,Avenida de Granada,239000,4,121
-Piso,Avenida HISTORIADOR RUS DE LA PUERTA esquina CALLE MOREDAL. s/n,50000,3,103
+Piso,Avenida HISTORIADOR RUS DE LA PUERTA esquina CALLE MOREDAL s/n,50000,3,103
 Chalet,Calle Alamillo,285000,5,268
 Chalet,Arroyovil,109000,3,118
 Casa Rural,Calle Úbeda,199999,6,450
@@ -423,7 +423,7 @@ Chalet,Puente de la Sierra 122,268000,10,1277
 Piso,Calle Ruiz Romero 13,69800,3,100
 Chalet,Calle Bastetania 2,150000,3,16
 Piso,Plaza Mayor 11,80000,3,120
-Chalet,953970124,PARAJE LA MELLA SITIO ALMODOVAR 190,420000,28.000
+Chalet,953970124,PARAJE LA MELLA SITIO ALMODOVAR 190,420000,28000
 Piso,Calle Cid Campeador,135000,3,94
 Piso,Calle María Bellido 119,42000,3,84
 Piso,Calle Juan Salcedo Guillén 1,56000,3,88
@@ -491,11 +491,11 @@ Piso,Green peace 5,45000,3,119
 Piso,Calle Alberca,280000,4,160
 Chalet,Urbanizacion Campolivos,450000,5,1270
 Chalet,Camino de la carraca s/n,250000,7,274
-Chalet,Megatín s/n,180000,4,10.000
+Chalet,Megatín s/n,180000,4,10000
 Piso,Calle Arquitecto Antonio Florez Urdapilleta,170000,3,113
 Chalet,Calle Doctor Carlos Carbonell,315000,6,222
 Piso,Calle Mariano Segura,89000,2,96
-Chalet,Calle Muñoz Seca,65000,4,225.00
+Chalet,Calle Muñoz Seca,65000,4,22500
 Piso,Avenida ramón y cajal,125000,4,144
 Chalet,Calle Trinidad,170000,6,372
 Chalet,Calle Frontones s/n,47000,3,90
@@ -511,7 +511,7 @@ Piso,San Bartolomé - Millán de Priego,155000,4,125
 Piso,Torredelcampo,78000,4,110
 Chalet,Jaen,149950,4,500
 Piso,Calle Pontón,119000,3,102
-Piso,Avenida de Andalucía,470000,4,4.152
+Piso,Avenida de Andalucía,470000,4,4152
 Piso,San Bartolomé - Millán de Priego,175000,4,150
 Casa Rural,Calle Moya 41,24000,3,106
 Piso,San Bartolomé - Millán de Priego,64000,3,85
@@ -641,7 +641,7 @@ Piso,Andújar,78000,3,115
 Chalet,La Puerta de Segura,24000,3,111
 Chalet,Calle de Federico García Lorca 8,86000,11,408
 Chalet,Calle el Centenillo,130000,7,180
-Piso,Ctra. Circunvalación - La Magdalena,125000,2,65
+Piso,Ctra Circunvalación - La Magdalena,125000,2,65
 Piso,Andújar,78000,3,80
 Piso,Calle Quevedo,63000,3,119
 Piso,Carretera Córdoba-Almería 76,88000,2,62
@@ -668,10 +668,10 @@ Piso,Paseo de la Alameda 22,87000,3,90
 Piso,Calle Cazorla,79059,4,155
 Chalet,PAREAJES LOS VADILLOS 20,190000,3,1200
 Chalet,Calle Jódar s/n,180000,4,210
-Chalet,Calle Nogal,429900,7,13.000
+Chalet,Calle Nogal,429900,7,13000
 Piso,Calle Valverde,150000,3,89
 Piso,Calle Almendros Aguilar,72000,2,10
-Casa Rural,Calle Egido,270000,6,14.000
+Casa Rural,Calle Egido,270000,6,14000
 Chalet,Calle Mártires,99750,3,89
 Piso,Avenida Santo Reino,56430,3,90
 Piso,Calle Bastetania,82365,2,75
@@ -689,7 +689,7 @@ Chalet,Calle de Juan Ramón Jiménez,149900,3,88
 Chalet,Calle Santiago 11,104000,3,101
 Piso,Calle Vega,125000,3,97
 Piso,Calle Martínez Molina,155000,3,113
-Chalet,Pago de la Fraila,260000,3,1.600
+Chalet,Pago de la Fraila,260000,3,1600
 Piso,Calle Corredera de San Marcos,140000,3,119
 Chalet,Calle de María Zambrano,114900,3,98
 Chalet,Calle Tiro Nacional,180000,3,40
@@ -738,14 +738,14 @@ Chalet,Carretera al Neveral,310000,4,150
 Chalet,Vereda Mengíbar,120000,3,98
 Piso,Calle Pedro Antonio de Alarcón,29500,3,90
 Piso,Calle Antonio Herrera Murillo,97500,2,78
-Chalet,Calle Francisco del Moral,350000,3,1.000
+Chalet,Calle Francisco del Moral,350000,3,1000
 Piso,Calle Melchor Cobo Medina,155000,5,160
-Chalet,Calle Río Carrizal,180000,3,1.000
+Chalet,Calle Río Carrizal,180000,3,1000
 Piso,Calle Corredera de San Marcos,140000,3,119
 Chalet,Calle Juan Ramón Jiménez 11,144500,3,100
 Piso,Calle Real,185000,3,157
 Piso,Calle Antonia López Arista,63000,3,95
-Chalet,Puente de la Sierra,180000,8,1.100
+Chalet,Puente de la Sierra,180000,8,1100
 Piso,Calle Manuel Caballero Venzalá,269900,4,16
 Chalet,Calle Tiro Nacional,180000,3,40
 Chalet,Calle Almendros Aguilar,200000,7,275
@@ -755,7 +755,7 @@ Chalet,Calle Labradores 16,115000,5,196
 Piso,Paseo de la Estación,240000,5,198
 Chalet,Calle Almendros Aguilar,160000,4,125
 Piso,Calle Mesa 12,210000,4,16
-Chalet,Pago de la Fraila,260000,3,1.600
+Chalet,Pago de la Fraila,260000,3,1600
 Piso,Calle la Luna,145000,4,141
 Chalet,Calle los Tejares,375000,7,271
 Chalet,Calle los Castellones 2,69900,5,216
@@ -780,7 +780,7 @@ Chalet,Calle Sisehace,39000,5,164
 Chalet,Escuelas Ave María 15,135000,5,185
 Chalet,general s/n,48000,2,77
 Piso,Calle Sevilla,140000,2,68
-Chalet,Pago de la Fraila,260000,3,1.600
+Chalet,Pago de la Fraila,260000,3,1600
 Chalet,Polígono quiebracantaros,260000,6,211
 Chalet,Calle Lope de Sosa,400000,6,225
 Chalet,Calle Magdalena,90000,5,194
@@ -815,7 +815,7 @@ Duplex,Avenida Libertad 47,132000,3,88
 Chalet,Camino Subida al Tiro Nacional,73500,3,93
 Piso,Paseo de la Estación,250000,4,152
 Chalet,Calle Elvin,60000,3,114
-Chalet,Calle Olivo,450000,11,13.000
+Chalet,Calle Olivo,450000,11,13000
 Chalet,Urbanización La Carreta,1500000,12,600
 Piso,Calle Calderón 5,85000,3,90
 Piso,Plaza Virgen de la Villa,96000,2,73
@@ -823,7 +823,7 @@ Chalet,Calle Sevilla,310000,5,171
 Piso,Calle Navas de Tolosa,270000,3,91
 Piso,Plaza Curtidores,95000,4,154
 Piso,Calle Pintor Juan Gris,59000,2,69
-Chalet,Pago de la Fraila,260000,3,1.600
+Chalet,Pago de la Fraila,260000,3,1600
 Chalet,Bulevar s/n,350000,4,132
 Chalet,Calle Hospitalico,36000,6,209
 Piso,Calle Maestro Cebrián,155000,4,131
@@ -837,7 +837,7 @@ Piso,Calle de la Madre Soledad Torres Acosta 10,190000,3,108
 Chalet,Calle Lope de Sosa,400000,6,226
 Piso,Calle Fernando IV,122000,3,96
 Piso,Avenida la Paz,82000,3,99
-Chalet,Ctra. Circunvalación - La Magdalena,124900,10,584
+Chalet,Ctra Circunvalación - La Magdalena,124900,10,584
 Chalet,la cerradura,150000,4,135
 Chalet,Pago de la Fraila,130000,2,787
 Piso,Avenida de Madrid,152000,4,125
@@ -894,7 +894,7 @@ Chalet,Avenida de Albacete s/n,40000,2,67
 Chalet,Calle Cristo del Gallo s/n,285000,4,460
 Piso,Peñamefecit - Avda Barcelona,199900,3,112
 Chalet,Calle Cobos 52,16000,3,106
-Piso,Ctra. Circunvalación - La Magdalena,115000,2,65
+Piso,Ctra Circunvalación - La Magdalena,115000,2,65
 Duplex,San Bartolomé - Millán de Priego,450000,5,198
 Piso,Belén - San Roque,239000,4,139
 Piso,San Bartolomé - Millán de Priego,185000,3,119
@@ -910,15 +910,15 @@ Chalet,La Guardia de Jaén,1500000,7,260
 Chalet,Valdeastillas - Fuentezuelas,420000,13,474
 Chalet,Calle Luis Medina,36000,4,246
 Piso,Belén - San Roque,83000,2,71
-Piso,Ctra. Circunvalación - La Magdalena,95000,3,98
+Piso,Ctra Circunvalación - La Magdalena,95000,3,98
 Chalet,Cuesta Cobatillas s/n,175000,5,310
 Piso,San Bartolomé - Millán de Priego,80000,3,105
 Piso,Andújar,78000,3,91
 Piso,Peñamefecit - Avda Barcelona,140000,3,108
-Chalet,Ubeda,170000,3,1.600
+Chalet,Ubeda,170000,3,1600
 Duplex,San Ildefonso - Catedral,190000,3,93
 Duplex,Calle Carnicerito de Úbeda s/n,185000,4,155
-Piso,Ctra. Circunvalación - La Magdalena,125000,2,74
+Piso,Ctra Circunvalación - La Magdalena,125000,2,74
 Piso,Peñamefecit - Avda Barcelona,140000,4,129
 Chalet,Cuesta Cobatillas s/n,175000,5,310
 Piso,Calle Gaudi,99503,4,128
@@ -926,7 +926,7 @@ Chalet,San Felipe - El Almendral - La Merced,150000,3,93
 Piso,Andújar,499500,4,138
 Piso,Calle Emperador Adriano,39900,3,110
 Piso,Calle Blas Infante,98500,4,137
-Piso,Ctra. Circunvalación - La Magdalena,95000,3,98
+Piso,Ctra Circunvalación - La Magdalena,95000,3,98
 Piso,Peñamefecit - Avda Barcelona,140000,3,108
 Piso,Corredera Capuchinos,89900,3,150
 Ático,Corredera San Fernando s/n,205000,3,148
@@ -944,7 +944,7 @@ Piso,Calle Santo Domingo Savio s/n,149000,4,148
 Piso,Calle Gaudi,69616,3,94
 Piso,Belén - San Roque,83000,2,66
 Piso,Calle de Santo Domingo s/n,125000,3,108
-Piso,Ctra. Circunvalación - La Magdalena,125000,2,65
+Piso,Ctra Circunvalación - La Magdalena,125000,2,65
 Duplex,San Ildefonso - Catedral,190000,3,101
 Piso,Calle Jaen,65000,3,112
 Piso,Calle Navas de Tolosa,87000,3,106
@@ -957,24 +957,24 @@ Chalet,GOYA,105000,4,144
 Chalet,Calle Tetuán,200000,6,222
 Piso,Avda de Madrid - Pº de la Estación,260000,6,184
 Chalet,Calle ARROYO INMOBILIARIA 2,122000,3,800
-Chalet,Vía 1,450000,4,5.222
-Piso,Calle Méndez Núñez,49900,3,94.99
+Chalet,Vía 1,450000,4,5222
+Piso,Calle Méndez Núñez,49900,3,9499
 Chalet,Calle La Zambra,57000,3,180
 Chalet,Calle Pastor Juan de Rivas,229900,5,623
 Piso,San Bartolomé,95000,4,152
 Piso,Calle María Bellido esquina c/ Zarco del Valle s/n,79000,3,107
 Ático,Avenida de Antonio Pascual Acosta s/n,159000,2,63
 Piso,Calle Palos de la Frontera,48000,3,97
-Piso,Calle Méndez Núñez,49900,3,94.99
+Piso,Calle Méndez Núñez,49900,3,9499
 Piso,Calle Arroyo de San Pedro,60000,3,75
 Piso,Calle Obispo Cobos s/n,110000,3,110
 Ático,Calle San Marcos s/n,219000,5,165
 Piso,Calle Federico de Mendizábal,98000,3,120
 Chalet,Andalucía,129000,10,503
 Chalet,Calle I Sector 7 90,179000,3,80
-Piso,Calle Hospital de San Miguel,52000,3,65.00
+Piso,Calle Hospital de San Miguel,52000,3,6500
 Piso,Plaza la Magdalena,43000,2,82
-Chalet,Vía 1,450000,4,5.222
+Chalet,Vía 1,450000,4,5222
 Chalet,Calle San Marcos,65000,5,197
 Piso,Avenida Valencia,61000,3,95
 Piso,Calle La Zambra,65000,3,130
@@ -1310,7 +1310,7 @@ Chalet,bermejales,225000,4,142
 Chalet,Calle Duque de Veragua,60000,4,102
 Chalet,A-6100,170000,8,388
 Piso,San Ildefonso - Catedral,70000,5,160
-Chalet,Vía,100000,4,1.200
+Chalet,Vía,100000,4,1200
 Piso,Calle Ana María Mogas,108000,3,112
 Chalet,Calle Calerin Bajo,59999,3,92
 Piso,Calle Áurea Galindo,55000,2,63
@@ -1359,7 +1359,7 @@ Chalet,Calle Coral Andres Segovia,198000,4,193
 Piso,Calle Río Genil,25000,3,74
 Chalet,Calle Fuente del Oso,210000,5,190
 Piso,Calle Antón de Jaén,96000,3,120
-Chalet,Vía,100000,4,1.200
+Chalet,Vía,100000,4,1200
 Chalet,Calle del Banco,78000,5,210
 Piso,Camino Madroñal,25000,3,118
 Piso,Calle Pintor Zuloaga,92000,4,111
@@ -1392,14 +1392,14 @@ Piso,Centro Ciudad,88000,3,103
 Piso,San Ildefonso - Catedral,135000,3,101
 Chalet,Calle Alamos s/n,8400,4,154
 Chalet,Calle Ramon y Cajal 1,69000,4,128
-Duplex,Ctra. Circunvalación - La Magdalena,167000,3,103
+Duplex,Ctra Circunvalación - La Magdalena,167000,3,103
 Ático,Paseo de la Estación 35,99000,4,143
 Piso,Calle Bailén s/n,88800,3,84
 Piso,Calle Santa Clara 12,103500,3,96
 Chalet,Calle Santa Ana s/n,6300,3,119
 Chalet,Puente de la Sierra 4,195000,4,2581
 Chalet,Calle Pascual Leyva 12,22000,2,78
-Duplex,Ctra. Circunvalación - La Magdalena,167000,3,115
+Duplex,Ctra Circunvalación - La Magdalena,167000,3,115
 Chalet,Calle Antonio de las Viñas 5,298000,4,293
 Chalet,Calle Buenavista,65000,3,150
 Chalet,Calle Alamos s/n,8400,4,134
@@ -1433,7 +1433,7 @@ Chalet,Calle Finlandia s/n,183500,3,99
 Chalet,Camino la Carrera,200000,3,190
 Chalet,Calle Mirador de Calatrava,270000,4,259
 Piso,Calle Juan Nogales,90000,1,47
-Chalet,Carretera Córdoba-Valencia,220000,5,1.200
+Chalet,Carretera Córdoba-Valencia,220000,5,1200
 Piso,Calle San Joaquín s/n,71900,3,94
 Piso,Calle Sebastián Elcano,20000,2,68
 Chalet,Calle Luna s/n,64100,3,95
@@ -1460,7 +1460,7 @@ Piso,Avenida Joaquin Costa s/n,44800,3,110
 Chalet,Calle Pintor Juan Esteban,50000,3,85
 Chalet,Calle Cobatillas Altas,45000,3,86
 Piso,Calle Juan Nogales,90000,1,44
-Chalet,Carretera Córdoba-Valencia,220000,5,1.200
+Chalet,Carretera Córdoba-Valencia,220000,5,1200
 Chalet,Calle Lecheras,57000,3,111
 Piso,Calle Numancia,75000,4,154
 Chalet,Calle Luna s/n,64100,3,88
@@ -1471,7 +1471,7 @@ Chalet,Calle Pérez Galdós s/n,36300,3,80
 Chalet,Avenida Andalucía,80000,6,210
 Piso,Calle San Sebastián,95000,5,147
 Piso,Plaza Hermanos Álvarez Quintero,43000,3,109
-Chalet,Calle Carnicería,14800,3,172.6
+Chalet,Calle Carnicería,14800,3,1726
 Chalet,Calle Jesús s/n,60500,4,136
 Piso,madre soledad torres acosta,190000,4,131
 Chalet,La Paz-Las Américas,146000,3,296
@@ -1496,7 +1496,7 @@ Piso,Calle Santa Engracia,69000,3,107
 Ático,Calle Sor Isabel,119900,2,72
 Chalet,Calle Jaén s/n,38500,3,110
 Chalet,Calle Finlandia s/n,183500,3,100
-Chalet,Calle Carnicería,14800,3,172.6
+Chalet,Calle Carnicería,14800,3,1726
 Chalet,Avenida Andalucía,80000,6,212
 Piso,Calle Villacarrillo,60000,3,110
 Chalet,Pozo Ancho s/n,53400,4,135
@@ -1504,27 +1504,27 @@ Piso,Calle Legazpi,55000,3,04
 Chalet,Calle de Jose Molina 23,250000,4,140
 Piso,Calle Balbino Quesada,39000,3,110
 Chalet,Plaza Jaén,72000,3,100
-Duplex,Ctra. Circunvalación - La Magdalena,107600,3,104
+Duplex,Ctra Circunvalación - La Magdalena,107600,3,104
 Chalet,joaquin costa,390000,5,400
 Chalet,donantes de sangre,165000,2,147
 Piso,San Antonio,98000,4,104
 Piso,Calle Flores de Lemus,169100,4,151
 Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,39500,7,299
-Piso,Ctra. Circunvalación - La Magdalena,36975,3,103
+Piso,Ctra Circunvalación - La Magdalena,36975,3,103
 Chalet,San Felipe - El Almendral - La Merced,109900,4,190
 Piso,Barriada la Paz,41000,3,88
 Chalet,Centro Ciudad,210000,4,137
 Piso,Calle Antonio Muñoz Molina,195000,4,125
 Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,95000,3,5100
 Piso,San Bartolomé - Millán de Priego,97000,4,106
-Piso,Ctra. Circunvalación - La Magdalena,54000,2,55
+Piso,Ctra Circunvalación - La Magdalena,54000,2,55
 Piso,San Felipe - El Almendral - La Merced,154900,4,139
 Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,39500,7,274
 Piso,Calle Virgen de la Capilla,260000,3,136
 Piso,Calle Forjadores s/n,145500,4,159
 Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,110000,5,1195
 Chalet,Calle Buenavista,255000,5,191
-Piso,Ctra. Circunvalación - La Magdalena,54000,2,55
+Piso,Ctra Circunvalación - La Magdalena,54000,2,55
 Piso,San Felipe - El Almendral - La Merced,154900,4,149
 Chalet,Calle Castillo 76,33000,3,101
 Piso,Ronda Juez Juan Ruiz Rico,150000,2,73
@@ -1568,7 +1568,7 @@ Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,110000,5,1195
 Piso,Calle Antonio Muñoz Molina,195000,4,153
 Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,95000,3,5100
 Chalet,joaquin costa,390000,5,400
-Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,250000,6,1.000
+Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,250000,6,1000
 Piso,Mancha Real,90000,3,97
 Duplex,Valdeastillas - Fuentezuelas,279000,5,160
 Chalet,Arjonilla,55000,3,89
@@ -1578,7 +1578,7 @@ Chalet,Santa Isabel,170000,3,1200
 Piso,Mancha Real,40000,3,114
 Chalet,Belén - San Roque,390000,5,90
 Ático,San Ildefonso - Catedral,180000,3,95
-Casa Rural,Calle Herrera 17,399000,8,7.000
+Casa Rural,Calle Herrera 17,399000,8,7000
 Chalet,El Valle - Universidad,200000,4,142
 Casa Rural,Calle Dordas 4,150000,3,99
 Chalet,Los Villares,180000,5,275
@@ -1599,7 +1599,7 @@ Piso,San Ildefonso - Catedral,90000,3,81
 Ático,Torredelcampo,110000,3,4
 Casa Rural,Pasaje cr circunvalación,310000,4,130
 Ático,San Ildefonso - Catedral,160000,2,73
-Casa Rural,Carretera Mogón s/n,198000,3,141.61
+Casa Rural,Carretera Mogón s/n,198000,3,14161
 Chalet,La Guardia de Jaén,36000,4,100
 Casa Rural,Calle Dordas 4,150000,3,112
 Piso,Avda de Madrid - Pº de la Estación,123000,5,171
@@ -1616,25 +1616,25 @@ Casa Rural,Pasaje cr circunvalación,310000,4,136
 Piso,Calle conde,155000,2,77
 Chalet,Los Villares,180000,5,275
 Chalet,Mancha Real,130000,3,116
-Chalet,Ctra. Circunvalación - La Magdalena,45000,3,112
+Chalet,Ctra Circunvalación - La Magdalena,45000,3,112
 Chalet,Arjonilla,55000,3,101
 Piso,San Felipe - El Almendral - La Merced,64000,3,72
 Duplex,Calle el Viso 4,166000,3,40
-Chalet,Ctra. Circunvalación - La Magdalena,63000,3,96
+Chalet,Ctra Circunvalación - La Magdalena,63000,3,96
 Piso,Tallista Vicente Castillo Gutiérrez,109990,3,83
 Piso,San Ildefonso - Catedral,90000,3,89
 Chalet,Calle Miguel Hernández 3  - A,245000,4,215
-Piso,Calle Fuente de la Teja,64000,4,142.71
+Piso,Calle Fuente de la Teja,64000,4,14271
 Piso,Calle Fuente de la Teja,64000,4,71
 Chalet,Calle Guadalbullón,54000,4,136
 Piso,Belén - San Roque,155000,4,130
 Piso,Calle la Peralea,61000,4,58
-Piso,Calle la Peralea,59000,3,130.86
+Piso,Calle la Peralea,59000,3,13086
 Piso,Plaza Mayor,80000,3,186
-Piso,Ctra. Circunvalación - La Magdalena,49900,3,91
+Piso,Ctra Circunvalación - La Magdalena,49900,3,91
 Duplex,San Ildefonso - Catedral,249900,5,165
-Piso,Calle Fuente de la Teja,64000,4,139.34
-Piso,Calle Barcelona,105000,4,151.03
+Piso,Calle Fuente de la Teja,64000,4,13934
+Piso,Calle Barcelona,105000,4,15103
 Casa Rural,Peal de Becerro,116000,4,123
 Duplex,Valdeastillas - Fuentezuelas,280000,4,130
 Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,180000,6,208
@@ -1643,19 +1643,19 @@ Piso,hornos Santiago,34900,2,65
 Piso,Almendros Aguilar,65000,3,120
 Piso,Avda de Madrid - Pº de la Estación,115000,4,114
 Casa Rural,Peal de Becerro,116000,4,150
-Piso,Calle Fuente de la Teja,64000,4,142.71
+Piso,Calle Fuente de la Teja,64000,4,14271
 Piso,Belén - San Roque,170000,4,141
-Piso,Calle Fuente de la Teja,64000,4,139.34
+Piso,Calle Fuente de la Teja,64000,4,13934
 Duplex,San Ildefonso - Catedral,249900,5,184
 Piso,Calle Fuente de la Teja,64000,4,71
 Piso,Plaza Mayor,80000,3,186
 Piso,Calle Rey San Fernando,76000,3,88
-Piso,Ctra. Circunvalación - La Magdalena,49900,3,101
-Piso,Calle la Peralea,61000,4,135.58
+Piso,Ctra Circunvalación - La Magdalena,49900,3,101
+Piso,Calle la Peralea,61000,4,13558
 Chalet,Calle Baluarte,7400,4,103
 Piso,Calle Santa Isabel,43000,3,95
 Piso,Calle la Peralea,61000,4,58
-Piso,Calle la Peralea,59000,3,130.86
+Piso,Calle la Peralea,59000,3,13086
 Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,180000,6,224
 Piso,Calle Federico Mayo,48400,3,62
 Duplex,Avenida Constitucion,43000,3,118
@@ -1732,7 +1732,7 @@ Casa Rural,Calle Francisco Coello 14,950000,9,28
 Chalet,San Bartolomé - Millán de Priego,400000,7,266
 Piso,Hospital,260000,4,180
 Chalet,Avenida del Ejército Español,380000,7,20
-Chalet,Valdeastillas - Fuentezuelas,410000,7,13.000
+Chalet,Valdeastillas - Fuentezuelas,410000,7,13000
 Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,300000,7,220
 Piso,Valdeastillas - Fuentezuelas,89000,1,50
 Chalet,los Vadillos,130000,3,1600
@@ -1743,7 +1743,7 @@ Chalet,Guarroman,75000,3,150
 Casa Rural,Calle el Molar 29,33000,2,70
 Piso,Calle Maestro Bernardo Estepa,52400,2,78
 Piso,Calle Córdoba,65000,2,60
-Chalet,Ctra. Circunvalación - La Magdalena,65000,3,88
+Chalet,Ctra Circunvalación - La Magdalena,65000,3,88
 Piso,Calle Maestro Bernardo Estepa,64000,3,90
 Piso,Almedros Aguilar,80000,3,86
 Piso,Calle Fuente de la Mimbre,89000,1,55
@@ -1773,7 +1773,7 @@ Chalet,Andújar,96000,3,40
 Piso,San Bartolomé - Millán de Priego,110000,3,88
 Chalet,Camino de Valdecańas,155000,3,1040
 Chalet,Arrayanes,32000,5,133
-Chalet,San Roque - La Cruz - La Rozuela,240000,5,2.700
+Chalet,San Roque - La Cruz - La Rozuela,240000,5,2700
 Chalet,los Vadillos,130000,3,1600
 Chalet,Jabalcuz,130000,3,500
 Chalet,Avenida del Ejército Español,380000,7,20
@@ -1795,7 +1795,7 @@ Piso,San Ildefonso - Catedral,175900,3,16
 Chalet,La Zarzuela-San José-Belén,54000,4,210
 Piso,Avenida Rafael Alberti 17,95000,3,84
 Chalet,Urbanizacion Jabalcuz,230000,5,75
-Chalet,Pozo Alcon,292000,4,2.500
+Chalet,Pozo Alcon,292000,4,2500
 Piso,Avenida de Madrid 11,145000,3,120
 Piso,Centro Ciudad,51000,3,89
 Ático,Calle Almodovar,65000,3,87

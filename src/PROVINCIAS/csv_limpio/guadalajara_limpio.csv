@@ -60,7 +60,7 @@ Piso,Calle romero,176000,3,83
 Piso,José Antonio Andrés Rodriguez,123000,2,75
 Piso,Calle Doctor Layna Serrano,108600,4,150
 Chalet,horche,199000,5,715
-Chalet,Calle Monteaveruelo,380000,4,1.000
+Chalet,Calle Monteaveruelo,380000,4,1000
 Piso,Calle Roble,255000,4,170
 Chalet,Horche,59900,2,75
 Piso,Travesía Nuevo Alamin,100000,3,94
@@ -145,7 +145,7 @@ Chalet,Calle Pintor Joaquín Sorolla,225000,4,24
 Chalet,Calle Fuentelaencina,220000,3,106
 Chalet,RIO SORBE,320000,5,206
 Chalet,RIO TAJO,230000,3,120
-Chalet,Calle los Robles,225000,3,1.500
+Chalet,Calle los Robles,225000,3,1500
 Chalet,YEBES,159900,4,145
 Chalet,Calle Antonio López,259000,3,133
 Chalet,Calle los Olmos,289000,5,1228
@@ -159,7 +159,7 @@ Chalet,CARDENAL CISNEROS,182000,3,115
 Chalet,Calle las Encinas,269000,4,151
 Chalet,CARRAMONTE,320000,4,173
 Chalet,MUNICH,259000,2,926
-Chalet,montecalderon,389900,5,2.092
+Chalet,montecalderon,389900,5,2092
 Chalet,Montecalderon,339990,7,328
 Chalet,el casar,259990,3,131
 Chalet,el clavin,212000,3,40
@@ -196,9 +196,9 @@ Chalet,Paseo Doctor Fernández Iparraguirre,339000,4,155
 Chalet,chapi 130,360000,4,133
 Piso,Calle de Alonso Núñez de Reinoso,319000,3,80
 Chalet,Alamín,265000,4,128
-Chalet,valdelosllanos,359990,5,1.010
-Chalet,Calle Río Guadiela 190,217500,2,2.587
-Casa Rural,Vía,92000,2,10.000
+Chalet,valdelosllanos,359990,5,1010
+Chalet,Calle Río Guadiela 190,217500,2,2587
+Casa Rural,Vía,92000,2,10000
 Chalet,chapi 130,360000,4,156
 Duplex,Palomar s/n,160000,3,84
 Chalet,isla cabrera,329900,4,123
@@ -266,7 +266,7 @@ Chalet,Cabanillas del Campo,215000,3,96
 Piso,Calle Huertas 23,125000,2,25
 Piso,Calle San Roque,239000,4,112
 Piso,Avenida Santa María Micaela,249000,4,115
-Chalet,Av. Roma,319000,5,191
+Chalet,Av Roma,319000,5,191
 Chalet,Calle Mayor,199000,10,648
 Piso,Cuenca,128000,3,81
 Chalet,Calle Reina Sofía,208600,4,204
@@ -282,7 +282,7 @@ Chalet,Calle Jardiel Poncela,420000,5,196
 Chalet,Plaza Mayor,127000,4,35
 Piso,Calle Ingeniero Mariño,260000,4,130
 Chalet,Calle Virgen de la Salceda,410000,4,297
-Piso,Dr. Layna Serrano,135000,3,94
+Piso,Dr Layna Serrano,135000,3,94
 Chalet,Julio Gonzalo,240000,4,311
 Piso,Travesía Santo Domingo,350000,3,86
 Duplex,Calle del Cura,89000,5,4
@@ -306,7 +306,7 @@ Piso,Calle Mago de Oz,156560,2,78
 Piso,Bulevar - Plaza Castilla,139990,4,137
 Piso,San Roque-Concordia-Adoratrices,270000,4,136
 Piso,Avenida de Guadalajara,205000,3,40
-Chalet,Calle Principal,180000,5,35.00
+Chalet,Calle Principal,180000,5,3500
 Chalet,tortola,325000,4,152
 Piso,Calle Isabel la Catolica 1,134000,2,94
 Ático,Calle la Fresneda,290000,3,92
@@ -331,7 +331,7 @@ Piso,Plan Sur-Amistad,135000,3,76
 Piso,Las Cañas,325000,4,151
 Chalet,Calle Soledad,99000,6,426
 Chalet,Torrejón del Rey,195000,3,80
-Chalet,Calle los Álamos,610000,5,3.080
+Chalet,Calle los Álamos,610000,5,3080
 Piso,Calle NORTE,125000,2,115
 Piso,Casco Histórico,330000,3,120
 Piso,Paseo Doctor Fernández Iparraguirre,850000,4,200
@@ -341,7 +341,7 @@ Piso,Calle III Centenario,145000,3,106
 Chalet,Santander,174900,3,145
 Chalet,Calle las Merinas,215000,4,50
 Casa Rural,Vergel,63000,4,125
-Piso,Avenida España,172500,3,200.000
+Piso,Avenida España,172500,3,200000
 Chalet,CASTILLO OROPESA,185000,4,183
 Chalet,Pioz,159000,3,107
 Chalet,rio mesa,208000,3,117
@@ -397,7 +397,7 @@ Chalet,Calle de Cristóbal Colón,167000,4,23
 Chalet,Valdeaveruelo,293000,4,144
 Chalet,Calle Sandalo,210000,3,27
 Chalet,Fontanar,137000,4,140
-Chalet,Urb. El Coto,412000,4,122
+Chalet,Urb El Coto,412000,4,122
 Chalet,El Casar,292000,6,500
 Chalet,Calle la Palma,259900,3,126
 Chalet,El Casar,292000,6,500
@@ -416,7 +416,7 @@ Chalet,Calle Real,140000,5,254
 Chalet,Calle Manuel García Atance,240000,6,400
 Piso,Avenida de Castilla,165000,1,55
 Chalet,Calle Mirasol,208000,3,113
-Chalet,Calle Pintor Jesús Campoamor,157000,4,210.94
+Chalet,Calle Pintor Jesús Campoamor,157000,4,21094
 Duplex,Calle de Lupiana,73000,2,62
 Chalet,Calle Monteaveruelo,390000,5,194
 Chalet,Calle Antonio Pérez Henares,135000,3,83
@@ -493,7 +493,7 @@ Casa Rural,Alcolea de las Peñas,150000,4,198
 Chalet,El Casar,285000,4,283
 Chalet,El Casar,486000,5,197
 Chalet,Galápagos,260000,4,204
-Chalet,Galápagos,179500,4,636.15
+Chalet,Galápagos,179500,4,63615
 Chalet,919383086,Calle Sauca s/n,234500,250
 Chalet,Calle Brihuega,250000,3,60
 Chalet,Calle Pico Ocejon,295000,5,164
@@ -580,7 +580,7 @@ Piso,Yebes,155000,3,105
 Chalet,Sigüenza,198000,5,186
 Chalet,La Paloma - Asfain,358000,5,30
 Chalet,Trijueque,127000,3,800
-Chalet,Calle Río Guadiana 21,315000,5,2.500
+Chalet,Calle Río Guadiana 21,315000,5,2500
 Piso,Avenida Madrid,75000,2,63
 Piso,Calle del Ferial,165000,2,75
 Chalet,Marchamalo,210000,3,27
@@ -631,7 +631,7 @@ Chalet,Mondéjar,194000,8,380
 Piso,Plaza Marlasca,235000,2,68
 Duplex,Travesía Cura,88000,4,137
 Piso,Calle Mayor,139000,2,75
-Duplex,Calle del Zapato,59000,3,108.75
+Duplex,Calle del Zapato,59000,3,10875
 Chalet,Yebra,110000,3,82
 Piso,Calle de los Labradores,82000,3,100
 Piso,Calle Constitución,210000,4,127
@@ -744,7 +744,7 @@ Chalet,El Casar,330000,5,343
 Chalet,Chiloeches,463500,5,1200
 Chalet,El Casar,380000,3,529
 Ático,Travesía Tomillo 2,214000,4,140
-Chalet,Urbanización el clavin,321000,7,2.254
+Chalet,Urbanización el clavin,321000,7,2254
 Chalet,Villanueva de la Torre,245900,3,111
 Chalet,Calle MURCIA 1506,460000,5,300
 Chalet,Avenida Sauce,300000,6,323
@@ -755,12 +755,10 @@ Chalet,Urbanización Bosque de Henares 238,203800,3,250
 Chalet,Calle Oeste,157000,4,30
 Piso,margarita salas,195000,4,115
 Piso,Calle de María Pacheco,395000,4,152
-Chalet,"85m en su interior se puede realizar desde una biblioteca salón sala de juegos e incluso dos habitaciones mas con baño completo y vestidor. oportunidad de vivienda lista para entrar a vivir para mas información o visita del inmueble llamenos.""",949722924,5,104
 Ático,san roque,168000,2,115
 Casa Rural,Calle San Roque,269000,8,320
 Ático,Calle valencia,120000,4,109
 Ático,Calle valencia,120000,4,109
-Chalet,"85m en su interior se puede realizar desde una biblioteca salón sala de juegos e incluso dos habitaciones mas con baño completo y vestidor. oportunidad de vivienda lista para entrar a vivir para mas información o visita del inmueble llamenos.""",949722924,5,104
 Piso,Plaza España,250000,4,40
 Chalet,Calle Mayor,325000,4,399
 Chalet,Calle galicia,226000,3,126
@@ -833,7 +831,7 @@ Chalet,Torrejón del Rey,222000,3,81
 Chalet,Urbanización Peñarrubia 193,242000,5,2526
 Chalet,Diseminados s/n s/n,135000,5,227
 Chalet,Trijueque,134900,4,158
-Chalet,Illana,115000,5,2.631
+Chalet,Illana,115000,5,2631
 Chalet,Calle Fresno 12,176400,3,86
 Piso,Ronda Norte,74000,2,67
 Chalet,Calle Fresno 12,175400,3,118
@@ -868,7 +866,7 @@ Piso,Camino Viejo 5,105000,4,93
 Chalet,Carretera almonacid a zorita s/n cc2,310000,3,184
 Chalet,Calle MENORCA 13,211000,4,160
 Casa Rural,DS UTANDE s/n,265000,3,116
-Casa Rural,Paraje Monte los Cortijos 2076 P,190000,6,36.200
+Casa Rural,Paraje Monte los Cortijos 2076 P,190000,6,36200
 Chalet,Pioz,152000,2,425
 Casa Rural,Calle Real 18,12000,0,36
 Chalet,Loranca de Tajuña,152000,2,425
@@ -909,13 +907,13 @@ Chalet,Camino Caobas,99900,3,60
 Chalet,Calle Eras,249000,5,80
 Piso,Plaza San Esteban,170000,3,100
 Casa Rural,Calle olmillo,66000,5,268
-Chalet,Urbanizacion los Pinares,124900,4,2.590
+Chalet,Urbanizacion los Pinares,124900,4,2590
 Chalet,CERRO,76000,4,263
 Piso,Calle Estudio,89900,2,75
 Chalet,Camino Manzanos,89900,2,50
 Casa Rural,Calle estacion,66000,7,197
 Chalet,Calle Sacedón 787,282000,3,790
-Chalet,Calle enebros,219900,3,1.000
+Chalet,Calle enebros,219900,3,1000
 Piso,Calle Margarita Xirgu 19,184900,2,66
 Piso,Avenida el Encinar 1,235337,4,133
 Chalet,Pioz,127000,4,35
@@ -932,10 +930,10 @@ Piso,Avenida Enmedio esquina Avenida Alcala s/n,169916,2,67
 Casa Rural,Enmedio 16,18500,2,168
 Chalet,Calle San Roque,163000,4,138
 Casa Rural,Camino Ermita 1,115000,5,176
-Casa Rural,Carretera de Alcolea 172 P,148000,10,3.750
+Casa Rural,Carretera de Alcolea 172 P,148000,10,3750
 Piso,Manuel Paez Xaramillo,75000,2,62
 Chalet,Calle de Aranjuez,412000,4,133
-Casa Rural,Diseminados s/n,225000,3,11.000
+Casa Rural,Diseminados s/n,225000,3,11000
 Chalet,Casco Histórico,1500000,18,615
 Chalet,Calle Nueva Sierra Cu,280000,4,1000
 Chalet,Calle soledad 22,95000,3,42
@@ -943,7 +941,7 @@ Chalet,Calle soledad 22,95000,4,38
 Piso,Calle Postas,140000,3,96
 Chalet,Calle los Músicos,259000,3,170
 Piso,Sabina,119000,2,87
-Chalet,Calle Adolfo Martín-Gamero,595000,18,1.022
+Chalet,Calle Adolfo Martín-Gamero,595000,18,1022
 Chalet,Fuensanta,89000,6,585
 Chalet,Calle soledad 22,111000,3,18
 Piso,Sabina,116000,2,86
@@ -1013,7 +1011,7 @@ Piso,Calle Bulevar del Deporte con calle Paulo Roberto s/n,175535,2,72
 Chalet,Calle Rio Bornoba 220,259900,3,606
 Chalet,Calle Nueva Sierra Cc,120000,2,76
 Chalet,Camino Manzanos,149900,3,135
-Casa Rural,CM-110 9,290000,3,3.600
+Casa Rural,CM-110 9,290000,3,3600
 Chalet,Calle la Celestina 3,309000,4,500
 Casa Rural,949722924,Calle Fuente la Loma 4,24000,80
 Chalet,Calle Nueva Sierra Cc,120000,2,62
@@ -1080,7 +1078,7 @@ Chalet,aranjuez,412000,5,330
 Piso,Calle Miguel Indurain 5,247000,3,101
 Piso,Calle Miguel Indurain 5,226000,3,117
 Chalet,Calle Urbanización Peñarrubia 151,130000,2,66
-Casa Rural,Trijueque,399900,6,4.246
+Casa Rural,Trijueque,399900,6,4246
 Piso,Calle Miguel Indurain 5,247000,3,84
 Piso,Avenida Castilla,270000,5,40
 Piso,Calle Miguel Indurain 5,194000,2,71
@@ -1095,7 +1093,7 @@ Piso,Polígono Snp Remate -las Cañas,179900,2,62
 Casa Rural,Calle Horno 7,35000,3,90
 Piso,Calle Miguel Indurain 5,195000,3,103
 Chalet,Cuesta,22000,3,82
-Ático,Avenida Clara Campoamor,216000,3,106.69
+Ático,Avenida Clara Campoamor,216000,3,10669
 Chalet,Calle ECUADOR,267000,3,87
 Chalet,Alovera,325990,4,149
 Piso,Calle Miguel Indurain 5,202000,3,110
@@ -1148,36 +1146,36 @@ Piso,Doctor Fleming 12,160000,4,95
 Chalet,arcedinos 5,79500,5,167
 Casa Rural,Calle Real 1,39500,3,86
 Chalet,Barrio Mojares 37,290000,8,650
-Chalet,Calle Rio Guadiana,290000,7,2.678
+Chalet,Calle Rio Guadiana,290000,7,2678
 Chalet,Calle Enmedio 8,49900,4,174
 Piso,Calle Eras Blancas,85000,1,58
 Chalet,Cerezos,190000,5,165
-Piso,Avenida España,176500,3,200.000
+Piso,Avenida España,176500,3,200000
 Chalet,Calle Villaflores del Monte,146700,3,105
 Casa Rural,Calle colon,105000,4,172
 Chalet,Calle Monte Verde,150000,3,3200
-Piso,Avenida España,172500,3,200.000
+Piso,Avenida España,172500,3,200000
 Chalet,Fuente 5,365000,3,447
-Duplex,Bulevar de las Acacias,125000,2,25.000
+Duplex,Bulevar de las Acacias,125000,2,25000
 Piso,Yunquera de Henares,99500,3,93
-Duplex,Bulevar de las Acacias,125000,2,25.000
-Chalet,Calle Rio Guadiana,290000,7,2.678
+Duplex,Bulevar de las Acacias,125000,2,25000
+Chalet,Calle Rio Guadiana,290000,7,2678
 Chalet,Fuente 5,365000,3,447
 Chalet,Calle Usanos,210000,4,156
 Chalet,Cerezos,190000,5,195
 Casa Rural,Calle Alfarerías 20,58500,3,75
-Piso,Avenida España,178500,3,200.000
+Piso,Avenida España,178500,3,200000
 Casa Rural,Calle Mayor 34,159500,6,249
-Piso,Avenida España,176500,3,200.000
+Piso,Avenida España,176500,3,200000
 Chalet,Calle Enmedio 8,49900,4,174
 Piso,Alcarria 3,300000,4,110
 Chalet,Calle ERMITA 52,118000,3,102
 Casa Rural,Calle colon,105000,4,172
 Duplex,Calle Ancha,119000,2,94
-Chalet,Avenida Ginebra,179000,3,1.207
+Chalet,Avenida Ginebra,179000,3,1207
 Chalet,Chiloeches,254500,4,142
 Chalet,Matarrubia,168000,3,36
-Chalet,Calle Isla de Creta s/n,364555,3,1.184
+Chalet,Calle Isla de Creta s/n,364555,3,1184
 Chalet,Escopete,135000,4,153
 Piso,Calle San Miguel,69500,1,51
 Chalet,Pozo de Guadalajara,88140,2,73
@@ -1201,7 +1199,7 @@ Chalet,Fuentenovilla,168680,4,158
 Chalet,Pioz,163900,3,116
 Chalet,Chiloeches,254500,4,149
 Casa Rural,Calle del Doctor Layna Serrano s/n,5000,4,147
-Chalet,Calle Isla de Creta s/n,364555,3,1.184
+Chalet,Calle Isla de Creta s/n,364555,3,1184
 Chalet,Álamo,260000,4,1071
 Chalet,Pioz,202000,4,126
 Chalet,Paseo de Pioz 141,145000,3,97
@@ -1276,7 +1274,7 @@ Casa Rural,949722924,Calle de la Cruz Dorada,274000,297
 Piso,Calle de Manuel Medrano,159000,3,108
 Chalet,Calle Eras,259900,4,35
 Casa Rural,Calle Mayor,104000,6,400
-Chalet,EL CLAVIN LOS ALAMOS,610000,5,3.195
+Chalet,EL CLAVIN LOS ALAMOS,610000,5,3195
 Casa Rural,Calle Real,123000,6,99
 Casa Rural,Calle Mayor,196000,8,300
 Casa Rural,Calle Real,123000,6,99
@@ -1306,7 +1304,7 @@ Piso,Carretera Carreter Cuenca,43000,1,75
 Casa Rural,Calle Valencia,165000,4,46
 Piso,Bulevar Clara Campoamor,325000,4,142
 Chalet,634274648,Calle del Abad Alonso de Mendoza 14,179900,260
-Piso,"72 m² útiles) y piscina comunitaria. Tercera planta en esquina todo el piso es exterior y con vistas. La vivienda se divide en: espacioso recibidor de entrada / distribuidor de habitaciones gran salón independiente con terraza acristalada 3 habitaciones con armarios empotrados 2 baños completos (uno incluido en la habitación de matrimonio) y cocina amueblada con zona de comedor y ventanal. Los suelos son de tarima en color roble dispone de Aire Acondicionado y todas las estancias de la casa tienen amplios ventanales. Consta de preinstalación de alarma para la vivienda con volúmetricos por infrarrojo y puerta acorazada de primera calidad. Circuito de agua caliente y calefacción individual de Gas. Se ha realizado mejora y aislamiento térmico y acústico de las terrazas y cocina habilitándose una cocina con comedor luminosa de 21 m² útiles. * Actualmente se encuentra alquilado con ""Alquiler Seguro"" finalizando el contrato el 30 de septiembre. ** En el precio de venta no están incluidos impuestos ni gastos de escrituración.""",696454539,5,181
+Piso,"72 m² útiles) y piscina comunitaria Tercera planta en esquina todo el piso es exterior y con vistas La vivienda se divide en: espacioso recibidor de entrada / distribuidor de habitaciones gran salón independiente con terraza acristalada 3 habitaciones con armarios empotrados 2 baños completos (uno incluido en la habitación de matrimonio) y cocina amueblada con zona de comedor y ventanal Los suelos son de tarima en color roble dispone de Aire Acondicionado y todas las estancias de la casa tienen amplios ventanales Consta de preinstalación de alarma para la vivienda con volúmetricos por infrarrojo y puerta acorazada de primera calidad Circuito de agua caliente y calefacción individual de Gas Se ha realizado mejora y aislamiento térmico y acústico de las terrazas y cocina habilitándose una cocina con comedor luminosa de 21 m² útiles * Actualmente se encuentra alquilado con ""Alquiler Seguro"" finalizando el contrato el 30 de septiembre ** En el precio de venta no están incluidos impuestos ni gastos de escrituración""",696454539,5,181
 Chalet,Manuel Machado,200000,3,111
 Chalet,Avenida Paraiso,145000,4,104
 Chalet,Calle educacion,141000,8,379
@@ -1343,7 +1341,6 @@ Chalet,Yunquera de Henares,210000,3,104
 Duplex,Calle Luis de Lucena,298000,3,92
 Casa Rural,Calle Mayor 26,90000,6,230
 Chalet,634274648,Calle del Abad Alonso de Mendoza 14,179900,260
-Piso,"72 m² útiles) y piscina comunitaria. Tercera planta en esquina todo el piso es exterior y con vistas. La vivienda se divide en: espacioso recibidor de entrada / distribuidor de habitaciones gran salón independiente con terraza acristalada 3 habitaciones con armarios empotrados 2 baños completos (uno incluido en la habitación de matrimonio) y cocina amueblada con zona de comedor y ventanal. Los suelos son de tarima en color roble dispone de Aire Acondicionado y todas las estancias de la casa tienen amplios ventanales. Consta de preinstalación de alarma para la vivienda con volúmetricos por infrarrojo y puerta acorazada de primera calidad. Circuito de agua caliente y calefacción individual de Gas. Se ha realizado mejora y aislamiento térmico y acústico de las terrazas y cocina habilitándose una cocina con comedor luminosa de 21 m² útiles. * Actualmente se encuentra alquilado con ""Alquiler Seguro"" finalizando el contrato el 30 de septiembre. ** En el precio de venta no están incluidos impuestos ni gastos de escrituración.""",696454539,5,183
 Duplex,Casco Histórico,180000,4,156
 Piso,Calle Regala las Anc,55000,2,91
 Casa Rural,Calle Mayor 72,85000,3,170
@@ -1374,7 +1371,7 @@ Chalet,Calle educacion,141000,8,379
 Chalet,Calle de Aranjuez 1062,363000,5,40
 Piso,Toledo,175000,4,101
 Chalet,Bulevar de las Sirenas s/n,400000,3,275
-Chalet,Calle ULISES,186000,5,1.222
+Chalet,Calle ULISES,186000,5,1222
 Chalet,Avenida de Panamá 21,145000,4,765
 Piso,Calle de la Fuente,120000,3,180
 Piso,Calle Francisco de Medina y Mendoza s/n,53500,3,110
@@ -1478,7 +1475,7 @@ Chalet,Calle Sandalo,210000,3,27
 Chalet,Calle Agricultores 10,360000,5,277
 Chalet,Uceda,281000,5,164
 Piso,Camino los Rubiales 25,69000,2,71
-Chalet,Hontoba,154990,4,2.649
+Chalet,Hontoba,154990,4,2649
 Chalet,Uceda,281000,5,175
 Piso,Calle Cuba,187000,3,87
 Piso,Plaza de España,180000,5,197
@@ -1545,11 +1542,11 @@ Piso,Calle Cuba,162000,2,80
 Piso,Calle Cuba,182000,3,99
 Chalet,Calle Azorín,208500,4,225
 Piso,santa lucia,66900,3,106
-Casa Rural,949720409,EL JARAL,53000,11.004
+Casa Rural,949720409,EL JARAL,53000,11004
 Chalet,PICOS DE EUROPA,249000,3,70
 Chalet,Fuentenovilla,158500,5,194
 Piso,Calle Leopoldo Alas Clarín,139000,3,119
-Chalet,RIo Manzanares Urb. Las Castillas s/n,168000,3,100
+Chalet,RIo Manzanares Urb Las Castillas s/n,168000,3,100
 Chalet,Sorozabal,290000,4,141
 Piso,Plaza De La Paz,115000,3,89
 Chalet,GERARDO DIEGO,238000,3,89
@@ -1557,11 +1554,11 @@ Casa Rural,Calle mayor,226000,3,260
 Piso,Calle Margarita Xirgu 19,180900,2,63
 Chalet,Urbanización Nueva Sierra,175000,5,282
 Piso,Avenida del Ferrocarril,71000,1,86
-Chalet,URB. SANTA OLALLA 16,105000,3,92
+Chalet,URB SANTA OLALLA 16,105000,3,92
 Chalet,Urbanización Nueva Sierra,140000,3,736
 Piso,Calle Holanda,265500,4,5
 Duplex,Calle de la Virgen de la Soledad,245000,4,159
-Chalet,RIo Manzanares Urb. Las Castillas s/n,168000,3,100
+Chalet,RIo Manzanares Urb Las Castillas s/n,168000,3,100
 Chalet,Calle Cardenal Cisneros,185000,3,120
 Chalet,Jupiter,187000,4,262
 Chalet,Calle Valle del Tiétar,127000,4,121
@@ -1572,7 +1569,7 @@ Piso,Plaza De La Paz,115000,3,113
 Chalet,Calle AZORIN 257,208500,4,225
 Piso,Calle de la Isabela,128000,4,128
 Piso,Calle Julián Besteiro,199000,4,152
-Chalet,URB. SANTA OLALLA 16,105000,3,97
+Chalet,URB SANTA OLALLA 16,105000,3,97
 Piso,Calle General Vives Camino,121000,4,124
 Chalet,Calle Horcajo,189000,4,127
 Chalet,Peral,159000,5,187
@@ -1621,10 +1618,9 @@ Piso,Calle de la Isabela,99000,3,90
 Piso,Calle de Sigüenza,207000,4,154
 Chalet,Yebes,295000,4,156
 Chalet,Pasaje de Horche,379990,3,118
-Duplex,"20 metros (cabe un coche y una moto) y está incluida en el precio. En cuanto a los servicios del pueblo y de la zona para aquellas personas que no lo conocen informarle que dispone de absolutamente todos los servicios (servicio médico con urgencias 24 horas colegios e institutos principales bancos amplias zonas deportivas con todo tipo de deportes en el que existen escuelas municipales para que sus niños practiquen aquel deporte que deseen amplias zonas verdes tanto dentro del municipio como sobre todo alrededor de él y sobre todo y muy destacable un ENTORNO PRIVILEGIADO rodeado de montes y naturaleza que nos permite disfrutar muchísimo de la práctica del deporte paseos etc. con unas impresionantes vistas a la sierra y todo tipo de servicios a nivel comercio). En cuanto a la comunicación El casar posiblemente sea el pueblo mejor ubicado entre todos debido a que se encuentra en un enclave único a 30 minutos de Plaza de castilla con autobuses cada poco tiempo a Guadalajara a 20 minutos así cómo a todo el Corredor del Henares y San Sebastián de los Reyes y Alcobendas en el que podremos disfrutar de absolutamente todas nuestras necesidades y si te gusta la montaña en una hora puedes estar disfrutando de ella ¿Qué más se puede pedir?. Por tanto si lo que necesitas es un hogar perfectamente ubicado no dejes escapar esta oportunidad porque sin duda nos encontramos de una vivienda única que debes visitar.""",949727790,5,90
 Chalet,Urbanización Nueva Sierra,165000,3,94
 Chalet,MADROÑO,196897,5,186
-Casa Rural,Calle sol naciente s/n,395000,6,4.500
+Casa Rural,Calle sol naciente s/n,395000,6,4500
 Duplex,Calle de la Soledad,82000,2,76
 Chalet,Calle Mejorana 2,239000,4,158
 Piso,Avenida de Alcalá,134900,3,100
@@ -1705,13 +1701,13 @@ Piso,Pozo de Guadalajara,94000,1,43
 Duplex,Calle la Estrella,141000,2,64
 Chalet,Calle Don Quijote,297000,4,75
 Duplex,Callejón Pollos,145000,2,62
-Chalet,Londres,480000,4,1.100
+Chalet,Londres,480000,4,1100
 Chalet,Calle Don Juan Antonio García González,233000,4,150
 Chalet,nueva sierra bp,175000,3,90
 Casa Rural,generalisimo s/n,84000,4,137
 Chalet,Yebra,81000,3,89
 Piso,Calle la Fuente s/n,47000,3,110
-Piso,C. María Pacheco,395000,4,155
+Piso,C María Pacheco,395000,4,155
 Casa Rural,Diseminados,360000,7,256
 Chalet,Molino,250000,4,155
 Casa Rural,Calle General Aldeanueva,120000,5,195
@@ -1732,7 +1728,7 @@ Piso,Calle Francisco de Medina y Mendoza s/n,46000,3,92
 Chalet,NUEVA SIERRA AO,210000,3,115
 Piso,Calle de la Fuente,109000,4,159
 Chalet,nueva sierra fs,189000,3,5000
-Chalet,Londres,480000,4,1.100
+Chalet,Londres,480000,4,1100
 Duplex,Plaza Virgen de la Antigua,180000,4,152
 Piso,Pozo de Guadalajara,94000,1,56
 Piso,Calle la Fuente s/n,47000,3,115
@@ -1757,7 +1753,7 @@ Piso,isabela 4,100300,3,97
 Piso,Jose Antonio Andres Rodriguez,150000,3,101
 Piso,ALFONSO LOPEZ DE HARO 10,87000,2,73
 Chalet,Plaza Plazuela,120000,4,60
-Chalet,RIO GUADIELA,220000,3,2.587
+Chalet,RIO GUADIELA,220000,3,2587
 Chalet,Calle Vergel s/n,76600,3,95
 Casa Rural,Alcocer,99075,3,82
 Chalet,Plaza Plazuela,120000,4,60
@@ -1777,7 +1773,7 @@ Piso,Plaza Marlasca,223000,2,50
 Chalet,Calle Vergel s/n,76600,3,100
 Casa Rural,Plaza España R,25000,3,113
 Chalet,Calle El Mirador,119500,2,600
-Chalet,Calle VELAZQUEZ,349900,6,1.600
+Chalet,Calle VELAZQUEZ,349900,6,1600
 Chalet,Escariche,86000,3,194
 Chalet,Calle Pablo Sorozábal s/n,280500,3,114
 Chalet,Avenida ESPAÑA,216900,3,217

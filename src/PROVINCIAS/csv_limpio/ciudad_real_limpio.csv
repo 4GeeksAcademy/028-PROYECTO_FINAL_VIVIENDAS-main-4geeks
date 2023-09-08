@@ -64,7 +64,7 @@ Piso,Calle Alarcos,183000,3,5
 Chalet,Calle RIO CORCOLES,105500,3,12
 Piso,Calle los Molinos,53800,2,77
 Piso,Paseo San Isidro,70000,3,85
-Chalet,Calle Aranjuez Poblado,225000,5,1.200
+Chalet,Calle Aranjuez Poblado,225000,5,1200
 Piso,Calle Cristo de Urda,55000,3,120
 Piso,Calle de la Paloma,130000,6,145
 Piso,Gran capitán 41,95000,3,119
@@ -95,9 +95,9 @@ Chalet,Calle Maestro Don Hermógenes Rodríguez,121900,5,190
 Piso,Calle Alamillo Alto s/n,69000,3,110
 Piso,Calle de la Mata,140000,4,127
 Piso,Vicente Alexandre,89000,4,120
-Casa Rural,Carretera Fuensanta,840000,4,12.772
+Casa Rural,Carretera Fuensanta,840000,4,12772
 Piso,Calle Polonia,115000,3,84
-Casa Rural,Vía,299000,6,18.250
+Casa Rural,Vía,299000,6,18250
 Piso,Calle Astillejos,80000,2,71
 Piso,Camino Sancho Rey 18,126999,2,77
 Chalet,FRAY HERNANDO DE CIUDAD REAL,280000,4,250
@@ -274,7 +274,7 @@ Piso,Cañas- El Perchel s/n,50000,3,97
 Piso,Avenida PRIMERO DE MAYO 21,68000,4,123
 Chalet,Calle Arándano 31,275000,5,241
 Piso,BAJADA DEL PILAR 1,89900,3,81
-Casa Rural,Polígono 188,77900,2,1.200
+Casa Rural,Polígono 188,77900,2,1200
 Piso,TOLEDO,95000,2,66
 Ático,Calle numancia 43,58000,4,131
 Chalet,CALDERON DE LA BARCA 2,45000,4,150
@@ -307,7 +307,7 @@ Piso,Plaza MAYOR,275000,5,173
 Duplex,Calle ESPERANZA,106000,2,60
 Piso,Calle CABALLEROS,139900,4,20
 Chalet,Lentisco,295000,6,60
-Chalet,Camino la Gila s/n,268000,4,4.000
+Chalet,Camino la Gila s/n,268000,4,4000
 Chalet,Virgen del Socorro s/n,155000,4,140
 Casa Rural,san pedro,214999,4,18
 Chalet,Calle Carretera 1,250000,6,225
@@ -318,9 +318,9 @@ Piso,Calle Giraldo de Merlo 3,149850,2,15
 Piso,Cisneros s/n,32000,3,99
 Piso,Calle Cantábrico 21,249900,4,151
 Piso,Calle esperanza,129000,2,75
-Chalet,Valdeazogues s/n,180000,3,2.892
+Chalet,Valdeazogues s/n,180000,3,2892
 Chalet,Lentisco,295000,6,60
-Chalet,Camino la Gila s/n,268000,4,4.000
+Chalet,Camino la Gila s/n,268000,4,4000
 Piso,Cisneros s/n,32000,3,109
 Piso,Nuevo Hospital,177000,3,10
 Chalet,Tomelloso,60000,4,29
@@ -331,7 +331,7 @@ Piso,Goya,80000,3,97
 Chalet,Tomelloso,180000,4,291
 Chalet,Tomelloso,90000,4,283
 Chalet,Calle Pozo,129000,4,156
-Chalet,Camino Barajas,150000,3,15.000
+Chalet,Camino Barajas,150000,3,15000
 Chalet,Ctra de Córdoba - Libertad,98000,3,180
 Piso,Calle de Toledo,150000,4,136
 Chalet,Calle Conde Valmaseda,49900,4,145
@@ -354,7 +354,7 @@ Piso,Plaza de Toros,139000,3,10
 Chalet,Calle Torillo,53000,3,88
 Piso,Palomar,85000,3,120
 Chalet,Calle el Trillo,129000,3,96
-Chalet,Argamasilla de Calatrava,196000,3,4.000
+Chalet,Argamasilla de Calatrava,196000,3,4000
 Chalet,Doctor Fleming,48000,3,103
 Chalet,Carretera las casas s/n,280000,5,179
 Piso,Larache,100000,2,76
@@ -390,7 +390,7 @@ Piso,Plaza de Toros,150000,4,162
 Ático,Nuevo Hospital,215000,3,80
 Chalet,Carretera de Carrión,355000,4,6263
 Ático,Puerta de Toledo - Atalaya,240000,3,108
-Casa Rural,Malagon,109999,1,77.00
+Casa Rural,Malagon,109999,1,7700
 Chalet,Argamasilla de Calatrava,98000,4,140
 Chalet,Tomelloso,135000,3,185
 Piso,Centro - Plaza Mayor,350000,5,167
@@ -453,11 +453,11 @@ Chalet,Poblado Poblachuela Anj 12,230000,4,140
 Piso,La Guija,120000,2,79
 Piso,Calle Rosalía de Castro 1,230000,3,100
 Piso,Calle Juan Carlos I,110000,4,102
-Chalet,Camino Almagro,75000,2,10.000
+Chalet,Camino Almagro,75000,2,10000
 Chalet,Calle Rusia 45,450000,6,700
 Piso,Daimiel,110000,3,86
 Piso,La Morería,120000,3,104
-Casa Rural,Carretera Toledo 167,199000,9,12.811
+Casa Rural,Carretera Toledo 167,199000,9,12811
 Piso,Calle Toledo 71,92000,2,72
 Chalet,Nuevo Parque,192000,4,157
 Duplex,Calle italia 4,105000,2,96
@@ -502,7 +502,7 @@ Piso,El Perchel,185000,2,80
 Piso,Calle Sorolla 1,37500,3,109
 Piso,Nuevo Hospital,122000,2,69
 Piso,Calle Camarín 4,210000,4,152
-Chalet,Carrion de Calatrava,412000,1,7.000
+Chalet,Carrion de Calatrava,412000,1,7000
 Piso,Calle Reyes Católicos 15,48000,2,64
 Chalet,Las Labores,75000,3,175
 Piso,Tomelloso,74000,3,106
@@ -554,7 +554,7 @@ Piso,Calle de Pedrera Baja 5,130000,4,120
 Piso,Calle Alfonso XI 1,80000,2,71
 Piso,Avenida de los Reyes Católicos 9,140000,2,69
 Piso,Calle San Roque 21,51000,3,62
-Piso,Avenida del Mar. 72,235000,3,101
+Piso,Avenida del Mar 72,235000,3,101
 Piso,Calle Pedrera Baja 50,86000,3,88
 Piso,PALOMA 20,160000,4,156
 Piso,Calle Montesa 10,149000,3,132
@@ -733,7 +733,7 @@ Piso,Calle Tonel,90000,3,119
 Piso,Avenida del Mar,187000,3,6
 Piso,Calle Pintor Mendoza,55000,3,85
 Chalet,Calle MERLAS,113000,3,45
-Chalet,Cd Real-Valdepeñas 13005 Ciudad Real Cdad. Real España 1,430000,5,186
+Chalet,Cd Real-Valdepeñas 13005 Ciudad Real Cdad Real España 1,430000,5,186
 Piso,Avenida Primero de Julio,119900,3,26
 Piso,Habana,112000,3,102
 Piso,Libertad,168000,4,135
@@ -743,7 +743,7 @@ Piso,1808,75000,3,106
 Piso,Paseo la Estación,69000,4,152
 Piso,Tomelloso,96000,3,116
 Piso,Tomelloso,86000,3,119
-Casa Rural,Carretera CM-3127,230000,4,7.157
+Casa Rural,Carretera CM-3127,230000,4,7157
 Chalet,Tomelloso,90000,4,194
 Chalet,Tomelloso,133000,3,177
 Chalet,Tomelloso,129000,3,202
@@ -786,7 +786,7 @@ Chalet,Calle PABLO MOLINA,79000,5,182
 Chalet,AVE MARIA,108000,3,117
 Piso,Aben Canes,83000,2,79
 Piso,Ronda del Parque,85000,1,83
-Casa Rural,granatula,320000,3,17.317
+Casa Rural,granatula,320000,3,17317
 Piso,Tomelloso,75000,3,93
 Duplex,Tomelloso,79000,2,116
 Piso,Tomelloso,88000,3,95
@@ -812,7 +812,7 @@ Chalet,Valdepeñas,150000,3,81
 Chalet,DOCTOR FLEMING 12,23000,3,160
 Piso,Valdepeñas,84000,4,154
 Piso,La Morería,158000,4,150
-Chalet,Calle Alcalá,185000,5,1.700
+Chalet,Calle Alcalá,185000,5,1700
 Piso,Calle altagracia,47000,3,117
 Chalet,Calle Flor,16400,3,101
 Piso,Centro - Plaza Mayor,265000,5,12
@@ -843,7 +843,7 @@ Chalet,Calle Herradores,128000,3,200
 Piso,San Marcos,64075,3,116
 Chalet,Calle CISNE,110000,3,190
 Piso,Calle PALOMA,130000,6,145
-Casa Rural,PARAJE LAS YENGUAS,64000,2,15.000
+Casa Rural,PARAJE LAS YENGUAS,64000,2,15000
 Piso,Calle Acera del Cristo,90700,3,83
 Chalet,Puente URBANIZACIÓN EL,158000,5,30
 Chalet,ESTACION,150000,4,240
@@ -893,7 +893,7 @@ Chalet,Calle Almagro-calle Ancha s/n,78000,4,17
 Piso,Calle goya,54000,1,54
 Piso,Avenida Don Antonio Huertas,60000,2,70
 Piso,Avenida Don Antonio Huertas,70000,4,139
-Piso,Calle Don José Mora,69800,1,77.4
+Piso,Calle Don José Mora,69800,1,774
 Piso,bernardo balbuena,155000,3,164
 Ático,Paseo SAN ISIDRO,65000,2,75
 Piso,Avenida Don Antonio Huertas,49000,2,60
@@ -1015,7 +1015,7 @@ Chalet,Calle Trabajo,48000,3,150
 Piso,Ronda Alarcos s/n,102000,2,63
 Chalet,AVE MARIA,50000,3,82
 Piso,Calle Numancia,63000,3,89
-Chalet,CM-413 s/n,225000,3,6.000
+Chalet,CM-413 s/n,225000,3,6000
 Casa Rural,Tomelloso,60000,5,302
 Piso,Calle Campo de Criptana,40000,3,101
 Casa Rural,Tomelloso,75000,3,108
@@ -1103,7 +1103,7 @@ Chalet,Calle Rodríguez Marín,42000,4,145
 Casa Rural,Calle Cervantes 137,18000,4,174
 Duplex,Camino del Vicario s/n,69000,3,102
 Piso,Calle las fuentes s/n,37200,3,50
-Chalet,Calle Jijones 1,990000,15,2.958
+Chalet,Calle Jijones 1,990000,15,2958
 Piso,Zarza- Plaza Carmen s/n,135000,3,10
 Piso,Calle Cantábrico s/n,190000,3,86
 Chalet,Alcázar 21,126100,3,97
@@ -1223,7 +1223,7 @@ Chalet,princesa,225000,4,209
 Piso,Plaza Veracruz,60000,3,82
 Chalet,SAN ISIDRO,58000,2,70
 Chalet,Calle la Plaza 52,59000,4,152
-Chalet,Carretera 412,160000,4,20.000
+Chalet,Carretera 412,160000,4,20000
 Piso,Calle Postas Bloques,38000,3,106
 Piso,MENENDEZ PELAYO,55000,4,149
 Piso,Calle Oriente,48000,3,87
@@ -1256,7 +1256,7 @@ Chalet,Travesía Trinidad,50000,6,213
 Chalet,Tomelloso,95000,5,269
 Chalet,primero de julio,170000,4,121
 Chalet,Juan Hasten s/n,295000,4,135
-Chalet,Carreterín Atalaya,228000,4,3.550
+Chalet,Carreterín Atalaya,228000,4,3550
 Casa Rural,Carretera de daimiel,64900,3,90
 Chalet,Calle Mar Egeo 1,399000,4,128
 Duplex,Tomelloso,199000,5,216
@@ -1269,7 +1269,7 @@ Chalet,AVE MARÍA,69000,3,88
 Piso,Calle Alemania 76,169000,3,106
 Chalet,Calle Aguabuena 12,109500,5,199
 Piso,Calle Cantábrico s/n,211000,3,111
-Chalet,Carretera Las Casas s/n,350000,3,17.140
+Chalet,Carretera Las Casas s/n,350000,3,17140
 Piso,Calle Alemania 76,203000,3,116
 Piso,El Torreón - Los Ángeles - El Pilar,82700,3,05
 Piso,Bailen 27,21000,3,111
@@ -1285,7 +1285,7 @@ Piso,Calle Alemania 76,203000,3,81
 Piso,Calle Cantábrico s/n,299000,4,156
 Piso,Calle Cantábrico s/n,175000,2,64
 Chalet,Calle Castilla La Mancha 16,165000,7,279
-Chalet,n-420 2,99000,4,5.000
+Chalet,n-420 2,99000,4,5000
 Chalet,Cervantes 75,105000,4,129
 Piso,goya,35000,3,112
 Chalet,Argamasilla de Alba,16000000,12,2000
@@ -1406,7 +1406,7 @@ Casa Rural,Piedrabuena,845000,4,148
 Chalet,Santa María-Pio XII,185000,3,89
 Piso,Calle Santa Barbara 1,234933,4,158
 Piso,El Torreón - Los Ángeles - El Pilar,74500,3,81
-Casa Rural,Los Pozuelos de Calatrava,32000,2,6.000
+Casa Rural,Los Pozuelos de Calatrava,32000,2,6000
 Piso,Plaza de Toros,175000,3,106
 Chalet,Poblete,138500,4,200
 Piso,Larache,145000,3,90
@@ -1423,7 +1423,7 @@ Piso,Miguelturra,100000,2,68
 Piso,Calle Santa Barbara 1,152853,2,71
 Chalet,Poblete,179000,3,94
 Piso,Puerta de Toledo - Atalaya,240000,3,16
-Chalet,Carrion de Calatrava,215000,3,18.000
+Chalet,Carrion de Calatrava,215000,3,18000
 Chalet,Calle Esparragal con calle Las Veredas s/n,175000,3,95
 Piso,El Perchel,150000,4,145
 Piso,Plaza de Toros,99000,4,140
@@ -1448,7 +1448,7 @@ Chalet,Ciudad Jardín,230000,4,195
 Casa Rural,Piedrabuena,845000,4,140
 Chalet,Paraje las monjas s/n,155000,3,250
 Piso,Calle Santa Barbara 1,192841,3,80
-Chalet,Carrion de Calatrava,215000,3,18.000
+Chalet,Carrion de Calatrava,215000,3,18000
 Piso,Calle Santa Barbara 1,152853,2,74
 Chalet,Miguelturra,174000,5,210
 Chalet,Larache,299999,4,157
@@ -1588,7 +1588,7 @@ Piso,Miguelturra,68000,3,105
 Casa Rural,Laguna Blanca s/n,85000,6,356
 Chalet,Calle Esparragal con calle Las Veredas s/n,214950,3,120
 Piso,Miguelturra,90000,3,113
-Chalet,Miguelturra,310000,5,4.500
+Chalet,Miguelturra,310000,5,4500
 Chalet,Miguelturra,160000,4,214
 Chalet,Miguelturra,475000,5,550
 Chalet,Miguelturra,129000,3,6
@@ -1606,7 +1606,6 @@ Piso,Calle Pablo Picasso s/n,47000,3,88
 Piso,Miguelturra,95000,2,62
 Chalet,Avenida DE LOS DESCUBRIMIENTOS,79000,4,35
 Chalet,Arenas de San Juan,75000,3,119
-Chalet,"48 hectáreas. • Pozos legalizados: La Confederación Hidrográfica del Guadiana ha autorizado la extracción de un total de 5.500 m3 de agua subterránea. • Rehabilitación de casa-quintería: En mayo de 1994 fue rehabilitada la vivienda con materiales de primera calidad resultando 342 m2 habitables con las siguientes instalaciones: 1. En planta baja cuenta con: cocina salón-comedor cuarto de baño despensa lavadero y trastero por un total de 171 m2 construidos. 2. En planta alta cuenta con: cuatro dormitorios un estudio y un cuarto de baño. 3. Porches con barbacoa (77m2) 4. Dos cocheras(40m2). 5. Caseta-almacén-archivo(80m2). 6. Aljibe- piscina de 50.000m3(68m2). 7. Huerto-gallinero(1.260m2). 8. Casetas de perros(24m2). 9. Jardín con frutales árboles de sombra y caminos pavimentados (1 hectárea). 10.Valla perimetral en más de 3 hectáreas incorporando la superficie forestal. 11. Instalación de riego. 12.Instalación solar fotovoltaica con 56 paneles (4.3 Kw) y grupo electrógeno 15 KVAS de apoyo insonorizado. 13.Instalación de energía solar térmica para agua caliente. 14. Armarios empotrados. 15.Depósito de gas propano y caldera mural de calefacción central y agua caliente 16.Caldera de biomasa (pellets) para calefacción y agua caliente. 17.Huertos ecológicos. • Calificación energética: A Solicita más información llamando al 636.800.641 Carmen.""",926650645,10,559
 Piso,Panaderos s/n,125000,2,64
 Chalet,Miguelturra,110000,5,165
 Piso,CORAZON DE MARIA 17,105000,1,44
@@ -1728,7 +1727,7 @@ Chalet,Zancara,150000,3,100
 Chalet,Puente URBANIZACIÓN EL,170000,5,256
 Chalet,Calle Juan XXIII,160000,6,22
 Piso,Plaza Mayor,190000,2,77
-Chalet,Carretera de Piedrabuena,165000,4,4.300
+Chalet,Carretera de Piedrabuena,165000,4,4300
 Piso,Calle Cuadro,96000,3,106
 Piso,Carretera Toledo s/n,125000,2,68
 Chalet,Calle Magdalena,52000,2,60
@@ -1786,7 +1785,7 @@ Piso,Calle de la Mata 9,260000,4,135
 Chalet,diego de almagro,120000,9,60
 Chalet,Puente URBANIZACIÓN EL,170000,5,256
 Chalet,Calle Almeria,248000,4,70
-Chalet,cerro las cabezas,300000,4,6.680
+Chalet,cerro las cabezas,300000,4,6680
 Piso,Elisa Cendreo,75000,2,65
 Ático,Calle Primero de Mayo,90000,2,15
 Piso,Cantabrico,120000,2,73

@@ -24,7 +24,7 @@ Piso,Calle Inés Pérez de Ceta,290000,3,94
 Piso,Calle de García Barbón,339000,3,12
 Piso,Calle de Ricardo Santos,245000,2,117
 Chalet,Calle Cabalaria 16,750000,8,303
-Chalet,Carretera do Vao 71,749000,6,1.200
+Chalet,Carretera do Vao 71,749000,6,1200
 Piso,Avenida Gran Via,550000,5,272
 Piso,Calle Progreso,235000,2,94
 Ático,Travesía Naia,150000,3,111
@@ -41,7 +41,7 @@ Chalet,Calle Carlos Maside,525000,5,30
 Piso,Calle da Coruña 20,210000,2,90
 Ático,Calle da Falperra,152500,2,6
 Piso,Calle Empalme 7 A,91700,1,58
-Chalet,Camino do Portiño,1199900,5,1.206
+Chalet,Camino do Portiño,1199900,5,1206
 Chalet,Teis,225000,4,300
 Ático,barrio Casablanca - Calvario,195000,3,75
 Piso,Calle do Ecuador,349000,3,120
@@ -62,7 +62,7 @@ Chalet,Calle do Arquitecto Antonio Cominges,2995000,6,234
 Piso,Calle da Coruña,250000,3,81
 Chalet,LUGAR AREAS BORDONS,609000,4,80
 Chalet,Avenida das Camelias,600000,5,172
-Piso,Calle Tomás A. Alonso,198000,3,96
+Piso,Calle Tomás A Alonso,198000,3,96
 Piso,Calle Velázquez Moreno,585000,4,280
 Piso,Calle Mercedes Núñez Targa s/n,260000,3,109
 Piso,Travesía de Vigo,152000,2,83
@@ -70,7 +70,7 @@ Piso,Calle Policarpo Sanz 1,300000,2,70
 Piso,barrio Centro - Areal,720000,3,80
 Ático,Via gran,399000,7,251
 Chalet,Calle Figueiro,775000,6,239
-Chalet,baixada portiño,1200000,5,1.206
+Chalet,baixada portiño,1200000,5,1206
 Piso,Avenida das Camelias 18,118500,1,49
 Piso,Travesía de Vigo 15,150000,3,82
 Piso,Venezuela,485000,4,160
@@ -144,7 +144,7 @@ Piso,Calle da Coruña,250000,3,115
 Chalet,Bueu,852000,4,390
 Chalet,Alexandre Boveda,299000,6,214
 Chalet,San Pedro da Ramallosa,599000,6,232
-Chalet,Camino do Torreiro,610000,5,1.800
+Chalet,Camino do Torreiro,610000,5,1800
 Ático,Calle Madrid,700000,3,118
 Chalet,Camino de Rioboo,750000,8,675
 Chalet,Calle Convento,450000,4,500
@@ -154,7 +154,7 @@ Chalet,barrio Coruxo,649000,6,662
 Piso,Calle Vigo,345000,2,83
 Chalet,Mondariz,2500000,12,3000
 Piso,Avenida de Redondela 148,147000,2,74
-Piso,EP-9211,195000,2,81.14
+Piso,EP-9211,195000,2,8114
 Chalet,Area Peitieiros,285000,3,87
 Piso,Calle Victoria,119000,2,71
 Piso,Carretera Gondar,85000,1,56
@@ -162,7 +162,7 @@ Piso,Calle Conde de Torrecedeira,200000,3,81
 Piso,Avenida García Barbón,295000,4,120
 Chalet,Vinquiño - Vento 162,379000,4,138
 Piso,Avenida Rosalía de Castro 54,160000,3,100
-Chalet,Lameira,595000,5,1.100
+Chalet,Lameira,595000,5,1100
 Chalet,Camino dos Liñares,685000,5,50
 Piso,Calle Zamora,550000,5,280
 Chalet,Camino do Castañal,455000,4,151
@@ -206,7 +206,7 @@ Chalet,Barro Barreiras 17,430000,3,85
 Piso,La Lanzada s/n,126000,1,51
 Piso,Calle Ourense,360000,3,74
 Piso,Calle de García Barbón,295000,4,123
-Chalet,Camino de Bembrive,950000,8,1.550
+Chalet,Camino de Bembrive,950000,8,1550
 Ático,Outeiro -Raxó,150000,2,79
 Piso,Calle San Salvador,599000,6,237
 Piso,Avenida de Balaídos,182000,4,101
@@ -216,7 +216,7 @@ Piso,Calle de Jenaro de la Fuente,169000,2,90
 Chalet,Rabuñade,354000,3,600
 Piso,Calle das Teixugueiras 1,226000,3,88
 Chalet,Calle Ourense,299000,6,227
-Chalet,Rúa do Arquitecto Antonio Cominges,3200000,6,1.300
+Chalet,Rúa do Arquitecto Antonio Cominges,3200000,6,1300
 Piso,Calle Arturo Fontan Bouzas,165000,3,96
 Piso,Calle Abeleira Menéndez,260000,3,110
 Piso,Calle Zamora,515000,5,192
@@ -261,8 +261,8 @@ Piso,Avenida de García Barbón,255000,3,114
 Chalet,Avenida de León,849000,4,354
 Piso,Calle da Ronda de Don Bosco,290000,5,180
 Chalet,Calle de Recanles,1100000,7,430
-Ático,Vicaño.,220000,2,61
-Piso,Calle Tomás A. Alonso,235000,3,85
+Ático,Vicaño,220000,2,61
+Piso,Calle Tomás A Alonso,235000,3,85
 Piso,Calle Pintor Laxeiro,450000,4,14
 Piso,Calle Progreso,160000,3,88
 Piso,Rúa de García Barbón,600000,4,149
@@ -280,12 +280,12 @@ Piso,Calle Uruguay,267500,2,60
 Chalet,Camino da perdiz,595000,7,287
 Piso,Calle Inés Pérez de Ceta,310000,3,96
 Piso,Calle Ponte Dena 5,126000,2,68
-Chalet,Lugar Areas 6,555000,3,614.71
+Chalet,Lugar Areas 6,555000,3,61471
 Piso,Calle de Urzaiz,355000,5,200
 Chalet,Camino Torreiro,610000,5,437
 Piso,Calle de Madrid 18,360000,2,72
 Piso,Avenida Galicia,145000,2,64
-Chalet,PLAYA FRANCON,445000,4,1.537
+Chalet,PLAYA FRANCON,445000,4,1537
 Chalet,Camino Pinténs,580000,4,121
 Piso,Camelias,329000,3,12
 Chalet,Camino Quirós,690000,4,152
@@ -294,7 +294,7 @@ Piso,Calle Becacina,197000,2,75
 Chalet,Camino VIRGEN DE LA ROCA,498000,5,511
 Piso,Calle do Brasil 58,105000,3,112
 Chalet,Calle Redondo,820000,5,167
-Piso,Nicaragua,410000,4,40.000
+Piso,Nicaragua,410000,4,40000
 Piso,Venezuela,497500,4,129
 Duplex,Santa Ana,450000,5,169
 Piso,Avenida das Camelias,199000,2,74
@@ -325,7 +325,7 @@ Casa Rural,Serman s/n,1250000,4,60
 Piso,Calle de García Barbón,405000,3,111
 Chalet,Calle Manuel González Prado,435000,7,268
 Piso,Calle de Pizarro s/n,750000,4,121
-Estudio,Avenida Luis Rocafort.,99500,0,34
+Estudio,Avenida Luis Rocafort,99500,0,34
 Piso,Avenida Teniente Domínguez,170000,2,72
 Chalet,A Fraga s/n,280000,5,166
 Chalet,Lugar Outeiro,275000,5,245
@@ -341,10 +341,10 @@ Chalet,BELESAR s/n,490000,6,1700
 Chalet,Calle Coto do Lobo 9,225000,3,80
 Chalet,Calle Coto do Lobo,225000,4,354
 Piso,Calle das Teixugueiras 1,226000,3,8
-Chalet,Lugar Barcalla - Donas,310000,6,1.450
+Chalet,Lugar Barcalla - Donas,310000,6,1450
 Chalet,Lugar Cima de Vila,205000,3,98
 Piso,barrio Centro - Areal,210000,4,154
-Chalet,Lugar Armada,299000,4,3.000
+Chalet,Lugar Armada,299000,4,3000
 Chalet,Unión,360000,5,193
 Piso,Calle Arzobispo Xelmírez,235000,4,120
 Chalet,Lugar Areiña,470000,4,153
@@ -362,12 +362,12 @@ Chalet,AS GRADES,500000,4,156
 Piso,Calle López Mora,345000,4,137
 Chalet,Calle do Torreiro,650000,4,134
 Piso,Via Norte,245000,5,161
-Chalet,Calle Carregal de Abaixo,259000,7,1.300
+Chalet,Calle Carregal de Abaixo,259000,7,1300
 Piso,Calle TORRECEDEIRA,230000,5,148
 Ático,Calle de Pedro Alvarado,280000,2,25
 Piso,Vilagarcía,299000,3,92
 Piso,Camino Chouzo,176000,1,78
-Chalet,Amorin 47,155000,5,1.2000
+Chalet,Amorin 47,155000,5,12000
 Chalet,Lugar Areas,530000,3,622
 Chalet,as mariñas 9,130000,4,156
 Piso,Calle do Progreso,350000,3,117
@@ -387,7 +387,7 @@ Piso,Avenida da Gran Vía,320000,4,134
 Chalet,Camino Boavista,500000,5,100
 Piso,Calle do Areal,555000,3,92
 Piso,Avenida das Camelias,430000,5,189
-Duplex,Calle Tomás A. Alonso,250000,3,103
+Duplex,Calle Tomás A Alonso,250000,3,103
 Chalet,Calle Penide,329900,5,352
 Chalet,San Pedro da Ramallosa,750000,8,780
 Chalet,Teis,435000,5,184
@@ -401,15 +401,15 @@ Chalet,Lugar O Couto,163000,4,127
 Chalet,Forcadela,259000,5,600
 Chalet,EP-9201,1300000,4,60
 Piso,Plaza Eugenio Fadrique,190000,4,146
-Chalet,pedriñas,330000,5,1.500
+Chalet,pedriñas,330000,5,1500
 Piso,vizcaya,149000,2,60
-Chalet,PO-308,1950000,8,2.317
+Chalet,PO-308,1950000,8,2317
 Piso,Redondela,110000,3,109
 Duplex,Calle Santa Eulalia 5,116000,2,78
 Chalet,Castrelos - Sárdoma,645000,3,98
 Ático,barrio O Castro,399000,7,253
-Chalet,Redondela,340000,3,7.581
-Casa Rural,Camos,1700000,7,6.681
+Chalet,Redondela,340000,3,7581
+Casa Rural,Camos,1700000,7,6681
 Piso,barrio Pz Independencia,380000,5,208
 Chalet,Calle do Castro 53,325850,4,126
 Duplex,barrio Centro - Areal,600000,3,81
@@ -423,12 +423,12 @@ Casa Rural,Moaña,900000,5,500
 Casa Rural,Figueiro s/n,130000,4,2100
 Piso,barrio Centro - Areal,685000,5,192
 Chalet,Aldán,295000,4,150
-Chalet,Paseo Monte da Garda,2150000,9,1.127
+Chalet,Paseo Monte da Garda,2150000,9,1127
 Piso,Calle Santa Tegra,120000,1,45
 Chalet,Silleda,270000,4,132
 Piso,Via GRAN VÍA,450000,5,195
 Chalet,O Rosal,184000,3,111
-Casa Rural,curro,290000,6,11.000
+Casa Rural,curro,290000,6,11000
 Chalet,Baiona,390000,5,40
 Piso,Teis,150000,3,111
 Piso,barrio Berbés - Peritos,220000,3,88
@@ -454,7 +454,7 @@ Chalet,Transfonte de ons,240000,3,83
 Duplex,Calle Campo de Arriba,124000,4,154
 Chalet,Calle Seixalvo,650000,4,152
 Piso,Avenida de Balaídos,159800,3,106
-Piso,Paseo DR. JESÚS DURÁN TRONCOSO,275000,2,80
+Piso,Paseo DR JESÚS DURÁN TRONCOSO,275000,2,80
 Chalet,Lugar Casal,350000,4,160
 Piso,Calle Augusto González Besada 17,114000,3,97
 Piso,Travesía José Fariña Jamardo,239000,2,71
@@ -471,18 +471,18 @@ Estudio,Calle Santa Tegra,120000,0,49
 Piso,Calle Loureiros 1,169900,4,125
 Chalet,Calle Paxarinas 16 A,550000,3,92
 Piso,Calle de Oporto Vigo,330000,2,45
-Piso,Camino Fianteira 12 A,168000,2,123.45
+Piso,Camino Fianteira 12 A,168000,2,12345
 Chalet,Calle J,329000,3,210
 Chalet,Calle da Fonte Santa,525000,5,180
 Chalet,Calle Arquitectos Castro e Alonso 1,599000,4,140
 Duplex,Calle Perú 4 -2,520000,4,268
 Piso,Sanxenxo,300000,3,103
-Chalet,Lugar de Costiña Rouxique.,495000,4,129
+Chalet,Lugar de Costiña Rouxique,495000,4,129
 Piso,Avenida da Coruña,165900,2,65
 Piso,Sanxenxo,300000,3,110
 Estudio,Calle Alemania Monteporreiro 62,75000,0,26
 Chalet,VILARCHAN,325000,5,237
-Chalet,Calle da Serra Poñente,175000,4,2.000
+Chalet,Calle da Serra Poñente,175000,4,2000
 Ático,Carretera Balsa,260000,4,200
 Chalet,Aldea Castro 34,344000,6,231
 Piso,García Barbón s/n,295000,4,143
@@ -504,7 +504,7 @@ Piso,Calle Colón,465000,3,225
 Chalet,Tomiño,180000,4,1600
 Chalet,Zona Plaza de Barcelos,420000,4,150
 Piso,Vilagarcía,205000,3,135
-Chalet,PO-551,1000000,4,2.000
+Chalet,PO-551,1000000,4,2000
 Chalet,Avenida de Vilariño,499000,5,179
 Chalet,Castrelos - Sárdoma,399999,4,146
 Piso,Calle Coruña,139000,2,30
@@ -516,18 +516,18 @@ Chalet,Sanxenxo,730000,4,156
 Chalet,Barrio Illa Toralla,2225000,9,547
 Piso,Calle de Nicaragua,410000,5,180
 Chalet,Noalla,269999,8,70
-Chalet,Pazo,300000,10,4.000
+Chalet,Pazo,300000,10,4000
 Piso,Avenida de las Camelias,299000,10,450
 Casa Rural,Paseo Maritimo,1200000,5,179
 Chalet,Moaña,500000,4,140
 Chalet,Calle canido,1100000,4,125
-Chalet,Zona María Victoria Moreno,340000,4,1.600
+Chalet,Zona María Victoria Moreno,340000,4,1600
 Piso,Calle Manolo Martínez,179000,3,102
 Chalet,Calle de Arquitecto Gómez Román,990000,4,140
-Duplex,Calle Méndez Nuñez.,220000,3,22
+Duplex,Calle Méndez Nuñez,220000,3,22
 Piso,Avenida de las Camelias,299000,10,697
 Casa Rural,Paseo Maritimo,1200000,5,179
-Chalet,Pazo,300000,10,4.000
+Chalet,Pazo,300000,10,4000
 Piso,Calle Cobián Roffignac,350000,5,173
 Piso,Calle Mercedes Núñez Targa s/n,177000,1,50
 Duplex,Calle Enrique Lorenzo,325000,4,144
@@ -573,7 +573,7 @@ Piso,Calle Eugenio Krapf,259900,4,149
 Piso,Avenida do Fragoso 42,150000,3,110
 Piso,Parque Rúa Faisán s/n,193500,2,71
 Ático,Calle Martínez Padín,189900,2,25
-Chalet,CR ZAMANS-ZAMANS 104 Polígono 186 Parcela 443 002500200NG26G CURRAS. 36310 VIGO (PONTEVEDRA),422500,5,192
+Chalet,CR ZAMANS-ZAMANS 104 Polígono 186 Parcela 443 002500200NG26G CURRAS 36310 VIGO (PONTEVEDRA),422500,5,192
 Piso,Plaza da independencia,345000,3,102
 Chalet,Percibilleira,420000,4,159
 Piso,Calle Miño,110000,3,119
@@ -603,7 +603,7 @@ Piso,Avenida de Buenos Aires s/n,136200,1,51
 Piso,Calle Ecuador 73,388000,3,110
 Piso,Calle das Teixugueiras 1,226000,3,120
 Piso,Calle das Teixugueiras 1,226000,3,116
-Chalet,aldea CANELAS 55,1200000,5,291.40
+Chalet,aldea CANELAS 55,1200000,5,29140
 Chalet,Calle Lugar Igrexa s/n,450000,4,500
 Chalet,Camino do Foro 9,150000,3,100
 Piso,Calle das Teixugueiras 1,226000,3,95
@@ -629,7 +629,7 @@ Piso,Calle Augusto González Besada,114000,3,128
 Chalet,Camino Peinador - Os Valos s/n,250000,4,139
 Chalet,Calle Penis 104,190000,4,64
 Chalet,Camino da Pandiña 104,900000,5,195
-Chalet,Torre,675000,5,3.000
+Chalet,Torre,675000,5,3000
 Piso,Vigo,295000,2,61
 Ático,Calle Ramón Encinas 110,145000,3,82
 Chalet,Calle do Progreso 53,495000,6,210
@@ -640,7 +640,7 @@ Piso,Avenida Outeiro 26,118250,2,68
 Ático,Avenida Outeiro 26,141900,2,72
 Chalet,Progreso 162,379000,4,122
 Chalet,Camino da Pandiña 104,900000,5,200
-Chalet,Solleiro 1,299000,7,3.000
+Chalet,Solleiro 1,299000,7,3000
 Chalet,Calle do Progreso 53,495000,6,200
 Ático,Avenida Outeiro 26,246510,3,25
 Piso,Vigo,295000,2,80
@@ -660,11 +660,11 @@ Piso,Avenida OUTEIRO 26,117260,3,98
 Piso,Calle de Zaragoza,199000,2,64
 Chalet,Camino Dos Eiros s/n,485000,3,278
 Ático,Calle Santa Ana 5,450000,5,30
-Chalet,Camino da Igrexa Vella,1245000,5,1.660
+Chalet,Camino da Igrexa Vella,1245000,5,1660
 Piso,Calle Vigo 14,345000,2,20
 Piso,Avenida Lugar Funchidos 2,125000,3,81
 Piso,Avenida da Atlántida 102,295000,2,70
-Chalet,Camino Sandian s/n,470000,5,2.600
+Chalet,Camino Sandian s/n,470000,5,2600
 Piso,Lugar a Relva 38,123000,2,78
 Chalet,Carretera da Balsa s/n,520000,6,235
 Piso,Avenida de Redondela 148,155000,2,74
@@ -672,15 +672,15 @@ Piso,Plaza INDEPENDENCIA 7,345000,3,80
 Piso,Calle Vigo 14,295000,2,26
 Piso,barrio Centro - Areal,1165500,4,131
 Chalet,Calle de Cabicastro,449000,3,99
-Piso,Camino Fianteira,168000,2,82.14
+Piso,Camino Fianteira,168000,2,8214
 Piso,Avenida de Redondela 148,151000,2,63
 Piso,Calle Progreso,135000,3,120
-Piso,Plaza Aurelio Lores.,135000,2,70
+Piso,Plaza Aurelio Lores,135000,2,70
 Chalet,Avenida Castelao 57,549000,5,173
 Chalet,Calle Lugar San Brais,199900,4,146
 Chalet,Calle Urbanización Brisa Romana s/n,390000,5,194
-Piso,Av. Buenos Aires,115000,1,50
-Chalet,Camino Sandian s/n,470000,5,2.600
+Piso,Av Buenos Aires,115000,1,50
+Chalet,Camino Sandian s/n,470000,5,2600
 Piso,Calle Progreso,135000,3,81
 Chalet,Calle Urbanización Brisa Romana s/n,390000,5,164
 Chalet,Poio,499000,5,165
@@ -709,7 +709,7 @@ Chalet,Soldecasa 3,98000,3,270
 Chalet,Candean - Cabral,370000,4,149
 Piso,barrio Plaza España - Corte Inglés,320000,3,106
 Chalet,Calle Progreso 14,185000,6,247
-Chalet,O Rebel s/n,1900000,22,5382.22
+Chalet,O Rebel s/n,1900000,22,538222
 Ático,Calle Caldas de Reis,145000,3,86
 Casa Rural,Lugar Fondevila,42000,1,94
 Piso,Avenida Fernando Conde 131,125000,3,40
@@ -737,7 +737,7 @@ Piso,Vista Alegre,208000,2,67
 Piso,Calle de García Lorca,140000,3,99
 Piso,Jenaro de la Fuente,260000,3,91
 Chalet,Calle Reveriano Soutullo,85000,3,109
-Chalet,Barro,245000,0,5.711
+Chalet,Barro,245000,0,5711
 Ático,Avenida Gran Via,399000,7,264
 Chalet,Villalonga,330000,4,337
 Piso,Calle Pintor Lugrís,250000,4,151
@@ -753,7 +753,7 @@ Casa Rural,Lugar Paravedra,30000,1,368
 Chalet,Camino de Zamáns 104,397500,5,215
 Chalet,Silleda,290000,5,150
 Piso,Calle Zaragoza,196000,2,68
-Casa Rural,Rochiñas,55000,0,1.533
+Casa Rural,Rochiñas,55000,0,1533
 Piso,Avenida de García Barbón,295000,4,144
 Chalet,Calle Aranza,240000,6,1200
 Piso,Calle do Conde de Torrecedeira,230000,5,167
@@ -765,7 +765,7 @@ Piso,Calle Canario,200000,3,101
 Chalet,Lugar Lusquiños,242200,7,309
 Piso,Calle Llorente,165000,3,69
 Piso,Avenida das Camelias,329000,3,143
-Piso,Isla de La Toja s/n,500000,5,65.000
+Piso,Isla de La Toja s/n,500000,5,65000
 Chalet,Calle Areacova,495000,3,86
 Piso,Aragón,159000,2,78
 Ático,Brasilino Alvarez 1,89000,2,69
@@ -781,7 +781,7 @@ Piso,Avenida Sanjurjo Badía,150000,3,109
 Piso,Calle Cesáreo González,330000,4,10
 Piso,Paseo Matutino 40 -52,90820,3,89
 Casa Rural,Lugar a Lomba 36,59000,3,137
-Chalet,antime,240000,4,2.400
+Chalet,antime,240000,4,2400
 Chalet,Lugar Touceda,180000,3,92
 Chalet,ILLA CANOSA 79,320000,5,175
 Chalet,Miradores de la Toja,1800000,5,163
@@ -792,9 +792,9 @@ Chalet,Piñeiro,320000,4,130
 Ático,Calle do Profesor Hermida,350000,2,62
 Chalet,Brandufe,360000,5,187
 Chalet,Camino Boavista,500000,5,169
-Chalet,abetos s/n,1150000,7,4.450
+Chalet,abetos s/n,1150000,7,4450
 Chalet,Camino sen nome,595000,4,137
-Chalet,Camino do Galleiro,389000,5,2.600
+Chalet,Camino do Galleiro,389000,5,2600
 Chalet,LUGAR AREAS BORDONS,565000,4,89
 Chalet,Calle Albores Pequeno,585000,7,900
 Chalet,Camino das Laxes,450000,0,209
@@ -818,7 +818,7 @@ Chalet,Camino Sanín,350000,3,83
 Chalet,Calle Senín,160000,5,199
 Ático,Calle do Profesor Hermida,350000,2,73
 Casa Rural,Rio Da Vila,180000,3,850
-Chalet,As Lombas,199000,6,1.000
+Chalet,As Lombas,199000,6,1000
 Chalet,Lugar Vilardematos,225000,7,450
 Chalet,Brandufe,360000,5,172
 Chalet,Lugar Arra,699000,4,126
@@ -861,7 +861,7 @@ Piso,Corredoira 50,79800,2,67
 Piso,Travesía Aragón,185400,3,99
 Piso,Calle Padre Feijóo,280000,4,124
 Chalet,Nantes,395000,7,287
-Chalet,Lugar O Pombal,900000,5,2.750
+Chalet,Lugar O Pombal,900000,5,2750
 Piso,Calle Hernán Cortés,255000,3,94
 Piso,Calle Vázquez Varela,275000,4,121
 Piso,Calle María Berdiales,220000,3,92
@@ -886,13 +886,13 @@ Chalet,Camino dos Liñares,475000,4,350
 Piso,Avenida de Madrid 11,375000,3,101
 Piso,Calle Porto Rico,239000,4,165
 Piso,Calle do Brasil,255000,3,101
-Casa Rural,Freixeiro,380000,3,2.897
+Casa Rural,Freixeiro,380000,3,2897
 Chalet,Calle das Chabarras,440000,4,215
 Chalet,Camino do Galleiro,690000,5,492
-Chalet,A Fraga Couso,280000,5,1.446
+Chalet,A Fraga Couso,280000,5,1446
 Ático,Calle do Ecuador,340000,2,68
 Chalet,Paxariñas,1950000,9,737
-Chalet,Calle de Arquitecto Gómez Román,1175000,4,1.500
+Chalet,Calle de Arquitecto Gómez Román,1175000,4,1500
 Chalet,Pío Troncoso,198000,3,116
 Piso,Calle Vázquez Varela,275000,4,138
 Piso,Avenida de Madrid 11,455000,3,110
@@ -904,7 +904,7 @@ Chalet,Lugar a Gulpilleira,320000,5,143
 Piso,Avenida das Camelias,385000,4,148
 Chalet,Calle Consistorio,360000,5,25
 Piso,Calle Hernán Cortés,255000,3,94
-Chalet,Carregal de Abaixo,259000,6,1.300
+Chalet,Carregal de Abaixo,259000,6,1300
 Piso,Calle do Brasil,245000,3,92
 Piso,Travesía Aragón,185400,3,115
 Duplex,Calle do Doutor Corbal,295000,3,114
@@ -912,9 +912,9 @@ Piso,Calle Arzobispo Xelmírez,235000,4,116
 Chalet,Baiona,450000,3,88
 Chalet,Camino Cerdeira,310000,3,256
 Chalet,Camino do Rolán,475000,5,198
-Chalet,Lugar O Pombal,900000,5,2.750
+Chalet,Lugar O Pombal,900000,5,2750
 Piso,Calle de García Barbón,255000,3,84
-Casa Rural,Calle do Burgo,750000,15,3.610
+Casa Rural,Calle do Burgo,750000,15,3610
 Piso,Calle María Berdiales,220000,3,117
 Chalet,barrio Casablanca - Calvario,80000,3,121
 Piso,Calle Barbeito,117000,1,46
@@ -972,7 +972,7 @@ Piso,Calle do Miradoiro 3,374000,4,151
 Piso,Calle López Mora,190000,3,120
 Chalet,Lugar Carregal de Arriba,135000,4,55
 Piso,Calle do Ecuador,265000,4,103
-Chalet,Calle Costa,799000,6,1.000
+Chalet,Calle Costa,799000,6,1000
 Piso,Calle Doctor Darío Durán Gómez,185000,2,74
 Piso,Paseo de Colon,280000,4,157
 Piso,Calle Joaquín Fernández Sestelo 13 -1,135000,3,113
@@ -1008,7 +1008,7 @@ Chalet,Centro,1000000,5,500
 Piso,Calle López Mora,345000,4,146
 Chalet,Priegue,650000,4,154
 Chalet,Calle de Severino Cobas,460000,6,227
-Ático,Camino Fianteira 12 A,150000,2,2.60
+Ático,Camino Fianteira 12 A,150000,2,260
 Piso,Calle Morcego 1,344000,4,121
 Piso,Calle Areal 120,268000,2,75
 Piso,Avenida Pontevedra 62,220000,2,77
@@ -1044,7 +1044,7 @@ Piso,Calle Colombia,140000,3,96
 Ático,nanin bordons,950000,3,90
 Chalet,Camino do Cabazo,394000,3,220
 Piso,Calle Don Quijote,195000,3,88
-Chalet,Subida a Buraca,550000,4,1.750
+Chalet,Subida a Buraca,550000,4,1750
 Piso,Calle Sarmiento 21,205000,4,140
 Ático,Calle Sanpoio 62,125000,2,66
 Piso,Via Norte,370000,4,132
@@ -1062,16 +1062,16 @@ Piso,Calle de Vigo,219000,3,98
 Piso,Calle da Coruña,159000,2,67
 Chalet,Sanxenxo,1300000,5,195
 Piso,Calle Doutor Loureiro Crespo,159000,2,74
-Chalet,Calle Tomás Mirambell,550000,2,1.455
+Chalet,Calle Tomás Mirambell,550000,2,1455
 Piso,Avenida García Barbón,210000,4,142
 Piso,Calle Santa Tegra,120000,1,48
 Chalet,Lugar a Ribeira,227000,4,114
 Piso,Calle do Brasil,235000,3,101
 Piso,Avenida Gran Vía,260000,4,149
 Chalet,zapateira,600000,3,80
-Chalet,carregal de arriga,260000,4,1.000
+Chalet,carregal de arriga,260000,4,1000
 Piso,Torrecedeira,225000,3,80
-Chalet,Lugar As Sequeiras,218000,3,279.72
+Chalet,Lugar As Sequeiras,218000,3,27972
 Piso,barrio Plaza España - Corte Inglés,348000,3,110
 Chalet,Calle Illa de Ons - San Salvador s/n,395000,4,300
 Piso,garcia barbon,325000,3,84
@@ -1080,11 +1080,11 @@ Chalet,SUBIDA PARADA,435000,5,177
 Chalet,A Guarda,279000,3,507
 Chalet,Calle Illa de Ons - San Salvador s/n,490000,4,300
 Chalet,A Guarda,279000,3,507
-Chalet,carregal de arriga,260000,4,1.000
+Chalet,carregal de arriga,260000,4,1000
 Piso,Torrecedeira,225000,3,106
 Chalet,Calle da Pedralta,186000,2,89
 Ático,Coiro,139000,3,104
-Chalet,Lugar As Sequeiras,218000,3,279.72
+Chalet,Lugar As Sequeiras,218000,3,27972
 Chalet,Piñeiro,350000,3,106
 Estudio,Calle Lepanto,128000,0,46
 Chalet,Calle do Gorgullón,385000,4,156
@@ -1112,11 +1112,11 @@ Chalet,Baiona,950000,5,30
 Piso,barrio Berbés - Peritos,260000,3,9
 Chalet,Redondela,183000,4,144
 Chalet,Cambados,300000,4,138
-Chalet,Teis,450000,7,1.500
+Chalet,Teis,450000,7,1500
 Chalet,Mondariz,650000,5,600
 Piso,barrio Berbés - Peritos,250000,5,200
 Piso,Calle Ponte Arnelas,129000,2,70
-Chalet,Camos,1700000,4,6.681
+Chalet,Camos,1700000,4,6681
 Piso,Pedras negras c s/n,189000,3,91
 Chalet,As Neves,275000,4,5000
 Piso,Calle Santa Tegra 14,120000,1,37
@@ -1131,7 +1131,7 @@ Chalet,Teis,450000,7,350
 Piso,barrio Coia,248000,5,121
 Estudio,Calle da Falperra 44,98000,0,30
 Piso,Ramon Bares,181000,3,103
-Chalet,Camos,1700000,4,6.681
+Chalet,Camos,1700000,4,6681
 Chalet,Cruceiro,199000,4,143
 Piso,Calle Fontoura 26,125000,3,80
 Piso,Pedras negras c s/n,189000,3,91
@@ -1140,7 +1140,7 @@ Piso,Calle do Ecuador,265000,4,110
 Piso,Calle de Tomás Paredes 216,106000,3,117
 Chalet,As Neves,275000,4,5000
 Piso,Calle do Alcalde Rey Daviña,295000,4,158
-Chalet,Valadares - Beade,329000,8,3.063
+Chalet,Valadares - Beade,329000,8,3063
 Piso,Calle Ponte Arnelas,129000,2,74
 Piso,Calle do Areal,255000,2,69
 Chalet,sestelo 7,185000,6,5270
@@ -1195,12 +1195,12 @@ Casa Rural,Lugar Casqueiros 27,38500,2,69
 Piso,Cervantes,405000,3,91
 Chalet,Lugar Toedo,330000,8,4000
 Ático,Calle Luis Vidal Rocha,390000,2,128
-Chalet,Calle de Recanles,1100000,7,3.000
+Chalet,Calle de Recanles,1100000,7,3000
 Piso,Avenida Outeiro,160000,3,114
 Piso,Calle Martín Códax 4,182000,2,80
 Piso,Avenida Gran Via,315000,5,182
 Piso,Avenida dos Loureiros,205000,2,83
-Chalet,Calle de Recanles,1100000,7,3.000
+Chalet,Calle de Recanles,1100000,7,3000
 Piso,TORRECEDEIRA,220000,3,99
 Piso,Calle Martín Códax 4,182000,2,63
 Casa Rural,Lugar Casqueiros 27,38500,2,69
@@ -1209,13 +1209,13 @@ Piso,Cervantes,405000,3,118
 Piso,barrio Plaza España - Corte Inglés,550000,5,182
 Chalet,San Pedro da Ramallosa,580000,6,45
 Chalet,Pereiras- Rabadeiro,385000,4,400
-Chalet,Tomiño,259000,6,1.300
+Chalet,Tomiño,259000,6,1300
 Chalet,barrio Casco Vello,695000,3,100
 Chalet,Bembrive,450000,4,149
 Duplex,Calle de Pura Pérez Prado,280000,3,133
 Piso,Calle do Pracer,125000,1,45
 Chalet,Pereiras- Rabadeiro,365000,4,220
-Chalet,O Hío,580000,4,1.400
+Chalet,O Hío,580000,4,1400
 Chalet,Calle Parada,595000,4,124
 Chalet,Tomiño,650000,10,660
 Chalet,Bembrive,450000,4,158
@@ -1260,7 +1260,7 @@ Piso,Avenida Luis Rocafort 33,240000,2,72
 Chalet,Tomiño,328000,4,127
 Piso,Avenida Luis Rocafort 24,200000,2,76
 Piso,Calle Lugo 10 -2,106320,2,66
-Chalet,Camino Subida Cedeira,950000,3,6.500
+Chalet,Camino Subida Cedeira,950000,3,6500
 Piso,Calle Uruguay,350000,4,125
 Piso,Calle Cristo 28,110000,4,100
 Chalet,Avenida Santa Mariña,200000,4,74
@@ -1268,12 +1268,12 @@ Chalet,Calle Escalinata,215000,5,262
 Chalet,Calle CALDELAS - SOUTO DE ENGARDE 23,122550,4,600
 Chalet,Camino Vella de Madrid,700000,5,1500
 Chalet,Calle Devesa Santa Tegra,190000,5,75
-Chalet,Calle Outeiro,2500000,6,30.000
+Chalet,Calle Outeiro,2500000,6,30000
 Piso,Calle Lepanto,495000,5,184
 Piso,Calle Zamora,199500,4,25
 Piso,Cervantes,375000,3,108
 Chalet,Lugar As Sequeiras 35,218000,3,20
-Ático,Calle Luis A. Mestre 53,153000,3,97
+Ático,Calle Luis A Mestre 53,153000,3,97
 Piso,Menendez Pelayo,135000,3,87
 Chalet,Sobradelo - Rosaleda,107000,1,55
 Piso,Calle da Coruña 11 -1,129500,3,94
@@ -1288,7 +1288,7 @@ Chalet,Lugar Soutullo,340000,4,240
 Duplex,Concepción Arenal 1,220000,4,144
 Ático,canonigo valiño,175000,3,87
 Chalet,Penide,329900,5,185
-Casa Rural,Camino Outeiro de Reboreda,700000,4,11.000
+Casa Rural,Camino Outeiro de Reboreda,700000,4,11000
 Piso,Avenida Hispanidade,148000,1,53
 Piso,Avenida Médico Ballina,145000,2,136
 Piso,Calle Illa Canosa 80,294500,4,35
@@ -1319,7 +1319,7 @@ Piso,Calle FONTOURA 22,97000,2,78
 Piso,Plaza Francisco Fernández del Riego 9,365000,2,94
 Chalet,Calle Santa Lucía 4,180000,2,75
 Piso,Calle Maruja Gutiérrez,43605,3,120
-Chalet,Calle Valado,2500000,16,2.000
+Chalet,Calle Valado,2500000,16,2000
 Chalet,Lugar a Aldea,275000,4,268
 Casa Rural,Camino da Costa do Xenio 17,236500,6,1200
 Piso,Plaza da Curtidoira,295000,3,95
@@ -1334,9 +1334,9 @@ Piso,Calle do Príncipe,200000,5,175
 Chalet,Camino da Landreira,690000,5,162
 Ático,Calle Madrid 56,700000,3,83
 Piso,Calle de Tomás Paredes,106000,3,98
-Chalet,Carretera Barrocas-Valladares,449900,8,1.160
+Chalet,Carretera Barrocas-Valladares,449900,8,1160
 Chalet,Camino de Miranxe,420000,3,103
-Piso,Av. Ramon Nieto,189000,3,103
+Piso,Av Ramon Nieto,189000,3,103
 Chalet,Calle Fuchiños,1200000,5,199
 Chalet,Área,165000,5,270
 Piso,Calle Paio Gómez de Soutomaior,92150,3,122
@@ -1377,10 +1377,10 @@ Piso,Calle Fonte de Ramos 2,295000,3,3
 Piso,Calle da Coruña 26,230000,4,125
 Chalet,Calle do Prado das Barxas,750000,6,300
 Piso,Calle Abeleira Menéndez,260000,3,114
-Chalet,Carretera Barrocas-Valladares,449900,8,1.160
+Chalet,Carretera Barrocas-Valladares,449900,8,1160
 Chalet,Calle Pallanes,220000,2,70
-Chalet,Camino do Correlo,395000,4,7.000
-Chalet,Carregal de arriba,785000,5,10.000
+Chalet,Camino do Correlo,395000,4,7000
+Chalet,Carregal de arriba,785000,5,10000
 Piso,Calle Manuel de Castro 24,121400,1,40
 Chalet,Lugar Sequeiros 11,55000,3,84
 Piso,Avenida BENITO VIGO,125000,3,102
@@ -1389,14 +1389,14 @@ Piso,Plaza de Portugal,350000,3,35
 Piso,Alcalde José Ramón Fontán,320000,3,108
 Piso,PIZARRO,295000,2,67
 Chalet,Lugar As Lombas 24,275000,4,05
-Chalet,Lugar de Borraseiros,495000,6,6.000
+Chalet,Lugar de Borraseiros,495000,6,6000
 Piso,Calle México,235000,2,62
 Piso,Calle de Pi y Margall,395000,4,156
 Chalet,Lugar Coruxeira 39,160000,3,84
 Chalet,Calle Doctor Martín Lago,167000,3,90
 Chalet,Camino da Balsa,550000,5,166
-Chalet,Eidos,550000,5,2.000
-Chalet,Camino do Vao,749000,6,1.200
+Chalet,Eidos,550000,5,2000
+Chalet,Camino do Vao,749000,6,1200
 Chalet,Calle Gorgoreiro 85,165000,3,88
 Chalet,Vilares,450000,5,357
 Piso,Calle Brasil,247000,4,147
@@ -1412,7 +1412,7 @@ Chalet,Camino de Parada,435000,5,173
 Chalet,Lugar Sequeiros 11,55000,3,102
 Chalet,Borreiros,650000,4,150
 Piso,Calle Manuel de Castro 24,121400,1,60
-Chalet,Camino do Correlo,395000,4,7.000
+Chalet,Camino do Correlo,395000,4,7000
 Piso,BENITO VIGO,125000,3,113
 Chalet,Mos,120000,3,118
 Piso,Calle do Ecuador,378000,3,83
@@ -1421,7 +1421,7 @@ Chalet,N-550,298000,3,120
 Chalet,Lugar cabo da rańa 11,185000,3,13848
 Ático,Travesía Oliva 4,38000,1,122
 Chalet,Calle os Eidos 3,380000,4,144
-Piso,Calle Trovador Xoán García de Guillade 24,155000,3,106.00
+Piso,Calle Trovador Xoán García de Guillade 24,155000,3,10600
 Piso,Calle de Nicaragua,239000,3,95
 Piso,Calle de Venezuela,497500,4,45
 Piso,Calle Xulián Estévez 8,169000,3,99
@@ -1431,7 +1431,7 @@ Chalet,Lugar O Tombo,675000,4,125
 Chalet,Calle dos Ferreiros 9,89000,6,321
 Chalet,Tabagón s/n,170000,3,89
 Piso,Calle de Madrid,360000,2,67
-Chalet,Mondariz-Balneario,300000,5,3.200
+Chalet,Mondariz-Balneario,300000,5,3200
 Duplex,Camino de Frían,250000,4,159
 Piso,Calle do Brasil,110000,1,59
 Piso,Sanxenxo,230000,2,76
@@ -1451,7 +1451,7 @@ Piso,Calle de Luis Taboada,617000,5,174
 Chalet,Calle Riveiro,139000,5,336
 Chalet,Lugar O Contrasto,273000,4,294
 Piso,Travesía de Vigo,200000,3,111
-Chalet,Calle Tui,155000,5,1.235
+Chalet,Calle Tui,155000,5,1235
 Chalet,Calle Gondomar,195000,4,272
 Chalet,Calle Ramón Peinador,165000,5,199
 Piso,Calle do Couto,360000,3,112
@@ -1483,11 +1483,10 @@ Chalet,Lugar a Igrexa,450000,5,161
 Piso,Calle Don Pedro,450000,3,110
 Chalet,Calle Casal de Arriba,270000,4,250
 Piso,Avenida santa mariña 24,139000,3,103
-Piso,. envíanos un mensajito y te contestamos siempre DALE sin compromiso! . PARA MÁS INFO: Senén Lomba - Visítelo sin compromiso. 0% Comisión a compradores para este activo. IKESA Real Estate informa que no cobra comisión de ningún tipo por inmuebles procedentes de Entidades Financieras y Fondos de Inversión así como producto de Obra Nueva. El precio no tiene incluido aquellos gastos que por Ley le pudiera corresponder a la parte adquirente tales como ITP IVA Notaría y Registro. Estamos en VIGO: c/Velázquez Moreno nº17,"1º.""",856630034,638
 Chalet,Casal,225000,3,150
 Chalet,PO-350,210000,4,248
-Casa Rural,Bouza Da Laxe,570000,5,1.900
-Chalet,Calle Illa de Ons,590000,4,54
+Casa Rural,Bouza Da Laxe,570000,5,1900
+Chalet,Calle Illa de Ons,590000,4,254
 Chalet,Lugar Sar,127000,1,51
 Piso,Calle Llorente,165000,3,69
 Piso,Avenida de Ramón Nieto,335000,6,229
@@ -1523,7 +1522,7 @@ Piso,Calle Calvario,115000,3,101
 Chalet,Lugar Carregal de Abaixo,195000,3,165
 Piso,torrecedeira 38,220000,3,89
 Piso,Calle Taboada Leal 11,249000,3,137
-Casa Rural,Bouza Da Laxe,570000,5,1.900
+Casa Rural,Bouza Da Laxe,570000,5,1900
 Piso,Calle Vázquez Varela,260000,5,142
 Piso,Calle Llorente,165000,3,69
 Piso,A Guarda,79000,1,10
@@ -1543,7 +1542,7 @@ Chalet,O Muiño,330000,5,179
 Piso,Calle Doutor Clemente Echeverría Novoa,170000,3,95
 Piso,Avenida de Vigo,360000,4,150
 Chalet,Avenida Chancelas,165000,3,112
-Chalet,Camino Lugar Eidos,550000,5,2.245
+Chalet,Camino Lugar Eidos,550000,5,2245
 Chalet,Pontevedra,430000,4,130
 Duplex,barrio Camelias - Pi y Margall,299000,6,225
 Piso,Plaza isabel la catolica,300000,4,145
@@ -1579,11 +1578,11 @@ Chalet,PO-552,140000,4,129
 Chalet,Barro San Miguel,240000,5,87
 Piso,Calle Llorente,165000,3,86
 Piso,venezuela,299000,3,80
-Chalet,Moraña,195000,4,5.312
+Chalet,Moraña,195000,4,5312
 Chalet,Calle Gaifar,385000,4,160
 Piso,Calle de Sanjurjo Badía,130000,4,153
 Chalet,Ponteareas,33000,0,45
-Chalet,Calle de Atín,58000,3,2.153
+Chalet,Calle de Atín,58000,3,2153
 Piso,Calle Policarpo Sanz,325000,2,79
 Piso,Calle Manuel Rodríguez,120000,2,71
 Piso,Camino do Sobreiro,155000,1,43
@@ -1614,18 +1613,18 @@ Chalet,Pancenteo,239000,3,600
 Piso,Calle Llorente,165000,3,69
 Chalet,Mondariz-Balneario,245000,4,138
 Casa Rural,Lalin,395000,5,309
-Chalet,Paseo Cronista Xosé M. Álvarez Blázquez,690000,3,88
+Chalet,Paseo Cronista Xosé M Álvarez Blázquez,690000,3,88
 Chalet,Poblado Trasdovalo 8,85000,3,108
 Chalet,valiñas,325000,4,1305
 Piso,Calle Fonte de Ons 30,165000,2,76
 Piso,Sanxenxo,249000,2,76
-Casa Rural,Calle Ricardo Santos 12,1200000,13,2.566
+Casa Rural,Calle Ricardo Santos 12,1200000,13,2566
 Piso,Calle Zaragoza,125000,1,56
 Chalet,Salvaterra de Miño,179000,4,122
 Piso,Calle Llorente,165000,3,116
 Chalet,Avenida de Samil,1250000,6,223
 Chalet,O Porriño,235000,3,106
-Chalet,Pombal (do) Louredo,175000,2,6.000
+Chalet,Pombal (do) Louredo,175000,2,6000
 Piso,Calle de Asturias,110000,1,59
 Piso,Calle do Almirante Méndez Núñez,176000,3,92
 Piso,Soutomaior,94400,3,114
@@ -1636,11 +1635,11 @@ Piso,Calle Emilio Alonso Paz 20,53000,1,60
 Piso,O Porriño,110000,4,147
 Chalet,portelo,435000,5,197
 Chalet,Moraña,500000,5,400
-Chalet,Calle do Gandarón 21,145000,2,1.347
+Chalet,Calle do Gandarón 21,145000,2,1347
 Piso,Via del Norte,240000,3,113
 Chalet,Camino Fontela,875000,5,163
 Piso,Calle Zaragoza,125000,1,60
-Casa Rural,Calle Ricardo Santos 12,1200000,13,2.566
+Casa Rural,Calle Ricardo Santos 12,1200000,13,2566
 Chalet,valiñas,325000,4,1305
 Piso,zamora,550000,5,169
 Chalet,Valadares - Beade,350000,3,15
@@ -1656,7 +1655,7 @@ Chalet,Lugar de Os Currás 9,95000,3,240
 Piso,Sanxenxo,185000,2,78
 Piso,barrio Camelias - Pi y Margall,118500,1,60
 Piso,Bordóns-Dorrón,317000,3,92
-Chalet,Oia,1100000,6,1.700
+Chalet,Oia,1100000,6,1700
 Chalet,Comesaña - Matamá,430000,4,149
 Chalet,Calle Diego Carmona,350000,0,36
 Piso,Calle de Urzaiz,155000,2,67
@@ -1680,7 +1679,7 @@ Piso,Soutomaior,160000,2,80
 Piso,barrio Pz Independencia,199500,4,158
 Piso,A Guarda,119000,4,130
 Chalet,O Carril - Bamio,350000,7,283
-Chalet,Camino Urxeira,700000,4,382.23
+Chalet,Camino Urxeira,700000,4,38223
 Chalet,Marin,750000,6,35
 Chalet,Bembrive,396000,4,146
 Duplex,Teis,200000,4,129
@@ -1695,7 +1694,7 @@ Chalet,As Neves,495000,4,129
 Piso,Calle de Eduardo Iglesias,575000,6,225
 Chalet,La Toja s/n,1800000,4,750
 Piso,Soutomaior,160000,2,75
-Chalet,Oia,1100000,6,1.700
+Chalet,Oia,1100000,6,1700
 Chalet,Redondela,385000,4,121
 Chalet,barrio Saiáns,285000,3,185
 Chalet,O Carril - Bamio,210000,3,95
@@ -1712,12 +1711,12 @@ Chalet,Tomiño,163000,3,104
 Piso,Arealonga,170000,3,95
 Chalet,O Carril - Bamio,120000,4,159
 Piso,barrio Plaza España - Corte Inglés,239000,4,155
-Casa Rural,Valadares - Beade,370000,7,1.103
+Casa Rural,Valadares - Beade,370000,7,1103
 Piso,Calle Real,180000,1,55
 Chalet,A Guarda,325000,3,50
 Chalet,Bembrive,420000,7,283
 Chalet,Arbo,160000,3,110
-Chalet,Bueu,2500000,16,2.000
+Chalet,Bueu,2500000,16,2000
 Piso,Adina-Portonovo,225000,3,93
 Piso,barrio Pz Independencia,350000,3,189
 Chalet,Coiro,450000,4,138
@@ -1738,7 +1737,7 @@ Piso,Arealonga,170000,3,97
 Piso,barrio Casablanca - Calvario,165000,1,46
 Piso,Avenida A Barca 30,180000,3,80
 Piso,barrio Plaza España - Corte Inglés,239000,4,125
-Casa Rural,Valadares - Beade,370000,7,1.103
+Casa Rural,Valadares - Beade,370000,7,1103
 Chalet,Gorgoreiro,140000,4,154
 Chalet,A Cañiza,275000,4,2680
 Piso,barrio As Travesas - Balaídos,165000,2,70

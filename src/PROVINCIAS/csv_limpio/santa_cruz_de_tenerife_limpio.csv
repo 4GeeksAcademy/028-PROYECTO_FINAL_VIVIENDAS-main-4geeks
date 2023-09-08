@@ -7,7 +7,7 @@ Piso,Calle los Molinos 1,295000,3,126
 Piso,Calle Elías Ramos González,900000,6,295
 Chalet,Adalberto Benitez Togores,1200000,9,600
 Ático,Playa de las Américas,385000,1,41
-Piso,C. Juan Pablo II 23 38004 Santa Cruz de Tenerife 23,345000,4,157
+Piso,C Juan Pablo II 23 38004 Santa Cruz de Tenerife 23,345000,4,157
 Piso,La Catedral 16,253000,3,109
 Piso,Calle Juan Pablo I,119900,2,61
 Piso,Avenida Arquitecto Gómez Cuesta 4,199000,1,44
@@ -16,13 +16,13 @@ Chalet,Calle Juan de Miranda 11,469999,5,170
 Chalet,Carretera General Tejina-Tacoronte 181,475000,4,157
 Chalet,Calle de Perez Soto 8,315000,5,184
 Chalet,Camino el Pino 24,475000,3,320
-Chalet,Calle Doctor Planelles 1,920000,5,4.000
+Chalet,Calle Doctor Planelles 1,920000,5,400
 Duplex,Calle Abinque 24,212000,2,73
 Chalet,Calle la Cabezada 14,354999,6,253
 Piso,Calle Lacio 12,134950,2,72
-Chalet,Calle el Draguito 67,415000,2,17.137
+Chalet,Calle el Draguito 67,415000,2,17
 Chalet,Calle la Chercha s/n,225000,2,72
-Chalet,Calle Buen Viaje s/n,400000,2,5.145
+Chalet,Calle Buen Viaje s/n,400000,2,51
 Chalet,Calle Atabara s/n,360000,4,157
 Chalet,Avenida Valle San Lorenzo 30,337000,3,88
 Chalet,Calle de Las Higueras s/n,439700,3,160
@@ -49,7 +49,7 @@ Piso,Calle Eladio Roca Salazar 1,188000,3,92
 Chalet,Calle Aires de Lima,273500,5,161
 Ático,Calle Meandro,389000,2,80
 Ático,Marazul,925000,2,79
-Chalet,Calle Barranco del Inglés,5750000,6,2.700
+Chalet,Calle Barranco del Inglés,5750000,6,2700
 Piso,Calle jesus luis perez 1,133000,3,116
 Chalet,Costa del Silencio-Las Galletas,318000,3,105
 Piso,Calle Castro 25 Esquina General Serrano,315000,3,98
@@ -76,7 +76,7 @@ Piso,Calle San Nicomedes,112000,1,50
 Ático,barrio Torviscas Bajo,330000,1,52
 Piso,822260564,Marazul,632000,200
 Chalet,El Salto-Los Blanquitos,620000,2,72
-Piso,Calle Fernando H. Guzmán,330000,3,87
+Piso,Calle Fernando H Guzmán,330000,3,87
 Piso,Calle Armiche,217000,1,50
 Piso,Calle del castillo 14,224000,2,75
 Chalet,Callao Salvaje,915000,2,70
@@ -104,7 +104,7 @@ Piso,Avenida reyes católicos 4,390000,3,113
 Chalet,Calle Luxemburgo 6,1900000,3,98
 Duplex,Calle Nila,138000,3,103
 Piso,Ramon baudet Grandi 1,490000,5,177
-Chalet,Urb. La primavera s/n,715000,2,67
+Chalet,Urb La primavera s/n,715000,2,67
 Chalet,Calle Aseró,285000,4,83
 Chalet,Urbanizacion los Naranjos 25,598000,3,105
 Chalet,Calle San Borondon 50,300000,2,35
@@ -128,7 +128,7 @@ Chalet,Calle Alvaro Martin Diaz,299000,5,165
 Chalet,Calle Nispero,230000,4,300
 Chalet,Calle SANTA ÁGUEDA,550000,7,35
 Chalet,Carretera Portezuelo las Toscas,585000,3,100
-Chalet,Barrial de Abajo,415000,3,1.650
+Chalet,Barrial de Abajo,415000,3,1650
 Chalet,Calle la Real 20,495000,6,200
 Casa Rural,La Cruz,125694,2,117
 Piso,Calle del Hibisco s/n,245000,2,72
@@ -181,7 +181,7 @@ Piso,Calle juan austria,209000,3,82
 Chalet,Avenida Flamingo,893000,2,300
 Piso,Calle Montaña Chica 1,215000,1,8
 Chalet,La Cuesta,169000,4,159
-Piso,6.calle Odisea 110,190000,1,76
+Piso,6calle Odisea 110,190000,1,76
 Ático,Calle Boston s/n,235000,2,53
 Chalet,Los Realejos-Icod El Alto,150000,3,98
 Piso,TFS-041 s/n,252000,1,54
@@ -220,7 +220,7 @@ Piso,Calle Valencia 14,269000,2,72
 Chalet,Calle los Falcones,530000,3,119
 Ático,Calle Isla de Gran Canaria,155555,3,116
 Casa Rural,Camino a la Babosera 5,390000,1,10860
-Chalet,Camino Finca Chigora s/n,3350000,3,48.408
+Chalet,Camino Finca Chigora s/n,3350000,3,48408
 Chalet,Calle el Amparo 28,316500,2,72
 Chalet,Rambla del Mar 17,3800000,5,1000
 Chalet,Calle Volcán Vesubio 19 -1,530000,6,1250
@@ -238,7 +238,7 @@ Chalet,Avenida la Torrita 46,287000,4,226
 Chalet,Calle la Rapadura 5,749000,3,562
 Chalet,Carril de Millete 40,450000,5,325
 Chalet,Camino Hondo 95,230000,3,137
-Chalet,Calle Hermano Apolinar 27,1980000,14,1.166
+Chalet,Calle Hermano Apolinar 27,1980000,14,1166
 Chalet,Calle Volcán Vesubio 23,240000,4,145
 Chalet,Calle la Rapadura 5,749000,3,562
 Chalet,Camino Hondo 95,230000,3,137
@@ -260,7 +260,7 @@ Piso,Calle Charco del Musgo,145000,2,70
 Chalet,Calle Pedro González Gómez,247000,3,110
 Chalet,San Felipe-San Marcos-Las Cañas,299000,2,73
 Chalet,Calle Taco 51,168000,2,476
-Piso,Calle Dr. Barajas,160000,1,49
+Piso,Calle Dr Barajas,160000,1,49
 Piso,suecia 25,230000,1,40
 Chalet,Camino la Habanera 64,360000,4,60
 Piso,Calle Mencey Beneharo,104500,4,150
@@ -298,7 +298,7 @@ Chalet,Tiguerorte 54,270000,3,104
 Piso,Calle mar de fondo s/n,262200,2,63
 Piso,Calle de la Te,338000,1,50
 Piso,Calle Maria Gonzalez Lopez,157000,2,68
-Chalet,Camino TONAZO 21,262800,4,2.882
+Chalet,Camino TONAZO 21,262800,4,2882
 Piso,Pasaje Austria,279000,2,63
 Piso,Rambla de Santa Cruz,302876,2,71
 Piso,Calle Rodeo,283000,1,44
@@ -339,12 +339,12 @@ Duplex,Carretera Provincial 57,295000,3,107
 Chalet,Calle guayadil 4,245000,3,9
 Piso,Calle San Nicomedes 2,112000,1,50
 Chalet,Calle Moraditas I,268000,2,60
-Chalet,Camino Fiesco 43,564800,4,10.790
+Chalet,Camino Fiesco 43,564800,4,10790
 Piso,Calle la Marina 45,455000,4,127
 Chalet,Calle Amapola 85,350000,3,88
 Duplex,Calle Cornical 52,299900,2,80
 Piso,Calle Hercules,140000,2,78
-Chalet,Calle Juan Pérez Marrero 5,230000,2,2.120
+Chalet,Calle Juan Pérez Marrero 5,230000,2,2120
 Casa Rural,Lomo del Bueno 7,136000,2,79
 Chalet,Camino al Parque La Reina s/n,385000,5,191
 Piso,Carretera General Puerto de Santiago,158000,2,74
@@ -360,10 +360,10 @@ Piso,Calle Doctor Celestino Padron,345000,3,93
 Chalet,Calle Pedro José de Mendizabal 11,520000,6,216
 Chalet,Calle Las Palmeras 9,290000,2,108
 Chalet,Camino la Ladera 7,107000,4,147
-Chalet,Carretera GRAL DEL SUR KM 6.5,211000,10,297
+Chalet,Carretera GRAL DEL SUR KM 65,211000,10,297
 Piso,Calle El Velero,269000,3,117
 Piso,Calle Galicia 43,370000,2,70
-Chalet,Camino Fiesco 43,564800,4,10.790
+Chalet,Camino Fiesco 43,564800,4,10790
 Chalet,Calle Amapola 85,350000,3,82
 Chalet,Camino al Parque La Reina s/n,385000,5,164
 Piso,Calle Nieves Ravelo,286000,4,160
@@ -371,7 +371,7 @@ Casa Rural,Calle Lomo de la Medida 14,159000,3,25
 Piso,La Cuesta,175000,3,97
 Piso,Avenida Tres de Mayo 22,355000,3,117
 Piso,Calle San Sebastián,310900,4,149
-Piso,Callejón Buitrago,123000,3,87.51
+Piso,Callejón Buitrago,123000,3,8751
 Piso,Calle Callao Hondo,147000,2,78
 Ático,Avenida Trinidad,291510,2,160
 Chalet,Camino fuente vieja,150000,2,120
@@ -407,7 +407,7 @@ Chalet,El Amparo,795000,6,78
 Piso,buzanada,165000,2,90
 Chalet,Tigalate,155000,3,119
 Piso,Calle Pizarro 6,298000,2,66
-Chalet,Avenida J.M. Galván Bello 5,278000,2,61
+Chalet,Avenida JM Galván Bello 5,278000,2,61
 Chalet,Calvo Sotelo 17,229990,5,415
 Casa Rural,Camino el pino,1300000,6,237
 Piso,Calle la Gaviota,175000,1,70
@@ -417,7 +417,6 @@ Chalet,Calle del Iris,780000,7,265
 Piso,Calle Doctor Guigou s/n,380000,3,135
 Chalet,Lugar Los Perdigones,3400000,6,232
 Ático,Calle Tinguafaya s/n,275000,2,75
-Chalet,"56 m2 de vivienda en la planta baja brindando un amplio espacio habitable. Azotea de 150 m2 con amplia escalera y entrada independiente lo que permite la posibilidad de construir otra vivienda si se desea. Alrededor de 150 m2 de jardín piscina y terraza para disfrutar al aire libre. Extraordinaria terraza con piscina y vistas panorámicas hacia Montaña Negra perfecta para relajarse en los días cálidos y disfrutar de momentos de tranquilidad. Ubicación: Santiago del Teide (Las Manchas) es un municipio situado al suroeste de la isla de Tenerife en la provincia de Santa Cruz de Tenerife. Este lugar se caracteriza por su entorno natural de gran espectacularidad y belleza así como por su clima siempre primaveral. El paisaje de este municipio ha sido reconocido como de Interés Turístico Nacional. Junto al mar impresionan los verticales acantilados de Los Gigantes mientras que en tierra adentro se encuentra el majestuoso pico del Teide con sus 3.718 metros de altura. Además se pueden encontrar la Reserva Natural Especial del volcán del Chinyero y el Parque Natural de Teno. En resumen este chalet unifamiliar ofrece una elegancia incomparable vistas panorámicas y una ubicación privilegiada en Santiago del Teide. Con su entorno natural impresionante y su clima excepcional esta propiedad representa una oportunidad única para disfrutar de una vida sofisticada y tranquila en la hermosa isla de Tenerife.""",828640646,5,195
 Piso,C La Esperanza 4,111000,3,12
 Chalet,Calle Aires de Lima 11,273500,5,189
 Piso,Calle Alcalde Alonso Suárez Melián 30,295000,4,150
@@ -523,7 +522,7 @@ Chalet,Camino el Carril La Vera,160000,6,209
 Piso,Calle Piedra Redonda 10,180000,2,67
 Ático,verode,210000,4,97
 Chalet,Carretera La Zamora 23,330000,3,60
-Chalet,paraje cheguergue 11,198000,3,5.423
+Chalet,paraje cheguergue 11,198000,3,5423
 Piso,pico 22,99800,3,93
 Piso,Calle Bethencourt Afonso,299000,1,90
 Piso,Calle Olimpia,135000,1,47
@@ -541,14 +540,14 @@ Chalet,Calle Virgen de Candelaria,367500,3,91
 Piso,Calle Leoncio Rodrigues 20,107500,2,63
 Chalet,Calle santa catalina 38 B,250000,3,504
 Piso,Odisea 3,175000,1,18
-Chalet,Carretera General,1690000,5,104.000
+Chalet,Carretera General,1690000,5,104000
 Piso,Los seres s/n,239400,1,53
 Piso,Playa Paraíso,179000,1,50
 Piso,Calle Barranquillo de Acentejo,259500,3,91
 Chalet,Playa Paraiso 5,1400000,4,559
 Chalet,La Vega-El Amparo-Cueva del Viento,398000,8,326
 Chalet,Camino La Cañada 106,205000,3,84
-Chalet,Calle la Piedrillas 1,339000,5,1.897
+Chalet,Calle la Piedrillas 1,339000,5,1897
 Chalet,Calle Las cuadras 1,305000,3,137
 Piso,Calle Asturia s/n,230000,2,80
 Piso,Calle el portillo 7,164850,3,110
@@ -593,14 +592,14 @@ Chalet,Lugo y Herrera,169999,4,146
 Chalet,Brena alta 2 s/n,379999,4,152
 Chalet,Calle tabaiba media s/n,598200,3,651
 Ático,Avenida JOSE MANUEL GALVAN BELLO 1,690000,4,148
-Chalet,Camino HI-1 s/n,350000,2,24.000
+Chalet,Camino HI-1 s/n,350000,2,24000
 Chalet,Camino el Sobrado 7,970000,2,70
 Piso,Las Palmeras 15,150000,3,89
 Chalet,Diseminado El Tablado 1 A,125999,3,80
 Chalet,lodero 37,328999,3,97
 Piso,Rambla de añaza,147000,3,101
 Chalet,Camino Real 24,240000,4,143
-Chalet,Camino HI-1 s/n,350000,2,24.000
+Chalet,Camino HI-1 s/n,350000,2,24000
 Chalet,Calle Helsinki,1650000,6,220
 Piso,Calle López López 25,110000,4,131
 Casa Rural,Calle san pedro s/n,899000,4,000
@@ -614,7 +613,7 @@ Chalet,Carretera GENERAL DEL NORTE 177,299500,4,1860
 Chalet,Calle Viana,490000,5,220
 Chalet,Diseminado El Tablado 1 A,125999,3,111
 Casa Rural,Camino EL REVENTÓN s/n,190000,2,45
-Casa Rural,Calle Virgen del Pino 38 A,190000,5,15.748
+Casa Rural,Calle Virgen del Pino 38 A,190000,5,15748
 Chalet,La Curte Bajo 1,1300000,6,228
 Chalet,Calle Gran Canaria,1200000,8,349
 Chalet,Calle Tinguafaya,799000,9,580
@@ -636,9 +635,9 @@ Piso,Carretera General del Rosario,105000,3,99
 Chalet,Calle PUNTA DE LA MANCHA 31,320000,5,166
 Ático,Avenida JOSE MANUEL GALVAN BELLO 1,690000,4,147
 Chalet,Calle tajinaste,435000,4,238
-Chalet,cam. el monte 34,475000,5,400
+Chalet,cam el monte 34,475000,5,400
 Chalet,Camino real 36,299000,3,119
-Chalet,Calle Los Cuartos 21,780000,4,4.550
+Chalet,Calle Los Cuartos 21,780000,4,4550
 Piso,Rambla de añaza,147000,3,98
 Piso,Playa de las Américas,245000,1,43
 Chalet,Avenida DE BELGICA s/n,790000,8,321
@@ -661,7 +660,7 @@ Piso,Tegueste,189000,3,82
 Chalet,Calle Los Cuartos s/n,497700,4,440
 Chalet,Tanque,209000,3,114
 Chalet,Calle san antonio 73,198000,6,224
-Piso,Av.Suecia,230000,1,58
+Piso,AvSuecia,230000,1,58
  271,822260278,Galvan polígono 24,271,676
 Piso,Avenida San Sebastián 74,239400,2,61
 Piso,Avenida San Sebastián 74,213200,1,59
@@ -717,22 +716,22 @@ Piso,Calle Nivaria,169500,3,82
 Chalet,Calle Ceuta,2500000,5,2000
 Chalet,Camino Risco,130000,4,128
 Piso,Camino La Cañada 109,143000,3,113
-Chalet,Camino las Mercedes 184,550000,6,1.143
+Chalet,Camino las Mercedes 184,550000,6,1143
 Chalet,Calle El Drago 15,950000,7,460
-Chalet,Camino las Mercedes 184,550000,6,1.143
+Chalet,Camino las Mercedes 184,550000,6,1143
 Piso,alonso de castro,149900,3,97
 Piso,Carretera Vieja,135000,3,115
 Piso,ASPERULA,129900,3,115
 Piso,Carretera general 59,168000,2,28
 Chalet,GUANICHEMAR,278000,7,262
-Casa Rural,San Isidro s/n,150000,2,4.288
+Casa Rural,San Isidro s/n,150000,2,4288
 Chalet,Calle Tajinaste,435000,4,238
 Duplex,Calle la Tosca,250000,2,80
-Piso,Avenida J.M. Galvan Bello 55,140000,1,56
+Piso,Avenida JM Galvan Bello 55,140000,1,56
 Chalet,AVELLANA 7,298000,5,91
 Chalet,Calle San Bartolomé,146500,3,135
 Chalet,Calle Ecuador,530000,7,279
-Casa Rural,SANTA URSULA CL FARROBILLO Polígono 12 Parcela 145 CRUCITAS. (S.C. TENERIFE),200700,2,46
+Casa Rural,SANTA URSULA CL FARROBILLO Polígono 12 Parcela 145 CRUCITAS (SC TENERIFE),200700,2,46
 Piso,Avenida Trinidad,219000,4,124
 Piso,volcan elena,190000,3,119
 Chalet,Calle El Brezo,462000,4,147
@@ -752,7 +751,7 @@ Chalet,Calle de Cantabria,1690000,4,147
 Piso,SAN ISIDRO,92000,2,78
 Chalet,Avenida republica Argentina 61,570000,3,1636
 Piso,Calle Cristobal de Franchy,279000,3,94
-Chalet,Camino el Pinalillo,356000,3,1.800
+Chalet,Camino el Pinalillo,356000,3,1800
 Estudio,Calle España,99800,0,36
 Piso,Calle El Drago s/n,174000,1,30
 Chalet,Calle Virgen de Candelaria,367500,3,80
@@ -788,7 +787,7 @@ Chalet,Calle Dona,190000,3,96
 Piso,Carretera España,120000,3,112
 Casa Rural,Carretera De España,250000,5,183
 Casa Rural,Camino Cueva del Negro,750000,6,245
-Chalet,Calle el Barbecho,945000,3,5.000
+Chalet,Calle el Barbecho,945000,3,5000
 Piso,Calle de Lope de Vega,182000,3,108
 Chalet,Calle Juan Yanes Perdomo,580000,5,330
 Piso,Calle Almirante Díaz Pimienta 6,280000,3,8
@@ -818,7 +817,7 @@ Chalet,Calle el Bermeano s/n,849000,4,400
 Chalet,Calle la Higuera,890000,8,12000
 Chalet,Calle las Dunas,585000,5,233
 Piso,San Francisco Javier 41,170000,2,10
-Chalet,Avenida J.M. Galván Bello,267777,2,74
+Chalet,Avenida JM Galván Bello,267777,2,74
 Ático,Calle Siempreviva,139000,1,14
 Chalet,Calle Roque Nublo 27,360000,5,227
 Piso,Calle la Lapa 3,209900,2,72
@@ -910,7 +909,7 @@ Piso,Avenida la Arenita,360000,2,72
 Ático,ERESE,174900,3,88
 Casa Rural,Calle de Ángel Arocha,300000,5,1243
 Chalet,CL RIOJA LA,1595000,5,200
-Casa Rural,Salto del Gato,1650000,3,1.229
+Casa Rural,Salto del Gato,1650000,3,1229
 Chalet,Barlovento,177000,2,90
 Piso,Paseo Madrid,230000,1,53
 Casa Rural,Calle la Tosquita,245000,2,74
@@ -925,7 +924,7 @@ Chalet,Breña Baja,575000,4,4400
 Chalet,Calle de Princesa Guacimara,210000,6,214
 Chalet,Camino Urbanización las Rosetas,465000,3,113
 Chalet,Calle el hierro,210000,3,80
-Chalet,Calle Vista Castillo,2800000,6,33.000
+Chalet,Calle Vista Castillo,2800000,6,33000
 Piso,Los Cristianos,220000,1,47
 Piso,Calle San Vicente,149900,3,88
 Piso,Almirante Cervera,119900,2,70
@@ -941,7 +940,7 @@ Chalet,Barrio San Antonio,310000,6,300
 Chalet,Calle Tamaide,367500,4,123
 Chalet,Barrio Arenero,330000,3,89
 Piso,Calle Güímar-Arafo,129000,2,76
-Chalet,Camino la union,575000,5,1.225
+Chalet,Camino la union,575000,5,1225
 Chalet,Cuevecitas-Malpaís,298000,4,284
 Piso,Calle Ibarra,156000,1,55
 Piso,Eduardo Westherdal,132000,2,65
@@ -1019,7 +1018,7 @@ Chalet,La Guancha,299000,4,124
 Piso,Perez Galdos,360000,3,85
 Piso,Calle Landa Golf 1,270000,1,56
 Ático,Rambla de los Menceyes 12,260000,2,65
-Chalet,Calle La Morra,695000,2,1.214
+Chalet,Calle La Morra,695000,2,1214
 Piso,Calle Beirut s/n,690000,3,103
 Piso,Calle Hermano Pedro 24,145000,1,55
 Ático,Avenida Los Abrigos 35 -39,215000,2,80
@@ -1047,7 +1046,7 @@ Piso,Calle Beirut s/n,560000,2,73
 Chalet,Calle El Drago,595000,7,271
 Piso,Avenida Marítima 2,180000,2,76
 Chalet,Calle El Pino,500000,4,267
-Chalet,Calle La Morra,695000,2,1.214
+Chalet,Calle La Morra,695000,2,1214
 Estudio,Ponderosa s/n,175000,0,36
 Piso,Paseo Flor de Mayo 1,101500,3,109
 Chalet,Calle Lirio 11,685000,3,500
@@ -1111,12 +1110,12 @@ Chalet,Sebastián Díaz Castro,698000,5,380
 Piso,TF-28,120000,2,65
 Chalet,Calle Las Erillas,250000,3,120
 Chalet,Ramallo,361950,5,544
-Casa Rural,Las Lagunetas,280000,3,1.100
+Casa Rural,Las Lagunetas,280000,3,1100
 Piso,Tajaraste 1,102000,3,120
 Chalet,El Agua,495000,6,241
 Chalet,Calle Turquesa,299900,5,43
 Piso,Puente El,169000,3,98
-Piso,La Laguna,238500,2,86.51
+Piso,La Laguna,238500,2,8651
 Chalet,Calle Las Crucitas,279900,6,180
 Piso,Calle San Judas Tadeo,126000,3,120
 Piso,Álvarez de Lugo,320000,2,66
@@ -1124,7 +1123,7 @@ Piso,San Isidro,92000,3,84
 Chalet,Avenida Mar Adriático,460000,3,299
 Chalet,Los Reyes,181000,4,138
 Chalet,Carretera General del Norte,219000,3,119
-Casa Rural,Las Lagunetas,280000,3,1.100
+Casa Rural,Las Lagunetas,280000,3,1100
 Chalet,San Vicente,179000,3,148
 Piso,TF-28,120000,2,67
 Chalet,Urbanizacion Montalmar,525000,5,445
@@ -1141,7 +1140,7 @@ Duplex,barrio Torviscas Centro y Alto,410000,2,35
 Chalet,Chayofa,499000,4,124
 Chalet,Calle MILAGROSA 23,220000,7,270
 Casa Rural,Camino preventorio 37,578600,3,113
-Casa Rural,TF-322,1350000,7,20.500
+Casa Rural,TF-322,1350000,7,20500
 Piso,Avenida San Francisco,220000,1,65
 Piso,Los Majuelos-Taco,168550,3,105
 Piso,barrio Playa de Fañabé,599000,1,15
@@ -1198,9 +1197,9 @@ Chalet,Sauzal,550000,6,210
 Estudio,Avenida Familia de Betancourt y Molina,159000,0,41
 Casa Rural,Buen Paso-La Mancha,850000,7,250
 Chalet,La Matanza de Acentejo,295000,3,92
-Piso,av. Nuestra señora del Carmen,169000,2,76
+Piso,av Nuestra señora del Carmen,169000,2,76
 Chalet,La Cisnera,130000,4,75
-Piso,av. Nuestra señora del Carmen,169000,2,80
+Piso,av Nuestra señora del Carmen,169000,2,80
 Piso,Calle Santa Cruz de la Palma 86,125000,2,69
 Chalet,La Guancha,1200000,7,274
 Chalet,Longuera-Toscal,550000,4,644
@@ -1239,7 +1238,7 @@ Piso,Obispo Damián Iguacén,86500,3,112
 Chalet,La Laguna,1200000,7,257
 Ático,Calle de Santiago Cuadrado 6,379000,3,81
 Chalet,Campo de Golf - Agua García - Juan Fernández,380000,4,168
-Piso,barrio Ifara-Las Mimosas,405000,4,238.11
+Piso,barrio Ifara-Las Mimosas,405000,4,23811
 Chalet,Tegueste,465000,3,30
 Piso,Calle Aguilar y Quesada,175000,2,76
 Chalet,barrio Villa Ascensión-El Perú-Cruz del Señor,450000,6,350
@@ -1331,7 +1330,7 @@ Estudio,Calle rodeo 9 s/n,150000,0,50
 Ático,La Marea los cristianos,375000,1,45
 Chalet,TF-583,950000,7,251
 Piso,Breña Alta,165000,2,73
-Duplex,Domingo Perez Minik,252000,4,16.95
+Duplex,Domingo Perez Minik,252000,4,1695
 Piso,Calle Isla de la Alegranza,130000,2,70
 Chalet,Valle Guerra-Tejina,540000,4,50
 Chalet,Montaña-Zamora-Cruz Santa-Palo Blanco,186000,1,41
@@ -1375,9 +1374,9 @@ Duplex,Calle Pizarro,450000,3,120
 Piso,Los Abrigos,215000,2,72
 Chalet,Calle Laura de la Puerta,60000,1,45
 Piso,Calle Enrique Mederos Lorenzo 83,78000,1,54
-Chalet,Avenida J.M. Galván Bello,310000,2,78
+Chalet,Avenida JM Galván Bello,310000,2,78
 Duplex,Avenida Emigrante,227000,2,63
-Chalet,Calle Morra de los Valitos 98,338000,3,2.685
+Chalet,Calle Morra de los Valitos 98,338000,3,2685
 Chalet,Guamasa-Los Baldíos,2200000,5,191
 Piso,Calle de Cairasco 3,250000,2,72
 Chalet,Calle Rector Gumersindo Trujillo 12,320000,4,148
@@ -1420,10 +1419,10 @@ Chalet,barrio Playa de Fañabé,1195000,3,80
 Piso,Calle Pedro Zerolo 50,138000,1,48
 Chalet,barrio Torviscas Centro y Alto,1850000,3,330
 Duplex,Calle Noruega 64,549000,2,69
-Piso,Camino del Burgado Hotel Maritim,159000,1,40.000
+Piso,Camino del Burgado Hotel Maritim,159000,1,40000
 Piso,Calle Minerva,252000,2,65
 Estudio,Avenida Ernesto Sarti,189000,0,41
-Chalet,Playa San Juan,790000,3,6.000
+Chalet,Playa San Juan,790000,3,6000
 Chalet,Puntallana,186000,3,80
 Chalet,Casco Urbano,1365000,3,210
 Chalet,Arico,279900,3,88
@@ -1479,7 +1478,7 @@ Chalet,barrio San Eugenio Alto,550000,4,159
 Chalet,Verodes s/n,270000,4,124
 Piso,Callao Salvaje,250000,2,73
 Piso,Los Cristianos,177450,1,64
-Chalet,J. M. Galván Bello s/n,267500,2,153
+Chalet,J M Galván Bello s/n,267500,2,153
 Chalet,barrio Torviscas Centro y Alto,1595000,4,136
 Piso,Acantilados de Los Gigantes,349000,1,49
 Chalet,barrio La Caleta,5750000,6,243
@@ -1565,13 +1564,13 @@ Chalet,San Miguel de Abona,1280000,4,143
 Piso,Calle de Fermín Morín 1,300000,4,149
 Piso,Calle Barrio Nuevo,340000,1,54
 Piso,Calle Rio Segre 4,120000,3,95
-Chalet,Calle Ramal El Desierto,895000,2,6.500
+Chalet,Calle Ramal El Desierto,895000,2,6500
 Chalet,Calle Ismael Domínguez,220000,4,137
 Chalet,Cruz chica 14,295000,4,149
 Chalet,Golf del Sur-Amarilla Golf,276900,2,61
 Piso,Palm Mar,315000,2,153
 Chalet,Charco del Pino,157000,1,87
-Piso,Avenida J.M. Galván Bello,173500,1,44
+Piso,Avenida JM Galván Bello,173500,1,44
 Chalet,José Víctor Domínguez,360000,5,177
 Piso,Valle San Lorenzo,208000,2,20
 Piso,Los Realejos-Icod El Alto,149000,3,111
@@ -1608,7 +1607,7 @@ Piso,Calle 1,142000,1,57
 Casa Rural,Valle San Lorenzo,545000,11,484
 Piso,ICOD DE LOS VINOS,100000,3,86
 Piso,San Isidro,70000,1,58
-Chalet,Las Cuevas - Los Gómez,550000,4,2.536
+Chalet,Las Cuevas - Los Gómez,550000,4,2536
 Chalet,Calle Calvario,220000,3,87
 Chalet,Avenida austria s/n,930000,2,70
 Chalet,El Durazno,1900000,4,155
@@ -1651,7 +1650,7 @@ Piso,Calle Heraclio Sánchez 27,195000,3,109
 Chalet,Santa Cruz de la Palma,350000,4,130
 Chalet,barrio San Eugenio Alto,790000,4,180
 Chalet,barrio Buenos Aires-Chamberí-Las Moraditas,220000,9,367
-Chalet,Calle Salto del Pino 2,689000,4,14.000
+Chalet,Calle Salto del Pino 2,689000,4,14000
 Estudio,Avenida San Francisco 12,199000,0,49
 Chalet,Hermigua,385000,6,333
 Piso,Calle Minerva 66,220000,1,49
@@ -1664,7 +1663,7 @@ Piso,Los Abrigos,510000,2,80
 Chalet,tristan 20,120000,2,80
 Chalet,barrio Torviscas Centro y Alto,2530000,3,606
 Casa Rural,Lagarete 1,75000,2,75
-Casa Rural,Guia de Isora,577500,5,14.400
+Casa Rural,Guia de Isora,577500,5,14400
 Estudio,Isla de la Gomera,89000,0,32
 Piso,Calle el valle menendez s/n,265000,1,47
 Piso,Casco Urbano,130000,1,54
@@ -1679,7 +1678,7 @@ Chalet,Urbanización San Diego 65,700000,4,156
 Piso,Calle Francia,220500,1,65
 Piso,Calle Venezuela 2,142000,3,102
 Estudio,San Fernando,88000,0,30
-Casa Rural,Guia de Isora,577500,5,14.400
+Casa Rural,Guia de Isora,577500,5,14400
 Piso,Camino de las Peras 1,320000,3,108
 Chalet,Urbanización San Diego 65,700000,4,151
 Chalet,Calle de Güímar 10,100000,3,108
@@ -1720,7 +1719,7 @@ Chalet,Calle el Herreño 3,257000,3,94
 Estudio,barrio San Eugenio Alto,170000,0,26
 Piso,Calle Fray Luis de León 6,149895,3,89
 Piso,Calle Fray Luis de León 6,149895,3,97
-Chalet,Avenida j.m galvan bello,220000,2,78
+Chalet,Avenida jm galvan bello,220000,2,78
 Piso,barrio Buenavista-Chapatal,450000,5,70
 Piso,Calle Punta Caballo 22,120000,2,79
 Chalet,Avenida de Anaga 24,1445000,4,138
@@ -1743,7 +1742,7 @@ Chalet,barrio San Eugenio Alto,2500000,4,139
 Piso,Guia de Isora,150000,2,80
 Piso,Avenida Juan Carlos I,315000,2,65
 Estudio,Calle Rodeo,165000,0,36
-Piso,Golf del Sur-Amarilla Golf,165900,1,20.00
+Piso,Golf del Sur-Amarilla Golf,165900,1,2000
 Ático,Los Cristianos,375000,1,72
 Piso,La Quinta,195000,3,12
 Chalet,Los Realejos-Icod El Alto,1700000,5,186
@@ -1761,7 +1760,7 @@ Chalet,Distrito Botánico,600000,5,200
 Chalet,Distrito Botánico,850000,4,152
 Casa Rural,Cuesta de la Villa,479000,3,93
 Chalet,Sauzal,550000,3,116
-Casa Rural,Carretera a Alcala,340000,1,10.000
+Casa Rural,Carretera a Alcala,340000,1,10000
 Chalet,Calle Mayber 38,300000,5,198
 Chalet,barrio Salamanca-Uruguay,247170,3,86
 Ático,barrio Torviscas Centro y Alto,225000,1,60
@@ -1771,7 +1770,7 @@ Casa Rural,Arico,85000,1,40
 Chalet,Tacoronte - Los Naranjeros,175000,4,235
 Chalet,Las Cuevas - Los Gómez,395000,3,115
 Piso,Santa Cruz de la Palma,215000,3,111
-Chalet,La Perdoma - San Antonio - Benijos,330000,2,30.000
+Chalet,La Perdoma - San Antonio - Benijos,330000,2,30000
 Duplex,Santa Úrsula,380000,3,114
 Piso,barrio San Eugenio Alto,240000,1,50
 Chalet,San Sebastian de la Gomera,126500,1,50

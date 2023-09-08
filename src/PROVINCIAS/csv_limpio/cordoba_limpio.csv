@@ -1,9 +1,9 @@
 Tipo de inmueble,Dirección,Precio,Habitaciones,m2
 Chalet,barrio Brillante,450000,4,122
 Piso,Avenida de Carlos III 79,128900,3,106
-Chalet,barrio El Higuerón,245000,4,3.065
+Chalet,barrio El Higuerón,245000,4,3065
 Piso,Calle Libertador Simón Bolívar,116000,3,98
-Piso,Calle Escultor Freila Guevara,165000,2,83.00
+Piso,Calle Escultor Freila Guevara,165000,2,8300
 Piso,barrio Sector sur - Santa Cruz,86000,2,70
 Chalet,Avenida de San José de Calasanz 37,794000,6,237
 Piso,barrio Levante,95000,3,100
@@ -48,7 +48,7 @@ Piso,barrio Ciudad Jardín,75000,2,51
 Piso,Calle Goya 19,119900,2,79
 Chalet,Calle Diego Méndez 6,185000,3,87
 Piso,Calle de la Virgen del Perpetuo Socorro s/n,164900,3,118
-Piso,Avenida de América,190000,3,4.84
+Piso,Avenida de América,190000,3,484
 Duplex,Calle Periodista Antonio Rodríguez Mesa,149900,3,97
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,178000,4,130
 Piso,barrio Zoco - Poniente,179000,3,82
@@ -67,7 +67,7 @@ Piso,barrio La Viñuela,129990,3,85
 Chalet,barrio Casco Histórico - Corredera - Ribera,192000,4,129
 Chalet,barrio El Higuerón,250000,5,302
 Chalet,Avenida del Calasancio,625000,7,258
-Chalet,barrio Trassierra - Las Jaras,360000,8,3.000
+Chalet,barrio Trassierra - Las Jaras,360000,8,3000
 Piso,barrio Noreña - Turruñuelos,235000,3,109
 Piso,barrio Ciudad Jardín,148000,3,80
 Piso,barrio Valdeolleros - Zumbacón - Camping,82000,1,60
@@ -122,8 +122,8 @@ Piso,Calle jose aguilar de dios s/n,330000,3,82
 Piso,Calle jose aguilar de dios s/n,330000,3,100
 Piso,Calle jose aguilar de dios s/n,330000,3,109
 Piso,Pasaje de las Almunias s/n,352000,4,76
-Duplex,Calle Nueva s/n,175000,3,38.000
-Duplex,Calle Nueva s/n,180000,3,38.000
+Duplex,Calle Nueva s/n,175000,3,38000
+Duplex,Calle Nueva s/n,180000,3,38000
 Chalet,Avenida de Turruñuelos s/n,496500,3,117
 Chalet,Avenida de Turruñuelos s/n,517000,3,108
 Chalet,Avenida de Turruñuelos s/n,520000,4,132
@@ -149,7 +149,7 @@ Piso,Avenida de las Ollerías,144999,3,98
 Duplex,Calle Dalmacia,99990,2,68
 Piso,Avenida Vía Augusta 2,257000,3,84
 Chalet,Calle las Antas 15,590000,9,561
-Chalet,Avenida Bellavista,320000,6,3.000
+Chalet,Avenida Bellavista,320000,6,3000
 Piso,Calle Juan Molina 3,184500,2,90
 Piso,Plaza de Pineda 1,265905,4,31
 Piso,Avenida Virgen de las Angustias 9,244000,3,85
@@ -175,15 +175,15 @@ Chalet,Calle Mateo Inurria,69990,3,112
 Chalet,Plaza de las Tazas s/n,299000,5,291
 Piso,barrio Fuensanta - Arcángel - Santuario,114900,3,108
 Chalet,Calle José María Alcaide Cáceres,749000,4,543
-Chalet,Calle Cursillos de Cristiandad s/n,615000,5,8.000
-Chalet,Calle Cursillos de Cristiandad s/n,595000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,615000,5,8000
+Chalet,Calle Cursillos de Cristiandad s/n,595000,5,8000
 Piso,barrio Fátima - Campiñuela,124900,3,111
 Piso,barrio Fuensanta - Arcángel - Santuario,89900,3,117
 Piso,Calle Marqués de Guadalcázar,105000,4,140
 Piso,Calle Carmen López Román,144900,4,112
-Chalet,Calle Cursillos de Cristiandad s/n,575000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,575000,5,8000
 Chalet,segunda romana,205000,4,200
-Casa Rural,CO-8401 9,275000,4,40.000
+Casa Rural,CO-8401 9,275000,4,40000
 Chalet,Almodovar del Río,180000,6,216
 Chalet,Calle Silencio 5,65000,3,92
 Chalet,Calle los Claveles,240000,4,600
@@ -202,11 +202,11 @@ Piso,Calle Bailarina Anna Paulova,280000,2,63
 Piso,Calle Teresa de Calcuta,175000,3,95
 Chalet,barrio Paraíso Arenal - La Colina,329900,4,160
 Piso,Avenida de América,206000,2,77
-Piso,Calle El Manantial,433000,4,8.000
+Piso,Calle El Manantial,433000,4,8000
 Piso,Avenida de América,333500,3,110
 Piso,Calle Abogado Enríquez Barrios 9,160000,5,182
 Piso,Avenida de América,163000,1,50
-Piso,Calle El Manantial,300000,3,8.000
+Piso,Calle El Manantial,300000,3,8000
 Piso,Calle Virgen del Perpetuo Socorro,144900,3,83
 Casa Rural,Calle Fuente del Conde 96,330000,5,267
 Piso,Plaza de Vista Alegre,149999,2,60
@@ -336,7 +336,7 @@ Piso,barrio El Vial - Ronda de Tejares,420000,4,180
 Piso,barrio Ciudad Jardín,140000,3,100
 Piso,barrio Casco Histórico - Corredera - Ribera,105000,3,110
 Chalet,barrio Casco Histórico - Corredera - Ribera,185000,4,120
-Chalet,barrio Brillante,596500,4,1.300
+Chalet,barrio Brillante,596500,4,1300
 Chalet,barrio Casco Histórico - Corredera - Ribera,184000,5,198
 Piso,Jesús y María s/n,215000,3,87
 Piso,barrio Casco Histórico - Ollerías - Marrubial,222000,4,142
@@ -352,13 +352,13 @@ Piso,Calle Sagrada Familia,144900,4,124
 Chalet,barrio Paraíso Arenal - La Colina,205000,3,160
 Piso,Calle Escultor Freila Guevara s/n,165000,2,61
 Piso,Avenida DEL CAIRO,178000,4,147
-Chalet,Almodovar del Río,178000,3,3.000
+Chalet,Almodovar del Río,178000,3,3000
 Chalet,Avenida Juan Carlos I 2,250000,4,270
 Chalet,barrio Alcolea,169000,4,128
 Chalet,Calle Ingeniero Alfonso de Churruca 26,230000,4,30
 Piso,barrio La Viñuela,99900,3,69
 Chalet,Encinarejo de Córdoba,177000,3,146
-Chalet,barrio Brillante,900000,6,1.170
+Chalet,barrio Brillante,900000,6,1170
 Piso,barrio Casco Histórico - Ollerías - Marrubial,157000,4,120
 Piso,barrio Centro,175000,4,151
 Piso,Ronda de los Tejares s/n,220000,2,64
@@ -385,7 +385,7 @@ Chalet,San Agustín s/n,160000,8,340
 Piso,barrio Centro,229900,4,121
 Chalet,Luque,202260,5,195
 Chalet,barrio Casco Histórico - Corredera - Ribera,249950,4,130
-Piso,Calle X1 P.p. O-3 Hta S Isabel,298000,4,151
+Piso,Calle X1 Pp O-3 Hta S Isabel,298000,4,151
 Piso,barrio Fátima - Campiñuela,95000,3,102
 Casa Rural,Puente Genil,170000,3,400
 Piso,barrio El Cairo,135000,3,108
@@ -495,7 +495,7 @@ Piso,Calle Escritora Carmen de Burgos 11,242600,3,97
 Piso,Calle Escritora Carmen de Burgos 11,237200,3,92
 Piso,Calle Escritora Carmen de Burgos 11,241600,3,96
 Piso,Calle Escritora Carmen de Burgos 11,242600,3,104
-Chalet,Avenida Aguardentera Siete Fincas,190000,4,8.000
+Chalet,Avenida Aguardentera Siete Fincas,190000,4,8000
 Piso,Pasaje González del Campo,95000,3,99
 Piso,barrio Casco Histórico - Ollerías - Marrubial,210000,4,132
 Piso,Avenida de Carlos III 79,128900,3,107
@@ -516,7 +516,7 @@ Chalet,barrio Brillante,649000,10,429
 Piso,Calle Músico Ziryab 11,183000,4,147
 Piso,barrio Carretera Trassierra - Colonia de la Paz,156800,2,77
 Piso,barrio Carretera Trassierra - Colonia de la Paz,161800,2,65
-Chalet,barrio Brillante,510000,7,100.00
+Chalet,barrio Brillante,510000,7,10000
 Piso,Calle Secretario Carretero 11,330000,3,110
 Piso,Calle Don Lope de los Ríos,215000,3,101
 Piso,Camino de los Sastres,144000,3,117
@@ -524,13 +524,13 @@ Piso,Calle Muñices,125000,2,64
 Chalet,alonso la vinagra,239900,4,120
 Piso,alfonso xii,139000,2,66
 Piso,Plaza de san juan,169000,3,86
-Chalet,Calle Maestre Escuela,397500,5,1.250
+Chalet,Calle Maestre Escuela,397500,5,1250
 Piso,maria auxiliadora,179900,6,243
 Piso,Calle Doctor Barraquer,148300,2,65
 Piso,Calle Don Lope de los Ríos,215000,3,106
-Piso,Calle los Chopos,235000,3,104.52
+Piso,Calle los Chopos,235000,3,10452
 Chalet,doña rosita,290000,5,200
-Piso,Avenida de América,190000,3,4.84
+Piso,Avenida de América,190000,3,484
 Piso,Avenida de las Ollerías,195000,3,105
 Chalet,veredon de los frailes,108000,3,94
 Piso,Calle Santa María de Trassierra,69000,3,107
@@ -549,7 +549,7 @@ Piso,Avenida de Carlos III,128900,3,88
 Piso,victoria kent,195000,3,103
 Piso,Isla Alegranza,215000,4,155
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,500000,5,192
-Chalet,Calle los Arrayanes,760000,7,1.308
+Chalet,Calle los Arrayanes,760000,7,1308
 Piso,Calle Músico Infantas,98000,2,75
 Piso,barrio Naranjo - Mirabueno,149000,3,94
 Piso,barrio Zoco - Poniente,198000,2,66
@@ -563,7 +563,7 @@ Piso,barrio Ciudad Jardín,330000,3,109
 Piso,barrio Centro,234000,3,95
 Piso,barrio Valdeolleros - Zumbacón - Camping,169000,3,107
 Piso,Calle de la Virgen del Perpetuo Socorro,164900,3,97
-Piso,rio guadiario,64800,1,55.42
+Piso,rio guadiario,64800,1,5542
 Piso,barrio El Vial - Ronda de Tejares,245000,5,157
 Estudio,Calle Conquistador Benito de Baños,107220,0,49
 Estudio,Calle Conquistador Benito de Baños,92415,0,35
@@ -589,17 +589,17 @@ Chalet,Calle Chaparrera,180000,4,321
 Chalet,barrio Sector sur - Santa Cruz,160000,3,112
 Piso,Avenida de las Ollerías,195000,3,81
 Chalet,barrio El Higuerón,164900,3,114
-Chalet,las jaras,190000,4,8.000
+Chalet,las jaras,190000,4,8000
 Piso,Camino de los Sastres,144000,3,91
 Piso,Calle Virrey Caballero Góngora,330000,3,97
 Chalet,barrio Cañero - Fidiana,520000,7,264
-Piso,Calle los Chopos,235000,3,104.52
+Piso,Calle los Chopos,235000,3,10452
 Piso,Calle Santa María de Trassierra,69000,3,120
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,225000,3,110
 Piso,barrio El Cairo,113000,3,6
 Piso,alfonso xii,139000,2,66
 Piso,maria auxiliadora,179900,6,213
-Chalet,las jaras,190000,4,8.000
+Chalet,las jaras,190000,4,8000
 Piso,alfonso xii,139000,2,66
 Chalet,Plaza de Santa Marina s/n,198000,5,186
 Piso,Pasaje Marino Cervera,71000,2,61
@@ -640,7 +640,7 @@ Piso,barrio Ciudad Jardín,185000,4,143
 Piso,Piso Fatima alta -Campiñuela s/n,150000,2,66
 Duplex,Calle Acera del Río 148,126000,3,24
 Piso,barrio Fátima - Campiñuela,187000,3,102
-Casa Rural,La Carlota,275000,5,21.333
+Casa Rural,La Carlota,275000,5,21333
 Casa Rural,barrio El Higuerón,305000,7,5000
 Piso,barrio Ciudad Jardín,180000,3,91
 Piso,Calle Teruel 234,195000,2,70
@@ -669,7 +669,7 @@ Piso,Calle el Castaño 2,123000,2,69
 Piso,Jose Maria Martorell 4,255000,4,35
 Piso,barrio Ciudad Jardín,153000,4,126
 Piso,barrio Fátima - Campiñuela,128900,3,104
-Piso,Beatriz Enriquez 14,220800,4,1.39
+Piso,Beatriz Enriquez 14,220800,4,139
 Piso,barrio Levante,89000,3,119
 Piso,barrio Campo de la Verdad,55500,3,108
 Piso,Calle Dean Francisco Xavier s/n,236640,3,86
@@ -702,7 +702,7 @@ Piso,Calle Muñices 11,125000,2,67
 Chalet,Calle Capricho s/n,220000,3,91
 Piso,barrio Ciudad Jardín,145500,2,75
 Chalet,Plaza de San Agustín s/n,795000,8,31
-Chalet,Av. Cruz de Juárez 22,159300,3,91
+Chalet,Av Cruz de Juárez 22,159300,3,91
 Piso,Calle Valdeolleros,89900,3,67
 Piso,barrio Fátima - Campiñuela,82000,3,65
 Piso,Calle castaño,123000,2,62
@@ -720,7 +720,7 @@ Piso,Calle Alfaros 2,307300,4,158
 Piso,Calle Pedroche,169000,3,86
 Piso,Calle Eugenio Dors 10,159000,2,78
 Piso,Cuesta de la Pólvora 6,89000,3,105
-Chalet,Avenida de San José de Calasanz 4,555000,6,1.538
+Chalet,Avenida de San José de Calasanz 4,555000,6,1538
 Piso,Calle Eugenio Dors 10,159000,2,61
 Piso,Calle Eugenio Dors 10,159000,2,70
 Piso,Calle Sagunto 10,113000,3,101
@@ -744,7 +744,7 @@ Duplex,Monseñor Juan Manuel Font del Riego,126000,3,106
 Chalet,Calle José María Alcaide Cáceres,749000,4,543
 Piso,Calle castaño,123000,2,64
 Piso,barrio Ciudad Jardín,180000,3,98
-Chalet,Calle Maestre Escuela,450000,6,1.500
+Chalet,Calle Maestre Escuela,450000,6,1500
 Piso,Calle Alcalá Zamora,189900,3,120
 Chalet,Calle José María Alcaide Cáceres,749000,4,543
 Piso,av de granada,53000,3,70
@@ -790,7 +790,7 @@ Piso,Calle Adriana Morales 6,85000,3,99
 Piso,barrio Cañero - Fidiana,99000,3,6
 Piso,Encinarejo de Córdoba,90000,2,78
 Piso,Pozoblanco,57000,3,113
-Piso,C. Cta. de la Pólvora s/n,104300,3,115
+Piso,C Cta de la Pólvora s/n,104300,3,115
 Piso,Calle General Lázaro Cárdenas 37,99000,3,109
 Piso,Calle Góngora s/n,175000,2,78
 Piso,SECTOR SUR s/n,59300,2,72
@@ -806,13 +806,13 @@ Piso,barrio Sector sur - Santa Cruz,68000,3,119
 Piso,Escriba Lubna 30,285000,3,81
 Piso,barrio Vistalegre - Parque Cruz - Universidades,132000,3,103
 Piso,Calle Pintor Palomino,89000,2,63
-Piso,Av. del Gran Capitán s/n,195000,3,14
+Piso,Av del Gran Capitán s/n,195000,3,14
 Ático,Avenida de los Almogávares 72,120000,4,129
 Chalet,Calle Conquista 17,120000,7,267
 Piso,Calle Marbella,27000,2,63
 Piso,barrio Valdeolleros - Zumbacón - Camping,169000,3,109
 Piso,Calle de Alhaken II,209000,4,131
-Piso,Av. de Barcelona s/n,160000,3,95
+Piso,Av de Barcelona s/n,160000,3,95
 Chalet,Calle Arroyo de San Lorenzo 10,390000,7,283
 Chalet,Cuesta Blanca 2,250000,6,22
 Piso,Calle Alcalá Zamora,189900,3,114
@@ -823,7 +823,7 @@ Chalet,Calle LA ERAS,97000,4,129
 Piso,CARLOS III 47,133600,3,120
 Piso,Calle Cervantes,73000,2,68
 Duplex,Calle Doctor Rafael Blanco León,126000,3,24
-Chalet,Calle Saldaña 14,550000,6,1.538
+Chalet,Calle Saldaña 14,550000,6,1538
 Chalet,Calle Francisco Martinez Benavides,100000,3,116
 Piso,Calle Alhaken II 20,328000,3,11
 Chalet,Almodovar del Río,153000,4,152
@@ -968,22 +968,22 @@ Piso,Paseo Parque Verde,119900,3,116
 Ático,Calle Al-Birka s/n,465000,4,152
 Piso,Avenida de Medina Azahara,182000,2,75
 Piso,Calle Platero Repiso,99900,3,69
-Chalet,URBANIZACIÓN LA GORGOJA,245000,4,3.065
+Chalet,URBANIZACIÓN LA GORGOJA,245000,4,3065
 Piso,jose maria peman,150000,3,85
 Piso,Calle Duque de Fernán Núñez,210000,4,166
-Piso,Av. Donantes de Órganos,343000,3,114
+Piso,Av Donantes de Órganos,343000,3,114
 Piso,Avenida del Gran Capitán 18,395000,5,184
 Piso,Calle Al-Birka s/n,502000,4,147
 Piso,Calle gibraltar,125000,3,87
 Piso,Avenida Vía Augusta 2,277000,3,96
-Chalet,Calle Escudería,650000,6,1.453
+Chalet,Calle Escudería,650000,6,1453
 Piso,Calle Al-Birka s/n,320000,2,62
 Chalet,Plaza de Cañero 33,180000,5,160
 Piso,ESCRITOR LOPEZ DE CARDENAS 4,99000,3,88
 Piso,Avenida de Guerrita 6,245000,3,108
 Chalet,Calle Vicente Aleixandre,53000,5,268
 Chalet,Calle las Antas 15,590000,9,675
-Chalet,Avenida del Brillante,2200000,9,3.775
+Chalet,Avenida del Brillante,2200000,9,3775
 Chalet,Calle las Antas 15,590000,9,583
 Chalet,HIGUERON 15,175000,5,170
 Piso,barrio Tablero,210000,2,90
@@ -1016,7 +1016,7 @@ Piso,Avenida del Aeropuerto 5,220000,4,143
 Piso,Calle Cartago 19,138000,2,66
 Piso,libertador Agustín de Iturbide 4,94600,3,82
 Piso,Calle Escritora Alejandra Pizarnik s/n,229500,3,93
-Chalet,Diseminado Alcaide Parcelas 178 B,299500,6,4.700
+Chalet,Diseminado Alcaide Parcelas 178 B,299500,6,4700
 Piso,Calle Escritora Alejandra Pizarnik s/n,230500,3,87
 Chalet,Calle las Águilas,244900,4,1600
 Chalet,Vereda Cerro Macho,85000,0,36
@@ -1101,7 +1101,7 @@ Piso,Gran Capitán 33,335000,4,206
 Piso,Calle Baldomero Moreno Espina s/n,236500,3,89
 Piso,Calle Alcalá Zamora,189900,3,119
 Piso,barrio El Cairo,129900,3,117
-Piso,NUESTRA SRA. ARACELI,27000,3,101
+Piso,NUESTRA SRA ARACELI,27000,3,101
 Piso,Calle Baldomero Moreno Espina s/n,218400,3,104
 Piso,Calle Baldomero Moreno Espina s/n,214600,3,94
 Piso,Escriba Lubna 30,279000,3,120
@@ -1122,7 +1122,7 @@ Chalet,Calle Ermita de Alcolea,184000,3,99
 Piso,Calle Arroyo de San Rafael,104900,2,80
 Chalet,Vereda del Pretorio,650000,5,385
 Piso,Avenida de Medina Azahara,182000,2,75
-Piso,Calle de los Postigos,88600,3,97.08
+Piso,Calle de los Postigos,88600,3,9708
 Piso,Avenida Vicente Aleixandre,90500,3,82
 Piso,Calle Buenavista s/n,86500,3,84
 Chalet,Calle las Águilas,244900,4,249
@@ -1171,7 +1171,7 @@ Piso,Avenida Donantes de Órganos s/n,154870,2,30
 Piso,Calle rinconada del parral 4,120000,3,88
 Chalet,barrio Zoco - Poniente,450000,7,246
 Chalet,los mochos,74990,4,138
-Casa Rural,CP-278,186000,5,1.697
+Casa Rural,CP-278,186000,5,1697
 Piso,barrio Naranjo - Mirabueno,236640,3,114
 Piso,barrio Naranjo - Mirabueno,236640,3,89
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,239900,4,141
@@ -1210,32 +1210,32 @@ Piso,Calle jose aguilar de dios s/n,160450,1,47
 Chalet,Calle Antonio Eulate,100000,6,248
 Piso,Pasaje sagrada familia,138500,4,133
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,225000,3,86
-Chalet,Calle Cursillos de Cristiandad s/n,615000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,615000,5,8000
 Piso,barrio Ciudad Jardín,162000,3,6
 Piso,Calle Pedroche 46,30000,6,205
 Chalet,barrio El Higuerón,275000,4,157
-Chalet,Iznajar,845000,6,27.500
+Chalet,Iznajar,845000,6,27500
 Chalet,La Carlota,405000,5,170
-Chalet,Calle Cursillos de Cristiandad s/n,575000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,575000,5,8000
 Piso,Avenida de Libia,95000,1,45
 Piso,barrio Vistalegre - Parque Cruz - Universidades,139000,3,70
 Piso,barrio El Vial - Ronda de Tejares,347000,3,180
 Chalet,barrio Trassierra - Las Jaras,215000,4,200
 Piso,barrio Casco Histórico - Ollerías - Marrubial,189000,4,120
-Chalet,Carretera DE LOS ARENALES,234000,3,4.900
+Chalet,Carretera DE LOS ARENALES,234000,3,4900
 Piso,barrio El Vial - Ronda de Tejares,347000,3,180
 Chalet,barrio Centro,450000,9,267
 Piso,barrio Fátima - Campiñuela,129900,3,115
 Piso,barrio Casco Histórico - Ollerías - Marrubial,179900,4,139
 Chalet,barrio El Higuerón,85000,2,140
-Casa Rural,barrio Brillante,480000,5,1.250
+Casa Rural,barrio Brillante,480000,5,1250
 Chalet,barrio Brillante,589000,6,248
 Chalet,barrio Alcolea,350000,4,600
-Chalet,Calle Cursillos de Cristiandad s/n,605000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,605000,5,8000
 Piso,barrio Tablero,175000,3,112
 Piso,barrio Ciudad Jardín,117000,3,101
-Chalet,Calle Cursillos de Cristiandad s/n,590000,5,8.000
-Chalet,Calle Cursillos de Cristiandad s/n,585000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,590000,5,8000
+Chalet,Calle Cursillos de Cristiandad s/n,585000,5,8000
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,225000,3,105
 Chalet,barrio Judería - San Basilio,850000,15,287
 Piso,Francisco de Toledo,76583,3,87
@@ -1243,7 +1243,7 @@ Chalet,barrio Casco Histórico - Ollerías - Marrubial,225000,3,114
 Piso,barrio Ciudad Jardín,162000,3,6
 Piso,Pasaje sagrada familia,138500,4,145
 Chalet,Calle Antonio Eulate,100000,6,242
-Chalet,Calle Cursillos de Cristiandad s/n,590000,5,8.000
+Chalet,Calle Cursillos de Cristiandad s/n,590000,5,8000
 Piso,Calle Pedroche 46,30000,6,235
 Chalet,barrio El Higuerón,85000,2,140
 Piso,barrio El Vial - Ronda de Tejares,347000,3,180
@@ -1258,7 +1258,7 @@ Piso,Pasaje González del Campo 3,124000,3,110
 Piso,Calle Goya 19,119900,2,69
 Piso,barrio Levante,189000,4,142
 Piso,Pasaje Marino Cervera,86900,3,115
-Chalet,Carretera N-502 s/n,395000,6,13.000
+Chalet,Carretera N-502 s/n,395000,6,13000
 Chalet,la chorrilla s/n,115000,2,67
 Piso,Calle Alarcón López,240000,3,85
 Chalet,Villarrubia,295000,5,85
@@ -1310,7 +1310,7 @@ Piso,Calle Ruiz de León 4,119000,3,109
 Piso,Calle Goya 19,119900,2,75
 Piso,barrio Vistalegre - Parque Cruz - Universidades,132000,3,117
 Piso,Las Tinajerías - Juderías,135000,3,89
-Piso,fuente de la salud,184950,2,93.09
+Piso,fuente de la salud,184950,2,9309
 Duplex,Calle Bailarina Anna Pavlova 3,420000,3,105
 Chalet,Iznajar,825000,10,513
 Chalet,barrio Centro,428000,4,254
@@ -1321,7 +1321,7 @@ Estudio,barrio El Cairo,80000,0,27
 Piso,Avenida de las Ollerías,152000,4,122
 Duplex,Calle Bailarina Anna Pavlova 3,420000,3,105
 Estudio,barrio El Cairo,80000,0,20
-Piso,fuente de la salud,184950,2,93.09
+Piso,fuente de la salud,184950,2,9309
 Chalet,Calle Infanta Doña María s/n,266000,4,142
 Chalet,Calle Beato Henares,32500,1,57
 Piso,barrio Centro,290000,3,91
@@ -1334,7 +1334,7 @@ Chalet,barrio Brillante,650000,6,1453
 Piso,barrio Fátima - Campiñuela,124900,3,98
 Chalet,el patriarca s/n,1150000,6,684
 Piso,barrio Levante,129900,3,108
-Casa Rural,barrio Brillante,480000,5,1.250
+Casa Rural,barrio Brillante,480000,5,1250
 Piso,barrio Casco Histórico - Ollerías - Marrubial,179900,4,134
 Piso,barrio Naranjo - Mirabueno,236640,3,95
 Piso,Avenida de América,225000,2,61
@@ -1349,7 +1349,7 @@ Chalet,La Carlota,67000,3,119
 Chalet,barrio Brillante,620000,5,196
 Piso,Calle García Lovera,176000,2,72
 Casa Rural,Calle Muñoz de Sepúlveda s/n,150000,6,266
-Piso,Calle El Manantial,305000,3,8.000
+Piso,Calle El Manantial,305000,3,8000
 Piso,Calle Bailarina Anna Pavlova 8,328000,2,25
 Piso,Huelva s/n,93000,4,126
 Chalet,Calle Manuel Guerrero,69000,3,80
@@ -1362,7 +1362,7 @@ Piso,Ronda de los Tejares,282000,3,105
 Piso,barrio El Vial - Ronda de Tejares,347000,3,28
 Piso,barrio Levante,129900,3,93
 Piso,barrio Fuensanta - Arcángel - Santuario,89000,3,96
-Casa Rural,barrio Brillante,480000,5,1.250
+Casa Rural,barrio Brillante,480000,5,1250
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,225000,3,96
 Piso,barrio Levante,129900,3,93
 Chalet,Calle Manuel Guerrero,69000,3,99
@@ -1376,21 +1376,21 @@ Chalet,Calle Cruz del Estudiante s/n,75000,3,152
 Piso,barrio Naranjo - Mirabueno,236640,3,88
 Piso,Calle Doctor Gregorio Marañón s/n,310000,5,181
 Piso,barrio Centro,234000,3,83
-Piso,Calle El Manantial,305000,3,8.000
+Piso,Calle El Manantial,305000,3,8000
 Piso,barrio Tablero,244000,3,92
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,459000,7,266
 Piso,Pasaje Marino Cervera 12,86900,3,108
 Piso,Avenida de América,239500,2,75
-Piso,Calle El Manantial,442000,4,8.000
+Piso,Calle El Manantial,442000,4,8000
 Chalet,barrio Brillante,662000,4,71
 Chalet,barrio Brillante,590000,9,3191
 Casa Rural,Calle Muñoz de Sepúlveda s/n,150000,6,266
 Chalet,barrio Casco Histórico - Ollerías - Marrubial,239900,4,141
-Piso,Calle El Manantial,444000,4,8.000
+Piso,Calle El Manantial,444000,4,8000
 Piso,barrio El Vial - Ronda de Tejares,347000,3,185
 Casa Rural,Santa Eufemia s/n,130000,2,67
 Piso,Calle Periodista García Prieto 8,179300,3,110
-Chalet,ermita de santo domingo,360000,7,3.000
+Chalet,ermita de santo domingo,360000,7,3000
 Chalet,barrio Brillante,650000,6,1453
 Piso,platero repiso,111000,3,80
 Piso,Plaza de la Flor del Olivo,257000,2,105
@@ -1436,7 +1436,7 @@ Casa Rural,villanueva de tapi 1,59000,4,148
 Ático,barrio El Vial - Ronda de Tejares,370000,3,89
 Chalet,Calle Acera del Río,75000,3,90
 Ático,Calle Morería,184900,3,92
-Casa Rural,Avenida Carlos Cano. s/n,475000,6,224
+Casa Rural,Avenida Carlos Cano s/n,475000,6,224
 Piso,Avenida de cadiz,86000,2,61
 Piso,Calle el Almendro,259900,4,27
 Ático,barrio El Vial - Ronda de Tejares,370000,3,110
@@ -1456,10 +1456,10 @@ Piso,barrio Santa Rosa - San José,210000,2,33
 Duplex,Avenida Manolete,220000,4,128
 Chalet,Calle azahara,199000,3,46
 Chalet,ermita de alcolea,195000,3,82
-Chalet,el jardinito,129200,3,6.000
+Chalet,el jardinito,129200,3,6000
 Piso,Calle Acera Fuente de la Salud 4,250000,3,98
 Piso,barrio Ciudad Jardín,162000,3,95
-Casa Rural,Avenida Carlos Cano. s/n,475000,6,202
+Casa Rural,Avenida Carlos Cano s/n,475000,6,202
 Duplex,Calle Muñices,185000,3,134
 Chalet,Ur encinares de alcolea,169000,5,420
 Piso,barrio Casco Histórico - Corredera - Ribera,135000,2,80
@@ -1498,7 +1498,7 @@ Piso,Calle Escultor Freila Guevara,165000,2,4
 Piso,Pasaje González del Campo,99900,3,82
 Piso,Plaza la Oca 3,125000,4,95
 Piso,Avenida de las Ollerías,195000,3,92
-Duplex,Calle Barítono José M. Aguilar Blanco 2,115000,3,87
+Duplex,Calle Barítono José M Aguilar Blanco 2,115000,3,87
 Piso,Calle Infanta Doña María,100000,2,80
 Piso,Calle Alcalde Sanz Noguer,179900,4,126
 Chalet,Paseo de los Flamencos,315000,4,139
@@ -1506,12 +1506,12 @@ Piso,Avenida Arroyo del Moro,255000,3,81
 Piso,José María Valdenebro 8,133000,3,125
 Piso,Pasaje González del Campo,95000,3,109
 Casa Rural,El chifly,145000,3,8845
-Piso,Calle Lorenzo Ferreira,89900,3,3.00
+Piso,Calle Lorenzo Ferreira,89900,3,300
 Piso,Calle Almazán,74727,3,81
 Duplex,Calle Periodista Antonio Rodríguez Mesa,149900,3,83
 Piso,barrio Tablero,292000,3,98
 Piso,Calle Goya 19,119900,2,75
-Chalet,Calle Sansueña,900000,6,1.170
+Chalet,Calle Sansueña,900000,6,1170
 Piso,Travesía Padres Mohedano s/n,108000,3,107
 Piso,Calle los Chopos,139000,3,96
 Piso,Avenida del Gran Capitán 24 a,180000,1,54
@@ -1520,13 +1520,13 @@ Piso,Calle María Auxiliadora,179900,6,238
 Piso,Alonso el Sabio,295000,4,148
 Casa Rural,sierra membrillar iznajar s/n sn,59000,5,189
 Piso,Calle Almazán,74727,3,117
-Chalet,Calle Sansueña,900000,6,1.170
+Chalet,Calle Sansueña,900000,6,1170
 Piso,Calle Pedro López s/n,80000,1,44
 Piso,José María Valdenebro 8,133000,3,125
 Piso,Calle Badalona,69000,3,98
 Piso,Calle Escultor Freila Guevara,165000,2,4
 Piso,barrio Centro,395000,4,200
-Duplex,Calle Barítono José M. Aguilar Blanco 2,115000,3,100
+Duplex,Calle Barítono José M Aguilar Blanco 2,115000,3,100
 Piso,Calle María Auxiliadora,179900,6,239
 Piso,Puerta Tras la,99900,3,69
 Piso,doce de octubre s/n,135000,1,42
@@ -1547,7 +1547,7 @@ Duplex,Calle Periodista Antonio Rodríguez Mesa,149900,3,117
 Piso,Calle Nuestra Señora de la Merced 4,135000,3,95
 Chalet,Calle madre teresa de calcuta 7,139999,4,139
 Casa Rural,ds diseminados 802,250000,5,165
-Piso,av. de Cádiz,120000,3,120
+Piso,av de Cádiz,120000,3,120
 Piso,Calle del Campo,119900,3,109
 Piso,Calle Capitán Alonso de Vargas 2,80000,3,119
 Piso,ubeda,53600,3,60
@@ -1645,7 +1645,7 @@ Chalet,barrio Campo de la Verdad,339000,3,80
 Piso,barrio Carretera Trassierra - Colonia de la Paz,109990,1,58
 Piso,barrio Judería - San Basilio,129900,2,79
 Piso,barrio Casco Histórico - Ollerías - Marrubial,152000,4,128
-Chalet,barrio El Higuerón,312000,5,3.000
+Chalet,barrio El Higuerón,312000,5,3000
 Chalet,HUEVOS LOS 32,103630,5,162
 Piso,barrio Tablero,244000,3,119
 Chalet,barrio El Higuerón,153000,3,116
@@ -1721,7 +1721,7 @@ Piso,barrio Levante,140000,3,102
 Ático,barrio Tablero,460000,3,94
 Piso,barrio Centro,210000,4,166
 Piso,barrio Levante,140000,3,102
-Casa Rural,barrio Brillante,480000,5,1.250
+Casa Rural,barrio Brillante,480000,5,1250
 Piso,barrio El Vial - Ronda de Tejares,347000,3,28
 Piso,barrio Fátima - Campiñuela,124900,3,107
 Chalet,Navas del Sepillar,100000,3,81
@@ -1780,7 +1780,7 @@ Chalet,Peñarroya-Pueblonuevo,119999,3,931
 Piso,Avenida de Cervantes,209000,4,126
 Piso,barrio Tablero,175000,3,101
 Piso,Pasaje Marino Diego de Argote,73100,3,88
-Piso,Av. Fuente del Río,83000,3,95
+Piso,Av Fuente del Río,83000,3,95
 Piso,barrio Sector sur - Santa Cruz,115000,3,89
 Piso,barrio Noreña - Turruñuelos,255000,3,90
 Piso,Avenida de la constitución 6,78000,3,74

@@ -9,7 +9,7 @@ Chalet,Intxaurrondo,3150000,9,428
 Chalet,Calle Ategorrieta s/n,3150000,9,92
 Piso,Paseo de Miraconcha s/n,3100000,3,143
 Piso,barrio Área Romántica,3100000,5,25
-Chalet,Igeldo,3000000,5,7.000
+Chalet,Igeldo,3000000,5,7000
 Piso,HERNANI,2900000,5,98
 Piso,barrio Área Romántica,2900000,5,239
 Piso,Calle San Martin s/n,2725000,6,285
@@ -32,22 +32,22 @@ Chalet,Ulia Pasealekua 394,2500000,11,536
 Casa Rural,Ategorrieta-Ulia,2500000,11,460
 Chalet,Oiartzun,2500000,6,790
 Chalet,barrio Miracruz,2500000,10,500
-Chalet,Oiartzun,2500000,6,5.300
+Chalet,Oiartzun,2500000,6,5300
 Chalet,Makutso Bidea,2500000,6,209
 Chalet,barrio Miracruz,2500000,10,500
 Chalet,Ategorrieta-Ulia,2495000,10,90
 Chalet,Alcalde José Elosegi,2495000,10,190
 Chalet,Antiguo,2475000,8,75
 Chalet,Calle Amezti 31,2270000,3,90
-Chalet,Alcalde J. Elosegi Hiribidea,2200000,5,1.000
+Chalet,Alcalde J Elosegi Hiribidea,2200000,5,1000
 Duplex,Calle Legazpi 6,2200000,0,43
 Chalet,Miramon-Zorroaga,2150000,5,20
 Chalet,Ategorrieta-Ulia,2150000,4,420
 Piso,Miraconcha 3,2100000,4,7
 Piso,Paseo Miraconcha 3,2100000,4,150
 Piso,Mirakontxa Pasealekua,2100000,4,12
-Chalet,Calle Ategorrieta s/n,2100000,15,1.004
-Chalet,Alcalde J. Elosegi Hiribidea,2100000,15,568
+Chalet,Calle Ategorrieta s/n,2100000,15,1004
+Chalet,Alcalde J Elosegi Hiribidea,2100000,15,568
 Piso,De Miraconcha Ibilbidea,2100000,4,10
 Piso,De Miraconcha Ibilbidea 3,2100000,4,8
 Piso,Miraconcha,2100000,4,8
@@ -64,7 +64,7 @@ Piso,Gros,1950000,3,144
 Ático,Kolon Pasealekua,1950000,4,70
 Chalet,Olaberria,1950000,5,780
 Chalet,Lasarmendi Bidea,1900000,8,24000
-Casa Rural,Lasarmendi Bidea 31,1900000,8,24.057
+Casa Rural,Lasarmendi Bidea 31,1900000,8,24057
 Piso,Calle Aldapeta s/n,1895000,3,126
 Piso,Calle Urbieta 2,1870000,3,15
 Piso,Calle Urbieta 2,1870000,3,107
@@ -73,8 +73,8 @@ Piso,Parte Vieja,1855000,5,219
 Chalet,Getaria,1850000,7,100
 Piso,Calle Hondarribia 1,1825000,3,94
 Piso,La Fe Pasealekua,1800000,4,120
-Chalet,gornutz auzoa 21,1770000,8,5.002
-Chalet,Hondarribia,1770000,8,5.002
+Chalet,gornutz auzoa 21,1770000,8,5002
+Chalet,Hondarribia,1770000,8,5002
 Chalet,Calle flores kalea 4 -20,1762000,5,340
 Piso,Calle Andia s/n,1750000,5,165
 Chalet,Paseo Oriamendi 60 -110,1750000,5,561
@@ -86,7 +86,7 @@ Piso,Calle Urbieta 2,1725000,3,137
 Piso,Urbieta,1725000,3,137
 Piso,barrio Miraconcha,1700000,2,90
 Chalet,Mandabide,1700000,3,500
-Chalet,Lasarte-Oria,1700000,5,6.200
+Chalet,Lasarte-Oria,1700000,5,6200
 Duplex,Antiguo,1690000,4,146
 Piso,Plaza FUNICULAR,1690000,3,10
 Piso,Plaza del Funicular,1690000,3,00
@@ -95,7 +95,7 @@ Piso,Paseo Miraconcha 14 -20,1650000,2,90
 Chalet,Calle Jaitzubia Auzoa,1650000,7,277
 Chalet,JAITZUBIA 176,1650000,7,3674
 Piso,barrio Miraconcha,1650000,2,78
-Chalet,jaitzubia auzoa,1625000,7,4.150
+Chalet,jaitzubia auzoa,1625000,7,4150
 Chalet,Miramon-Zorroaga,1600000,5,500
 Piso,barrio Amara Zaharra-Arbaizenea,1590000,4,122
 Piso,Paseo Miraconcha 5 -9,1590000,4,122
@@ -121,7 +121,7 @@ Chalet,Agerre Bidea,1495000,4,96
 Chalet,Hondarribia,1495000,3,270
 Chalet,Camino de Igara s/n,1490000,20,551
 Chalet,Portuetxe 83,1490000,20,719
-Chalet,Igara Bidea,1490000,20,3.500
+Chalet,Igara Bidea,1490000,20,3500
 Piso,De Zumalakarregi Hiribidea 13,1475000,3,117
 Chalet,Calle Bidasoa Ibilbidea,1450000,3,300
 Chalet,Calle Alkainbide s/n,1450000,5,340
@@ -137,11 +137,11 @@ Piso,Askatasunaren Hiribidea 24,1450000,3,118
 Duplex,Calle Prim s/n,1400000,4,182
 Piso,Zurriola Hiribidea,1400000,4,110
 Duplex,Calle Prim,1400000,4,182
-Chalet,Jaizubia Auzoa,1400000,6,14.000
+Chalet,Jaizubia Auzoa,1400000,6,14000
 Chalet,Ategorrieta-Ulia,1400000,7,268
 Chalet,Ategorrieta-Ulia,1400000,7,253
 Duplex,Prim 47,1400000,4,114
-Chalet,Jaitzubia Auzoa 47 B,1400000,5,5.650
+Chalet,Jaitzubia Auzoa 47 B,1400000,5,5650
 Piso,ZURRIOLA,1400000,4,150
 Piso,Antso Jakituna Hiribidea 2,1395000,4,249
 Piso,Calle Intxaurrondo 72,1388140,4,112
@@ -159,15 +159,15 @@ Piso,Urbieta,1300000,2,79
 Piso,Foru Pasealekua,1295000,3,10
 Duplex,Paseo de Salamanca,1295000,5,299
 Piso,Avenida De Zumalakarregi,1290000,3,24
-Chalet,Agiti Bidea,1290000,7,5.000
+Chalet,Agiti Bidea,1290000,7,5000
 Chalet,Calle Intxaurrondo,1290000,7,450
 Piso,Avenida ZUMALACARREGUI 15,1290000,3,30
 Piso,Plaza Zubieta,1290000,5,195
-Chalet,Jaitzubia Auzoa,1275000,4,2.750
+Chalet,Jaitzubia Auzoa,1275000,4,2750
 Piso,Parte Vieja,1275000,4,230
 Chalet,Jaitzubia Auzoa,1275000,4,130
 Chalet,Hondarribia,1275000,4,139
-Chalet,Kaikutegui,1275000,4,2.750
+Chalet,Kaikutegui,1275000,4,2750
 Piso,barrio Área Romántica,1265000,3,90
 Chalet,amezti,1255000,5,667
 Piso,De Zumalakarregi Hiribidea s/n,1250000,4,41
@@ -177,7 +177,6 @@ Duplex,Baenako Dukea Pasealekua,1250000,6,141
 Duplex,barrio Miraconcha,1250000,4,24
 Chalet,Hondarribia,1250000,4,33
 Piso,Paseo Fueros 1 -5,1250000,3,113
-Duplex,7 y 11,5 m2 el ppal con vestidor y baño incorporado 2º baño en distribuidor 3 terrazas de 15-14 y 12 m2 hacia la bahía y al paseo Duque de baena acceso al nivel superior    *planta alta: 167 78 m2 totales de los cuales 76,6,208
 Piso,Calle Miramar 1 -4,1250000,5,140
 Duplex,Calle Zubieta,1250000,9,218
 Piso,Zumalacarregui 27,1250000,4,145
@@ -188,7 +187,7 @@ Piso,Calle Miramar,1250000,4,138
 Chalet,lauaxeta,1250000,4,156
 Chalet,Hondarribia,1250000,4,33
 Chalet,Jaitzubia Auzoa,1225000,4,363
-Chalet,Igeldo,1225000,5,2.000
+Chalet,Igeldo,1225000,5,2000
 Chalet,Marabieta Bidea,1225000,5,307
 Chalet,Marabieta Bidea,1225000,5,48
 Piso,Avenida de la Libertad,1200000,2,60
@@ -213,7 +212,7 @@ Piso,Mirakontxa Pasealekua 42 -28,1100000,2,76
 Piso,Calle Narrika,1100000,6,260
 Piso,INFANTE DON JUAN,1100000,2,90
 Piso,Calle Narrika,1100000,6,238
-Chalet,Padre Orkolaga Ibilbidea,1098000,5,5.238
+Chalet,Padre Orkolaga Ibilbidea,1098000,5,5238
 Chalet,Calle Cristobal Balenciaga Kalea 27 -114,1098000,5,540
 Chalet,Calle CRISTOBAL BALENCIAGA,1098000,5,180
 Ático,Paseo Salamanca s/n,1090000,3,42
@@ -246,9 +245,9 @@ Piso,Urbieta,985000,5,160
 Piso,Calle Urbieta Kalea 47,985000,5,195
 Piso,barrio Área Romántica,985000,5,160
 Chalet,Calle Patxikuene,980000,3,99
-Chalet,Garmendi Bidea,980000,5,2.732
+Chalet,Garmendi Bidea,980000,5,2732
 Chalet,Jaizubia Auzoa,980000,6,242
-Piso,Hondarribia,980000,6,3.700
+Piso,Hondarribia,980000,6,3700
 Piso,Calle urbieta,980000,5,190
 Ático,Calle del Caserío Parada 9,978000,3,110
 Piso,Paseo de Bera Bera,975000,4,157
@@ -292,7 +291,7 @@ Piso,Calle Urbieta s/n,925000,3,113
 Chalet,Martieta Etxadia,925000,4,700
 Piso,barrio Área Romántica,925000,3,90
 Chalet,Orlegimendi Etxadia Etxetaldea,921780,4,146
-Piso,Alcalde J. Elosegi Hiribidea 52,920000,4,32
+Piso,Alcalde J Elosegi Hiribidea 52,920000,4,32
 Piso,Ronda Kalea,920000,3,135
 Piso,Boulevard Zumardia,910000,3,96
 Piso,barrio Área Romántica,910000,3,80
@@ -310,7 +309,7 @@ Chalet,Calle Isidro Ansorena 44,900000,4,85
 Piso,Avenida Ategorrieta,900000,4,00
 Casa Rural,Amasa Auzoa Auzoa,900000,6,239
 Chalet,Ategorrieta-Ulia,900000,5,193
-Chalet,Alto Mendiola Bidea,900000,5,1.000
+Chalet,Alto Mendiola Bidea,900000,5,1000
 Duplex,Calle Matxin Arzu,900000,4,40
 Chalet,barrio Bidebieta,900000,5,1000
 Piso,De Zumalakarregi Hiribidea 23,895000,5,11
@@ -336,7 +335,6 @@ Piso,Calle Garibai s/n,885000,4,150
 Piso,barrio Área Romántica,885000,4,150
 Piso,Calle Prim,880000,3,96
 Piso,Calle Prim 43 -53,880000,3,115
-Ático,00m² construidos + dos terrazas de superficie 60m² y 9m² construidos.    - DISTRIBUCIÓN en dos plantas tipo Dúplex novena (ático) y décima (sobreático).    *PLANTA NOVENA (ÁTICO): 119m² construidos - 101,59m² útiles + terraza de 60,6,204
 Chalet,Oiartzun,880000,4,240
 Ático,843750213,Calle José Arana,880000,580
 Chalet,Algorrieta bidea 1,880000,4,350
@@ -362,11 +360,11 @@ Chalet,Markole Auzoa,850000,6,210
 Piso,Calle Elkano,850000,4,135
 Piso,barrio Área Romántica,850000,3,105
 Chalet,Markole Auzoa,850000,6,960
-Chalet,Barrio Santa Barbara,850000,4,1.800
+Chalet,Barrio Santa Barbara,850000,4,1800
 Casa Rural,Elbarrena Auzoa,850000,5,300
 Piso,Calle Alcalde José Elosegui 50 -54,850000,4,207
 Piso,Calle Gipuzkoa,850000,4,126
-Chalet,Artadi Auzoa,850000,4,17.34
+Chalet,Artadi Auzoa,850000,4,1734
 Piso,Calle Mandabidea 1,850000,2,66
 Piso,MIRACRUZ,845000,3,106
 Piso,Nafarroa Hiribidea 30,845000,5,196
@@ -430,9 +428,9 @@ Casa Rural,Zizurkil Diseminado Barreiatua,795000,5,207
 Chalet,Calle Mendiburu,795000,4,143
 Piso,Pio Baroja,790000,4,144
 Piso,Avenida De Zumalakarregi,790000,2,67
-Piso,Calle Claudio A. Luzuriaga 2,790000,3,14
+Piso,Calle Claudio A Luzuriaga 2,790000,3,14
 Chalet,barrio Miracruz,790000,4,250
-Piso,Avenida ZUMALACARREGUI 15,790000,2,84.06
+Piso,Avenida ZUMALACARREGUI 15,790000,2,8406
 Piso,Zarategi Pasealekua 6,790000,3,56
 Chalet,Antziola Auzoa,790000,5,318
 Chalet,Jaizubia auzoa 30 -47,790000,4,250
@@ -464,7 +462,7 @@ Chalet,Jaizubia Hiribidea,775000,6,480
 Piso,De Francia Ibilbidea,770000,2,66
 Piso,Calle Aldamar,770000,4,143
 Piso,Aldamar,770000,4,120
-Piso,Alcalde J. Elosegi Hiribidea,770000,4,153
+Piso,Alcalde J Elosegi Hiribidea,770000,4,153
 Piso,Frantzia Pasealekua s/n,770000,2,75
 Piso,Calle Aldamar 34,770000,4,6
 Piso,Calle Birmingham 37,770000,4,8
@@ -527,7 +525,7 @@ Piso,Calle Prim,730000,4,110
 Duplex,Hondarribia,730000,3,120
 Chalet,Upazan Auzoa 153 -154,730000,5,509
 Piso,Lapurdi 15,730000,3,110
-Casa Rural,Aia,730000,10,45.000
+Casa Rural,Aia,730000,10,45000
 Piso,Calle Marina s/n,726000,3,120
 Piso,Calle Loiola s/n,725000,5,11
 Piso,Calle San Martzial,725000,2,32
@@ -587,9 +585,9 @@ Piso,Nafarroa Hiribidea,695000,4,130
 Piso,Via GRAN 9,695000,4,130
 Piso,Nafarroa Hiribidea 30,695000,4,153
 Piso,Calle San Francisco,695000,3,85
-Chalet,Alto de Gaintxurizketa,695000,6,10.000
-Chalet,Lapice - Larreaundi - Olaberria - Meaka,695000,6,143.63
-Chalet,Lapice - Larreaundi - Olaberria - Meaka,695000,6,10.000
+Chalet,Alto de Gaintxurizketa,695000,6,10000
+Chalet,Lapice - Larreaundi - Olaberria - Meaka,695000,6,14363
+Chalet,Lapice - Larreaundi - Olaberria - Meaka,695000,6,10000
 Chalet,Calle Antsorena Anaien 16,695000,5,197
 Chalet,Lapice - Larreaundi - Olaberria - Meaka,690000,5,161
 Piso,Calle Narrika,690000,3,112
@@ -633,7 +631,7 @@ Piso,Calle San Francisco 29 -33,679000,2,91
 Piso,San Frantzisko,679000,2,91
 Piso,Gros,679000,2,80
 Chalet,Calle Belitz,678000,4,134
-Chalet,Calle Belitz,678000,4,8.000
+Chalet,Calle Belitz,678000,4,8000
 Chalet,Calle Belitz 33,678000,4,8000
 Piso,Calle Mandabidea,675000,1,40
 Piso,Calle Arrasate s/n,675000,2,74
@@ -683,7 +681,7 @@ Piso,Paseo De Zorroaga,650000,4,145
 Piso,Mirakontxa Pasealekua,650000,2,79
 Chalet,Pinar - Anaka - Belaskoenea,650000,5,188
 Chalet,Calle Reina Isabel,650000,5,320
-Casa Rural,Hondarribia,650000,5,10.000
+Casa Rural,Hondarribia,650000,5,10000
 Piso,Calle San Bartolome Gaina 20,650000,4,122
 Piso,Paseo de Miraconcha,650000,2,68
 Estudio,Calle Ola 12 -18,650000,0,160
@@ -702,11 +700,11 @@ Piso,CENTRO PARTE VIEJA FERMIN CALBETON,650000,3,140
 Piso,Calle Garibai 7,650000,2,68
 Piso,Marina,650000,1,52
 Chalet,Errotazar Bidea 54,650000,4,73
-Casa Rural,Ventas Auzoa 104,650000,4,10.000
+Casa Rural,Ventas Auzoa 104,650000,4,10000
 Piso,tolosa 79,650000,3,100
 Piso,San Juan,650000,4,130
 Piso,Calle Zubieta 1,650000,1,52
-Chalet,Antziola Auzoa,650000,8,42.000
+Chalet,Antziola Auzoa,650000,8,42000
 Chalet,Carretera Molino 3,650000,14,407
 Piso,Calle marina 1,650000,1,58
 Piso,barrio Área Romántica,650000,3,90
@@ -776,7 +774,7 @@ Piso,Calle Segundo Izpizua,620000,3,47
 Piso,Parte Vieja,620000,6,120
 Piso,San Juan 9,620000,5,185
 Piso,Calle San Martin 53,620000,3,12
-Chalet,Agustinas,620000,3,41.822
+Chalet,Agustinas,620000,3,41822
 Ático,Calle Segundo Izpizua,618000,2,71
 Piso,Calle Donostia,615000,3,20
 Chalet,Andoain,615000,4,600
@@ -788,16 +786,16 @@ Chalet,Zaldibia,605000,6,298
 Piso,barrio Área Romántica,605000,3,105
 Chalet,Calle Olatxoaldea  14,600000,4,140
 Piso,Gernikako Arbola Lorategiak,600000,4,12
-Casa Rural,Barrio Aldapa,600000,10,1.200
+Casa Rural,Barrio Aldapa,600000,10,1200
 Chalet,Calle Mendelu 15,600000,6,226
 Chalet,Iparralde Hiribidea,600000,6,326
 Piso,Plaza Ignacio Mercader,600000,3,36
-Chalet,Elizmendi Auzoa,600000,4,1.430
+Chalet,Elizmendi Auzoa,600000,4,1430
 Casa Rural,INTXAURTXUETA AUZOA 38,600000,4,548
 Casa Rural,Elizmendi Auzoa,600000,4,575
 Duplex,Calle Baxoalde,600000,4,155
 Piso,Calle Zarautz,600000,2,67
-Casa Rural,Aiztunalde Auzoa,600000,3,1.000
+Casa Rural,Aiztunalde Auzoa,600000,3,1000
 Casa Rural,URTETA,600000,4,659
 Piso,Plaza Etxeberri de los 1,600000,3,94
 Piso,gregorio abartzuza,599950,4,7
@@ -816,7 +814,7 @@ Piso,Calle San Martin,595000,3,68
 Piso,barrio Área Romántica,595000,3,88
 Piso,San Martin,595000,3,95
 Piso,Calle Lapurdi 27,595000,3,119
-Chalet,Calle Kristobal Balenziaga,595000,4,2.000
+Chalet,Calle Kristobal Balenziaga,595000,4,2000
 Piso,Calle Pasaia 8,595000,4,151
 Chalet,Lapice - Larreaundi - Olaberria - Meaka,595000,1,43
 Chalet,Calle PLACETA 3,595000,4,120
@@ -830,7 +828,7 @@ Piso,barrio Área Romántica,590000,5,102
 Chalet,Jaizubia - Urdanibia - Puiana,590000,4,64
 Piso,Plaza Mendeurren,590000,2,71
 Piso,Oriamendi s/n,590000,3,20
-Piso,E.Urdangarin Pasealekua,590000,4,170
+Piso,EUrdangarin Pasealekua,590000,4,170
 Chalet,ZUBIZKITZA,590000,4,240
 Piso,Calle Aralar Mendia Kalea 22,590000,3,89
 Piso,Paseo Oriamendi,590000,3,58
@@ -896,7 +894,7 @@ Piso,miracruz,550000,2,25
 Piso,Camino MARBIL 26,550000,2,62
 Piso,Calle Legazpi 8 -12,550000,3,107
 Chalet,Calle Karobiaga 50 -58,550000,5,240
-Casa Rural,Barreiatua 28,550000,4,12.000
+Casa Rural,Barreiatua 28,550000,4,12000
 Casa Rural,BILDAIN 31,550000,5,10000
 Chalet,Isasti Etxadia Etxadia,550000,3,97
 Chalet,Calle Luis Mari Tolosa 30,550000,3,113
@@ -904,7 +902,7 @@ Chalet,Urretxu,550000,4,199
 Piso,Calle San Martzial,550000,4,126
 Chalet,Pinar - Anaka - Belaskoenea,550000,4,79
 Piso,Alai Auzategia Auzoa 9,550000,3,118
-Piso,Karlos I.a Hiribidea,550000,4,139
+Piso,Karlos Ia Hiribidea,550000,4,139
 Casa Rural,Ormaiztegi Sakabanatua Barreiatua,550000,4,157
 Chalet,Calle Kristobal Balenziaga,550000,5,140
 Casa Rural,Zuaznabar Aldea Barreiatua 24,550000,4,564
@@ -922,7 +920,7 @@ Chalet,Gernikako Arbola Pasealekua,545000,3,192
 Piso,De Zumalakarregi Hiribidea 27,545000,4,140
 Piso,Gros,545000,3,120
 Chalet,Gernikako Arbola Pasealekua 48,545000,3,190
-Casa Rural,Mardari Auzoa 1,545000,7,1.400
+Casa Rural,Mardari Auzoa 1,545000,7,1400
 Piso,Kolon Pasealekua,540000,3,91
 Piso,Calle San Martin,540000,1,53
 Piso,Amezketa,540000,3,00
@@ -964,8 +962,8 @@ Piso,Calle SAN MARTIN 47,525000,2,8
 Ático,Kale Nagusia,525000,4,130
 Piso,Duque de Mandas,525000,3,107
 Piso,barrio Zona Anoeta,525000,3,102
-Piso,Calle Real Cia.Gip.Caracas,525000,3,102
-Piso,Real Cia.Gip.Caracas,525000,3,101
+Piso,Calle Real CiaGipCaracas,525000,3,102
+Piso,Real CiaGipCaracas,525000,3,101
 Chalet,Calle Errotagain,525000,5,40
 Chalet,Calle Jolo,520000,5,190
 Piso,Calle Urbieta,520000,3,101
@@ -976,7 +974,7 @@ Chalet,Calle TORIBIO ALTZAGA 14,520000,4,410
 Piso,miracruz 22,520000,2,23
 Chalet,Hondarribia,520000,7,2400
 Piso,Calle Urbieta,518000,2,75
-Piso,Isabel II.a Etorbidea 3,518000,4,98
+Piso,Isabel IIa Etorbidea 3,518000,4,98
 Piso,Urbieta,518000,2,75
 Piso,Urbieta,518000,2,64
 Piso,Urbieta,518000,2,67
@@ -1039,10 +1037,10 @@ Piso,Boulevard zumardia,495000,1,46
 Piso,Plaza Constitución 15,495000,4,147
 Piso,Hondarribia,495000,2,61
 Piso,Doctor Marañon Ibilbidea,495000,3,86
-Piso,Isabel II.a Etorbidea,495000,4,130
+Piso,Isabel IIa Etorbidea,495000,4,130
 Piso,Calle Mirakruz,495000,3,29
 Piso,Madrid Etorbidea 8,495000,4,129
-Piso,Calzada Vieja de Ategorrieta 33,495000,3,1.200
+Piso,Calzada Vieja de Ategorrieta 33,495000,3,1200
 Duplex,Nagusia,495000,4,73
 Piso,Avenida Carlos I,495000,4,130
 Piso,Parte Vieja,495000,4,105
@@ -1068,7 +1066,7 @@ Piso,Boulevard Zumardia 18,490000,2,81
 Ático,Calle Eustasio Amilibia 7,490000,3,103
 Piso,Eustasio Amilibia,490000,2,75
 Estudio,Calle Macondo 7,490000,0,96
-Ático,Dr. Claudio Delgado 2,490000,2,8
+Ático,Dr Claudio Delgado 2,490000,2,8
 Piso,Orio,490000,4,143
 Piso,Arriola Pasealekua 15,487000,2,74
 Ático,Mandasko Dukearen Pasealekua,485000,2,67
@@ -1084,7 +1082,7 @@ Piso,Calle de San Jerónimo 22,485000,2,40
 Casa Rural,Iparralde Bidea,483000,8,86
 Casa Rural,Iparralde Bidea 8,483000,4,86
 Piso,Centro - Mendibil - Santiago,480000,4,160
-Chalet,Elgoibar,480000,3,2.120
+Chalet,Elgoibar,480000,3,2120
 Piso,Calle Urbieta,480000,3,68
 Ático,Madrid Etorbidea 20,480000,2,22
 Chalet,Santa Barbara Auzoa,480000,8,430
@@ -1199,7 +1197,7 @@ Piso,Plaza Santiago,445000,2,75
 Ático,Calle Polentzarrene,445000,4,110
 Ático,urbieta,445000,3,112
 Piso,Calle Abaromendi 3,445000,2,64
-Chalet,Calle Juan Bautista Agirre 24,444999,3,166.5
+Chalet,Calle Juan Bautista Agirre 24,444999,3,1665
 Chalet,Asteasu,444999,4,50
 Duplex,Centro - Mendibil - Santiago,440000,5,143
 Piso,Calle Urbieta s/n,440000,3,75
@@ -1237,7 +1235,7 @@ Piso,GI-631,425000,5,276
 Casa Rural,Antzuola,425000,4,142
 Piso,Calle Itur,425000,2,5
 Piso,Calle Javier Barkaiztegi s/n,425000,2,75
-Piso,Igerobi Bidea,425000,3,23.248
+Piso,Igerobi Bidea,425000,3,23248
 Piso,Calle Elkano 39,425000,3,86
 Piso,Fermin Calbeton 33,420000,2,73
 Piso,Calle Autonomia 19,420000,4,85
@@ -1260,7 +1258,7 @@ Piso,Errota zar Bidea 28,415000,4,138
 Duplex,Aretxabaleta,415000,4,20
 Piso,Prim 17,415000,1,45
 Piso,Calle Txurruka,415000,2,71
-Piso,barrio Amara,415000,2,4.50
+Piso,barrio Amara,415000,2,450
 Piso,Errondo Pasealekua 4,415000,2,77
 Piso,Calle Eusko Gudarien,412800,3,87
 Chalet,Calle Misionero Lekuona,412000,3,118
@@ -1294,7 +1292,7 @@ Piso,Calle Indamendi 12,400000,4,12
 Piso,José María Salaberria,400000,3,96
 Piso,larramendi 12,400000,3,116
 Ático,Calle Olatxoaldea 2,400000,3,98
-Casa Rural,Albiztur,400000,5,120.000
+Casa Rural,Albiztur,400000,5,120000
 Piso,Alai Auzategia Auzoa,400000,3,92
 Chalet,Erdigunea Gunea,400000,4,420
 Piso,Calle Zazpiturrieta,400000,5,146
@@ -1358,7 +1356,7 @@ Piso,Calle Zarautz,390000,2,62
 Piso,Calle Javier Ugarte Kalea,390000,2,92
 Piso,Deba,390000,3,86
 Piso,Eibar,390000,3,120
-Piso,Isabel II.a Etorbidea 7,390000,3,80
+Piso,Isabel IIa Etorbidea 7,390000,3,80
 Piso,Embeltran,390000,3,68
 Duplex,Eibar,390000,4,135
 Piso,Calle Abaromendi,390000,2,68
@@ -1378,7 +1376,7 @@ Piso,De Gantxegi Bidea,388000,4,127
 Piso,Calle San Andrés Pasealekua 5,387730,3,94
 Piso,Agustinas,387000,3,100
 Piso,Calle Paseo de Herrera 24,386096,3,110
-Ático,Karlos I.a Hiribidea,385000,3,11.04
+Ático,Karlos Ia Hiribidea,385000,3,1104
 Piso,Calle Untzaene 4,385000,3,87
 Piso,barrio Zona Anoeta,385000,3,70
 Piso,Galtzaraborda Hiribidea,385000,3,89
@@ -1490,7 +1488,7 @@ Duplex,Hernani,360000,4,03
 Duplex,Lastaola Postetxearen 10 -20,360000,3,112
 Piso,Calle Ikutza Kortsarioa,360000,3,108
 Piso,Calle Kosta,360000,3,71
-Ático,Isabel II.a Etorbidea 6,360000,2,40
+Ático,Isabel IIa Etorbidea 6,360000,2,40
 Piso,virgen del carmen,360000,2,80
 Piso,Calle Aita Lertxundi,360000,3,90
 Piso,Calle Barandiarán,360000,3,115
@@ -1560,7 +1558,7 @@ Piso,Calle Elkano 12,350000,3,85
 Piso,JUANGITENEA 4,350000,2,21
 Piso,San Francisco,350000,1,42
 Piso,Calle Intxaurrondo 60,350000,4,80
-Piso,Isabel II.a Etorbidea,350000,3,84
+Piso,Isabel IIa Etorbidea,350000,3,84
 Piso,GENERAL JAUREGI 5,350000,3,88
 Piso,Calle Enbeltran s/n,350000,3,9
 Piso,Calle Katalina Eleizegi,350000,3,82
