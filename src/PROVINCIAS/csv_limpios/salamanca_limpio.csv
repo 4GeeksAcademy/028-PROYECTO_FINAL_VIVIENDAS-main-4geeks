@@ -1,0 +1,1801 @@
+Tipo de inmueble,Dirección,Precio,Habitaciones
+Piso ,Plaza de Gabriel y Galán 7 ,319999 ,4
+Piso ,Paseo de Carmelitas ,725000 ,8
+Ático ,Calle Volta 11 ,210000 ,3
+Piso ,Calle José Jáuregui 12 ,287000 ,4
+Ático ,Calle Correhuela ,360000 ,3
+Piso ,Calle San Mateo ,359000 ,7
+Piso ,Plaza de Madrid ,120000 ,3
+Piso ,Avenida de los Reyes de España 26 ,139000 ,1
+Piso ,Calle Antonio García Boiza 13 ,115000 ,3
+Piso ,Calle Saucelle 5 ,148000 ,3
+Piso ,Calle Batuecas 17 ,105000 ,2
+Piso ,JOAQUIN COSTA ,119900 ,3
+Piso ,Calle jose manuel de villena ,229900 ,3
+Ático ,Calle San Vicente ,220000 ,2
+Ático ,Avenida Portugal ,405000 ,4
+Piso ,barrio Sancti Spiritus-San Juan ,449000 ,4
+Piso ,Paseo de Canalejas ,255000 ,4
+Piso ,Paseo de Canalejas 11 ,293000 ,5
+Piso ,Calle Orellana ,98000 ,2
+Piso ,Paseo de San Vicente 36 ,215000 ,3
+Piso ,Paseo Luis Cortés ,128500 ,2
+Piso ,san patricio ,349900 ,3
+Piso ,Calle Álvaro Gil 27 ,270000 ,4
+Piso ,Paseo de Canalejas 74 ,258000 ,4
+Piso ,Calle Santiago Diego Madrazo ,119000 ,1
+Piso ,Calle María Auxiliadora ,365000 ,4
+Duplex ,Calle la beira ,159500 ,3
+Piso ,Paseo de la Estación ,190000 ,3
+Piso ,Plaza del Santo ,395000 ,4
+Piso ,Calle Perú ,198000 ,3
+Piso ,Calle Batalla del Salado ,189000 ,3
+Piso ,Calle Sánchez Llevot ,298000 ,3
+Piso ,Calle Sol Oriente ,369999 ,6
+Piso ,Calle Toreses ,110000 ,2
+Piso ,Calle Pinto ,295000 ,2
+Piso ,Calle Bermejeros ,297000 ,6
+Piso ,Calle Bolívar ,122000 ,3
+Ático ,barrio San Bernardo ,198000 ,2
+Chalet ,Pizarrales ,129900 ,3
+Piso ,barrio Labradores ,225000 ,4
+Piso ,barrio San Esteban-San Cristobal ,240000 ,4
+Piso ,Calle María Auxiliadora 13 ,245000 ,4
+Chalet ,Pizarrales ,70000 ,3
+Piso ,Ciudad Real ,110000 ,2
+Piso ,Ronda de Sancti-Spiritus ,250000 ,2
+Piso ,Via Gran 16 ,399950 ,7
+Piso ,Calle Gómez Arias 9 ,149900 ,3
+Piso ,Paseo del Doctor Torres Villarroel 51 ,250000 ,3
+Piso ,Calle Galileo 18 ,168000 ,3
+Piso ,Calle Víctor Pradera 6 ,135000 ,3
+Piso ,Calle Corrales de Monroy 13 ,225000 ,2
+Chalet ,Calle Pintor Celso Lagar 11 ,250000 ,5
+Piso ,Paseo de la Estación 22 ,270000 ,3
+Piso ,Calle Zamora s/n ,179999 ,1
+Piso ,Calle Zamora 58 ,335000 ,2
+Ático ,Paseo del Doctor Torres Villarroel 1 ,1099000 ,4
+Piso ,Calle Ferral 2 ,147000 ,3
+Piso ,Paseo de la Estación 22 ,275000 ,4
+Piso ,Calle José Jáuregui 12 ,330000 ,4
+Piso ,Paseo del Doctor Torres Villarroel 51 ,210000 ,4
+Piso ,Pozo Amarillo 25 ,275000 ,3
+Piso ,Avenida de Alfonso VI ,125000 ,2
+Estudio ,Calle Arquitecto Repullés y Vargas 20 ,75500 ,0
+Piso ,Calle Arroyo de la Lastra ,138600 ,2
+Ático ,Calle Arroyo de la Lastra ,151200 ,2
+Piso ,Paseo del Rollo ,155000 ,4
+Piso ,Calle Pollo Martín ,365000 ,4
+Piso ,Puerta de Zamora ,240000 ,3
+Piso ,Avenida de los Comuneros ,159900 ,4
+Piso ,Calle Independencia 13 ,120000 ,1
+Piso ,barrio San Bernardo ,115000 ,1
+Piso ,barrio Labradores ,249000 ,3
+Piso ,Calle San Pablo 96 ,235000 ,2
+Piso ,Calle Arco s/n ,399999 ,3
+Estudio ,Calle Pollo Martín 34 ,100000 ,0
+Piso ,Calle Sol Oriente ,220000 ,3
+Ático ,Barrio Blanco ,245000 ,3
+Chalet ,Barrio Blanco ,159900 ,2
+Chalet ,barrio Universidad-Tenerías ,250000 ,2
+Piso ,barrio Carmelitas ,205000 ,4
+Piso ,barrio Carmelitas ,125000 ,1
+Chalet ,barrio Universidad-Tenerías ,250000 ,2
+Piso ,Calle El Bierzo 37 ,190000 ,3
+Piso ,Calle Pintores 5 ,149900 ,3
+Ático ,Calle Oropéndola 1 ,210000 ,3
+Ático ,Calle Volta 13 ,249999 ,3
+Piso ,Avenida de Filiberto Villalobos ,119000 ,1
+Piso ,Avenida de los Comuneros ,213900 ,4
+Piso ,Calle Arco s/n ,422000 ,4
+Piso ,Paseo del Rollo ,98000 ,1
+Piso ,Plaza España ,295000 ,4
+Piso ,Plaza España ,369900 ,4
+Piso ,Paseo de Canalejas ,255000 ,4
+Piso ,Calle Greco ,175000 ,4
+Piso ,Avenida Portugal ,195000 ,3
+Piso ,Calle Espoz y Mina ,355000 ,3
+Piso ,Paseo de Carmelitas ,259000 ,4
+Piso ,Paseo del Gran Capitán ,165000 ,4
+Piso ,Calle Azafranal ,410000 ,4
+Piso ,Calle Zamora ,330000 ,3
+Piso ,barrio Chinchibarra ,204900 ,3
+Piso ,Calle del Lazarillo de Tormes ,98000 ,3
+Piso ,Avenida de los Comuneros ,159900 ,4
+Piso ,Calle Condes de Crespo Rascón ,256000 ,4
+Piso ,barrio Carmelitas ,129900 ,1
+Piso ,Rollo - Puente Ladrillo ,125900 ,3
+Piso ,barrio San Bernardo ,99000 ,1
+Piso ,San José - Parador - Zurguen ,52000 ,3
+Piso ,Calle Muñoz Torrero 19 ,229900 ,3
+Estudio ,Paseo de Canalejas ,105000 ,0
+Piso ,Calle Reyes Católicos ,180000 ,1
+Ático ,barrio Sancti Spiritus-San Juan ,790000 ,4
+Piso ,Calle de Luis Anaya 24 ,64000 ,1
+Estudio ,Ronda de Sancti-Spiritus ,110000 ,0
+Piso ,Avenida de los Comuneros ,255000 ,5
+Piso ,Calle del Regato del Anís ,90000 ,2
+Piso ,Avenida Portugal ,225000 ,4
+Piso ,Pizarrales ,109999 ,3
+Piso ,Calle Arroyo de la Lastra 10 ,265800 ,3
+Piso ,Calle Pintores 5 ,162000 ,3
+Piso ,barrio San Vicente-Las Úrsulas ,310000 ,3
+Piso ,barrio Salesas ,180000 ,3
+Piso ,Calle Pintores 5 ,162000 ,3
+Piso ,Calle Arroyo de la Lastra 10 ,265800 ,3
+Piso ,Calle Bolivia 5 ,150000 ,3
+Piso ,Calle de Torres Quevedo ,145000 ,2
+Piso ,barrio Centro ,235000 ,3
+Piso ,Avenida Portugal ,194990 ,4
+Chalet ,Calle Pico de Maladeta ,165000 ,3
+Piso ,Calle Don Quijote ,138900 ,3
+Piso ,Calle CATALUÑA 7 ,65000 ,2
+Piso ,Calle del Maestro Valverde ,68000 ,3
+Piso ,Paseo del Rollo ,145000 ,3
+Piso ,barrio Chinchibarra ,95000 ,3
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,barrio Garrido sur ,120000 ,1
+Piso ,barrio Carmelitas ,164900 ,2
+Chalet ,barrio Capuchinos-Glorieta-C. Jardín ,275000 ,5
+Piso ,barrio Chinchibarra ,115000 ,2
+Piso ,La Salle - Vistahermosa ,104500 ,2
+Piso ,Prosperidad - Delicias ,219000 ,4
+Piso ,Calle Toro ,495000 ,2
+Piso ,Calle Diego de Almagro ,107000 ,3
+Piso ,barrio La Platina-Hospital-Campus ,283000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,219000 ,4
+Chalet ,San José - Parador - Zurguen ,110000 ,3
+Piso ,barrio Garrido norte ,130000 ,3
+Piso ,barrio San Esteban-San Cristobal ,299000 ,3
+Chalet ,San José - Parador - Zurguen ,110000 ,2
+Piso ,barrio Sancti Spiritus-San Juan ,298000 ,4
+Piso ,barrio Salesas ,142000 ,3
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,Pizarrales ,69000 ,3
+Piso ,barrio Garrido norte ,165000 ,4
+Piso ,barrio San Vicente-Las Úrsulas ,140000 ,1
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,95000 ,1
+Piso ,Calle Amatos ,110000 ,3
+Piso ,barrio Garrido norte ,119999 ,3
+Ático ,Calle Arco ,520000 ,3
+Piso ,Avenida de Portugal ,280000 ,4
+Piso ,Rollo - Puente Ladrillo ,156000 ,3
+Piso ,Calle zamora ,229000 ,3
+Piso ,Vidal ,100000 ,3
+Piso ,Vidal ,138900 ,3
+Piso ,barrio Centro ,224900 ,2
+Piso ,barrio San Esteban-San Cristobal ,240000 ,4
+Piso ,Prosperidad - Delicias ,220000 ,3
+Piso ,Calle Astorga ,164000 ,3
+Piso ,Calle San Mateo 5 ,365000 ,4
+Chalet ,Calle de los Pajares 2 ,150000 ,6
+Chalet ,Calle Teresa de Jesús ,300000 ,4
+Duplex ,Calle Eras ,75000 ,1
+Ático ,Calle Arco ,475000 ,2
+Chalet ,Calle Saavedra y Fajardo ,199900 ,4
+Chalet ,Calle Doctor Hernández Juan 9 ,550000 ,5
+Piso ,barrio Centro ,224900 ,2
+Piso ,Calle Lilas 7 ,149000 ,3
+Piso ,Calle Pedro Cojos ,170000 ,3
+Piso ,GALILEO 23 ,124000 ,4
+Piso ,Paseo del Gran Capitán ,165000 ,4
+Piso ,Plaza San Justo ,200000 ,3
+Piso ,Calle Felipe Espino 11 ,329990 ,5
+Piso ,Calle San Blas 11 ,89250 ,2
+Piso ,Calle Alcalde García Peñuela 10 ,80300 ,2
+Piso ,Calle Ecuador 4 ,192000 ,4
+Ático ,Ronda de Sancti-Spiritus 5 ,288000 ,3
+Piso ,Calle Alcalde García Peñuela 10 ,76700 ,2
+Piso ,Sin Salida 3 ,94000 ,2
+Piso ,Carretera de Madrid 105 ,106200 ,2
+Piso ,Calle Alcalde García Peñuela 10 ,83300 ,3
+Piso ,Calle La Iglesia 18 ,65000 ,3
+Piso ,Calle Alcalde García Peñuela 10 ,65300 ,1
+Piso ,Calle Alcalde García Peñuela 10 ,84300 ,3
+Piso ,Calle Zamora ,390000 ,4
+Estudio ,Plaza Mayor ,220000 ,0
+Piso ,Plazuela Diego Hurtado de Mendoza 12 ,118000 ,2
+Piso ,Plaza de la Fuente 17 ,295000 ,2
+Piso ,Calle Maestro Jiménez ,95000 ,3
+Piso ,Calle Núñez de Balboa ,166000 ,2
+Piso ,Gil de Ontañón 4 ,269000 ,3
+Piso ,Avenida de París ,275000 ,3
+Piso ,Carretera Naharros ,117000 ,3
+Duplex ,Calle Zurbarán ,138795 ,4
+Piso ,Calle Rodillo ,115000 ,3
+Piso ,molino ,120000 ,3
+Chalet ,Calle Abetos ,300000 ,5
+Chalet ,Anselmo de dios ,135000 ,4
+Piso ,Paseo de Canalejas ,285000 ,3
+Chalet ,Calle Las Eras ,160000 ,4
+Piso ,ZAMORA ,360000 ,4
+Piso ,Ronda del Corpus 36 ,187000 ,4
+Piso ,Paseo de Rubens ,154000 ,3
+Piso ,Calle Corbacera 1 ,125000 ,3
+Piso ,Avenida de Portugal ,215000 ,4
+Chalet ,Calle Perdices ,305000 ,3
+Piso ,Calle Pisuerga ,129000 ,3
+Piso ,Calle Fernando de la Peña ,220000 ,4
+Piso ,Avenida de Portugal ,210000 ,4
+Piso ,San Fernando 2 ,110000 ,4
+Piso ,Calle Don Bosco ,120000 ,3
+Chalet ,Pelabravo ,1125000 ,6
+Piso ,barrio Centro ,380000 ,6
+Piso ,La Salle - Vistahermosa ,121000 ,4
+Piso ,Calle Condes de Crespo Rascón ,325000 ,4
+Piso ,Paseo del Doctor Torres Villarroel ,185000 ,3
+Chalet ,Calle Acacias 31 ,295000 ,4
+Chalet ,Calle silencio 7 ,270000 ,4
+Piso ,Calle Gil de Ontañón ,269000 ,3
+Chalet ,Calle Río Mondego 83 ,275000 ,4
+Chalet ,Sierra de Francia 27 ,375000 ,5
+Chalet ,Alcalde Navarro González 11 ,170000 ,4
+Piso ,Avenida Portugal ,290000 ,5
+Piso ,Calle Arriba 21 ,134900 ,1
+Piso ,Rollo - Puente Ladrillo ,135000 ,2
+Chalet ,Villamayor ,285000 ,5
+Piso ,barrio San Vicente-Las Úrsulas ,250000 ,4
+Piso ,Calle Doctor Jaime Vera ,250000 ,5
+Piso ,Cuesta del Sancti-Spíritus ,440000 ,3
+Piso ,Plaza PARRA. DE LA ,165000 ,2
+Chalet ,ALONDRAS ,480000 ,5
+Piso ,Calle Figueira da Foz ,110000 ,3
+Piso ,Plaza PARRA. DE LA ,165000 ,2
+Piso ,Simón Vela 7 ,80000 ,3
+Piso ,GALILEO 6 ,110000 ,3
+Piso ,Rubens 27 ,154000 ,3
+Piso ,Calle Muñoz Torrero ,315000 ,3
+Piso ,San José - Parador - Zurguen ,57000 ,2
+Ático ,LAS LILAS ,123900 ,3
+Piso ,Avenida de Portugal ,212900 ,3
+Chalet ,Paseo del Progreso ,590000 ,4
+Piso ,Calle María Auxiliadora ,270000 ,3
+Piso ,Calle Larga ,75000 ,2
+Chalet ,Camino MOZODIEL s/n ,300000 ,4
+Chalet ,Carretera Madrid ,339900 ,4
+Piso ,Plaza Diego Hurtado de Mendoza ,135000 ,2
+Piso ,barrio Estación ,150000 ,3
+Piso ,Calle de Jesús Arambarri 200 ,120000 ,2
+Piso ,Calle Carpinteros ,128000 ,2
+Piso ,Villares de la Reina ,95000 ,3
+Ático ,Calle Salesas ,550000 ,4
+Piso ,Calle San Justo ,239000 ,3
+Piso ,Avenida de San Agustín ,180000 ,3
+Piso ,Calle Arroyo de la Lastra ,92000 ,3
+Piso ,Paseo de Carmelitas ,485000 ,5
+Piso ,Plaza Cristóbal de Castillejo 1 ,80000 ,2
+Piso ,Santa Marta de Tormes ,101850 ,3
+Piso ,Calle Silvestre Sánchez Sierra ,275000 ,3
+Ático ,barrio Sancti Spiritus-San Juan ,459980 ,2
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,225000 ,4
+Piso ,barrio Centro ,370000 ,3
+Chalet ,Galindo y Perahuy ,185000 ,3
+Piso ,barrio Carmelitas ,189000 ,3
+Piso ,Prosperidad - Delicias ,155000 ,4
+Piso ,La Salle - Vistahermosa ,147000 ,2
+Piso ,DOYAGUE ,250000 ,2
+Chalet ,Carbajosa de la Sagrada ,700000 ,5
+Piso ,Calle tulipanes ,120000 ,3
+Piso ,Paseo del Rector Esperabé ,239500 ,2
+Piso ,Calle bachiller finardo valerio ,135000 ,3
+Piso ,Rollo - Puente Ladrillo ,165000 ,4
+Piso ,DOMINGUEZ BORDONA 13 ,125000 ,3
+Piso ,Rollo - Puente Ladrillo ,165000 ,4
+Piso ,Nogales delicado 1 ,123000 ,2
+Chalet ,Pelabravo ,180000 ,5
+Ático ,Pizarrales ,109000 ,3
+Piso ,Barrio Blanco ,160000 ,4
+Piso ,Calle Corrales de Monroy ,369000 ,5
+Piso ,Java ,127500 ,3
+Piso ,Calle Zamora ,360000 ,4
+Piso ,barrio Garrido sur ,150000 ,4
+Piso ,Vidal ,115000 ,3
+Piso ,Calle Rosas 10 ,65000 ,3
+Piso ,Prosperidad - Delicias ,155000 ,4
+Piso ,San José - Parador - Zurguen ,89000 ,3
+Piso ,Carbajosa de la Sagrada ,153000 ,3
+Piso ,barrio Salesas ,180000 ,3
+Chalet ,Huerta ,149000 ,4
+Chalet ,Villamayor ,275000 ,5
+Piso ,barrio Centro ,229000 ,2
+Piso ,barrio Salesas ,139000 ,3
+Piso ,Calle General Castaños ,114000 ,3
+Piso ,Rollo - Puente Ladrillo ,145500 ,2
+Estudio ,barrio Garrido sur ,89000 ,0
+Chalet ,Pelabravo ,180000 ,5
+Piso ,Plaza Carmelitas ,330000 ,4
+Piso ,Calle Teso de la Feria 23 ,115000 ,2
+Piso ,barrio San Esteban-San Cristobal ,275000 ,4
+Piso ,Pizarrales ,140000 ,4
+Piso ,Calle Teso de la Feria 39 ,103000 ,3
+Piso ,Villamayor ,93000 ,2
+Piso ,barrio Centro ,198000 ,3
+Piso ,barrio San Vicente-Las Úrsulas ,435000 ,4
+Piso ,Calle Rodríguez Fabres 23 ,177000 ,2
+Piso ,Calle Gil González Dávila 13 ,99000 ,3
+Chalet ,Peñaranda de Bracamonte ,145000 ,4
+Piso ,Calle Riaño ,120500 ,2
+Piso ,Calle del Lazarillo de Tormes 29 ,125000 ,4
+Piso ,Calle Santa María La Blanca 5 ,230000 ,3
+Piso ,Calle Rosas 10 ,85000 ,3
+Piso ,Avenida de Portugal 163 ,238000 ,4
+Chalet ,Calle Tomillo 17 ,225000 ,4
+Piso ,Calle del Lazarillo de Tormes 29 ,125000 ,4
+Piso ,Calle Larga 10 ,76000 ,2
+Ático ,Batalla de Salado ,149900 ,2
+Piso ,Calle del Río Guadalquivir 2 ,220000 ,3
+Chalet ,El Payo ,40000 ,5
+Chalet ,Castellanos de Villiquera ,80000 ,3
+Piso ,barrio Garrido sur ,154900 ,1
+Chalet ,Calle de Abajo ,95000 ,3
+Piso ,Via Gran ,348000 ,5
+Casa Rural ,Calle Enrique Fraile ,600000 ,15
+Piso ,Paseo de Carmelitas ,495000 ,5
+Piso ,Avenida Burgos ,170000 ,3
+Piso ,Calle Nueva Puente Ladrillo ,75000 ,1
+Piso ,Avenida de los Comuneros ,219000 ,4
+Piso ,Calle De la Uva 14 ,120000 ,3
+Piso ,Calle Maestro Salinas ,40000 ,5
+Piso ,Calle Polar Polar 10 ,375000 ,4
+Chalet ,Plaza Abajo ,190000 ,4
+Piso ,barrio San Vicente-Las Úrsulas ,180000 ,1
+Piso ,barrio Centro ,239900 ,2
+Piso ,barrio Centro ,245000 ,3
+Piso ,Calle Filiberto Villalobos 18 ,36980 ,4
+Chalet ,Calle Pedro Gutierrez Moya ,220000 ,4
+Piso ,Calle Vegas 16 ,89000 ,2
+Chalet ,Calle Valencia ,230000 ,3
+Ático ,Calle Alarcón 22 ,175000 ,3
+Chalet ,Calle Carrascal ,170000 ,5
+Piso ,Avenida de Carlos primero 6 ,29000 ,4
+Casa Rural ,Torresmenudas ,100000 ,5
+Piso ,Pizarrales ,81400 ,3
+Chalet ,Calle Feria 3 ,104990 ,3
+Piso ,Villamayor ,92000 ,3
+Piso ,Rollo - Puente Ladrillo ,152000 ,3
+Piso ,Castellanos de Moriscos ,86000 ,2
+Piso ,Santa Marta de Tormes ,69000 ,2
+Chalet ,Zarapicos ,85000 ,3
+Piso ,Prolongación de Avenida de la Serna 32 ,275000 ,3
+Piso ,Paseo de los Robles 37 ,120000 ,3
+Piso ,barrio Universidad-Tenerías ,136500 ,1
+Casa Rural ,Calle Hospital 6 ,85000 ,5
+Piso ,Avenida de Lasalle 74 ,94900 ,3
+Piso ,La Salle - Vistahermosa ,100000 ,2
+Piso ,barrio Universidad-Tenerías ,136500 ,1
+Piso ,Calle Río Riofrío ,87500 ,3
+Piso ,Calle Alarcón 12 ,180000 ,3
+Piso ,Calle San Ambrosio 12 ,165000 ,4
+Chalet ,Calle Arribes del Duero 19 ,340000 ,4
+Chalet ,Adriático ,199900 ,4
+Piso ,Paseo Carmelitas de las 69 ,259000 ,4
+Chalet ,Calle Príncipe Felipe ,199000 ,4
+Piso ,Calle Beira ,159500 ,3
+Piso ,Plaza Fontana 19 ,249999 ,3
+Piso ,Calle de Velázquez ,180000 ,3
+Ático ,Prosperidad - Delicias ,149900 ,2
+Piso ,Calle Depósito ,139000 ,3
+Chalet ,Carretera DE SALAMANCA 69 ,130000 ,4
+Piso ,Calle Estrecha 1 ,90000 ,3
+Piso ,Calle San Luis de Gonzaga 39 ,138000 ,3
+Piso ,Calle Valencia 48 ,465000 ,5
+Chalet ,Camino de los Huertos 10 ,299000 ,4
+Chalet ,Calle urbanización las canteras hondas 41 ,158000 ,3
+Piso ,Travesía Pinilla 10 ,98000 ,2
+Piso ,Calle Rodríguez Fabres 6 ,230000 ,4
+Chalet ,Calle Mayor ,158000 ,8
+Piso ,Calle Uruguay 6 ,165000 ,3
+Chalet ,Calle San Miguel 28 ,193000 ,3
+Chalet ,Calle Alondras 4 ,237000 ,4
+Piso ,Avenida de Portugal ,220000 ,4
+Chalet ,Calle Río Esla 3 ,195000 ,4
+Piso ,Paseo del Rollo ,98000 ,1
+Piso ,Calle Puerto Rico ,178000 ,3
+Piso ,Calle Pollo Martín ,365000 ,4
+Piso ,Ronda de Sancti-Spíritus ,303000 ,3
+Chalet ,Calle Velázquez ,355000 ,4
+Piso ,dos de mayo ,225000 ,3
+Piso ,Calle Río Águeda ,53900 ,3
+Chalet ,Calle Palomar ,150000 ,4
+Piso ,Paseo de la Estación ,159000 ,3
+Piso ,Calle Muñoz Torrero ,315000 ,3
+Piso ,Calle Jorge Ibor ,165000 ,3
+Piso ,Paseo de Carmelitas ,725000 ,8
+Piso ,Calle San Francisco Javier ,210000 ,3
+Chalet ,Calle Pedro Gutierrez Moya ,219999 ,4
+Duplex ,Calle Jade ,115000 ,3
+Piso ,Calle María Auxiliadora ,154900 ,1
+Chalet ,guadalquivir ,420000 ,5
+Piso ,Cuesta del Sancti-Spíritus ,525000 ,4
+Chalet ,Villamayor ,300000 ,3
+Piso ,Calle Nueva ,79900 ,2
+Piso ,Calle Independencia 13 ,120000 ,1
+Piso ,Calle san pablo 96 ,195000 ,1
+Piso ,Calle san pablo 96 ,325000 ,2
+Piso ,Calle san pablo 96 ,235000 ,2
+Piso ,Calle Santa Rita ,101000 ,2
+Chalet ,Calle Nápoles ,403000 ,3
+Piso ,Calle Abajo ,209000 ,3
+Piso ,Via Gran ,430000 ,4
+Piso ,Calle Bachiller Finardo Valerio ,135000 ,3
+Ático ,Avenida Portugal ,405000 ,4
+Piso ,Santa Marta de Tormes ,105000 ,3
+Piso ,Calle Caseta 2 ,73000 ,2
+Piso ,Calle Pico de Calvitero ,140000 ,3
+Piso ,Calle Muñoz Torrero ,250000 ,3
+Chalet ,Santa Marta de Tormes ,383000 ,5
+Chalet ,Calle del Prior ,35000 ,3
+Chalet ,Calle Alondras ,480000 ,5
+Piso ,Calle Rodríguez Fabres ,230000 ,4
+Piso ,Calle Carpinteros ,139000 ,3
+Piso ,Carretera de Ledesma ,99900 ,3
+Chalet ,Calle Bilbao ,230000 ,5
+Piso ,Villares de la Reina ,164000 ,3
+Piso ,Calle Horno ,130000 ,3
+Piso ,barrio Chinchibarra ,135000 ,4
+Piso ,La Salle - Vistahermosa ,135000 ,3
+Chalet ,Carrascal de Barregas ,270000 ,6
+Piso ,TORO ,495000 ,2
+Piso ,barrio Centro ,294000 ,2
+Casa Rural ,Plaza Maestro Manuel de Sena 10 ,172000 ,5
+Piso ,barrio San Vicente-Las Úrsulas ,435000 ,6
+Piso ,La Salle - Vistahermosa ,135000 ,3
+Piso ,Plaza Trujillo 18 ,103000 ,3
+Piso ,923781510 ,Avenida de Portugal 144 ,194990
+Chalet ,Espino de la Orbada ,89900 ,3
+Piso ,Calle Velázquez ,180000 ,3
+Piso ,Avenida de Italia ,164900 ,2
+Piso ,Rollo - Puente Ladrillo ,135000 ,2
+Chalet ,Calle Jazmín ,230000 ,4
+Piso ,Avenida Portugal 98 ,275500 ,4
+Chalet ,Plaza Mayor de Maldonado 15 ,128000 ,3
+Piso ,Rollo - Puente Ladrillo ,190000 ,3
+Chalet ,Camino Campo ,75000 ,4
+Piso ,Calle del Príncipe ,161900 ,1
+Piso ,Avenida de Federico Anaya ,165000 ,6
+Chalet ,Villamayor ,300000 ,3
+Piso ,Calle Cabuerco ,53000 ,2
+Piso ,Calle María Auxiliadora ,171900 ,1
+Ático ,Plaza PARQUE VALHONDO 25 ,142000 ,2
+Piso ,Plaza DE TRUJILLO s/n ,99900 ,3
+Piso ,Calle de Luis Anaya 20 ,64000 ,2
+Piso ,Calle Islas Canarias ,232000 ,4
+Piso ,barrio Sancti Spiritus-San Juan ,525000 ,4
+Ático ,Paseo Bajada del Río ,100000 ,1
+Chalet ,Eras 10 ,169000 ,4
+Piso ,Calle de Jesús Arambarri ,120000 ,2
+Piso ,Calle Alfonso de Castro ,240000 ,3
+Piso ,Calle Jamaica 2 ,126000 ,2
+Chalet ,Calle Carretera ,725000 ,5
+Piso ,Gardenia 13 ,132900 ,3
+Piso ,Calzada de Valdunciel ,72000 ,2
+Piso ,San José - Parador - Zurguen ,187500 ,2
+Piso ,Calle de la Chinchibarra ,210000 ,4
+Chalet ,San Cristobal de la Cuesta ,82000 ,2
+Piso ,Calle Limón ,115000 ,3
+Piso ,Colombia ,149000 ,3
+Piso ,Calle Rodillo ,195000 ,3
+Chalet ,Cabrerizos ,254500 ,4
+Piso ,barrio Garrido sur ,125000 ,1
+Piso ,Calle Sol Oriente 11 ,525000 ,4
+Piso ,barrio Chinchibarra ,210000 ,4
+Piso ,Paseo de Canalejas ,350000 ,3
+Piso ,Calle Rodillo ,195000 ,3
+Piso ,barrio Chinchibarra ,210000 ,4
+Ático ,Calle Ruta de la Plata ,85000 ,3
+Piso ,Castellanos de Moriscos ,70000 ,2
+Piso ,Calle ALCALDE GARCIA PEÑUELA ,84600 ,3
+Chalet ,Parque Picasso ,190000 ,3
+Piso ,Calle Calleja 5 ,85000 ,1
+Piso ,Calle Licenciados ,165000 ,3
+Piso ,Calle Santa Brígida ,120000 ,1
+Chalet ,Buenavista ,400000 ,4
+Piso ,Plaza REAL 7 ,60000 ,2
+Chalet ,Calle Ancha 13 ,285000 ,11
+Piso ,Calle Primero de Mayo 26 ,200000 ,3
+Chalet ,Villamayor ,172425 ,4
+Piso ,Aldeatejada ,95000 ,2
+Piso ,Calle Bachiller Finardo Valerio 9 ,135000 ,3
+Chalet ,San José - Parador - Zurguen ,188050 ,3
+Piso ,Miguel Angel 15 ,225000 ,3
+Chalet ,Calle Dimanas ,280000 ,4
+Piso ,Calle Bolivia 5 ,187000 ,4
+Piso ,Guzman bueno 2 -4 ,162000 ,3
+Chalet ,Calle Relatores 20 ,85000 ,3
+Chalet ,Ciudad-Rodrigo ,950000 ,3
+Chalet ,Plaza Rollo 5 ,269500 ,2
+Piso ,Calle del Lazarillo de Tormes ,115000 ,2
+Ático ,barrio Garrido sur ,405000 ,4
+Chalet ,Finca Corbacera 2 ,450000 ,5
+Piso ,Calle Alcalde Antonio Estella ,129990 ,3
+Piso ,Paseo de la Estación ,130000 ,3
+Chalet ,Calle los huertos ,185000 ,3
+Piso ,Calle Valles Mineros ,190000 ,3
+Piso ,Calle Pérez Oliva ,240000 ,2
+Ático ,Carretera Zamora ,178000 ,4
+Duplex ,Calle Bartolomé de las Casas 39 -41 ,230000 ,4
+Chalet ,Calle Espadaña ,259000 ,4
+Piso ,Cuesta del Sancti-Spíritus ,380000 ,4
+Chalet ,Camino del Rio ,320000 ,4
+Piso ,Paseo de la Estación 59 ,206000 ,3
+Piso ,Calle Bolívar ,135000 ,3
+Piso ,Calle Bolívar ,135000 ,3
+Piso ,Miguel de Cervantes 1 ,175000 ,3
+Chalet ,Camino del Rio ,320000 ,4
+Chalet ,Calle Espadaña ,259000 ,4
+Piso ,Calle Doctor Miguel Moraza ,110000 ,1
+Piso ,Calle Íscar Peyra ,328500 ,4
+Piso ,Pozo Amarillo ,239900 ,2
+Chalet ,Calle Enrique Fraile ,209000 ,2
+Piso ,Calle Miguel de Cervantes ,110000 ,4
+Piso ,Calle Pedro Cojos ,195000 ,3
+Piso ,Cuesta de la Raqueta 11 ,188000 ,3
+Piso ,Calle Batalla del Salado ,129000 ,2
+Piso ,Calle García de Quiñones ,298000 ,5
+Chalet ,Avenida de Lasalle ,265000 ,4
+Piso ,Avenida Campoamor ,170000 ,3
+Piso ,Avenida de Villamayor ,240000 ,4
+Piso ,Camino Cementerio ,120000 ,4
+Piso ,Calle de la Radio ,289000 ,3
+Chalet ,Calle Parada de Arriba ,186000 ,3
+Ático ,Calle Papín ,255000 ,2
+Chalet ,Calle Nápoles ,403000 ,4
+Chalet ,Calle Calzada Romana ,190000 ,3
+Chalet ,Calle de los Verdes ,189900 ,3
+Piso ,Calle Toreses ,179000 ,3
+Chalet ,Calle Ermita ,270000 ,4
+Ático ,BARTOLOME DE LAS CASAS 41 ,230000 ,4
+Piso ,Calle Vicente Beltrán de Heredia ,157000 ,2
+Piso ,Calle Sorias ,140000 ,1
+Piso ,Azahar ,85000 ,3
+Chalet ,Calle Abajo ,225000 ,4
+Chalet ,Calle Garcilaso de la Vega ,170000 ,3
+Piso ,Calle Pico de Almanzor ,145000 ,4
+Piso ,Calle Rodríguez Hernández 31 ,105000 ,2
+Piso ,Calle Iglesia ,68000 ,2
+Piso ,Fresno ,119000 ,3
+Piso ,Calle Valdivia ,171900 ,3
+Duplex ,Plaza Mayor ,800000 ,3
+Chalet ,Iglesia ,82000 ,3
+Chalet ,Calle las Viñas ,189900 ,4
+Piso ,Calle Toreros ,128000 ,3
+Chalet ,Avenida de Lasalle ,265000 ,4
+Chalet ,Calle ATALAYA ,260000 ,5
+Chalet ,Iglesia ,82000 ,3
+Ático ,BARTOLOME DE LAS CASAS 41 ,230000 ,4
+Piso ,Paseo del Doctor Torres Villarroel ,206000 ,3
+Piso ,Calle Oro ,135000 ,2
+Chalet ,Calle Santa Lucía ,228000 ,4
+Piso ,Calle Pico de Almanzor ,145000 ,4
+Piso ,Calle Sánchez Llevot ,294000 ,3
+Piso ,Plaza de Gabriel y Galán ,279999 ,5
+Chalet ,Calle Alondras ,470000 ,5
+Piso ,Calle Rosas ,72000 ,3
+Piso ,Calle Bolívar ,127900 ,3
+Piso ,Paseo de Carmelitas 13 ,259900 ,3
+Piso ,Calle del Maestro Valverde 16 ,75000 ,2
+Piso ,Avenida VILLAMAYOR ,240000 ,4
+Piso ,Calle Zamora ,390000 ,4
+Piso ,Calle María Auxiliadora ,367000 ,3
+Ático ,Avenida de Villamayor ,250000 ,2
+Ático ,barrio San Bernardo ,255000 ,2
+Piso ,Pozo Hilera 8 ,269000 ,4
+Piso ,Paseo de Canalejas ,288000 ,3
+Piso ,Calle del Pozo ,84995 ,2
+Piso ,Calle Bolívar ,135000 ,3
+Piso ,Avenida de los Comuneros ,172000 ,3
+Piso ,Calle Correhuela 9 ,355000 ,5
+Piso ,Calle Borneo ,149000 ,3
+Chalet ,Calle Juncal ,285000 ,4
+Piso ,Camino Huertas de la Vega ,120000 ,3
+Chalet ,Camino de carbajosa ,400000 ,5
+Chalet ,Calle las dalias ,130000 ,3
+Piso ,Calle Cándido Albarrán ,74000 ,2
+Piso ,Paseo de Carmelitas ,466000 ,2
+Chalet ,Avenida Lasalle ,265000 ,3
+Chalet ,Villares de la Reina ,225000 ,4
+Chalet ,La Salle - Vistahermosa ,79000 ,3
+Chalet ,Calle Principe s/n ,48000 ,3
+Chalet ,Villamayor ,285000 ,4
+Piso ,Calle de la Compañía ,170000 ,1
+Chalet ,Rollo - Puente Ladrillo ,305000 ,3
+Chalet ,Villares de la Reina ,225000 ,4
+Piso ,Calle Silvestre Sánchez Sierra ,159000 ,1
+Chalet ,Calle Arroyo ,54900 ,4
+Piso ,Calle Íscar Peyra ,328500 ,4
+Chalet ,Carbajosa de la Sagrada ,239900 ,3
+Piso ,Calle Florinda la Cava 5 ,125000 ,3
+Piso ,Calle Arapiles ,145000 ,3
+Piso ,Avenida de Portugal ,195000 ,3
+Piso ,Calle Alcalde Bravo García ,75000 ,2
+Ático ,Calle Santa Rosa de Lima ,180000 ,2
+Piso ,Avenida Castilla y León ,45000 ,3
+Chalet ,Calle San Roque ,168000 ,3
+Chalet ,Calle Mayor ,40000 ,5
+Piso ,Calle Luis de Góngora ,156000 ,3
+Piso ,Avenida Mirat ,249000 ,3
+Casa Rural ,Calle Santa Magdalena ,147000 ,3
+Piso ,Plaza de Madrid ,210000 ,2
+Piso ,Calle Toreses ,134500 ,2
+Piso ,Calle Arapiles ,60000 ,3
+Chalet ,URBANIZACIÓN EL VISO s/n ,260000 ,6
+Chalet ,Calle Ermita ,60000 ,3
+Piso ,Calle William Bradford ,135000 ,1
+Piso ,Calle Zamora ,390000 ,4
+Piso ,Plaza Alegría ,58000 ,3
+Piso ,Calle Valdivia ,135000 ,2
+Chalet ,Camino carbajosa ,400000 ,5
+Chalet ,Calle Salamanca ,39500 ,4
+Piso ,Plazuela de la Fuente Clara ,140000 ,3
+Piso ,Calle Monleón ,148000 ,4
+Chalet ,Barrionuevo ,138000 ,4
+Chalet ,Cabrerizos ,253000 ,4
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,95000 ,1
+Piso ,Calle Toro ,545000 ,1
+Piso ,barrio Garrido sur ,167000 ,3
+Piso ,Barrio Blanco ,140000 ,3
+Chalet ,Villamayor ,205000 ,4
+Chalet ,Cabrerizos ,243500 ,3
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,Calle Vicente Beltrán de Heredia ,157000 ,2
+Chalet ,Calle escuelas ,102000 ,3
+Chalet ,Calle valencia ,230000 ,5
+Piso ,Paseo de Canalejas ,365000 ,4
+Chalet ,Peñarandilla ,239000 ,3
+Chalet ,Calle escuelas ,102000 ,3
+Piso ,barrio Garrido norte ,115000 ,5
+Piso ,Rollo - Puente Ladrillo ,121500 ,2
+Piso ,Vidal ,195000 ,4
+Chalet ,Santa Marta de Tormes ,288000 ,5
+Piso ,CARMELITAS ,320000 ,3
+Piso ,San José - Parador - Zurguen ,125000 ,3
+Piso ,Carbajosa de la Sagrada ,179000 ,2
+Chalet ,Carrascal de Barregas ,115000 ,4
+Piso ,Calle del Regato del Anís ,90000 ,2
+Piso ,Calle Cristo de los Milagros ,215000 ,3
+Piso ,barrio Universidad-Tenerías ,165000 ,3
+Piso ,Villamayor ,89000 ,3
+Piso ,Calle ALCALDE FERNANDO TROCONIZ ,95000 ,2
+Piso ,Castellanos de Moriscos ,78900 ,3
+Piso ,barrio Centro ,328500 ,4
+Piso ,Avenida de Federico Anaya ,107000 ,3
+Piso ,barrio Carmelitas ,250000 ,4
+Piso ,Calle Fortis y Fortunio 25 ,139900 ,3
+Piso ,Calle Alfonso de Castro ,230000 ,3
+Piso ,Calle Isaac Peral ,97000 ,3
+Piso ,Calle Silvestre Sánchez Sierra 1 ,159000 ,1
+Piso ,Acacias ,165000 ,4
+Piso ,Paseo de la Estación 105 ,145000 ,3
+Piso ,Calle Rosas ,80000 ,3
+Piso ,barrio Estación ,95000 ,1
+Estudio ,Paseo de la Estación ,95000 ,0
+Chalet ,ALBERTO GRACIA ,179000 ,3
+Piso ,Calle Duero ,29500 ,2
+Piso ,Romero ,204900 ,3
+Piso ,Calle del Pozo ,81995 ,2
+Chalet ,Pozo del Campo ,130000 ,4
+Piso ,barrio San Bernardo ,171000 ,2
+Piso ,Sancti-Spiritus ,59735 ,3
+Piso ,Villares de la Reina ,99000 ,2
+Piso ,La Salle - Vistahermosa ,141000 ,2
+Piso ,Alba de Tormes ,53000 ,3
+Piso ,La Salle - Vistahermosa ,141000 ,2
+Chalet ,Villares de la Reina ,169000 ,3
+Piso ,Calle Tormes ,35000 ,3
+Piso ,LA JULIANA 15 ,62000 ,1
+Ático ,Pizarrales ,125000 ,3
+Piso ,Calle San Marcos 13 ,72500 ,3
+Chalet ,barrio Capuchinos-Glorieta-C. Jardín ,275000 ,5
+Piso ,Calle Muñoz Torrero ,500000 ,5
+Duplex ,barrio San Vicente-Las Úrsulas ,167500 ,4
+Duplex ,barrio Centro ,550000 ,3
+Piso ,barrio Salesas ,139000 ,3
+Piso ,Paseo del Rector Esperabé ,229000 ,2
+Piso ,Carbajosa de la Sagrada ,180000 ,3
+Duplex ,Villamayor ,135000 ,3
+Chalet ,Carrascal de Barregas ,350000 ,7
+Piso ,barrio Universidad-Tenerías ,119000 ,1
+Piso ,Pizarrales ,107000 ,3
+Chalet ,Cantalapiedra ,117000 ,9
+Chalet ,La Alberca ,63000 ,2
+Piso ,Paseo del Rollo 14 ,155000 ,4
+Chalet ,barrio La Platina-Hospital-Campus ,415000 ,4
+Chalet ,Plaza España 5 ,99000 ,3
+Piso ,Calle de las Acacias 2 ,120000 ,5
+Piso ,Calle Nicaragua 29 ,100000 ,3
+Chalet ,Villares de la Reina ,260000 ,1
+Piso ,barrio Garrido norte ,154500 ,3
+Piso ,barrio San Esteban-San Cristobal ,195000 ,3
+Piso ,Calle Isaac Peral 10 ,149900 ,3
+Piso ,Villamayor ,127900 ,3
+Piso ,barrio Salesas ,350000 ,8
+Piso ,Doñinos de Salamanca ,96000 ,3
+Chalet ,Villamayor ,449000 ,4
+Piso ,Calle de las Acacias 17 ,78000 ,3
+Piso ,barrio Garrido sur ,290000 ,2
+Piso ,Villamayor ,93000 ,2
+Piso ,Calle Montesa 7 ,130000 ,4
+Piso ,Pizarrales ,125000 ,3
+Piso ,Plaza Parra de la ,250000 ,2
+Ático ,Calle Papín ,255000 ,2
+Chalet ,Galindo y Perahuy ,185000 ,3
+Piso ,Calle Emilio Alarcos ,160000 ,2
+Chalet ,Pizarrales ,170000 ,3
+Piso ,La Salle - Vistahermosa ,149000 ,2
+Chalet ,Urbanización Versalles ,280000 ,12
+Piso ,Calle SIN SALIDA 5 ,114000 ,3
+Piso ,Calle Perdón ,123000 ,2
+Chalet ,Villamayor ,300000 ,3
+Estudio ,barrio Garrido sur ,73000 ,0
+Ático ,Calle Papín ,255000 ,2
+Chalet ,Cabrerizos ,320000 ,4
+Chalet ,Cabrerizos ,346000 ,4
+Piso ,Rollo - Puente Ladrillo ,172500 ,3
+Chalet ,Galindo y Perahuy ,185000 ,3
+Chalet ,San José - Parador - Zurguen ,240000 ,4
+Piso ,Calle Antonio García Boiza ,121000 ,3
+Piso ,Rollo - Puente Ladrillo ,121500 ,2
+Piso ,Paseo de la Estación ,150000 ,3
+Chalet ,Santa Marta de Tormes ,403000 ,3
+Piso ,Calle de Hernán Cortés ,65000 ,3
+Piso ,Vidal ,122000 ,4
+Piso ,Calle Isaac Peral ,96900 ,3
+Piso ,barrio San Bernardo ,180000 ,3
+Piso ,Paseo de la Estación ,150000 ,3
+Chalet ,Villamayor ,319000 ,4
+Piso ,Villares de la Reina ,164000 ,3
+Chalet ,Arapiles ,85000 ,6
+Piso ,Santa Marta de Tormes ,124000 ,3
+Chalet ,Calvarrasa de Abajo ,135000 ,3
+Chalet ,Santa Marta de Tormes ,480000 ,5
+Ático ,Calvarrasa de Abajo ,132000 ,3
+Piso ,barrio Garrido sur ,107000 ,3
+Piso ,Carbajosa de la Sagrada ,94000 ,3
+Piso ,Plaza Baleares ,70000 ,1
+Piso ,Ronda Exterior ,100000 ,2
+Casa Rural ,Calle el Sol ,70000 ,9
+Ático ,Calle San Juan de la Cruz ,105000 ,2
+Piso ,Calle Mozárabes ,129900 ,2
+Piso ,Avenida de Villamayor ,215000 ,3
+Piso ,Pozo Amarillo ,224900 ,2
+Piso ,Calle Luis Sala Balust ,95000 ,1
+Piso ,Calle Ventura Ruiz Aguilera 12 ,286000 ,2
+Piso ,Calle Azahar ,85000 ,3
+Piso ,Calle Mozárabes ,129900 ,2
+Ático ,Avenida Alfonso IX de León ,175000 ,4
+Piso ,Calle Obispo Ramírez de Villaescusa ,140000 ,3
+Ático ,SAN JUAN DE LA CRUZ ,105000 ,2
+Ático ,Calle San Juan de la Cruz ,105000 ,2
+Piso ,Avenida de Villamayor ,215000 ,3
+Piso ,Ronda Exterior ,100000 ,2
+Piso ,barrio Garrido sur ,159900 ,1
+Piso ,San José - Parador - Zurguen ,72000 ,2
+Piso ,Calle San Blas ,85000 ,2
+Piso ,Calle el Pozo ,76500 ,2
+Chalet ,Calle DEL ANGEL ,38000 ,4
+Chalet ,San Morales ,185000 ,8
+Piso ,Calle Begonias 23 ,130000 ,3
+Chalet ,Doñinos de Salamanca ,230000 ,5
+Piso ,Avenida Juan Pablo II ,62000 ,3
+Ático ,Carretera Zamora ,210000 ,4
+Piso ,Calle Silvestre Sánchez Sierra ,159000 ,1
+Piso ,Calle Vitigudino ,176000 ,4
+Piso ,Prosperidad - Delicias ,192000 ,4
+Piso ,Calle ALFONSO IX DE LEON ,133000 ,3
+Chalet ,Calle Regato ,92500 ,3
+Piso ,Calle Santa Ana ,92000 ,3
+Piso ,Calle general castaños ,122000 ,4
+Piso ,Avenida Villamayor ,215000 ,3
+Piso ,Calle Campillo ,75000 ,2
+Piso ,Puerta de Zamora ,240000 ,3
+Piso ,Avenida Alfonso IX de León 38 ,190000 ,3
+Piso ,Calle Astorga ,145000 ,2
+Chalet ,SIERRA MAYOR ,99000 ,3
+Piso ,Calle Alcalde Navarro González ,115000 ,2
+Ático ,Calle Traviesa ,80000 ,2
+Piso ,Plaza Prado de los guzmanes ,172500 ,2
+Piso ,Calle El Bierzo ,101000 ,1
+Piso ,Calle Rosales ,130000 ,3
+Piso ,Calle Alcalde Antonio Estella ,122990 ,3
+Piso ,Calle Barqueros ,168000 ,3
+Piso ,Calle de las Acacias ,140000 ,3
+Piso ,Calle Silvestre Sánchez Sierra ,159000 ,1
+Ático ,Calle Traviesa ,80000 ,2
+Piso ,Calle general castaños ,122000 ,4
+Piso ,Avenida Juan Pablo II ,62000 ,3
+Piso ,Calle María Auxiliadora 27 ,598000 ,5
+Piso ,Plaza DE SAN SALVADOR 5 ,75000 ,3
+Piso ,Avenida de Italia 50 ,160000 ,4
+Chalet ,La Salle - Vistahermosa ,80000 ,3
+Chalet ,Santa Marta de Tormes ,480000 ,5
+Piso ,GRANJA 9 ,94000 ,3
+Chalet ,Cabrerizos ,350000 ,6
+Ático ,barrio Labradores ,307900 ,3
+Piso ,barrio Garrido norte ,170000 ,4
+Piso ,barrio Chinchibarra ,204900 ,3
+Piso ,Calle del Pozo ,81995 ,2
+Piso ,La Fuente de San esteban ,83000 ,3
+Duplex ,barrio Carmelitas ,245000 ,2
+Casa Rural ,Pedrotello s/n ,127000 ,2
+Piso ,San José - Parador - Zurguen ,140000 ,3
+Piso ,barrio Labradores ,289000 ,2
+Piso ,San José - Parador - Zurguen ,71000 ,2
+Piso ,Pizarrales ,75000 ,3
+Piso ,Carretera Madrid 105 ,155000 ,3
+Piso ,barrio Garrido sur ,107000 ,3
+Piso ,Calle Monleón 22 ,220000 ,4
+Chalet ,Villares de la Reina ,325000 ,5
+Piso ,barrio Labradores ,250000 ,4
+Chalet ,Boveda del Rio Almar ,22000 ,3
+Chalet ,Carbajosa de la Sagrada ,285000 ,4
+Piso ,Calle ALCALDE GARCIA PEÑUELA ,65300 ,1
+Chalet ,Cabrerizos ,741000 ,4
+Piso ,Rollo - Puente Ladrillo ,121500 ,2
+Chalet ,Calle Malpiso ,90000 ,3
+Ático ,barrio Carmelitas ,255000 ,2
+Piso ,Carretera de Ledesma ,89000 ,3
+Piso ,VITIGUDINO 7 ,165000 ,3
+Piso ,Calle de los Mozárabes ,127000 ,2
+Piso ,Calle Caseta ,99000 ,3
+Piso ,Calle Duero ,29000 ,2
+Chalet ,Calle Larga ,59000 ,2
+Piso ,Calle Veguillas ,108000 ,3
+Piso ,Calle José Jáuregui ,320000 ,6
+Piso ,Calle Almansa 3 ,105000 ,3
+Piso ,Calle Espoz y Mina ,359000 ,3
+Piso ,Calle Duero ,28000 ,2
+Piso ,Villares de la Reina ,125000 ,2
+Piso ,Calle Curtidores ,120000 ,3
+Chalet ,Santa Marta de Tormes ,339900 ,4
+Piso ,Carbajosa de la Sagrada ,160000 ,3
+Piso ,barrio Centro ,165000 ,1
+Ático ,Pizarrales ,145000 ,2
+Ático ,Calle Cardenal Cisneros 21 ,128500 ,2
+Chalet ,Calle Teso ,110000 ,2
+Piso ,Calle Duero ,29000 ,2
+Piso ,La Salle - Vistahermosa ,79900 ,1
+Ático ,Calle Obispo Alcolea ,128000 ,2
+Chalet ,Calle Larga ,59000 ,2
+Chalet ,Pelabravo ,59000 ,3
+Piso ,Avenida de Federico Anaya ,163000 ,4
+Piso ,Calle Río Guareña ,115000 ,2
+Chalet ,Santa Marta de Tormes ,310000 ,5
+Chalet ,Calle de la Iglesia ,36000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,440000 ,3
+Piso ,Calle Maragatería ,95000 ,1
+Chalet ,Santa Marta de Tormes ,530000 ,9
+Chalet ,Cabrerizos ,250000 ,4
+Piso ,Calle Caseta ,74000 ,2
+Ático ,Calle Rodrigo de Triana ,129000 ,1
+Piso ,Barrio Blanco ,102000 ,3
+Piso ,Calle alfonso de castro ,250000 ,5
+Piso ,Avenida de los Comuneros ,174000 ,3
+Piso ,barrio Garrido norte ,117000 ,3
+Piso ,Calle Viñas ,95000 ,3
+Piso ,Calle los Nogales ,119000 ,2
+Piso ,Paseo de los Robles ,78000 ,3
+Piso ,Calle Traviesa ,79000 ,1
+Chalet ,Cabrerizos ,420000 ,4
+Ático ,Santa Marta de Tormes ,145000 ,2
+Piso ,Calle Nueva ,105000 ,2
+Piso ,Calle de Van Dyck 49 ,315000 ,3
+Chalet ,Calvarrasa de Abajo ,135000 ,3
+Piso ,Calle Alcalde Bravo García ,75000 ,2
+Chalet ,Carretera Aldealengua 55 ,295000 ,4
+Piso ,Santa Marta de Tormes ,127000 ,3
+Piso ,Avenida de Portugal ,290000 ,4
+Piso ,Calle William Bradford 7 ,169600 ,3
+Piso ,Calle Horno ,170000 ,3
+Chalet ,Arapiles ,176000 ,4
+Piso ,Vidal ,205000 ,4
+Chalet ,Avenida de Lasalle 152 -156 ,265000 ,3
+Piso ,Santa Marta de Tormes ,189000 ,3
+Chalet ,Santiago de la Puebla ,73000 ,2
+Piso ,Calle Sorias 7 -11 ,360000 ,3
+Piso ,Calle Juan Maluquer 21 ,245000 ,2
+Piso ,Calle Lucero 3 ,225000 ,4
+Piso ,barrio Universidad-Tenerías ,228000 ,2
+Piso ,barrio La Platina-Hospital-Campus ,157000 ,2
+Piso ,Pizarrales ,110000 ,3
+Piso ,barrio Carmelitas ,215000 ,3
+Piso ,Pizarrales ,107000 ,3
+Piso ,Avenida Campoamor 9 ,260000 ,3
+Piso ,Calle Alcalde Navarro González 60 ,125000 ,3
+Piso ,Calle C/La 20 ,465000 ,4
+Piso ,Calle de Van Dyck 49 ,315000 ,3
+Piso ,Calle Rodríguez Fabres ,230000 ,4
+Piso ,Paseo del Doctor Torres Villarroel 51 ,254000 ,4
+Piso ,barrio Carmelitas ,289000 ,3
+Piso ,Calle Antonio García Boiza ,115000 ,3
+Piso ,Calle Duero ,41200 ,3
+Piso ,Paseo del Rollo 65 ,135000 ,3
+Chalet ,Calle Doyagüe 10 ,980000 ,7
+Piso ,Vidal ,95000 ,3
+Piso ,Calle del General Albertos 35 ,104900 ,2
+Chalet ,Cabrerizos ,320000 ,4
+Casa Rural ,Via Alamos 6 ,79000 ,2
+Piso ,Villares de la Reina ,135000 ,3
+Piso ,Calle Lilas 3 ,135000 ,3
+Ático ,Pizarrales ,75000 ,1
+Piso ,barrio Garrido norte ,149900 ,4
+Piso ,Av. Antonio Machado ,87000 ,3
+Chalet ,Calle Doyagüe 10 ,980000 ,7
+Piso ,Paseo del Rollo 65 ,135000 ,3
+Piso ,Villares de la Reina ,135000 ,3
+Piso ,AV DE LOS COMUNEROS ,173000 ,3
+Piso ,Calle del Norte ,150000 ,3
+Chalet ,Santa Marta de Tormes ,450000 ,5
+Piso ,Pizarrales ,60000 ,1
+Casa Rural ,ayuntamiento ,49000 ,3
+Chalet ,Calle Carreancha ,80000 ,1
+Piso ,Av. Villamayor ,250000 ,3
+Piso ,Plaza Mayor ,99000 ,3
+Piso ,Carretera de Ledesma ,89000 ,3
+Piso ,Corralillo de Santo Tomás ,269000 ,5
+Piso ,Calle Azucena ,104000 ,4
+Chalet ,Calle Triana ,68000 ,3
+Piso ,Plaza del Concilio de Trento ,198000 ,3
+Piso ,Plaza de España ,295000 ,3
+Chalet ,Villamayor ,425000 ,4
+Piso ,Terradillos ,27900 ,2
+Piso ,barrio San Bernardo ,94900 ,2
+Piso ,barrio Salesas ,95000 ,3
+Chalet ,San José - Parador - Zurguen ,248000 ,4
+Piso ,Barrio Blanco ,75000 ,3
+Chalet ,Carrascal de Barregas ,200000 ,5
+Ático ,barrio Garrido sur ,125000 ,2
+Piso ,Pizarrales ,155000 ,4
+Piso ,San José - Parador - Zurguen ,65000 ,3
+Chalet ,Palaciosrubios ,25000 ,3
+Ático ,barrio Carmelitas ,255000 ,2
+Chalet ,Monterrubio de Armuña ,189000 ,6
+Piso ,barrio Salesas ,265000 ,7
+Ático ,Villares de la Reina ,135000 ,3
+Chalet ,Cabrerizos ,360000 ,4
+Piso ,barrio Universidad-Tenerías ,260000 ,3
+Ático ,Villares de la Reina ,145000 ,3
+Chalet ,Aldeaseca de la Frontera ,65000 ,4
+Piso ,Santa Marta de Tormes ,124000 ,3
+Piso ,PABLO IGLESIAS 2 ,95000 ,2
+Piso ,Rollo - Puente Ladrillo ,149900 ,3
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,280000 ,3
+Piso ,Prosperidad - Delicias ,170000 ,3
+Chalet ,Aldeaseca de la Frontera ,65000 ,4
+Piso ,Santa Marta de Tormes ,124000 ,3
+Piso ,PABLO IGLESIAS 2 ,95000 ,2
+Piso ,San José - Parador - Zurguen ,65000 ,3
+Piso ,La Salle - Vistahermosa ,125000 ,3
+Piso ,Barrio Blanco ,139000 ,3
+Piso ,Villares de la Reina ,109000 ,3
+Chalet ,Carrascal de Barregas ,200000 ,5
+Chalet ,Cabrerizos ,320000 ,4
+Piso ,barrio Carmelitas ,215000 ,3
+Piso ,barrio La Platina-Hospital-Campus ,157000 ,2
+Chalet ,Macotera ,77000 ,6
+Piso ,San José - Parador - Zurguen ,103000 ,2
+Chalet ,El Campo de Peñaranda ,85000 ,3
+Piso ,barrio San Bernardo ,129900 ,2
+Piso ,barrio Centro ,224900 ,2
+Piso ,La Salle - Vistahermosa ,110000 ,3
+Piso ,barrio Centro ,545000 ,1
+Piso ,barrio Garrido sur ,360000 ,3
+Piso ,Avenida de la Merced ,120000 ,1
+Piso ,barrio San Esteban-San Cristobal ,195000 ,3
+Chalet ,barrio San Esteban-San Cristobal ,550000 ,10
+Piso ,Pizarrales ,155000 ,3
+Piso ,Vidal ,87000 ,3
+Piso ,barrio Centro ,495000 ,2
+Piso ,barrio Garrido norte ,68000 ,3
+Piso ,La Salle - Vistahermosa ,104900 ,3
+Piso ,La Salle - Vistahermosa ,125000 ,3
+Piso ,Villares de la Reina ,80000 ,1
+Piso ,barrio Garrido sur ,180000 ,3
+Piso ,Vidal ,109000 ,3
+Chalet ,Villamayor ,206000 ,4
+Chalet ,Calle Tulipanes ,420000 ,5
+Chalet ,Galindo y Perahuy ,179000 ,3
+Piso ,San José - Parador - Zurguen ,135000 ,3
+Piso ,Villamayor ,75000 ,2
+Piso ,barrio Carmelitas ,465000 ,2
+Chalet ,Cabrerizos ,250000 ,4
+Chalet ,Rollo - Puente Ladrillo ,300000 ,3
+Chalet ,Galindo y Perahuy ,179000 ,3
+Chalet ,San Cristobal de la Cuesta ,95000 ,3
+Chalet ,Villamayor ,206000 ,4
+Piso ,barrio Chinchibarra ,182000 ,4
+Piso ,Rollo - Puente Ladrillo ,160000 ,3
+Ático ,Villamayor ,127000 ,3
+Piso ,Villamayor ,95000 ,2
+Piso ,barrio Carmelitas ,180000 ,3
+Piso ,Villamayor ,108000 ,3
+Piso ,Villares de la Reina ,79900 ,2
+Piso ,Villamayor ,75000 ,2
+Piso ,La Salle - Vistahermosa ,97900 ,2
+Duplex ,Villares de la Reina ,105000 ,3
+Chalet ,Cabrerizos ,140000 ,4
+Chalet ,Calle Tulipanes ,420000 ,5
+Casa Rural ,Terradillos ,89000 ,3
+Piso ,Barrio Blanco ,75000 ,2
+Chalet ,Rollo - Puente Ladrillo ,300000 ,3
+Piso ,barrio Carmelitas ,465000 ,2
+Chalet ,Cabrerizos ,250000 ,4
+Piso ,barrio Garrido norte ,125000 ,3
+Piso ,San José - Parador - Zurguen ,59000 ,3
+Chalet ,Valverdon ,59000 ,2
+Piso ,Carbajosa de la Sagrada ,81995 ,2
+Piso ,barrio Salesas ,148000 ,4
+Piso ,barrio Estación ,135000 ,3
+Piso ,barrio Labradores ,230000 ,4
+Ático ,Castellanos de Moriscos ,99000 ,2
+Ático ,Avenida de los Reyes de España 26 ,129500 ,0
+Piso ,barrio Carmelitas ,215000 ,3
+Piso ,Calle Santa Bárbara ,75000 ,2
+Piso ,barrio San Vicente-Las Úrsulas ,225000 ,3
+Piso ,Paseo San Vicente 20 ,340000 ,4
+Piso ,Terradillos ,55000 ,3
+Piso ,Avenida Alfonso IX de León 124 ,245000 ,5
+Piso ,barrio Carmelitas ,165900 ,2
+Piso ,Avenida de Federico Anaya ,165000 ,6
+Piso ,San José - Parador - Zurguen ,85000 ,2
+Piso ,Santa Marta de Tormes ,105000 ,3
+Piso ,Santa Marta de Tormes ,90000 ,2
+Piso ,San José - Parador - Zurguen ,123000 ,2
+Duplex ,Villares de la Reina ,108000 ,3
+Piso ,barrio Chinchibarra ,125000 ,3
+Piso ,Santa Marta de Tormes ,105000 ,3
+Piso ,barrio Chinchibarra ,240000 ,2
+Casa Rural ,Terradillos ,51000 ,2
+Piso ,barrio Garrido norte ,139900 ,5
+Piso ,Santa Marta de Tormes ,90000 ,2
+Piso ,Moriscos ,85000 ,2
+Piso ,Avenida Alfonso IX de León 124 ,245000 ,5
+Chalet ,La Salle - Vistahermosa ,80000 ,3
+Piso ,Rollo - Puente Ladrillo ,132000 ,2
+Chalet ,San Morales ,195000 ,6
+Piso ,barrio Garrido sur ,153000 ,3
+Piso ,Calle Brocheros 14 ,177000 ,3
+Piso ,barrio Carmelitas ,165900 ,2
+Piso ,Santa Marta de Tormes ,127000 ,3
+Piso ,Avenida Alfonso IX de León 107 ,199500 ,3
+Chalet ,Castellanos de Moriscos ,144000 ,4
+Chalet ,Calle Mauricio Legendre 27 ,195000 ,3
+Piso ,Pozo Amarillo ,224900 ,2
+Piso ,Santa Marta de Tormes ,98500 ,5
+Ático ,Calle Obispo Alcolea 20 ,140000 ,2
+Piso ,Calle Alcalde Gutiérrez Ceballos 2 ,125000 ,3
+Ático ,Calle Río Jalón 10 ,135000 ,2
+Chalet ,Calle la Flor 17 ,116866 ,3
+Piso ,Rollo - Puente Ladrillo ,165000 ,3
+Piso ,SAN ROQUE ,75000 ,2
+Piso ,Calle Vasconia 1 ,149000 ,3
+Piso ,Carbajosa de la Sagrada ,84995 ,2
+Piso ,Calle LA ALBERCA ,160000 ,3
+Piso ,barrio Labradores ,310000 ,5
+Piso ,Rollo - Puente Ladrillo ,104000 ,3
+Piso ,Avenida Alfonso IX de León 38 ,125000 ,1
+Piso ,Santa Marta de Tormes ,150000 ,3
+Casa Rural ,Monterrubio de la Sierra ,119000 ,2
+Piso ,Calle Alfonso de Castro 27 ,240000 ,3
+Piso ,Aldealengua ,53000 ,2
+Piso ,barrio Centro ,279900 ,3
+Piso ,barrio Salesas ,180000 ,2
+Piso ,barrio Salesas ,180000 ,2
+Piso ,Calle Alfonso de Castro 27 ,240000 ,3
+Piso ,barrio Centro ,279900 ,3
+Piso ,Barrio Garrido 1 ,232000 ,3
+Piso ,La Salle - Vistahermosa ,105000 ,3
+Chalet ,Villamayor ,330000 ,4
+Piso ,La Salle - Vistahermosa ,82900 ,1
+Piso ,Castellanos de Moriscos ,70000 ,3
+Piso ,Calle Nicaragua 33 ,140000 ,2
+Piso ,barrio Chinchibarra ,125000 ,3
+Piso ,Prosperidad - Delicias ,230000 ,3
+Piso ,Villamayor ,119000 ,4
+Ático ,Calle Luis Sala Balust 5 ,170000 ,2
+Piso ,barrio Sancti Spiritus-San Juan ,340000 ,6
+Chalet ,La Salle - Vistahermosa ,69000 ,3
+Piso ,Calle Isaac Peral 19 ,97000 ,3
+Piso ,Vidal ,134500 ,3
+Piso ,barrio Garrido norte ,85000 ,3
+Piso ,Prosperidad - Delicias ,190000 ,3
+Chalet ,Calle Atlántico 13 ,85000 ,3
+Piso ,barrio Universidad-Tenerías ,139000 ,1
+Piso ,Camino de las aguas 67 ,108000 ,2
+Chalet ,Calvarrasa de Abajo ,215000 ,5
+Piso ,Saavedra y farjardo 12 ,155000 ,3
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,Ronda de Sancti-Spíritus 23 -29 ,270000 ,4
+Piso ,Camino de las Aguas 14 ,149499 ,3
+Ático ,Calle Corbacera 2 ,147000 ,3
+Piso ,Plaza Carmelitas 123 ,330000 ,4
+Ático ,Carretera de ledesma 120 ,165000 ,3
+Ático ,Santa Marta de Tormes ,105000 ,2
+Ático ,Camino DE MIRANDA ,130000 ,1
+Chalet ,Calle Eras ,70000 ,2
+Piso ,Calle Sol Oriente ,340000 ,6
+Ático ,Calle María Auxiliadora 22 ,253000 ,3
+Piso ,Calle las Cañas ,119000 ,3
+Piso ,Calle San Pablo 35 ,300000 ,3
+Piso ,Via Gran 57 ,249900 ,3
+Piso ,Parque valhondo 24 -25 ,169000 ,2
+Piso ,Calle de los Tilos 40 ,80000 ,3
+Ático ,Calle María Auxiliadora 22 ,253000 ,3
+Piso ,Calle de los Tilos 40 ,80000 ,3
+Piso ,Calle San Pablo 35 ,300000 ,3
+Piso ,Calle Sol Oriente ,340000 ,6
+Piso ,Plazuela Winston Churchill 28 ,138000 ,3
+Piso ,Calle CASTAÑOS ,73000 ,3
+Piso ,Santa Marta de Tormes ,98500 ,5
+Piso ,Calle la Rosa ,59000 ,3
+Ático ,Plaza de Gabriel y Galán ,369000 ,3
+Piso ,Calle Jamaica 10 ,160000 ,3
+Piso ,Calle Alcalde Antonio Estella 26 ,112000 ,2
+Piso ,Calle Santa María La Blanca 5 ,260000 ,3
+Piso ,Calle San Bruno 40 ,110000 ,3
+Piso ,antonio machado ,85000 ,3
+Piso ,Calle Topacio 1 ,120000 ,3
+Piso ,Calle Conde Don Vela 19 ,140000 ,3
+Piso ,Calle Corbacera 1 ,125000 ,3
+Duplex ,Calle Bartolomé de las Casas 33 ,230000 ,3
+Piso ,Calle Alfareros 21 ,132000 ,3
+Piso ,Calle Escultores 3 ,149900 ,3
+Chalet ,Calle Río Mondego 80 ,275000 ,3
+Piso ,Peñaranda de Bracamonte ,58000 ,3
+Estudio ,Calle Oropéndola 72 ,61000 ,0
+Piso ,Calle Toreses 17 ,179000 ,3
+Piso ,La Salle - Vistahermosa ,75000 ,1
+Piso ,barrio Carmelitas ,160000 ,2
+Piso ,Via Gran 73 ,299000 ,3
+Piso ,Pizarrales ,83000 ,1
+Chalet ,Pizarrales ,90000 ,3
+Piso ,Calle Luz ,95000 ,3
+Piso ,Calle Azafranal 18 ,345000 ,5
+Piso ,Calle Corral de Villaverde 2 ,159000 ,2
+Piso ,Villamayor ,118000 ,3
+Piso ,Calle Pradillo 7 ,284000 ,3
+Piso ,Calle Valdivia 7 ,180000 ,3
+Piso ,San José - Parador - Zurguen ,130000 ,1
+Piso ,Calle Alcalde Navarro González 50 ,100000 ,3
+Piso ,barrio San Bernardo ,129900 ,2
+Piso ,Vidal ,144900 ,3
+Piso ,Calle Santa Teresa 19 ,330000 ,5
+Piso ,barrio Garrido norte ,140000 ,4
+Piso ,Calle Santa Teresa 19 ,330000 ,5
+Piso ,barrio Salesas ,159900 ,4
+Chalet ,Santa Marta de Tormes ,560000 ,6
+Piso ,barrio San Vicente-Las Úrsulas ,275000 ,6
+Chalet ,Vecinos ,67900 ,4
+Piso ,Barrio Blanco ,78000 ,3
+Chalet ,Gajates ,35000 ,2
+Piso ,Peñaranda de Bracamonte ,78000 ,4
+Chalet ,Peñaranda de Bracamonte ,100000 ,4
+Piso ,barrio San Esteban-San Cristobal ,150000 ,3
+Chalet ,Cantalpino ,50000 ,3
+Piso ,Santa Marta de Tormes ,100000 ,2
+Piso ,Peñaranda de Bracamonte ,80000 ,3
+Piso ,Rollo - Puente Ladrillo ,157000 ,3
+Piso ,barrio San Bernardo ,154500 ,3
+Casa Rural ,Aldeaseca de la Frontera ,80000 ,4
+Piso ,barrio San Bernardo ,165000 ,4
+Piso ,La Salle - Vistahermosa ,76700 ,2
+Piso ,Alba de Tormes ,89000 ,3
+Piso ,Pizarrales ,115000 ,3
+Piso ,Villamayor ,92000 ,3
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,barrio Carmelitas ,237000 ,4
+Chalet ,Villoria ,73000 ,4
+Piso ,Villares de la Reina ,73000 ,2
+Piso ,barrio Carmelitas ,240000 ,3
+Piso ,Pizarrales ,78000 ,1
+Chalet ,barrio Capuchinos-Glorieta-C. Jardín ,275000 ,5
+Piso ,barrio Salesas ,150000 ,3
+Piso ,Prosperidad - Delicias ,120000 ,3
+Chalet ,Pizarrales ,170000 ,3
+Chalet ,Cantalpino ,24000 ,2
+Piso ,barrio Carmelitas ,165000 ,2
+Estudio ,barrio San Vicente-Las Úrsulas ,140000 ,0
+Casa Rural ,Almenara de Tormes ,60000 ,3
+Piso ,Rollo - Puente Ladrillo ,165000 ,3
+Piso ,barrio Garrido norte ,65000 ,3
+Chalet ,La Alberca ,130000 ,2
+Chalet ,Pizarrales ,65000 ,2
+Chalet ,Pizarrales ,65000 ,2
+Estudio ,barrio San Vicente-Las Úrsulas ,140000 ,0
+Piso ,San José - Parador - Zurguen ,42500 ,3
+Piso ,barrio Garrido norte ,108000 ,4
+Chalet ,La Alberca ,130000 ,2
+Piso ,barrio Carmelitas ,165000 ,2
+Piso ,barrio Chinchibarra ,125000 ,3
+Piso ,Rollo - Puente Ladrillo ,143000 ,3
+Piso ,Peñaranda de Bracamonte ,65000 ,3
+Piso ,barrio Garrido sur ,135000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,495000 ,2
+Piso ,San José - Parador - Zurguen ,210000 ,2
+Piso ,Carbajosa de la Sagrada ,89995 ,2
+Piso ,Santa Marta de Tormes ,105000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,545000 ,2
+Piso ,Prosperidad - Delicias ,140000 ,3
+Chalet ,Peñaranda de Bracamonte ,20000 ,2
+Piso ,barrio Labradores ,199000 ,2
+Piso ,barrio Carmelitas ,175000 ,4
+Piso ,Villares de la Reina ,93900 ,2
+Ático ,Villares de la Reina ,89000 ,3
+Piso ,barrio Salesas ,75000 ,1
+Piso ,barrio Universidad-Tenerías ,120000 ,1
+Piso ,Villamayor ,104000 ,2
+Piso ,Pizarrales ,128000 ,2
+Chalet ,Castellanos de Villiquera ,159000 ,3
+Piso ,barrio La Platina-Hospital-Campus ,115000 ,1
+Piso ,Prosperidad - Delicias ,145000 ,3
+Piso ,Terradillos ,34000 ,2
+Piso ,barrio Labradores ,199000 ,2
+Chalet ,Pelabravo ,228000 ,4
+Piso ,Santa Marta de Tormes ,85000 ,3
+Piso ,barrio Labradores ,409000 ,6
+Piso ,Calle Guadalajara 14 ,125000 ,3
+Ático ,Pizarrales ,79000 ,1
+Piso ,Avenida Alfonso IX de León 24 ,120000 ,3
+Piso ,Avenida Alfonso IX de León 97 ,265000 ,7
+Piso ,Calle José Jáuregui 29 ,280000 ,3
+Piso ,Calle Lepanto 10 ,124000 ,3
+Piso ,Calle Poeta Jesús Rasueros 21 ,275000 ,3
+Ático ,Pizarrales ,79000 ,1
+Piso ,Calle Guadalajara 14 ,125000 ,3
+Piso ,Avenida Alfonso IX de León 67 ,170000 ,4
+Piso ,Plaza Castrotorafe 9 ,155000 ,2
+Piso ,Calle Mariano Ares y Sanz 16 ,180000 ,3
+Piso ,Avenida Alfonso IX de León 24 ,120000 ,3
+Piso ,Paseo de carmelitas 75 ,400000 ,6
+Piso ,Calle José Jáuregui 29 ,280000 ,3
+Piso ,Calle Rodríguez Hernández 17 ,95000 ,2
+Piso ,Via Gran 65 ,300000 ,3
+Piso ,Calle Joaquín Costa 13 ,250000 ,4
+Piso ,Calle San Rafael 20 ,184900 ,3
+Piso ,Paseo Luis Cortés 59 ,136000 ,2
+Piso ,Calle rector esperabe 44 ,360000 ,3
+Piso ,Paseo de la Estación 93 ,159000 ,3
+Piso ,Avenida de Portugal 20 ,225000 ,4
+Piso ,Santa Marta de Tormes ,108000 ,2
+Piso ,Calle Pedro Ciruelo 2 ,105000 ,1
+Piso ,Calle Concordia 13 ,235000 ,4
+Chalet ,Cándido Albarrán 57 ,195000 ,1
+Piso ,barrio Garrido norte ,185000 ,5
+Piso ,Calle Orejudos 33 ,110000 ,2
+Piso ,Plaza San Fernando 4 ,80000 ,2
+Ático ,Pizarrales ,220000 ,3
+Piso ,barrio Carmelitas ,397000 ,4
+Piso ,Calle Independencia 5 ,120000 ,2
+Piso ,Calle Miguel Angel 82 ,83000 ,3
+Chalet ,Villamayor ,395000 ,7
+Piso ,Calle Pinto 20 ,300000 ,5
+Piso ,alcalde navarro gonzalez 30 ,110000 ,2
+Piso ,Calle Alcalde Marcelo Fernández Nieto 32 ,63000 ,3
+Piso ,Calle Alcalde Gutiérrez Ceballos 12 ,150000 ,3
+Chalet ,Calle Alcalde Navarro González 11 ,170000 ,4
+Piso ,Calle Manuel de Falla 21 ,70000 ,4
+Piso ,Calle Trabajo 8 ,120000 ,3
+Ático ,Calle Pradillo 3 ,169000 ,1
+Piso ,Ónice 7 ,149999 ,4
+Piso ,Rector Esperabe 44 ,280000 ,3
+Piso ,Calle los Hidalgos 28 ,137000 ,2
+Estudio ,Calle amistad 3 ,58000 ,0
+Piso ,Pizarrales ,59500 ,2
+Piso ,Calle Arco 11 ,520000 ,5
+Piso ,Plaza Extremadura 5 ,47900 ,3
+Piso ,Calle Santa Rita 77 ,120000 ,3
+Piso ,Avenida Portugal 157 ,230000 ,3
+Chalet ,Calle Jovellanos 10 ,110000 ,2
+Estudio ,Avenida Reyes de España 2 ,132000 ,0
+Piso ,Calle Maestro Jiménez 21 ,60000 ,2
+Estudio ,Calle la amistad 2 ,50000 ,0
+Piso ,Calle Mayor del Arrabal 30 ,170000 ,3
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,179000 ,4
+Piso ,barrio Carmelitas ,449999 ,2
+Piso ,Calle SALVADOR DALI 1 ,80800 ,2
+Piso ,sin salida 3 ,132000 ,4
+Piso ,Calle Cruz 26 ,53000 ,3
+Piso ,David Escudero 29 ,61700 ,2
+Piso ,Calle Hernán Cortés 46 ,43200 ,2
+Piso ,Calle Hernán Cortés 46 ,54200 ,3
+Piso ,Calle Hernán Cortés 46 ,34200 ,1
+Piso ,Calle Sin Salida 3 ,108000 ,3
+Piso ,Calle La Iglesia 18 ,60000 ,2
+Piso ,Calle la Iglesia 18 ,40000 ,1
+Piso ,Doña Eloya 8 ,154100 ,3
+Casa Rural ,La Rosa 19 ,59000 ,2
+Piso ,Subida al Torreón ,115000 ,3
+Chalet ,Calle Rodríguez de Celis ,117500 ,3
+Ático ,Calle Batalla del Salado ,149900 ,2
+Piso ,ANILLO ,54900 ,2
+Piso ,Sol alta ,46000 ,2
+Chalet ,Plaza Iglesia ,320000 ,4
+Piso ,Calle Maragatería ,95000 ,1
+Piso ,Calle Oriente ,115000 ,3
+Piso ,ALCALDE NAVARRO GONZALEZ ,120000 ,3
+Piso ,Calle Fábrica ,89000 ,3
+Chalet ,Calle Nogales ,695000 ,4
+Piso ,Carretera de Ledesma ,129900 ,3
+Piso ,Paseo de los Nogales ,155000 ,2
+Piso ,Calle de Juan Miguel 21 ,80845 ,2
+Piso ,Pozo Amarillo 25 ,275000 ,2
+Casa Rural ,Avenida salamanca 106 ,50000 ,3
+Casa Rural ,iglesia 8 ,59000 ,2
+Chalet ,Plaza vista alegre 10 ,114900 ,5
+Piso ,Carretera de Peñaranda 6 ,50000 ,3
+Piso ,Calle Duero ,35000 ,2
+Piso ,Plaza DE BALEARES ,74000 ,2
+Piso ,Calle Horno ,120000 ,3
+Piso ,TORRES QUEVEDO ,239000 ,4
+Duplex ,Calle san silvestre 10 ,115000 ,3
+Piso ,Calle Ignacio Zuloaga 11 ,75000 ,2
+Piso ,Calle Conde Vermudo Núñez ,180000 ,3
+Piso ,Cervantes ,205000 ,2
+Chalet ,Calle Vázquez Díaz ,72000 ,4
+Piso ,Avenida de Villamayor ,240000 ,4
+Piso ,Padre Jesús Tome 12 ,115000 ,3
+Piso ,Traviesa ,95000 ,2
+Piso ,Calle Obispo Barbado Viejo ,230000 ,4
+Piso ,Calle Escultores 3 ,149900 ,3
+Piso ,Calle Doctor Jaime Vera 15 ,210000 ,4
+Piso ,Ricardo Marcos ,115000 ,3
+Piso ,Calle Placentinos ,169000 ,2
+Chalet ,GOYA ,850000 ,4
+Piso ,Calle Jamaica ,149000 ,3
+Piso ,Calle la radio ,289000 ,3
+Piso ,Calle Corrales de Monroy 35 ,495000 ,4
+Duplex ,Plaza Mayor de Salamanca ,800000 ,3
+Piso ,Calle Espoz y Mina ,355000 ,3
+Piso ,Ronda San Isidro ,102700 ,3
+Ático ,Avenida Alfonso IX de León ,165000 ,4
+Piso ,Calle Cabeza de Vaca ,165000 ,3
+Piso ,Calle Riaño ,159900 ,3
+Piso ,Calle Íscar Peyra ,370000 ,4
+Piso ,Calle ESCUELAS 17 ,37000 ,2
+Piso ,conde don vela 1 ,125000 ,2
+Piso ,Calle San Francisco Javier ,210000 ,3
+Piso ,ESCUELAS 17 ,55000 ,3
+Piso ,Avenida de Italia ,180000 ,4
+Piso ,Calle Alonso de Ojeda ,160000 ,3
+Piso ,Calle García de Quiñones ,298000 ,5
+Piso ,Paseo de Carmelitas ,485000 ,5
+Piso ,Calle Lope de Vega 3 ,72000 ,3
+Piso ,Calle García de Quiñones ,298000 ,5
+Piso ,Calle Lope de Vega 3 ,72000 ,3
+Piso ,Paseo de Carmelitas ,485000 ,5
+Piso ,Calle Juan de Garay ,80000 ,3
+Duplex ,Plaza Diego Centeno ,250000 ,4
+Piso ,Paseo de Carmelitas ,749000 ,4
+Piso ,Calle Horno ,265000 ,3
+Chalet ,Carbajosa de la Sagrada ,239900 ,3
+Piso ,Tomillar ,158000 ,4
+Piso ,Calle Soledad ,170000 ,3
+Chalet ,Villamayor ,380000 ,4
+Piso ,Calle Tomillar ,158000 ,4
+Piso ,Calle Magallanes ,298000 ,3
+Chalet ,Calle Huertillo ,186000 ,3
+Chalet ,zafiro ,284000 ,5
+Piso ,Calle Sánchez Llevot ,298000 ,3
+Piso ,Calle Ecuador 4 ,180000 ,3
+Piso ,Plaza de España nº7 37001 ,597000 ,3
+Piso ,Calle Teso de la Feria ,135000 ,3
+Chalet ,marte ,480000 ,4
+Chalet ,La Fuente de San esteban ,135000 ,5
+Piso ,barrio Estación ,299900 ,4
+Piso ,Calle Gil González Dávila ,85000 ,2
+Piso ,Avenida Villamayor ,255000 ,4
+Chalet ,Alba de Tormes ,98000 ,4
+Piso ,Alba de Tormes ,126000 ,3
+Chalet ,Aldealengua ,259900 ,3
+Chalet ,SANTA CLARA 99 ,60000 ,3
+Piso ,barrio Carmelitas ,215000 ,4
+Piso ,Barrio Blanco ,101000 ,2
+Chalet ,Buenavista ,425000 ,6
+Piso ,larga ,85000 ,2
+Piso ,Carretera SILVESTRE SANCHEZ SIERRA ,280000 ,3
+Chalet ,Villamayor ,400000 ,6
+Piso ,Avenida de los Comuneros ,255000 ,5
+Piso ,Guijuelo ,160000 ,4
+Piso ,Jose Rivera 3 ,185000 ,4
+Piso ,Calle Aldeaseca 23 ,98000 ,2
+Chalet ,Valverdon ,480000 ,3
+Chalet ,Plaza españa s/n ,98000 ,4
+Piso ,Via Gran ,370000 ,2
+Piso ,Valladolid 1 ,130000 ,2
+Piso ,Calle Barberán y Collar ,135000 ,3
+Piso ,Bolívar ,111000 ,3
+Piso ,Avenida de Federico Anaya ,164500 ,6
+Piso ,Muñoz Torrero ,315000 ,3
+Chalet ,Alba de Tormes ,130000 ,3
+Chalet ,San José - Parador - Zurguen ,225000 ,3
+Piso ,Calle María Auxiliadora ,232000 ,5
+Piso ,Calle de Wellington ,145000 ,3
+Ático ,La Salle - Vistahermosa ,100000 ,2
+Piso ,Rollo - Puente Ladrillo ,110000 ,2
+Piso ,barrio Centro ,320000 ,3
+Piso ,barrio Centro ,272000 ,2
+Piso ,Villamayor ,89000 ,3
+Piso ,barrio Chinchibarra ,164995 ,6
+Piso ,barrio Labradores ,249000 ,3
+Piso ,TRANSPORTISTAS ,115000 ,3
+Casa Rural ,Parada de Arriba ,342000 ,7
+Piso ,Calle Palacio Valdés ,170000 ,3
+Piso ,Maria AUXILIADORA ,360000 ,3
+Piso ,Calle San Miguel ,123900 ,2
+Piso ,Los ¨Tilos ,112000 ,4
+Piso ,Avenida Filiberto Villalobos ,150000 ,3
+Piso ,Pozo Amarillo ,299000 ,4
+Piso ,Carretera de Ledesma ,149900 ,3
+Ático ,Cabrerizos ,99000 ,2
+Ático ,Carretera Zamora ,178000 ,3
+Piso ,Calle Colombia ,135000 ,3
+Piso ,Plaza del Poeta Iglesias ,350000 ,5
+Piso ,Calle Isaac Peral ,145000 ,3
+Piso ,San José - Parador - Zurguen ,125000 ,3
+Piso ,Ronda DEL CORPUS ,315000 ,4
+Piso ,barrio Carmelitas ,240000 ,3
+Piso ,Paseo de carmelitas ,270000 ,5
+Piso ,barrio Centro ,239000 ,3
+Ático ,barrio Sancti Spiritus-San Juan ,575000 ,3
+Piso ,Calle orense ,132000 ,3
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,129000 ,2
+Piso ,Avenida de Federico Anaya ,130000 ,3
+Piso ,Prosperidad - Delicias ,155000 ,4
+Piso ,Vidal ,155000 ,3
+Piso ,Pizarrales ,143000 ,3
+Ático ,Calle Bachiller Finardo Valerio ,170000 ,3
+Piso ,Avenida de Federico Anaya ,130000 ,3
+Piso ,Calle Zamora ,360000 ,4
+Piso ,Sor Mariana San José ,89500 ,3
+Piso ,barrio Universidad-Tenerías ,230000 ,5
+Ático ,barrio Universidad-Tenerías ,246990 ,2
+Piso ,Campanas ,90000 ,3
+Piso ,San José - Parador - Zurguen ,185000 ,3
+Chalet ,Carbajosa de la Sagrada ,450000 ,5
+Piso ,barrio Sancti Spiritus-San Juan ,465000 ,4
+Piso ,Prosperidad - Delicias ,192000 ,7
+Piso ,Castellanos de Moriscos ,77500 ,2
+Piso ,barrio Labradores ,370000 ,3
+Piso ,barrio San Vicente-Las Úrsulas ,330000 ,2
+Chalet ,Fuentes de Oñoro ,442179 ,3
+Piso ,Béjar ,18500 ,3
+Piso ,Calle Núñez de Balboa ,166000 ,2
+Piso ,barrio San Esteban-San Cristobal ,190000 ,3
+Piso ,La Salle - Vistahermosa ,85000 ,2
+Piso ,Carretera de Madrid 105 ,106200 ,2
+Piso ,Calle lamberto de echeverría 27 ,390000 ,2
+Piso ,Pedro Cojos ,195000 ,3
+Piso ,Via Gran ,349999 ,6
+Piso ,Calle Arquitecto Repullés y Vargas ,156000 ,3
+Piso ,barrio Universidad-Tenerías ,230000 ,5
+Piso ,Ronda San Isidro ,67000 ,1
+Piso ,bolivar ,127000 ,3
+Ático ,Arapiles ,75000 ,2
+Piso ,Calle Río Águeda ,73000 ,3
+Chalet ,Calle Fuente ,45000 ,3
+Piso ,Béjar ,105000 ,4
+Piso ,Vidal ,210000 ,4
+Chalet ,Calle Aire ,175000 ,4
+Piso ,Camino de Salamanca ,140000 ,3
+Piso ,Calle Muñoz Torrero ,247000 ,3
+Piso ,Calle Toreses ,179000 ,3
+Piso ,Calle San Miguel ,98000 ,3
+Piso ,Avenida de Federico Anaya ,164995 ,6
+Piso ,barrio Carmelitas ,174500 ,4
+Piso ,Calle Bolívar ,110000 ,3
+Piso ,barrio Labradores ,213000 ,3
+Chalet ,Cabrerizos ,165000 ,3
+Piso ,Santa Marta de Tormes ,80000 ,4
+Piso ,Avenida de Portugal ,179000 ,4
+Chalet ,Pelabravo ,130000 ,4
+Piso ,barrio San Vicente-Las Úrsulas ,426000 ,6
+Piso ,Villares de la Reina ,77500 ,3
+Piso ,Prosperidad - Delicias ,93000 ,3
+Estudio ,barrio Carmelitas ,110000 ,0
+Piso ,barrio Garrido sur ,125000 ,3
+Piso ,barrio Salesas ,180000 ,3
+Piso ,barrio Chinchibarra ,125000 ,4
+Piso ,barrio Carmelitas ,135000 ,2
+Piso ,Ronda Afueras 10 ,76500 ,2
+Piso ,Urbanización la Fabril ,73000 ,3
+Ático ,Calle Victoria ,105000 ,2
+Piso ,barrio Garrido norte ,80000 ,3
+Piso ,San José - Parador - Zurguen ,100500 ,3
+Piso ,barrio Garrido sur ,169000 ,4
+Piso ,La Salle - Vistahermosa ,125000 ,3
+Casa Rural ,Calvarrasa de Arriba ,119000 ,2
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,168000 ,3
+Casa Rural ,Calvarrasa de Abajo ,130000 ,4
+Chalet ,Calle Plutón 34 ,374900 ,4
+Chalet ,Villamayor ,259900 ,2
+Casa Rural ,Calle las Afueras 7 ,57000 ,3
+Piso ,Rodolfo Miguel G. Fuentes ,27000 ,2
+Piso ,Calle Carlos I 6 ,29000 ,4
+Piso ,barrio San Esteban-San Cristobal ,297990 ,3
+Piso ,Rollo - Puente Ladrillo ,115900 ,3
+Chalet ,Doñinos de Salamanca ,199000 ,4
+Piso ,barrio Salesas ,180000 ,3
+Piso ,Calle de Santo Domingo Savio s/n ,90000 ,2
+Chalet ,Calzada de Valdunciel ,170000 ,4
+Piso ,Villares de la Reina ,109000 ,3
+Chalet ,Camino de los Partidos ,124500 ,4
+Piso ,Avenida de Lasalle ,197000 ,3
+Piso ,Calle de Santo Domingo Savio s/n ,90000 ,2
+Piso ,Calle Miguel Delibes ,150000 ,2
+Piso ,Avenida de Lasalle ,197000 ,3
+Piso ,Villares de la Reina ,109000 ,3
+Chalet ,Santa Marta de Tormes ,385000 ,5
+Piso ,Calle Zalaca ,155000 ,2
+Piso ,Calle de Pablo Picasso ,125000 ,3
+Piso ,Calle Alarcón ,250000 ,2
+Piso ,barrio Capuchinos-Glorieta-C. Jardín ,168000 ,3
+Piso ,San José - Parador - Zurguen ,84000 ,3
+Chalet ,Béjar ,105000 ,4
+Piso ,Peñaranda de Bracamonte ,29000 ,4
+Chalet ,Calvarrasa de Arriba ,75000 ,2
+Piso ,Calle Santa Clara 3 ,149000 ,3
+Piso ,Calle Somosancho 2 ,110000 ,2
+Piso ,Cabrerizos ,144000 ,3
+Chalet ,Calle Peñalara 14 ,320000 ,4
+Casa Rural ,CV-148 20 km ,340000 ,5
+Casa Rural ,Calle Don Rufino Arrimadas 37 ,90000 ,7
+Piso ,barrio Sancti Spiritus-San Juan ,250000 ,4
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,Pizarrales ,69000 ,1
+Piso ,Calle Álava ,185000 ,2
+Piso ,Calle Pico del Naranco ,85000 ,2
+Piso ,PINTORES ,105000 ,3
+Piso ,Calle Monleón ,144000 ,4
+Piso ,Calle la Flor ,115000 ,2
+Piso ,Avenida de Federico Anaya ,164900 ,6
+Piso ,Calle Escuelas ,175000 ,2
+Piso ,Calle Azahar ,85000 ,3
+Piso ,Calle Velázquez ,178000 ,3
+Piso ,Calle Rosales ,125000 ,3
+Piso ,barrio Carmelitas ,205000 ,4
+Piso ,Calle Arroyo de la lastra ,220150 ,2
+Piso ,Paseo del Gran Capitán ,106000 ,3
+Chalet ,LOPEZ DE VEGA ,245000 ,4
+Ático ,Calle el Arroyo ,282810 ,3
+Piso ,Santa Marta de Tormes ,105000 ,2
+Piso ,La Salle - Vistahermosa ,115000 ,3
+Piso ,REGATO DEL ANIS ,90000 ,2
+Piso ,Calle Santo Domingo Savio 11 ,92000 ,2
+Piso ,Calle Santo Domingo Savio 11 ,90000 ,2
+Chalet ,La Salle - Vistahermosa ,80000 ,3
+Piso ,SANTO DOMINGO SAVIO 11 ,88000 ,2
+Piso ,canalejas 22 ,240000 ,3
+Piso ,Rollo - Puente Ladrillo ,132200 ,3
+Piso ,Calle Independencia 13 ,120000 ,1
+Piso ,Calle Independencia 13 ,120000 ,1
+Chalet ,Calle Barrio de Abajo 51 ,59999 ,2
+Chalet ,Calle Gran Via 2 ,50000 ,2
+Chalet ,Calle Peñasolana III 8 ,114999 ,4
+Piso ,Calle Diego Pisador ,109900 ,3
+Piso ,barrio Garrido norte ,88500 ,3
+Piso ,Calle Alcalde Antonio Estella ,132000 ,3
+Piso ,Calle Victorio Macho 1 ,79910 ,2
+Piso ,Calle Campillo 16 ,95660 ,3
+Chalet ,Santa Ana 32 ,399000 ,4
+Piso ,Avenida de los Comuneros 97 ,149930 ,3
+Casa Rural ,Acacias 2 ,49940 ,3
+Piso ,Calle Viñas 10 ,87560 ,3
+Casa Rural ,Mayor 40 ,195000 ,6
+Piso ,Calle San Pablo 96 ,195000 ,1
+Chalet ,Travesía las Viñas s/n ,95000 ,4
+Chalet ,Calle de Salamanca ,220000 ,3
+Piso ,Calle Trafalgar 19 ,169550 ,3
+Piso ,Juan del rey 2 ,319940 ,3
+Chalet ,Extrarradio 4 ,124900 ,7
+Piso ,Calle Carlos III 19 ,64515 ,3
+Chalet ,Calle Alcalde Gutiérrez Ceballos 61 ,199900 ,4
+Chalet ,Avenida del Río Tormes 28 ,490000 ,4
+Piso ,Calle Colombia 24 ,114990 ,3
+Piso ,Paseo de Canalejas ,170000 ,2
+Piso ,campo de golf 19 ,50000 ,2
+Estudio ,Paseo de la Estación ,95000 ,0
+Chalet ,Santa Marta de Tormes ,370000 ,5
+Chalet ,Cabrerizos ,250000 ,4
+Chalet ,Pablo Neruda 9 ,454500 ,4
+Piso ,Carretera de Peñaranda 7 ,61000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,309000 ,7
+Piso ,Calle Luz 20 ,98553 ,3
+Chalet ,Cabrerizos ,250000 ,4
+Piso ,La Fuente de San esteban ,64000 ,2
+Piso ,Pizarrales ,210000 ,3
+Casa Rural ,poligono 503 1 ,32500 ,1
+Piso ,Castellanos de Moriscos ,134000 ,3
+Piso ,Ciudad-Rodrigo ,60000 ,3
+Piso ,La Salle - Vistahermosa ,115000 ,2
+Piso ,Pizarrales ,155000 ,4
+Casa Rural ,Ronda ,235000 ,5
+Piso ,Pizarrales ,220000 ,3
+Chalet ,Castellanos de Moriscos ,191000 ,4
+Piso ,barrio Carmelitas ,465000 ,4
+Chalet ,Castellanos de Moriscos ,118000 ,4
+Chalet ,Villamayor ,279999 ,4
+Piso ,barrio Garrido sur ,125000 ,1
+Piso ,barrio Sancti Spiritus-San Juan ,395000 ,4
+Duplex ,barrio Centro ,390000 ,4
+Piso ,Castellanos de Moriscos ,107000 ,3
+Chalet ,Barrio Carretero. Camino de la Ribera 97 D ,77000 ,3
+Piso ,Calle Jerte ,19000 ,3
+Piso ,Avenida de la Serna 28 ,240000 ,3
+Piso ,barrio Salesas ,63000 ,1
+Piso ,Castellanos de Moriscos ,120000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,335000 ,3
+Chalet ,Cabrerizos ,360000 ,4
+Chalet ,Cabrerizos ,280000 ,4
+Piso ,Rollo - Puente Ladrillo ,135000 ,3
+Piso ,Calle Muñoz Torrero 19 ,195000 ,3
+Chalet ,Santa Marta de Tormes ,383000 ,5
+Casa Rural ,Calle soledad 8 ,50000 ,5
+Piso ,Calle García Moreno ,225999 ,3
+Piso ,Fernando de la Peña 18 ,163000 ,1
+Piso ,Peñaranda de Bracamonte ,47200 ,2
+Piso ,barrio Sancti Spiritus-San Juan ,330000 ,2
+Piso ,Peñaranda de Bracamonte ,47200 ,2
+Chalet ,Parcela El Pinar s/n ,75000 ,2
+Piso ,Avenida Alcalde Beltrán de Heredia ,104900 ,2
+Chalet ,Calle Alondras ,480000 ,5
+Casa Rural ,Calle Bolos Segunda Cantalpino ,90000 ,4
+Piso ,Calle Sector Ui 1d ,72000 ,2
+Piso ,Avenida Portugal ,215000 ,4
+Piso ,Villares de la Reina ,109000 ,3
+Casa Rural ,Calle Bolos Segunda Cantalpino ,90000 ,4
+Chalet ,Calle Pocito 5 ,47500 ,3
+Piso ,Calle Sector Ui 1d ,72000 ,2
+Chalet ,Plaza Cristóbal de castillejo 12 ,299000 ,6
+Piso ,Paseo del Doctor Torres Villarroel ,339000 ,4
+Chalet ,Calle los Guindos ,27000 ,2
+Piso ,Calle de La Alberca ,270000 ,3
+Piso ,Calle Cándido Albarrán ,115000 ,3
+Chalet ,Calle Alondras ,480000 ,5
+Chalet ,Calle Unamuno ,390000 ,7
+Chalet ,Calle Trasera la Noria 7 ,29999 ,3
+Piso ,Calle Teso de San Nicolás ,228000 ,2
+Chalet ,Calle Río Águeda 16 ,279000 ,3
+Ático ,Carretera Zamora ,178000 ,4
+Piso ,muñoz torrero ,251500 ,3
+Piso ,Calle de la Comisión Europea ,130000 ,3
+Chalet ,Calle Despeñadero ,14000 ,3
+Casa Rural ,La Fuente ,75000 ,3
+Ático ,Avenida de Villamayor ,255000 ,2
+Piso ,BOLIVIA ,169000 ,3
+Piso ,Carretera de Ledesma ,157000 ,4
+Piso ,Paseo de Carmelitas ,305000 ,3
+Chalet ,Calle La Flor ,350000 ,4
+Ático ,Calle Arroyo de la Lastra ,151200 ,0
+Casa Rural ,Avenida San Francisco ,49994 ,3
+Casa Rural ,Cerezo ,61500 ,3
+Chalet ,Calle Tomillo ,210000 ,3
+Piso ,Paseo de Carmelitas ,470000 ,2
+Chalet ,Calle Almendros ,300000 ,3
+Ático ,Carretera Zamora 105 ,178000 ,4
+Casa Rural ,iglesia ,39950 ,2
+Chalet ,Calle Rondasol ,65000 ,3
+Piso ,Calle de Van Dyck ,145000 ,4
+Estudio ,Calle Arroyo de la Lastra ,138600 ,0
+Piso ,Calle Arroyo de la Lastra ,220150 ,2
+Chalet ,Paseo del Progreso 5 ,430000 ,3
+Piso ,Avenida de Mirat ,590000 ,4
+Chalet ,Iglesia 18 ,73000 ,4
+Piso ,Calle Doctor Jaime Vera ,250000 ,5
+Piso ,Paseo de Carmelitas ,259000 ,4
+Piso ,barrio Garrido norte ,97000 ,3
+Piso ,Avenida Portugal ,239900 ,3
+Casa Rural ,LARGA ,50000 ,3
+Piso ,Plaza de Gabriel y Galán ,334500 ,4
+Piso ,Avenida de la Serna 28 ,245000 ,3
+Piso ,Calle Maestro Soler ,108800 ,3
+Chalet ,Avenida Villamayor ,300000 ,3
+Chalet ,ALAMEDA ,85000 ,3
+Chalet ,Cabrerizos ,349000 ,4
+Chalet ,SAN VICENTE 3 ,30000 ,2
+Piso ,Paseo del Rector Esperabé ,239500 ,2
+Piso ,Carretera de Peñaranda ,55000 ,3
+Chalet ,Calle Alcalde Zalamea s/n ,285000 ,4
+Piso ,Avenida de la Serna 28 ,225000 ,3
+Piso ,Avenida de la Serna 28 ,240000 ,3
+Piso ,Avenida de la Serna 28 ,225000 ,3
+Piso ,Independencia ,39000 ,2
+Piso ,Avenida de la Serna 28 ,215000 ,3
+Piso ,Av. de los Comuneros ,150000 ,3
+Piso ,Avenida de Portugal ,194990 ,4
+Piso ,barrio Labradores ,225000 ,4
+Piso ,Calle Bruma ,215000 ,3
+Piso ,Calle san pablo 96 ,305000 ,2
+Piso ,Calle Almenara ,160000 ,4
+Piso ,Plaza España 4 ,615000 ,3
+Piso ,Plaza España 4 ,970000 ,4
+Chalet ,Calle del Medio ,147500 ,3
+Piso ,Calle san pablo 96 ,250000 ,2
+Piso ,Plaza España 4 ,890000 ,3
+Piso ,salas pombo 37 ,110000 ,1
+Casa Rural ,San Pedro 4 ,140000 ,4
+Chalet ,Cabrerizos ,114000 ,3
+Piso ,Carretera de Ledesma ,145000 ,3
+Piso ,Paseo DE VALDELAGUA ,115000 ,2
+Piso ,OBISPO ALCOLEA 40 /50 ,117900 ,1
+Chalet ,Jucar ,260000 ,3
+Chalet ,Calle Agustín Tamames ,189000 ,6
+Chalet ,Calle Río Huebra ,354900 ,4
+Chalet ,Cabrerizos ,114000 ,3
+Piso ,Paseo DE VALDELAGUA ,115000 ,2
+Ático ,Calle General Albertos ,170000 ,3
+Piso ,Carretera de Ledesma 65 ,171000 ,2
+Chalet ,San José - Parador - Zurguen ,225000 ,3
+Ático ,Calle Mayor a la Plaza ,160000 ,3
+Piso ,Barrio Blanco ,90000 ,2
+Piso ,Carretera de Ledesma 65 ,207000 ,3
+Piso ,Calle Luis Hernández Contreras ,590000 ,4
+Piso ,Calle Colombia ,149000 ,3
+Chalet ,Pizarrales ,75000 ,3
+Chalet ,Avenida Villamayor 55 ,254600 ,3
+Piso ,Calle Obispo Alcolea 74 ,112000 ,3
+Piso ,barrio Garrido sur ,264900 ,2
+Piso ,Plaza Santo Domingo 1 ,75000 ,3
+Piso ,Calle Río Águeda ,59900 ,3
+Piso ,Plaza de Gabriel y Galán ,275000 ,4
+Piso ,Chamberi 33 ,20300 ,3
+Piso ,Calle El Bierzo Salamanca 37 ,101000 ,1
+Piso ,Calle Maestro Chapí ,85000 ,3
+Chalet ,Calle Ganges ,181830 ,7
+Chalet ,Avenida de Salamanca 4 ,116000 ,3
+Piso ,fernando de rojas ,255000 ,3
+Piso ,Calle María Auxiliadora ,159900 ,1
+Chalet ,Calle Mimbre ,449000 ,4
+Piso ,Calle Ciudad de León 3 ,44574 ,1
+Piso ,Calle María Auxiliadora ,360000 ,3
+Piso ,Calle Obispo Alcolea 20 ,138000 ,2
+Casa Rural ,correo viejo 1 ,90000 ,7
+Piso ,barrio Garrido norte ,164995 ,6
+Piso ,Calle de San Vicente s/n ,112000 ,2
+Piso ,barrio Carmelitas ,149000 ,2
+Ático ,Prosperidad - Delicias ,149900 ,2
+Piso ,barrio Garrido sur ,139500 ,3
+Piso ,Maestro Ginés ,72000 ,3
+Piso ,Calle Virgen del Carmen s/n ,60000 ,4
+Ático ,ARCO ,459990 ,2
+Piso ,Castellanos de Moriscos ,61700 ,2
+Piso ,Avenida de Federico Anaya ,142500 ,5
+Piso ,Peñaranda de Bracamonte ,59900 ,3
+Piso ,Cuesta de Sancti-Spiritus ,330000 ,4
+Chalet ,barrio San Esteban-San Cristobal ,550000 ,4
+Chalet ,Carretera Aldeacipreste ,165000 ,4
+Piso ,Pizarrales ,119000 ,1
+Chalet ,Monforte de la Sierra ,23000 ,3
+Casa Rural ,Calle Nueva Particular 11 ,150000 ,5
+Piso ,Carrascal de Barregas ,215000 ,6
+Piso ,Vidal ,161900 ,1
+Piso ,San José - Parador - Zurguen ,125000 ,3
+Piso ,Barrio Blanco ,130000 ,4
+Piso ,barrio Universidad-Tenerías ,110000 ,1
+Piso ,Avenida de Federico Anaya ,140000 ,3
+Piso ,barrio Sancti Spiritus-San Juan ,110000 ,1
+Chalet ,Doñinos de Salamanca ,230000 ,4
+Ático ,barrio Centro ,350000 ,2
+Chalet ,Villamayor ,294000 ,4
+Piso ,Avenida de Federico Anaya ,103600 ,3
+Piso ,Vidal ,122000 ,4
+Piso ,Carbajosa de la Sagrada ,81995 ,2
+Piso ,Calle Joaquín Costa ,265000 ,4
+Piso ,Prosperidad - Delicias ,210000 ,3
+Piso ,Calle Luis Sala Balust ,145000 ,2
+Piso ,Rollo - Puente Ladrillo ,120000 ,2
+Chalet ,Santa Marta de Tormes ,480000 ,5
+Piso ,barrio Sancti Spiritus-San Juan ,395000 ,4
+Chalet ,Villamayor ,290000 ,4
+Chalet ,Galindo y Perahuy ,440000 ,4
+Piso ,Paseo de la Estación ,159000 ,3
+Chalet ,Calle María Lejárraga 40 ,239900 ,3
+Chalet ,Cabrerizos ,251000 ,4
+Chalet ,Cabrerizos ,741000 ,4
+Chalet ,Villares de la Reina ,340000 ,5
+Ático ,barrio Centro ,350000 ,2
+Piso ,Castellanos de Moriscos ,72000 ,2
+Duplex ,barrio San Vicente-Las Úrsulas ,180000 ,4
+Chalet ,Calle Tomillo ,210000 ,3
+Chalet ,La Vellés ,220000 ,4
+Chalet ,Barrio Blanco ,245000 ,3
+Piso ,Joaquín Costa ,265000 ,4
+Piso ,Arapiles ,78000 ,2
