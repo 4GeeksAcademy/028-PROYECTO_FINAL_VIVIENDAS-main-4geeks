@@ -556,7 +556,6 @@ Chalet,La Moraleja urbanización,7000000,6
 Duplex,zona centro s/n,690000,5
 Chalet,Calle José Miguel Guridi 130,1690000,6
 Chalet,barrio Ciudad Jardín,2700000,5
-Chalet,4 km. Hipercor Campo de las Naciones 1,7 km. Gimnasio Holmes Place 450 m. Hospital Nuestra Señora de América 2,4 km. Clínica Universitaria de Navarra en Madrid 2
 Chalet,Ciudalcampo,1990000,5
 Chalet,barrio Somosaguas,2480000,6
 Chalet,Centro,675000,5
@@ -569,7 +568,6 @@ Chalet,El Bosque,998000,6
 Piso,barrio Jerónimos,1300000,2
 Chalet,La Moraleja urbanización,7000000,6
 Piso,barrio Nuevos Ministerios-Ríos Rosas,3700000,5
-Chalet,4 km. Hipercor Campo de las Naciones 1,7 km. Gimnasio Holmes Place 450 m. Hospital Nuestra Señora de América 2,4 km. Clínica Universitaria de Navarra en Madrid 2
 Chalet,Ciudalcampo,1990000,5
 Duplex,Carretera de Pozuelo 22,489900,4
 Chalet,DUERO,830000,6
@@ -1130,4 +1128,671 @@ Piso,Calle de San Bartolomé,825000,2
 Piso,Calle del General Oráa,1150000,4
 Piso,Calle de Costa Rica,469000,2
 Piso,Calle del Marqués de Viana,395000,2
-Piso,barr,,
+Piso,barrio Ibiza,1150000,4
+Piso,Calle Clara Campoamor,480000,2
+Piso,barrio Malasaña-Universidad,859000,3
+Piso,Calle de Santa Virgilia 3,390000,2
+Piso,barrio Gaztambide,749000,4
+Piso,Calle de Larra,1299000,5
+Piso,Espoz y Mina,590000,2
+Piso,Calle de Lagasca,1450000,5
+Piso,Calle de Ilustración,380000,2
+Piso,Avenida de Logroño,510000,3
+Piso,Calle de Monteleón,690000,4
+Piso,Calle de Vallehermoso,270000,2
+Piso,Calle Azuaga,249000,4
+Piso,Calle de las Orquídeas 1,435000,2
+Piso,Calle de las Orquídeas 1,447500,2
+Piso,Calle de las Orquídeas 1,391000,2
+Chalet,La Moraleja urbanización,3500000,7
+Piso,Avenida de Isabel de Valois,500000,3
+Chalet,barrio Ciudad Universitaria,2975000,6
+Piso,Calle del General Pardiñas 48,320000,2
+Piso,Calle de Guzmán el Bueno,550000,3
+Piso,Calle del Monte Perdido,137900,2
+Piso,barrio Jerónimos,4260000,7
+Piso,barrio Castilla,630000,3
+Piso,barrio Valdeacederas,149000,1
+Piso,Avenida de Portugal,350000,3
+Piso,Calle del General Ricardos,265000,3
+Piso,barrio Chueca-Justicia,2700000,4
+Piso,Calle de Dinamarca,264000,2
+Piso,barrio Goya,1090000,3
+Piso,Calle de Guzmán el Bueno 115,725000,4
+Piso,Calle de Lope de Rueda,825000,2
+Ático,Virtudes 6,248000,0
+Piso,Calle de Arturo Soria,1450000,5
+Piso,barrio Orcasitas,239500,2
+Piso,Calle Cruces 1,442900,4
+Piso,919381654,Calle Bergantín,357000
+Chalet,Urb. Monte de la Villa 1,662000,4
+Duplex,Calle de Agastia,980000,4
+Chalet,Urb. Monte de la Villa 1,664000,4
+Piso,barrio Montecillo,598000,3
+Chalet,Urb. Monte de la Villa 1,650000,4
+Piso,Calle Cruces 1,395000,3
+Piso,Calle de Luis Martinez Feduchi,1295000,3
+Piso,Calle de José Ortega y Gasset 52,750000,3
+Chalet,Calle de Zugazarte,1948000,6
+Piso,Ana de Austria,495000,3
+Piso,Calle del Doctor Gómez Ulla 2,1125000,4
+Duplex,Calle de la Buganvilla 4,1560000,4
+Piso,919386091,Carretera de Canillas,399000
+Piso,Calle de Julián Besteiro,545000,4
+Piso,Calle del Doctor Fourquet,105000,2
+Piso,Calle VELERO,870000,4
+Chalet,Pilar Bardem,625000,4
+Piso,Calle de Segovia,429000,2
+Piso,VIRGEN DEL PUERTO,515000,5
+Chalet,barrio Monte Rozas,1150000,6
+Piso,Avenida de Francia,324900,2
+Piso,Calle de la Bola,464000,2
+Duplex,Calle de Monseñor Oscar Romero,244900,4
+Piso,Calle del Príncipe de Vergara,530000,3
+Chalet,VICENTE ALEXANDRE,619900,5
+Piso,Calle de la Fuente del Berro,820000,4
+Chalet,Calle de Goitia,1999000,6
+Chalet,JUAN RAMÓN JIMÉNEZ,663000,5
+Chalet,barrio El Cantizal,1075000,6
+Chalet,Fuente del Fresno,2100000,6
+Piso,Avenida de Francisco Pi y Margall,589000,3
+Piso,Lígula,1650000,4
+Chalet,Calle de San Enrique de Ossó,1860000,6
+Piso,Calle de la Dalia,695000,2
+Piso,barrio Castilla,950000,4
+Piso,Universidad,125000,2
+Chalet,barrio Valdemarín,1697000,7
+Piso,barrio El Viso,1875000,2
+Chalet,Camino alto,3195000,6
+Chalet,Julio Caro Baroja,1950000,5
+Chalet,Camino de la Fuente,3800000,10
+Chalet,Camino de la Fuente,9500000,6
+Chalet,Calle de la Azalea,1150000,4
+Chalet,Calle Mistral,1580000,5
+Piso,Calle de Guzmán el Bueno,630000,2
+Duplex,Calle de la Costa Brava,850000,4
+Piso,Calle de Ascao,225000,3
+Chalet,Castillo - Campodón,975000,7
+Piso,Calle de Alcalá,5200000,4
+Piso,Calle de Montesa,1100000,3
+Piso,Callejón del Mellizo,332000,2
+Duplex,Calle Monte Rancho,620000,4
+Piso,Calle de Carranza s/n,750000,1
+Piso,Calle San Martín de Porres,1450000,5
+Piso,barrio Virgen del Cortijo - Manoteras,575000,2
+Piso,Corredera Baja de San Pablo,320000,2
+Chalet,Fuenlabrada II - El Molino,439000,3
+Chalet,Camino Mesoncillos,3500000,8
+Chalet,Calle de Arturo Soria,890000,5
+Piso,Calle de Cochabamba,790000,3
+Piso,Universidad,162000,2
+Piso,Universidad,149900,3
+Chalet,Calle de Palermo,1980000,4
+Piso,Carretera MEDIODIA,970000,4
+Estudio,Calle de Américo Castro,234900,0
+Casa Rural,Centro,1000000,8
+Piso,barrio Castellana,895000,2
+Piso,Paseo de la Castellana,1349000,3
+Chalet,barrio El Cantizal,1285000,6
+Chalet,Las Lomas,3990000,6
+Piso,Calle de Arturo Soria,990000,4
+Piso,barrio Argüelles,925000,3
+Piso,barrio Chueca-Justicia,1550000,2
+Duplex,Avenida del Cardenal Herrera Oria,1139771,7
+Piso,Conde de Peñalver,315000,1
+Piso,Paseo general martinez campos,1400000,4
+Chalet,El Bosque,694900,4
+Piso,Calle de Luis Martinez Feduchi,1150000,5
+Duplex,El Soto de la Moraleja,575000,2
+Piso,barrio Rejas,335000,2
+Piso,barrio Nueva España,2200000,4
+Chalet,La Moraleja urbanización,3400000,6
+Ático,Calle del Príncipe de Vergara 209,2000000,5
+Piso,Calle de José Abascal,2636000,4
+Piso,Calle de la Zarzamora,124000,2
+Piso,barrio Conde Orgaz-Piovera,798000,3
+Chalet,La Moraleja urbanización,2600000,5
+Chalet,La Moraleja urbanización,4500000,5
+Chalet,El Soto de la Moraleja,1200000,6
+Piso,Encinar de los Reyes,1550000,2
+Chalet,Encinar de los Reyes,1890000,5
+Chalet,La Moraleja urbanización,3500000,5
+Piso,Travesía Verja,159500,2
+Chalet,barrio Bernabéu-Hispanoamérica,1150000,3
+Chalet,barrio El Caño- Maracaibo,799500,4
+Piso,barrio Recoletos,900000,3
+Piso,barrio Almagro,2690000,5
+Piso,barrio Recoletos,3000000,4
+Piso,barrio Chueca-Justicia,849000,3
+Chalet,Ciudalcampo,1489000,6
+Ático,barrio Conde Orgaz-Piovera,1500000,5
+Piso,Calle del Doctor Esquerdo,550000,2
+Piso,Calle de Villanueva s/n,1250000,2
+Piso,barrio Chueca-Justicia,2300000,5
+Piso,Avenida de europa,758000,4
+Piso,Calle de Ramírez de Arellano 20,550000,3
+Piso,Paseo de la Dirección,488500,1
+Piso,Abedul,2490000,4
+Duplex,Calle Francisco Lizcano,370000,3
+Chalet,PEÑAFIEL,2290000,6
+Chalet,VOLGA,2575000,9
+Piso,Calle Ribera de Curtidores 31,430000,1
+Piso,Calle Ribera de Curtidores 31,430000,1
+Chalet,VOLGA,2575000,9
+Piso,Calle de Manuel Fernández y González,650000,6
+Ático,Calle del Abedul,2450000,4
+Piso,Calle de Linneo,445000,3
+Piso,Calle de Serrano,1180000,4
+Piso,Calle del Duque de Alba,580000,3
+Piso,Calle de Alcántara,995000,2
+Piso,Paseo de la Castellana,950000,3
+Piso,Calle del Conde de Peñalver,240000,2
+Piso,Calle de Francisco Santos,495000,3
+Piso,Calle de San Germán,330000,2
+Chalet,barrio Palomas,1095000,4
+Piso,barrio Argüelles,895000,4
+Piso,Calle Torrejón de Velasco,170000,3
+Duplex,Calle Brigadas Internacionales,304000,3
+Piso,Calle del General Pardiñas,679000,2
+Piso,Calle de Alcántara,325000,2
+Piso,Calle de Máiquez,539000,2
+Ático,barrio Palomas,840000,4
+Piso,barrio San Pascual,450000,2
+Duplex,barrio San Juan Bautista,1200000,5
+Chalet,Camino de Mesoncillos,3500000,8
+Piso,Calle del General Oráa,950000,2
+Piso,Calle Albalá,359900,3
+Piso,Calle de Francisca Moreno,840000,2
+Piso,Calle del Doctor Esquerdo,795000,3
+Piso,Calle de los Condes del Val s/n,2350000,5
+Piso,Pescadores,133900,3
+Piso,Calle Núñez de Balboa,1250000,2
+Piso,Calle DE MARIA DE GUZMAN,200000,1
+Piso,Calle de Luis Martinez Feduchi,1150000,4
+Chalet,Camino alto,3500000,6
+Piso,Avenida de Machupichu,798000,3
+Piso,Encinar de los Reyes,1300000,3
+Piso,Calle de Jorge Juan,1300000,3
+Piso,Calle de la Avicultura,129500,3
+Piso,barrio Castellana,7900000,4
+Piso,Calle de Ricardo Ortiz,494900,4
+Piso,Calle de Juan Pérez Zúñiga 17,259900,2
+Chalet,La Moraleja urbanización,14000000,8
+Piso,Calle de Ricardo Ortiz,494900,4
+Ático,barrio Malasaña-Universidad,590000,2
+Piso,El Soto de la Moraleja,1700000,5
+Ático,Encinar de los Reyes,1200000,2
+Piso,barrio Gaztambide,395000,2
+Piso,Calle del Duque de Sesto,1190000,3
+Chalet,barrio Aravaca,1649000,6
+Chalet,barrio Valdemarín,3900000,5
+Chalet,barrio Conde Orgaz-Piovera,2150000,4
+Piso,barrio Conde Orgaz-Piovera,1052000,3
+Piso,barrio Conde Orgaz-Piovera,918000,3
+Piso,Calle de Los Molinos,375000,3
+Piso,barrio Recoletos,4750000,4
+Piso,barrio Chueca-Justicia,789000,3
+Piso,Calle de O'Donnell,799000,3
+Chalet,barrio Conde Orgaz-Piovera,1500000,5
+Piso,barrio Conde Orgaz-Piovera,1130000,3
+Piso,Centro,149000,3
+Piso,Calle de Diego de León,879000,2
+Piso,Avenida de América,925000,4
+Piso,Calle del General Pardiñas,1150000,3
+Piso,Calle de Lope de Rueda,450000,2
+Chalet,Calle Collado del Viento,2550000,7
+Piso,Calle de Barbieri,849000,3
+Piso,Calle de Manuela Malasaña,1199000,3
+Chalet,Avenida del Leguario,379000,4
+Piso,Avenida Séptima,340000,3
+Piso,Avenida de la Ciudad de Barcelona,410000,2
+Chalet,Callejón de las estrellas,2400000,6
+Piso,barrio Guindalera,760000,4
+Piso,Calle de Guzmán el Bueno,830000,5
+Piso,Calle de Bolonia,535000,3
+Piso,Calle de San Maximiliano,110500,1
+Piso,Calle de Atocha,395000,1
+Piso,Calle de Virgen de Lluc,295000,2
+Piso,Avenida de Pío XII,345000,1
+Duplex,Paseo de La Habana,1390000,3
+Piso,Calle de Víctor de la Serna,770000,3
+Piso,Calle del Labrador,410000,2
+Piso,Calle de San Maximiliano,110500,1
+Duplex,Paseo de La Habana,1390000,3
+Piso,Paseo de Santa María de la Cabeza,330000,3
+Piso,Calle de Atocha,395000,1
+Piso,barrio Recoletos,3300000,3
+Piso,Calle de Braulio Gutiérrez,228000,2
+Piso,Calle del Pez,859000,3
+Chalet,Calle Batalla de Garellano,1649000,4
+Piso,Calle del General Aranaz,237500,2
+Piso,Calle Cristóbal Aguilera,149000,3
+Piso,Calle de Torres Miranda,350000,2
+Chalet,Santo Domingo,1295000,6
+Piso,Calle de Braulio Gutiérrez,174000,3
+Piso,Calle de Castelló,1690000,3
+Chalet,Travesía Enrique Velasco 12,139500,4
+Piso,Avenida de los Madroños,1795000,4
+Chalet,Calle del Beleño,2800000,6
+Piso,Paseo de la Castellana,1399000,4
+Piso,Paseo de la Castellana,1150000,3
+Piso,Calle del Halcón,225000,3
+Chalet,barrio Club de Golf,1590000,5
+Piso,Plaza de San Ildefonso,890000,3
+Duplex,Calle San Victorino,168000,3
+Piso,Avenida de la Ciudad de Barcelona,410000,2
+Piso,Paseo de la Castellana,1099000,3
+Piso,Paseo de la Castellana,950000,3
+Piso,Musas,149900,3
+Chalet,Calle del Ciervo,2200000,5
+Chalet,embajador,1550000,6
+Piso,Virgen de Lluc,178000,1
+Piso,Calle Cóndor,165000,3
+Piso,Rio ulla,289000,3
+Piso,Paseo de La Habana,425000,1
+Piso,barrio Goya,3600000,5
+Piso,barrio Recoletos,2250000,3
+Piso,barrio Lista,995000,2
+Piso,Calle Jovellanos,135000,3
+Piso,Calle de Dulce Chacón,899000,3
+Chalet,barrio Mirasierra,2100000,5
+Piso,Calle de la Bureba,190000,3
+Piso,Musas,149900,3
+Piso,barrio Lista,995000,2
+Piso,Calle de Braulio Gutiérrez,174000,3
+Piso,Calle del General Aranaz,237500,2
+Piso,barrio Estrella,635000,4
+Piso,Nuestra Señora del Villar,154000,2
+Piso,Calle de Boldano,174900,3
+Piso,Calle Luis Ruiz,138000,2
+Piso,Calle del Poeta Blas de Otero,179000,3
+Piso,Calle de Etruria,207900,2
+Piso,Calle de los Hermanos García Noblejas,249900,3
+Piso,Calle de García de Paredes,1050000,4
+Piso,Calle Madres Plaza de Mayo,194900,3
+Piso,Calle Siderurgia,154000,3
+Piso,Calle Aquiles,357000,3
+Piso,Calle del Doctor Vallejo,220000,2
+Piso,Calle Elfo,269900,2
+Piso,Calle de Serrano,1335000,4
+Piso,barrio Malasaña-Universidad,950000,3
+Piso,Calle del Pintor Juan Gris,798000,4
+Piso,Calle de Arcos de Jalón,299000,4
+Piso,Calle Montejurra,207000,3
+Piso,barrio Lista,849000,2
+Piso,Calle de Vicente Espinel,179900,3
+Piso,barrio Lista,1500000,3
+Piso,Calle de Arcos de Jalón,208000,3
+Piso,Calle del Poeta Joan Maragall,728990,4
+Piso,barrio Águilas,185000,3
+Chalet,Ciudalcampo,2480000,5
+Chalet,barrio Mirasierra,1990000,6
+Ático,barrio Simancas,720000,3
+Piso,Calle de Zabaleta 7,340000,2
+Piso,Calle de Maldonado,750000,2
+Piso,barrio El Viso,1500000,3
+Piso,barrio Malasaña-Universidad,719000,3
+Chalet,Camino de la Fuente,3800000,7
+Piso,barrio Almagro,4200000,5
+Piso,barrio Malasaña-Universidad,899000,2
+Piso,Calle de Palencia,297500,3
+Piso,barrio San Pascual,820000,4
+Piso,barrio Argüelles,950000,5
+Piso,barrio San Pascual,820000,4
+Piso,Calle de Palencia,297500,3
+Piso,Calle de Felisa Méndez,250000,3
+Piso,Calle Mayor,595000,2
+Piso,Calle del Vizconde de los Asilo,650000,3
+Piso,Calle de O'Donnell,1190000,4
+Piso,Calle de Maudes,740000,5
+Piso,Plaza de San Ildefonso,890000,3
+Piso,Paseo de la Infanta Isabel,1100000,3
+Piso,Calle del Monte Esquinza,1400000,3
+Piso,barrio San Juan Bautista,900000,3
+Piso,Calle de Guillermo de Osma,312000,3
+Piso,Calle de Joaquín Costa,950000,4
+Piso,Carrera de San Jerónimo,829000,2
+Piso,Calle de Eladio López Vilches,440000,4
+Piso,Calle de O'Donnell,1850000,5
+Piso,Calle de El Escorial,699000,2
+Piso,Calle de Atocha,839000,2
+Piso,Calle del Espíritu Santo,959000,3
+Piso,Calle de San Bernardo,899000,3
+Duplex,barrio Canillas,875000,3
+Piso,Calle de Linneo,315000,2
+Piso,Carrera de San Jerónimo,899000,2
+Piso,Calle de la Estrella Polar,696000,5
+Piso,Calle de Diego de León,849000,2
+Chalet,La Moraleja urbanización,3500000,5
+Piso,barrio Chopera,355000,2
+Ático,Calle del Jazmín,607000,4
+Piso,Calle de Fernández de los Ríos,1300000,8
+Piso,Calle del Doctor Urquiola,195000,3
+Piso,barrio Palacio,495000,3
+Piso,Calle San Moisés,175000,2
+Chalet,La Moraleja urbanización,4500000,6
+Ático,El Soto de la Moraleja,1800000,7
+Chalet,El Soto de la Moraleja,970000,4
+Chalet,La Moraleja urbanización,7300000,9
+Piso,Encinar de los Reyes,790000,2
+Piso,barrio Recoletos,3400000,6
+Piso,Calle de San Jenaro,135000,2
+Piso,Calle de Bretón de los Herreros,310000,2
+Chalet,Calle de Gallur,239000,4
+Piso,Calle de Fuentespina,339500,4
+Piso,barrio Conde Orgaz-Piovera,695000,3
+Piso,Calle de Dulcinea,132000,3
+Piso,Paseo de la castellana 121,925000,3
+Chalet,Calle del Rododendro,850000,6
+Piso,Avenida del Mediterráneo,495000,4
+Piso,barrio Recoletos,3400000,6
+Piso,barrio Lista,1100000,5
+Piso,Calle de San Aureliano,133000,3
+Piso,Calle del General Ricardos,268000,3
+Piso,Calle Periana,274000,4
+Piso,Paseo de las Delicias,585000,3
+Piso,Calle de las Huertas,1175000,3
+Piso,Calle de San Jenaro,135000,2
+Piso,barrio Almagro,2450000,4
+Ático,barrio Valdemarín,1200000,5
+Chalet,El Soto de la Moraleja,1825000,5
+Chalet,barrio Zona Pueblo,1580000,5
+Piso,barrio Goya,1250000,3
+Piso,barrio Conde Orgaz-Piovera,1130000,3
+Piso,barrio Huertas-Cortes,829000,3
+Piso,barrio Sol,889000,2
+Chalet,barrio Conde Orgaz-Piovera,2900000,6
+Chalet,Fuente del Fresno,950000,9
+Piso,barrio Lavapiés-Embajadores,685000,3
+Piso,Calle de Nieremberg,320000,2
+Chalet,barrio Conde Orgaz-Piovera,5000000,10
+Ático,barrio Castellana,6950000,5
+Ático,barrio Castellana,6950000,5
+Duplex,barrio Castellana,3500000,2
+Piso,barrio Lavapiés-Embajadores,440000,2
+Piso,barrio Castellana,3850000,5
+Chalet,barrio Conde Orgaz-Piovera,2300000,7
+Piso,Calle de Sánchez Barcáiztegui,340000,4
+Chalet,barrio Conde Orgaz-Piovera,2150000,5
+Piso,barrio Recoletos,2700000,3
+Piso,barrio Valdebebas - Valdefuentes,795000,4
+Piso,Calle Clavelinas,296000,4
+Chalet,barrio Conde Orgaz-Piovera,2300000,7
+Duplex,barrio Castellana,3500000,2
+Piso,barrio Valdebebas - Valdefuentes,785000,3
+Piso,barrio Valdebebas - Valdefuentes,795000,4
+Piso,Calle Clavelinas,296000,4
+Piso,Calle de Felipe II,134900,3
+Duplex,barrio Malasaña-Universidad,600000,2
+Piso,barrio Huertas-Cortes,829000,3
+Piso,barrio Sol,819000,2
+Piso,barrio Castellana,2400000,4
+Ático,barrio Lavapiés-Embajadores,690000,2
+Piso,barrio Recoletos,2700000,3
+Duplex,barrio Prado de Somosaguas,850000,5
+Chalet,barrio Conde Orgaz-Piovera,2200000,5
+Piso,barrio Recoletos,2700000,7
+Duplex,barrio Nueva España,2600000,4
+Chalet,barrio Somosaguas,3950000,7
+Duplex,barrio Nueva España,2490000,4
+Piso,barrio Palomas,680000,4
+Piso,barrio Ventilla-Almenara,1240000,6
+Piso,barrio Prado de Somosaguas,840000,4
+Piso,barrio Canillas,585000,3
+Ático,Calle de la Princesa de Kapurtala,575000,3
+Piso,Calle de Fernando el Católico,538000,3
+Piso,Calle Embalse de Valmayor,309000,3
+Piso,velazquez s/n s/n,2290000,3
+Piso,Calle del Doctor Sánchez,119000,2
+Piso,Calle del Sacramento 10,349000,1
+Chalet,Calle del Oso,1600000,8
+Piso,Calle del Maestro Alonso 13,299000,2
+Chalet,Calle embajador,1490000,8
+Piso,Calle de Calatrava 21,455000,2
+Piso,Calle de Sánchez Pacheco 64,629000,3
+Piso,Calle de Calvo Asensio 12,229000,1
+Piso,Calle de Ardemans,300000,2
+Chalet,Calle prado del rey 4,3300000,6
+Ático,Calle del Monte Esquinza,1750000,3
+Chalet,cerro del toro,1990000,5
+Chalet,Paseo del los lagos 2,2400000,4
+Piso,Encinar de los Reyes,1200000,3
+Piso,barrio Guindalera,750000,3
+Piso,Calle de Gabriela Mistral,930000,5
+Piso,Paseo de la Dirección,479000,1
+Piso,barrio Recoletos,1200000,2
+Piso,Encinar de los Reyes,1200000,3
+Piso,barrio Goya,720000,3
+Piso,barrio Guindalera,965000,5
+Chalet,Paseo de los lagos 1,7500000,8
+Chalet,Calle DE LA JARA,2090000,5
+Chalet,Viñuelas,2600000,7
+Chalet,barrio Mirasierra,3990000,5
+Ático,Abedul,2600000,4
+Duplex,Calle de la Costa Brava,850000,4
+Chalet,barrio Zona Estación,1399000,3
+Chalet,Calle Lagunas de Ruidera,329000,3
+Chalet,Calle Peguerinos,3095000,7
+Chalet,Calle del Andarríos,2200000,6
+Chalet,Calle Turégano,4500000,8
+Piso,Calle de Hilarión Eslava,365000,3
+Piso,Calle del Doctor Castelo,435000,2
+Chalet,barrio Zona Estación,1399000,3
+Chalet,Calle Pilar Miró,349000,4
+Piso,Calle de Clara del Rey,780000,4
+Piso,Costa Brava,798000,5
+Piso,barrio Ibiza,1150000,4
+Piso,barrio Gaztambide,990000,5
+Piso,barrio Nueva España,889000,4
+Piso,barrio Goya,1390000,3
+Piso,Calle de Alcántara,995000,2
+Piso,barrio Almagro,880000,3
+Piso,barrio Nueva España,1300000,4
+Piso,barrio Bernabéu-Hispanoamérica,1180000,3
+Piso,barrio Lista,995000,2
+Piso,Calle del Doctor Fourquet,190000,3
+Piso,barrio Chueca-Justicia,980000,2
+Piso,barrio El Viso,1500000,3
+Piso,barrio Castellana,575000,1
+Piso,barrio Cuatro Caminos,1500000,3
+Piso,barrio Nueva España,1045000,4
+Chalet,barrio Canillas,1195000,5
+Chalet,barrio Nueva España,4200000,8
+Piso,barrio Vallehermoso,685000,3
+Piso,barrio Costillares,298000,1
+Piso,barrio Valdemarín,457000,1
+Ático,barrio Palomas,830000,2
+Piso,barrio Cuatro Caminos,965000,3
+Piso,barrio Pacífico,399000,3
+Piso,Calle de Francisco Silvela,349000,3
+Piso,barrio Estrella,790000,4
+Piso,Avenida de los Madroños,1875000,4
+Piso,Calle de maudes,740000,5
+Piso,barrio Amposta,128000,2
+Duplex,barrio Almagro,499000,1
+Piso,barrio Argüelles,890000,2
+Piso,barrio Estrella,1495000,3
+Piso,barrio Cuzco-Castillejos,500000,2
+Chalet,barrio El Plantío,3000000,6
+Piso,Calle de Núñez de Balboa,3850000,5
+Piso,barrio Argüelles,1050000,3
+Piso,barrio Castilla,975000,5
+Chalet,El Bosque,1350000,5
+Piso,Calle de don alvaro de bazanº,1180000,7
+Piso,Calle de Núñez de Balboa,3000000,4
+Ático,barrio Arapiles,1650000,3
+Chalet,El Pastel,777500,5
+Ático,Calle de Jorge Juan,695000,2
+Duplex,barrio Nueva España,1600000,6
+Piso,Paseo de Santa María de la Cabeza 10,599000,3
+Piso,barrio El Cantizal,476000,3
+Chalet,barrio Las Matas- Peñascales,900000,6
+Piso,Calle del Marqués de Lozoya 24,749000,3
+Piso,barrio Ciudad Jardín,749000,3
+Piso,Calle de El Escorial,699000,2
+Ático,barrio Goya,540000,2
+Chalet,barrio Campamento,570000,3
+Piso,Calle de Torres Miranda 16,399000,3
+Piso,Calle de Valle Inclán 61,174000,2
+Chalet,barrio La Chopera,980000,5
+Duplex,Calle del Prado,384000,2
+Piso,Paseo de la Castellana,945000,4
+Piso,Calle de Valle Inclán 61,174000,2
+Piso,Calle de Torres Miranda 19,465000,3
+Piso,Calle de Abtao 48,525000,3
+Piso,Calle de Narciso Serra 22,599000,3
+Piso,Calle de Vegafría 1,949000,5
+Ático,Calle Helsinki,499000,2
+Duplex,barrio Nueva España,1595000,3
+Piso,barrio Lista,1100000,3
+Piso,barrio Gaztambide,695000,3
+Piso,Calle Mayor,752248,3
+Chalet,barrio Campamento,570000,3
+Piso,Paseo de Santa María de la Cabeza 67,499000,3
+Piso,Paseo de Santa María de la Cabeza 70,569000,3
+Ático,barrio San Pascual,870000,5
+Piso,Calle de Peña de Francia 2,415000,2
+Piso,barrio Ventilla-Almenara,945000,5
+Ático,barrio Goya,540000,2
+Piso,Paseo de la Castellana 237,649000,3
+Piso,Calle de Torres Miranda 16,399000,3
+Piso,barrio Lista,619000,2
+Piso,Calle de Alfredo Marqueríe 11,649000,4
+Piso,Calle de Cartagena,389900,2
+Piso,Calle de Lérida 97,449000,3
+Duplex,Calle del Prado,384000,2
+Piso,Calle de Artesa de Segre 14,699000,3
+Piso,Calle Grañón 14,449000,2
+Piso,Calle de Torres Miranda 20,399000,2
+Piso,barrio Delicias,750000,3
+Piso,Calle de Sirio,649900,4
+Duplex,Calle de Cañada del Santísimo,475000,3
+Piso,barrio Colina,610000,4
+Piso,Calle de Fermín Caballero 10,475000,3
+Ático,Calle de María Tubau,659000,3
+Piso,Paseo de Santa María de la Cabeza 10,599000,3
+Piso,Avenida del Doctor Toledo,245000,3
+Piso,Calle de Antonio Moreno 16,170000,3
+Piso,barrio Ciudad Jardín,749000,3
+Piso,Calle de Fortunata y Jacinta 7,799000,4
+Chalet,barrio Zona norte,890000,4
+Piso,Calle Puerto del Bruch,129900,3
+Chalet,La Moraleja urbanización,3500000,5
+Piso,Calle Puerto del Bruch,129900,3
+Piso,Calle de Hermosilla,944000,3
+Piso,Alcantara,995000,2
+Chalet,Encinar de los Reyes,1720000,5
+Piso,Calle la Adrada,339900,3
+Piso,Calle de Sangenjo,349000,3
+Duplex,Calle de Arturo Soria,985000,3
+Chalet,La Moraleja urbanización,7000000,7
+Piso,Encinar de los Reyes,775000,2
+Piso,barrio Almagro,1100000,2
+Piso,barrio El Viso,1460000,3
+Chalet,barrio Zona Avenida Europa,1095000,6
+Chalet,barrio Bernabéu-Hispanoamérica,2800000,6
+Chalet,La Moraleja urbanización,3700000,7
+Piso,barrio Bernabéu-Hispanoamérica,3000000,6
+Piso,Calle de Alonso Cano,945000,4
+Piso,El Soto de la Moraleja,1700000,5
+Piso,Calle de Diego de León,849000,2
+Piso,barrio Malasaña-Universidad,290000,2
+Chalet,Las Lomas,2990000,5
+Piso,barrio Cuatro Caminos,890000,4
+Piso,Calle de Andrés Tamayo,409900,1
+Piso,Calle de Dulce Chacón,498000,2
+Chalet,Encinar de los Reyes,1860000,6
+Chalet,La Moraleja urbanización,4500000,5
+Piso,Calle de la Libertad,1340000,3
+Piso,barrio Arapiles,1150000,4
+Piso,barrio Arapiles,590000,3
+Piso,barrio Palacio,580000,3
+Piso,Calle Ganges,147900,2
+Piso,barrio Palacio,670000,3
+Piso,barrio Chueca-Justicia,790000,1
+Chalet,barrio Montealina,1750000,5
+Chalet,barrio Bernabéu-Hispanoamérica,1150000,4
+Chalet,barrio Aravaca,3200000,5
+Piso,barrio Conde Orgaz-Piovera,630000,2
+Chalet,barrio Valdemarín,4800000,15
+Piso,Plaza Camorritos,174900,3
+Chalet,barrio Bernabéu-Hispanoamérica,1150000,4
+Piso,Calle Tarragona,108500,2
+Piso,barrio Chueca-Justicia,790000,1
+Chalet,barrio Valdemarín,4800000,15
+Chalet,barrio Somosaguas,3950000,9
+Ático,Islas de Cabo Verde,854600,4
+Piso,Calle de Santa Engracia,2395000,4
+Piso,Calle de Castelló,695000,2
+Piso,Calle de Fernán González,590000,3
+Piso,Sector 3,447000,4
+Piso,Calle de Recoletos,825000,3
+Piso,Calle del Duque de Sesto,450000,1
+Chalet,barrio Conde Orgaz-Piovera,1699000,5
+Piso,Calle de García de Paredes,2800000,7
+Piso,Calle del Príncipe de Vergara,1195000,3
+Piso,Calle de Claudio Coello,420000,1
+Piso,Avenida de Felipe II,395000,1
+Chalet,barrio Conde Orgaz-Piovera,2000000,6
+Piso,Calle de Castelló,1290000,3
+Piso,Calle de Lope de Rueda,679000,2
+Piso,Calle del Duque de Sesto,840000,2
+Piso,Calle de O'Donnell,2390000,4
+Piso,Avenida de Juan Antonio Samaranch,660000,3
+Piso,Calle de Arregui y Aruej,167000,2
+Piso,Calle de Hermosilla 118,725000,6
+Piso,Alameda del Valle,278900,2
+Piso,Calle de Don Ramón de la Cruz 100,670000,6
+Duplex,Calle de Julián Camarillo,235000,1
+Ático,Pío Baroja,599000,3
+Ático,Calle Emilio Raboso,354000,3
+Piso,Calle de Santa Cruz de Marcenado,1600000,3
+Piso,Calle de Augusto Figueroa,750000,2
+Piso,barrio Aravaca,620000,3
+Piso,Calle del Príncipe de Vergara,890000,3
+Chalet,Salvia,1090000,3
+Piso,barrio Costillares,310000,4
+Chalet,Calle Pastrana,1075000,5
+Piso,barrio Apóstol Santiago,499000,4
+Piso,Calle de Perseo,310000,3
+Piso,Avenida de Pío XII,875000,3
+Ático,Calle de Zurita,155000,1
+Chalet,Calle Pastrana,1075000,5
+Piso,Avenida de Pío XII,875000,3
+Chalet,Calle Embalse de Pinilla,650000,6
+Chalet,barrio Montealina,1475000,6
+Piso,barrio Costillares,310000,4
+Piso,Calle de la Cava Baja,435000,1
+Piso,Calle Diego Hurtado de Mendoza,479999,3
+Piso,barrio Ensanche de Vallecas - La Gavia,309000,3
+Piso,Calle de los Hermanos Pinzón,265000,4
+Chalet,Ciudalcampo,1395000,5
+Ático,Calle de Hilarión Eslava,990000,4
+Piso,Calle de Jorge Juan,995000,2
+Chalet,Ciudalcampo,1595000,6
+Piso,Calle de Bretón de los Herreros,258000,3
+Chalet,Valdelagua,900000,5
+Piso,Calle de Javier Ferrero,950000,2
+Piso,Calle de Pirra,230000,1
+Chalet,Calle del Zenit,1450000,6
+Piso,barrio Malasaña-Universidad,667000,2
+Chalet,barrio Aravaca,1649000,4
+Piso,Arriaga,116000,1
+Piso,Calle de María de Guzmán,340000,2
+Piso,Avenida de Europa,1600000,5
+Piso,Calle de Jerico,57500,2
+Ático,barrio Castellana,6950000,5
+Piso,barrio Sol,899000,2
+Piso,barrio Portazgo,168500,3
+Duplex,barrio Nueva España,2450000,4
+Chalet,barrio Aravaca,1649000,6
+Piso,Calle de Jorge Juan,630000,1
+Piso,barrio Lista,310000,1
+Piso,Calle de Francisco Silvela,799000,3
+Chalet,Calle Géminis,333500,5
+Piso,Calle de Núñez Morgado,395000,2
+Piso,barrio El Caño- Maracaibo,495000,4
+Piso,Calle de Carabelos,127900,2
+Piso,Calle de Cochabamba,440000,1
+Piso,Calle de Cavanilles,475000,2
+Chalet,Paseo de los Jacintos,2700000,4

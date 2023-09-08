@@ -1,22 +1,22 @@
 Tipo de inmueble,Dirección,Precio,Habitaciones
- 10,883870932,Calle de las Eras, 10
- 3,883870932,Calle de Francisco Javier Martin Abril, 3
- 28,883870992,Calle Manuel Azaña, 28
+Piso,Calle de las Eras 10,189000,3
+Piso,Calle de Francisco Javier Martin Abril 3,370000,3
+Piso,Calle Manuel Azaña 28,225000,3
 Piso,Paseo de Zorrilla,269000,3
 Piso,Puente del Poniente,720000,7
 Piso,Calle Gavilla,230000,5
 Piso,Plaza del Poniente,269870,3
- 24,883870257,TORRECILLA, 24
+Piso,TORRECILLA 24,168000,3
 Piso,Calle Embajadores,79500,3
- 3,883870257,Calle de Acibelas, 3
+Piso,Calle de Acibelas 3,105000,2
 Piso,Calle López Gómez,189000,2
 Piso,Paseo de Zorrilla,179000,4
 Piso,Calle del Monasterio Santa Isabel,148500,1
 Piso,Calle General Almirante,239000,4
- 22,883870397,Calle Luis González Lefort, 22
- 5,883870461,Calle Padre Francisco Suárez, 5
+Ático,Calle Luis González Lefort 22,175000,1
+Piso,Calle Padre Francisco Suárez 5,119000,3
 Piso,Calle del Pelícano,96000,3
-Chalet, aseo de cortesía, y amplio salón con salida al patio trasero. En planta primera tenemos tres amplios dormitorios (todos con armarios empotrados forrados y vestidos) y dos baños completos, uno de ellos incorporado en la suite principal. En la planta bajo cubierta tenemos otro espacio acondicionado como dormitorio y que puede ser utilizado como zona de ocio
+Chalet,Calle del Haya,350000,4
 Piso,Calle Sierra de Gredos,215000,3
 Chalet,Calle Fidelio,650000,7
 Piso,Calle Claudio Moyano,240000,4
@@ -25,12 +25,12 @@ Piso,Calle Toreros,125000,3
 Piso,Calle Manuel Azaña,177000,2
 Piso,Calle Navarra,185000,4
 Piso,Calle del Puente Colgante,209000,3
- 10,883870975,Independencia, 10
- 16,883870992,Callejón de la Alcoholera, 16
- 33,883870992,Calle de Gabilondo, 33
- 24,883870992,MANUEL AZAÑA, 24
- 11,883870975,Calle de la Peña Santa, 11
- 28,883870975,Calle Nicolás Salmerón, 28
+Ático,Independencia 10,192000,1
+Ático,Callejón de la Alcoholera 16,169000,2
+Piso,Calle de Gabilondo 33,245000,4
+Piso,MANUEL AZAÑA 24,209500,3
+Piso,Calle de la Peña Santa 11,199000,3
+Piso,Calle Nicolás Salmerón 28,215000,3
 Piso,Calle de Concha Velasco,118000,3
 Piso,Callejón de la Alcoholera,270000,2
 Piso,Circular - Vadillos,190000,3
@@ -39,9 +39,9 @@ Piso,Calle Pío del Río Hortega,184973,4
 Piso,vega,155000,3
 Piso,Calle Juan de Juni,220000,3
 Piso,Calle Guardería,110000,2
- 20,883870932,Calle Claudio Moyano, 20
- 14,883870315,Calle Acera de Recoletos, 14
- 81,883870315,Calle de Miriam Blasco, 81
+Piso,Calle Claudio Moyano 20,439000,3
+Piso,Calle Acera de Recoletos 14,195000,4
+Chalet,Calle de Miriam Blasco 81,350000,5
 Piso,Calle del Arzobispo Marcelo González s/n,67000,3
 Piso,Calle Hierbabuena,157000,2
 Piso,Calle Estación,135900,3
@@ -52,12 +52,12 @@ Piso,Calle Aneto s/n,186500,2
 Piso,Calle de Hernando de Acuña,224990,4
 Piso,Calle Aneto s/n,216200,3
 Piso,Paseo de San Vicente,250000,3
- 6,883870257,NUMANCIA, 6
+Piso,NUMANCIA 6,95000,2
 Piso,Pº Zorrilla - Cuatro de Marzo,390000,4
 Piso,Calle Huelgas,237000,3
 Chalet,Calle Lagar de María Pinto,478000,4
- 11,883870998,Calle de Leopoldo Cano, 11
- 11,883870998,Calle de Leopoldo Cano, 11
+Piso,Calle de Leopoldo Cano 11,280000,2
+Piso,Calle de Leopoldo Cano 11,449000,4
 Piso,Girón - Villa del Prado,218000,2
 Piso,Calle Pedro Ponce de León,340000,3
 Piso,Calle de Higinio Mangas,115000,3
@@ -68,7 +68,7 @@ Piso,Paseo de San Vicente,165999,2
 Piso,Calle Vizcaya.,142999,4
 Piso,KILIMANJARO,156500,2
 Piso,Calle de Miriam Blasco,300000,4
- 28,883870358,Calle del Puente Colgante, 28
+Piso,Calle del Puente Colgante 28,129900,3
 Piso,Calle Gamazo,350000,1
 Ático,La Rubia,580000,5
 Piso,Puente Colgante,179990,2
@@ -76,63 +76,63 @@ Piso,Centro,230000,2
 Piso,Pajarillos,140000,3
 Piso,La Victoria - El Cabildo,199900,3
 Piso,Pº Zorrilla - Cuatro de Marzo,250000,3
- 3,883870992,Ronda Especería, 3
- 1,883870992,Calle Pío del Río Hortega, 1
+Duplex,Ronda Especería 3,109900,3
+Piso,Calle Pío del Río Hortega 1,166000,3
 Chalet,Calle de Santa Victoria,219527,4
 Chalet,Calle Fuenteluisa,450000,6
- 9,883870932,Avenida de José Luis Lasa, 9
- 2 a,883870932,Calle San Isidro, 2 A
- 5,883870140,San Benito, 5
+Chalet,Avenida de José Luis Lasa 9,350000,4
+Chalet,Calle San Isidro 2 A,244000,4
+Piso,San Benito 5,470000,4
 Chalet,Camino Viejo de Simancas s/n,499000,6
 Chalet,El Pichón s/n,400000,6
 Chalet,Urbanización Sotoverde s/n,419900,6
 Piso,Teresa Gil s/n,400000,5
 Piso,Bajada de la Libertad s/n,580000,6
 Chalet,Aceñas s/n,325000,4
-Chalet, tranquilo y sin las prisas y agobios de la ciudad, los niños jugando en la calle, vivir en un lugar dónde todos se conocen y ayudan. Aldeamayor es tu pueblo. Conjuga perfectamente la tranquilidad de la vida de una pequeña localidad con los servicios a los que en la actualidad estamos acostumbrados: colegio
+Chalet,Calle Retama,139999,4
 Piso,Paseo de Zorrilla,390000,6
- 29,883870992,Calle Purificación Bezos, 29
- 46,883870975,Lugar Urbanizacion la Tapia, 46
- 6,883870992,Calle Marqués del Duero, 6
- 12,883870992,Calle Federico Landrove Moiño, 12
- 43,883870975,Calle del Amor de Dios, 43
+Piso,Calle Purificación Bezos 29,109900,3
+Chalet,Lugar Urbanizacion la Tapia 46,138500,5
+Piso,Calle Marqués del Duero 6,165000,3
+Piso,Calle Federico Landrove Moiño 12,200000,4
+Piso,Calle del Amor de Dios 43,109000,2
 Chalet,Calle las Fuentes,210000,4
- 2,951123250,Calle Manantial, 2
- 69,951123250,Arco de Ladrillo, 69
- 1,883870488,Calle Colmenares, 1
- 177,883870975,Antonio Machado, 177
- 1,883870140,Calle Madroño, 1
- 4,883870140,Acera de Recoletos, 4
- 107,883870932,Calle Ciruelo, 107
- 3,883870140,Joaquín Velasco martín, 3
- 1,883870140,Colmenares, 1
+Piso,Calle Manantial 2,57000,2
+Piso,Arco de Ladrillo 69,54500,3
+Piso,Calle Colmenares 1,395000,3
+Chalet,Antonio Machado 177,355000,4
+Chalet,Calle Madroño 1,742000,4
+Piso,Acera de Recoletos 4,980000,4
+Chalet,Calle Ciruelo 107,495000,4
+Piso,Joaquín Velasco martín 3,309000,4
+Ático,Colmenares 1,380000,3
 Piso,Acera de Recoletos s/n,1300000,5
 Piso,Juan de Juni s/n,199000,3
 Piso,Calle Esquila,114815,3
 Ático,Regalado s/n,520000,3
- 48,883870140,Paseo de Zorrilla, 48
-Chalet, zona deportiva con canchas de baloncesto, fútbol sala y pádel, en un entorno rodeado de viviendas unifamiliares dónde se respira aire puro y tranquilidad. El chalet dispone de cuatro plantas de vivienda
+Ático,Paseo de Zorrilla 48,549000,4
+Chalet,Calle Pedro Gil Zaratan,186597,4
 Chalet,Calle Fuente de Cibeles,149379,3
 Piso,Calle Mantilla,420000,3
-Ático, cuatro amplios dormitorios (tres de ellos con armarios empotrados forrados y vestidos) y dos baños completos (uno con plato de ducha y otro con bañera). La suite principal cuenta además con un bonito vestidor. La vivienda dispone de sistema de calefacción con caldera de Gas Natural individual. Además cuenta con una plaza de garaje con acceso desde el propio edificio y un amplio trastero. La vivienda cuenta con muchas mejoras que la diferencian del resto de viviendas (baño, cocina,. ) El recinto dispone de piscina comunitaria y zona ajardinada. Esta vivienda se encuentra en un edificio emblemático (ALMARINA) construido en el año 2010 y con una bonita estética y calidades. Dispone de todo tipo de servicios cercanos como instituto
+Ático,883870358,Calle Antonio de Ulloa,249900
 Piso,Calle Cañada,69900,2
 Piso,Carretera de la Mota,120000,3
- 3,883870257,Miño, 3
- 5," al paseo de zorrilla con lo cual cuenta tambien con una excelente comunicacion.""",883870257,IRUN
+Piso,Miño 3,198000,3
+Piso,IRUN 5,265000,5
 Piso,Calle ARCA 2,146900,2
 Piso,Carretera Valladolid,129000,2
- 16,883870932,Calle Pedro de la Gasca, 16
- 3,883870932,Calle Luna, 3
- 2,883870932,Calle de Acibelas, 2
+Piso,Calle Pedro de la Gasca 16,150000,3
+Piso,Calle Luna 3,118000,3
+Piso,Calle de Acibelas 2,160000,3
 Piso,Calle del Puente Colgante,219900,4
 Piso,Plaza Cruz Verde,224000,3
- 17,883870257,SANTUARIO, 17
+Piso,SANTUARIO 17,199000,5
 Ático,Calle Padre Manjón,152000,2
 Ático,Plaza monasterio de san benito,305000,3
 Piso,Avenida de aranzana,183000,3
 Chalet,Calle Bureba,320000,4
 Chalet,Calle Vicente Aleixandre,225000,3
-Chalet, planta bajo cubierta y sótano. En la entrada a la vivienda nos encontramos unas majestuosas escaleras desde las cuales accedemos a la puerta principal. Aquí nos encontramos un precioso hall - recibidor desde el cual accedemos al resto de la vivienda. En esta planta nos encontramos con un baño completo, dormitorio de cortesía, cocina con salida al porche trasero y un espectacular salón con un mirador increíble desde el cual tenemos unas preciosas vistas de la urbanización. Ascendiendo por la majestuosa escalera de mármol accedemos a la primera planta donde tenemos tres amplios dormitorios y dos baños completos (uno de ellos incorporado en la suite principal). La suite principal al igual que el salón cuenta con un mirador con vistas.  Ascendiendo por una cómoda escalera accedemos a la bajo cubierta que cuenta con un espacio diáfano totalmente acondicionado ideal para ser utilizado como dormitorio de cortesía
+Chalet,883870358,Ladera del Sol,419800
 Piso,Calle Profesor Adolfo Miaja de la Muela,165000,3
 Piso,Calle de Portugal,147000,3
 Chalet,Laguna de Duero,390000,3
@@ -140,17 +140,17 @@ Chalet,La Mudarra,155000,7
 Chalet,Alcazarén,165000,4
 Piso,Calle Eusebio González Suárez,189900,4
 Piso,REJA,148000,3
- 14,883870391,Via de Pinares, 14
+Chalet,Via de Pinares 14,93000,4
 Piso,Calle Santa Marina,99000,3
- 13,883870666,Calle de Don Olegario Ortiz, 13
+Chalet,Calle de Don Olegario Ortiz 13,210000,3
 Piso,Calle del Arzobispo José Delicado,249000,4
 Piso,RUEDA,165000,3
 Piso,Calle Pedro García Lobato,182900,3
- 5,883870666,Calle Perú, 5
- 63,883870666,Arco de Ladrillo, 63
+Piso,Calle Perú 5,210000,4
+Piso,Arco de Ladrillo 63,147000,4
 Piso,Jacinto Benavente,85000,3
 Piso,Calle del Cardenal Torquemada,135000,4
- 24,883870666,Calle de Leopoldo Cano, 24
+Duplex,Calle de Leopoldo Cano 24,370000,3
 Duplex,Calle VISTA ALEGRE,142000,2
 Piso,Calle Nicolás Salmerón,185000,3
 Piso,Calle de Labradores,210000,3
@@ -168,71 +168,71 @@ Chalet,Calle Carmen Conde,257000,4
 Chalet,Calle Huertas,199000,4
 Ático,Calle ZARAGOZA,159000,3
 Piso,Calle Turina,105000,4
- 15,883870932,Calle Arzobispo García Goldaraz, 15
+Piso,Calle Arzobispo García Goldaraz 15,112000,3
 Chalet,Calle Sierra Cebollera,255000,4
 Piso,Calle del Arzobispo Marcelo González,109990,3
- 1,883870537,Calle Luna, 1
+Piso,Calle Luna 1,293000,3
 Chalet,Calle Cerviguera,120000,4
 Piso,Calle de Joaquín Velasco Martín,99900,3
 Piso,Avenida Prado Boyal,147000,3
 Piso,Calle Catalina Adulce,240000,2
- 2,883870983,Abejaruco, 2
+Piso,Abejaruco 2,155000,4
 Piso,Calle de Santa Lucía,185000,3
- 13,883870614,Calle Olmedo, 13
+Piso,Calle Olmedo 13,72000,2
 Piso,Calle de la Alcaparra,325000,3
 Piso,Paseo de Renacimiento,425000,3
 Piso,Centro,400000,5
- 35,883870992,Avenida Tratado de Maasticht, 35
+Chalet,Avenida Tratado de Maasticht 35,498000,4
 Chalet,Calle Alondra,189000,4
 Piso,Huerta del Rey,186000,2
- 13,883870593,Calle Domingo Martínez, 13
+Piso,Calle Domingo Martínez 13,185000,4
 Piso,Pajarillos,95900,2
 Piso,Carretera Mota,152000,3
 Chalet,Villanubla,199000,4
 Piso,Paseo de Zorrilla,390000,6
 Chalet,AV. DEL V CENTENARIO DE ISABEL LA CATOLICA,260000,3
- 3,883870975,Plaza Madrid, 3
- 1,883870992,Vencejo, 1
+Piso,Plaza Madrid 3,390000,5
+Piso,Vencejo 1,99000,3
 Piso,Aranzana,153000,2
 Piso,Plaza M.de San Benito,259990,2
 Piso,HOZ,138000,2
 Piso,Calle Relatores,239500,4
- 3,883870975,Plaza Madrid, 3
+Piso,Plaza Madrid 3,360000,5
 Piso,Paseo Jardín Botánico s/n,224000,3
- 6,883870992,Calle Marqués del Duero, 6
- 13,883870975,Calle Arriba, 13
+Ático,Calle Marqués del Duero 6,249000,3
+Casa Rural,Calle Arriba 13,150000,3
 Piso,Paseo Jardín Botánico s/n,224000,3
- 3,883870975,Plaza Madrid, 3
+Piso,Plaza Madrid 3,360000,5
 Piso,Galatea,220000,2
- 2,883870992,Jorge Guillén, 2
+Piso,Jorge Guillén 2,490000,3
 Chalet,francisco salcillo,298000,3
 Chalet,EL PLANTÍO s/n,322000,7
- 2, y además, con la fórmula COMPRA+REFORMA tenemos la posibilidad de sumar los costes de la reforma de la vivienda a la hipoteca de compra. NOTA: Este anuncio no es vinculante, puede contener errores
+Chalet,Calle El Molino 2,419000,4
 Chalet,Fuente Berrocal s/n,525000,6
- 1,883870992,Miño, 1
+Piso,Miño 1,174000,4
 Chalet,Opera s/n,650000,6
- 74,883870992,FRANCISCO ZURBARAN, 74
- 22, dónde podemos utilizarlo como zona ajardinada y decorarlo a gusto de cada uno. Su distribución es la siguiente: -PLANTA BAJA:  Dispone de una amplia cocina actualizada y equipada con todos los electrodomésticos necesarios y con muebles altos y bajos. A continuación un luminoso salón que dispone de una acogedora chimenea y desde donde salimos a un porche y al jardín de unos 100 m2 donde podrás acceder directamente a la estupenda piscina y zonas comunes con pistas deportivas con vestuarios. Esta planta tiene un aseo con ventana y un armario empotrado. -PRIMERA PLANTA:  Formada por tres dormitorios. El dormitorio principal con armario empotrado, tiene baño en suite con ventana y bañera. Hay otros dos dormitorio dobles y otro baño con bañera. - BUHARDILLA: Acondicionada con un dormitorio independiente y otra zona aparte para darle uso bien de despacho, o bien de zona de juegos para los más pequeños. - PLANTA SÓTANO:  Formada por dos estancias. Por un lado una bodega con cocina propia
- 10,883870975,Plaza mayor, 10
- 22,883870975,Calle Capuletti, 22
- 9,883870992,Calle de la Galana, 9
- 4,883870975,Calle Arribes del Duero, 4
- 3, donde podrá decorar con mesa y sillas para disfrutar de una zona exterior preciosa con familiares y amigos. Y por último encontramos otra puerta que da acceso a la zona de las habitaciones, los baños y una despensa/armario en el pasillo ideal para guardar  La vivienda tiene 2 dormitorios uno de ellos con baño con ventana al exterior en suite. Ambos dormitorios tienen armarios empotrados. El suelo de la vivienda es de parqué y cerámica en las estancias de la cocina y baños. Las ventanas son de PVC con doble cristal Climalit. La urbanización es ideal para disfrutar de las dos piscinas, pequeña y grande en los meses de verano. Además podrás disfrutar todo el año del gimnasio
- 8,883870975,Real, 8
+Chalet,FRANCISCO ZURBARAN 74,245000,3
+Chalet,Calle Las Hilanderas 22,190000,4
+Casa Rural,Plaza mayor 10,315000,7
+Piso,Calle Capuletti 22,329000,3
+Piso,Calle de la Galana 9,158000,2
+Piso,Calle Arribes del Duero 4,154000,2
+Piso,PEÑA UBIÑA 3,178000,2
+Chalet,Real 8,157000,5
 Chalet,OLIVO,205000,4
- 82,883870975,Río Tajo, 82
- 5, por lo que siempre será una buena inversión y un acierto por su cercanía a la ciudad y la tranquilidad que aporta su situación. Si quieres realizar una visita y ver todos los detalles y posibilidades de esta gran casa, no dudes en llamarnos y te la enseñaremos encantados:) ___ RE/MAX Finance a través de convenios nacionales con las principales entidades bancarias permite que nuestros clientes disfruten de mejores condiciones de financiación del mercado, y además
- 18,883870975,Calle Gamazo, 18
- 1,883870975,Calle Ribera del Carrión, 1
+Chalet,Río Tajo 82,262000,5
+Chalet,C. Sauces 5,275000,5
+Ático,Calle Gamazo 18,645000,3
+Duplex,Calle Ribera del Carrión 1,385000,5
 Chalet,Henchidero,146000,4
- 5,883870992,HERNANDO DE SOTO, 5
- 53, y además, con la fórmula COMPRA+REFORMA tenemos la posibilidad de sumar los costes de la reforma de la vivienda a la hipoteca de compra. NOTA: Este anuncio no es vinculante, puede contener errores
+Piso,HERNANDO DE SOTO 5,142500,2
+Piso,Avenida Madrid 53,110000,3
 Piso,Paseo Zorrilla,390000,6
 Piso,Pº Zorrilla - Cuatro de Marzo,250000,4
 Chalet,Covaresa - Parque Alameda,742000,4
 Piso,Centro,450000,4
 Piso,Calle Iglesia,70314,3
-Piso,883870992,Avenida Libertad,128500
+Piso,Avenida Libertad,128500,4
 Chalet,olivo,165000,4
 Chalet,Berrojo,398000,5
 Piso,Calle Manuel Azaña,195000,2
@@ -240,37 +240,37 @@ Chalet,Conde de Carpio,189000,3
 Piso,Calle Caamaño,86528,3
 Piso,Pº Zorrilla - Cuatro de Marzo,199000,3
 Piso,Federico Landrove Moiño,199000,4
- 1,951123250,Calle San Buenaventura, 1
- 2,883870488,Calle de la Antigua, 2
+Chalet,Calle San Buenaventura 1,47000,4
+Piso,Calle de la Antigua 2,146000,1
 Chalet,Camino Viejo de Simancas,640000,7
- 7,883870992,Calle de Montes y Martín-Baro, 7
+Piso,Calle de Montes y Martín-Baro 7,59000,1
 Chalet,Aldeamayor de San Martin,235000,3
- 1,883870140,juan de austria, 1
- 6,883870975,Camino Torrecilla, 6
- 28 b,883870992,Calle Nueva del Carmen, 28 B
- 52,883870975,Avenida Castilla y León, 52
- 1,883870140,Poniente, 1
+Ático,juan de austria 1,395000,3
+Chalet,Camino Torrecilla 6,85000,3
+Piso,Calle Nueva del Carmen 28 B,96000,3
+Chalet,Avenida Castilla y León 52,750000,5
+Piso,Poniente 1,510000,6
 Piso,Calle Federico Landrove Moiño s/n,199000,4
 Piso,Calle Kilimanjaro s/n,172000,2
 Chalet,Avenida Santander s/n,449000,4
 Chalet,Fuente Berrocal s/n,610000,7
 Chalet,La Vega s/n,399900,5
 Chalet,El Soto s/n,349000,3
- 10,883870140,Mariano García Abril, 10
+Piso,Mariano García Abril 10,295000,3
 Chalet,El Plantío s/n,350000,5
 Piso,San Juan s/n,299999,3
 Piso,Poniente s/n,390000,4
 Piso,Plaza Parquesol s/n,250000,4
 Chalet,Aldeamayor Golf s/n,320000,6
 Chalet,El Peral s/n,322000,4
- 1,883870992,Avenida Valladolid, 1
- 4,883870140,Paulina Harriet, 4
- 20,883870992,Calle Alonso de Castañeda, 20
+Piso,Avenida Valladolid 1,75000,2
+Piso,Paulina Harriet 4,169000,4
+Chalet,Calle Alonso de Castañeda 20,165000,3
 Piso,Calle de la Reja,74872,1
-Chalet, y su club social, donde vas a poder charlar con amigos y vecinos y pasar grandes veladas de verano. El chalet cuenta con 236 m2 construidos sobre una parcela individual de 526 metros. Está construido en 2 alturas y, en la parte de arriba se encuentra la vivienda. Es muy amplia
+Chalet,Zona Panorama,215467,4
 Casa Rural,Calle Santiago,54995,3
 Ático,Calle Real,130000,2
- 5,883870812,Calle divina pastora, 5
+Piso,Calle divina pastora 5,310000,4
 Chalet,Carril Hondo,190000,4
 Piso,Calle Arboleda,96164,3
 Piso,Calle Perfección,86127,3
@@ -278,7 +278,7 @@ Piso,Avenida Valladolid,79159,3
 Piso,Zorrilla,700000,7
 Piso,Calle Real,85000,1
 Ático,Plaza de la Universidad,550000,3
-Chalet," sin comisión para el comprador"" Gran chalet independiente de 284 m²de superficie y 433 m² de parcela", haciendo esquina, en la que podrás disfrutar de tiempo al aire libre
+Chalet,Calle de la Darbuca,225000,5
 Chalet,Calle San Ramón y San Luis,223541,3
 Piso,Zorrilla,700000,7
 Piso,Calle Real,85000,1
@@ -286,14 +286,14 @@ Piso,Calle Real,85000,1
 Chalet,Calle Transversal del Monte,70000,2
 Chalet,Avenida de José Luis Lasa,398000,6
 Duplex,Calle Artistas,121000,3
- 26,883870488,Calle Juan García Hortelano, 26
+Piso,Calle Juan García Hortelano 26,275000,3
 Piso,Calle Padre Manjón,119825,3
 Piso,Calle Barcelona,119574,1
 Chalet,Plaza Puente,179999,3
 Chalet,Carretera Cabezon,145327,4
-Piso, Prado Boyal, una comunidad cuidada y tranquila, cerca de los supermercados y centros comerciales. El edificio aparece rodeado de terrenos dotacionales
-Piso, tienes las piscinas de La antigua Hípica," con sus pistas de tenis equipadas para los amantes de este deporte.   ¿Quieres saber algo más? Pues no dudes en llamarme. Soy Marta Quintero.""",883870387
- 197,883870488,Calle Prado, 197
+Piso,Avenida Prado Boyal,99000,3
+Piso,Calle Aurora,160273,3
+Chalet,Calle Prado 197,360000,3
 Piso,Calle Barcelona,104997,2
 Piso,Calle Honduras,118840,5
 Piso,Calle del Manto,116895,2
@@ -302,8 +302,8 @@ Chalet,Calle Palomar,122860,4
 Piso,Calle del Final,194947,3
 Ático,Calle Soledad,122427,2
 Chalet,Calle Trilla,90000,3
- 82,883870488,Arco de Ladrillo, 82
- 21,883870488,Calle Núñez de Arce, 21
+Piso,Arco de Ladrillo 82,197000,1
+Piso,Calle Núñez de Arce 21,440000,4
 Piso,Calle de los Milagros,124986,2
 Piso,Calle Real,79999,1
 Piso,Calle de Juan de Valladolid,180000,3
@@ -317,7 +317,7 @@ Piso,Calle del Puente Colgante,220000,3
 Piso,Calle Juan XXIII,119950,3
 Piso,Calle Paulina Harriet,675000,5
 Piso,Arco de Ladrillo,179121,1
- 26,883870488,Calle del Doctor Sánchez Villares, 26
+Piso,Calle del Doctor Sánchez Villares 26,165000,2
 Piso,Calle de la Galana,193200,3
 Ático,Calle Real del Norte,119000,2
 Chalet,Calle de Onésimo Redondo,239900,5
@@ -337,7 +337,7 @@ Piso,Calle San Antón,119900,4
 Chalet,Calle Tomás Bayón,219000,4
 Piso,Calle Perú,339999,7
 Chalet,Calle Hoces de Vegacervera,138000,3
-Piso," sin comisión para el comprador"" Piso de 138 m² en el Paseo Zorrilla de Valladolid", provincia de Valladolid. La amplitud de esta vivienda proporciona a una familia con niños todo el espacio que necesita. Abiertos a negociar.  Se encuentra en un 9º piso con ascensor y se distribuye en amplio salón, cocina amueblada
+Piso,Calle Goya,205000,4
 Piso,Calle del Arzobispo Marcelo González,105000,3
 Piso,Calle Marina de Escobar,229000,2
 Chalet,Calle Cristo Rey,270000,3
@@ -351,23 +351,23 @@ Chalet,VP-3302,429000,8
 Chalet,Avenida Juan Carlos I,196000,3
 Casa Rural,Mojados,80000,4
 Ático,Calle  de Lille s/n,357160,3
- 3,883870932,Calle Vega, 3
- 2,883870869,Cl Honduras, 2
+Piso,Calle Vega 3,390000,4
+Piso,Cl Honduras 2,180000,5
 Ático,Calle  de Lille s/n,359770,3
 Piso,Delicias,95000,3
-Piso, baño nuevo con plato de ducha y mampara de menos de un año, mosquiteras, etc. Además el recinto cuenta con zona privada ajardinada y piscina comunitaria. El edificio no tiene ningún tipo de barrera arquitectónica. Se encuentra en un entorno único y privilegiado rodeado de tranquilidad y grandes espacios verdes ideales para el disfrute de la naturaleza y la actividad deportiva. Cuenta con transporte público
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- 5,883870932,Calle María Zambrano, 5
- 45,883870315,Calle Padre Manjón, 45
- 9,883870315,Avenida de Alamares del Caño, 9
- 5,883870932,Calle María Zambrano, 5
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- 85,883870315,Paseo de Zorrilla, 85
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- 35,883870932,Calle de Panaderos, 35
- 24,883870140,Santiago, 24
+Piso,Cárcaba,134900,2
+Piso,Sector 5 Parcela 11,273600,3
+Piso,Sector 5 Parcela 11,265000,3
+Piso,Calle María Zambrano 5,299000,4
+Duplex,Calle Padre Manjón 45,149900,2
+Chalet,Avenida de Alamares del Caño 9,299000,3
+Piso,Calle María Zambrano 5,299000,4
+Piso,Sector 5 Parcela 11,265000,3
+Piso,Paseo de Zorrilla 85,149900,4
+Piso,Sector 5 Parcela 11,256600,3
+Piso,Sector 5 Parcela 11,273600,3
+Piso,Calle de Panaderos 35,219000,4
+Piso,Santiago 24,560000,4
 Chalet,Panorama s/n,345000,5
 Piso,Calle Honduras,365000,5
 Chalet,Fracc.Cañada Carrapeñalb,30000,1
@@ -386,23 +386,23 @@ Chalet,Valdestillas,79500,4
 Piso,Centro,249000,3
 Chalet,Camino Viejo de Simancas,475000,4
 Piso,Calle Eusebio González Suárez,185000,4
- 30,883870257,Calle de Manteria, 30
+Piso,Calle de Manteria 30,230000,4
 Piso,Calle Amadeo Arias,219900,3
- 3,883870257,joaquin velasco martin, 3
+Piso,joaquin velasco martin 3,345000,4
 Piso,Jara,199900,4
- 1, con CUATRO dormitorios, DOS baños y una TERRAZA donde relajarte? ¿Quieres estar en el centro de Parquesol, con todos los servicios a tu alcance y sin necesidad de usar el coche? Esta es la vivienda que estabas buscando: un hogar ideal para ti y tu familia
+Piso,Calle de Hernando de Acuña 1,180000,4
 Piso,Paseo de San Vicente,169000,3
- 8,883870812,Calle divina pastora, 8
+Piso,Calle divina pastora 8,310000,4
 Piso,Calle de la Sierra de Gredos,159000,2
 Chalet,Camino del Caño,285000,4
 Piso,Calle guadalquivir,169900,3
- 15,883870739,Calle Tórtola, 15
+Piso,Calle Tórtola 15,115000,3
 Chalet,Calle Alta,63000,4
 Piso,Avenida de Segovia,114000,3
 Chalet,Paseo Alfredo Basanta,395000,5
 Piso,Calle guadalquivir,169900,3
 Chalet,Calle Grillo,189000,4
- 15,883870739,Calle Tórtola, 15
+Piso,Calle Tórtola 15,115000,3
 Chalet,Calle Fuente del Caño Argales,195000,3
 Piso,Calle de Santiago,359000,5
 Chalet,Calle los Robles,295000,4
@@ -411,52 +411,52 @@ Chalet,Calle Fuente de Versalles,295000,3
 Chalet,Calle Alta,63000,4
 Piso,Calle López Gómez,300000,8
 Piso,PABLO PICASSO,145000,3
- 1,883870488,Calle M.Santa María de Retuerta, 1
- 3,883870488,Calle Divina Pastora, 3
+Piso,Calle M.Santa María de Retuerta 1,275600,3
+Piso,Calle Divina Pastora 3,210000,2
 Piso,santo domingo de guzman,169900,3
 Piso,Calle de Panaderos,179000,5
 Chalet,Calle del Armonio,249900,5
- 4,883870488,Avenida Gloria Fuertes, 4
- 159,644566152,Paseo de Zorrilla, 159
+Piso,Avenida Gloria Fuertes 4,420000,6
+Piso,Paseo de Zorrilla 159,350000,4
 Piso,Calle Tórtola,89000,3
 Duplex,Calle Majada,109990,2
 Piso,Calle Luis González Lefort s/n,184300,2
 Piso,Calle Luis González Lefort s/n,178400,2
 Piso,Calle Luis González Lefort s/n,177000,2
- 39,883870257,LADERA DEL SOL, 39
+Chalet,LADERA DEL SOL 39,420000,5
 Chalet,Calle Principal,289500,3
- 14,883870257,Calle nicasio pérez, 14
+Piso,Calle nicasio pérez 14,135000,2
 Piso,Calle Juan de Juni,270000,5
- 3,883870257,Camino plantío, 3
+Ático,Camino plantío 3,139000,2
 Piso,Calle del Arzobispo Marcelo González,89000,1
 Piso,Paseo de Zorrilla,390000,6
 Piso,Calle Mercedes,220000,3
 Chalet,Calle Principal,317500,4
 Chalet,Calle del Doctor Sánchez Villares,487000,5
 Ático,Arroyo,224000,3
- 2,883870437,Calle Independencia 10 & Calle García Valladolid, 2
+Duplex,Calle Independencia 10 & Calle García Valladolid 2,299000,2
 Piso,Avenida de la Alcoholera s/n,419900,4
 Piso,Paseo de Zorrilla,230000,5
 Piso,Calle de Peñalara,189900,3
 Piso,Avenida de la Alcoholera s/n,289750,3
 Chalet,Calle Principal,317500,4
- 10,883870710,Calle de Mateo Seoane Sobral, 10
+Piso,Calle de Mateo Seoane Sobral 10,189900,4
 Ático,Calle de las Farolas Antigua Angel Molina,110000,2
- 101,883870257,Calle Padre Manjón, 101
+Piso,Calle Padre Manjón 101,94000,4
 Piso,Asunción,170000,3
 Piso,Gavilla,89900,2
 Piso,Calle de Hernando de Acuña,235000,3
- 2,883870482,Calle Duque de la Victoria, 2
- 8,883870257,JUAN DE HERRERA, 8
- 18, trastero y bodega. Comunidad de 34 euros al mes. La vivienda está ubicada en una de las mejores zonas residenciales de la ciudad de Valladolid, muy bien comunicada," a escasos minutos a pie del Colegio Nuestra Señora del Pilar próxima a las rondas y a todos los comercios y servicios de la zona."""
+Piso,Calle Duque de la Victoria 2,370000,2
+Piso,JUAN DE HERRERA 8,117000,4
+Chalet,Calle Ignacio Serrano 18,329000,4
 Chalet,aguachales,499900,3
 Piso,Calle Costa Dorada,150000,3
 Chalet,Camino viejo de simancas s/n,630000,7
- 15,883870257,san martin, 15
- 2,883870482,Calle Duque de la Victoria, 2
- 2,883870482,Calle Duque de la Victoria, 2
-Piso, provincia de Valladolid. La vivienda, por espacio y distribución, es ideal para una familia con hijos.  Se encuentra en un 4º piso con ascensor y cuenta con un salón
- 54,883870277,Paseo Arco de Ladrillo, 54
+Estudio,san martin 15,135000,0
+Piso,Calle Duque de la Victoria 2,535000,3
+Piso,Calle Duque de la Victoria 2,364000,2
+Piso,Calle Sevilla,102000,3
+Piso,Paseo Arco de Ladrillo 54,288700,4
 Piso,Espiga,115000,2
 Piso,Calle Faisán,108000,3
 Chalet,Calle Capuletti,335000,3
@@ -466,25 +466,25 @@ Chalet,Calle Atlanta,340000,4
 Ático,Calle Arturo Duperier,153000,2
 Piso,Calle del Puente Colgante,160000,1
 Chalet,Calle de Martín Santos Romero,380000,3
- 143,883870827,Calle Cdad. de la Habana, 143
+Piso,Calle Cdad. de la Habana 143,290000,3
 Piso,Calle Jardines,131000,4
- 143,883870827,Calle Cdad. de la Habana, 143
- 143,883870827,Calle Cdad. de la Habana, 143
- 33,883870460,Calle José Garrote Tebar, 33
- 54,883870277,Paseo Arco de Ladrillo, 54
- 33,883870460,Calle José Garrote Tebar, 33
- 33,883870460,Calle José Garrote Tebar, 33
+Piso,Calle Cdad. de la Habana 143,255000,2
+Ático,Calle Cdad. de la Habana 143,350000,3
+Piso,Calle José Garrote Tebar 33,284200,3
+Piso,Paseo Arco de Ladrillo 54,283500,3
+Piso,Calle José Garrote Tebar 33,275900,4
+Piso,Calle José Garrote Tebar 33,206000,2
 Piso,Calle de Hernando de Acuña,169900,4
 Piso,Avenida Segovia,110000,2
 Chalet,Calle Reina María de Hungría,159000,5
- 82,883870932,Calle de las Mieses, 82
+Piso,Calle de las Mieses 82,240000,2
 Piso,Parquesol,236000,3
 Piso,Avenida Segovia,110000,2
 Ático,Fuente los Pajaros,148000,2
 Chalet,Calle Espiguete s/n,298000,4
 Chalet,Calle Espiguete s/n,298000,4
- 2,883870437,Calle Independencia 10 & Calle García Valladolid, 2
- 2,883870437,Calle Independencia 10 & Calle García Valladolid, 2
+Piso,Calle Independencia 10 & Calle García Valladolid 2,190000,1
+Piso,Calle Independencia 10 & Calle García Valladolid 2,160000,1
 Piso,CUENCA,175000,3
 Chalet,Calle Espiguete s/n,298000,4
 Piso,ANGEL MOLINA,39850,3
@@ -496,7 +496,7 @@ Duplex,Calle Felipe Ruiz Martin s/n,420000,4
 Piso,Calle Tórtola,69900,3
 Chalet,Urbanización el Montico,360000,6
 Duplex,Calle Felipe Ruiz Martin s/n,360000,4
- 3,883870675,Camino Plantío, 3
+Piso,Camino Plantío 3,135000,2
 Chalet,Covalagua,168000,3
 Piso,Calle Gallo,114800,3
 Piso,Puente Colgante,180000,3
@@ -504,8 +504,8 @@ Chalet,Calle Eresma,242999,4
 Piso,Paseo del Cauce,92100,3
 Chalet,Calle Villanueva,75000,4
 Piso,Parquesol,210000,3
- 35,883870932,Paseo del Hospital Militar, 35
- 23,883870932,Calle Cardiel, 23
+Piso,Paseo del Hospital Militar 35,330000,3
+Chalet,Calle Cardiel 23,289900,6
 Piso,Medina del Campo,115000,4
 Piso,Calle Peral,138999,3
 Chalet,Calle Mango  s/n,439000,4
@@ -517,15 +517,15 @@ Chalet,Camino de las Berzosas s/n,390000,4
 Piso,Delicias,87999,3
 Piso,Paseo Obregón,183000,3
 Chalet,Camino de las Berzosas s/n,390000,4
- P.P. El Peral s/n,883870530,PARCELA 12-B del Polígono 2 - Sector 42, P.P. EL PERAL s/n
+Piso,PARCELA 12-B del Polígono 2 - Sector 42 P.P. EL PERAL s/n,236800,3
 Chalet,La Flecha - Monasterio del Prado,330000,5
- P.P. El Peral s/n,883870530,PARCELA 12-B del Polígono 2 - Sector 42, P.P. EL PERAL s/n
+Piso,PARCELA 12-B del Polígono 2 - Sector 42 P.P. EL PERAL s/n,257400,3
 Chalet,Calle Mango  s/n,439000,4
 Piso,Paseo Obregón,183000,3
 Chalet,Las Villas - Valparaíso,460000,4
 Chalet,Calle Mango  s/n,498000,4
 Piso,Laguna de Duero,73000,3
- 12,646367233,Calle Profesor Adolfo Miaja de la Muela, 12
+Piso,Calle Profesor Adolfo Miaja de la Muela 12,220000,4
 Piso,Calle de Miriam Blasco,249900,3
 Chalet,Viana de Cega,145000,3
 Chalet,La Victoria - El Cabildo,525000,7
@@ -534,56 +534,56 @@ Piso,Calle del Arca 6,149085,3
 Piso,Calle del Arca 6,125256,2
 Piso,Plaza Circular,209000,4
 Piso,Calle Laguna,109000,2
- 61,883870869,Calle del Padre Llanos, 61
+Chalet,Calle del Padre Llanos 61,325000,4
 Piso,Calle Corral de la Copera,99900,2
- 2,90362186,Calle Núñez de Arce, 2
+Piso,Calle Núñez de Arce 2,250000,2
 Duplex,Calle López Gómez,300000,8
 Duplex,Calle de la encomienda,166000,3
 Piso,Calle San Lorenzo,380000,4
 Casa Rural,Calle Real del Sur,135000,5
- 70,920140224,Calle la Traviata, 70
-Chalet, aseo con ventana, y un increíble salón repleto de ventanales lo que le confieren de una gran luminosidad. En este salón además tenemos salida al porche trasero y jardín. En la planta primera tenemos otros cuatro dormitorios (tres de ellos con armario empotrado), dos baños completos (uno de ellos incorporado en la increíble suite principal). En la planta bajo cubierta tenemos otra estancia totalmente acondicionada para utilizarlo como otro dormitorio más
-Casa Rural," que nos permitirá disfrutar de bonitas fiestas y poder pasar las calurosas tardes de verano.  Seguro que estas deseando visitar esta propiedad y estudiar las muchas posibilidades que ofrece.  No dudes y ¡LLAMA A MARA! Estaré encantada de acompañarte en una visita y ayudarte en tu decisión final.""",883870387,Plaza de la Iglesia
- 10,883870614,Avenida de Irún, 10
+Chalet,Calle la Traviata 70,272000,5
+Chalet,Calle Juncal,318000,4
+Casa Rural,Plaza de la Iglesia,15000,1
+Piso,Avenida de Irún 10,123500,3
 Piso,Calle Cárcaba,96000,2
 Piso,Plaza de la Antigua,146000,1
 Piso,Calle de la Galana,130200,2
 Piso,Ángel García,79000,3
 Piso,Avenida de la Libertad,89900,3
 Piso,CABO NOVAL,95000,4
- 26,883870529,Calle del Monasterio del Paular, 26
+Ático,Calle del Monasterio del Paular 26,227000,1
 Piso,Cabo nogal,95000,4
 Piso,Calle Villasexmir s/n,257000,3
 Piso,Calle del Arroyo,89000,1
 Piso,Calle Villasexmir s/n,198000,2
 Piso,LA GALANA,175000,4
 Piso,Calle Villasexmir s/n,246000,3
- 7,629928264,Calle Cerezo, 7
+Chalet,Calle Cerezo 7,375000,4
 Piso,Cabo nogal,95000,4
 Piso,Calle Villasexmir s/n,257000,3
 Piso,Calle de Leopoldo Cano,210000,4
 Duplex,La Flecha - Monasterio del Prado,225000,3
 Piso,Calle Villancico s/n sn,99900,3
 Chalet,Calle Kappa,259990,3
- 30,883870923,Torrecilla, 30
+Piso,Torrecilla 30,245000,5
 Piso,Pº Zorrilla - Cuatro de Marzo,160000,2
- 26,883870257,GAMAZO, 26
- 2,883870257,ACEBO, 2
+Piso,GAMAZO 26,346000,3
+Duplex,ACEBO 2,142000,3
 Casa Rural,Castroponce,80000,4
 Piso,Calle del Arzobispo Marcelo González,89000,1
 Chalet,Calle Julio Senador Gómez,379000,5
 Piso,Laguna de Duero,100000,1
 Chalet,Onesimo Redondo,89000,5
- 4,883870737,virgen extramuros, 4
+Chalet,virgen extramuros 4,215000,4
 Piso,Calle Florida,135000,2
- 63 b,883870710,jose luis lasa, 63 b
+Piso,jose luis lasa 63 b,159900,2
 Piso,Calle Loza,91000,3
 Piso,Pº Zorrilla - Cuatro de Marzo,310000,4
 Piso,Calle Cerrada,120000,2
- 15,883870739,Calle Portillo del Prado, 15
+Piso,Calle Portillo del Prado 15,184900,3
 Piso,Plaza Gutierrez Semprun,94990,2
- 41,883870925,Camino de Pinar, 41
- 5,883870812,Calle Cardiel, 5
+Chalet,Camino de Pinar 41,170000,3
+Chalet,Calle Cardiel 5,187000,4
 Piso,Calle de Vega Sicilia,249990,3
 Piso,Gabilondo,144000,1
 Chalet,Carretera VILLANUEVA,239900,3
@@ -598,8 +598,8 @@ Chalet,Camino del pozo,109000,3
 Chalet,Calle Río Tajo,267000,4
 Piso,Calle Pavo Real,89900,4
 Piso,Calle Hernán Cortes,89900,3
- 12,883870257,Calle de la Sierra de Gredos, 12
- 12,883870257,Calle de la Sierra de Gredos, 12
+Piso,Calle de la Sierra de Gredos 12,135000,1
+Piso,Calle de la Sierra de Gredos 12,135000,1
 Piso,Miriam Blasco,359000,4
 Chalet,Zanfoña,266000,4
 Piso,Calle Tordo,74900,3
@@ -617,13 +617,13 @@ Piso,Gabilondo,144000,1
 Piso,Calle Hernán Cortes,89900,3
 Piso,Camino de la Esperanza,119000,3
 Piso,Álvarez Taladriz,180000,2
- 18,883870666,Calle Gallo, 18
+Piso,Calle Gallo 18,89000,3
 Chalet,Carretera VILLANUEVA,239900,3
 Piso,San Isidro,168000,3
 Chalet,SANTINOS,780000,6
 Chalet,Avenida Santander,449000,3
 Chalet,Calle de Vega de Valdetronco,350000,5
- 14,883870666,Calle Colón, 14
+Piso,Calle Colón 14,175000,3
 Piso,MARAVILLAS,74900,3
 Piso,Calle San Antonio de Padua,350000,4
 Piso,pelota,135000,3
@@ -632,7 +632,7 @@ Piso,Calle BARCELONA,120000,1
 Chalet,Gaviota,480000,7
 Chalet,Calle bodegas,190000,2
 Piso,Villanubla,89000,3
- 16,686473201,Calle Pío Baroja, 16
+Duplex,Calle Pío Baroja 16,230000,4
 Piso,Veinte Metros,79900,2
 Chalet,Ángel García,330000,5
 Chalet,Calle Río Duero,220000,3
@@ -640,37 +640,37 @@ Chalet,Sabinares de Arlanza,155000,3
 Chalet,Carretera corcos,119900,3
 Piso,Calle Domingo Martínez,315000,5
 Chalet,Sabinares de Arlanza,155000,3
- 3,653897580,Calle del Aneto, 3
+Piso,Calle del Aneto 3,189000,3
 Piso,JOAQUÍN VELASCO MARÍN,240000,4
 Chalet,Calle Río Duero,220000,3
 Piso,Labradores,155000,3
 Chalet,Calle Montoyas,94900,3
- 2,610021456,Calle Júpiter, 2
+Piso,Calle Júpiter 2,105000,3
 Piso,DOCTRINOS,558000,4
 Chalet,GERANIO,285000,5
- 16,686473201,Calle Pío Baroja, 16
+Duplex,Calle Pío Baroja 16,230000,4
 Piso,Calle del Puente Colgante,219900,4
 Piso,Calle Domingo Martínez,315000,5
 Chalet,Ángel García,330000,5
- 2 -12,661612628,Calle del Monasterio de San Lorenzo de El Escorial, 2 -12
+Piso,Calle del Monasterio de San Lorenzo de El Escorial 2 -12,165000,1
 Piso,Calle Tórtola,119900,3
- 5,699490772,Calle Divina Pastora, 5
+Piso,Calle Divina Pastora 5,470000,5
 Piso,Trepador,65000,3
- 6,650457162,Calle del Monasterio San Millán de la Cogolla, 6
+Piso,Calle del Monasterio San Millán de la Cogolla 6,297000,3
 Chalet,APOSTOL LUCAS,185000,4
 Ático,Calle la Guindalera,215000,3
 Chalet,aneto,215000,5
 Piso,Calle de Joaquín Velasco Martín,104990,3
 Piso,Paseo del Hospital Militar,159900,3
 Piso,Calle Don Sancho,162900,3
- 68,883870852,Calle la Traviata, 68
+Chalet,Calle la Traviata 68,272000,5
 Casa Rural,Plaza Humilladero,59000,4
- 12,655260194,Calle Juan de Juni, 12
+Piso,Calle Juan de Juni 12,240000,4
 Chalet,Cubillas de Santa Marta,205000,4
 Piso,Paseo de San Vicente,99990,3
- 61,619512420,Paseo de Zorrilla, 61
+Piso,Paseo de Zorrilla 61,165000,5
 Casa Rural,Mojados,79000,1
- 23,656860806,Calle Morena, 23
+Piso,Calle Morena 23,210000,2
 Piso,Calle la Casona,218990,3
 Piso,Calle Luis Cernuda,145999,3
 Chalet,La Vega,350000,3
@@ -689,9 +689,9 @@ Chalet,Pedrajas de San esteban,360000,4
 Chalet,Calle Río Tajo,259000,4
 Chalet,Sotoverde,280000,3
 Piso,Calle de Santa Lucía,117000,3
-Chalet,883870737,Plaza del Ochavo,89000
- 2,883870139,Calle Doctrinos, 2
-Piso, cocina amueblada con zona de mesa, dos dormitorios y dos baños (uno incorporado en la suite principal). Cuenta con gran capacidad de almacenaje ya que cuenta con armarios empotrados en los dormitorios y el recibidor, todos ellos forrados y vestidos. Dispone de una amplia plaza de garaje y trastero en el mismo edificio. La urbanización cuenta con una gran zona ajardinada con árboles
+Chalet,Plaza del Ochavo,89000,4
+Piso,Calle Doctrinos 2,545000,4
+Piso,Calle del Calvitero,163000,2
 Piso,Calle de Hernando de Acuña,144000,2
 Chalet,Sotoverde,380000,5
 Piso,Pº Zorrilla - Cuatro de Marzo,170000,2
@@ -702,10 +702,10 @@ Chalet,Avenida de Castilla y Leon,157000,3
 Piso,Calle Estadio,495000,4
 Ático,Regato,134900,2
 Piso,Calle Capuchinos,145000,3
- 15,883870139,LAS ERAS, 15
+Piso,LAS ERAS 15,199000,4
 Chalet,Calle de los Álamos,280000,4
 Chalet,Calle REAL,79000,1
- 80,883870932,Calle de las Mieses, 80
+Piso,Calle de las Mieses 80,195000,2
 Piso,Madre de Dios,119000,3
 Piso,Calle Villafranca de Duero,169000,2
 Chalet,Calle Kappa,249000,3
@@ -715,12 +715,12 @@ Piso,Calle Mariano José de Larra,64000,3
 Casa Rural,Pago de los Carrizales,49000,1
 Piso,Cabo Noval,105000,3
 Chalet,Calle de las Castañuelas,199000,4
-Piso, ventanas de aluminio oscilobatientes, con cristal tipo Climalit, y domótica
+Piso,Monasterio San Lorenzo del Escorial,178000,2
 Chalet,Calle Mariano de los Cobos,350000,5
 Casa Rural,Calle Pajón,89900,3
 Piso,Paseo de san vicente s/n sn,131900,2
 Casa Rural,Calle Pajón,89900,3
-Piso, ventanas de aluminio oscilobatientes, con cristal tipo Climalit, y domótica
+Piso,Monasterio San Lorenzo del Escorial,178000,2
 Chalet,Calle Barrionuevo Antigua Carlos Velasco,305000,4
 Chalet,Avenida de Burgos,158000,3
 Chalet,Calle Mariano de los Cobos,350000,5
@@ -728,8 +728,8 @@ Casa Rural,solana,49900,4
 Piso,Cabo Noval,105000,3
 Piso,Circular - Vadillos,149000,4
 Ático,Arcas Reales - Pinar del Jalón,150000,1
- 31,883870071,Fuentes Carrionas, 31
- 6,883870932,Calle Goya, 6
+Chalet,Fuentes Carrionas 31,280000,4
+Piso,Calle Goya 6,128440,3
 Piso,AQUILINO SANCHEZ,65000,3
 Piso,Paseo del Hospital Militar,229000,3
 Chalet,Camino de cigales,365000,4
@@ -745,7 +745,7 @@ Piso,Paseo del Hospital Militar,229000,3
 Piso,Calle ADOLFO MIAJA DE LA MUELA,195000,4
 Piso,Cárcaba,89900,1
 Chalet,Río Tera,137000,4
- 78,686972420,Arco de Ladrillo, 78
+Piso,Arco de Ladrillo 78,239500,2
 Piso,Calle artistas,94900,2
 Piso,San Juan - Batallas,93000,2
 Chalet,campana,232750,4
@@ -753,10 +753,10 @@ Piso,Calle Huelgas,179000,4
 Piso,salegar,139000,4
 Piso,Cárcaba,94900,1
 Piso,Paseo de Zorrilla,157000,3
- 16,883870590,CARRAMEDINA, 16
+Casa Rural,CARRAMEDINA 16,96000,5
 Ático,Santovenia de Pisuerga,130000,2
 Piso,Centro,340000,2
- 48,883870983,Canarias, 48
+Piso,Canarias 48,190000,3
 Piso,Centro,325000,5
 Piso,VILLANUEVA,88500,3
 Piso,Paseo Cid,109000,4
@@ -767,17 +767,17 @@ Piso,Calle Dos de Mayo,439000,4
 Piso,Plaza Mayor,110000,4
 Piso,Calle de Bolivia,159900,4
 Piso,Calle Bajada de la Libertad,580000,6
- 1,883870106,Plaza SAN JUAN, 1
+Piso,Plaza SAN JUAN 1,101900,2
 Piso,Puente Colgante s/n sn,154900,3
 Chalet,Calle Alonso Pesquera,220000,6
 Piso,Calle Nueva,117000,3
 Piso,Calle de la Peña Santa,205000,3
 Piso,Calle Dos de Mayo,290000,3
 Piso,Avenida DE SEGOVIA,99800,3
- 26,883870983,Avenida de la Estación, 26
+Chalet,Avenida de la Estación 26,190000,4
 Piso,Calle Caamaño,65500,3
 Chalet,Covaresa - Parque Alameda,395000,5
- 10,883870812,Calle Siglo de Oro, 10
+Piso,Calle Siglo de Oro 10,100000,3
 Piso,CORPUS CRISTI,140000,3
 Piso,Campo Grande - Arco Ladrillo,373000,5
 Duplex,Centro,680000,4
@@ -788,7 +788,7 @@ Chalet,Calle Francisco Quevedo  s/n,298500,4
 Piso,Circular - Vadillos,135000,3
 Piso,Calle Carmelo,73000,2
 Piso,Calle AVELINO HERNANDEZ LUCAS s/n,189600,3
- 2,667716840,Calle Tierra de Berlanga, 2
+Piso,Calle Tierra de Berlanga 2,188575,2
 Piso,Centro,219000,4
 Piso,Calle Nueva del Carmen,100000,3
 Chalet,Covaresa - Parque Alameda,395000,5
@@ -811,16 +811,16 @@ Piso,Delicias,60000,2
 Piso,Italia,150000,4
 Piso,Calle Parque Arturo León,143900,3
 Piso,Calle de Lucayas,119000,3
- 5,883870666,Plaza Trinidad, 5
+Piso,Plaza Trinidad 5,109800,1
 Piso,Centro,250000,3
 Piso,Calle Capuchinos,145000,3
 Piso,Puente Colgante,179900,2
 Ático,Ronda Serranía de,108000,2
 Casa Rural,Calle Real.,59990,3
- 2,637070308,Calle de Recondo, 2
+Piso,Calle de Recondo 2,230000,3
 Piso,Calle Barcelona,110000,1
 Piso,Sisón,96800,2
- 33,667782351,Calle de la Alcaparra, 33
+Ático,Calle de la Alcaparra 33,265000,2
 Piso,Cisne,76500,3
 Piso,ANDALUCÍA,79900,3
 Piso,Calle Canterac,89000,3
@@ -828,13 +828,13 @@ Chalet,Ermita,59900,3
 Piso,Calle Parque Arturo León,190000,4
 Piso,Gallo,130000,4
 Piso,Democracia,117000,3
- 1 _5,657203441,Calle Guadalete, 1 _5
+Piso,Calle Guadalete 1 _5,156000,3
 Piso,GOLONDRINA,119000,2
- 8,699635328,Calle Corpus Christi, 8
+Piso,Calle Corpus Christi 8,120000,3
 Piso,Pajarillos,140000,3
- 19,667712632,pólvora, 19
+Piso,pólvora 19,155000,4
 Chalet,Villanueva de Duero,189900,5
- 14,699060145,Calle Villabrágima, 14
+Chalet,Calle Villabrágima 14,365000,5
 Chalet,Val,80000,2
 Ático,Covaresa - Parque Alameda,990000,20
 Casa Rural,Tudela de Duero,129000,8
@@ -850,68 +850,68 @@ Chalet,MIGUEL HERNÁNDEZ,143000,3
 Piso,Calle Esperanto,97000,3
 Piso,Pisuerga,164000,4
 Piso,Circular - Vadillos,209000,4
- 11,626141616,Calle Corrillo Santo Domingo, 11
+Chalet,Calle Corrillo Santo Domingo 11,152000,4
 Piso,Paseo de Extremadura,137000,3
 Chalet,Calle Boleo Nuevo,95900,5
 Casa Rural,Calle Arroyo de la Vege,103000,4
 Chalet,Calle C,221000,5
 Chalet,CAÑADA DE FUENTE AMARGA,159900,6
 Piso,Calle Martín Pescador,95000,3
- 13,622342307,Camino Zamadueñas Overuela, 13
+Chalet,Camino Zamadueñas Overuela 13,259000,4
 Chalet,Calle ORQUÍDEA,59000,7
 Chalet,Cistérniga,314000,5
 Chalet,Aldeamayor de San Martin,259000,4
 Chalet,Tudela de Duero,140000,3
 Ático,SAN LORENZO,209000,2
 Piso,Delicias,65000,5
- 12 -a,650079621,Calle de Andalucía, 12 -a
+Ático,Calle de Andalucía 12 -a,163000,2
 Piso,Delicias,69000,3
 Piso,Calle Mercedes,229000,3
 Piso,Calle Real de Burgos,145000,4
 Chalet,Laguna de Duero,223000,3
 Piso,ORIOL s/n SN,81000,3
- 49,610843980,Calle de Miriam Blasco, 49
+Chalet,Calle de Miriam Blasco 49,380000,4
 Ático,Calle Ambrosia,269000,2
- 29,609664065,Lugar Plan Parc Villa del Prado, 29
+Chalet,Lugar Plan Parc Villa del Prado 29,420000,4
 Piso,Calle Estornino s/n sn,81000,3
 Piso,Delicias,115000,2
 Ático,La Vega,218990,4
- 4,883870071,alamos, 4
+Chalet,alamos 4,158000,3
 Estudio,Calle Barcelona,125000,0
- 20,883870923,Camino del Pesquerón, 20
- 20,883870923,Camino del Pesquerón, 20
- 11,655845936,Calle Costa Dorada, 11
- 34,636759990,Calle Nava, 34
- 47,644789090,manuel azaña, 47
+Chalet,Camino del Pesquerón 20,259000,5
+Chalet,Camino del Pesquerón 20,259000,5
+Piso,Calle Costa Dorada 11,150000,3
+Chalet,Calle Nava 34,340000,4
+Piso,manuel azaña 47,165000,3
 Duplex,La Vega,180000,3
- 10,635313066,Calle de Panaderos, 10
- 9,646479088,Calle Muro, 9
- 232,625495453,Calle Cañada Real, 232
- 4,608489264,Calle de Esteban García Chico, 4
- 6,685902957,Calle María de Molina, 6
+Piso,Calle de Panaderos 10,238000,3
+Piso,Calle Muro 9,600000,5
+Piso,Calle Cañada Real 232,197000,3
+Piso,Calle de Esteban García Chico 4,240000,3
+Piso,Calle María de Molina 6,400000,4
 Piso,PORTILLO DE BALBOA,155000,3
- 12,-,Calle Pizarro, 12
- 3,-,Calle Armonio, 3
- 10,-,Calle Turina, 10
- 1,692128405,Calle ramón núñez, 1
+Piso,Calle Pizarro 12,182000,2
+Piso,Calle Armonio 3,148900,3
+Piso,Calle Turina 10,220000,4
+Duplex,Calle ramón núñez 1,145000,0
 Piso,Calle Europa,200000,4
- 3,639375700,Calle de Bolivia, 3
- 3,687949208,Calle del Arca 2, 3
- 70,678244136,Calle del Doctor Sánchez Villares, 70
- 89,609029325,Paseo de Zorrilla, 89
- 35,625795115,Calle de la Alcaparra, 35
+Piso,Calle de Bolivia 3,199000,5
+Piso,Calle del Arca 2 3,289000,2
+Chalet,Calle del Doctor Sánchez Villares 70,475000,6
+Piso,Paseo de Zorrilla 89,108000,3
+Piso,Calle de la Alcaparra 35,229000,2
 Piso,Centro,165000,3
- 4,609844524,Calle M.San Lorenzo Escorial, 4
- 44,686379255,Avenida de Segovia, 44
- 17,695555931,Calle Olmedo, 17
- 51,686944066,Calle José María Pemán, 51
- 24,626847714,Calle Arribes del Duero, 24
- 14,661821252,Callejón de la Alcoholera, 14
+Ático,Calle M.San Lorenzo Escorial 4,265000,2
+Piso,Avenida de Segovia 44,159000,3
+Piso,Calle Olmedo 17,140000,3
+Chalet,Calle José María Pemán 51,380000,5
+Piso,Calle Arribes del Duero 24,180000,3
+Piso,Callejón de la Alcoholera 14,230000,3
 Chalet,Calle Nueva del Carmen,180000,3
- 6,619877222,Calle Fasa, 6
+Piso,Calle Fasa 6,145000,4
 Ático,Calle MANUEL SILVELA,210000,2
 Piso,Calle de Cervantes,190000,4
- 33,883870071,Calle Núñez de Arce, 33
+Piso,Calle Núñez de Arce 33,595000,3
 Piso,Calle Miguel Sebastian Herrador,139000,4
 Piso,Calle la Guindalera s/n,109000,3
 Piso,Murill0,275000,4
@@ -920,7 +920,7 @@ Piso,FLORIDA,134000,3
 Piso,Tordo,119900,3
 Chalet,Camino del Puente,195000,3
 Piso,Calle Paulina Harriet,179990,3
- 1,883870106,Plaza SAN JUAN, 1
+Ático,Plaza SAN JUAN 1,74800,1
 Ático,Calle Mariano de los Cobos,379900,4
 Casa Rural,Calle del Pozo,45000,3
 Chalet,Calle Consistorio,129000,3
@@ -933,38 +933,38 @@ Chalet,Mojados,80000,2
 Piso,Centro,357000,5
 Piso,Delicias,93000,3
 Ático,Calle del Arca 1,149000,1
- 1,883870983,Carramedina, 1
+Casa Rural,Carramedina 1,65000,1
 Chalet,Calle Rosa,43000,3
 Piso,Delicias,52900,3
 Piso,Delicias,95000,3
 Piso,AGUILA,39000,2
 Piso,Pº Zorrilla - Cuatro de Marzo,330000,3
 Piso,Delicias,49900,2
- 17,635602941,Calle del Rastrojo, 17
+Piso,Calle del Rastrojo 17,230000,4
 Piso,TEMPLARIOS,47900,2
 Piso,Centro,180000,2
 Piso,Calle General Shelly,237000,4
 Piso,Calle General Shelly,200000,3
 Chalet,Calle Malena,159000,3
- 1,627523182,Calle falla, 1
- 2,651346469,Calle San José de Calasanz, 2
+Piso,Calle falla 1,135000,4
+Piso,Calle San José de Calasanz 2,83000,3
 Piso,Calle Emiliano Martín,108300,3
 Chalet,Portillo,100000,3
 Piso,Parquesol,220000,3
 Piso,Centro,295800,3
 Piso,Calle Rondilla Santa Teresa,124000,3
- 3,-,Calle Parque Arturo León, 3
+Ático,Calle Parque Arturo León 3,218000,4
 Piso,Centro,610000,5
 Piso,Calle del Cardenal Torquemada,109500,3
 Piso,Centro,720000,7
- 155,600460710,Paseo de Zorrilla, 155
- 40,601183062,San Juan, 40
- 40,601183062,San Juan, 40
+Piso,Paseo de Zorrilla 155,340000,3
+Piso,San Juan 40,129000,2
+Piso,San Juan 40,129000,2
 Piso,Fuente el Sol,184000,3
 Piso,Centro,90000,1
- 12,883870593,Independencia, 12
+Piso,Independencia 12,295000,3
 Piso,Calle Perú,210000,3
- 29,-,Calle de la Hipica, 29
+Piso,Calle de la Hipica 29,160000,3
 Piso,Juan Carlos I,79900,3
 Chalet,Mirlo,195000,3
 Piso,Centro,155000,6
@@ -989,9 +989,9 @@ Piso,Delicias,66000,3
 Piso,Jardines,139000,4
 Piso,Cistérniga,79000,2
 Ático,Laguna,149900,3
- 8,-,Calle Marqués del Duero, 8
+Piso,Calle Marqués del Duero 8,195000,4
 Chalet,C/Real,43000,3
- 10,672268899,Calle Palacio Valdés, 10
+Piso,Calle Palacio Valdés 10,66000,2
 Piso,Laguna de Duero,90000,2
 Piso,Las Villas - Valparaíso,190000,2
 Chalet,Cistérniga,195000,5
@@ -1012,68 +1012,68 @@ Piso,Nueva del Carmen,109000,4
 Piso,VILLABAÑEZ,73000,2
 Piso,Laguna de Duero,115000,2
 Piso,SAN RAFAEL,126900,3
- 11,676037922,Calle de Italia, 11
+Piso,Calle de Italia 11,148000,3
 Piso,Laguna de Duero,96000,3
 Piso,SANTA JOAQUINA DE VEDRUNA,115000,2
 Piso,Delicias,107900,3
 Chalet,Calle Calvario,39000,3
- 11 b,619932708,Paseo del Hospital Militar, 11 B
+Piso,Paseo del Hospital Militar 11 B,295000,4
 Chalet,Fuensaldaña,250000,1
 Piso,Calle Cerrada,121900,3
 Piso,Laguna de Duero,129900,4
 Piso,Santovenia de Pisuerga,108000,2
- 3,659024043,Calle de los Alamillos, 3
+Piso,Calle de los Alamillos 3,165000,2
 Chalet,Las Villas - Valparaíso,339900,4
 Piso,La Flecha - Monasterio del Prado,95000,2
- 4,653841880,Núñez de Guzmán El Pinciano, 4
- 9,615196636,Calle Macías Picavea, 9
- 3,651706076,Calle del Arzobispo Marcelo González, 3
- 29  -31,626188205,Calle Villanueva, 29  -31
- 25,644325251,Calle Vegafría, 25
- 38,629355940,Calle Nueva del Carmen, 38
- 11,652563605,Calle Correos, 11
- 99,677626868,Paseo de Zorrilla, 99
- 14,675824713,Calle San Blas, 14
- 4,-,Calle del Iris, 4
+Piso,Núñez de Guzmán El Pinciano 4,195000,3
+Piso,Calle Macías Picavea 9,285000,3
+Piso,Calle del Arzobispo Marcelo González 3,150000,3
+Estudio,Calle Villanueva 29  -31,75000,0
+Ático,Calle Vegafría 25,100000,2
+Piso,Calle Nueva del Carmen 38,170000,2
+Piso,Calle Correos 11,190000,1
+Piso,Paseo de Zorrilla 99,160000,3
+Piso,Calle San Blas 14,320000,4
+Piso,Calle del Iris 4,150000,3
 Piso,Calle del Arca 2,80000,2
- 3,676989347,Calle Jara, 3
- 4,669523560,Calle Montesa, 4
- 8,644453775,Avenida de Miguel Ángel Blanco, 8
- 23,883870071,Avenida Simancas, 23
- 8,644453775,Avenida de Miguel Ángel Blanco, 8
- 1 -10,690836276,Avenida Ramón y Cajal, 1 -10
- 10,883870852,Paseo MALDONADO, 10
- 7,883870071,Calle Fuente, 7
+Piso,Calle Jara 3,200000,3
+Piso,Calle Montesa 4,135000,2
+Piso,Avenida de Miguel Ángel Blanco 8,315000,5
+Piso,Avenida Simancas 23,66000,3
+Piso,Avenida de Miguel Ángel Blanco 8,315000,5
+Piso,Avenida Ramón y Cajal 1 -10,180000,3
+Piso,Paseo MALDONADO 10,97000,2
+Piso,Calle Fuente 7,72000,2
 Chalet,Calle Círculo Mercantil,43200,3
- 11,-,Plaza Circular, 11
- 1,608514859,Calle del Conde de Ribadeo, 1
+Piso,Plaza Circular 11,70000,2
+Piso,Calle del Conde de Ribadeo 1,220000,3
 Chalet,Ronda de la Plaza,45000,2
- 10,667661368,Calle Doce de Octubre, 10
+Piso,Calle Doce de Octubre 10,130000,3
 Piso,Arco de Ladrillo,155000,4
 Piso,Laguna de Duero,79000,3
 Piso,Calle Pedro de la Gasca,155000,3
 Piso,Belén - Pilarica - Bº España,100000,4
 Piso,Laguna de Duero,104900,2
 Piso,Paseo zorrilla s/n,227000,3
- 5 a,617225014,Camino de Hornillos, 5 A
- 2,628710086,Calle Padre Francisco Suárez, 2
- 8,609271547,Calle Dos de Mayo, 8
- 11,619308025,Calle arz García goldaraz, 11
+Piso,Camino de Hornillos 5 A,149000,3
+Piso,Calle Padre Francisco Suárez 2,290000,4
+Piso,Calle Dos de Mayo 8,560000,8
+Piso,Calle arz García goldaraz 11,79000,2
 Piso,Calle de los Donantes de Sangre,103000,3
- 17,695171742,Calle de Juan de Valladolid, 17
+Piso,Calle de Juan de Valladolid 17,175000,3
 Piso,Pº Zorrilla - Cuatro de Marzo,225000,3
- 30,615574523,Calle López Gomez, 30
- 14,686010673,Calle Europa, 14
+Piso,Calle López Gomez 30,140000,1
+Piso,Calle Europa 14,180000,3
 Casa Rural,Arroyo,125000,3
- 54,607492871,Calle Miguel Hernández, 54
- 12,667998292,Calle de la Salud, 12
- 8,-,Calle Guardería, 8
- 70,-,Carretera Madrid, 70
- 10,650466484,Bolivia, 10
- 3,615058277,Glorieta Descubrimiento, 3
+Piso,Calle Miguel Hernández 54,280000,3
+Piso,Calle de la Salud 12,129000,3
+Piso,Calle Guardería 8,119000,2
+Piso,Carretera Madrid 70,210000,2
+Duplex,Bolivia 10,360000,3
+Piso,Glorieta Descubrimiento 3,256000,3
 Chalet,Aldeamayor de San Martin,160000,4
 Piso,Cañada real,215000,3
- 74,639517923,Arco de Ladrillo, 74
+Piso,Arco de Ladrillo 74,210000,2
 Piso,Calle del Manto,109900,2
 Piso,La Rubia,125500,3
 Piso,Campo Grande - Arco Ladrillo,170000,1
@@ -1083,90 +1083,90 @@ Piso,San Juan - Batallas,85000,1
 Piso,Hospital Nuevo,115000,1
 Piso,Cistérniga,129000,4
 Piso,Hospital,69000,2
- 14,600707622,Calle Nebrija, 14
+Piso,Calle Nebrija 14,62000,3
 Piso,Calle Padre Francisco Suárez,179900,2
 Piso,Calle Gabriel y Galán,113000,3
 Piso,Calle de los Doctrinos,769000,4
 Piso,Rondilla - Santa Clara,120000,2
 Piso,Huerta del Rey,270000,4
- 4,609438959,Calle Gamazo, 4
- 4,644105794,Calle Pavo Real, 4
- 44,670353301,Calle Anselmo Miguel Nieto, 44
- 17,615265670,Calle Pablo Picasso, 17
- 94,609208801,Paseo de Zorrilla, 94
- 12,619317269,Calle Fuente el Sol, 12
- 28,615331653,Calle Vegafría, 28
- 26,630283476,Calle Regin, 26
- 29,663873242,Calle de la Cigüeña, 29
- 11,-,Calle Clavel, 11
- 9,695261780,Calle Hermanos Cossio, 9
- 47,650413044,Camino Viejo del Polvorín, 47
- 8,629953610,montes y martin baro, 8
- 27, con ascensor. Salón y tres habitaciones. Cuarto de Baño, Cocina," Galería y Terraza. Puerta blindada. 45 € de Comunidad. Precio: 108.000 €."""
- 6,-,Calle Mariano de los Cobos, 6
- 6,-,Calle de la Virgen de la Saleta, 6
- 10,619860748,Calle del Arzobispo José Delicado, 10
- 4,636182801,Calle Aaiún, 4
- 9,640244024,Calle Bautismo, 9
- 12,625884544,Calle Arribes del Duero, 12
- 24  bis,-,Paseo del Arco de Ladrillo, 24  bis
- 2,699324108,Calle Olmo, 2
- 37,657379029,Calle Madroño, 37
- 1,649406599,Avenida de Salamanca, 1
- 3,686105775,Calle Pío Baroja, 3
- 26,-,Ampurdan, 26
- 3,676913139,Calle del General Ruiz, 3
- 9,606882856,Calle transicion, 9
- 16,649899256,Calle de la Zanfona, 16
- 33,605037210,Paseo Farnesio, 33
- 17,617300450,Calle de Sajambre, 17
- 5,654524973,Calle Hermanitas de la Cruz, 5
- 33,605037210,Paseo Farnesio, 33
- 8,-,Avenida de Segovia, 8
- 5,685503198,Plaza Tenerías, 5
- 38,983658964,Calle Mirabel, 38
- 12,-,Calle del Amor de Dios, 12
- 66  ,"Preciosa casa en la ciudad de la comunicaciom al lado del INS y a 5m del paro de zortilla hospital militar rodeada de zonas verdes grandes ventanales de luz, suelo radiante parcela con piscina y conserje que hacen se está casa un buen lugar para vivir, tiene abundante luz.",615621542,Arco de Ladrillo
- 105,633623293,Calle Estación, 105
- 2,679476862,Calle Peñalara, 2
- 131,649783200,Paseo de Zorrilla, 131
- 67,609700000,Calle Cañada Real, 67
- 1,680711095,Calle Wamba, 1
- 10,-,Calle Álvarez Taladriz, 10
- 20,694476147,Calle Arribes del Duero, 20
- 9,640108721,Paseo del Hospital Militar, 9
- 4,883870975,Calle Picones, 4
- 8,883870975,Avenida de las Fuentes, 8
+Piso,Calle Gamazo 4,205000,1
+Piso,Calle Pavo Real 4,70000,3
+Chalet,Calle Anselmo Miguel Nieto 44,320000,4
+Chalet,Calle Pablo Picasso 17,115000,3
+Piso,Paseo de Zorrilla 94,160000,3
+Piso,Calle Fuente el Sol 12,114500,3
+Piso,Calle Vegafría 28,179000,1
+Chalet,Calle Regin 26,140000,3
+Piso,Calle de la Cigüeña 29,61000,3
+Ático,Calle Clavel 11,139000,3
+Piso,Calle Hermanos Cossio 9,97000,5
+Chalet,Camino Viejo del Polvorín 47,160000,3
+Piso,montes y martin baro 8,195000,4
+Piso,Calle Concha Velasco 27,108000,4
+Piso,Calle Mariano de los Cobos 6,180000,2
+Piso,Calle de la Virgen de la Saleta 6,95000,3
+Piso,Calle del Arzobispo José Delicado 10,200000,3
+Piso,Calle Aaiún 4,70000,3
+Piso,Calle Bautismo 9,134900,3
+Piso,Calle Arribes del Duero 12,148800,2
+Piso,Paseo del Arco de Ladrillo 24  bis,195000,2
+Piso,Calle Olmo 2,170000,3
+Chalet,Calle Madroño 37,420000,4
+Piso,Avenida de Salamanca 1,285000,3
+Piso,Calle Pío Baroja 3,240000,3
+Chalet,Ampurdan 26,150000,4
+Ático,Calle del General Ruiz 3,320000,3
+Piso,Calle transicion 9,120000,3
+Piso,Calle de la Zanfona 16,130000,2
+Piso,Paseo Farnesio 33,60000,2
+Chalet,Calle de Sajambre 17,255825,4
+Piso,Calle Hermanitas de la Cruz 5,92000,3
+Piso,Paseo Farnesio 33,60000,2
+Piso,Avenida de Segovia 8,105000,4
+Piso,Plaza Tenerías 5,190000,3
+Piso,Calle Mirabel 38,80000,2
+Piso,Calle del Amor de Dios 12,70000,3
+3,615621542,Arco de Ladrillo 66  ,3
+Piso,Calle Estación 105,185000,5
+Piso,Calle Peñalara 2,240000,3
+Piso,Paseo de Zorrilla 131,155000,3
+Piso,Calle Cañada Real 67,195000,3
+Chalet,Calle Wamba 1,84900,0
+Piso,Calle Álvarez Taladriz 10,185000,2
+Ático,Calle Arribes del Duero 20,130000,1
+Piso,Paseo del Hospital Militar 9,99900,3
+Duplex,Calle Picones 4,163800,3
+Chalet,Avenida de las Fuentes 8,155000,4
 Piso,Calle Embajadores,95000,3
- 29,883870140,Entrepinos, 29
+Chalet,Entrepinos 29,279000,4
 Chalet,Las Fuentes s/n,195000,3
 Piso,Miguel Iscar s/n,550000,5
 Chalet,Mayor s/n,350000,7
- 19, S. L. U. vende extraordinaria y luminosa vivienda de esquina, en planta tercera, situada en Parquesol edificio Cervantes
+Piso,Hernando de Acuña 19,235000,3
 Ático,Calle Padre Chaminade s/n,421500,3
- 9,883870932,Calle Hermanos Cossío, 9
- 2,883870992,Calle Antigua, 2
- 54,883870975,Tres de Abril, 54
+Piso,Calle Hermanos Cossío 9,99000,5
+Piso,Calle Antigua 2,225000,2
+Piso,Tres de Abril 54,125000,2
 Chalet,Calle Antonio de Meneses,195000,4
 Piso,Calle Severo Ochoa,159000,3
- 8,883870992,Calle Nicolás Salmerón, 8
+Piso,Calle Nicolás Salmerón 8,105000,3
 Piso,Plaza Del Piquillo,52000,4
- 10,883870992,Calle Alonso de Ojeda, 10
- 166,883870992,Calle de Enrique Cubero, 166
- 7,883870975,Calle Humilladero, 7
- 6,883870992,Calle de la Constelacion, 6
- 14,883870992,Calle de Leopoldo Cano, 14
- 18,883870992,Calle Clavel, 18
- 18,883870975,SOLANA, 18
- 23,883870992,Calle Ferrocarril, 23
- 18,883870975,SOLANA, 18
- 11,883870975,Calle Humilladero, 11
- 13,883870992,Orbigo, 13
-Piso,883870992,Calle Hermanitas de la Cruz,79000
+Piso,Calle Alonso de Ojeda 10,142000,2
+Piso,Calle de Enrique Cubero 166,215000,3
+Chalet,Calle Humilladero 7,114400,3
+Piso,Calle de la Constelacion 6,104000,1
+Piso,Calle de Leopoldo Cano 14,250000,3
+Chalet,Calle Clavel 18,145000,3
+Chalet,SOLANA 18,139000,3
+Piso,Calle Ferrocarril 23,115000,3
+Chalet,SOLANA 18,139000,3
+Piso,Calle Humilladero 11,52000,4
+Piso,Orbigo 13,164000,3
+Piso,Calle Hermanitas de la Cruz,79000,2
 Chalet,Calle Sabano,325000,5
 Piso,Calle Amadeo Arias,170000,4
- 7,883870257,Calle Mercedes, 7
- 39,883870461,Carretera de Rueda, 39
+Piso,Calle Mercedes 7,160000,4
+Piso,Carretera de Rueda 39,170000,3
 Chalet,Calle Cofradía de la Ascensión,185000,3
 Chalet,Calle Ramiro de Maeztu,215000,5
 Piso,Calle Perú,280000,2
@@ -1174,83 +1174,83 @@ Chalet,Calle Fuentes Carrionas,280000,4
 Chalet,Calle Hoces del Duratón,282000,5
 Piso,Plaza de la Cebada,249000,4
 Chalet,Calle Reina Sofía,187000,4
- 2,883870488,Plaza del Poniente, 2
+Piso,Plaza del Poniente 2,425000,4
 Piso,Abierta s/n,198000,3
- 1,883870140,Doctor Moreno, 1
- 5,883870461,Camino a Arroyo, 5
+Piso,Doctor Moreno 1,110000,3
+Chalet,Camino a Arroyo 5,245000,4
 Chalet,Loma s/n,290000,5
- 404,883870257,montico, 404
+Chalet,montico 404,475000,7
 Chalet,Covaresa - Parque Alameda,295000,5
- 12,883870717,Calle Nogal, 12
+Piso,Calle Nogal 12,144000,3
 Chalet,Prado,305000,4
 Piso,Calle Júpiter,186000,2
 Piso,Calle Miguel Delibes,209000,4
 Piso,Calle del Pelícano,104500,4
 Piso,Calle de Joaquín Velasco Martín,345000,4
- 67,883870488,Calle de la Darbuca, 67
+Chalet,Calle de la Darbuca 67,262000,5
 Chalet,Calle Río Esgueva,97000,3
 Ático,Calle Mantilla,490000,3
 Chalet,Plaza Parque,129000,5
- 3,883870488,Calle Juan de Juni, 3
+Piso,Calle Juan de Juni 3,290000,3
 Chalet,Camino Palomares,204900,5
 Chalet,Calle Zapardiel,170000,4
 Piso,Calle del Arzobispo José Delicado,245000,4
 Chalet,Carretera de la Mota,169900,3
- 12,883870257,CATALPAS, 12
+Chalet,CATALPAS 12,229000,3
 Piso,Calle Parque Arturo León s/n H4,145000,3
 Piso,Plaza Martí y Monsó,650000,4
 Piso,Plaza Martí y Monsó,650000,4
 Chalet,Plaza Mayor s/n,550000,4
 Chalet,Calle del Niño,700000,5
 Chalet,Aldeamayor de San Martin,450000,5
- 8,883870639,Puente la Reina, 8
- 12,883870639,Arco de Ladrillo, 12
- 3,883870639,Arco de Ladrillo, 3
- 15, así como también a pocos metros del centro de Deporte y Ocio Supera El Palero (que incorpora piscina climatizada, gimnasio, cafetería
- 11,883870639,Paseo del Hospital Militar, 11
- 1,883870358,Caridad, 1
- 3,883870639,Aneto, 3
- 11,883870341,miguel delibes, 11
+Piso,Puente la Reina 8,97000,3
+Piso,Arco de Ladrillo 12,189000,3
+Piso,Arco de Ladrillo 3,130000,2
+Piso,883870098,Avenida Medina del Campo 15,199900
+Piso,Paseo del Hospital Militar 11,165000,2
+Piso,Caridad 1,410000,3
+Chalet,Aneto 3,295000,4
+Chalet,miguel delibes 11,210000,5
 Piso,Plaza de la Rinconada,490000,6
- 3,883870717,Camino la fuente, 3
+Casa Rural,Camino la fuente 3,117000,6
 Chalet,Calle Calvario,68000,4
 Piso,Calle Doce de Octubre,179000,3
 Piso,Calle del Viaje de Aguas,179000,2
 Piso,Calle de Santiago,590000,4
-Chalet, comedor y sala de estar, y gran cocina totalmente amueblada con espacio suficiente de almacenaje y mesa. En planta primera tenemos tres amplios dormitorios y 2 baños completos, uno de ellos incorporado en suite principal
+Chalet,Calle de Miriam Blasco,379900,5
 Piso,Calle Italia,190000,3
 Duplex,Calle Francisco Vitoria,174900,3
-Piso, desde esta se accede a galería cubierta.    Dispone de Servicios Centrales con contador individual, Aire Acondicionado. Toldos en su parte exterior. Portero físico.    Muy luminoso, al ser una sexta planta podrá disfrutar de unas buenas vistas despejadas y sol directo en toda la vivienda.    Buenas calidades
- 10,883870666,Calle de Nicómedes Sanz, 10
- 11, con entrada por la calle Federico landrove Moiño, pero con orientación Sur, luminoso y buenas vistas. (cuarta planta) Tres habitaciones
+Piso,Calle del Doctor Sánchez Villares,225000,3
+Piso,Calle de Nicómedes Sanz 10,273000,3
+Piso,Calle Federico Landrove Moiño 11,179000,3
 Piso,Paseo del Hospital Militar,125000,2
 Chalet,Calle Pérez de Ayala,379000,4
- 1,883870341,Calle del Monasterio San Millán de la Cogolla, 1
+Piso,Calle del Monasterio San Millán de la Cogolla 1,228000,3
 Piso,Calle de las Mieses,199900,4
 Piso,Paseo de Zorrilla,264000,4
- 24,883870341,Calle Paraíso, 24
+Chalet,Calle Paraíso 24,164000,3
 Piso,Calle de Teresa Gil,129900,2
 Piso,Paseo de Zorrilla,168000,4
 Chalet,Camino Viejo de Simancas esq. c/ la Valdavia s/n,470000,4
 Piso,Callejón de la Alcoholera,210000,2
 Chalet,Camino Viejo de Simancas esq. c/ la Valdavia s/n,560000,4
 Piso,Avenida de Irún,123500,3
- 3,883870257,libertad, 3
+Piso,libertad 3,340000,5
 Piso,Calle Sierra de la demanda s/n,277000,3
 Piso,Avenida Segovia,95000,2
 Piso,Calle Sierra de la demanda s/n,246000,2
 Piso,Calle Sierra de la demanda s/n,277000,3
 Piso,Calle Sierra de la demanda s/n,362000,4
- 3,883870257,libertad, 3
- 16,883870992,Sierra de Gredos, 16
- 24,883870321,Calle Fuente de los Titanes, 24
+Piso,libertad 3,340000,5
+Chalet,Sierra de Gredos 16,205000,4
+Chalet,Calle Fuente de los Titanes 24,233900,4
 Piso,Paseo de Zorrilla,195000,2
 Piso,Calle Villanubla,69000,3
- 6,883870278,Calle del Monasterio de Santo Domingo de Silos, 6
- 6,883870992,Plaza salvador, 6
- 27,883870975,Calle Juan García Hortelano, 27
+Piso,Calle del Monasterio de Santo Domingo de Silos 6,315000,3
+Piso,Plaza salvador 6,539000,3
+Duplex,Calle Juan García Hortelano 27,209000,2
 Piso,Avenida Juan de Austria,110000,3
- 4,883870992,Plaza MARQUES DE LA ENSENADA, 4
+Chalet,Plaza MARQUES DE LA ENSENADA 4,650000,5
 Chalet,Calle Parsifal,550000,5
 Piso,Calle de Montes y Martín-Baro,199999,4
 Piso,Calle Santa María de la Cabeza,163000,3
@@ -1269,7 +1269,7 @@ Chalet,Calle Santiago Amón,295000,3
 Piso,Circular - Vadillos,89900,1
 Piso,San Juan - Batallas,125000,3
 Piso,Calle Colibrí,139900,3
- 4,680607020,Calle Pato, 4
+Ático,Calle Pato 4,199000,3
 Ático,Calle la Guindalera,215000,3
 Chalet,Calle Severo Ochoa,249500,4
 Piso,Calle Miño,169900,4
@@ -1280,11 +1280,11 @@ Piso,Avenida Ramon y Cajal,136000,3
 Chalet,Calle Parva,260000,3
 Chalet,Calle Arribes del Duero,177000,3
 Chalet,Peñafiel,169900,4
- 3,883870975,Plaza Madrid, 3
- 12,883870257,Leon, 12
+Piso,Plaza Madrid 3,265000,4
+Piso,Leon 12,229000,3
 Piso,Calle de San Quirce,194900,3
 Chalet,Peñafiel,179000,3
- 33,883870975,Arco de Ladrillo, 33
+Ático,Arco de Ladrillo 33,190000,1
 Piso,Centro,359000,5
 Casa Rural,Curiel,310000,4
 Piso,Calle de Enrique Cubero,250000,4
@@ -1294,43 +1294,43 @@ Piso,Calle Padre Chaminade s/n,299000,3
 Piso,Calle Trilla,200000,3
 Casa Rural,Simancas,252900,3
 Casa Rural,La Pedraja de Portillo,599000,8
- 31,883870992,Carromajada, 31
- 7,883870975,maría zambrano, 7
+Piso,Carromajada 31,185000,3
+Piso,maría zambrano 7,85000,3
 Piso,Avenida los cerros,192000,3
- 35,883870992,Carretera de Rueda, 35
- 16,678502220,Calle Ladera del Sol, 16
+Piso,Carretera de Rueda 35,132000,3
+Chalet,Calle Ladera del Sol 16,695000,4
 Piso,Calle Delicias,110000,3
 Piso,Calle Italia,99900,3
 Piso,Laguna de Duero,159900,4
- 2,883870975,Calle García Valladolid, 2
- 18,883870992,Calle de la Campana, 18
- 10,883870975,Independencia, 10
- 2,883870992,Calle Pedro Pérez Villar, 2
- 1,883870992,Plaza del Generalísimo, 1
+Duplex,Calle García Valladolid 2,299000,2
+Chalet,Calle de la Campana 18,245000,4
+Ático,Independencia 10,160000,1
+Piso,Calle Pedro Pérez Villar 2,167000,3
+Chalet,Plaza del Generalísimo 1,180000,3
 Piso,Calle Monasterio San Juan de la Peña,263000,3
- 51,883870140,Calle Germán Gamazo y Calvo, 51
- 227,883870975,Calle del Arca Real, 227
- 52,883870992,Calle Bodegas, 52
+Chalet,Calle Germán Gamazo y Calvo 51,207000,3
+Chalet,Calle del Arca Real 227,299000,4
+Chalet,Calle Bodegas 52,139500,3
 Piso,Calle 3 de Abril,139900,3
- 6,883870992,Avenida Espadaña, 6
- 6,883870992,Calle del Sauce, 6
+Chalet,Avenida Espadaña 6,245000,4
+Chalet,Calle del Sauce 6,127000,3
 Piso,Paseo Farnesio,84500,3
 Piso,Donantes de sangre,100000,3
 Piso,Paseo de Juan Carlos I,99000,3
 Piso,Calle Arrabal,119900,2
 Ático,Estadio s/n,95000,1
- 1,883870992,Armas, 1
- 1,883870992,Camino Galera, 1
- 95,883870975,Avenida Castilla y León, 95
- 23,883870992,Calle QUEBRADAS, 23
+Chalet,Armas 1,165000,6
+Piso,Camino Galera 1,85000,2
+Chalet,Avenida Castilla y León 95,545000,6
+Ático,Calle QUEBRADAS 23,91000,1
 Chalet,Av. José Zorrilla s/n,226000,4
- 2,883870992,Rollo, 2
- 6,883870992,Avenida Espadaña, 6
- 9 - 11,883870975,Calle Alemania, 9 - 11
- 3,883870975,Rosa Chacel, 3
- 1,883870975,Calle la Barca, 1
- 6,883870992,Calle del Sauce, 6
- 62,883870992,Calle del Veintinueve de Diciembre, 62
+Ático,Rollo 2,89900,2
+Chalet,Avenida Espadaña 6,245000,4
+Chalet,Calle Alemania 9 - 11,1250000,7
+Chalet,Rosa Chacel 3,245000,3
+Piso,Calle la Barca 1,83000,2
+Chalet,Calle del Sauce 6,127000,3
+Chalet,Calle del Veintinueve de Diciembre 62,166000,3
 Piso,Calle Arrabal,119900,2
 Piso,Calle 3 de Abril,139900,3
 Chalet,La Farola s/n,340000,6
@@ -1339,29 +1339,29 @@ Piso,Donantes de sangre,100000,3
 Piso,Paseo Farnesio,84500,3
 Ático,Estadio s/n,85000,1
 Piso,Calle granada,117000,2
- 71,883870975,Calle Madroño, 71
- 9,883870992,Calle Real, 9
- 14,883870918,Calle Tiruelo, 14
- 2,883870610,NUÑEZ DE ARCE, 2
- 27,883870992,Avenida del Estadio, 27
- 2, con estancias reformadas, un buen jardín, una bodega fabulosa y unas dimensiones bien compensadas. Y un buen punto a favor
- 23,883870975,Av de las Médulas, 23
- 5,883870992,TIERRA DE SORIA, 5
+Chalet,Calle Madroño 71,442000,4
+Chalet,Calle Real 9,67000,4
+Chalet,Calle Tiruelo 14,46000,4
+Piso,NUÑEZ DE ARCE 2,253000,2
+Piso,Avenida del Estadio 27,149000,3
+Chalet,Calle Goyescas 2,498000,4
+Chalet,Av de las Médulas 23,385000,4
+Piso,TIERRA DE SORIA 5,186500,3
 Piso,carcaba,147000,2
 Piso,Paseo Farnesio,159900,4
- 3,883870557,Calle Santa Engracia, 3
+Piso,Calle Santa Engracia 3,76000,3
 Casa Rural,espliego,125000,1
 Piso,Plaza Ronda,128000,2
 Duplex,SABANO,325000,5
 Chalet,Ronda de la Iglesia,399000,6
- 2,658973342,Calle Agustina de Aragón, 2
+Piso,Calle Agustina de Aragón 2,100000,3
 Ático,Calle Dojuelo,130000,2
 Chalet,Fuente el Cisne,215000,4
- 28,673743451,Calle Hoyo de la Arena, 28
+Chalet,Calle Hoyo de la Arena 28,125000,3
 Chalet,Ronda,410000,5
 Duplex,SABANO,325000,5
 Piso,Plaza Ronda,128000,2
- 24,625249368,Calle Extramuros, 24
+Chalet,Calle Extramuros 24,179500,3
 Piso,SAN MIGUEL,61500,3
 Ático,Calle Dojuelo,130000,2
 Piso,Centro,215000,1
@@ -1372,7 +1372,7 @@ Piso,Calle El Brezo s/n,171307,3
 Piso,Ronda Especería,76000,1
 Piso,Plaza Mayor,89000,3
 Chalet,Calle de la Viesca,105000,3
- 1,883870257,Calle Colmenares, 1
+Piso,Calle Colmenares 1,395000,3
 Piso,Calle la Guindalera,105000,2
 Duplex,Peñafiel,160000,3
 Chalet,Peñafiel,196000,3
@@ -1384,38 +1384,38 @@ Chalet,Peñafiel,139000,5
 Piso,Calle Laguna,135000,3
 Piso,Calle Ebro,95000,3
 Chalet,Fracc.Cañada Real,172000,5
- 16,883870992,Avenida de Gijón, 16
+Piso,Avenida de Gijón 16,165000,3
 Chalet,Calle Teniente Velasco,87000,5
 Chalet,Tudela de Duero,159000,3
 Piso,Teresa Gil s/n,430000,5
- 1,883870992,Calle Federico Landrove Moiño, 1
+Piso,Calle Federico Landrove Moiño 1,225000,4
 Chalet,Simancas,250000,4
- 39,883870992,Cañada Real, 39
+Chalet,Cañada Real 39,199800,0
 Piso,Calle de Boston,95000,3
 Piso,Calle de Boston,65000,2
 Piso,Calle de Enrique Cubero,230000,3
 Piso,Cistérniga,112000,3
- 2,883870140,Abrojo, 2
+Chalet,Abrojo 2,430000,5
 Chalet,Santibañez de Valcorba,125000,5
- 1,883870140,júpiter, 1
- 33, teniendo acceso a la vivienda para personas con movilidad reducida a través de una rampa. La distribución de la vivienda es la siguiente:    - Planta calle: Nada más entrar nos encontramos con un armario ropero muy práctico. Salón con chimenea muy espacioso y luminoso con dos ambientes, con zona de estar y de comedor que da a unos ventanales donde se sale a otro porche con toldo. A continuación, está el precioso y amplio jardín con un magnífico árbol de acacia. La cocina está amueblada con muebles altos y bajos y con electrodomésticos. La cocina es amplia y con vistas al jardín. En esta planta hay un dormitorio con unos grandes ventanales
- 33,883870992,Calle del Amor de Dios, 33
- 33, teniendo acceso a la vivienda para personas con movilidad reducida a través de una rampa. La distribución de la vivienda es la siguiente:    - Planta calle: Nada más entrar nos encontramos con un armario ropero muy práctico. Salón con chimenea muy espacioso y luminoso con dos ambientes, con zona de estar y de comedor que da a unos ventanales donde se sale a otro porche con toldo. A continuación, está el precioso y amplio jardín con un magnífico árbol de acacia. La cocina está amueblada con muebles altos y bajos y con electrodomésticos. La cocina es amplia y con vistas al jardín. En esta planta hay un dormitorio con unos grandes ventanales
- 1,883870992,Calle Caballería, 1
- 15,883870975,Calle Laguna, 15
- 21,883870975,Calvario, 21
+Piso,júpiter 1,210000,3
+Chalet,Calle la Traviata 33,319000,5
+Piso,Calle del Amor de Dios 33,125000,3
+Chalet,Calle la Traviata 33,319000,5
+Piso,Calle Caballería 1,107500,2
+Piso,Calle Laguna 15,118100,2
+Chalet,Calvario 21,95000,3
 Chalet,Haya s/n,369000,3
- 11,883870140,encina, 11
- 7,883870992,Plaza de la Iglesia, 7
- 35 -25,883870992,Calle Onésimo Redondo, 35 -25
- 7,883870992,Calle Amargura, 7
- 1,883870140,Iglesia, 1
- 1,883870140,júpiter, 1
- 3,883870992,Avenida de Salamanca, 3
- 1,883870140,Carretera de Ampudia Quintanilla Corcos de Valladolid, 1
- 4,883870992,Posito, 4
- 23,883870140,Núñez de Arce, 23
- 5,883870140,Francisco Suárez, 5
+Chalet,encina 11,900000,3
+Chalet,Plaza de la Iglesia 7,15000,4
+Chalet,Calle Onésimo Redondo 35 -25,95000,4
+Chalet,Calle Amargura 7,99500,4
+Chalet,Iglesia 1,187500,5
+Piso,júpiter 1,210000,3
+Piso,Avenida de Salamanca 3,290000,3
+Chalet,Carretera de Ampudia Quintanilla Corcos de Valladolid 1,990000,6
+Casa Rural,Posito 4,29855,3
+Piso,Núñez de Arce 23,440000,4
+Piso,Francisco Suárez 5,143000,2
 Chalet,Plaza Exconvento s/n,1800000,6
 Duplex,Calle Estadio s/n,495000,3
 Chalet,Haya s/n,374000,3
@@ -1425,82 +1425,81 @@ Chalet,Covaresa s/n,299900,4
 Piso,Avenida de Gijón,165000,3
 Ático,Covaresa s/n,280000,3
 Piso,General Almirante s/n,250000,5
- 8,883870975,Calle Fuente, 8
+Chalet,Calle Fuente 8,34000,1
 Chalet,Plaza Mayor s/n,380000,5
- 1,883870140,El Soto, 1
- 2,883870992,Norte, 2
- 35,883870992,encinas, 35
- 111,883870992,Calle de Villabañez, 111
+Chalet,El Soto 1,320000,5
+Casa Rural,Norte 2,57000,6
+Chalet,encinas 35,115000,2
+Chalet,Calle de Villabañez 111,60000,3
 Chalet,Aldeamayor Gol s/n,307000,3
 Chalet,El Pichón s/n,450000,5
 Chalet,Aldeamayor Golf s/n,260000,3
 Chalet,Parquesol s/n,475000,5
- 1,883870140,Calle Labradores, 1
+Piso,Calle Labradores 1,179900,3
 Chalet,El Soto s/n,259000,4
- 3,883870992,Calle la Cárcava, 3
- 2, cinco dormitorios, dos baños y cocina. Construcción del año 1986, con una superficie construida de 203m² y 152m² útiles
+Chalet,Calle la Cárcava 3,95000,3
+Piso,Calle Subida Camino de las Bodegas 2,140000,5
 Chalet,Cañada Real s/n,339900,4
- 111,883870992,Calle de Villabañez, 111
+Chalet,Calle de Villabañez 111,60000,3
 Chalet,Aldeamayor Golf s/n,367000,5
 Chalet,Aldeamayor Golf s/n sn,227000,4
- 2, cinco dormitorios, dos baños y cocina. Construcción del año 1986, con una superficie construida de 203m² y 152m² útiles
+Piso,Calle Subida Camino de las Bodegas 2,140000,5
 Chalet,Plaza Exconvento s/n,1800000,6
 Chalet,Las Salinas s/n,295000,3
 Chalet,Aldeamayor Gol s/n,307000,3
- 20,883870975,Calle Colonia, 20
-Chalet, y encimera de silestone en blanco. El salón de 31,40 m², tiene un precioso mirador frontal con forma semi hexagonal. Desde el salón dos puertas
+Chalet,Calle Colonia 20,468000,4
 Chalet,Pago La Barca s/n,390000,4
- 4,883870140,Poniente, 4
- 3,883870992,Calle la Cárcava, 3
- 5,883870140,Francisco Suárez, 5
+Piso,Poniente 4,269870,3
+Chalet,Calle la Cárcava 3,95000,3
+Piso,Francisco Suárez 5,143000,2
 Chalet,Simancas s/n,525000,5
- 36,883870992,Plaza Mayor de la Hispanidad, 36
- 39,883870140,Hospital Militar, 39
+Piso,Plaza Mayor de la Hispanidad 36,164900,3
+Piso,Hospital Militar 39,320000,5
 Chalet,Covaresa s/n,299900,4
- 30,883870140,Nicolás Salmerón, 30
+Piso,Nicolás Salmerón 30,147000,3
 Ático,Covaresa s/n,280000,3
 Chalet,Plaza Mayor s/n,380000,5
 Piso,Calle Cabo Noval,95000,3
- 21,919383175,Calle Urraca, 21
+Piso,Calle Urraca 21,55500,3
 Piso,Calle VALLADOLID,106000,3
 Piso,Calle de Portillo de Balboa,118000,3
 Chalet,Quintanilla de Onésimo,150000,4
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
+Duplex,Calle Santuario 2,693663,3
+Piso,Calle Santuario 2,510316,3
 Piso,Calle Marcos Salgueiro,99000,3
- 2,883870445,Calle Santuario, 2
+Piso,Calle Santuario 2,391433,2
 Piso,Peñafiel,63000,4
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
- 2,883870445,Calle Santuario, 2
- 1,623038349,Calle Pozo, 1
+Piso,Calle Santuario 2,553782,3
+Duplex,Calle Santuario 2,822910,4
+Duplex,Calle Santuario 2,614857,4
+Duplex,Calle Santuario 2,698173,3
+Piso,Calle Santuario 2,325602,1
+Duplex,Calle Santuario 2,727135,4
+Casa Rural,Calle Pozo 1,1950,0
 Piso,Calle de Ebanistería,185000,1
 Casa Rural,La Pedrera - Valdunquillo,32000,5
 Piso,Calle de Ebanistería,185000,1
- 22,883870488,CL-601, 22
- 12,883870488,Calle Paraíso, 12
- 17,883870488,Calle Expósitos, 17
- 14,883870488,Calle Gamazo, 14
+Casa Rural,CL-601 22,560000,4
+Duplex,Calle Paraíso 12,664900,4
+Duplex,Calle Expósitos 17,850000,4
+Piso,Calle Gamazo 14,170000,1
 Piso,Calle Aragoneses,80000,3
- 18,883870488,Paseo de Zorrilla, 18
- 5,883870488,Calle Santiago Ramón y Cajal, 5
- 4,883870488,Calle de los Moros, 4
+Piso,Paseo de Zorrilla 18,840000,5
+Chalet,Calle Santiago Ramón y Cajal 5,499000,4
+Piso,Calle de los Moros 4,241500,3
 Chalet,Calle Teniente Velasco,55000,3
 Piso,Calle NUEVA DEL CUARTEL,60700,3
 Chalet,Calle Teniente Velasco,32000,2
 Piso,Calle Luis Cernuda  s/n,145000,3
 Piso,Fausto Herrero,80000,2
- 43,-,Calle de Labradores, 43
- 49,883870488,Calle Severo Ochoa, 49
-Chalet, formados y habilitados profesionalmente para ayudarte a encontrar la mejor opción conforme a tus necesidades. Santovenia de Pisuerga ha sido elegida para la construcción de la fabrica de autobuses eléctricos, con un potencial de 2000 empleos, Switch Mobility
+Piso,Calle de Labradores 43,147000,3
+Chalet,Calle Severo Ochoa 49,480000,7
+Chalet,Calle Fuente de la Pioja,165000,4
 Piso,Calle Luis Cernuda  s/n,149000,3
 Piso,Calle Luis Cernuda  s/n,141000,3
 Piso,GABRIEL Y GALAN,92500,3
 Piso,Calle Luis Cernuda  s/n,141000,3
- 31,883870488,Calle Núñez de Arce, 31
+Ático,Calle Núñez de Arce 31,595000,4
 Piso,Calle de la Nube de Magallanes s/n,189000,3
 Piso,Calle de la Nube de Magallanes s/n,200000,3
 Piso,Calle de la Nube de Magallanes s/n,161000,2
@@ -1512,37 +1511,37 @@ Chalet,Abelardo Conde,170000,4
 Piso,Calle de la Nube de Magallanes s/n,167000,2
 Piso,Calle de la Nube de Magallanes s/n,196000,3
 Piso,Calle de la Nube de Magallanes s/n,155000,2
- 1,883870488,Avenida Gloria Fuertes, 1
+Piso,Avenida Gloria Fuertes 1,360000,5
 Chalet,Calle Ventanica,60000,5
 Piso,Calle Guadalquivir,130000,3
- 6, con sólo moverte por la pantalla del ordenador, tablet o smartphone, de forma divertida e interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste
- 6,883870257,Carretera Benavente, 6
- 19,883870257,Calle de Hernando de Acuña, 19
+Piso,Calle Paulina Harriet 6,165000,4
+Chalet,Carretera Benavente 6,165000,4
+Piso,Calle de Hernando de Acuña 19,235000,3
 Piso,Centro,210000,4
- 5,883870913,Fuente el Cristo, 5
+Piso,Fuente el Cristo 5,89000,2
 Piso,Centro,210000,4
- 79,883870529,Caamaño, 79
+Piso,Caamaño 79,65500,3
 Piso,Calle Kilimanjaro,169000,2
- 12,883870992,Calle Pasión, 12
-Piso, gimnasio, supermercados, transporte público
- 8,883870358,Calle valladolid, 8
+Chalet,Calle Pasión 12,23500,4
+Piso,Calle de Joaquín Velasco Martín,74900,3
+Chalet,Calle valladolid 8,116000,1
 Chalet,Calle Huertas,52000,4
 Piso,Avenida Cardenal Torquemada s/n,282500,3
- 2,883870437,Calle Independencia 10 & Calle García Valladolid, 2
+Piso,Calle Independencia 10 & Calle García Valladolid 2,192000,1
 Piso,Avenida Cardenal Torquemada s/n,214500,2
 Piso,Avenida Cardenal Torquemada s/n,218500,3
- 27,883870376,Calle Alcaparra, 27
+Ático,Calle Alcaparra 27,222000,2
 Piso,Calle Mirabel,76500,2
 Piso,Avenida Cardenal Torquemada s/n,337000,4
- 5,883870610,GENERAL VARELA, 5
+Chalet,GENERAL VARELA 5,45000,4
 Piso,Avenida Cardenal Torquemada s/n,286500,3
 Piso,Calle Hornija,63000,3
- 1,883870627,Calle Enrique IV, 1
- 7,883870488,Calle Marina de Escobar, 7
+Piso,Calle Enrique IV 1,165000,3
+Piso,Calle Marina de Escobar 7,230000,2
 Chalet,Corcos,49000,3
 Piso,Zaratan,105000,2
 Chalet,La Victoria - El Cabildo,259900,3
- 170,883870992,Calle Real, 170
+Chalet,Calle Real 170,75900,1
 Casa Rural,Roturas,90000,3
 Chalet,Calle Peñafiel,200000,4
 Chalet,Castrillo-Tejeriego,83000,3
@@ -1553,148 +1552,148 @@ Piso,Centro,1275000,3
 Piso,Callejón de la Alcoholera s/n,301000,3
 Piso,Callejón de la Alcoholera s/n,251000,3
 Piso,Callejón de la Alcoholera s/n,254000,3
- 23,883870627,Calle las Moradas, 23
- Parcela,"ULTIMAS VIVIENDAS! OBRAS INICIADAS! . “RESIDENCIAL TERRAZAS DE LA VICTORIA” situado en el Paseo del Obregón esquina con Calle Anís y Frambuesa, junto a la Avenida de Burgos y al Parque Jardín Botánico La Victoria en la zona de Puente Jardín, a un paso del centro de la ciudad y en un entorno con todos los servicios, englobado en el barrio de La Victoria, rodeado de amplios espacios verdes y zonas de recreo, un privilegio para los amantes del deporte y la naturaleza. Viviendas de 2, 3 y 4 dormitorios con espectaculares terrazas y excelentes vistas, preciosa zona privada de unos 2.300 m2, con césped natural, piscina, zona de juegos infantiles, sala comunitaria con zona gourmet, cuarto de bicis, baños adaptados y vestuarios. Un complejo residencial innovador y eficiente, con certificación energética A y acabados de lujo. Calefacción mediante suelo radiante – refrescante (Aerotermia), armarios empotrados revestidos y cocinas totalmente equipadas. Nuestros clientes podrán elegir diferentes tipos de alicatados para baños, color de muebles y de encimeras en las cocinas, diferentes colores de suelos laminados, incluso en algunos casos pequeños cambios en la distribución, sin que ello suponga un aumento de precio. Para ampliar la información sobre nuestro nuevo proyecto, le atenderemos en nuestra oficina de ventas en C/ Correos nº 9 bajo, Valladolid.",883870095,Sector 5
- 3,883870140,san julián, 3
+Chalet,Calle las Moradas 23,256000,3
+Piso,Sector 5 Parcela 11,256600,3
+Casa Rural,san julián 3,750000,26
 Piso,Calle del Caño,68400,2
 Piso,Callejón de la Alcoholera s/n,206000,2
 Piso,Callejón de la Alcoholera s/n,275000,3
 Piso,Callejón de la Alcoholera s/n,301000,3
- 3,883870140,san julián, 3
+Casa Rural,san julián 3,750000,26
 Piso,Calle Cistérniga,95000,3
 Piso,Calle Padre Manjón,90000,2
- 25,627928721,Calle portugal, 25
- 16,883870397,Avenida de Gijón, 16
+Chalet,Calle portugal 25,760000,5
+Piso,Avenida de Gijón 16,114000,3
 Ático,Callejón de la Alcoholera,165000,2
 Chalet,urbanización La Vega s/n,300000,3
 Piso,Calle Júpiter,82900,3
 Chalet,Camino del Caño,285000,4
- 22,883870369,Camino Apeadero, 22
+Chalet,Camino Apeadero 22,152000,4
 Piso,Calle del Cardenal Torquemada,85000,2
 Chalet,Malvasia,219000,2
- 2,883870488,Calle Domingo Martínez, 2
+Piso,Calle Domingo Martínez 2,355900,4
 Chalet,Calle Tinto País,149000,4
- 32,646917447,Arco de San Francisco, 32
- 7,625540220,Calle Isaac Peral, 7
+Piso,Arco de San Francisco 32,89000,5
+Piso,Calle Isaac Peral 7,140000,2
 Chalet,Calle Los Lienzos,25000,3
 Piso,La Rubia,218000,2
- 60, con sólo moverte por la pantalla del ordenador, tablet o smartphone, de forma interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste.  Su parcela de 1000 METROS CUADRADOS es la joya de esta vivienda
- 19,883870717,Calle Dojuelo, 19
- 76,883870082,Camino Viejo de Simancas, 76
- 1,883870144,Callejón de la Alcoholera, 1
- 76,883870082,Camino Viejo de Simancas, 76
- 1,883870144,Callejón de la Alcoholera, 1
+Chalet,rio duero 60,289000,3
+Piso,Calle Dojuelo 19,115000,2
+Chalet,Camino Viejo de Simancas 76,464000,4
+Piso,Callejón de la Alcoholera 1,257000,3
+Chalet,Camino Viejo de Simancas 76,464000,4
+Piso,Callejón de la Alcoholera 1,300000,3
 Piso,Callejón de la Alcoholera  s/n,285000,3
 Piso,Callejón de la Alcoholera  s/n,325000,4
 Chalet,Calle Batuecas,58000,3
 Piso,Callejón de la Alcoholera  s/n,255000,3
 Chalet,Castrejon,295000,5
 Piso,Callejón de la Alcoholera  s/n,266000,3
- 1,883870144,Callejón de la Alcoholera, 1
- 76,883870082,Camino Viejo de Simancas, 76
- 37,883870488,Paseo Obregón, 37
- 1,666931856,Calle Nueva Cañada, 1
- 1,883870144,Callejón de la Alcoholera, 1
- 76,883870082,Camino Viejo de Simancas, 76
+Ático,Callejón de la Alcoholera 1,339000,3
+Chalet,Camino Viejo de Simancas 76,456000,4
+Piso,Paseo Obregón 37,282000,4
+Chalet,Calle Nueva Cañada 1,130000,4
+Piso,Callejón de la Alcoholera 1,210000,2
+Chalet,Camino Viejo de Simancas 76,448000,4
 Piso,Callejón de la Alcoholera  s/n,270000,3
- 43,883870739,Calle las Bodegas, 43
- 1,883870627,Calle Francisco de Quevedo, 1
- 7,883870840,Calle Felipe Sánchez Román, 7
- 1,883870627,Calle Cilla, 1
- 21,670952762,Calle Tamo, 21
- 1,883870627,Calle Francisco de Quevedo, 1
- 1,883870627,Calle Rollo, 1
- 43,883870739,Calle las Bodegas, 43
+Chalet,Calle las Bodegas 43,265000,4
+Chalet,Calle Francisco de Quevedo 1,206000,3
+Piso,Calle Felipe Sánchez Román 7,210000,3
+Chalet,Calle Cilla 1,99000,4
+Duplex,Calle Tamo 21,120000,2
+Chalet,Calle Francisco de Quevedo 1,206000,3
+Chalet,Calle Rollo 1,252900,3
+Chalet,Calle las Bodegas 43,265000,4
 Casa Rural,Villafrechos,45000,10
- 2,883870257,Calle de Mateo Seoane Sobral, 2
- 1,661549661,Calle Otero, 1
+Piso,Calle de Mateo Seoane Sobral 2,199000,4
+Casa Rural,Calle Otero 1,12000,3
 Piso,Callejón de la Alcoholera  s/n,263000,3
- 39,883870180,Carretera de la Mota, 39
+Piso,Carretera de la Mota 39,152000,3
 Piso,Callejón de la Alcoholera  s/n,270000,3
- 18,883870908,MARÍA DE MOLINA, 18
+Piso,MARÍA DE MOLINA 18,350000,3
 Piso,Calle Gabilondo,227000,4
 Piso,Calle Miguel Jadraque Sánchez-Ocaña,159000,3
- 44,883870775,Avenida Madrid, 44
- 8,883870257,Calle Doce de Octubre, 8
+Piso,Avenida Madrid 44,99000,1
+Piso,Calle Doce de Octubre 8,146000,3
 Chalet,Calle de la Presentación,179000,6
- 154,883870488,Paseo Juan Carlos I, 154
- 33,883870341,Calle General Shelly, 33
- 6,883870341,Morena, 6
- 40,883870666,Calle de Labradores, 40
+Chalet,Paseo Juan Carlos I 154,299000,3
+Piso,Calle General Shelly 33,79500,3
+Piso,Morena 6,175000,3
+Piso,Calle de Labradores 40,189900,2
 Chalet,monte negron,175000,3
 Chalet,Carretera de la Mota,271500,3
 Piso,Zorrilla,526700,3
- 10,883870918,Calle Cardenal Mendoza, 10
+Piso,Calle Cardenal Mendoza 10,175000,3
 Piso,Calle Narciso Alonso Cortés,115000,3
 Chalet,Apostol Lucas,325000,2
- 3,883870488,Calle López de Legazpi, 3
+Chalet,Calle López de Legazpi 3,398000,5
 Chalet,Calle la Traviata,272000,4
 Piso,Calle Nebrija,88500,3
- 10, con sólo moverte por la pantalla del ordenador, tablet o smartphone y de forma divertida e interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste, lo que proporciona una experiencia única. CABE DESTACAR de esta vivienda. 1 - Dispone de PORTERO FISICO
- 1,883870913,María Moliner, 1
+Piso,Calle Juan de Juni 10,115000,2
+Piso,María Moliner 1,429000,4
 Piso,Calle del Iris,89000,2
 Piso,Avenida del Estadio,164900,3
 Piso,Plaza Mayor,160000,2
- 85,883870341,Paseo de Zorrilla, 85
- Laguna De Duero,883870397,VICTORIA KENT, LAGUNA DE DUERO
+Piso,Paseo de Zorrilla 85,199000,3
+Chalet,VICTORIA KENT LAGUNA DE DUERO,330000,4
 Piso,Calle Luis Cernuda  s/n,155000,3
- 10,883870341,montesa, 10
+Piso,montesa 10,129000,2
 Piso,Carbonero,126000,3
 Chalet,Tudela de Duero,200000,4
- 20,883870488,Calle Duque de la Victoria, 20
- 6,883870488,Calle Colón, 6
+Piso,Calle Duque de la Victoria 20,615000,4
+Piso,Calle Colón 6,300000,5
 Chalet,Camino Apeadero,79900,3
- Valladolid,883870785,Calle Villamarciel, Valladolid
+Piso,Calle Villamarciel Valladolid,174900,2
 Piso,Calle Trilla,200000,3
 Chalet,Calle Tierra de Pinares,270000,4
- 43,883870488,Extrarradio Diseminados, 43
+Chalet,Extrarradio Diseminados 43,520000,4
 Duplex,Calle Francisco Vitoria,124000,3
- 85,883870341,Paseo de Zorrilla, 85
+Piso,Paseo de Zorrilla 85,199000,3
 Piso,Calle Luis Cernuda  s/n,155000,3
- 70,883870488,Calle Capuletti, 70
-Piso, un cuarto de baño con bañera y ventana, salón y cocina. Cuenta con dos terrazas, una es cerrada y la otra de estilo mirador esquinero.  Buena altura. La vivienda se encuentra en muy buen estado de conservación y de uso ya que ha sido parcialmente reformada. Pintura gotelé
+Chalet,Calle Capuletti 70,394000,5
+Piso,Calle Tahonas,139000,3
 Piso,Calle de Gabilondo,219900,4
 Piso,Calle de Panaderos,199000,5
- 10,883870341,Calle de la Salud, 10
+Piso,Calle de la Salud 10,125000,3
 Chalet,Calle Alcalde Baldomero Redondo,119000,4
- 12,883870341,ALONSO OJEDA, 12
- 26,883870488,Calle del Monasterio del Paular, 26
- 4,625889353,Calle de las Bodegas, 4
- 80,883870488,Paseo de las Acacias-Pichón, 80
- Laguna De Duero,883870397,VICTORIA KENT, LAGUNA DE DUERO
- 26,883870488,Calle del Monasterio del Paular, 26
+Duplex,ALONSO OJEDA 12,155500,3
+Ático,Calle del Monasterio del Paular 26,227000,1
+Ático,Calle de las Bodegas 4,140000,3
+Chalet,Paseo de las Acacias-Pichón 80,400000,5
+Chalet,VICTORIA KENT LAGUNA DE DUERO,330000,4
+Piso,Calle del Monasterio del Paular 26,270000,2
 Piso,Calle Luis Cernuda  s/n,151000,3
- 10,883870341,montesa, 10
+Piso,montesa 10,129000,2
 Piso,Calle Pío Baroja,225000,3
- 38,656366390,Médulas, 38
- 8,883870488,Calle Antigua, 8
- 1,883870341,Parcela 5120, 1
- 13,883870488,Calle Ciudad de la Habana, 13
+Chalet,Médulas 38,299900,5
+Piso,Calle Antigua 8,700000,4
+Chalet,Parcela 5120 1,186000,4
+Piso,Calle Ciudad de la Habana 13,198000,2
 Piso,Calle Goya,128440,3
- 6,883870488,Calle Sorolla, 6
- 5,883870257,Calle del Arco, 5
- 86,883870559,Calle Montiano y Luyando, 86
-Piso, colegios, supermercados, zonas verdes y deportivas.. . Opcion ideal tanto como vivienda habitual como para invertir.  Piso de unos 97 metros construidos. 2 dormitorios
+Chalet,Calle Sorolla 6,290000,4
+Piso,Calle del Arco 5,358160,3
+Piso,Calle Montiano y Luyando 86,239000,2
+Piso,Calle Juan García Hortelano,167000,2
 Piso,Calle de la Alcaparra s/n,231800,2
- 86,883870559,Calle Montiano y Luyando, 86
+Piso,Calle Montiano y Luyando 86,250000,2
 Piso,Calle de la Alcaparra s/n,257900,3
- 86,883870559,Calle Montiano y Luyando, 86
+Piso,Calle Montiano y Luyando 86,219000,2
 Piso,Calle del Monasterio de Santa María de Montserrat,179000,2
 Piso,Urbanización Lavaderos s/n,154000,2
- 86,883870559,Calle Montiano y Luyando, 86
+Piso,Calle Montiano y Luyando 86,239000,2
 Chalet,Calle Real,43000,2
 Piso,Calle de la Alcaparra s/n,257900,3
- 86,883870559,Calle Montiano y Luyando, 86
+Ático,Calle Montiano y Luyando 86,319000,3
 Chalet,Calle Morral,245000,3
- 86,883870559,Calle Montiano y Luyando, 86
- 2,883870488,Calle Doctrinos, 2
+Piso,Calle Montiano y Luyando 86,235000,2
+Piso,Calle Doctrinos 2,570000,4
 Piso,Calle Aneto s/n,291000,4
-Piso, colegios, supermercados, zonas verdes y deportivas.. . Opcion ideal tanto como vivienda habitual como para invertir.  Piso de unos 97 metros construidos. 2 dormitorios
- 5,883870257,Calle del Arco, 5
+Piso,Calle Juan García Hortelano,167000,2
+Piso,Calle del Arco 5,358160,3
 Chalet,Camino a Arroyo,260000,3
 Piso,Calle Embajadores,49000,2
 Piso,Calle de la Alcaparra s/n,174900,1
- 86,883870559,Calle Montiano y Luyando, 86
+Piso,Calle Montiano y Luyando 86,219000,2
 Piso,Calle Granada,117500,2
 Piso,Calle Luis González Lefort s/n,264600,3
 Chalet,Calle de la Alcaparra s/n,389000,4
@@ -1704,32 +1703,32 @@ Piso,Calle de la Alcaparra s/n,231800,2
 Piso,Calle Aneto s/n,291200,4
 Piso,Calle Aneto s/n,271900,3
 Chalet,perales,325800,5
- 9,661990283,Calle Imperial, 9
- 6,883870488,Calle San Martín, 6
+Piso,Calle Imperial 9,189000,3
+Piso,Calle San Martín 6,348000,2
 Piso,Calle Luis González Lefort s/n,291100,3
 Piso,Calle Jose María Lacort,229000,3
 Piso,Calle de la Cigüeña,126000,4
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,535000,3
 Chalet,Calle de la Nube de Magallanes s/n,319000,3
 Chalet,Calle de la Nube de Magallanes s/n,309000,3
 Piso,Calle Boston s/n,274000,4
 Piso,Calle Ecuador,59000,3
 Piso,Calle de la Cigüeña,104000,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,225000,1
 Piso,Calle Italia,150000,4
 Chalet,Calle Tras Escuelas,34000,3
 Piso,Calle Tórtola,103000,3
 Ático,Calle Luis González Lefort s/n,261700,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,435000,3
 Piso,Calle Boston s/n,229000,2
 Piso,Calle Pedro de la gasca,155000,3
 Chalet,Calle de la Nube de Magallanes s/n,319000,3
 Piso,Calle Imperial,98000,3
 Piso,Calle Boston s/n,274000,3
- 15,883870093,Lope de vega, 15
- 6,883870488,Calle San Martín, 6
+Piso,Lope de vega 15,85000,4
+Piso,Calle San Martín 6,355000,2
 Chalet,Calle Tras Escuelas,34000,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,349000,2
 Piso,Calle de la Cigüeña,126000,4
 Chalet,Carretera Villabañez,225000,4
 Piso,Calle Padre Francisco Suárez,290000,4
@@ -1737,65 +1736,65 @@ Piso,Calle Luis González Lefort s/n,206700,3
 Piso,Calle Italia,150000,4
 Piso,Calle Esperanto,168000,3
 Chalet,Calle de la Nube de Magallanes s/n,309000,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,199000,1
 Piso,Calle Luis González Lefort s/n,293700,4
- 6,883870488,Calle San Martín, 6
- 12,883870093,Plaza MAYOR, 12
+Piso,Calle San Martín 6,359000,2
+Chalet,Plaza MAYOR 12,90000,4
 Piso,Calle de la Cigüeña,104000,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,535000,3
 Piso,Calle Boston s/n,249000,3
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,348000,2
 Chalet,Calle de la Nube de Magallanes s/n,299000,3
 Piso,Calle Boston s/n,274000,4
 Piso,Conde de Ribadeo,220000,3
 Chalet,Calle Libertad,64900,4
- 6,883870257,Paseo Pérez de Ayala, 6
+Estudio,Paseo Pérez de Ayala 6,60000,0
 Chalet,Calle de la Nube de Magallanes s/n,309000,3
- 6,883870488,Calle San Martín, 6
- 6,883870488,Calle San Martín, 6
+Piso,Calle San Martín 6,599000,4
+Piso,Calle San Martín 6,445000,3
 Piso,Conde de Benavente,145000,3
 Piso,Calle Boston s/n,205000,2
 Piso,Calle Boston s/n,254000,3
 Piso,Calle Don Sancho,185000,4
- 16,883870189,Calle de la Zanfona, 16
- 2,883870257,Peru, 2
- 2,883870257,Calle ITALIA, 2
- 112,883870840,sabinares de la arlanza, 112
+Piso,Calle de la Zanfona 16,128000,2
+Piso,Peru 2,339000,5
+Chalet,Calle ITALIA 2,720000,5
+Chalet,sabinares de la arlanza 112,165000,4
 Chalet,Calle Santa Maria,53000,3
- 4,883870463,Calle José María Lacort, 4
+Piso,Calle José María Lacort 4,229000,3
 Piso,QUEVEDO,115000,3
- 14, La planta sotano se compone de una amplia bodega con chimena, zona de comedor con gran cabida. Cocina amueblada, aseo y cuarto de almacen. Acceso directo a la parcela. Esta planta cuenta tambien con un garaje para dos coches con puerta automática. La planta principal cuenta con una entrada ccon terraza a modo de patio delantero y porche posterior acristalado y acceso a la paracela. Ya
- 16,883870189,Calle de la Zanfona, 16
- 2,883870257,Peru, 2
- 95,883870257,Calle Monasterio de San Pedro de Alcántara, 95
- 27, con sólo moverte por la pantalla del ordenador, tablet o smartphone y de forma divertida e interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste, lo que proporciona una experiencia única. La VIVIENDA está situada en una primera planta de la CALLE PEÑA VIEJA nº27
- 1,883870189,PAVO REAL, 1
- 23,883870908,Calle BARBECHO, 23
- 34,883870510,Avenida Valladolid, 34
- 2,883870189,Calle Morena, 2
- 27, con sólo moverte por la pantalla del ordenador, tablet o smartphone, de forma interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste. El Chalet cuenta con 3 alturas
-Piso, cuatro dormitorios con armarios empotrado, dos baños y cocina con galería. Vivienda muy luminosa toda exterior a paseo zorrilla. Cuenta con calefacción central con contadores individuales, suelos de parquet
- 17, salón, cocina,  baño y despensa  Portal reformado con ascensor Gastos de comunidad: 50€ Zona donde poder disfrutar de la tranquilidad
+Chalet,Paseo acacias 14,340000,7
+Piso,Calle de la Zanfona 16,128000,2
+Piso,Peru 2,339000,5
+Chalet,Calle Monasterio de San Pedro de Alcántara 95,675000,3
+Piso,883870414,Calle de Peña Vieja 27,154000
+Piso,PAVO REAL 1,79000,4
+Piso,Calle BARBECHO 23,195000,4
+Piso,Avenida Valladolid 34,129000,2
+Piso,Calle Morena 2,169900,4
+Chalet,alfonso III el magno 27,210000,3
+Piso,ZORRILLA Nº 49,380000,4
+Piso,SAN LAZARO 17,79000,3
 Piso,luis alonso,49990,3
- 1,883870841,del cabo noval, 1
- 5,883870257,cervantes, 5
- 6,883870283,Calle Veinte de Febrero, 6
- 4,883870992,Calle Luna, 4
- 41,883870208,Paseo de zorrilla, 41
- 1  i, barrio de Valladolid muy próximo a paseo zorrilla   La vivienda en estado de reforma consta de 104 m2 perfectamente distribuidos en 4 dormitorios, 2 baños, salón
- 44,883870840,Calle de Portillo de Balboa, 44
- 1,883870189,ISLAS BALEARES, 1
+Piso,del cabo noval 1,95000,4
+Piso,cervantes 5,65000,4
+Piso,Calle Veinte de Febrero 6,315000,5
+Piso,Calle Luna 4,150000,1
+Piso,Paseo de zorrilla 41,315000,4
+Piso,Calle Parque Arturo León 1  I,160000,4
+Piso,Calle de Portillo de Balboa 44,153500,3
+Piso,ISLAS BALEARES 1,137000,3
 Piso,Glorieta del Descubrimiento,180000,4
- 12,883870189,santa clara, 12
- 7,883870510,Federico Riera Marsa, 7
- 6,883870841,Plaza gutierrez, 6
- 100, con sólo moverte por la pantalla del ordenador, tablet o smartphone, de forma interactiva podremos observar el espacio que nos rodea como si estuviésemos dentro de la vivienda permitiendo que podamos movernos libremente por éste.  La vivienda al ser un chalet individual
- 14,883870189,Antonio Ulloa, 14
+Piso,santa clara 12,110000,3
+Duplex,Federico Riera Marsa 7,150000,4
+Piso,Plaza gutierrez 6,84000,3
+Chalet,rio tajo 100,320000,5
+Piso,Antonio Ulloa 14,205000,3
 Casa Rural,Calle Real,1170000,3
 Piso,Arco de Ladrillo,139000,3
- 11,883870780,MERCEDES, 11
- 23,883870510,Extrarradio Diseminados, 23
- 5,883870225,Calle del Muérdago, 5
+Piso,MERCEDES 11,220000,2
+Chalet,Extrarradio Diseminados 23,300000,6
+Piso,Calle del Muérdago 5,147000,3
 Piso,Calle Gamazo,1200000,4
 Chalet,Calle Coco s/n,437951,5
- 54,883870277,Paseo Arco de Ladrillo, 54
+Piso,Paseo Arco de Ladrillo 54,289900,3
