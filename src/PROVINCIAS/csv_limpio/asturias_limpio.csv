@@ -1,4 +1,4 @@
-C. Autonoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
+C. Autónoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
 Principado de Asturias,Asturias,Chalet,Profesor Pimentel 822,1800.0,8,6900000
 Principado de Asturias,Asturias,Chalet,Cangas del Narcea s/n,607.0,29,6000000
 Principado de Asturias,Asturias,Casa Rural,diseminado s/n,297.0,7,4000000
@@ -1751,7 +1751,7 @@ Principado de Asturias,Asturias,Chalet,lazana,164.0,5,350000
 Principado de Asturias,Asturias,Chalet,belmonte,223.0,6,350000
 Principado de Asturias,Asturias,Chalet,Camino de la Ferreria,130.0,4,350000
 Principado de Asturias,Asturias,Chalet,Avenida Fernandez Castro,424.0,5,350000
-Principado de Asturias,Asturias,nan,881350396,426.0,9,cudillero
+Principado de Asturias,Asturias,,881350396,426.0,9,cudillero
 Principado de Asturias,Asturias,Piso,barrio Centro - Puerto,80.0,3,350000
 Principado de Asturias,Asturias,Chalet,Lugar Cuadrovena 46,5000.0,5,350000
 Principado de Asturias,Asturias,Chalet,Jardin de Cantos - El Nodo,3.275,3,350000

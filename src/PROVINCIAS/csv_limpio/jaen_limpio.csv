@@ -1,1801 +1,1801 @@
-C. Autonoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
-Andalucia,Jaen,Chalet,La Guardia de Jaen,500,3,250000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,96,3,130000
-Andalucia,Jaen,Chalet,Calle Manuel de Falla 6,286,7,590000
-Andalucia,Jaen,Chalet,Calle Ubeda,173,5,115000
-Andalucia,Jaen,Chalet,Los Villares,195,4,113000
-Andalucia,Jaen,Chalet,Calle Conde Mejorada,255,7,140000
-Andalucia,Jaen,Piso,Calle Obispo Alonso Suarez,157,4,189900
-Andalucia,Jaen,Piso,Calle Armando Palacio Valdes,115,3,69500
-Andalucia,Jaen,Piso,Via Augusta,136,4,105000
-Andalucia,Jaen,Chalet,JV-7003,152,4,165000
-Andalucia,Jaen,Chalet,Calle Alberquilla,155,4,900000
-Andalucia,Jaen,Chalet,Calle Eras,121,4,175000
-Andalucia,Jaen,Chalet,Calle B,177,5,449000
-Andalucia,Jaen,Chalet,diseminado,0,18,772500
-Andalucia,Jaen,Piso,Avenida Valencia,99,3,80000
-Andalucia,Jaen,Duplex,Calle Goya 10,140,4,245000
-Andalucia,Jaen,Chalet,francisco cobos 8,134,4,79900
-Andalucia,Jaen,Piso,Calle Bernabe Soriano 24,120,3,230000
-Andalucia,Jaen,Piso,Avenida de Madrid 49,109,3,239000
-Andalucia,Jaen,Chalet,Plaza Ciudad Jardin 12,177,5,150000
-Andalucia,Jaen,Chalet,Reyes catolicos 14,140,3,105000
-Andalucia,Jaen,Piso,Avenida Andalucia 101,131,4,69000
-Andalucia,Jaen,Piso,Ronda Juez Juan Ruiz Rico 1,61,2,143000
-Andalucia,Jaen,Piso,Calle Torrecillas 22,94,3,88000
-Andalucia,Jaen,Chalet,Calle Santo Rostro 2,158,4,210000
-Andalucia,Jaen,Piso,Lopera,121,4,85000
-Andalucia,Jaen,Piso,Centro Ciudad,129,4,120000
-Andalucia,Jaen,Chalet,Bailen,163,5,750000
-Andalucia,Jaen,Chalet,Arjona,110,3,210000
-Andalucia,Jaen,Chalet,Ubeda,72,2,520000
-Andalucia,Jaen,Piso,La Carolina,82,3,35500
-Andalucia,Jaen,Piso,Calle Ejido Bajo 21,136,3,69900
-Andalucia,Jaen,Piso,Calle Jaime I el Conquistador,60,2,44000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,131,4,78000
-Andalucia,Jaen,Piso,Calle Linares,181,3,290000
-Andalucia,Jaen,Piso,Calle San Andres,97,3,42500
-Andalucia,Jaen,Chalet,Calle Santa Maria,740,10,80000
-Andalucia,Jaen,Chalet,Calle Matilla,356,8,450000
-Andalucia,Jaen,Chalet,Calle Santa Lucia,21,5,300000
-Andalucia,Jaen,Piso,Paseo de la Estacion,250,4,240000
-Andalucia,Jaen,Piso,Paseo de la Estacion,250,4,240000
-Andalucia,Jaen,Chalet,Calle Obispo Cobos 45,221,6,460000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,130,4,160000
-Andalucia,Jaen,Piso,Calle Maria Auxiliadora,90,4,85000
-Andalucia,Jaen,Piso,Calle San Clemente,77,2,87000
-Andalucia,Jaen,Chalet,Calle Cerro Algibillo 2,242,6,280000
-Andalucia,Jaen,Piso,Paseo de la Estacion 42,162,5,169000
-Andalucia,Jaen,Chalet,Cronista Ruiz Prieto 8,74,3,29900
-Andalucia,Jaen,Chalet,Calle Santo Cristo 8,73,2,55000
-Andalucia,Jaen,Chalet,Calle el Mulero 10,127,4,135000
-Andalucia,Jaen,Duplex,Federica Montseny 6,110,3,99000
-Andalucia,Jaen,Chalet,Calle Real 105,216,6,138000
-Andalucia,Jaen,Piso,Calle los Molinos 6,99,3,89500
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,82,3,52000
-Andalucia,Jaen,Chalet,Calle Nieves,215,6,40000
-Andalucia,Jaen,Chalet,Calle San Juan de la Cruz 28,283,4,240000
-Andalucia,Jaen,Chalet,Notario Alfonso Luis Sanchez Fernandez,167,5,350000
-Andalucia,Jaen,Piso,Doctor Eduardo Arroyo,15,4,130000
-Andalucia,Jaen,Piso,Alcala la Real,184,3,130000
-Andalucia,Jaen,Chalet,Pintor Francisco Banos,107,3,360000
-Andalucia,Jaen,Piso,Calle Francisco Coello 31 con Pilar de la Imprenta 8  s/n,99,3,200000
-Andalucia,Jaen,Piso,Calle Fuente del Alamillo,75,2,139000
-Andalucia,Jaen,Duplex,Los Villares,104,3,160000
-Andalucia,Jaen,Chalet,Calle Santo Rostro s/n,134,4,84900
-Andalucia,Jaen,Chalet,Calle Munoz Garnica 11,244,4,295000
-Andalucia,Jaen,Piso,Calle Forjadores 12,69,2,79900
-Andalucia,Jaen,Piso,Calle Ancha 35,87,3,62500
-Andalucia,Jaen,Chalet,Calle Condestable Davalos 3,142,4,139900
-Andalucia,Jaen,Piso,Calle Arjona 2,109,3,58000
-Andalucia,Jaen,Piso,Calle Villacarrillo 19,99,3,68000
-Andalucia,Jaen,Chalet,Calle Vina Lozano 34,722,4,339000
-Andalucia,Jaen,Piso,Calle Forjadores 12,119,3,105000
-Andalucia,Jaen,Piso,Andujar 7,100,4,79900
-Andalucia,Jaen,Piso,Paseo de la Estacion 2,104,3,138000
-Andalucia,Jaen,Piso,Calle Cuatro Torres 4,134,3,150000
-Andalucia,Jaen,Piso,Avenida Libertad 44,90,3,82000
-Andalucia,Jaen,Piso,Avenida Libertad 13,120,4,67000
-Andalucia,Jaen,Chalet,Calle Caballerizo 20,262,4,99900
-Andalucia,Jaen,Chalet,Calle Pintor Orbaneja 6,375,10,375000
-Andalucia,Jaen,Piso,Avenida Antonio Machado 9,86,3,36000
-Andalucia,Jaen,Piso,Calle Ancha 35,116,3,62500
-Andalucia,Jaen,Chalet,Calle Condestable Davalos 3,141,4,139900
-Andalucia,Jaen,Chalet,Calle Caballerizo 20,262,4,99900
-Andalucia,Jaen,Piso,Calle Cuatro Torres 4,134,3,150000
-Andalucia,Jaen,Chalet,Calle Victoria 12,99,3,89000
-Andalucia,Jaen,Piso,Calle Emperador Carlos 90,74,2,76000
-Andalucia,Jaen,Piso,Avenida de la Constitucion 6,119,3,85000
-Andalucia,Jaen,Chalet,Calle fuente de las risas 20,130,2,110000
-Andalucia,Jaen,Piso,Pasaje Nueva Victoria 3,96,3,115000
-Andalucia,Jaen,Piso,Avenida Libertad 44,90,3,82000
-Andalucia,Jaen,Piso,Calle Forjadores 12,68,2,79900
-Andalucia,Jaen,Chalet,Calle Horno de San Millan,149,4,150000
-Andalucia,Jaen,Chalet,Calle Maestro Bartolome,100,5,95000
-Andalucia,Jaen,Piso,Calle Alaminos 20,184,5,85000
-Andalucia,Jaen,Piso,Paseo de Espana 50,25,4,184500
-Andalucia,Jaen,Piso,Avenida de Andalucia,88,3,125000
-Andalucia,Jaen,Piso,Calle Toro,62,2,65500
-Andalucia,Jaen,Chalet,Calle Los Cortijillos 2,102,3,499000
-Andalucia,Jaen,Piso,Calle Capitan Liebana 14,120,3,99000
-Andalucia,Jaen,Chalet,Calle Camilo Jose Cela,74,2,140000
-Andalucia,Jaen,Piso,Avenida de Andalucia,134,4,99000
-Andalucia,Jaen,Piso,Calle Munoz Garnica,54,1,79000
-Andalucia,Jaen,Chalet,JV-3222,30404,7,550000
-Andalucia,Jaen,Chalet,Carretera de Otinar,147,4,64000
-Andalucia,Jaen,Piso,Calle Sagasta,133,4,78000
-Andalucia,Jaen,Piso,Calle Cruz,115,3,65000
-Andalucia,Jaen,Piso,Avenida de Andalucia,102,3,100000
-Andalucia,Jaen,Piso,Av Libertad 20,94,3,79000
-Andalucia,Jaen,Piso,Calle Jorge Mercado 10,56,1,65000
-Andalucia,Jaen,Piso,Calle Ancha,169,4,150000
-Andalucia,Jaen,Chalet,Renfe - Bulevar 1o y 2o Fase,235,6,375000
-Andalucia,Jaen,Chalet,Calle General Castanos,117,3,102000
-Andalucia,Jaen,Piso,Calle Republica Argentina,70,2,76000
-Andalucia,Jaen,Casa Rural,Puerta de la Hombria,188,5,50000
-Andalucia,Jaen,Casa Rural,Avenida Felix Rodriguez de la Fuente,4800,7,1496000
-Andalucia,Jaen,Piso,Calle Corredera San Bartolome,95,3,49900
-Andalucia,Jaen,Piso,Calle Alta,70,2,52000
-Andalucia,Jaen,Chalet,Calle de Valencia,497,8,199000
-Andalucia,Jaen,Atico,Calle Trinidad,182,5,110000
-Andalucia,Jaen,Atico,Avenida Ramon y Cajal s/n,150,4,200000
-Andalucia,Jaen,Atico,Calle Trinidad,182,5,110000
-Andalucia,Jaen,Piso,NAVAS DE TOLOSA 2,195,4,230000
-Andalucia,Jaen,Chalet,Nogueruela,691,13,200000
-Andalucia,Jaen,Piso,Avenida DE GRANADA 24,116,4,125000
-Andalucia,Jaen,Chalet,Ubeda,1500,4,149000
-Andalucia,Jaen,Piso,Plaza de San Bartolome 1,166,5,135000
-Andalucia,Jaen,Casa Rural,Calle General Prim,140,3,75000
-Andalucia,Jaen,Chalet,Cazorla,347,4,320000
-Andalucia,Jaen,Chalet,Calle Riscos 3,75,2,59900
-Andalucia,Jaen,Duplex,Calle Emperador Carlos 90,104,3,129900
-Andalucia,Jaen,Piso,Calle Cazorla 31,74,2,57000
-Andalucia,Jaen,Piso,Mancha Real,130,3,89000
-Andalucia,Jaen,Piso,Calle Republica Argentina,96,3,87300
-Andalucia,Jaen,Piso,Republica Argentina,87,3,84500
-Andalucia,Jaen,Chalet,Calle Santo Bastian,70,3,70000
-Andalucia,Jaen,Chalet,Calle Emperador Carlos 7,195,4,111500
-Andalucia,Jaen,Piso,Calle Virgen del Rosario 32,113,3,70000
-Andalucia,Jaen,Chalet,Calle las Rosas,406,5,290000
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,90,3,223958
-Andalucia,Jaen,Chalet,Carretera de Cordoba,237,6,340000
-Andalucia,Jaen,Casa Rural,Castillo de Locubin,233,6,85000
-Andalucia,Jaen,Piso,Sorihuela del Guadalimar,76,2,229000
-Andalucia,Jaen,Casa Rural,Castillo de Locubin,230,6,85000
-Andalucia,Jaen,Casa Rural,Segura de la Sierra,220,6,260000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,100,4,145000
-Andalucia,Jaen,Piso,Calle Lizaderas,75,2,145000
-Andalucia,Jaen,Duplex,Torredelcampo,80,3,66000
-Andalucia,Jaen,Piso,Calle Montero Moya,62,2,59850
-Andalucia,Jaen,Piso,Plaza de la Macarena,72,4,188000
-Andalucia,Jaen,Chalet,Villardonpardo,123,4,56000
-Andalucia,Jaen,Chalet,Gran Capitan,106,3,58000
-Andalucia,Jaen,Piso,Mancha Real,125,3,110000
-Andalucia,Jaen,Chalet,Torres,199,5,39000
-Andalucia,Jaen,Piso,Mancha Real,102,3,68000
-Andalucia,Jaen,Piso,Mancha Real,143,3,80000
-Andalucia,Jaen,Chalet,Calle Garcia Morato,118,3,59900
-Andalucia,Jaen,Chalet,Calle Maria de Molina,376,4,180000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,60,2,58000
-Andalucia,Jaen,Piso,Hospital,133,4,280000
-Andalucia,Jaen,Piso,cava,80,2,74950
-Andalucia,Jaen,Piso,Colon,118,3,150000
-Andalucia,Jaen,Piso,Bailen,113,3,31000
-Andalucia,Jaen,Piso,Bailen,102,3,24300
-Andalucia,Jaen,Piso,Avenida de Granada,151,4,164000
-Andalucia,Jaen,Atico,Corredera Capuchinos,105,3,74500
-Andalucia,Jaen,Chalet,Calle Palmeras,205,6,59900
-Andalucia,Jaen,Chalet,Calle Sedeno,85,3,89000
-Andalucia,Jaen,Piso,Avenida Granada,101,3,190000
-Andalucia,Jaen,Piso,Calle Fuente de la Salud,154,4,189000
-Andalucia,Jaen,Piso,La Paz-Las Americas,140,4,40900
-Andalucia,Jaen,Chalet,San Bartolome - Millan de Priego,229,6,79900
-Andalucia,Jaen,Piso,Centro Ciudad,165,3,99000
-Andalucia,Jaen,Atico,Belen - San Roque,110,4,199500
-Andalucia,Jaen,Chalet,Alcala la Real,234,6,280000
-Andalucia,Jaen,Casa Rural,Alcala la Real,105,3,40000
-Andalucia,Jaen,Piso,Alcala la Real,104,3,120000
-Andalucia,Jaen,Piso,Alcala la Real,83,3,120000
-Andalucia,Jaen,Casa Rural,Embalse de aguascebas s/n,5222,4,450000
-Andalucia,Jaen,Chalet,Carretera valdepenas,86,3,166000
-Andalucia,Jaen,Chalet,Calle Conde Antillon 43,264,7,74100
-Andalucia,Jaen,Piso,Belen - San Roque,102,3,85000
-Andalucia,Jaen,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,64,2,90000
-Andalucia,Jaen,Chalet,Carretera nacional Bailen-Motril,118,3,189000
-Andalucia,Jaen,Chalet,Avenida Guadalquivir,221,6,17366
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,157,4,59900
-Andalucia,Jaen,Casa Rural,Quesada,20000,4,230000
-Andalucia,Jaen,Chalet,Quesada,20000,4,230000
-Andalucia,Jaen,Piso,Calle Maestro Cebrian,148,4,155000
-Andalucia,Jaen,Piso,Calle Real 43,94,3,25900
-Andalucia,Jaen,Piso,Guadalquivir,73,2,115000
-Andalucia,Jaen,Piso,Calle Fuente del Alamillo,41,1,89000
-Andalucia,Jaen,Piso,Torredonjimeno,140,4,150000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,117,3,87000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,107,3,39000
-Andalucia,Jaen,Piso,Betania,87,3,60000
-Andalucia,Jaen,Chalet,Calle Cojos 21,125,4,16300
-Andalucia,Jaen,Chalet,Calle Nueva 8,109,3,15000
-Andalucia,Jaen,Piso,Calle San Juan 19,98,3,115000
-Andalucia,Jaen,Piso,JUAN NOGALES,54,1,90000
-Andalucia,Jaen,Piso,Avenida andalucia,110,3,129000
-Andalucia,Jaen,Casa Rural,Calle Pontones 8,160,4,45000
-Andalucia,Jaen,Chalet,Calle Sol 59,99,3,59000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,120,3,37300
-Andalucia,Jaen,Chalet,Alcala la Real,134,4,59000
-Andalucia,Jaen,Chalet,Torredonjimeno,84,3,85000
-Andalucia,Jaen,Chalet,Calle los Calerines,32,3,89068
-Andalucia,Jaen,Chalet,EL SALVADOR esquina GENERAL LARIO PEREZ s/n,142,4,170000
-Andalucia,Jaen,Piso,Calle Rio Genil,101,3,52000
-Andalucia,Jaen,Piso,Calle Manuel Caballero Venzala,158,4,310000
-Andalucia,Jaen,Duplex,Plaza Jaen Por la Paz,171,5,380000
-Andalucia,Jaen,Piso,Calle Tinajeros,106,3,145000
-Andalucia,Jaen,Piso,Avenida Granada,148,4,170000
-Andalucia,Jaen,Piso,Calle Guadalquivir,61,2,115000
-Andalucia,Jaen,Piso,Paseo de Espana,139,4,330000
-Andalucia,Jaen,Chalet,Calle Carolina,97,3,195000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa s/n,65,2,186000
-Andalucia,Jaen,Piso,Avenida de Madrid s/n,90,3,159000
-Andalucia,Jaen,Chalet,Calle los Calerines,32,3,272979
-Andalucia,Jaen,Chalet,Calle Real 88,243,6,290000
-Andalucia,Jaen,Piso,Paseo de la Estacion s/n,152,4,96000
-Andalucia,Jaen,Piso,Calle Santa Maria del Valle,76,3,44900
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,100,3,69000
-Andalucia,Jaen,Duplex,Belen - San Roque,87,2,135000
-Andalucia,Jaen,Chalet,Alcantarilla - La Glorieta,1200,3,210000
-Andalucia,Jaen,Chalet,Renfe - Bulevar 1o y 2o Fase,30,6,370000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,111,3,120000
-Andalucia,Jaen,Chalet,Calle Miguel Hernandez,120,3,90000
-Andalucia,Jaen,Piso,Centro Ciudad,110,4,74000
-Andalucia,Jaen,Piso,Calle Daoiz,126,4,75000
-Andalucia,Jaen,Piso,Calle Marques de Cabrinana,126,4,48000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,133,4,80000
-Andalucia,Jaen,Piso,Calle Raphael,141,3,106000
-Andalucia,Jaen,Chalet,Callejon alcaide,152,3,130000
-Andalucia,Jaen,Casa Rural,Avenida Valencia,283,7,525000
-Andalucia,Jaen,Piso,Calle ceron,95,3,145000
-Andalucia,Jaen,Chalet,Alcantarilla - La Glorieta,80,2,39000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,73,3,80000
-Andalucia,Jaen,Chalet,Begijar,106,3,750000
-Andalucia,Jaen,Chalet,Begijar,155,4,1049000
-Andalucia,Jaen,Duplex,Calle Juan Ruiz Gonzalez,77,3,189000
-Andalucia,Jaen,Chalet,Arrayanes,232,4,106000
-Andalucia,Jaen,Piso,Calle Alejandro Plaza Fernandez,75,2,54000
-Andalucia,Jaen,Chalet,El Valle - Universidad,158,4,200000
-Andalucia,Jaen,Chalet,Plaza Egido Minas 54,114,3,45000
-Andalucia,Jaen,Piso,Plaza de la Constitucion 17,86,3,35000
-Andalucia,Jaen,Piso,Calle Juan XXIII 47,143,4,45000
-Andalucia,Jaen,Chalet,Calle a Ua-1 5,156,4,180000
-Andalucia,Jaen,Chalet,Calle Ramon y Cajal 9,156,4,123000
-Andalucia,Jaen,Piso,Hospital,139,4,110000
-Andalucia,Jaen,Chalet,San Ildefonso - Catedral,119,3,99900
-Andalucia,Jaen,Piso,Plaza Nueva,157,4,950000
-Andalucia,Jaen,Piso,Calle Armando Palacio Valdes,115,3,69500
-Andalucia,Jaen,Piso,Calle Adarves Altos,67,2,99000
-Andalucia,Jaen,Piso,Calle Pintor Pablo Picasso,92,3,36000
-Andalucia,Jaen,Piso,Centro Ciudad,97,3,89000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,110,4,149900
-Andalucia,Jaen,Chalet,Los Villares,127,4,225000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,94,3,95000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,73,3,133000
-Andalucia,Jaen,Chalet,Calle los Calerines,32,3,94842
-Andalucia,Jaen,Piso,La Guardia de Jaen,105,3,115000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,90,3,85000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,84,3,115000
-Andalucia,Jaen,Chalet,Calle penuelas,207,4,18500
-Andalucia,Jaen,Chalet,Arjonilla,184,5,240000
-Andalucia,Jaen,Piso,Banos de la Encina,150,4,265000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,76,2,39000
-Andalucia,Jaen,Chalet,Baeza,659,20,800000
-Andalucia,Jaen,Piso,Calle Almodovar,78,2,53000
-Andalucia,Jaen,Piso,La Paz-Las Americas,111,3,37300
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1700,6,155000
-Andalucia,Jaen,Piso,Belen - San Roque,41,1,90000
-Andalucia,Jaen,Piso,Belen - San Roque,70,2,125000
-Andalucia,Jaen,Chalet,Calle Madrono,68,2,49000
-Andalucia,Jaen,Duplex,Calle Jaen 2,225,7,170000
-Andalucia,Jaen,Chalet,Calle Penuelas 20,199,5,65000
-Andalucia,Jaen,Piso,Calle Casas Nuevas 2,68,2,102000
-Andalucia,Jaen,Atico,Calle Miguel de Unamuno,113,3,37000
-Andalucia,Jaen,Chalet,Calle Maestra,159,4,29000
-Andalucia,Jaen,Chalet,Calle Clara Campoamor 18,189,5,450000
-Andalucia,Jaen,Piso,Calle Nunez de Balboa,15,4,68000
-Andalucia,Jaen,Chalet,Jabalcuz,244,6,258000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,160,4,180000
-Andalucia,Jaen,Chalet,Camino de Bellavista 2 B Bis,120,4,450000
-Andalucia,Jaen,Chalet,Calle Ramon y Cajal,150,4,20000
-Andalucia,Jaen,Piso,Calle Agustin Rodenas 3,114,3,75000
-Andalucia,Jaen,Piso,Avenida Eduardo Garcia Maroto 20,112,4,169000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,70,2,90000
-Andalucia,Jaen,Piso,CRONISTA GONZALEZ LOPEZ 3,102,3,275000
-Andalucia,Jaen,Piso,Avenida madrid s/n,63,1,85000
-Andalucia,Jaen,Chalet,Calle Cobatillas Bajas,134,4,75000
-Andalucia,Jaen,Piso,Avenida de Andalucia s/n,79,2,227000
-Andalucia,Jaen,Piso,Avenida de Andalucia s/n,104,3,229200
-Andalucia,Jaen,Piso,Avenida de Andalucia s/n,91,3,245000
-Andalucia,Jaen,Piso,Calle Ondeanos,111,3,45000
-Andalucia,Jaen,Chalet,Calle Veracruz,103,3,31000
-Andalucia,Jaen,Duplex,Baeza,116,3,150000
-Andalucia,Jaen,Casa Rural,DOCTOR FLEMING 23,171,5,54000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,86000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,91000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,4,117000
-Andalucia,Jaen,Chalet,San Roque - La Cruz - La Rozuela,102,3,129000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,98000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,96000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,85000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,97000
-Andalucia,Jaen,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,4,111000
-Andalucia,Jaen,Chalet,Callejon de la Fuente,59,1,25000
-Andalucia,Jaen,Piso,Villacarrillo,122,4,80000
-Andalucia,Jaen,Piso,Paseo de la Estacion 31,105,3,153000
-Andalucia,Jaen,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,109,3,120000
-Andalucia,Jaen,Piso,Calle Murcia 51,113,3,50000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,100,3,159000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,76,2,107000
-Andalucia,Jaen,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1500,4,210000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,177,3,150000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,120,3,120000
-Andalucia,Jaen,Piso,cristobal colon,114,3,72500
-Andalucia,Jaen,Piso,Plaza Santo Domingo 4,98,3,87000
-Andalucia,Jaen,Chalet,Diseminado Huerta de los Pobres s/n,3000,4,230000
-Andalucia,Jaen,Chalet,Diseminado Huerta de los Pobres s/n,3000,4,230000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,70,2,107000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,70,3,95000
-Andalucia,Jaen,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,101,3,120000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,177,3,150000
-Andalucia,Jaen,Piso,Calle Poeta Leon Felipe 2,98,3,35900
-Andalucia,Jaen,Chalet,La Alcaparrosa s/n,198,5,175000
-Andalucia,Jaen,Chalet,Villardompardo,94,3,205000
-Andalucia,Jaen,Chalet,Calle General Espartero 21,621,12,105000
-Andalucia,Jaen,Piso,Calle Malaga 8,80,3,50000
-Andalucia,Jaen,Piso,Calle malaga 8,120,3,50000
-Andalucia,Jaen,Piso,Calle Real,82,3,85000
-Andalucia,Jaen,Piso,Calle Corredera,73,2,48000
-Andalucia,Jaen,Chalet,Calle Verdiales,108,3,39000
-Andalucia,Jaen,Piso,Calle Real,104,3,85000
-Andalucia,Jaen,Chalet,Villacarrillo,308,5,130000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,200,6,229000
-Andalucia,Jaen,Piso,Martos,76,2,130000
-Andalucia,Jaen,Piso,Avenida de Barcelona,128,4,128000
-Andalucia,Jaen,Chalet,Villacarrillo,159,4,60000
-Andalucia,Jaen,Chalet,Calle sebastian el cano 50,160,5,50000
-Andalucia,Jaen,Chalet,Urbanizacion Arroyovil,60,3,99900
-Andalucia,Jaen,Chalet,Calle Calzada,92,3,62000
-Andalucia,Jaen,Chalet,LA MERCED,173,5,37500
-Andalucia,Jaen,Piso,Calle el Aladrero,87,3,82000
-Andalucia,Jaen,Casa Rural,Ctra Circunvalacion - La Magdalena,1187,1,19000
-Andalucia,Jaen,Chalet,Calle Ronda 2,25,4,159000
-Andalucia,Jaen,Chalet,Calle Primero de Mayo,135,4,29000
-Andalucia,Jaen,Chalet,Carretera de Cazorla,147,4,12000
-Andalucia,Jaen,Piso,Calle San Francisco,95,3,49000
-Andalucia,Jaen,Piso,Calle Julio Burell 13,136,3,150000
-Andalucia,Jaen,Chalet,Calle Manuel Manzano Garcia,109,3,33000
-Andalucia,Jaen,Piso,Calle Conde de Torreanaz,112,3,47000
-Andalucia,Jaen,Piso,Calle San Francisco,100,3,55500
-Andalucia,Jaen,Chalet,Calle solana,115,3,66000
-Andalucia,Jaen,Chalet,Carretera Bailen-Motril s/n km 42,7500,4,245000
-Andalucia,Jaen,Chalet,Avenida de Pozo Ancho,167,5,122000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,70,2,55000
-Andalucia,Jaen,Piso,Calle Fuente la Reja,150,4,115000
-Andalucia,Jaen,Chalet,Comunidad El Infante,170,5,240000
-Andalucia,Jaen,Piso,Calle Luis Braille,90,3,80000
-Andalucia,Jaen,Chalet,Carretera Bailen-Motril,200,5,390000
-Andalucia,Jaen,Chalet,Calle Casas del Campo s/n,282,6,106000
-Andalucia,Jaen,Chalet,Plaza la Magdalena,93,3,49900
-Andalucia,Jaen,Piso,Avenida del Parque,112,3,64900
-Andalucia,Jaen,Piso,Calle Ingeniero Jose Maria Almendral Lucas,99,3,144900
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,81,3,100000
-Andalucia,Jaen,Chalet,Comunidad El Infante,182,5,240000
-Andalucia,Jaen,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1800,3,176000
-Andalucia,Jaen,Piso,Calle del Cardenal Marcelo Spinola,48,1,78000
-Andalucia,Jaen,Piso,Calle Cid Campeador 14,91,3,95000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,103,3,91000
-Andalucia,Jaen,Piso,Calle Juan Francisco Garcia Martinez ESQUINA calle Diego Cabrera s/n,100,3,83000
-Andalucia,Jaen,Chalet,Calle Coronel Costilla esquina Doctor Larios Carrasco 1,270,7,130000
-Andalucia,Jaen,Chalet,Avenida Juan Carlos I,278,7,119900
-Andalucia,Jaen,Piso,Doctor Fleming,102,3,125000
-Andalucia,Jaen,Piso,Avenida Manolo Gomez Bur 7,126,4,53000
-Andalucia,Jaen,Chalet,Travesia Segunda Bobadilla Alta,111,3,54900
-Andalucia,Jaen,Piso,Calle San Francisco,82,3,49000
-Andalucia,Jaen,Chalet,Calle Doctor Gavilan Eguren s/n,167,5,95000
-Andalucia,Jaen,Piso,Avenida de Andalucia,146,4,149900
-Andalucia,Jaen,Piso,Paseo de la Estacion,109,3,209900
-Andalucia,Jaen,Casa Rural,Calle cuenca 10,100,10,170000
-Andalucia,Jaen,Chalet,Calle Reventon,161,5,91000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa,99,3,250000
-Andalucia,Jaen,Piso,Calle Pilar de la Imprenta,76,2,62000
-Andalucia,Jaen,Atico,Calle Molino de Alcantarilla,118,3,75000
-Andalucia,Jaen,Chalet,Calle del Tiro Nacional (2a Travesia),177,5,199900
-Andalucia,Jaen,Piso,Calle San Francisco,120,3,55500
-Andalucia,Jaen,Chalet,Calle el Castillo 3,240,7,85000
-Andalucia,Jaen,Casa Rural,Puente de la Sierra 168,1100,4,150000
-Andalucia,Jaen,Chalet,Vereda Mengibar,125,4,102900
-Andalucia,Jaen,Piso,Ronda Astronomo Al-Jayyani,115,3,43500
-Andalucia,Jaen,Chalet,'Huelva,142,4,73000
-Andalucia,Jaen,Piso,Calle Santiago,74,2,34000
-Andalucia,Jaen,Piso,Calle Paquita Torres,119,3,7500
-Andalucia,Jaen,Piso,Torredonjimeno,128,4,90000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,110,4,42000
-Andalucia,Jaen,Piso,Avenida Ruiz Jimenez,143,4,180000
-Andalucia,Jaen,Piso,Calle General Marchesis,98,3,74000
-Andalucia,Jaen,Chalet,Calle Vicario,112,3,37000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,70,2,110000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,81,3,130000
-Andalucia,Jaen,Piso,Calle Gaudi,116,3,82688
-Andalucia,Jaen,Piso,eduardo garcia trivino 6,156,4,295000
-Andalucia,Jaen,5,919383261,197,5,Carretera de la Bola s/n Km 4
-Andalucia,Jaen,Piso,Paseo de la Estacion 27,157,4,170000
-Andalucia,Jaen,Chalet,San Sebastian 13,17185,4,100000
-Andalucia,Jaen,Chalet,Belen - San Roque,1500,4,2800000
-Andalucia,Jaen,Chalet,Calle Bolero,260,5,239000
-Andalucia,Jaen,Chalet,Camino de las Cumbres 11,131,4,297000
-Andalucia,Jaen,Piso,Avenida de Barcelona s/n,102,3,190000
-Andalucia,Jaen,Piso,BAEZA 56,12,3,26900
-Andalucia,Jaen,Chalet,Calle Jose Zamora s/n,195,5,43000
-Andalucia,Jaen,Piso,Avenida de Granada,121,4,239000
-Andalucia,Jaen,Piso,Avenida HISTORIADOR RUS DE LA PUERTA esquina CALLE MOREDAL s/n,103,3,50000
-Andalucia,Jaen,Chalet,Calle Alamillo,268,5,285000
-Andalucia,Jaen,Chalet,Arroyovil,118,3,109000
-Andalucia,Jaen,Casa Rural,Calle Ubeda,450,6,199999
-Andalucia,Jaen,Chalet,Calle Canovas del Castillo Ponton,294,6,180000
-Andalucia,Jaen,Chalet,Puente de la Sierra 122,1277,10,268000
-Andalucia,Jaen,Piso,Calle Ruiz Romero 13,100,3,69800
-Andalucia,Jaen,Chalet,Calle Bastetania 2,16,3,150000
-Andalucia,Jaen,Piso,Plaza Mayor 11,120,3,80000
-Andalucia,Jaen,Chalet,953970124,28000,420000,PARAJE LA MELLA SITIO ALMODOVAR 190
-Andalucia,Jaen,Piso,Calle Cid Campeador,94,3,135000
-Andalucia,Jaen,Piso,Calle Maria Bellido 119,84,3,42000
-Andalucia,Jaen,Piso,Calle Juan Salcedo Guillen 1,88,3,56000
-Andalucia,Jaen,Chalet,Baeza,230,4,230000
-Andalucia,Jaen,Piso,Avenida Manolo Gomez Bur 48,105,3,51000
-Andalucia,Jaen,Chalet,Jabalcuz,152,4,260000
-Andalucia,Jaen,Piso,Calle Diecinueve de Julio 142,83,3,29000
-Andalucia,Jaen,Atico,Paseo Virgen de Linarejos,203,4,165000
-Andalucia,Jaen,Chalet,haras de arroyovil,120,3,98000
-Andalucia,Jaen,Chalet,Calle Canalejas,312,7,99500
-Andalucia,Jaen,Piso,Calle Sagunto,127,4,85000
-Andalucia,Jaen,Duplex,Calle la Cruz,134,5,105000
-Andalucia,Jaen,Chalet,Calle Carcel,216,3,15000
-Andalucia,Jaen,Piso,Calle del Pintor Carmelo Palomino,94,3,185000
-Andalucia,Jaen,Piso,Calle Isaac Peral,155,4,155000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,60,2,59900
-Andalucia,Jaen,Piso,Calle Julio Burell,146,5,75000
-Andalucia,Jaen,Chalet,Calle Republica Checa,91,5,202000
-Andalucia,Jaen,Chalet,Plaza San Miguel 8,344,8,77015
-Andalucia,Jaen,Piso,Paseo Marqueses de Linares,69,2,105000
-Andalucia,Jaen,Piso,Calle Maestro Cebrian,147,4,198000
-Andalucia,Jaen,Piso,Calle Reino Unido,95,2,105000
-Andalucia,Jaen,Chalet,Calle Capricho,2010,4,390000
-Andalucia,Jaen,Chalet,Calle Casillas de Prieto,186,4,87000
-Andalucia,Jaen,Piso,Calle Cid Campeador,125,4,69000
-Andalucia,Jaen,Piso,Calle Sagrada familia,147,4,110000
-Andalucia,Jaen,Piso,Avenida de Andalucia,152,4,140000
-Andalucia,Jaen,Chalet,Calle Diecinueve de Julio,148,5,35000
-Andalucia,Jaen,Piso,Calle Fray Cristobal Segado,130,4,35000
-Andalucia,Jaen,Chalet,Calle Antonio Romero Maroto,136,4,750000
-Andalucia,Jaen,Piso,Plaza Santo Domingo,86,3,95000
-Andalucia,Jaen,Chalet,Calle Carcel,216,3,15000
-Andalucia,Jaen,Piso,Calle Ubeda,137,4,78000
-Andalucia,Jaen,Piso,Calle Isaac Peral,137,4,155000
-Andalucia,Jaen,Duplex,Calle la Cruz,134,5,105000
-Andalucia,Jaen,Piso,Juan Castillo,111,3,99000
-Andalucia,Jaen,Piso,Calle Juanito Valderrama 4,104,3,170900
-Andalucia,Jaen,Chalet,virgen de Monserrat,144,4,150000
-Andalucia,Jaen,Piso,Avenida de Barcelona,108,3,140000
-Andalucia,Jaen,Piso,Calle Sagunto,154,4,85000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,78,2,89900
-Andalucia,Jaen,Chalet,Calle Canalejas,312,7,99500
-Andalucia,Jaen,Chalet,Calle Jardines,83,3,60000
-Andalucia,Jaen,Piso,Calle Islandia,104,3,138000
-Andalucia,Jaen,Chalet,Calle Capricho,113,3,245000
-Andalucia,Jaen,Piso,Callejon de las Flores,100,3,125000
-Andalucia,Jaen,Piso,Calle del Pintor Carmelo Palomino,105,3,185000
-Andalucia,Jaen,Atico,Paseo Virgen de Linarejos,203,4,165000
-Andalucia,Jaen,Piso,doctor gomez duran,95,4,72000
-Andalucia,Jaen,Chalet,Calle de Maria Carcel,135,4,44000
-Andalucia,Jaen,Piso,Calle Picadero II,93,3,80000
-Andalucia,Jaen,Atico,San Ildefonso - Catedral,102,3,125000
-Andalucia,Jaen,Duplex,Calle Lizaderas,102,3,190000
-Andalucia,Jaen,Chalet,Maestro Manuel Moya,134,4,165000
-Andalucia,Jaen,Chalet,Calle Doncellas 23 -3,546,6,190000
-Andalucia,Jaen,Chalet,Calle Almendros Aguilar 73,313,8,94900
-Andalucia,Jaen,Piso,ollerias,140,4,399500
-Andalucia,Jaen,Piso,Calle Jaen 18,198,4,32000
-Andalucia,Jaen,Chalet,Puente de la Sierra,282,7,299000
-Andalucia,Jaen,Chalet,Calle Real de San Fernando,183,5,67635
-Andalucia,Jaen,Piso,Plaza San Miguel,192,6,77015
-Andalucia,Jaen,Chalet,Calle navas de tolosa,231,3,99000
-Andalucia,Jaen,Piso,Calle Raphael,73,2,110000
-Andalucia,Jaen,Piso,Green peace 5,119,3,45000
-Andalucia,Jaen,Piso,Calle Alberca,160,4,280000
-Andalucia,Jaen,Chalet,Urbanizacion Campolivos,1270,5,450000
-Andalucia,Jaen,Chalet,Camino de la carraca s/n,274,7,250000
-Andalucia,Jaen,Chalet,Megatin s/n,10000,4,180000
-Andalucia,Jaen,Piso,Calle Arquitecto Antonio Florez Urdapilleta,113,3,170000
-Andalucia,Jaen,Chalet,Calle Doctor Carlos Carbonell,222,6,315000
-Andalucia,Jaen,Piso,Calle Mariano Segura,96,2,89000
-Andalucia,Jaen,Chalet,Calle Munoz Seca,22500,4,65000
-Andalucia,Jaen,Piso,Avenida ramon y cajal,144,4,125000
-Andalucia,Jaen,Chalet,Calle Trinidad,372,6,170000
-Andalucia,Jaen,Chalet,Calle Frontones s/n,90,3,47000
-Andalucia,Jaen,Duplex,Calle Vicente Montuno Morente,126,4,259000
-Andalucia,Jaen,Piso,Calle Republica Argentina,88,3,62000
-Andalucia,Jaen,Piso,Calle Ramon del Valle Inclan,33,4,33500
-Andalucia,Jaen,Piso,Avenida de granada s/n,55,1,72000
-Andalucia,Jaen,Chalet,Plaza de la Constitucion,74,4,35000
-Andalucia,Jaen,Piso,Calle Pintor Francisco Banos,107,3,173000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,141,4,78000
-Andalucia,Jaen,Piso,Calle Italia,80,4,85200
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,125,4,155000
-Andalucia,Jaen,Piso,Torredelcampo,110,4,78000
-Andalucia,Jaen,Chalet,Jaen,500,4,149950
-Andalucia,Jaen,Piso,Calle Ponton,102,3,119000
-Andalucia,Jaen,Piso,Avenida de Andalucia,4152,4,470000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,150,4,175000
-Andalucia,Jaen,Casa Rural,Calle Moya 41,106,3,24000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,85,3,64000
-Andalucia,Jaen,Piso,Plaza del doctor blanco najera,75,2,83000
-Andalucia,Jaen,Piso,Plaza de la constitucion,160,3,300000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,80,3,69900
-Andalucia,Jaen,Chalet,Paseo Primero de Mayo Jodar,508,10,370000
-Andalucia,Jaen,Piso,Guillen,60,2,50000
-Andalucia,Jaen,Piso,Calle Raphael,67,2,115000
-Andalucia,Jaen,Duplex,San Bartolome - Millan de Priego,127,4,99900
-Andalucia,Jaen,Piso,Melchor Cobo Medina,120,4,178000
-Andalucia,Jaen,Chalet,Paseo Primero de Mayo Jodar,427,10,370000
-Andalucia,Jaen,Piso,Plaza del Doctor Blanco Najera,100,3,89900
-Andalucia,Jaen,Casa Rural,Calle Moya 41,112,3,24000
-Andalucia,Jaen,Piso,Avenida Granada,117,3,105000
-Andalucia,Jaen,Piso,Calle Santa Marina 1,110,3,110000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,119,3,74000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,50,3,78000
-Andalucia,Jaen,Chalet,Penamefecit - Avda Barcelona,149,4,160000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,140,4,300000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,115,3,195000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,260,7,140000
-Andalucia,Jaen,Chalet,Pegalajar,170,4,130000
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,156,4,230000
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,158,4,230000
-Andalucia,Jaen,Piso,Teniente Ruano,77,2,29900
-Andalucia,Jaen,Piso,Calle Pedro Poveda s/n,90,4,75000
-Andalucia,Jaen,Chalet,Calle Colon 9,105,3,25200
-Andalucia,Jaen,Piso,Cuesta del Molinillo 8,61,3,65000
-Andalucia,Jaen,Casa Rural,la iglesia 17,301,8,85000
-Andalucia,Jaen,Piso,Calle Herreria 3,90,2,37900
-Andalucia,Jaen,Piso,Ondeanos 22,103,3,50000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,182,5,250000
-Andalucia,Jaen,Chalet,Calle Calzada 19,91,3,66500
-Andalucia,Jaen,Piso,La Paz-Las Americas,79,3,41000
-Andalucia,Jaen,Piso,Severo Ochoa 4,92,3,49900
-Andalucia,Jaen,Piso,Calle Ramon y Cajal 3,82,3,62000
-Andalucia,Jaen,Piso,Calle Real 80,88,3,85000
-Andalucia,Jaen,Chalet,Calle Cerrillo 16,88,3,20000
-Andalucia,Jaen,Chalet,Calle Reventon 30,183,5,36338
-Andalucia,Jaen,Piso,Calle Iberia 46,85,3,39900
-Andalucia,Jaen,Chalet,Calle Real de San Fernando 63,341,8,67635
-Andalucia,Jaen,Chalet,Plaza San Miguel,233,6,77015
-Andalucia,Jaen,Piso,Avenida de Andalucia,145,4,215000
-Andalucia,Jaen,Piso,Calle el Aladrero 4,100,3,85000
-Andalucia,Jaen,Chalet,Calle Huertas 15,80,2,61000
-Andalucia,Jaen,Piso,nuestra Senora de la Asuncion 64,135,4,57000
-Andalucia,Jaen,Piso,Calle Comisarios 1,94,3,49500
-Andalucia,Jaen,Piso,La Paz-Las Americas,79,3,41000
-Andalucia,Jaen,Piso,Calle Jaen 34,105,3,67528
-Andalucia,Jaen,Piso,Calle Ramon y Cajal 3,95,3,62000
-Andalucia,Jaen,Piso,Salvador Vicente de la Torre 4,107,3,85770
-Andalucia,Jaen,Piso,Calle Ramon y Cajal 10,78,2,65000
-Andalucia,Jaen,Piso,Calle Huelva 2,147,4,72000
-Andalucia,Jaen,Piso,Calle Real 80,112,3,85000
-Andalucia,Jaen,Piso,Calle de los Bomberos 3,109,3,100000
-Andalucia,Jaen,Chalet,Calle Miguel Cobo 25,86,3,30000
-Andalucia,Jaen,Chalet,Ciudad jardin,974,4,410000
-Andalucia,Jaen,Chalet,Calle Republica Argentina 46,97,3,50000
-Andalucia,Jaen,Piso,San Francisco 58,93,3,55500
-Andalucia,Jaen,Piso,Linarejos,102,3,55000
-Andalucia,Jaen,Chalet,Calle Jesus 9,141,4,32000
-Andalucia,Jaen,Piso,Aurea Galindo 67,75,2,55000
-Andalucia,Jaen,Chalet,Calle Reventon 30,163,5,36338
-Andalucia,Jaen,Chalet,Calle Cruz de la Magdalena 5,107,3,30000
-Andalucia,Jaen,Atico,Calle de Maria Carcel 22,120,3,44000
-Andalucia,Jaen,Chalet,Lorite 95,95,3,35000
-Andalucia,Jaen,Chalet,Calle Juanito el Practicante 15,104,3,72000
-Andalucia,Jaen,Chalet,Calle Huertas 15,64,2,61000
-Andalucia,Jaen,Piso,Severo Ochoa 4,117,3,49900
-Andalucia,Jaen,Piso,Calle Iberia 46,105,3,39900
-Andalucia,Jaen,Chalet,Calle Carniceria 5,498,20,290000
-Andalucia,Jaen,Chalet,Calle Gines de Perea 23,304,5,160000
-Andalucia,Jaen,Piso,Cuesta de San Juan 8,99,3,54000
-Andalucia,Jaen,Chalet,Calle Maestra,141,4,30000
-Andalucia,Jaen,Chalet,Avenida de Pozo Ancho 39,191,5,122000
-Andalucia,Jaen,Piso,Calle Torreanaz 13,82,3,49500
-Andalucia,Jaen,Piso,leon merino 15,70,2,53000
-Andalucia,Jaen,Piso,Cervantes 10,149,4,99000
-Andalucia,Jaen,Piso,Calle Arroyo de San Pedro,95,3,88000
-Andalucia,Jaen,Piso,Puerta de Madrid,140,4,92000
-Andalucia,Jaen,Piso,Calle Gabriel y Zamora 5,144,4,75000
-Andalucia,Jaen,Duplex,Calle Jaen 2,92,3,87900
-Andalucia,Jaen,Chalet,Calle Javier Cayuela Garcia,82,3,149000
-Andalucia,Jaen,Chalet,Carretera de la Ceramica,400,8,425000
-Andalucia,Jaen,Piso,Avenida de Andalucia 31,80,1,225000
-Andalucia,Jaen,Casa Rural,Carretera DE LA ALCAPARROSA,162,5,216000
-Andalucia,Jaen,Piso,Calle Torreanaz 13,117,3,49500
-Andalucia,Jaen,Piso,Calle Nunez de Balboa,15,4,63000
-Andalucia,Jaen,Atico,Calle Republica Argentina,115,3,287000
-Andalucia,Jaen,Duplex,Calle Jaen 2,100,3,87900
-Andalucia,Jaen,Piso,Cuesta de San Juan 8,85,3,54000
-Andalucia,Jaen,Chalet,Carretera de la Ceramica,400,8,425000
-Andalucia,Jaen,Chalet,Calle Miguel Estepa 8,90,3,100000
-Andalucia,Jaen,Piso,Belen - San Roque,85,3,99000
-Andalucia,Jaen,Piso,Calle Don Bosco s/n,145,4,220000
-Andalucia,Jaen,Chalet,Puerta de Martos,93,3,305000
-Andalucia,Jaen,Chalet,Calle Gredos 6,126,4,142000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,120,3,125000
-Andalucia,Jaen,Piso,Calle Explanada s/n,120,2,119000
-Andalucia,Jaen,Atico,Calle Empedrada de la Magdalena,92,3,86000
-Andalucia,Jaen,Piso,Calle San Mateo,79,2,32184
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,118,2,133931
-Andalucia,Jaen,Chalet,Calle Cerrillo,105,3,20000
-Andalucia,Jaen,Piso,Calle Martinez de la Rosa,102,3,42000
-Andalucia,Jaen,Piso,Calle PEREZ GALDOS 6,122,4,30000
-Andalucia,Jaen,Piso,Plaza GENERAL CASTANOS 12,154,4,79000
-Andalucia,Jaen,Chalet,Calle Alegria,41,1,10000
-Andalucia,Jaen,Piso,Calle Santa Clara,84,3,103500
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,10,3,49900
-Andalucia,Jaen,Piso,Avenida de la Habana,125,4,39000
-Andalucia,Jaen,Chalet,Calle San Gregorio 27,138,4,20000
-Andalucia,Jaen,Piso,Calle Veracruz s/n,62,2,30000
-Andalucia,Jaen,Chalet,San Ildefonso - Catedral,234,6,345000
-Andalucia,Jaen,Chalet,Torredelcampo,99,3,119900
-Andalucia,Jaen,Piso,Carretera Cordoba-Almeria 76,74,2,88000
-Andalucia,Jaen,Chalet,Calle Santa Clara,139,4,129000
-Andalucia,Jaen,Piso,Calle Cervantes,124,4,95000
-Andalucia,Jaen,Chalet,Calle de Federico Garcia Lorca 8,518,11,86000
-Andalucia,Jaen,Chalet,Calle Nunez de Balboa,119,3,61000
-Andalucia,Jaen,Piso,Calle Quevedo,112,3,63000
-Andalucia,Jaen,Piso,Calle murcia 53,87,3,80000
-Andalucia,Jaen,Piso,Calle Castelar 13,80,3,83000
-Andalucia,Jaen,Chalet,Antonio Machado 35,70,4,118500
-Andalucia,Jaen,Piso,Calle Republica Argentina,130,3,271000
-Andalucia,Jaen,Piso,Andujar,115,3,78000
-Andalucia,Jaen,Chalet,La Puerta de Segura,111,3,24000
-Andalucia,Jaen,Chalet,Calle de Federico Garcia Lorca 8,408,11,86000
-Andalucia,Jaen,Chalet,Calle el Centenillo,180,7,130000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,65,2,125000
-Andalucia,Jaen,Piso,Andujar,80,3,78000
-Andalucia,Jaen,Piso,Calle Quevedo,119,3,63000
-Andalucia,Jaen,Piso,Carretera Cordoba-Almeria 76,62,2,88000
-Andalucia,Jaen,Chalet,La Puerta de Segura,111,3,24000
-Andalucia,Jaen,Chalet,Calle Banos 38,76,2,89990
-Andalucia,Jaen,Chalet,Torredelcampo,117,3,119900
-Andalucia,Jaen,Chalet,Calle Reina Sofia,131,4,73600
-Andalucia,Jaen,Piso,Calle San Fernando,118,3,133931
-Andalucia,Jaen,Chalet,Calle Toscas,245,6,83000
-Andalucia,Jaen,Piso,Calle del Pintor Manuel Angeles Ortiz,92,3,155000
-Andalucia,Jaen,Chalet,Urbanizacion Jabalcuz,209,6,239000
-Andalucia,Jaen,Piso,Calle General Torrijos,76,2,66000
-Andalucia,Jaen,Chalet,Calle de Juan Ramon Jimenez,120,3,149900
-Andalucia,Jaen,Piso,Calle Carcel Vieja,101,3,61750
-Andalucia,Jaen,Piso,Calle Reina Sofia,80,2,46997
-Andalucia,Jaen,Piso,Plaza MUNOZ GARNICA,123,4,180000
-Andalucia,Jaen,Piso,Calle San Juan,105,3,46028
-Andalucia,Jaen,Piso,Calle Sagunto 17,139,3,109000
-Andalucia,Jaen,Chalet,Calle Cierzo 46,115,3,290000
-Andalucia,Jaen,Piso,Calle Antonio Molina,159,4,92900
-Andalucia,Jaen,Piso,Calle Las Mercedes,68,2,54000
-Andalucia,Jaen,Piso,Calle Justino Florez Llamas,135,4,164900
-Andalucia,Jaen,Piso,Paseo de la Alameda 22,90,3,87000
-Andalucia,Jaen,Piso,Calle Cazorla,155,4,79059
-Andalucia,Jaen,Chalet,PAREAJES LOS VADILLOS 20,1200,3,190000
-Andalucia,Jaen,Chalet,Calle Jodar s/n,210,4,180000
-Andalucia,Jaen,Chalet,Calle Nogal,13000,7,429900
-Andalucia,Jaen,Piso,Calle Valverde,89,3,150000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,10,2,72000
-Andalucia,Jaen,Casa Rural,Calle Egido,14000,6,270000
-Andalucia,Jaen,Chalet,Calle Martires,89,3,99750
-Andalucia,Jaen,Piso,Avenida Santo Reino,90,3,56430
-Andalucia,Jaen,Piso,Calle Bastetania,75,2,82365
-Andalucia,Jaen,Piso,Puente Palos,80,3,74900
-Andalucia,Jaen,Piso,Calle las Monjas,93,3,67450
-Andalucia,Jaen,Chalet,Calle Lorite,65,2,35000
-Andalucia,Jaen,Chalet,Villacarrillo,233,9,140000
-Andalucia,Jaen,Piso,Calle Las Mercedes,63,2,54000
-Andalucia,Jaen,Piso,Calle del Pintor Manuel Angeles Ortiz,94,3,155000
-Andalucia,Jaen,Piso,Avenida Santo Reino,114,3,56430
-Andalucia,Jaen,Piso,Calle las Monjas,104,3,67450
-Andalucia,Jaen,Piso,Calle Bastetania,75,2,82365
-Andalucia,Jaen,Piso,Puente Palos,96,3,74900
-Andalucia,Jaen,Chalet,Calle de Juan Ramon Jimenez,88,3,149900
-Andalucia,Jaen,Chalet,Calle Santiago 11,101,3,104000
-Andalucia,Jaen,Piso,Calle Vega,97,3,125000
-Andalucia,Jaen,Piso,Calle Martinez Molina,113,3,155000
-Andalucia,Jaen,Chalet,Pago de la Fraila,1600,3,260000
-Andalucia,Jaen,Piso,Calle Corredera de San Marcos,119,3,140000
-Andalucia,Jaen,Chalet,Calle de Maria Zambrano,98,3,114900
-Andalucia,Jaen,Chalet,Calle Tiro Nacional,40,3,180000
-Andalucia,Jaen,Chalet,Calle Gamonal 81,19,4,70000
-Andalucia,Jaen,Piso,Avenida la Paz,120,3,52000
-Andalucia,Jaen,Chalet,Calle Altozano Serrano Plato 3,83,3,144000
-Andalucia,Jaen,Chalet,Calle Jabalcuz,119,3,150000
-Andalucia,Jaen,Chalet,Calle Vera Cruz 74,96,3,72000
-Andalucia,Jaen,Piso,Calle Doctor Civera,69,2,119900
-Andalucia,Jaen,Piso,Calle Santa Maria del Valle,73,2,75000
-Andalucia,Jaen,Piso,Paseo de la Estacion,144,4,250000
-Andalucia,Jaen,Piso,Paseo de la Estacion,171,5,240000
-Andalucia,Jaen,Piso,Paseo de la Estacion,40,1,85000
-Andalucia,Jaen,Chalet,Urbanizacion Megatin,204,6,260000
-Andalucia,Jaen,Chalet,Urbanizacion Megatin 10,303,8,250000
-Andalucia,Jaen,Piso,Calle Mesa 12,16,4,210000
-Andalucia,Jaen,Duplex,Avenida Libertad 47,99,3,132000
-Andalucia,Jaen,Chalet,Carretera Bailen-Motril,7000,6,250000
-Andalucia,Jaen,Piso,Calle Pintor Alfonso Parras 16,132,4,122000
-Andalucia,Jaen,Chalet,Calle Hospital,204,6,205000
-Andalucia,Jaen,Chalet,Escuelas Ave Maria 15,187,5,135000
-Andalucia,Jaen,Duplex,Calle Maestro Palomino 3,110,2,123500
-Andalucia,Jaen,Piso,Calle Hurtado,160,5,180000
-Andalucia,Jaen,Chalet,Calle Telegrafos,197,5,39900
-Andalucia,Jaen,Piso,Torrecillas,67,2,66000
-Andalucia,Jaen,Chalet,Calle Republica Checa 10,42,6,201000
-Andalucia,Jaen,Piso,Calle Nueva 6,156,4,180000
-Andalucia,Jaen,Piso,Calle Valencia,79,2,77900
-Andalucia,Jaen,Piso,Calle Molino,109,3,90000
-Andalucia,Jaen,Piso,Avenida la Paz,80,3,82000
-Andalucia,Jaen,Chalet,Calle Altozano Serrano Plato 3,114,3,144000
-Andalucia,Jaen,Piso,Calle Valdecanales 3,102,3,24900
-Andalucia,Jaen,Chalet,Camino de las Huertas Grandes,700,4,134900
-Andalucia,Jaen,Piso,Calle Vicente Montuno Morente,81,3,70000
-Andalucia,Jaen,Piso,Plaza Curtidores,145,4,95000
-Andalucia,Jaen,Chalet,Calle Elvin,87,3,60000
-Andalucia,Jaen,Piso,Calle Valencia,61,2,77900
-Andalucia,Jaen,Casa Rural,Avenida Y Paseo Virgen de Consolacion 23,240,7,400000
-Andalucia,Jaen,Piso,Calle Maestro Cebrian,131,4,155000
-Andalucia,Jaen,Chalet,Calle Llanete San Francisco 4,25,4,80000
-Andalucia,Jaen,Piso,Calle Doctor Eduardo Arroyo,110,3,148000
-Andalucia,Jaen,Chalet,Travesia Santa Barbara,90,3,99900
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
-Andalucia,Jaen,Chalet,Calle Real de San Fernando,641,10,67635
-Andalucia,Jaen,Chalet,Carretera al Neveral,150,4,310000
-Andalucia,Jaen,Chalet,Vereda Mengibar,98,3,120000
-Andalucia,Jaen,Piso,Calle Pedro Antonio de Alarcon,90,3,29500
-Andalucia,Jaen,Piso,Calle Antonio Herrera Murillo,78,2,97500
-Andalucia,Jaen,Chalet,Calle Francisco del Moral,1000,3,350000
-Andalucia,Jaen,Piso,Calle Melchor Cobo Medina,160,5,155000
-Andalucia,Jaen,Chalet,Calle Rio Carrizal,1000,3,180000
-Andalucia,Jaen,Piso,Calle Corredera de San Marcos,119,3,140000
-Andalucia,Jaen,Chalet,Calle Juan Ramon Jimenez 11,100,3,144500
-Andalucia,Jaen,Piso,Calle Real,157,3,185000
-Andalucia,Jaen,Piso,Calle Antonia Lopez Arista,95,3,63000
-Andalucia,Jaen,Chalet,Puente de la Sierra,1100,8,180000
-Andalucia,Jaen,Piso,Calle Manuel Caballero Venzala,16,4,269900
-Andalucia,Jaen,Chalet,Calle Tiro Nacional,40,3,180000
-Andalucia,Jaen,Chalet,Calle Almendros Aguilar,275,7,200000
-Andalucia,Jaen,Piso,Calle Virgilio Anguita,98,3,75000
-Andalucia,Jaen,Piso,Calle Pintor Juan Gris,69,2,59000
-Andalucia,Jaen,Chalet,Calle Labradores 16,196,5,115000
-Andalucia,Jaen,Piso,Paseo de la Estacion,198,5,240000
-Andalucia,Jaen,Chalet,Calle Almendros Aguilar,125,4,160000
-Andalucia,Jaen,Piso,Calle Mesa 12,16,4,210000
-Andalucia,Jaen,Chalet,Pago de la Fraila,1600,3,260000
-Andalucia,Jaen,Piso,Calle la Luna,141,4,145000
-Andalucia,Jaen,Chalet,Calle los Tejares,271,7,375000
-Andalucia,Jaen,Chalet,Calle los Castellones 2,216,5,69900
-Andalucia,Jaen,Piso,Calle Manuel Caballero Venzala,16,4,269900
-Andalucia,Jaen,Chalet,Bulevar s/n,136,4,350000
-Andalucia,Jaen,Piso,Calle Linares 5,184,5,190000
-Andalucia,Jaen,Piso,Calle Doctor Eduardo Arroyo,98,3,148000
-Andalucia,Jaen,Piso,Avenida de Madrid,157,4,260000
-Andalucia,Jaen,Chalet,Calle Almendros Aguilar,140,4,160000
-Andalucia,Jaen,Piso,Avenida la Paz,115,3,40950
-Andalucia,Jaen,Piso,Calle Hurtado,189,5,180000
-Andalucia,Jaen,Piso,Calle Molino,87,3,90000
-Andalucia,Jaen,Piso,Poligono del Valle sector 2 s/n,116,3,100000
-Andalucia,Jaen,Piso,Calle Murcia,92,3,105000
-Andalucia,Jaen,Chalet,Camino de las Huertas Grandes,700,4,134900
-Andalucia,Jaen,Piso,Plaza Virgen de la Villa,65,2,96000
-Andalucia,Jaen,Piso,Calle Obispo Gonzalez,67,2,43227
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
-Andalucia,Jaen,Piso,Calle Maestro Cebrian,127,4,155000
-Andalucia,Jaen,Chalet,Calle Real de San Fernando,641,10,67635
-Andalucia,Jaen,Chalet,Calle Sisehace,164,5,39000
-Andalucia,Jaen,Chalet,Escuelas Ave Maria 15,185,5,135000
-Andalucia,Jaen,Chalet,general s/n,77,2,48000
-Andalucia,Jaen,Piso,Calle Sevilla,68,2,140000
-Andalucia,Jaen,Chalet,Pago de la Fraila,1600,3,260000
-Andalucia,Jaen,Chalet,Poligono quiebracantaros,211,6,260000
-Andalucia,Jaen,Chalet,Calle Lope de Sosa,225,6,400000
-Andalucia,Jaen,Chalet,Calle Magdalena,194,5,90000
-Andalucia,Jaen,Piso,Calle Calderon 5,90,3,85000
-Andalucia,Jaen,Piso,Calle la Luna,154,4,145000
-Andalucia,Jaen,Piso,Calle Doctor Severo Ochoa,120,3,71900
-Andalucia,Jaen,Chalet,Calle IV Centenario 22,156,4,250000
-Andalucia,Jaen,Piso,Calle Valencia,77,2,77900
-Andalucia,Jaen,Chalet,Calle Sevilla,200,5,310000
-Andalucia,Jaen,Piso,Beltran de la cueva 10,80,3,155000
-Andalucia,Jaen,Chalet,Calle Federico Garcia Lorca,181,5,79000
-Andalucia,Jaen,Piso,Plaza Santo Domingo,93,3,114900
-Andalucia,Jaen,Chalet,Carretera al Neveral,150,4,310000
-Andalucia,Jaen,Piso,Avenida la Paz,222,6,134000
-Andalucia,Jaen,Piso,Calle Mesa 12,16,4,210000
-Andalucia,Jaen,Piso,Paseo de la Estacion,54,1,85000
-Andalucia,Jaen,Piso,Calle Santa Maria del Valle,64,2,75000
-Andalucia,Jaen,Chalet,Travesia Santa Barbara,80,3,99900
-Andalucia,Jaen,Piso,Avenida de la Libertad 22,131,4,79000
-Andalucia,Jaen,Piso,Calle Corredera de San Marcos,119,3,140000
-Andalucia,Jaen,Duplex,Calle Maestro Palomino 3,110,2,123500
-Andalucia,Jaen,Duplex,Calle Doctor Civera 21,20,3,269000
-Andalucia,Jaen,Chalet,Calle Murillo,91,3,175000
-Andalucia,Jaen,Chalet,Carretera Bailen-Motril,95,3,153900
-Andalucia,Jaen,Piso,Calle Vega,88,3,125000
-Andalucia,Jaen,Chalet,Calle San Lucas,151,4,219900
-Andalucia,Jaen,Chalet,Poligono quiebracantaros,248,6,260000
-Andalucia,Jaen,Piso,Calle de la Comunidad Foral de Navarra,115,3,170000
-Andalucia,Jaen,Chalet,Calle Belen,500,4,250000
-Andalucia,Jaen,Piso,Plaza San Miguel,133,4,69000
-Andalucia,Jaen,Duplex,Avenida Libertad 47,88,3,132000
-Andalucia,Jaen,Chalet,Camino Subida al Tiro Nacional,93,3,73500
-Andalucia,Jaen,Piso,Paseo de la Estacion,152,4,250000
-Andalucia,Jaen,Chalet,Calle Elvin,114,3,60000
-Andalucia,Jaen,Chalet,Calle Olivo,13000,11,450000
-Andalucia,Jaen,Chalet,Urbanizacion La Carreta,600,12,1500000
-Andalucia,Jaen,Piso,Calle Calderon 5,90,3,85000
-Andalucia,Jaen,Piso,Plaza Virgen de la Villa,73,2,96000
-Andalucia,Jaen,Chalet,Calle Sevilla,171,5,310000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa,91,3,270000
-Andalucia,Jaen,Piso,Plaza Curtidores,154,4,95000
-Andalucia,Jaen,Piso,Calle Pintor Juan Gris,69,2,59000
-Andalucia,Jaen,Chalet,Pago de la Fraila,1600,3,260000
-Andalucia,Jaen,Chalet,Bulevar s/n,132,4,350000
-Andalucia,Jaen,Chalet,Calle Hospitalico,209,6,36000
-Andalucia,Jaen,Piso,Calle Maestro Cebrian,131,4,155000
-Andalucia,Jaen,Piso,Calle Pintor Murillo,114,3,70000
-Andalucia,Jaen,Piso,Calle Pedro Antonio de Alarcon,90,3,29500
-Andalucia,Jaen,Chalet,Camino de las Huertas Grandes,700,4,134900
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
-Andalucia,Jaen,Piso,Calle Marcos Cubillo,99,3,60000
-Andalucia,Jaen,Piso,Calle Antonia Lopez Arista,95,3,63000
-Andalucia,Jaen,Piso,Calle de la Madre Soledad Torres Acosta 10,108,3,190000
-Andalucia,Jaen,Chalet,Calle Lope de Sosa,226,6,400000
-Andalucia,Jaen,Piso,Calle Fernando IV,96,3,122000
-Andalucia,Jaen,Piso,Avenida la Paz,99,3,82000
-Andalucia,Jaen,Chalet,Ctra Circunvalacion - La Magdalena,584,10,124900
-Andalucia,Jaen,Chalet,la cerradura,135,4,150000
-Andalucia,Jaen,Chalet,Pago de la Fraila,787,2,130000
-Andalucia,Jaen,Piso,Avenida de Madrid,125,4,152000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,150,4,95000
-Andalucia,Jaen,Piso,Calle Azorin,156,4,32000
-Andalucia,Jaen,Piso,Calle Sagunto 11,157,5,120000
-Andalucia,Jaen,Piso,Calle Labrador,58,2,49000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,86,3,35000
-Andalucia,Jaen,Piso,Calle la Carolina,142,4,40000
-Andalucia,Jaen,Piso,Calle Pintor el Greco,112,4,110000
-Andalucia,Jaen,Chalet,Carretera de Circunvalacion,82,3,129000
-Andalucia,Jaen,Duplex,Calle Jaen,117,3,91900
-Andalucia,Jaen,Chalet,Cuesta San Gregorio,164,5,180000
-Andalucia,Jaen,Piso,Torredonjimeno,142,4,115000
-Andalucia,Jaen,Chalet,Calle Capitan Aranda Alta,155,4,40000
-Andalucia,Jaen,Chalet,Ramon y Cajal,276,7,59000
-Andalucia,Jaen,Piso,Calle de la Unicef 2,115,3,240000
-Andalucia,Jaen,Piso,El Valle - Universidad,108,3,198950
-Andalucia,Jaen,Piso,Calle Tetuan,95,3,87000
-Andalucia,Jaen,Piso,Avenida Granada 5,80,3,295000
-Andalucia,Jaen,Piso,Calle Romea,52,1,76000
-Andalucia,Jaen,Piso,Calle Eras 51,96,3,90000
-Andalucia,Jaen,Piso,Calle Antonio Rafael Abellan,115,3,185000
-Andalucia,Jaen,Chalet,Los Villares,200,4,380000
-Andalucia,Jaen,Casa Rural,Via,280,8,260000
-Andalucia,Jaen,Piso,Calle Pintor el Greco,79,3,88000
-Andalucia,Jaen,Atico,Paseo Virgen de Linarejos 30,34,4,165000
-Andalucia,Jaen,Piso,Avenida de Granada,114,3,158000
-Andalucia,Jaen,Piso,Calle Hernan Cortes,90,4,85000
-Andalucia,Jaen,Piso,El Valle - Universidad,90,3,120000
-Andalucia,Jaen,Duplex,Calle Fuente del Alamillo,187,5,263000
-Andalucia,Jaen,Chalet,Avenida Espana 9,166,5,275000
-Andalucia,Jaen,Chalet,Calle Don Pedro del Alcalde,148,4,89500
-Andalucia,Jaen,Chalet,la cerradura,140,4,150000
-Andalucia,Jaen,Piso,Belen - San Roque,63,3,105000
-Andalucia,Jaen,Casa Rural,Calle el Teatro 97,167,5,45000
-Andalucia,Jaen,Piso,Cinco de Julio,112,3,31000
-Andalucia,Jaen,Piso,Avenida de Madrid,134,4,260000
-Andalucia,Jaen,Chalet,Alcantarilla - La Glorieta,90,3,290000
-Andalucia,Jaen,Piso,Calle Zambrana,134,3,90000
-Andalucia,Jaen,Piso,Calle de San Gonzalo,67,3,38000
-Andalucia,Jaen,Piso,Calle Tetuan,95,3,87000
-Andalucia,Jaen,Piso,Avenida Granada 5,82,3,295000
-Andalucia,Jaen,Piso,Calle Romea,52,1,76000
-Andalucia,Jaen,Piso,Calle Vandelvira,113,4,105000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,152,4,180000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,84,3,129000
-Andalucia,Jaen,Piso,Belen - San Roque,131,4,198000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,405,5,260000
-Andalucia,Jaen,Chalet,Alcantarilla - La Glorieta,153,4,325000
-Andalucia,Jaen,Chalet,Mancha Real,94,3,109000
-Andalucia,Jaen,Chalet,San Bartolome - Millan de Priego,171,5,520000
-Andalucia,Jaen,Chalet,Avenida de Albacete s/n,67,2,40000
-Andalucia,Jaen,Chalet,Calle Cristo del Gallo s/n,460,4,285000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,112,3,199900
-Andalucia,Jaen,Chalet,Calle Cobos 52,106,3,16000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,65,2,115000
-Andalucia,Jaen,Duplex,San Bartolome - Millan de Priego,198,5,450000
-Andalucia,Jaen,Piso,Belen - San Roque,139,4,239000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,119,3,185000
-Andalucia,Jaen,Chalet,Jabalcuz,142,4,260000
-Andalucia,Jaen,Chalet,Ubeda,1000,6,450000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,38,3,90000
-Andalucia,Jaen,Piso,Linarejos,121,4,118000
-Andalucia,Jaen,Piso,Calle de la Reconciliacion s/n,62,2,40000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,10,3,49900
-Andalucia,Jaen,Piso,Belen - San Roque,185,3,148000
-Andalucia,Jaen,Chalet,Torredelcampo,94,3,119000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,260,7,1500000
-Andalucia,Jaen,Chalet,Valdeastillas - Fuentezuelas,474,13,420000
-Andalucia,Jaen,Chalet,Calle Luis Medina,246,4,36000
-Andalucia,Jaen,Piso,Belen - San Roque,71,2,83000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,98,3,95000
-Andalucia,Jaen,Chalet,Cuesta Cobatillas s/n,310,5,175000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,105,3,80000
-Andalucia,Jaen,Piso,Andujar,91,3,78000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,108,3,140000
-Andalucia,Jaen,Chalet,Ubeda,1600,3,170000
-Andalucia,Jaen,Duplex,San Ildefonso - Catedral,93,3,190000
-Andalucia,Jaen,Duplex,Calle Carnicerito de Ubeda s/n,155,4,185000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,74,2,125000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,129,4,140000
-Andalucia,Jaen,Chalet,Cuesta Cobatillas s/n,310,5,175000
-Andalucia,Jaen,Piso,Calle Gaudi,128,4,99503
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,93,3,150000
-Andalucia,Jaen,Piso,Andujar,138,4,499500
-Andalucia,Jaen,Piso,Calle Emperador Adriano,110,3,39900
-Andalucia,Jaen,Piso,Calle Blas Infante,137,4,98500
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,98,3,95000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,108,3,140000
-Andalucia,Jaen,Piso,Corredera Capuchinos,150,3,89900
-Andalucia,Jaen,Atico,Corredera San Fernando s/n,148,3,205000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,95,4,72000
-Andalucia,Jaen,Duplex,Calle Carnicerito de Ubeda s/n,155,4,185000
-Andalucia,Jaen,Chalet,Calle Paraiso s/n,220,4,169000
-Andalucia,Jaen,Piso,Calle Diecinueve de Abril,62,2,31000
-Andalucia,Jaen,Piso,Belen - San Roque,95,3,119500
-Andalucia,Jaen,Piso,Calle Gran Capitan,144,3,81000
-Andalucia,Jaen,Chalet,Calle Jodar s/n,210,3,180000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,115,3,80000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,91,3,210000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,122,4,165000
-Andalucia,Jaen,Piso,Calle Santo Domingo Savio s/n,148,4,149000
-Andalucia,Jaen,Piso,Calle Gaudi,94,3,69616
-Andalucia,Jaen,Piso,Belen - San Roque,66,2,83000
-Andalucia,Jaen,Piso,Calle de Santo Domingo s/n,108,3,125000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,65,2,125000
-Andalucia,Jaen,Duplex,San Ildefonso - Catedral,101,3,190000
-Andalucia,Jaen,Piso,Calle Jaen,112,3,65000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa,106,3,87000
-Andalucia,Jaen,Chalet,Mancha Real,203,3,189900
-Andalucia,Jaen,Chalet,Calle La Zambra,180,3,57000
-Andalucia,Jaen,Chalet,MADRID,352,5,134000
-Andalucia,Jaen,Chalet,Penamefecit - Avda Barcelona,84,3,325000
-Andalucia,Jaen,Piso,Calle San Eufrasio,62,2,52900
-Andalucia,Jaen,Chalet,GOYA,144,4,105000
-Andalucia,Jaen,Chalet,Calle Tetuan,222,6,200000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,184,6,260000
-Andalucia,Jaen,Chalet,Calle ARROYO INMOBILIARIA 2,800,3,122000
-Andalucia,Jaen,Chalet,Via 1,5222,4,450000
-Andalucia,Jaen,Piso,Calle Mendez Nunez,9499,3,49900
-Andalucia,Jaen,Chalet,Calle La Zambra,180,3,57000
-Andalucia,Jaen,Chalet,Calle Pastor Juan de Rivas,623,5,229900
-Andalucia,Jaen,Piso,San Bartolome,152,4,95000
-Andalucia,Jaen,Piso,Calle Maria Bellido esquina c/ Zarco del Valle s/n,107,3,79000
-Andalucia,Jaen,Atico,Avenida de Antonio Pascual Acosta s/n,63,2,159000
-Andalucia,Jaen,Piso,Calle Palos de la Frontera,97,3,48000
-Andalucia,Jaen,Piso,Calle Mendez Nunez,9499,3,49900
-Andalucia,Jaen,Piso,Calle Arroyo de San Pedro,75,3,60000
-Andalucia,Jaen,Piso,Calle Obispo Cobos s/n,110,3,110000
-Andalucia,Jaen,Atico,Calle San Marcos s/n,165,5,219000
-Andalucia,Jaen,Piso,Calle Federico de Mendizabal,120,3,98000
-Andalucia,Jaen,Chalet,Andalucia,503,10,129000
-Andalucia,Jaen,Chalet,Calle I Sector 7 90,80,3,179000
-Andalucia,Jaen,Piso,Calle Hospital de San Miguel,6500,3,52000
-Andalucia,Jaen,Piso,Plaza la Magdalena,82,2,43000
-Andalucia,Jaen,Chalet,Via 1,5222,4,450000
-Andalucia,Jaen,Chalet,Calle San Marcos,197,5,65000
-Andalucia,Jaen,Piso,Avenida Valencia,95,3,61000
-Andalucia,Jaen,Piso,Calle La Zambra,130,3,65000
-Andalucia,Jaen,Piso,Calle Fresa,83,2,11500
-Andalucia,Jaen,Chalet,Calle Ubeda 63,133,4,196000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,184,6,260000
-Andalucia,Jaen,Piso,Corredera San Fernando s/n,104,3,65000
-Andalucia,Jaen,Duplex,AYALA s/n,100,3,119000
-Andalucia,Jaen,Chalet,Calle ARROYO INMOBILIARIA 2,800,3,122000
-Andalucia,Jaen,Chalet,Calle Llana de San Juan 41,120,3,125000
-Andalucia,Jaen,Chalet,MADRID,352,5,134000
-Andalucia,Jaen,Chalet,Mancha Real,203,3,189900
-Andalucia,Jaen,Piso,Calle arrastradero,85,3,110000
-Andalucia,Jaen,Piso,Senda de la Moza,64,2,15400
-Andalucia,Jaen,Piso,Calle San Eufrasio,78,2,52900
-Andalucia,Jaen,Chalet,Calle Italia,353,4,365000
-Andalucia,Jaen,Chalet,Carretera de Banos,270,4,82000
-Andalucia,Jaen,Chalet,aguilar,145,4,175000
-Andalucia,Jaen,Piso,Calle Murillo,60,2,80000
-Andalucia,Jaen,Piso,Plaza San Francisco,90,3,155000
-Andalucia,Jaen,Piso,Avenida de Andalucia,145,4,265000
-Andalucia,Jaen,Piso,Plaza la Estacion,90,3,42000
-Andalucia,Jaen,Piso,Senda de la Moza,115,3,60000
-Andalucia,Jaen,Chalet,Calle Rector Munoz Fernandez,295,5,450000
-Andalucia,Jaen,Piso,Calle Cid Campeador,134,3,89999
-Andalucia,Jaen,Chalet,urbanizacion cerro molina 2,1600,5,200000
-Andalucia,Jaen,Atico,Calle Banos,63,2,89000
-Andalucia,Jaen,Piso,Plaza la Estacion,90,3,42000
-Andalucia,Jaen,Piso,Senda de la Moza,115,3,60000
-Andalucia,Jaen,Chalet,Carretera de Banos,270,4,82000
-Andalucia,Jaen,Chalet,Avenida de Pozo Ancho,290,5,122000
-Andalucia,Jaen,Chalet,Plaza Colombia 10,400,3,250000
-Andalucia,Jaen,Piso,Calle los Huerfanos 2,65,2,49700
-Andalucia,Jaen,Piso,Calle Lope de Vega,196,5,80000
-Andalucia,Jaen,Piso,Calle Millan de Priego 25,90,3,103000
-Andalucia,Jaen,Piso,Calle RAFAEL ALBERTI 4,62,2,52000
-Andalucia,Jaen,Piso,Calle Daoiz,112,3,77999
-Andalucia,Jaen,Piso,Avenida Libertad,86,3,75000
-Andalucia,Jaen,Piso,Calle Arguelles,116,3,118000
-Andalucia,Jaen,Chalet,CALLA DONANTES DE SANGRE s/n,90,3,179000
-Andalucia,Jaen,Chalet,Calle Maestro Joaquin Rodrigo s/n,145,4,119000
-Andalucia,Jaen,Chalet,Colonia la Cruz,136,4,250000
-Andalucia,Jaen,Piso,Travesia Virgen Cabeza Primera,85,3,39000
-Andalucia,Jaen,Chalet,RAMON LOPEZ s/n,60,3,169000
-Andalucia,Jaen,Piso,Calle Canalejas,117,4,125000
-Andalucia,Jaen,Piso,Calle Hernan Cortes,163,5,55000
-Andalucia,Jaen,Piso,Calle Guillen,86,3,89500
-Andalucia,Jaen,Piso,Paseo Virgen de Linarejos,136,4,170000
-Andalucia,Jaen,Chalet,Carcheles,143,4,105000
-Andalucia,Jaen,Chalet,Bulevar jaen s/n,243,6,375000
-Andalucia,Jaen,Chalet,Calle Santiago,132,3,150000
-Andalucia,Jaen,Duplex,Avenida de Andalucia,140,4,134999
-Andalucia,Jaen,Piso,Calle Juan Pedro Gutierrez Higueras,146,4,215000
-Andalucia,Jaen,Chalet,Via,160,3,150000
-Andalucia,Jaen,Piso,Avenida de Andalucia,134,4,265000
-Andalucia,Jaen,Piso,Paseo de la Alameda,111,3,80000
-Andalucia,Jaen,Piso,Calle Aurea Galindo,95,3,93000
-Andalucia,Jaen,Piso,Calle Murillo,67,2,80000
-Andalucia,Jaen,Chalet,Urbanizacion las Encinas,450,5,300000
-Andalucia,Jaen,Chalet,Carretera de Los Villares,197,5,258000
-Andalucia,Jaen,Piso,Calle Bailen,150,4,70000
-Andalucia,Jaen,Piso,Calle Arguelles,91,2,75000
-Andalucia,Jaen,Chalet,loma del royo s/n,120,4,250000
-Andalucia,Jaen,Chalet,Calle de Maria Rosa 16,129,4,31300
-Andalucia,Jaen,Duplex,Avenida de Andalucia,140,4,134999
-Andalucia,Jaen,Piso,Calle de Maria Carcel,151,3,44000
-Andalucia,Jaen,Piso,Calle JUAN XXIII s/n,119,3,34000
-Andalucia,Jaen,Chalet,Calle Alberto Lopez Poveda,280,8,160000
-Andalucia,Jaen,Chalet,Maria Zambrano,420,3,250000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,157,4,40850
-Andalucia,Jaen,Piso,Calle Conde Romanones del Pilar,183,5,79900
-Andalucia,Jaen,Piso,Calle los Huerfanos 2,65,2,49700
-Andalucia,Jaen,Piso,Paseo Marqueses de Linares,108,4,50000
-Andalucia,Jaen,Piso,Calle Forjadores,100,2,85000
-Andalucia,Jaen,Piso,Travesia Virgen Cabeza Primera,85,3,39000
-Andalucia,Jaen,Chalet,Carretera de Banos,270,4,82000
-Andalucia,Jaen,Chalet,Paseo DEL MONUMENTO s/n,219,5,300000
-Andalucia,Jaen,Piso,Calle Canalejas,116,3,100000
-Andalucia,Jaen,Atico,Calle Banos,80,2,89000
-Andalucia,Jaen,Piso,Calle Arguelles,113,3,118000
-Andalucia,Jaen,Piso,Calle Jaen,80,3,95000
-Andalucia,Jaen,Piso,Calle Yanguas Jimenez,74,2,46500
-Andalucia,Jaen,Chalet,Via,160,3,150000
-Andalucia,Jaen,Piso,Calle Guillermo Manjon,155,4,79000
-Andalucia,Jaen,Piso,desengano 20,74,2,37000
-Andalucia,Jaen,Chalet,Calle de Maria Rosa 16,127,4,31300
-Andalucia,Jaen,Piso,Calle Romea,90,2,24000
-Andalucia,Jaen,Piso,Calle Lope de Vega,184,5,80000
-Andalucia,Jaen,Chalet,urbanizacion Cerro Molina,130,4,149500
-Andalucia,Jaen,Piso,Calle el Aladrero,87,3,85000
-Andalucia,Jaen,Piso,Avenida de Andalucia,130,4,79900
-Andalucia,Jaen,Piso,Paseo Virgen de Linarejos,116,3,135999
-Andalucia,Jaen,Chalet,CONVENTO,102,4,121000
-Andalucia,Jaen,Chalet,Calle Barrionuevo 53,198,3,69000
-Andalucia,Jaen,Piso,Calle Conde Mejorada,75,3,85000
-Andalucia,Jaen,Chalet,aguilar,145,4,175000
-Andalucia,Jaen,Atico,Belen - San Roque,115,3,257842
-Andalucia,Jaen,Chalet,Calle Santiago,132,3,150000
-Andalucia,Jaen,Chalet,astorga 3,239,4,212000
-Andalucia,Jaen,Chalet,JUEZ BRAULIO SENA,875,6,350000
-Andalucia,Jaen,Piso,Calle Guillen,101,3,89500
-Andalucia,Jaen,Piso,Plaza San Francisco,90,3,155000
-Andalucia,Jaen,Piso,Calle Arguelles,79,2,69000
-Andalucia,Jaen,Piso,Calle Rio Grande,95,3,34000
-Andalucia,Jaen,Chalet,Calle Canalejas,340,5,180000
-Andalucia,Jaen,Chalet,Calle Maestro Joaquin Rodrigo s/n,160,4,119000
-Andalucia,Jaen,Piso,Paseo Virgen de Linarejos,80,1,66000
-Andalucia,Jaen,Piso,Calle los Huerfanos 2,65,2,49700
-Andalucia,Jaen,Chalet,Colonia la Cruz,129,4,250000
-Andalucia,Jaen,Duplex,Avenida de Andalucia,140,4,134999
-Andalucia,Jaen,Piso,Senda de la Moza,115,3,60000
-Andalucia,Jaen,Chalet,Avenida Andalucia,299,3,80000
-Andalucia,Jaen,Piso,Plaza de Ramon y Cajal del Bermejal,123,4,119900
-Andalucia,Jaen,Chalet,Calle Italia,353,4,365000
-Andalucia,Jaen,Chalet,Centro Ciudad,329,5,110000
-Andalucia,Jaen,Piso,Calle Sagunto,153,5,120000
-Andalucia,Jaen,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
-Andalucia,Jaen,Chalet,Calle Modesto Higueras,252,4,33000
-Andalucia,Jaen,Chalet,Calle Gladiolo,221,3,175000
-Andalucia,Jaen,Chalet,Labradores,82,3,140000
-Andalucia,Jaen,Piso,Calle Pintor Zuloaga,111,4,92000
-Andalucia,Jaen,Chalet,Calle Casillas de Prieto,162,5,100000
-Andalucia,Jaen,Chalet,Travesia Jara,158,4,60000
-Andalucia,Jaen,Piso,Calle Corredera,67,2,49000
-Andalucia,Jaen,Piso,Calle Daoiz,92,3,100000
-Andalucia,Jaen,Piso,Calle Anton de Jaen,120,3,96000
-Andalucia,Jaen,Chalet,Calle del Banco,210,5,78000
-Andalucia,Jaen,Piso,Calle Fray Cristobal Segado,76,3,28000
-Andalucia,Jaen,Chalet,Calle Plomo,100,3,85000
-Andalucia,Jaen,Piso,Calle Santa Engracia,113,3,59000
-Andalucia,Jaen,Piso,Calle Cordoba,120,3,60000
-Andalucia,Jaen,Piso,Pasaje del Comercio,135,3,115000
-Andalucia,Jaen,Piso,Paseo Marqueses de Linares,100,3,55000
-Andalucia,Jaen,Chalet,Camino Masegosas,184,4,160000
-Andalucia,Jaen,Chalet,Avenida Doctor Juan Reyes,95,3,89000
-Andalucia,Jaen,Piso,Calle Sagunto,131,4,57000
-Andalucia,Jaen,Chalet,A-6100,321,8,170000
-Andalucia,Jaen,Piso,Calle Rio Genil,74,3,25000
-Andalucia,Jaen,Piso,Avenida Jose Maria Lopez Montes,80,3,25000
-Andalucia,Jaen,Atico,Calle MANOLO GOMEZ BUR s/n,103,3,81500
-Andalucia,Jaen,Piso,Calle Alfonso X el Sabio,93,3,98000
-Andalucia,Jaen,Piso,Paseo Marqueses de Linares,87,3,42000
-Andalucia,Jaen,Piso,Calle Federico de Mendizabal,134,4,169900
-Andalucia,Jaen,Piso,Calle Raphael,117,3,89900
-Andalucia,Jaen,Piso,Calle Martinez de Ubeda,56,2,27000
-Andalucia,Jaen,Piso,Calle Jaime I el Conquistador,145,3,80000
-Andalucia,Jaen,Chalet,Calle Coral Andres Segovia,193,4,198000
-Andalucia,Jaen,Chalet,Calle Olivo,95,3,45000
-Andalucia,Jaen,Piso,Camino Masegosas,120,3,80000
-Andalucia,Jaen,Chalet,Calle Italia,449,7,470000
-Andalucia,Jaen,Piso,Avenida de Andalucia,120,3,120000
-Andalucia,Jaen,Piso,Calle Ercilla,155,4,32000
-Andalucia,Jaen,Chalet,Calle Orquidea,384,4,500000
-Andalucia,Jaen,Piso,Calle Corredera,67,2,49000
-Andalucia,Jaen,Piso,Calle Jaen,107,3,95000
-Andalucia,Jaen,Chalet,Calle Escultor Pablo Serrano,100,5,220000
-Andalucia,Jaen,Chalet,Via,50,1,70000
-Andalucia,Jaen,Chalet,Calle Magnolia,235,4,185000
-Andalucia,Jaen,Chalet,Labradores,91,3,140000
-Andalucia,Jaen,Casa Rural,Aquisgrana,126,3,310000
-Andalucia,Jaen,Piso,Calle Conde de Torreanaz 11,114,3,42000
-Andalucia,Jaen,Chalet,Calle Doctor Fleming,249,6,55000
-Andalucia,Jaen,Piso,Calle Cid Campeador,113,4,78000
-Andalucia,Jaen,Chalet,Calle Jaen,270,4,165000
-Andalucia,Jaen,Atico,Calle MANOLO GOMEZ BUR s/n,99,3,81500
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,84,4,45000
-Andalucia,Jaen,Chalet,Calle Historiador Jesus de Haro,149,5,148000
-Andalucia,Jaen,Piso,Calle Fray Cristobal Segado,114,3,34000
-Andalucia,Jaen,Piso,Calle Federico Mayo,70,3,36900
-Andalucia,Jaen,Chalet,Calle Fuente Avellano,230,6,195000
-Andalucia,Jaen,Piso,Calle Martinez de Ubeda,92,3,97000
-Andalucia,Jaen,Piso,Calle Rio Grande,86,3,40000
-Andalucia,Jaen,Chalet,Calle Raphael,282,6,160000
-Andalucia,Jaen,Chalet,Calle Mar Mediterraneo,202,4,188000
-Andalucia,Jaen,Piso,Camino Madronal,103,3,25000
-Andalucia,Jaen,Chalet,Calle Jacinto Benavente,117,3,33000
-Andalucia,Jaen,Chalet,Pintor Francisco Banos,95,3,349000
-Andalucia,Jaen,Piso,Calle Arroyo,142,3,78000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,89,3,85000
-Andalucia,Jaen,Chalet,Pasaje Santa Maria,160,4,65000
-Andalucia,Jaen,Piso,Calle Romea,100,3,30000
-Andalucia,Jaen,Piso,Avenida San Sebastian,167,4,140000
-Andalucia,Jaen,Chalet,Calle Calerin Bajo,101,3,59999
-Andalucia,Jaen,Chalet,Plaza Cante Jondo,82,3,20000
-Andalucia,Jaen,Atico,Paseo Virgen de Linarejos,273,4,260000
-Andalucia,Jaen,Piso,Calle Julio Burell 67,88,3,84000
-Andalucia,Jaen,Piso,Calle Jaime I el Conquistador,145,3,80000
-Andalucia,Jaen,Piso,Plaza Poeta Vicente Aleixandre,87,3,25000
-Andalucia,Jaen,Piso,Corredera San Fernando,152,4,154000
-Andalucia,Jaen,Piso,Calle Calvario,106,3,48000
-Andalucia,Jaen,Piso,Calle Menendez Pelayo,125,4,108000
-Andalucia,Jaen,Atico,Calle Goya,143,4,132000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,104,3,85000
-Andalucia,Jaen,Chalet,Calle Paco Clavijo,202,3,50000
-Andalucia,Jaen,Chalet,Calle Alheli,245,4,200000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,80,2,67000
-Andalucia,Jaen,Chalet,Calle Conde Romanones del Pilar,694,7,620000
-Andalucia,Jaen,Chalet,Calle del Banco,210,5,78000
-Andalucia,Jaen,Piso,Avenida Jose Maria Lopez Montes,109,3,25000
-Andalucia,Jaen,Piso,Ronda del Molino,65,2,55000
-Andalucia,Jaen,Piso,Calle Jaen,90,3,83000
-Andalucia,Jaen,Chalet,Calle Nuestra Senora de la Asuncion,117,4,57000
-Andalucia,Jaen,Chalet,Calle Bailen,204,3,120000
-Andalucia,Jaen,Piso,Calle Rio Genil,105,3,50000
-Andalucia,Jaen,Chalet,Calle Colon,138,2,25200
-Andalucia,Jaen,Piso,Calle Sagunto,131,4,57000
-Andalucia,Jaen,Atico,Calle Antonio Machado 8,113,3,130000
-Andalucia,Jaen,Chalet,Calle Portillo,216,3,99000
-Andalucia,Jaen,Piso,Calle Francisco de Orellana,85,3,87000
-Andalucia,Jaen,Piso,Calle San Francisco Javier,112,4,133500
-Andalucia,Jaen,Piso,Calle Pintor Pablo Picasso,135,4,106000
-Andalucia,Jaen,Chalet,Calle Progreso,176,5,99000
-Andalucia,Jaen,Piso,Calle la Carolina,190,4,85000
-Andalucia,Jaen,Piso,Calle Madre de Dios de la Salud,129,3,140000
-Andalucia,Jaen,Piso,Calle Cristobal de Olid,104,3,53000
-Andalucia,Jaen,Piso,Calle Diego Bujalance,84,3,62000
-Andalucia,Jaen,Chalet,Calle Melilla,209,6,365000
-Andalucia,Jaen,Piso,Calle Federico Mayo,70,3,36900
-Andalucia,Jaen,Piso,Calle Bailen,109,4,65000
-Andalucia,Jaen,Chalet,Avenida de Arrayanes,202,3,70000
-Andalucia,Jaen,Chalet,Calle Huerta de las Eras,78,2,120000
-Andalucia,Jaen,Chalet,Calle del Marques de Linares,266,4,230000
-Andalucia,Jaen,Chalet,Calle Fuente del Oso,190,5,210000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa,144,3,90000
-Andalucia,Jaen,Piso,Calle Arroyo,142,3,78000
-Andalucia,Jaen,Piso,Calle Numancia,73,2,100000
-Andalucia,Jaen,Piso,Calle Guillen,66,2,60000
-Andalucia,Jaen,Chalet,Calle Nuestra Senora de la Asuncion,117,4,57000
-Andalucia,Jaen,Duplex,Calle General Turon,90,3,165000
-Andalucia,Jaen,Chalet,Calle Alheli,245,4,200000
-Andalucia,Jaen,Chalet,Calle Obispo Alvarez Lara,304,5,190000
-Andalucia,Jaen,Piso,Senda de la Moza,111,3,31000
-Andalucia,Jaen,Piso,Calle Jaime I el Conquistador,145,3,80000
-Andalucia,Jaen,Piso,Calle Jose Ortega y Gasset,25,2,41999
-Andalucia,Jaen,Chalet,Calle Jaen,270,4,165000
-Andalucia,Jaen,Chalet,Colonia la Cruz,354,5,400000
-Andalucia,Jaen,Piso,Calle Sagunto,153,5,120000
-Andalucia,Jaen,Piso,Calle Diego Bujalance,101,3,62000
-Andalucia,Jaen,Chalet,Calle Avila,153,4,35000
-Andalucia,Jaen,Piso,Calle Nunez de Balboa,96,3,48000
-Andalucia,Jaen,Piso,Calle Ubeda,88,3,60000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,72,2,92000
-Andalucia,Jaen,Piso,Calle Romea,89,4,62000
-Andalucia,Jaen,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
-Andalucia,Jaen,Chalet,Calle Fuente Avellano,230,6,195000
-Andalucia,Jaen,Chalet,Avenida Doctor Juan Reyes,95,3,89000
-Andalucia,Jaen,Piso,Calle Cervantes,113,4,75000
-Andalucia,Jaen,Piso,Torredelcampo,106,3,126000
-Andalucia,Jaen,Chalet,Calle del Marques de Linares,266,4,230000
-Andalucia,Jaen,Chalet,Calle Jaen,86,3,56000
-Andalucia,Jaen,Piso,Calle la Cruz,108,4,55200
-Andalucia,Jaen,Piso,Calle Rio Grande,83,3,40000
-Andalucia,Jaen,Piso,Calle Martinez Molina 50,120,3,92000
-Andalucia,Jaen,Piso,Calle Gumersindo Azcarate,80,2,67000
-Andalucia,Jaen,Chalet,Calle Felguera,203,6,75000
-Andalucia,Jaen,Chalet,Calle Zambrana,78,3,95000
-Andalucia,Jaen,Piso,Calle Julio Burell,105,4,84000
-Andalucia,Jaen,Chalet,Calle Casillas de Prieto,162,5,100000
-Andalucia,Jaen,Piso,Calle Pedro Poveda,104,3,72000
-Andalucia,Jaen,Piso,Calle Rio Grande,92,3,59000
-Andalucia,Jaen,Chalet,Calle Rio Genil,192,4,183600
-Andalucia,Jaen,Piso,Calle Segadores,87,1,70000
-Andalucia,Jaen,Piso,Plaza Alfonso XII Nueva,144,5,82000
-Andalucia,Jaen,Chalet,Calle Modesto Higueras,252,4,33000
-Andalucia,Jaen,Atico,Calle Antonio Machado 8,97,3,130000
-Andalucia,Jaen,Piso,Calle Martinez de Ubeda,92,3,97000
-Andalucia,Jaen,Chalet,Calle Bastetania,85,3,179000
-Andalucia,Jaen,Chalet,Calle Enrique Granados,172,6,99000
-Andalucia,Jaen,Chalet,Calle Portillo,216,3,99000
-Andalucia,Jaen,Atico,Calle Juego Pelotas,127,4,85000
-Andalucia,Jaen,Chalet,Calle del Rio Guadalen,117,8,155000
-Andalucia,Jaen,Chalet,Plaza del Gallo,366,9,168000
-Andalucia,Jaen,Chalet,Calle Mendez Nunez,29,2,41000
-Andalucia,Jaen,Piso,Avenida de Andalucia,103,3,70000
-Andalucia,Jaen,Piso,Calle Calvario,106,3,48000
-Andalucia,Jaen,Piso,Senda de la Moza,75,1,50000
-Andalucia,Jaen,Piso,Calle Alemania,139,4,160000
-Andalucia,Jaen,Duplex,Calle Jaen,87,2,100000
-Andalucia,Jaen,Piso,Avenida Andres Segovia,76,2,37000
-Andalucia,Jaen,Piso,Calle Bernabe Soriano,143,4,210000
-Andalucia,Jaen,Piso,Calle Ondeanos,135,3,32490
-Andalucia,Jaen,Piso,Calle Fernando de Herrera,93,3,35000
-Andalucia,Jaen,Piso,Calle la Cruz,108,4,55200
-Andalucia,Jaen,Chalet,Calle San Eugenio,228,6,160000
-Andalucia,Jaen,Piso,Calle Raphael,83,3,89900
-Andalucia,Jaen,Piso,Calle Federico de Mendizabal,157,4,169900
-Andalucia,Jaen,Piso,Calle Olivos,78,2,45000
-Andalucia,Jaen,Chalet,Calle Alheli,245,4,200000
-Andalucia,Jaen,Piso,Calle Nunez de Balboa,110,3,48000
-Andalucia,Jaen,Piso,Calle Rio Guadalquivir,68,3,22000
-Andalucia,Jaen,Chalet,Calle Bailen,204,3,120000
-Andalucia,Jaen,Chalet,Calle Obispo Alvarez Lara,304,5,190000
-Andalucia,Jaen,Piso,Calle Diego Bujalance,95,3,62000
-Andalucia,Jaen,Chalet,Plaza Alfonso XII Nueva,226,10,182000
-Andalucia,Jaen,Chalet,Calle Martin de Avalos,93,3,69483
-Andalucia,Jaen,Piso,Calle Alfonso de Churruca,65,3,45000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,118,4,50000
-Andalucia,Jaen,Chalet,Calle Caceres,328,5,190000
-Andalucia,Jaen,Piso,Calle Aurea Galindo,63,2,55000
-Andalucia,Jaen,Chalet,Diseminado Huertos San Roque,450,7,260000
-Andalucia,Jaen,Piso,Calle la Rabida,87,3,69000
-Andalucia,Jaen,Duplex,Calle Isaac Peral,87,1,120000
-Andalucia,Jaen,Chalet,Calle Gladiolo,221,3,175000
-Andalucia,Jaen,Chalet,Calle Paco Bautista,244,4,200000
-Andalucia,Jaen,Piso,Calle Menendez Pelayo,125,4,108000
-Andalucia,Jaen,Piso,Calle Julio Burell 67,102,3,84000
-Andalucia,Jaen,Piso,Calle la Merced,100,2,96000
-Andalucia,Jaen,Piso,Calle Guillen,66,2,60000
-Andalucia,Jaen,Chalet,Calle Casillas de Prieto,162,5,100000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,121,4,54000
-Andalucia,Jaen,Piso,Calle Calvario,106,3,48000
-Andalucia,Jaen,Piso,Avenida San Cristobal,150,4,100000
-Andalucia,Jaen,Chalet,Calle Jaen,270,4,165000
-Andalucia,Jaen,Chalet,Calle Zabala,108,4,40000
-Andalucia,Jaen,Duplex,Calle Aurea Galindo,85,3,125000
-Andalucia,Jaen,Piso,Calle Fray Antonio de Marchena,107,3,30000
-Andalucia,Jaen,Atico,Calle MANOLO GOMEZ BUR s/n,109,3,81500
-Andalucia,Jaen,Piso,Calle Jose Maria Lillo,135,3,60000
-Andalucia,Jaen,Piso,Calle Rio Genil,74,3,25000
-Andalucia,Jaen,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
-Andalucia,Jaen,Piso,Avenida de Andalucia,120,3,120000
-Andalucia,Jaen,Piso,Callejon de las Flores,111,3,100000
-Andalucia,Jaen,Chalet,Calle Miguel Cobo,131,3,30000
-Andalucia,Jaen,Piso,Senda de la Moza,83,3,31000
-Andalucia,Jaen,Piso,Plaza Poeta Vicente Aleixandre,118,3,25000
-Andalucia,Jaen,Chalet,CARLOS III,136,4,142000
-Andalucia,Jaen,Piso,Calle Sagunto,153,5,120000
-Andalucia,Jaen,Chalet,Calle Aviles,86,3,65000
-Andalucia,Jaen,Chalet,Calle del Marques de Linares,266,4,230000
-Andalucia,Jaen,Piso,Calle Romea,83,3,63000
-Andalucia,Jaen,Piso,Senda de la Moza,120,3,130000
-Andalucia,Jaen,Chalet,bermejales,142,4,225000
-Andalucia,Jaen,Chalet,Calle Duque de Veragua,102,4,60000
-Andalucia,Jaen,Chalet,A-6100,388,8,170000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,160,5,70000
-Andalucia,Jaen,Chalet,Via,1200,4,100000
-Andalucia,Jaen,Piso,Calle Ana Maria Mogas,112,3,108000
-Andalucia,Jaen,Chalet,Calle Calerin Bajo,92,3,59999
-Andalucia,Jaen,Piso,Calle Aurea Galindo,63,2,55000
-Andalucia,Jaen,Piso,Calle los Francos,111,3,38000
-Andalucia,Jaen,Chalet,Calle Patrocinio de Biedma,204,4,120000
-Andalucia,Jaen,Chalet,Avenida Andres Segovia,165,9,210000
-Andalucia,Jaen,Piso,Calle Ercilla,149,4,32000
-Andalucia,Jaen,Chalet,Via,221,6,85000
-Andalucia,Jaen,Chalet,Pintor Francisco Banos,103,3,349000
-Andalucia,Jaen,Chalet,Calle Casillas de Prieto,162,5,100000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,84,4,45000
-Andalucia,Jaen,Piso,Calle Emilia Pardo Bazan,104,3,40000
-Andalucia,Jaen,Piso,Calle de los Bomberos,154,3,100000
-Andalucia,Jaen,Piso,Ubeda,118,3,60000
-Andalucia,Jaen,Chalet,Plaza Alfonso XII Nueva,226,10,182000
-Andalucia,Jaen,Chalet,Avenida Andres Segovia,165,9,210000
-Andalucia,Jaen,Piso,Avenida de Andalucia,103,3,45000
-Andalucia,Jaen,Piso,Calle Sagunto,131,4,57000
-Andalucia,Jaen,Chalet,Callle Casualidad,88,3,250000
-Andalucia,Jaen,Piso,Calle los Francos,120,3,38000
-Andalucia,Jaen,Piso,Calle Joaquin Ruano,115,3,45000
-Andalucia,Jaen,Piso,Paseo de la Alameda,109,3,88000
-Andalucia,Jaen,Chalet,Calle Zabala,108,4,40000
-Andalucia,Jaen,Piso,Calle Conde de Torreanaz 11,81,3,42000
-Andalucia,Jaen,Piso,Calle Tetuan Bloques,69,2,61500
-Andalucia,Jaen,Piso,Calle Aurea Galindo,63,2,55000
-Andalucia,Jaen,Piso,Calle Fernando de Herrera,93,3,35000
-Andalucia,Jaen,Chalet,Calle Bailen,204,3,120000
-Andalucia,Jaen,Piso,Calle la Merced,100,2,96000
-Andalucia,Jaen,Piso,Calle Julio Burell,106,3,100000
-Andalucia,Jaen,Piso,Calle Segadores,70,2,90000
-Andalucia,Jaen,Piso,Calle Jose Ortega y Gasset,25,2,41999
-Andalucia,Jaen,Piso,Calle Segadores,87,1,70000
-Andalucia,Jaen,Piso,Calle Ubeda,101,3,60000
-Andalucia,Jaen,Chalet,Avenida Juan Carlos I,224,5,40000
-Andalucia,Jaen,Chalet,Calle Felguera,219,6,75000
-Andalucia,Jaen,Piso,Calle Numancia,73,2,100000
-Andalucia,Jaen,Piso,Calle Pedro Poveda,104,3,72000
-Andalucia,Jaen,Chalet,Calle Martin de Avalos,93,3,69483
-Andalucia,Jaen,Chalet,Calle Colon,138,2,25200
-Andalucia,Jaen,Piso,Paseo Marqueses de Linares,89,3,55000
-Andalucia,Jaen,Piso,Calle Jaen,116,3,75000
-Andalucia,Jaen,Chalet,Calle Paco Clavijo,202,3,50000
-Andalucia,Jaen,Chalet,Calle Progreso,189,5,99000
-Andalucia,Jaen,Chalet,Calle Coral Andres Segovia,193,4,198000
-Andalucia,Jaen,Piso,Calle Rio Genil,74,3,25000
-Andalucia,Jaen,Chalet,Calle Fuente del Oso,190,5,210000
-Andalucia,Jaen,Piso,Calle Anton de Jaen,120,3,96000
-Andalucia,Jaen,Chalet,Via,1200,4,100000
-Andalucia,Jaen,Chalet,Calle del Banco,210,5,78000
-Andalucia,Jaen,Piso,Camino Madronal,118,3,25000
-Andalucia,Jaen,Piso,Calle Pintor Zuloaga,111,4,92000
-Andalucia,Jaen,Piso,Ronda Astronomo Al-Jayyani,75,2,65000
-Andalucia,Jaen,Piso,Calle Nucleo Residencial la Paz,118,4,50000
-Andalucia,Jaen,Piso,Calle Numancia,73,2,100000
-Andalucia,Jaen,Piso,Avenida San Sebastian,167,4,140000
-Andalucia,Jaen,Chalet,Calle Don Juan,90,2,12750
-Andalucia,Jaen,Casa Rural,Calle Pablo Iglesias 1,45,1,33000
-Andalucia,Jaen,Piso,Linarejos,124,3,88000
-Andalucia,Jaen,Chalet,Centro Ciudad,292,6,110000
-Andalucia,Jaen,Chalet,Arrayanes,143,3,49000
-Andalucia,Jaen,Chalet,Calle Virgen de los Remedios 3,112,3,31600
-Andalucia,Jaen,Piso,Centro Ciudad,105,2,69000
-Andalucia,Jaen,Piso,Centro Ciudad,102,3,87000
-Andalucia,Jaen,Piso,Calle Espana 65,142,4,82200
-Andalucia,Jaen,Piso,Linarejos,110,3,59000
-Andalucia,Jaen,Piso,Torredelcampo,109,3,125000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,116,4,139500
-Andalucia,Jaen,Piso,Calle Virgen de la Paloma 5,71,2,55000
-Andalucia,Jaen,Piso,Calle Aurea Galindo 76,94,3,85000
-Andalucia,Jaen,Chalet,Calle Granada 28,159,4,310300
-Andalucia,Jaen,Piso,Carretera Andujar 3,466,3,159000
-Andalucia,Jaen,Chalet,Calle Baluarte 17,45,1,7400
-Andalucia,Jaen,Chalet,Calle Virgen de Tiscar,86,3,186000
-Andalucia,Jaen,Piso,Calle Pedro Perez 54,134,4,68000
-Andalucia,Jaen,Piso,Navas de Tolosa 17,95,3,90000
-Andalucia,Jaen,Piso,Plaza de Cambil 2,99,3,73577
-Andalucia,Jaen,Piso,Centro Ciudad,103,3,88000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,101,3,135000
-Andalucia,Jaen,Chalet,Calle Alamos s/n,154,4,8400
-Andalucia,Jaen,Chalet,Calle Ramon y Cajal 1,128,4,69000
-Andalucia,Jaen,Duplex,Ctra Circunvalacion - La Magdalena,103,3,167000
-Andalucia,Jaen,Atico,Paseo de la Estacion 35,143,4,99000
-Andalucia,Jaen,Piso,Calle Bailen s/n,84,3,88800
-Andalucia,Jaen,Piso,Calle Santa Clara 12,96,3,103500
-Andalucia,Jaen,Chalet,Calle Santa Ana s/n,119,3,6300
-Andalucia,Jaen,Chalet,Puente de la Sierra 4,2581,4,195000
-Andalucia,Jaen,Chalet,Calle Pascual Leyva 12,78,2,22000
-Andalucia,Jaen,Duplex,Ctra Circunvalacion - La Magdalena,115,3,167000
-Andalucia,Jaen,Chalet,Calle Antonio de las Vinas 5,293,4,298000
-Andalucia,Jaen,Chalet,Calle Buenavista,150,3,65000
-Andalucia,Jaen,Chalet,Calle Alamos s/n,134,4,8400
-Andalucia,Jaen,Piso,Calle Santa Clara 12,111,3,103500
-Andalucia,Jaen,Piso,Avenida de Madrid,75,3,157500
-Andalucia,Jaen,Piso,fuente alamillo,72,2,127000
-Andalucia,Jaen,Piso,Calle Juan Martin,119,3,82500
-Andalucia,Jaen,Piso,Calle D Luis Gutierrez de Caviedes 1,79,2,45000
-Andalucia,Jaen,Piso,Paseo de la Estacion,89,3,85000
-Andalucia,Jaen,Chalet,Calle Cardenal Benavides 52,149,4,49000
-Andalucia,Jaen,Chalet,tomillar,150,5,100000
-Andalucia,Jaen,Chalet,El Salograr s/n,62,2,150000
-Andalucia,Jaen,Piso,Calle Mezquita,124,4,77900
-Andalucia,Jaen,Chalet,UTRILLA 79,100,3,130000
-Andalucia,Jaen,Chalet,La Mina 21,150,4,380000
-Andalucia,Jaen,Piso,Calle San Clemente s/n,174,5,164000
-Andalucia,Jaen,Piso,Calle Pedro Perez,101,3,47000
-Andalucia,Jaen,Duplex,Calle LARGA,152,4,79900
-Andalucia,Jaen,Chalet,Calle Atalaya,280,7,175000
-Andalucia,Jaen,Piso,La Paz-Las Americas,80,3,35000
-Andalucia,Jaen,Piso,Abad Moya s/n,154,4,115000
-Andalucia,Jaen,Piso,Calle Fuente de Don Diego,100,3,110000
-Andalucia,Jaen,Piso,Calle Maria Auxiliadora s/n,68,2,72200
-Andalucia,Jaen,Piso,Calle Fuente del Alamillo,70,2,126900
-Andalucia,Jaen,Chalet,Aldea de Mures s/n,82,3,75000
-Andalucia,Jaen,Atico,Calle Cronista Gonzalez Lopez,295,7,480000
-Andalucia,Jaen,Piso,Calle Legazpi,4,3,55000
-Andalucia,Jaen,Piso,Calle Doctor Navarro Funes s/n,101,3,69400
-Andalucia,Jaen,Chalet,Avenida Andalucia,240,6,80000
-Andalucia,Jaen,Chalet,Calle Finlandia s/n,99,3,183500
-Andalucia,Jaen,Chalet,Camino la Carrera,190,3,200000
-Andalucia,Jaen,Chalet,Calle Mirador de Calatrava,259,4,270000
-Andalucia,Jaen,Piso,Calle Juan Nogales,47,1,90000
-Andalucia,Jaen,Chalet,Carretera Cordoba-Valencia,1200,5,220000
-Andalucia,Jaen,Piso,Calle San Joaquin s/n,94,3,71900
-Andalucia,Jaen,Piso,Calle Sebastian Elcano,68,2,20000
-Andalucia,Jaen,Chalet,Calle Luna s/n,95,3,64100
-Andalucia,Jaen,Chalet,Calle Ramon y Cajal,120,3,72200
-Andalucia,Jaen,Chalet,Camino DE JABALCUZ,800,6,500000
-Andalucia,Jaen,Atico,Calle Republica Argentina,70,3,185000
-Andalucia,Jaen,Chalet,Calle de Jose Molina 23,137,4,250000
-Andalucia,Jaen,Piso,Avenida Felix Rodriguez de la Fuente s/n,81,3,68800
-Andalucia,Jaen,Piso,Calle Maria Auxiliadora s/n,71,2,72200
-Andalucia,Jaen,Piso,Calle Campanario,75,2,50000
-Andalucia,Jaen,Atico,Calle Castilla,224,5,395000
-Andalucia,Jaen,Piso,Calle de los Bomberos s/n,110,3,92900
-Andalucia,Jaen,Chalet,Calle Luna s/n,100,3,44000
-Andalucia,Jaen,Chalet,JV-3003,120,3,202000
-Andalucia,Jaen,Atico,Calle Sor Isabel,68,2,119900
-Andalucia,Jaen,Atico,Calle San Juan,160,4,149000
-Andalucia,Jaen,Chalet,Calle santa elena,80,2,90000
-Andalucia,Jaen,Piso,Calle Balbino Quesada,110,3,39000
-Andalucia,Jaen,Chalet,Calle Emperador Carlos,193,7,160000
-Andalucia,Jaen,Chalet,Cuesta Merced s/n,87,3,129200
-Andalucia,Jaen,Piso,Plaza Jose Leon,68,2,60000
-Andalucia,Jaen,Duplex,Calle cava,245,3,325000
-Andalucia,Jaen,Piso,Avenida Joaquin Costa s/n,110,3,44800
-Andalucia,Jaen,Chalet,Calle Pintor Juan Esteban,85,3,50000
-Andalucia,Jaen,Chalet,Calle Cobatillas Altas,86,3,45000
-Andalucia,Jaen,Piso,Calle Juan Nogales,44,1,90000
-Andalucia,Jaen,Chalet,Carretera Cordoba-Valencia,1200,5,220000
-Andalucia,Jaen,Chalet,Calle Lecheras,111,3,57000
-Andalucia,Jaen,Piso,Calle Numancia,154,4,75000
-Andalucia,Jaen,Chalet,Calle Luna s/n,88,3,64100
-Andalucia,Jaen,Piso,Avenida de la Constitucion,102,3,100000
-Andalucia,Jaen,Piso,Calle Fuente del Alamillo,70,2,126900
-Andalucia,Jaen,Chalet,Calle Mendez 6,150,4,26000
-Andalucia,Jaen,Chalet,Calle Perez Galdos s/n,80,3,36300
-Andalucia,Jaen,Chalet,Avenida Andalucia,210,6,80000
-Andalucia,Jaen,Piso,Calle San Sebastian,147,5,95000
-Andalucia,Jaen,Piso,Plaza Hermanos Alvarez Quintero,109,3,43000
-Andalucia,Jaen,Chalet,Calle Carniceria,1726,3,14800
-Andalucia,Jaen,Chalet,Calle Jesus s/n,136,4,60500
-Andalucia,Jaen,Piso,madre soledad torres acosta,131,4,190000
-Andalucia,Jaen,Chalet,La Paz-Las Americas,296,3,146000
-Andalucia,Jaen,Chalet,Plaza Jaen,100,3,72000
-Andalucia,Jaen,Piso,Carretera DE JAEN 2,105,3,165000
-Andalucia,Jaen,Chalet,Calle Nogal,229,6,430000
-Andalucia,Jaen,Chalet,Calle Jaen s/n,95,3,38500
-Andalucia,Jaen,Chalet,Calle Jesus s/n,134,4,60500
-Andalucia,Jaen,Chalet,Calle Emperador Carlos,193,7,160000
-Andalucia,Jaen,Chalet,Ubeda,808,6,320000
-Andalucia,Jaen,Chalet,Calle santa elena,80,2,90000
-Andalucia,Jaen,Chalet,Calle Almoguer 9,93,3,64000
-Andalucia,Jaen,Piso,Calle Juan Nogales,47,1,90000
-Andalucia,Jaen,Chalet,Calle Perez Galdos s/n,110,3,36300
-Andalucia,Jaen,Atico,Calle San Juan,157,4,149000
-Andalucia,Jaen,Chalet,Calle Luna s/n,103,3,44000
-Andalucia,Jaen,Piso,Avenida Joaquin Costa s/n,111,3,44800
-Andalucia,Jaen,Chalet,Calle Pintor Fausto Olivares,327,4,360000
-Andalucia,Jaen,Piso,Centro Ciudad,99,3,74500
-Andalucia,Jaen,Atico,Calle Republica Argentina,70,3,185000
-Andalucia,Jaen,Piso,Calle Santa Engracia,107,3,69000
-Andalucia,Jaen,Atico,Calle Sor Isabel,72,2,119900
-Andalucia,Jaen,Chalet,Calle Jaen s/n,110,3,38500
-Andalucia,Jaen,Chalet,Calle Finlandia s/n,100,3,183500
-Andalucia,Jaen,Chalet,Calle Carniceria,1726,3,14800
-Andalucia,Jaen,Chalet,Avenida Andalucia,212,6,80000
-Andalucia,Jaen,Piso,Calle Villacarrillo,110,3,60000
-Andalucia,Jaen,Chalet,Pozo Ancho s/n,135,4,53400
-Andalucia,Jaen,Piso,Calle Legazpi,4,3,55000
-Andalucia,Jaen,Chalet,Calle de Jose Molina 23,140,4,250000
-Andalucia,Jaen,Piso,Calle Balbino Quesada,110,3,39000
-Andalucia,Jaen,Chalet,Plaza Jaen,100,3,72000
-Andalucia,Jaen,Duplex,Ctra Circunvalacion - La Magdalena,104,3,107600
-Andalucia,Jaen,Chalet,joaquin costa,400,5,390000
-Andalucia,Jaen,Chalet,donantes de sangre,147,2,165000
-Andalucia,Jaen,Piso,San Antonio,104,4,98000
-Andalucia,Jaen,Piso,Calle Flores de Lemus,151,4,169100
-Andalucia,Jaen,Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,299,7,39500
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,103,3,36975
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,190,4,109900
-Andalucia,Jaen,Piso,Barriada la Paz,88,3,41000
-Andalucia,Jaen,Chalet,Centro Ciudad,137,4,210000
-Andalucia,Jaen,Piso,Calle Antonio Munoz Molina,125,4,195000
-Andalucia,Jaen,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,5100,3,95000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,106,4,97000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,55,2,54000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,139,4,154900
-Andalucia,Jaen,Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,274,7,39500
-Andalucia,Jaen,Piso,Calle Virgen de la Capilla,136,3,260000
-Andalucia,Jaen,Piso,Calle Forjadores s/n,159,4,145500
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1195,5,110000
-Andalucia,Jaen,Chalet,Calle Buenavista,191,5,255000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,55,2,54000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,149,4,154900
-Andalucia,Jaen,Chalet,Calle Castillo 76,101,3,33000
-Andalucia,Jaen,Piso,Ronda Juez Juan Ruiz Rico,73,2,150000
-Andalucia,Jaen,Piso,Avenida de granada,100,4,164000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,66,2,40000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,148,2,69000
-Andalucia,Jaen,Chalet,Calle Maestra 26,132,4,32000
-Andalucia,Jaen,Chalet,Calle belen,500,4,250000
-Andalucia,Jaen,Piso,Calle Jorge Morales,97,3,135000
-Andalucia,Jaen,Chalet,ALBERTI,110,3,45000
-Andalucia,Jaen,Chalet,altozano,683,15,160000
-Andalucia,Jaen,Casa Rural,La Carolina,371,5,1100000
-Andalucia,Jaen,Chalet,Calle virgen de la cabeza,221,4,163000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,65,3,59000
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,85,3,58900
-Andalucia,Jaen,Piso,Calle Juanito Valderrama,74,2,125000
-Andalucia,Jaen,Chalet,Calle Catalina Mir Real,141,4,398000
-Andalucia,Jaen,Atico,Calle parrilla,89,3,132000
-Andalucia,Jaen,Piso,Calle San Clemente,150,4,175000
-Andalucia,Jaen,Piso,Calle Canadilla,111,4,79000
-Andalucia,Jaen,Casa Rural,Andujar,113,3,168000
-Andalucia,Jaen,Piso,Paseo de la Estacion,75,2,225000
-Andalucia,Jaen,Chalet,Calle Camilo Jose Cela s/n,92,3,126500
-Andalucia,Jaen,Piso,Calle Antonio Munoz Molina,140,4,195000
-Andalucia,Jaen,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,8966,2,105000
-Andalucia,Jaen,Piso,CRONISTA GONZALEZ LOPEZ,14,2,205000
-Andalucia,Jaen,Chalet,colegio guadalimar,233,5,165000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,63,2,269000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,133,4,190000
-Andalucia,Jaen,Chalet,Camino de Sierra Magina,186,5,370000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,159,4,84900
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,106,4,97000
-Andalucia,Jaen,Chalet,donantes de sangre,147,2,165000
-Andalucia,Jaen,Piso,Avenida Ruiz Jimenez,138,4,175000
-Andalucia,Jaen,Chalet,Calle Catalina Mir Real,152,4,398000
-Andalucia,Jaen,Chalet,Calle belen,500,4,250000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,65,3,69900
-Andalucia,Jaen,Chalet,altozano,485,15,160000
-Andalucia,Jaen,Piso,Calle Fermin Palma,198,5,312000
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1195,5,110000
-Andalucia,Jaen,Piso,Calle Antonio Munoz Molina,153,4,195000
-Andalucia,Jaen,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,5100,3,95000
-Andalucia,Jaen,Chalet,joaquin costa,400,5,390000
-Andalucia,Jaen,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1000,6,250000
-Andalucia,Jaen,Piso,Mancha Real,97,3,90000
-Andalucia,Jaen,Duplex,Valdeastillas - Fuentezuelas,160,5,279000
-Andalucia,Jaen,Chalet,Arjonilla,89,3,55000
-Andalucia,Jaen,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1300,5,250000
-Andalucia,Jaen,Chalet,Santa Isabel,1200,3,170000
-Andalucia,Jaen,Atico,Los Villares,70,1,78000
-Andalucia,Jaen,Piso,Mancha Real,114,3,40000
-Andalucia,Jaen,Chalet,Belen - San Roque,90,5,390000
-Andalucia,Jaen,Atico,San Ildefonso - Catedral,95,3,180000
-Andalucia,Jaen,Casa Rural,Calle Herrera 17,7000,8,399000
-Andalucia,Jaen,Chalet,El Valle - Universidad,142,4,200000
-Andalucia,Jaen,Casa Rural,Calle Dordas 4,99,3,150000
-Andalucia,Jaen,Chalet,Los Villares,275,5,180000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,72,3,64000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,91,3,120000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,100,4,36000
-Andalucia,Jaen,Piso,Plaza San Roque 2,102,3,135000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,152,4,187000
-Andalucia,Jaen,Chalet,Calle Alegria 18,47,1,10000
-Andalucia,Jaen,Piso,Villanueva del Arzobispo,135,3,85000
-Andalucia,Jaen,Piso,Valdeastillas - Fuentezuelas,122,4,179900
-Andalucia,Jaen,Chalet,ROSALES 14,77,2,28000
-Andalucia,Jaen,Piso,Calle SEVILLA,157,4,74000
-Andalucia,Jaen,Piso,Calle conde,44,1,105000
-Andalucia,Jaen,Chalet,Calle Miguel Hernandez 3  - A,215,4,245000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,86,3,90000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,81,3,90000
-Andalucia,Jaen,Atico,Torredelcampo,4,3,110000
-Andalucia,Jaen,Casa Rural,Pasaje cr circunvalacion,130,4,310000
-Andalucia,Jaen,Atico,San Ildefonso - Catedral,73,2,160000
-Andalucia,Jaen,Casa Rural,Carretera Mogon s/n,14161,3,198000
-Andalucia,Jaen,Chalet,La Guardia de Jaen,100,4,36000
-Andalucia,Jaen,Casa Rural,Calle Dordas 4,112,3,150000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,171,5,123000
-Andalucia,Jaen,Duplex,Valdeastillas - Fuentezuelas,160,5,279000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,136,4,187000
-Andalucia,Jaen,Chalet,El Valle - Universidad,141,4,200000
-Andalucia,Jaen,Chalet,Mengibar,894,8,1750000
-Andalucia,Jaen,Chalet,Calle Felipe 54,106,3,27000
-Andalucia,Jaen,Chalet,Carretera de Cazorla,147,4,12000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,114,3,90000
-Andalucia,Jaen,Chalet,Calle Alegria 18,58,1,10000
-Andalucia,Jaen,Piso,Plaza San Roque 2,85,3,135000
-Andalucia,Jaen,Casa Rural,Pasaje cr circunvalacion,136,4,310000
-Andalucia,Jaen,Piso,Calle conde,77,2,155000
-Andalucia,Jaen,Chalet,Los Villares,275,5,180000
-Andalucia,Jaen,Chalet,Mancha Real,116,3,130000
-Andalucia,Jaen,Chalet,Ctra Circunvalacion - La Magdalena,112,3,45000
-Andalucia,Jaen,Chalet,Arjonilla,101,3,55000
-Andalucia,Jaen,Piso,San Felipe - El Almendral - La Merced,72,3,64000
-Andalucia,Jaen,Duplex,Calle el Viso 4,40,3,166000
-Andalucia,Jaen,Chalet,Ctra Circunvalacion - La Magdalena,96,3,63000
-Andalucia,Jaen,Piso,Tallista Vicente Castillo Gutierrez,83,3,109990
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,89,3,90000
-Andalucia,Jaen,Chalet,Calle Miguel Hernandez 3  - A,215,4,245000
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,14271,4,64000
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,71,4,64000
-Andalucia,Jaen,Chalet,Calle Guadalbullon,136,4,54000
-Andalucia,Jaen,Piso,Belen - San Roque,130,4,155000
-Andalucia,Jaen,Piso,Calle la Peralea,58,4,61000
-Andalucia,Jaen,Piso,Calle la Peralea,13086,3,59000
-Andalucia,Jaen,Piso,Plaza Mayor,186,3,80000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,91,3,49900
-Andalucia,Jaen,Duplex,San Ildefonso - Catedral,165,5,249900
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,13934,4,64000
-Andalucia,Jaen,Piso,Calle Barcelona,15103,4,105000
-Andalucia,Jaen,Casa Rural,Peal de Becerro,123,4,116000
-Andalucia,Jaen,Duplex,Valdeastillas - Fuentezuelas,130,4,280000
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,208,6,180000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,114,4,115000
-Andalucia,Jaen,Piso,hornos Santiago,65,2,34900
-Andalucia,Jaen,Piso,Almendros Aguilar,120,3,65000
-Andalucia,Jaen,Piso,Avda de Madrid - Po de la Estacion,114,4,115000
-Andalucia,Jaen,Casa Rural,Peal de Becerro,150,4,116000
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,14271,4,64000
-Andalucia,Jaen,Piso,Belen - San Roque,141,4,170000
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,13934,4,64000
-Andalucia,Jaen,Duplex,San Ildefonso - Catedral,184,5,249900
-Andalucia,Jaen,Piso,Calle Fuente de la Teja,71,4,64000
-Andalucia,Jaen,Piso,Plaza Mayor,186,3,80000
-Andalucia,Jaen,Piso,Calle Rey San Fernando,88,3,76000
-Andalucia,Jaen,Piso,Ctra Circunvalacion - La Magdalena,101,3,49900
-Andalucia,Jaen,Piso,Calle la Peralea,13558,4,61000
-Andalucia,Jaen,Chalet,Calle Baluarte,103,4,7400
-Andalucia,Jaen,Piso,Calle Santa Isabel,95,3,43000
-Andalucia,Jaen,Piso,Calle la Peralea,58,4,61000
-Andalucia,Jaen,Piso,Calle la Peralea,13086,3,59000
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,224,6,180000
-Andalucia,Jaen,Piso,Calle Federico Mayo,62,3,48400
-Andalucia,Jaen,Duplex,Avenida Constitucion,118,3,43000
-Andalucia,Jaen,Piso,Calle Maria Auxiliadora,95,3,84000
-Andalucia,Jaen,Piso,Calle Pintor Sorolla,86,3,66000
-Andalucia,Jaen,Chalet,Calle Pilarejo,280,4,130000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,95,3,90000
-Andalucia,Jaen,Chalet,Calle Eisman Higueras 230,79,2,54000
-Andalucia,Jaen,Chalet,Ubeda,128,2,130000
-Andalucia,Jaen,Chalet,Calle de la Constitucion 16,52,7,119990
-Andalucia,Jaen,Chalet,Carretera Cordoba-Valencia 5,150,3,260000
-Andalucia,Jaen,Chalet,Calle Relex 28,30,4,57000
-Andalucia,Jaen,Piso,Calle Libertad 3,168,3,150000
-Andalucia,Jaen,Piso,Arroyo de San Pedro 9,101,3,99000
-Andalucia,Jaen,Piso,Plaza los Jardinillos 5,73,2,180000
-Andalucia,Jaen,Piso,Calle Profesor Tierno Galvan,115,3,42000
-Andalucia,Jaen,Duplex,Calle de la Cruz 24,96,3,136820
-Andalucia,Jaen,Chalet,La Salobreja,1500,6,285000
-Andalucia,Jaen,Piso,Paseo de la Estacion,53,1,118000
-Andalucia,Jaen,Piso,Avenida de la libertad 16,49,1,140000
-Andalucia,Jaen,Piso,Calle Corredera San Bartolome,148,4,109000
-Andalucia,Jaen,Piso,Calle Pizarro 5,112,3,83000
-Andalucia,Jaen,Casa Rural,Calle Prim 19,182,3,50000
-Andalucia,Jaen,Piso,Calle Mesa,109,3,133900
-Andalucia,Jaen,Piso,Calle Bolero 58,111,3,66000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,113,4,140000
-Andalucia,Jaen,Piso,Puente Tablas - Puente Nuevo - Cerro Molina,85,3,140000
-Andalucia,Jaen,Chalet,Calle Monjas Altas,194,5,300000
-Andalucia,Jaen,Chalet,Calle Maleza,600,6,600000
-Andalucia,Jaen,Atico,Avda de Madrid - Po de la Estacion,25,3,220000
-Andalucia,Jaen,Piso,Calle Pizarro 5,84,3,83000
-Andalucia,Jaen,Chalet,Mancha Real,6180,4,230000
-Andalucia,Jaen,Piso,Calle Profesor Tierno Galvan,115,3,42000
-Andalucia,Jaen,Chalet,Calle Sierra la Caracolera,1054,5,420000
-Andalucia,Jaen,Casa Rural,Calle Campanas 2,214,6,220000
-Andalucia,Jaen,Chalet,Carretera Cordoba-Valencia 5,150,3,260000
-Andalucia,Jaen,Chalet,Arrayanes,136,4,85000
-Andalucia,Jaen,Piso,Calle O'Donell 3,74,2,86000
-Andalucia,Jaen,Piso,Avenida de San Amador,150,4,120000
-Andalucia,Jaen,Piso,Calle Navas de Tolosa,212,4,225000
-Andalucia,Jaen,Casa Rural,Calle Prim 19,182,3,50000
-Andalucia,Jaen,Piso,Avenida de la Fuente de la Villa,80,2,74000
-Andalucia,Jaen,Piso,Calle de la Comunidad Foral de Navarra,111,4,175000
-Andalucia,Jaen,Piso,Belen - San Roque,117,3,145000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,103,3,90000
-Andalucia,Jaen,Chalet,Sixto Camara 11,74,2,22000
-Andalucia,Jaen,Piso,Calle Corredera San Bartolome,148,4,109000
-Andalucia,Jaen,Piso,Avenida Libertad 31,118,3,100000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,149,4,145000
-Andalucia,Jaen,Piso,Paseo de la Estacion,55,1,118000
-Andalucia,Jaen,Piso,Torredonjimeno,13,3,120500
-Andalucia,Jaen,Piso,Alcantarilla - La Glorieta,60,2,60000
-Andalucia,Jaen,Chalet,Ubeda,128,2,130000
-Andalucia,Jaen,Piso,Calle Almendros Aguilar,41,1,58000
-Andalucia,Jaen,Piso,Calle de la villa 25,124,4,120000
-Andalucia,Jaen,Casa Rural,Aldea de Miller s/n,80,4,28000
-Andalucia,Jaen,Chalet,Renfe - Bulevar 1o y 2o Fase,107,3,360000
-Andalucia,Jaen,Piso,lope de vega,114,3,135000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,142,4,128000
-Andalucia,Jaen,Piso,Avenida de la libertad 16,53,1,140000
-Andalucia,Jaen,Casa Rural,Tiscar,58,1,141300
-Andalucia,Jaen,Chalet,Calle la Teja 89,107,3,190000
-Andalucia,Jaen,Chalet,La Salobreja,1500,6,285000
-Andalucia,Jaen,Casa Rural,Calle Campanas 2,232,6,220000
-Andalucia,Jaen,Atico,Avda de Madrid - Po de la Estacion,25,3,220000
-Andalucia,Jaen,Piso,Penamefecit - Avda Barcelona,124,4,128000
-Andalucia,Jaen,Piso,Calle Isabel la Catolica 2,113,3,110000
-Andalucia,Jaen,Casa Rural,Aldea de Miller s/n,80,4,28000
-Andalucia,Jaen,Chalet,Huertas,232,4,98000
-Andalucia,Jaen,Piso,Centro Ciudad,128,4,86000
-Andalucia,Jaen,Piso,Avenida Barcelona 12,127,3,169000
-Andalucia,Jaen,Chalet,Calle Alta del Salvador,596,8,500000
-Andalucia,Jaen,Casa Rural,Calle Francisco Coello 14,28,9,950000
-Andalucia,Jaen,Chalet,San Bartolome - Millan de Priego,266,7,400000
-Andalucia,Jaen,Piso,Hospital,180,4,260000
-Andalucia,Jaen,Chalet,Avenida del Ejercito Espanol,20,7,380000
-Andalucia,Jaen,Chalet,Valdeastillas - Fuentezuelas,13000,7,410000
-Andalucia,Jaen,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,220,7,300000
-Andalucia,Jaen,Piso,Valdeastillas - Fuentezuelas,50,1,89000
-Andalucia,Jaen,Chalet,los Vadillos,1600,3,130000
-Andalucia,Jaen,Chalet,Travesia Salobreja,152,4,199000
-Andalucia,Jaen,Piso,isabel la catolina,110,4,115000
-Andalucia,Jaen,Chalet,Calle Alcazar 4,72,2,150000
-Andalucia,Jaen,Chalet,Guarroman,150,3,75000
-Andalucia,Jaen,Casa Rural,Calle el Molar 29,70,2,33000
-Andalucia,Jaen,Piso,Calle Maestro Bernardo Estepa,78,2,52400
-Andalucia,Jaen,Piso,Calle Cordoba,60,2,65000
-Andalucia,Jaen,Chalet,Ctra Circunvalacion - La Magdalena,88,3,65000
-Andalucia,Jaen,Piso,Calle Maestro Bernardo Estepa,90,3,64000
-Andalucia,Jaen,Piso,Almedros Aguilar,86,3,80000
-Andalucia,Jaen,Piso,Calle Fuente de la Mimbre,55,1,89000
-Andalucia,Jaen,Piso,Centro Ciudad,170,4,97000
-Andalucia,Jaen,Chalet,Arrayanes,121,3,34000
-Andalucia,Jaen,Duplex,Valdeastillas - Fuentezuelas,10,6,269000
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,70,2,330000
-Andalucia,Jaen,Piso,Avenida de Andalucia,112,4,123000
-Andalucia,Jaen,Piso,Paseo de la Estacion,149,4,240000
-Andalucia,Jaen,Piso,Centro Ciudad,72,2,66000
-Andalucia,Jaen,Chalet,Alameda de Adolfo Suarez,181,5,269000
-Andalucia,Jaen,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1300,2,120000
-Andalucia,Jaen,Atico,Calle Almodovar,105,3,65000
-Andalucia,Jaen,Piso,Linarejos,144,4,70000
-Andalucia,Jaen,Chalet,Carretera de frailes,113,3,240000
-Andalucia,Jaen,Piso,Avenida Barcelona 12,127,3,169000
-Andalucia,Jaen,Piso,Calle Cristo Rey,93,3,44000
-Andalucia,Jaen,Piso,Calle Maestra,46,1,55000
-Andalucia,Jaen,Piso,Centro Ciudad,77,2,66000
-Andalucia,Jaen,Piso,Linarejos,150,4,99000
-Andalucia,Jaen,Piso,Avenida de Martos,87,3,35000
-Andalucia,Jaen,Piso,Calle Cordoba,63,2,65000
-Andalucia,Jaen,Chalet,Calle Alcazar 4,71,2,150000
-Andalucia,Jaen,Piso,Calle Moredal 1,98,3,61000
-Andalucia,Jaen,Piso,Calle Maestro Bernardo Estepa,90,3,69900
-Andalucia,Jaen,Chalet,Andujar,40,3,96000
-Andalucia,Jaen,Piso,San Bartolome - Millan de Priego,88,3,110000
-Andalucia,Jaen,Chalet,Camino de Valdecanas,1040,3,155000
-Andalucia,Jaen,Chalet,Arrayanes,133,5,32000
-Andalucia,Jaen,Chalet,San Roque - La Cruz - La Rozuela,2700,5,240000
-Andalucia,Jaen,Chalet,los Vadillos,1600,3,130000
-Andalucia,Jaen,Chalet,Jabalcuz,500,3,130000
-Andalucia,Jaen,Chalet,Avenida del Ejercito Espanol,20,7,380000
-Andalucia,Jaen,Piso,Centro Ciudad,170,4,97000
-Andalucia,Jaen,Piso,Linarejos,144,4,70000
-Andalucia,Jaen,Piso,Linarejos,88,3,46000
-Andalucia,Jaen,Piso,Calle Virgen de Guadalupe 39,124,4,125000
-Andalucia,Jaen,Piso,Santa Isabel,109,3,206000
-Andalucia,Jaen,Piso,Renfe - Bulevar 1o y 2o Fase,65,2,330000
-Andalucia,Jaen,Chalet,San Felipe - El Almendral - La Merced,30,3,186000
-Andalucia,Jaen,Chalet,Torreblascopedro,465,5,180000
-Andalucia,Jaen,Atico,Alcantarilla - La Glorieta,82,2,100000
-Andalucia,Jaen,Chalet,Tejuela,155,4,170000
-Andalucia,Jaen,Piso,Paseo de la Estacion,160,4,240000
-Andalucia,Jaen,Piso,Calle Cruz Roja Espanola 4,159,4,375000
-Andalucia,Jaen,Piso,Calle Maestro Bernardo Estepa,78,2,52400
-Andalucia,Jaen,Piso,Calle Virgen de la Capilla,103,3,165000
-Andalucia,Jaen,Piso,San Ildefonso - Catedral,16,3,175900
-Andalucia,Jaen,Chalet,La Zarzuela-San Jose-Belen,210,4,54000
-Andalucia,Jaen,Piso,Avenida Rafael Alberti 17,84,3,95000
-Andalucia,Jaen,Chalet,Urbanizacion Jabalcuz,75,5,230000
-Andalucia,Jaen,Chalet,Pozo Alcon,2500,4,292000
-Andalucia,Jaen,Piso,Avenida de Madrid 11,120,3,145000
-Andalucia,Jaen,Piso,Centro Ciudad,89,3,51000
-Andalucia,Jaen,Atico,Calle Almodovar,87,3,65000
+C. Autónoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
+Andalucía,Jaén,Chalet,La Guardia de Jaen,500,3,250000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,96,3,130000
+Andalucía,Jaén,Chalet,Calle Manuel de Falla 6,286,7,590000
+Andalucía,Jaén,Chalet,Calle Ubeda,173,5,115000
+Andalucía,Jaén,Chalet,Los Villares,195,4,113000
+Andalucía,Jaén,Chalet,Calle Conde Mejorada,255,7,140000
+Andalucía,Jaén,Piso,Calle Obispo Alonso Suarez,157,4,189900
+Andalucía,Jaén,Piso,Calle Armando Palacio Valdes,115,3,69500
+Andalucía,Jaén,Piso,Via Augusta,136,4,105000
+Andalucía,Jaén,Chalet,JV-7003,152,4,165000
+Andalucía,Jaén,Chalet,Calle Alberquilla,155,4,900000
+Andalucía,Jaén,Chalet,Calle Eras,121,4,175000
+Andalucía,Jaén,Chalet,Calle B,177,5,449000
+Andalucía,Jaén,Chalet,diseminado,0,18,772500
+Andalucía,Jaén,Piso,Avenida Valencia,99,3,80000
+Andalucía,Jaén,Duplex,Calle Goya 10,140,4,245000
+Andalucía,Jaén,Chalet,francisco cobos 8,134,4,79900
+Andalucía,Jaén,Piso,Calle Bernabe Soriano 24,120,3,230000
+Andalucía,Jaén,Piso,Avenida de Madrid 49,109,3,239000
+Andalucía,Jaén,Chalet,Plaza Ciudad Jardin 12,177,5,150000
+Andalucía,Jaén,Chalet,Reyes catolicos 14,140,3,105000
+Andalucía,Jaén,Piso,Avenida Andalucia 101,131,4,69000
+Andalucía,Jaén,Piso,Ronda Juez Juan Ruiz Rico 1,61,2,143000
+Andalucía,Jaén,Piso,Calle Torrecillas 22,94,3,88000
+Andalucía,Jaén,Chalet,Calle Santo Rostro 2,158,4,210000
+Andalucía,Jaén,Piso,Lopera,121,4,85000
+Andalucía,Jaén,Piso,Centro Ciudad,129,4,120000
+Andalucía,Jaén,Chalet,Bailen,163,5,750000
+Andalucía,Jaén,Chalet,Arjona,110,3,210000
+Andalucía,Jaén,Chalet,Ubeda,72,2,520000
+Andalucía,Jaén,Piso,La Carolina,82,3,35500
+Andalucía,Jaén,Piso,Calle Ejido Bajo 21,136,3,69900
+Andalucía,Jaén,Piso,Calle Jaime I el Conquistador,60,2,44000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,131,4,78000
+Andalucía,Jaén,Piso,Calle Linares,181,3,290000
+Andalucía,Jaén,Piso,Calle San Andres,97,3,42500
+Andalucía,Jaén,Chalet,Calle Santa Maria,740,10,80000
+Andalucía,Jaén,Chalet,Calle Matilla,356,8,450000
+Andalucía,Jaén,Chalet,Calle Santa Lucia,21,5,300000
+Andalucía,Jaén,Piso,Paseo de la Estacion,250,4,240000
+Andalucía,Jaén,Piso,Paseo de la Estacion,250,4,240000
+Andalucía,Jaén,Chalet,Calle Obispo Cobos 45,221,6,460000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,130,4,160000
+Andalucía,Jaén,Piso,Calle Maria Auxiliadora,90,4,85000
+Andalucía,Jaén,Piso,Calle San Clemente,77,2,87000
+Andalucía,Jaén,Chalet,Calle Cerro Algibillo 2,242,6,280000
+Andalucía,Jaén,Piso,Paseo de la Estacion 42,162,5,169000
+Andalucía,Jaén,Chalet,Cronista Ruiz Prieto 8,74,3,29900
+Andalucía,Jaén,Chalet,Calle Santo Cristo 8,73,2,55000
+Andalucía,Jaén,Chalet,Calle el Mulero 10,127,4,135000
+Andalucía,Jaén,Duplex,Federica Montseny 6,110,3,99000
+Andalucía,Jaén,Chalet,Calle Real 105,216,6,138000
+Andalucía,Jaén,Piso,Calle los Molinos 6,99,3,89500
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,82,3,52000
+Andalucía,Jaén,Chalet,Calle Nieves,215,6,40000
+Andalucía,Jaén,Chalet,Calle San Juan de la Cruz 28,283,4,240000
+Andalucía,Jaén,Chalet,Notario Alfonso Luis Sanchez Fernandez,167,5,350000
+Andalucía,Jaén,Piso,Doctor Eduardo Arroyo,15,4,130000
+Andalucía,Jaén,Piso,Alcala la Real,184,3,130000
+Andalucía,Jaén,Chalet,Pintor Francisco Banos,107,3,360000
+Andalucía,Jaén,Piso,Calle Francisco Coello 31 con Pilar de la Imprenta 8  s/n,99,3,200000
+Andalucía,Jaén,Piso,Calle Fuente del Alamillo,75,2,139000
+Andalucía,Jaén,Duplex,Los Villares,104,3,160000
+Andalucía,Jaén,Chalet,Calle Santo Rostro s/n,134,4,84900
+Andalucía,Jaén,Chalet,Calle Munoz Garnica 11,244,4,295000
+Andalucía,Jaén,Piso,Calle Forjadores 12,69,2,79900
+Andalucía,Jaén,Piso,Calle Ancha 35,87,3,62500
+Andalucía,Jaén,Chalet,Calle Condestable Davalos 3,142,4,139900
+Andalucía,Jaén,Piso,Calle Arjona 2,109,3,58000
+Andalucía,Jaén,Piso,Calle Villacarrillo 19,99,3,68000
+Andalucía,Jaén,Chalet,Calle Vina Lozano 34,722,4,339000
+Andalucía,Jaén,Piso,Calle Forjadores 12,119,3,105000
+Andalucía,Jaén,Piso,Andujar 7,100,4,79900
+Andalucía,Jaén,Piso,Paseo de la Estacion 2,104,3,138000
+Andalucía,Jaén,Piso,Calle Cuatro Torres 4,134,3,150000
+Andalucía,Jaén,Piso,Avenida Libertad 44,90,3,82000
+Andalucía,Jaén,Piso,Avenida Libertad 13,120,4,67000
+Andalucía,Jaén,Chalet,Calle Caballerizo 20,262,4,99900
+Andalucía,Jaén,Chalet,Calle Pintor Orbaneja 6,375,10,375000
+Andalucía,Jaén,Piso,Avenida Antonio Machado 9,86,3,36000
+Andalucía,Jaén,Piso,Calle Ancha 35,116,3,62500
+Andalucía,Jaén,Chalet,Calle Condestable Davalos 3,141,4,139900
+Andalucía,Jaén,Chalet,Calle Caballerizo 20,262,4,99900
+Andalucía,Jaén,Piso,Calle Cuatro Torres 4,134,3,150000
+Andalucía,Jaén,Chalet,Calle Victoria 12,99,3,89000
+Andalucía,Jaén,Piso,Calle Emperador Carlos 90,74,2,76000
+Andalucía,Jaén,Piso,Avenida de la Constitucion 6,119,3,85000
+Andalucía,Jaén,Chalet,Calle fuente de las risas 20,130,2,110000
+Andalucía,Jaén,Piso,Pasaje Nueva Victoria 3,96,3,115000
+Andalucía,Jaén,Piso,Avenida Libertad 44,90,3,82000
+Andalucía,Jaén,Piso,Calle Forjadores 12,68,2,79900
+Andalucía,Jaén,Chalet,Calle Horno de San Millan,149,4,150000
+Andalucía,Jaén,Chalet,Calle Maestro Bartolome,100,5,95000
+Andalucía,Jaén,Piso,Calle Alaminos 20,184,5,85000
+Andalucía,Jaén,Piso,Paseo de Espana 50,25,4,184500
+Andalucía,Jaén,Piso,Avenida de Andalucia,88,3,125000
+Andalucía,Jaén,Piso,Calle Toro,62,2,65500
+Andalucía,Jaén,Chalet,Calle Los Cortijillos 2,102,3,499000
+Andalucía,Jaén,Piso,Calle Capitan Liebana 14,120,3,99000
+Andalucía,Jaén,Chalet,Calle Camilo Jose Cela,74,2,140000
+Andalucía,Jaén,Piso,Avenida de Andalucia,134,4,99000
+Andalucía,Jaén,Piso,Calle Munoz Garnica,54,1,79000
+Andalucía,Jaén,Chalet,JV-3222,30404,7,550000
+Andalucía,Jaén,Chalet,Carretera de Otinar,147,4,64000
+Andalucía,Jaén,Piso,Calle Sagasta,133,4,78000
+Andalucía,Jaén,Piso,Calle Cruz,115,3,65000
+Andalucía,Jaén,Piso,Avenida de Andalucia,102,3,100000
+Andalucía,Jaén,Piso,Av Libertad 20,94,3,79000
+Andalucía,Jaén,Piso,Calle Jorge Mercado 10,56,1,65000
+Andalucía,Jaén,Piso,Calle Ancha,169,4,150000
+Andalucía,Jaén,Chalet,Renfe - Bulevar 1o y 2o Fase,235,6,375000
+Andalucía,Jaén,Chalet,Calle General Castanos,117,3,102000
+Andalucía,Jaén,Piso,Calle Republica Argentina,70,2,76000
+Andalucía,Jaén,Casa Rural,Puerta de la Hombria,188,5,50000
+Andalucía,Jaén,Casa Rural,Avenida Felix Rodriguez de la Fuente,4800,7,1496000
+Andalucía,Jaén,Piso,Calle Corredera San Bartolome,95,3,49900
+Andalucía,Jaén,Piso,Calle Alta,70,2,52000
+Andalucía,Jaén,Chalet,Calle de Valencia,497,8,199000
+Andalucía,Jaén,Atico,Calle Trinidad,182,5,110000
+Andalucía,Jaén,Atico,Avenida Ramon y Cajal s/n,150,4,200000
+Andalucía,Jaén,Atico,Calle Trinidad,182,5,110000
+Andalucía,Jaén,Piso,NAVAS DE TOLOSA 2,195,4,230000
+Andalucía,Jaén,Chalet,Nogueruela,691,13,200000
+Andalucía,Jaén,Piso,Avenida DE GRANADA 24,116,4,125000
+Andalucía,Jaén,Chalet,Ubeda,1500,4,149000
+Andalucía,Jaén,Piso,Plaza de San Bartolome 1,166,5,135000
+Andalucía,Jaén,Casa Rural,Calle General Prim,140,3,75000
+Andalucía,Jaén,Chalet,Cazorla,347,4,320000
+Andalucía,Jaén,Chalet,Calle Riscos 3,75,2,59900
+Andalucía,Jaén,Duplex,Calle Emperador Carlos 90,104,3,129900
+Andalucía,Jaén,Piso,Calle Cazorla 31,74,2,57000
+Andalucía,Jaén,Piso,Mancha Real,130,3,89000
+Andalucía,Jaén,Piso,Calle Republica Argentina,96,3,87300
+Andalucía,Jaén,Piso,Republica Argentina,87,3,84500
+Andalucía,Jaén,Chalet,Calle Santo Bastian,70,3,70000
+Andalucía,Jaén,Chalet,Calle Emperador Carlos 7,195,4,111500
+Andalucía,Jaén,Piso,Calle Virgen del Rosario 32,113,3,70000
+Andalucía,Jaén,Chalet,Calle las Rosas,406,5,290000
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,90,3,223958
+Andalucía,Jaén,Chalet,Carretera de Cordoba,237,6,340000
+Andalucía,Jaén,Casa Rural,Castillo de Locubin,233,6,85000
+Andalucía,Jaén,Piso,Sorihuela del Guadalimar,76,2,229000
+Andalucía,Jaén,Casa Rural,Castillo de Locubin,230,6,85000
+Andalucía,Jaén,Casa Rural,Segura de la Sierra,220,6,260000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,100,4,145000
+Andalucía,Jaén,Piso,Calle Lizaderas,75,2,145000
+Andalucía,Jaén,Duplex,Torredelcampo,80,3,66000
+Andalucía,Jaén,Piso,Calle Montero Moya,62,2,59850
+Andalucía,Jaén,Piso,Plaza de la Macarena,72,4,188000
+Andalucía,Jaén,Chalet,Villardonpardo,123,4,56000
+Andalucía,Jaén,Chalet,Gran Capitan,106,3,58000
+Andalucía,Jaén,Piso,Mancha Real,125,3,110000
+Andalucía,Jaén,Chalet,Torres,199,5,39000
+Andalucía,Jaén,Piso,Mancha Real,102,3,68000
+Andalucía,Jaén,Piso,Mancha Real,143,3,80000
+Andalucía,Jaén,Chalet,Calle Garcia Morato,118,3,59900
+Andalucía,Jaén,Chalet,Calle Maria de Molina,376,4,180000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,60,2,58000
+Andalucía,Jaén,Piso,Hospital,133,4,280000
+Andalucía,Jaén,Piso,cava,80,2,74950
+Andalucía,Jaén,Piso,Colon,118,3,150000
+Andalucía,Jaén,Piso,Bailen,113,3,31000
+Andalucía,Jaén,Piso,Bailen,102,3,24300
+Andalucía,Jaén,Piso,Avenida de Granada,151,4,164000
+Andalucía,Jaén,Atico,Corredera Capuchinos,105,3,74500
+Andalucía,Jaén,Chalet,Calle Palmeras,205,6,59900
+Andalucía,Jaén,Chalet,Calle Sedeno,85,3,89000
+Andalucía,Jaén,Piso,Avenida Granada,101,3,190000
+Andalucía,Jaén,Piso,Calle Fuente de la Salud,154,4,189000
+Andalucía,Jaén,Piso,La Paz-Las Americas,140,4,40900
+Andalucía,Jaén,Chalet,San Bartolome - Millan de Priego,229,6,79900
+Andalucía,Jaén,Piso,Centro Ciudad,165,3,99000
+Andalucía,Jaén,Atico,Belen - San Roque,110,4,199500
+Andalucía,Jaén,Chalet,Alcala la Real,234,6,280000
+Andalucía,Jaén,Casa Rural,Alcala la Real,105,3,40000
+Andalucía,Jaén,Piso,Alcala la Real,104,3,120000
+Andalucía,Jaén,Piso,Alcala la Real,83,3,120000
+Andalucía,Jaén,Casa Rural,Embalse de aguascebas s/n,5222,4,450000
+Andalucía,Jaén,Chalet,Carretera valdepenas,86,3,166000
+Andalucía,Jaén,Chalet,Calle Conde Antillon 43,264,7,74100
+Andalucía,Jaén,Piso,Belen - San Roque,102,3,85000
+Andalucía,Jaén,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,64,2,90000
+Andalucía,Jaén,Chalet,Carretera nacional Bailen-Motril,118,3,189000
+Andalucía,Jaén,Chalet,Avenida Guadalquivir,221,6,17366
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,157,4,59900
+Andalucía,Jaén,Casa Rural,Quesada,20000,4,230000
+Andalucía,Jaén,Chalet,Quesada,20000,4,230000
+Andalucía,Jaén,Piso,Calle Maestro Cebrian,148,4,155000
+Andalucía,Jaén,Piso,Calle Real 43,94,3,25900
+Andalucía,Jaén,Piso,Guadalquivir,73,2,115000
+Andalucía,Jaén,Piso,Calle Fuente del Alamillo,41,1,89000
+Andalucía,Jaén,Piso,Torredonjimeno,140,4,150000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,117,3,87000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,107,3,39000
+Andalucía,Jaén,Piso,Betania,87,3,60000
+Andalucía,Jaén,Chalet,Calle Cojos 21,125,4,16300
+Andalucía,Jaén,Chalet,Calle Nueva 8,109,3,15000
+Andalucía,Jaén,Piso,Calle San Juan 19,98,3,115000
+Andalucía,Jaén,Piso,JUAN NOGALES,54,1,90000
+Andalucía,Jaén,Piso,Avenida andalucia,110,3,129000
+Andalucía,Jaén,Casa Rural,Calle Pontones 8,160,4,45000
+Andalucía,Jaén,Chalet,Calle Sol 59,99,3,59000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,120,3,37300
+Andalucía,Jaén,Chalet,Alcala la Real,134,4,59000
+Andalucía,Jaén,Chalet,Torredonjimeno,84,3,85000
+Andalucía,Jaén,Chalet,Calle los Calerines,32,3,89068
+Andalucía,Jaén,Chalet,EL SALVADOR esquina GENERAL LARIO PEREZ s/n,142,4,170000
+Andalucía,Jaén,Piso,Calle Rio Genil,101,3,52000
+Andalucía,Jaén,Piso,Calle Manuel Caballero Venzala,158,4,310000
+Andalucía,Jaén,Duplex,Plaza Jaen Por la Paz,171,5,380000
+Andalucía,Jaén,Piso,Calle Tinajeros,106,3,145000
+Andalucía,Jaén,Piso,Avenida Granada,148,4,170000
+Andalucía,Jaén,Piso,Calle Guadalquivir,61,2,115000
+Andalucía,Jaén,Piso,Paseo de Espana,139,4,330000
+Andalucía,Jaén,Chalet,Calle Carolina,97,3,195000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa s/n,65,2,186000
+Andalucía,Jaén,Piso,Avenida de Madrid s/n,90,3,159000
+Andalucía,Jaén,Chalet,Calle los Calerines,32,3,272979
+Andalucía,Jaén,Chalet,Calle Real 88,243,6,290000
+Andalucía,Jaén,Piso,Paseo de la Estacion s/n,152,4,96000
+Andalucía,Jaén,Piso,Calle Santa Maria del Valle,76,3,44900
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,100,3,69000
+Andalucía,Jaén,Duplex,Belen - San Roque,87,2,135000
+Andalucía,Jaén,Chalet,Alcantarilla - La Glorieta,1200,3,210000
+Andalucía,Jaén,Chalet,Renfe - Bulevar 1o y 2o Fase,30,6,370000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,111,3,120000
+Andalucía,Jaén,Chalet,Calle Miguel Hernandez,120,3,90000
+Andalucía,Jaén,Piso,Centro Ciudad,110,4,74000
+Andalucía,Jaén,Piso,Calle Daoiz,126,4,75000
+Andalucía,Jaén,Piso,Calle Marques de Cabrinana,126,4,48000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,133,4,80000
+Andalucía,Jaén,Piso,Calle Raphael,141,3,106000
+Andalucía,Jaén,Chalet,Callejon alcaide,152,3,130000
+Andalucía,Jaén,Casa Rural,Avenida Valencia,283,7,525000
+Andalucía,Jaén,Piso,Calle ceron,95,3,145000
+Andalucía,Jaén,Chalet,Alcantarilla - La Glorieta,80,2,39000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,73,3,80000
+Andalucía,Jaén,Chalet,Begijar,106,3,750000
+Andalucía,Jaén,Chalet,Begijar,155,4,1049000
+Andalucía,Jaén,Duplex,Calle Juan Ruiz Gonzalez,77,3,189000
+Andalucía,Jaén,Chalet,Arrayanes,232,4,106000
+Andalucía,Jaén,Piso,Calle Alejandro Plaza Fernandez,75,2,54000
+Andalucía,Jaén,Chalet,El Valle - Universidad,158,4,200000
+Andalucía,Jaén,Chalet,Plaza Egido Minas 54,114,3,45000
+Andalucía,Jaén,Piso,Plaza de la Constitucion 17,86,3,35000
+Andalucía,Jaén,Piso,Calle Juan XXIII 47,143,4,45000
+Andalucía,Jaén,Chalet,Calle a Ua-1 5,156,4,180000
+Andalucía,Jaén,Chalet,Calle Ramon y Cajal 9,156,4,123000
+Andalucía,Jaén,Piso,Hospital,139,4,110000
+Andalucía,Jaén,Chalet,San Ildefonso - Catedral,119,3,99900
+Andalucía,Jaén,Piso,Plaza Nueva,157,4,950000
+Andalucía,Jaén,Piso,Calle Armando Palacio Valdes,115,3,69500
+Andalucía,Jaén,Piso,Calle Adarves Altos,67,2,99000
+Andalucía,Jaén,Piso,Calle Pintor Pablo Picasso,92,3,36000
+Andalucía,Jaén,Piso,Centro Ciudad,97,3,89000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,110,4,149900
+Andalucía,Jaén,Chalet,Los Villares,127,4,225000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,94,3,95000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,73,3,133000
+Andalucía,Jaén,Chalet,Calle los Calerines,32,3,94842
+Andalucía,Jaén,Piso,La Guardia de Jaen,105,3,115000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,90,3,85000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,84,3,115000
+Andalucía,Jaén,Chalet,Calle penuelas,207,4,18500
+Andalucía,Jaén,Chalet,Arjonilla,184,5,240000
+Andalucía,Jaén,Piso,Banos de la Encina,150,4,265000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,76,2,39000
+Andalucía,Jaén,Chalet,Baeza,659,20,800000
+Andalucía,Jaén,Piso,Calle Almodovar,78,2,53000
+Andalucía,Jaén,Piso,La Paz-Las Americas,111,3,37300
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1700,6,155000
+Andalucía,Jaén,Piso,Belen - San Roque,41,1,90000
+Andalucía,Jaén,Piso,Belen - San Roque,70,2,125000
+Andalucía,Jaén,Chalet,Calle Madrono,68,2,49000
+Andalucía,Jaén,Duplex,Calle Jaen 2,225,7,170000
+Andalucía,Jaén,Chalet,Calle Penuelas 20,199,5,65000
+Andalucía,Jaén,Piso,Calle Casas Nuevas 2,68,2,102000
+Andalucía,Jaén,Atico,Calle Miguel de Unamuno,113,3,37000
+Andalucía,Jaén,Chalet,Calle Maestra,159,4,29000
+Andalucía,Jaén,Chalet,Calle Clara Campoamor 18,189,5,450000
+Andalucía,Jaén,Piso,Calle Nunez de Balboa,15,4,68000
+Andalucía,Jaén,Chalet,Jabalcuz,244,6,258000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,160,4,180000
+Andalucía,Jaén,Chalet,Camino de Bellavista 2 B Bis,120,4,450000
+Andalucía,Jaén,Chalet,Calle Ramon y Cajal,150,4,20000
+Andalucía,Jaén,Piso,Calle Agustin Rodenas 3,114,3,75000
+Andalucía,Jaén,Piso,Avenida Eduardo Garcia Maroto 20,112,4,169000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,70,2,90000
+Andalucía,Jaén,Piso,CRONISTA GONZALEZ LOPEZ 3,102,3,275000
+Andalucía,Jaén,Piso,Avenida madrid s/n,63,1,85000
+Andalucía,Jaén,Chalet,Calle Cobatillas Bajas,134,4,75000
+Andalucía,Jaén,Piso,Avenida de Andalucia s/n,79,2,227000
+Andalucía,Jaén,Piso,Avenida de Andalucia s/n,104,3,229200
+Andalucía,Jaén,Piso,Avenida de Andalucia s/n,91,3,245000
+Andalucía,Jaén,Piso,Calle Ondeanos,111,3,45000
+Andalucía,Jaén,Chalet,Calle Veracruz,103,3,31000
+Andalucía,Jaén,Duplex,Baeza,116,3,150000
+Andalucía,Jaén,Casa Rural,DOCTOR FLEMING 23,171,5,54000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,86000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,91000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,4,117000
+Andalucía,Jaén,Chalet,San Roque - La Cruz - La Rozuela,102,3,129000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,98000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,96000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,85000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,3,97000
+Andalucía,Jaén,Piso,Calle Del agua con Prado del Rey y C/Tordecillas  s/n,4,4,111000
+Andalucía,Jaén,Chalet,Callejon de la Fuente,59,1,25000
+Andalucía,Jaén,Piso,Villacarrillo,122,4,80000
+Andalucía,Jaén,Piso,Paseo de la Estacion 31,105,3,153000
+Andalucía,Jaén,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,109,3,120000
+Andalucía,Jaén,Piso,Calle Murcia 51,113,3,50000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,100,3,159000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,76,2,107000
+Andalucía,Jaén,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1500,4,210000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,177,3,150000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,120,3,120000
+Andalucía,Jaén,Piso,cristobal colon,114,3,72500
+Andalucía,Jaén,Piso,Plaza Santo Domingo 4,98,3,87000
+Andalucía,Jaén,Chalet,Diseminado Huerta de los Pobres s/n,3000,4,230000
+Andalucía,Jaén,Chalet,Diseminado Huerta de los Pobres s/n,3000,4,230000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,70,2,107000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,70,3,95000
+Andalucía,Jaén,Piso,Puente Jontoya - Puente de la Sierra - El Arroyo,101,3,120000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,177,3,150000
+Andalucía,Jaén,Piso,Calle Poeta Leon Felipe 2,98,3,35900
+Andalucía,Jaén,Chalet,La Alcaparrosa s/n,198,5,175000
+Andalucía,Jaén,Chalet,Villardompardo,94,3,205000
+Andalucía,Jaén,Chalet,Calle General Espartero 21,621,12,105000
+Andalucía,Jaén,Piso,Calle Malaga 8,80,3,50000
+Andalucía,Jaén,Piso,Calle malaga 8,120,3,50000
+Andalucía,Jaén,Piso,Calle Real,82,3,85000
+Andalucía,Jaén,Piso,Calle Corredera,73,2,48000
+Andalucía,Jaén,Chalet,Calle Verdiales,108,3,39000
+Andalucía,Jaén,Piso,Calle Real,104,3,85000
+Andalucía,Jaén,Chalet,Villacarrillo,308,5,130000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,200,6,229000
+Andalucía,Jaén,Piso,Martos,76,2,130000
+Andalucía,Jaén,Piso,Avenida de Barcelona,128,4,128000
+Andalucía,Jaén,Chalet,Villacarrillo,159,4,60000
+Andalucía,Jaén,Chalet,Calle sebastian el cano 50,160,5,50000
+Andalucía,Jaén,Chalet,Urbanizacion Arroyovil,60,3,99900
+Andalucía,Jaén,Chalet,Calle Calzada,92,3,62000
+Andalucía,Jaén,Chalet,LA MERCED,173,5,37500
+Andalucía,Jaén,Piso,Calle el Aladrero,87,3,82000
+Andalucía,Jaén,Casa Rural,Ctra Circunvalacion - La Magdalena,1187,1,19000
+Andalucía,Jaén,Chalet,Calle Ronda 2,25,4,159000
+Andalucía,Jaén,Chalet,Calle Primero de Mayo,135,4,29000
+Andalucía,Jaén,Chalet,Carretera de Cazorla,147,4,12000
+Andalucía,Jaén,Piso,Calle San Francisco,95,3,49000
+Andalucía,Jaén,Piso,Calle Julio Burell 13,136,3,150000
+Andalucía,Jaén,Chalet,Calle Manuel Manzano Garcia,109,3,33000
+Andalucía,Jaén,Piso,Calle Conde de Torreanaz,112,3,47000
+Andalucía,Jaén,Piso,Calle San Francisco,100,3,55500
+Andalucía,Jaén,Chalet,Calle solana,115,3,66000
+Andalucía,Jaén,Chalet,Carretera Bailen-Motril s/n km 42,7500,4,245000
+Andalucía,Jaén,Chalet,Avenida de Pozo Ancho,167,5,122000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,70,2,55000
+Andalucía,Jaén,Piso,Calle Fuente la Reja,150,4,115000
+Andalucía,Jaén,Chalet,Comunidad El Infante,170,5,240000
+Andalucía,Jaén,Piso,Calle Luis Braille,90,3,80000
+Andalucía,Jaén,Chalet,Carretera Bailen-Motril,200,5,390000
+Andalucía,Jaén,Chalet,Calle Casas del Campo s/n,282,6,106000
+Andalucía,Jaén,Chalet,Plaza la Magdalena,93,3,49900
+Andalucía,Jaén,Piso,Avenida del Parque,112,3,64900
+Andalucía,Jaén,Piso,Calle Ingeniero Jose Maria Almendral Lucas,99,3,144900
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,81,3,100000
+Andalucía,Jaén,Chalet,Comunidad El Infante,182,5,240000
+Andalucía,Jaén,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1800,3,176000
+Andalucía,Jaén,Piso,Calle del Cardenal Marcelo Spinola,48,1,78000
+Andalucía,Jaén,Piso,Calle Cid Campeador 14,91,3,95000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,103,3,91000
+Andalucía,Jaén,Piso,Calle Juan Francisco Garcia Martinez ESQUINA calle Diego Cabrera s/n,100,3,83000
+Andalucía,Jaén,Chalet,Calle Coronel Costilla esquina Doctor Larios Carrasco 1,270,7,130000
+Andalucía,Jaén,Chalet,Avenida Juan Carlos I,278,7,119900
+Andalucía,Jaén,Piso,Doctor Fleming,102,3,125000
+Andalucía,Jaén,Piso,Avenida Manolo Gomez Bur 7,126,4,53000
+Andalucía,Jaén,Chalet,Travesia Segunda Bobadilla Alta,111,3,54900
+Andalucía,Jaén,Piso,Calle San Francisco,82,3,49000
+Andalucía,Jaén,Chalet,Calle Doctor Gavilan Eguren s/n,167,5,95000
+Andalucía,Jaén,Piso,Avenida de Andalucia,146,4,149900
+Andalucía,Jaén,Piso,Paseo de la Estacion,109,3,209900
+Andalucía,Jaén,Casa Rural,Calle cuenca 10,100,10,170000
+Andalucía,Jaén,Chalet,Calle Reventon,161,5,91000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa,99,3,250000
+Andalucía,Jaén,Piso,Calle Pilar de la Imprenta,76,2,62000
+Andalucía,Jaén,Atico,Calle Molino de Alcantarilla,118,3,75000
+Andalucía,Jaén,Chalet,Calle del Tiro Nacional (2a Travesia),177,5,199900
+Andalucía,Jaén,Piso,Calle San Francisco,120,3,55500
+Andalucía,Jaén,Chalet,Calle el Castillo 3,240,7,85000
+Andalucía,Jaén,Casa Rural,Puente de la Sierra 168,1100,4,150000
+Andalucía,Jaén,Chalet,Vereda Mengibar,125,4,102900
+Andalucía,Jaén,Piso,Ronda Astronomo Al-Jayyani,115,3,43500
+Andalucía,Jaén,Chalet,'Huelva,142,4,73000
+Andalucía,Jaén,Piso,Calle Santiago,74,2,34000
+Andalucía,Jaén,Piso,Calle Paquita Torres,119,3,7500
+Andalucía,Jaén,Piso,Torredonjimeno,128,4,90000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,110,4,42000
+Andalucía,Jaén,Piso,Avenida Ruiz Jimenez,143,4,180000
+Andalucía,Jaén,Piso,Calle General Marchesis,98,3,74000
+Andalucía,Jaén,Chalet,Calle Vicario,112,3,37000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,70,2,110000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,81,3,130000
+Andalucía,Jaén,Piso,Calle Gaudi,116,3,82688
+Andalucía,Jaén,Piso,eduardo garcia trivino 6,156,4,295000
+Andalucía,Jaén,5,919383261,197,5,Carretera de la Bola s/n Km 4
+Andalucía,Jaén,Piso,Paseo de la Estacion 27,157,4,170000
+Andalucía,Jaén,Chalet,San Sebastian 13,17185,4,100000
+Andalucía,Jaén,Chalet,Belen - San Roque,1500,4,2800000
+Andalucía,Jaén,Chalet,Calle Bolero,260,5,239000
+Andalucía,Jaén,Chalet,Camino de las Cumbres 11,131,4,297000
+Andalucía,Jaén,Piso,Avenida de Barcelona s/n,102,3,190000
+Andalucía,Jaén,Piso,BAEZA 56,12,3,26900
+Andalucía,Jaén,Chalet,Calle Jose Zamora s/n,195,5,43000
+Andalucía,Jaén,Piso,Avenida de Granada,121,4,239000
+Andalucía,Jaén,Piso,Avenida HISTORIADOR RUS DE LA PUERTA esquina CALLE MOREDAL s/n,103,3,50000
+Andalucía,Jaén,Chalet,Calle Alamillo,268,5,285000
+Andalucía,Jaén,Chalet,Arroyovil,118,3,109000
+Andalucía,Jaén,Casa Rural,Calle Ubeda,450,6,199999
+Andalucía,Jaén,Chalet,Calle Canovas del Castillo Ponton,294,6,180000
+Andalucía,Jaén,Chalet,Puente de la Sierra 122,1277,10,268000
+Andalucía,Jaén,Piso,Calle Ruiz Romero 13,100,3,69800
+Andalucía,Jaén,Chalet,Calle Bastetania 2,16,3,150000
+Andalucía,Jaén,Piso,Plaza Mayor 11,120,3,80000
+Andalucía,Jaén,Chalet,953970124,28000,420000,PARAJE LA MELLA SITIO ALMODOVAR 190
+Andalucía,Jaén,Piso,Calle Cid Campeador,94,3,135000
+Andalucía,Jaén,Piso,Calle Maria Bellido 119,84,3,42000
+Andalucía,Jaén,Piso,Calle Juan Salcedo Guillen 1,88,3,56000
+Andalucía,Jaén,Chalet,Baeza,230,4,230000
+Andalucía,Jaén,Piso,Avenida Manolo Gomez Bur 48,105,3,51000
+Andalucía,Jaén,Chalet,Jabalcuz,152,4,260000
+Andalucía,Jaén,Piso,Calle Diecinueve de Julio 142,83,3,29000
+Andalucía,Jaén,Atico,Paseo Virgen de Linarejos,203,4,165000
+Andalucía,Jaén,Chalet,haras de arroyovil,120,3,98000
+Andalucía,Jaén,Chalet,Calle Canalejas,312,7,99500
+Andalucía,Jaén,Piso,Calle Sagunto,127,4,85000
+Andalucía,Jaén,Duplex,Calle la Cruz,134,5,105000
+Andalucía,Jaén,Chalet,Calle Carcel,216,3,15000
+Andalucía,Jaén,Piso,Calle del Pintor Carmelo Palomino,94,3,185000
+Andalucía,Jaén,Piso,Calle Isaac Peral,155,4,155000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,60,2,59900
+Andalucía,Jaén,Piso,Calle Julio Burell,146,5,75000
+Andalucía,Jaén,Chalet,Calle Republica Checa,91,5,202000
+Andalucía,Jaén,Chalet,Plaza San Miguel 8,344,8,77015
+Andalucía,Jaén,Piso,Paseo Marqueses de Linares,69,2,105000
+Andalucía,Jaén,Piso,Calle Maestro Cebrian,147,4,198000
+Andalucía,Jaén,Piso,Calle Reino Unido,95,2,105000
+Andalucía,Jaén,Chalet,Calle Capricho,2010,4,390000
+Andalucía,Jaén,Chalet,Calle Casillas de Prieto,186,4,87000
+Andalucía,Jaén,Piso,Calle Cid Campeador,125,4,69000
+Andalucía,Jaén,Piso,Calle Sagrada familia,147,4,110000
+Andalucía,Jaén,Piso,Avenida de Andalucia,152,4,140000
+Andalucía,Jaén,Chalet,Calle Diecinueve de Julio,148,5,35000
+Andalucía,Jaén,Piso,Calle Fray Cristobal Segado,130,4,35000
+Andalucía,Jaén,Chalet,Calle Antonio Romero Maroto,136,4,750000
+Andalucía,Jaén,Piso,Plaza Santo Domingo,86,3,95000
+Andalucía,Jaén,Chalet,Calle Carcel,216,3,15000
+Andalucía,Jaén,Piso,Calle Ubeda,137,4,78000
+Andalucía,Jaén,Piso,Calle Isaac Peral,137,4,155000
+Andalucía,Jaén,Duplex,Calle la Cruz,134,5,105000
+Andalucía,Jaén,Piso,Juan Castillo,111,3,99000
+Andalucía,Jaén,Piso,Calle Juanito Valderrama 4,104,3,170900
+Andalucía,Jaén,Chalet,virgen de Monserrat,144,4,150000
+Andalucía,Jaén,Piso,Avenida de Barcelona,108,3,140000
+Andalucía,Jaén,Piso,Calle Sagunto,154,4,85000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,78,2,89900
+Andalucía,Jaén,Chalet,Calle Canalejas,312,7,99500
+Andalucía,Jaén,Chalet,Calle Jardines,83,3,60000
+Andalucía,Jaén,Piso,Calle Islandia,104,3,138000
+Andalucía,Jaén,Chalet,Calle Capricho,113,3,245000
+Andalucía,Jaén,Piso,Callejon de las Flores,100,3,125000
+Andalucía,Jaén,Piso,Calle del Pintor Carmelo Palomino,105,3,185000
+Andalucía,Jaén,Atico,Paseo Virgen de Linarejos,203,4,165000
+Andalucía,Jaén,Piso,doctor gomez duran,95,4,72000
+Andalucía,Jaén,Chalet,Calle de Maria Carcel,135,4,44000
+Andalucía,Jaén,Piso,Calle Picadero II,93,3,80000
+Andalucía,Jaén,Atico,San Ildefonso - Catedral,102,3,125000
+Andalucía,Jaén,Duplex,Calle Lizaderas,102,3,190000
+Andalucía,Jaén,Chalet,Maestro Manuel Moya,134,4,165000
+Andalucía,Jaén,Chalet,Calle Doncellas 23 -3,546,6,190000
+Andalucía,Jaén,Chalet,Calle Almendros Aguilar 73,313,8,94900
+Andalucía,Jaén,Piso,ollerias,140,4,399500
+Andalucía,Jaén,Piso,Calle Jaen 18,198,4,32000
+Andalucía,Jaén,Chalet,Puente de la Sierra,282,7,299000
+Andalucía,Jaén,Chalet,Calle Real de San Fernando,183,5,67635
+Andalucía,Jaén,Piso,Plaza San Miguel,192,6,77015
+Andalucía,Jaén,Chalet,Calle navas de tolosa,231,3,99000
+Andalucía,Jaén,Piso,Calle Raphael,73,2,110000
+Andalucía,Jaén,Piso,Green peace 5,119,3,45000
+Andalucía,Jaén,Piso,Calle Alberca,160,4,280000
+Andalucía,Jaén,Chalet,Urbanizacion Campolivos,1270,5,450000
+Andalucía,Jaén,Chalet,Camino de la carraca s/n,274,7,250000
+Andalucía,Jaén,Chalet,Megatin s/n,10000,4,180000
+Andalucía,Jaén,Piso,Calle Arquitecto Antonio Florez Urdapilleta,113,3,170000
+Andalucía,Jaén,Chalet,Calle Doctor Carlos Carbonell,222,6,315000
+Andalucía,Jaén,Piso,Calle Mariano Segura,96,2,89000
+Andalucía,Jaén,Chalet,Calle Munoz Seca,22500,4,65000
+Andalucía,Jaén,Piso,Avenida ramon y cajal,144,4,125000
+Andalucía,Jaén,Chalet,Calle Trinidad,372,6,170000
+Andalucía,Jaén,Chalet,Calle Frontones s/n,90,3,47000
+Andalucía,Jaén,Duplex,Calle Vicente Montuno Morente,126,4,259000
+Andalucía,Jaén,Piso,Calle Republica Argentina,88,3,62000
+Andalucía,Jaén,Piso,Calle Ramon del Valle Inclan,33,4,33500
+Andalucía,Jaén,Piso,Avenida de granada s/n,55,1,72000
+Andalucía,Jaén,Chalet,Plaza de la Constitucion,74,4,35000
+Andalucía,Jaén,Piso,Calle Pintor Francisco Banos,107,3,173000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,141,4,78000
+Andalucía,Jaén,Piso,Calle Italia,80,4,85200
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,125,4,155000
+Andalucía,Jaén,Piso,Torredelcampo,110,4,78000
+Andalucía,Jaén,Chalet,Jaen,500,4,149950
+Andalucía,Jaén,Piso,Calle Ponton,102,3,119000
+Andalucía,Jaén,Piso,Avenida de Andalucia,4152,4,470000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,150,4,175000
+Andalucía,Jaén,Casa Rural,Calle Moya 41,106,3,24000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,85,3,64000
+Andalucía,Jaén,Piso,Plaza del doctor blanco najera,75,2,83000
+Andalucía,Jaén,Piso,Plaza de la constitucion,160,3,300000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,80,3,69900
+Andalucía,Jaén,Chalet,Paseo Primero de Mayo Jodar,508,10,370000
+Andalucía,Jaén,Piso,Guillen,60,2,50000
+Andalucía,Jaén,Piso,Calle Raphael,67,2,115000
+Andalucía,Jaén,Duplex,San Bartolome - Millan de Priego,127,4,99900
+Andalucía,Jaén,Piso,Melchor Cobo Medina,120,4,178000
+Andalucía,Jaén,Chalet,Paseo Primero de Mayo Jodar,427,10,370000
+Andalucía,Jaén,Piso,Plaza del Doctor Blanco Najera,100,3,89900
+Andalucía,Jaén,Casa Rural,Calle Moya 41,112,3,24000
+Andalucía,Jaén,Piso,Avenida Granada,117,3,105000
+Andalucía,Jaén,Piso,Calle Santa Marina 1,110,3,110000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,119,3,74000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,50,3,78000
+Andalucía,Jaén,Chalet,Penamefecit - Avda Barcelona,149,4,160000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,140,4,300000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,115,3,195000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,260,7,140000
+Andalucía,Jaén,Chalet,Pegalajar,170,4,130000
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,156,4,230000
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,158,4,230000
+Andalucía,Jaén,Piso,Teniente Ruano,77,2,29900
+Andalucía,Jaén,Piso,Calle Pedro Poveda s/n,90,4,75000
+Andalucía,Jaén,Chalet,Calle Colon 9,105,3,25200
+Andalucía,Jaén,Piso,Cuesta del Molinillo 8,61,3,65000
+Andalucía,Jaén,Casa Rural,la iglesia 17,301,8,85000
+Andalucía,Jaén,Piso,Calle Herreria 3,90,2,37900
+Andalucía,Jaén,Piso,Ondeanos 22,103,3,50000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,182,5,250000
+Andalucía,Jaén,Chalet,Calle Calzada 19,91,3,66500
+Andalucía,Jaén,Piso,La Paz-Las Americas,79,3,41000
+Andalucía,Jaén,Piso,Severo Ochoa 4,92,3,49900
+Andalucía,Jaén,Piso,Calle Ramon y Cajal 3,82,3,62000
+Andalucía,Jaén,Piso,Calle Real 80,88,3,85000
+Andalucía,Jaén,Chalet,Calle Cerrillo 16,88,3,20000
+Andalucía,Jaén,Chalet,Calle Reventon 30,183,5,36338
+Andalucía,Jaén,Piso,Calle Iberia 46,85,3,39900
+Andalucía,Jaén,Chalet,Calle Real de San Fernando 63,341,8,67635
+Andalucía,Jaén,Chalet,Plaza San Miguel,233,6,77015
+Andalucía,Jaén,Piso,Avenida de Andalucia,145,4,215000
+Andalucía,Jaén,Piso,Calle el Aladrero 4,100,3,85000
+Andalucía,Jaén,Chalet,Calle Huertas 15,80,2,61000
+Andalucía,Jaén,Piso,nuestra Senora de la Asuncion 64,135,4,57000
+Andalucía,Jaén,Piso,Calle Comisarios 1,94,3,49500
+Andalucía,Jaén,Piso,La Paz-Las Americas,79,3,41000
+Andalucía,Jaén,Piso,Calle Jaen 34,105,3,67528
+Andalucía,Jaén,Piso,Calle Ramon y Cajal 3,95,3,62000
+Andalucía,Jaén,Piso,Salvador Vicente de la Torre 4,107,3,85770
+Andalucía,Jaén,Piso,Calle Ramon y Cajal 10,78,2,65000
+Andalucía,Jaén,Piso,Calle Huelva 2,147,4,72000
+Andalucía,Jaén,Piso,Calle Real 80,112,3,85000
+Andalucía,Jaén,Piso,Calle de los Bomberos 3,109,3,100000
+Andalucía,Jaén,Chalet,Calle Miguel Cobo 25,86,3,30000
+Andalucía,Jaén,Chalet,Ciudad jardin,974,4,410000
+Andalucía,Jaén,Chalet,Calle Republica Argentina 46,97,3,50000
+Andalucía,Jaén,Piso,San Francisco 58,93,3,55500
+Andalucía,Jaén,Piso,Linarejos,102,3,55000
+Andalucía,Jaén,Chalet,Calle Jesus 9,141,4,32000
+Andalucía,Jaén,Piso,Aurea Galindo 67,75,2,55000
+Andalucía,Jaén,Chalet,Calle Reventon 30,163,5,36338
+Andalucía,Jaén,Chalet,Calle Cruz de la Magdalena 5,107,3,30000
+Andalucía,Jaén,Atico,Calle de Maria Carcel 22,120,3,44000
+Andalucía,Jaén,Chalet,Lorite 95,95,3,35000
+Andalucía,Jaén,Chalet,Calle Juanito el Practicante 15,104,3,72000
+Andalucía,Jaén,Chalet,Calle Huertas 15,64,2,61000
+Andalucía,Jaén,Piso,Severo Ochoa 4,117,3,49900
+Andalucía,Jaén,Piso,Calle Iberia 46,105,3,39900
+Andalucía,Jaén,Chalet,Calle Carniceria 5,498,20,290000
+Andalucía,Jaén,Chalet,Calle Gines de Perea 23,304,5,160000
+Andalucía,Jaén,Piso,Cuesta de San Juan 8,99,3,54000
+Andalucía,Jaén,Chalet,Calle Maestra,141,4,30000
+Andalucía,Jaén,Chalet,Avenida de Pozo Ancho 39,191,5,122000
+Andalucía,Jaén,Piso,Calle Torreanaz 13,82,3,49500
+Andalucía,Jaén,Piso,leon merino 15,70,2,53000
+Andalucía,Jaén,Piso,Cervantes 10,149,4,99000
+Andalucía,Jaén,Piso,Calle Arroyo de San Pedro,95,3,88000
+Andalucía,Jaén,Piso,Puerta de Madrid,140,4,92000
+Andalucía,Jaén,Piso,Calle Gabriel y Zamora 5,144,4,75000
+Andalucía,Jaén,Duplex,Calle Jaen 2,92,3,87900
+Andalucía,Jaén,Chalet,Calle Javier Cayuela Garcia,82,3,149000
+Andalucía,Jaén,Chalet,Carretera de la Ceramica,400,8,425000
+Andalucía,Jaén,Piso,Avenida de Andalucia 31,80,1,225000
+Andalucía,Jaén,Casa Rural,Carretera DE LA ALCAPARROSA,162,5,216000
+Andalucía,Jaén,Piso,Calle Torreanaz 13,117,3,49500
+Andalucía,Jaén,Piso,Calle Nunez de Balboa,15,4,63000
+Andalucía,Jaén,Atico,Calle Republica Argentina,115,3,287000
+Andalucía,Jaén,Duplex,Calle Jaen 2,100,3,87900
+Andalucía,Jaén,Piso,Cuesta de San Juan 8,85,3,54000
+Andalucía,Jaén,Chalet,Carretera de la Ceramica,400,8,425000
+Andalucía,Jaén,Chalet,Calle Miguel Estepa 8,90,3,100000
+Andalucía,Jaén,Piso,Belen - San Roque,85,3,99000
+Andalucía,Jaén,Piso,Calle Don Bosco s/n,145,4,220000
+Andalucía,Jaén,Chalet,Puerta de Martos,93,3,305000
+Andalucía,Jaén,Chalet,Calle Gredos 6,126,4,142000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,120,3,125000
+Andalucía,Jaén,Piso,Calle Explanada s/n,120,2,119000
+Andalucía,Jaén,Atico,Calle Empedrada de la Magdalena,92,3,86000
+Andalucía,Jaén,Piso,Calle San Mateo,79,2,32184
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,118,2,133931
+Andalucía,Jaén,Chalet,Calle Cerrillo,105,3,20000
+Andalucía,Jaén,Piso,Calle Martinez de la Rosa,102,3,42000
+Andalucía,Jaén,Piso,Calle PEREZ GALDOS 6,122,4,30000
+Andalucía,Jaén,Piso,Plaza GENERAL CASTANOS 12,154,4,79000
+Andalucía,Jaén,Chalet,Calle Alegria,41,1,10000
+Andalucía,Jaén,Piso,Calle Santa Clara,84,3,103500
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,10,3,49900
+Andalucía,Jaén,Piso,Avenida de la Habana,125,4,39000
+Andalucía,Jaén,Chalet,Calle San Gregorio 27,138,4,20000
+Andalucía,Jaén,Piso,Calle Veracruz s/n,62,2,30000
+Andalucía,Jaén,Chalet,San Ildefonso - Catedral,234,6,345000
+Andalucía,Jaén,Chalet,Torredelcampo,99,3,119900
+Andalucía,Jaén,Piso,Carretera Cordoba-Almeria 76,74,2,88000
+Andalucía,Jaén,Chalet,Calle Santa Clara,139,4,129000
+Andalucía,Jaén,Piso,Calle Cervantes,124,4,95000
+Andalucía,Jaén,Chalet,Calle de Federico Garcia Lorca 8,518,11,86000
+Andalucía,Jaén,Chalet,Calle Nunez de Balboa,119,3,61000
+Andalucía,Jaén,Piso,Calle Quevedo,112,3,63000
+Andalucía,Jaén,Piso,Calle murcia 53,87,3,80000
+Andalucía,Jaén,Piso,Calle Castelar 13,80,3,83000
+Andalucía,Jaén,Chalet,Antonio Machado 35,70,4,118500
+Andalucía,Jaén,Piso,Calle Republica Argentina,130,3,271000
+Andalucía,Jaén,Piso,Andujar,115,3,78000
+Andalucía,Jaén,Chalet,La Puerta de Segura,111,3,24000
+Andalucía,Jaén,Chalet,Calle de Federico Garcia Lorca 8,408,11,86000
+Andalucía,Jaén,Chalet,Calle el Centenillo,180,7,130000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,65,2,125000
+Andalucía,Jaén,Piso,Andujar,80,3,78000
+Andalucía,Jaén,Piso,Calle Quevedo,119,3,63000
+Andalucía,Jaén,Piso,Carretera Cordoba-Almeria 76,62,2,88000
+Andalucía,Jaén,Chalet,La Puerta de Segura,111,3,24000
+Andalucía,Jaén,Chalet,Calle Banos 38,76,2,89990
+Andalucía,Jaén,Chalet,Torredelcampo,117,3,119900
+Andalucía,Jaén,Chalet,Calle Reina Sofia,131,4,73600
+Andalucía,Jaén,Piso,Calle San Fernando,118,3,133931
+Andalucía,Jaén,Chalet,Calle Toscas,245,6,83000
+Andalucía,Jaén,Piso,Calle del Pintor Manuel Angeles Ortiz,92,3,155000
+Andalucía,Jaén,Chalet,Urbanizacion Jabalcuz,209,6,239000
+Andalucía,Jaén,Piso,Calle General Torrijos,76,2,66000
+Andalucía,Jaén,Chalet,Calle de Juan Ramon Jimenez,120,3,149900
+Andalucía,Jaén,Piso,Calle Carcel Vieja,101,3,61750
+Andalucía,Jaén,Piso,Calle Reina Sofia,80,2,46997
+Andalucía,Jaén,Piso,Plaza MUNOZ GARNICA,123,4,180000
+Andalucía,Jaén,Piso,Calle San Juan,105,3,46028
+Andalucía,Jaén,Piso,Calle Sagunto 17,139,3,109000
+Andalucía,Jaén,Chalet,Calle Cierzo 46,115,3,290000
+Andalucía,Jaén,Piso,Calle Antonio Molina,159,4,92900
+Andalucía,Jaén,Piso,Calle Las Mercedes,68,2,54000
+Andalucía,Jaén,Piso,Calle Justino Florez Llamas,135,4,164900
+Andalucía,Jaén,Piso,Paseo de la Alameda 22,90,3,87000
+Andalucía,Jaén,Piso,Calle Cazorla,155,4,79059
+Andalucía,Jaén,Chalet,PAREAJES LOS VADILLOS 20,1200,3,190000
+Andalucía,Jaén,Chalet,Calle Jodar s/n,210,4,180000
+Andalucía,Jaén,Chalet,Calle Nogal,13000,7,429900
+Andalucía,Jaén,Piso,Calle Valverde,89,3,150000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,10,2,72000
+Andalucía,Jaén,Casa Rural,Calle Egido,14000,6,270000
+Andalucía,Jaén,Chalet,Calle Martires,89,3,99750
+Andalucía,Jaén,Piso,Avenida Santo Reino,90,3,56430
+Andalucía,Jaén,Piso,Calle Bastetania,75,2,82365
+Andalucía,Jaén,Piso,Puente Palos,80,3,74900
+Andalucía,Jaén,Piso,Calle las Monjas,93,3,67450
+Andalucía,Jaén,Chalet,Calle Lorite,65,2,35000
+Andalucía,Jaén,Chalet,Villacarrillo,233,9,140000
+Andalucía,Jaén,Piso,Calle Las Mercedes,63,2,54000
+Andalucía,Jaén,Piso,Calle del Pintor Manuel Angeles Ortiz,94,3,155000
+Andalucía,Jaén,Piso,Avenida Santo Reino,114,3,56430
+Andalucía,Jaén,Piso,Calle las Monjas,104,3,67450
+Andalucía,Jaén,Piso,Calle Bastetania,75,2,82365
+Andalucía,Jaén,Piso,Puente Palos,96,3,74900
+Andalucía,Jaén,Chalet,Calle de Juan Ramon Jimenez,88,3,149900
+Andalucía,Jaén,Chalet,Calle Santiago 11,101,3,104000
+Andalucía,Jaén,Piso,Calle Vega,97,3,125000
+Andalucía,Jaén,Piso,Calle Martinez Molina,113,3,155000
+Andalucía,Jaén,Chalet,Pago de la Fraila,1600,3,260000
+Andalucía,Jaén,Piso,Calle Corredera de San Marcos,119,3,140000
+Andalucía,Jaén,Chalet,Calle de Maria Zambrano,98,3,114900
+Andalucía,Jaén,Chalet,Calle Tiro Nacional,40,3,180000
+Andalucía,Jaén,Chalet,Calle Gamonal 81,19,4,70000
+Andalucía,Jaén,Piso,Avenida la Paz,120,3,52000
+Andalucía,Jaén,Chalet,Calle Altozano Serrano Plato 3,83,3,144000
+Andalucía,Jaén,Chalet,Calle Jabalcuz,119,3,150000
+Andalucía,Jaén,Chalet,Calle Vera Cruz 74,96,3,72000
+Andalucía,Jaén,Piso,Calle Doctor Civera,69,2,119900
+Andalucía,Jaén,Piso,Calle Santa Maria del Valle,73,2,75000
+Andalucía,Jaén,Piso,Paseo de la Estacion,144,4,250000
+Andalucía,Jaén,Piso,Paseo de la Estacion,171,5,240000
+Andalucía,Jaén,Piso,Paseo de la Estacion,40,1,85000
+Andalucía,Jaén,Chalet,Urbanizacion Megatin,204,6,260000
+Andalucía,Jaén,Chalet,Urbanizacion Megatin 10,303,8,250000
+Andalucía,Jaén,Piso,Calle Mesa 12,16,4,210000
+Andalucía,Jaén,Duplex,Avenida Libertad 47,99,3,132000
+Andalucía,Jaén,Chalet,Carretera Bailen-Motril,7000,6,250000
+Andalucía,Jaén,Piso,Calle Pintor Alfonso Parras 16,132,4,122000
+Andalucía,Jaén,Chalet,Calle Hospital,204,6,205000
+Andalucía,Jaén,Chalet,Escuelas Ave Maria 15,187,5,135000
+Andalucía,Jaén,Duplex,Calle Maestro Palomino 3,110,2,123500
+Andalucía,Jaén,Piso,Calle Hurtado,160,5,180000
+Andalucía,Jaén,Chalet,Calle Telegrafos,197,5,39900
+Andalucía,Jaén,Piso,Torrecillas,67,2,66000
+Andalucía,Jaén,Chalet,Calle Republica Checa 10,42,6,201000
+Andalucía,Jaén,Piso,Calle Nueva 6,156,4,180000
+Andalucía,Jaén,Piso,Calle Valencia,79,2,77900
+Andalucía,Jaén,Piso,Calle Molino,109,3,90000
+Andalucía,Jaén,Piso,Avenida la Paz,80,3,82000
+Andalucía,Jaén,Chalet,Calle Altozano Serrano Plato 3,114,3,144000
+Andalucía,Jaén,Piso,Calle Valdecanales 3,102,3,24900
+Andalucía,Jaén,Chalet,Camino de las Huertas Grandes,700,4,134900
+Andalucía,Jaén,Piso,Calle Vicente Montuno Morente,81,3,70000
+Andalucía,Jaén,Piso,Plaza Curtidores,145,4,95000
+Andalucía,Jaén,Chalet,Calle Elvin,87,3,60000
+Andalucía,Jaén,Piso,Calle Valencia,61,2,77900
+Andalucía,Jaén,Casa Rural,Avenida Y Paseo Virgen de Consolacion 23,240,7,400000
+Andalucía,Jaén,Piso,Calle Maestro Cebrian,131,4,155000
+Andalucía,Jaén,Chalet,Calle Llanete San Francisco 4,25,4,80000
+Andalucía,Jaén,Piso,Calle Doctor Eduardo Arroyo,110,3,148000
+Andalucía,Jaén,Chalet,Travesia Santa Barbara,90,3,99900
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
+Andalucía,Jaén,Chalet,Calle Real de San Fernando,641,10,67635
+Andalucía,Jaén,Chalet,Carretera al Neveral,150,4,310000
+Andalucía,Jaén,Chalet,Vereda Mengibar,98,3,120000
+Andalucía,Jaén,Piso,Calle Pedro Antonio de Alarcon,90,3,29500
+Andalucía,Jaén,Piso,Calle Antonio Herrera Murillo,78,2,97500
+Andalucía,Jaén,Chalet,Calle Francisco del Moral,1000,3,350000
+Andalucía,Jaén,Piso,Calle Melchor Cobo Medina,160,5,155000
+Andalucía,Jaén,Chalet,Calle Rio Carrizal,1000,3,180000
+Andalucía,Jaén,Piso,Calle Corredera de San Marcos,119,3,140000
+Andalucía,Jaén,Chalet,Calle Juan Ramon Jimenez 11,100,3,144500
+Andalucía,Jaén,Piso,Calle Real,157,3,185000
+Andalucía,Jaén,Piso,Calle Antonia Lopez Arista,95,3,63000
+Andalucía,Jaén,Chalet,Puente de la Sierra,1100,8,180000
+Andalucía,Jaén,Piso,Calle Manuel Caballero Venzala,16,4,269900
+Andalucía,Jaén,Chalet,Calle Tiro Nacional,40,3,180000
+Andalucía,Jaén,Chalet,Calle Almendros Aguilar,275,7,200000
+Andalucía,Jaén,Piso,Calle Virgilio Anguita,98,3,75000
+Andalucía,Jaén,Piso,Calle Pintor Juan Gris,69,2,59000
+Andalucía,Jaén,Chalet,Calle Labradores 16,196,5,115000
+Andalucía,Jaén,Piso,Paseo de la Estacion,198,5,240000
+Andalucía,Jaén,Chalet,Calle Almendros Aguilar,125,4,160000
+Andalucía,Jaén,Piso,Calle Mesa 12,16,4,210000
+Andalucía,Jaén,Chalet,Pago de la Fraila,1600,3,260000
+Andalucía,Jaén,Piso,Calle la Luna,141,4,145000
+Andalucía,Jaén,Chalet,Calle los Tejares,271,7,375000
+Andalucía,Jaén,Chalet,Calle los Castellones 2,216,5,69900
+Andalucía,Jaén,Piso,Calle Manuel Caballero Venzala,16,4,269900
+Andalucía,Jaén,Chalet,Bulevar s/n,136,4,350000
+Andalucía,Jaén,Piso,Calle Linares 5,184,5,190000
+Andalucía,Jaén,Piso,Calle Doctor Eduardo Arroyo,98,3,148000
+Andalucía,Jaén,Piso,Avenida de Madrid,157,4,260000
+Andalucía,Jaén,Chalet,Calle Almendros Aguilar,140,4,160000
+Andalucía,Jaén,Piso,Avenida la Paz,115,3,40950
+Andalucía,Jaén,Piso,Calle Hurtado,189,5,180000
+Andalucía,Jaén,Piso,Calle Molino,87,3,90000
+Andalucía,Jaén,Piso,Poligono del Valle sector 2 s/n,116,3,100000
+Andalucía,Jaén,Piso,Calle Murcia,92,3,105000
+Andalucía,Jaén,Chalet,Camino de las Huertas Grandes,700,4,134900
+Andalucía,Jaén,Piso,Plaza Virgen de la Villa,65,2,96000
+Andalucía,Jaén,Piso,Calle Obispo Gonzalez,67,2,43227
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
+Andalucía,Jaén,Piso,Calle Maestro Cebrian,127,4,155000
+Andalucía,Jaén,Chalet,Calle Real de San Fernando,641,10,67635
+Andalucía,Jaén,Chalet,Calle Sisehace,164,5,39000
+Andalucía,Jaén,Chalet,Escuelas Ave Maria 15,185,5,135000
+Andalucía,Jaén,Chalet,general s/n,77,2,48000
+Andalucía,Jaén,Piso,Calle Sevilla,68,2,140000
+Andalucía,Jaén,Chalet,Pago de la Fraila,1600,3,260000
+Andalucía,Jaén,Chalet,Poligono quiebracantaros,211,6,260000
+Andalucía,Jaén,Chalet,Calle Lope de Sosa,225,6,400000
+Andalucía,Jaén,Chalet,Calle Magdalena,194,5,90000
+Andalucía,Jaén,Piso,Calle Calderon 5,90,3,85000
+Andalucía,Jaén,Piso,Calle la Luna,154,4,145000
+Andalucía,Jaén,Piso,Calle Doctor Severo Ochoa,120,3,71900
+Andalucía,Jaén,Chalet,Calle IV Centenario 22,156,4,250000
+Andalucía,Jaén,Piso,Calle Valencia,77,2,77900
+Andalucía,Jaén,Chalet,Calle Sevilla,200,5,310000
+Andalucía,Jaén,Piso,Beltran de la cueva 10,80,3,155000
+Andalucía,Jaén,Chalet,Calle Federico Garcia Lorca,181,5,79000
+Andalucía,Jaén,Piso,Plaza Santo Domingo,93,3,114900
+Andalucía,Jaén,Chalet,Carretera al Neveral,150,4,310000
+Andalucía,Jaén,Piso,Avenida la Paz,222,6,134000
+Andalucía,Jaén,Piso,Calle Mesa 12,16,4,210000
+Andalucía,Jaén,Piso,Paseo de la Estacion,54,1,85000
+Andalucía,Jaén,Piso,Calle Santa Maria del Valle,64,2,75000
+Andalucía,Jaén,Chalet,Travesia Santa Barbara,80,3,99900
+Andalucía,Jaén,Piso,Avenida de la Libertad 22,131,4,79000
+Andalucía,Jaén,Piso,Calle Corredera de San Marcos,119,3,140000
+Andalucía,Jaén,Duplex,Calle Maestro Palomino 3,110,2,123500
+Andalucía,Jaén,Duplex,Calle Doctor Civera 21,20,3,269000
+Andalucía,Jaén,Chalet,Calle Murillo,91,3,175000
+Andalucía,Jaén,Chalet,Carretera Bailen-Motril,95,3,153900
+Andalucía,Jaén,Piso,Calle Vega,88,3,125000
+Andalucía,Jaén,Chalet,Calle San Lucas,151,4,219900
+Andalucía,Jaén,Chalet,Poligono quiebracantaros,248,6,260000
+Andalucía,Jaén,Piso,Calle de la Comunidad Foral de Navarra,115,3,170000
+Andalucía,Jaén,Chalet,Calle Belen,500,4,250000
+Andalucía,Jaén,Piso,Plaza San Miguel,133,4,69000
+Andalucía,Jaén,Duplex,Avenida Libertad 47,88,3,132000
+Andalucía,Jaén,Chalet,Camino Subida al Tiro Nacional,93,3,73500
+Andalucía,Jaén,Piso,Paseo de la Estacion,152,4,250000
+Andalucía,Jaén,Chalet,Calle Elvin,114,3,60000
+Andalucía,Jaén,Chalet,Calle Olivo,13000,11,450000
+Andalucía,Jaén,Chalet,Urbanizacion La Carreta,600,12,1500000
+Andalucía,Jaén,Piso,Calle Calderon 5,90,3,85000
+Andalucía,Jaén,Piso,Plaza Virgen de la Villa,73,2,96000
+Andalucía,Jaén,Chalet,Calle Sevilla,171,5,310000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa,91,3,270000
+Andalucía,Jaén,Piso,Plaza Curtidores,154,4,95000
+Andalucía,Jaén,Piso,Calle Pintor Juan Gris,69,2,59000
+Andalucía,Jaén,Chalet,Pago de la Fraila,1600,3,260000
+Andalucía,Jaén,Chalet,Bulevar s/n,132,4,350000
+Andalucía,Jaén,Chalet,Calle Hospitalico,209,6,36000
+Andalucía,Jaén,Piso,Calle Maestro Cebrian,131,4,155000
+Andalucía,Jaén,Piso,Calle Pintor Murillo,114,3,70000
+Andalucía,Jaén,Piso,Calle Pedro Antonio de Alarcon,90,3,29500
+Andalucía,Jaén,Chalet,Camino de las Huertas Grandes,700,4,134900
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,85,3,220000
+Andalucía,Jaén,Piso,Calle Marcos Cubillo,99,3,60000
+Andalucía,Jaén,Piso,Calle Antonia Lopez Arista,95,3,63000
+Andalucía,Jaén,Piso,Calle de la Madre Soledad Torres Acosta 10,108,3,190000
+Andalucía,Jaén,Chalet,Calle Lope de Sosa,226,6,400000
+Andalucía,Jaén,Piso,Calle Fernando IV,96,3,122000
+Andalucía,Jaén,Piso,Avenida la Paz,99,3,82000
+Andalucía,Jaén,Chalet,Ctra Circunvalacion - La Magdalena,584,10,124900
+Andalucía,Jaén,Chalet,la cerradura,135,4,150000
+Andalucía,Jaén,Chalet,Pago de la Fraila,787,2,130000
+Andalucía,Jaén,Piso,Avenida de Madrid,125,4,152000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,150,4,95000
+Andalucía,Jaén,Piso,Calle Azorin,156,4,32000
+Andalucía,Jaén,Piso,Calle Sagunto 11,157,5,120000
+Andalucía,Jaén,Piso,Calle Labrador,58,2,49000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,86,3,35000
+Andalucía,Jaén,Piso,Calle la Carolina,142,4,40000
+Andalucía,Jaén,Piso,Calle Pintor el Greco,112,4,110000
+Andalucía,Jaén,Chalet,Carretera de Circunvalacion,82,3,129000
+Andalucía,Jaén,Duplex,Calle Jaen,117,3,91900
+Andalucía,Jaén,Chalet,Cuesta San Gregorio,164,5,180000
+Andalucía,Jaén,Piso,Torredonjimeno,142,4,115000
+Andalucía,Jaén,Chalet,Calle Capitan Aranda Alta,155,4,40000
+Andalucía,Jaén,Chalet,Ramon y Cajal,276,7,59000
+Andalucía,Jaén,Piso,Calle de la Unicef 2,115,3,240000
+Andalucía,Jaén,Piso,El Valle - Universidad,108,3,198950
+Andalucía,Jaén,Piso,Calle Tetuan,95,3,87000
+Andalucía,Jaén,Piso,Avenida Granada 5,80,3,295000
+Andalucía,Jaén,Piso,Calle Romea,52,1,76000
+Andalucía,Jaén,Piso,Calle Eras 51,96,3,90000
+Andalucía,Jaén,Piso,Calle Antonio Rafael Abellan,115,3,185000
+Andalucía,Jaén,Chalet,Los Villares,200,4,380000
+Andalucía,Jaén,Casa Rural,Via,280,8,260000
+Andalucía,Jaén,Piso,Calle Pintor el Greco,79,3,88000
+Andalucía,Jaén,Atico,Paseo Virgen de Linarejos 30,34,4,165000
+Andalucía,Jaén,Piso,Avenida de Granada,114,3,158000
+Andalucía,Jaén,Piso,Calle Hernan Cortes,90,4,85000
+Andalucía,Jaén,Piso,El Valle - Universidad,90,3,120000
+Andalucía,Jaén,Duplex,Calle Fuente del Alamillo,187,5,263000
+Andalucía,Jaén,Chalet,Avenida Espana 9,166,5,275000
+Andalucía,Jaén,Chalet,Calle Don Pedro del Alcalde,148,4,89500
+Andalucía,Jaén,Chalet,la cerradura,140,4,150000
+Andalucía,Jaén,Piso,Belen - San Roque,63,3,105000
+Andalucía,Jaén,Casa Rural,Calle el Teatro 97,167,5,45000
+Andalucía,Jaén,Piso,Cinco de Julio,112,3,31000
+Andalucía,Jaén,Piso,Avenida de Madrid,134,4,260000
+Andalucía,Jaén,Chalet,Alcantarilla - La Glorieta,90,3,290000
+Andalucía,Jaén,Piso,Calle Zambrana,134,3,90000
+Andalucía,Jaén,Piso,Calle de San Gonzalo,67,3,38000
+Andalucía,Jaén,Piso,Calle Tetuan,95,3,87000
+Andalucía,Jaén,Piso,Avenida Granada 5,82,3,295000
+Andalucía,Jaén,Piso,Calle Romea,52,1,76000
+Andalucía,Jaén,Piso,Calle Vandelvira,113,4,105000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,152,4,180000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,84,3,129000
+Andalucía,Jaén,Piso,Belen - San Roque,131,4,198000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,405,5,260000
+Andalucía,Jaén,Chalet,Alcantarilla - La Glorieta,153,4,325000
+Andalucía,Jaén,Chalet,Mancha Real,94,3,109000
+Andalucía,Jaén,Chalet,San Bartolome - Millan de Priego,171,5,520000
+Andalucía,Jaén,Chalet,Avenida de Albacete s/n,67,2,40000
+Andalucía,Jaén,Chalet,Calle Cristo del Gallo s/n,460,4,285000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,112,3,199900
+Andalucía,Jaén,Chalet,Calle Cobos 52,106,3,16000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,65,2,115000
+Andalucía,Jaén,Duplex,San Bartolome - Millan de Priego,198,5,450000
+Andalucía,Jaén,Piso,Belen - San Roque,139,4,239000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,119,3,185000
+Andalucía,Jaén,Chalet,Jabalcuz,142,4,260000
+Andalucía,Jaén,Chalet,Ubeda,1000,6,450000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,38,3,90000
+Andalucía,Jaén,Piso,Linarejos,121,4,118000
+Andalucía,Jaén,Piso,Calle de la Reconciliacion s/n,62,2,40000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,10,3,49900
+Andalucía,Jaén,Piso,Belen - San Roque,185,3,148000
+Andalucía,Jaén,Chalet,Torredelcampo,94,3,119000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,260,7,1500000
+Andalucía,Jaén,Chalet,Valdeastillas - Fuentezuelas,474,13,420000
+Andalucía,Jaén,Chalet,Calle Luis Medina,246,4,36000
+Andalucía,Jaén,Piso,Belen - San Roque,71,2,83000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,98,3,95000
+Andalucía,Jaén,Chalet,Cuesta Cobatillas s/n,310,5,175000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,105,3,80000
+Andalucía,Jaén,Piso,Andujar,91,3,78000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,108,3,140000
+Andalucía,Jaén,Chalet,Ubeda,1600,3,170000
+Andalucía,Jaén,Duplex,San Ildefonso - Catedral,93,3,190000
+Andalucía,Jaén,Duplex,Calle Carnicerito de Ubeda s/n,155,4,185000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,74,2,125000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,129,4,140000
+Andalucía,Jaén,Chalet,Cuesta Cobatillas s/n,310,5,175000
+Andalucía,Jaén,Piso,Calle Gaudi,128,4,99503
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,93,3,150000
+Andalucía,Jaén,Piso,Andujar,138,4,499500
+Andalucía,Jaén,Piso,Calle Emperador Adriano,110,3,39900
+Andalucía,Jaén,Piso,Calle Blas Infante,137,4,98500
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,98,3,95000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,108,3,140000
+Andalucía,Jaén,Piso,Corredera Capuchinos,150,3,89900
+Andalucía,Jaén,Atico,Corredera San Fernando s/n,148,3,205000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,95,4,72000
+Andalucía,Jaén,Duplex,Calle Carnicerito de Ubeda s/n,155,4,185000
+Andalucía,Jaén,Chalet,Calle Paraiso s/n,220,4,169000
+Andalucía,Jaén,Piso,Calle Diecinueve de Abril,62,2,31000
+Andalucía,Jaén,Piso,Belen - San Roque,95,3,119500
+Andalucía,Jaén,Piso,Calle Gran Capitan,144,3,81000
+Andalucía,Jaén,Chalet,Calle Jodar s/n,210,3,180000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,115,3,80000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,91,3,210000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,122,4,165000
+Andalucía,Jaén,Piso,Calle Santo Domingo Savio s/n,148,4,149000
+Andalucía,Jaén,Piso,Calle Gaudi,94,3,69616
+Andalucía,Jaén,Piso,Belen - San Roque,66,2,83000
+Andalucía,Jaén,Piso,Calle de Santo Domingo s/n,108,3,125000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,65,2,125000
+Andalucía,Jaén,Duplex,San Ildefonso - Catedral,101,3,190000
+Andalucía,Jaén,Piso,Calle Jaen,112,3,65000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa,106,3,87000
+Andalucía,Jaén,Chalet,Mancha Real,203,3,189900
+Andalucía,Jaén,Chalet,Calle La Zambra,180,3,57000
+Andalucía,Jaén,Chalet,MADRID,352,5,134000
+Andalucía,Jaén,Chalet,Penamefecit - Avda Barcelona,84,3,325000
+Andalucía,Jaén,Piso,Calle San Eufrasio,62,2,52900
+Andalucía,Jaén,Chalet,GOYA,144,4,105000
+Andalucía,Jaén,Chalet,Calle Tetuan,222,6,200000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,184,6,260000
+Andalucía,Jaén,Chalet,Calle ARROYO INMOBILIARIA 2,800,3,122000
+Andalucía,Jaén,Chalet,Via 1,5222,4,450000
+Andalucía,Jaén,Piso,Calle Mendez Nunez,9499,3,49900
+Andalucía,Jaén,Chalet,Calle La Zambra,180,3,57000
+Andalucía,Jaén,Chalet,Calle Pastor Juan de Rivas,623,5,229900
+Andalucía,Jaén,Piso,San Bartolome,152,4,95000
+Andalucía,Jaén,Piso,Calle Maria Bellido esquina c/ Zarco del Valle s/n,107,3,79000
+Andalucía,Jaén,Atico,Avenida de Antonio Pascual Acosta s/n,63,2,159000
+Andalucía,Jaén,Piso,Calle Palos de la Frontera,97,3,48000
+Andalucía,Jaén,Piso,Calle Mendez Nunez,9499,3,49900
+Andalucía,Jaén,Piso,Calle Arroyo de San Pedro,75,3,60000
+Andalucía,Jaén,Piso,Calle Obispo Cobos s/n,110,3,110000
+Andalucía,Jaén,Atico,Calle San Marcos s/n,165,5,219000
+Andalucía,Jaén,Piso,Calle Federico de Mendizabal,120,3,98000
+Andalucía,Jaén,Chalet,Andalucia,503,10,129000
+Andalucía,Jaén,Chalet,Calle I Sector 7 90,80,3,179000
+Andalucía,Jaén,Piso,Calle Hospital de San Miguel,6500,3,52000
+Andalucía,Jaén,Piso,Plaza la Magdalena,82,2,43000
+Andalucía,Jaén,Chalet,Via 1,5222,4,450000
+Andalucía,Jaén,Chalet,Calle San Marcos,197,5,65000
+Andalucía,Jaén,Piso,Avenida Valencia,95,3,61000
+Andalucía,Jaén,Piso,Calle La Zambra,130,3,65000
+Andalucía,Jaén,Piso,Calle Fresa,83,2,11500
+Andalucía,Jaén,Chalet,Calle Ubeda 63,133,4,196000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,184,6,260000
+Andalucía,Jaén,Piso,Corredera San Fernando s/n,104,3,65000
+Andalucía,Jaén,Duplex,AYALA s/n,100,3,119000
+Andalucía,Jaén,Chalet,Calle ARROYO INMOBILIARIA 2,800,3,122000
+Andalucía,Jaén,Chalet,Calle Llana de San Juan 41,120,3,125000
+Andalucía,Jaén,Chalet,MADRID,352,5,134000
+Andalucía,Jaén,Chalet,Mancha Real,203,3,189900
+Andalucía,Jaén,Piso,Calle arrastradero,85,3,110000
+Andalucía,Jaén,Piso,Senda de la Moza,64,2,15400
+Andalucía,Jaén,Piso,Calle San Eufrasio,78,2,52900
+Andalucía,Jaén,Chalet,Calle Italia,353,4,365000
+Andalucía,Jaén,Chalet,Carretera de Banos,270,4,82000
+Andalucía,Jaén,Chalet,aguilar,145,4,175000
+Andalucía,Jaén,Piso,Calle Murillo,60,2,80000
+Andalucía,Jaén,Piso,Plaza San Francisco,90,3,155000
+Andalucía,Jaén,Piso,Avenida de Andalucia,145,4,265000
+Andalucía,Jaén,Piso,Plaza la Estacion,90,3,42000
+Andalucía,Jaén,Piso,Senda de la Moza,115,3,60000
+Andalucía,Jaén,Chalet,Calle Rector Munoz Fernandez,295,5,450000
+Andalucía,Jaén,Piso,Calle Cid Campeador,134,3,89999
+Andalucía,Jaén,Chalet,urbanizacion cerro molina 2,1600,5,200000
+Andalucía,Jaén,Atico,Calle Banos,63,2,89000
+Andalucía,Jaén,Piso,Plaza la Estacion,90,3,42000
+Andalucía,Jaén,Piso,Senda de la Moza,115,3,60000
+Andalucía,Jaén,Chalet,Carretera de Banos,270,4,82000
+Andalucía,Jaén,Chalet,Avenida de Pozo Ancho,290,5,122000
+Andalucía,Jaén,Chalet,Plaza Colombia 10,400,3,250000
+Andalucía,Jaén,Piso,Calle los Huerfanos 2,65,2,49700
+Andalucía,Jaén,Piso,Calle Lope de Vega,196,5,80000
+Andalucía,Jaén,Piso,Calle Millan de Priego 25,90,3,103000
+Andalucía,Jaén,Piso,Calle RAFAEL ALBERTI 4,62,2,52000
+Andalucía,Jaén,Piso,Calle Daoiz,112,3,77999
+Andalucía,Jaén,Piso,Avenida Libertad,86,3,75000
+Andalucía,Jaén,Piso,Calle Arguelles,116,3,118000
+Andalucía,Jaén,Chalet,CALLA DONANTES DE SANGRE s/n,90,3,179000
+Andalucía,Jaén,Chalet,Calle Maestro Joaquin Rodrigo s/n,145,4,119000
+Andalucía,Jaén,Chalet,Colonia la Cruz,136,4,250000
+Andalucía,Jaén,Piso,Travesia Virgen Cabeza Primera,85,3,39000
+Andalucía,Jaén,Chalet,RAMON LOPEZ s/n,60,3,169000
+Andalucía,Jaén,Piso,Calle Canalejas,117,4,125000
+Andalucía,Jaén,Piso,Calle Hernan Cortes,163,5,55000
+Andalucía,Jaén,Piso,Calle Guillen,86,3,89500
+Andalucía,Jaén,Piso,Paseo Virgen de Linarejos,136,4,170000
+Andalucía,Jaén,Chalet,Carcheles,143,4,105000
+Andalucía,Jaén,Chalet,Bulevar jaen s/n,243,6,375000
+Andalucía,Jaén,Chalet,Calle Santiago,132,3,150000
+Andalucía,Jaén,Duplex,Avenida de Andalucia,140,4,134999
+Andalucía,Jaén,Piso,Calle Juan Pedro Gutierrez Higueras,146,4,215000
+Andalucía,Jaén,Chalet,Via,160,3,150000
+Andalucía,Jaén,Piso,Avenida de Andalucia,134,4,265000
+Andalucía,Jaén,Piso,Paseo de la Alameda,111,3,80000
+Andalucía,Jaén,Piso,Calle Aurea Galindo,95,3,93000
+Andalucía,Jaén,Piso,Calle Murillo,67,2,80000
+Andalucía,Jaén,Chalet,Urbanizacion las Encinas,450,5,300000
+Andalucía,Jaén,Chalet,Carretera de Los Villares,197,5,258000
+Andalucía,Jaén,Piso,Calle Bailen,150,4,70000
+Andalucía,Jaén,Piso,Calle Arguelles,91,2,75000
+Andalucía,Jaén,Chalet,loma del royo s/n,120,4,250000
+Andalucía,Jaén,Chalet,Calle de Maria Rosa 16,129,4,31300
+Andalucía,Jaén,Duplex,Avenida de Andalucia,140,4,134999
+Andalucía,Jaén,Piso,Calle de Maria Carcel,151,3,44000
+Andalucía,Jaén,Piso,Calle JUAN XXIII s/n,119,3,34000
+Andalucía,Jaén,Chalet,Calle Alberto Lopez Poveda,280,8,160000
+Andalucía,Jaén,Chalet,Maria Zambrano,420,3,250000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,157,4,40850
+Andalucía,Jaén,Piso,Calle Conde Romanones del Pilar,183,5,79900
+Andalucía,Jaén,Piso,Calle los Huerfanos 2,65,2,49700
+Andalucía,Jaén,Piso,Paseo Marqueses de Linares,108,4,50000
+Andalucía,Jaén,Piso,Calle Forjadores,100,2,85000
+Andalucía,Jaén,Piso,Travesia Virgen Cabeza Primera,85,3,39000
+Andalucía,Jaén,Chalet,Carretera de Banos,270,4,82000
+Andalucía,Jaén,Chalet,Paseo DEL MONUMENTO s/n,219,5,300000
+Andalucía,Jaén,Piso,Calle Canalejas,116,3,100000
+Andalucía,Jaén,Atico,Calle Banos,80,2,89000
+Andalucía,Jaén,Piso,Calle Arguelles,113,3,118000
+Andalucía,Jaén,Piso,Calle Jaen,80,3,95000
+Andalucía,Jaén,Piso,Calle Yanguas Jimenez,74,2,46500
+Andalucía,Jaén,Chalet,Via,160,3,150000
+Andalucía,Jaén,Piso,Calle Guillermo Manjon,155,4,79000
+Andalucía,Jaén,Piso,desengano 20,74,2,37000
+Andalucía,Jaén,Chalet,Calle de Maria Rosa 16,127,4,31300
+Andalucía,Jaén,Piso,Calle Romea,90,2,24000
+Andalucía,Jaén,Piso,Calle Lope de Vega,184,5,80000
+Andalucía,Jaén,Chalet,urbanizacion Cerro Molina,130,4,149500
+Andalucía,Jaén,Piso,Calle el Aladrero,87,3,85000
+Andalucía,Jaén,Piso,Avenida de Andalucia,130,4,79900
+Andalucía,Jaén,Piso,Paseo Virgen de Linarejos,116,3,135999
+Andalucía,Jaén,Chalet,CONVENTO,102,4,121000
+Andalucía,Jaén,Chalet,Calle Barrionuevo 53,198,3,69000
+Andalucía,Jaén,Piso,Calle Conde Mejorada,75,3,85000
+Andalucía,Jaén,Chalet,aguilar,145,4,175000
+Andalucía,Jaén,Atico,Belen - San Roque,115,3,257842
+Andalucía,Jaén,Chalet,Calle Santiago,132,3,150000
+Andalucía,Jaén,Chalet,astorga 3,239,4,212000
+Andalucía,Jaén,Chalet,JUEZ BRAULIO SENA,875,6,350000
+Andalucía,Jaén,Piso,Calle Guillen,101,3,89500
+Andalucía,Jaén,Piso,Plaza San Francisco,90,3,155000
+Andalucía,Jaén,Piso,Calle Arguelles,79,2,69000
+Andalucía,Jaén,Piso,Calle Rio Grande,95,3,34000
+Andalucía,Jaén,Chalet,Calle Canalejas,340,5,180000
+Andalucía,Jaén,Chalet,Calle Maestro Joaquin Rodrigo s/n,160,4,119000
+Andalucía,Jaén,Piso,Paseo Virgen de Linarejos,80,1,66000
+Andalucía,Jaén,Piso,Calle los Huerfanos 2,65,2,49700
+Andalucía,Jaén,Chalet,Colonia la Cruz,129,4,250000
+Andalucía,Jaén,Duplex,Avenida de Andalucia,140,4,134999
+Andalucía,Jaén,Piso,Senda de la Moza,115,3,60000
+Andalucía,Jaén,Chalet,Avenida Andalucia,299,3,80000
+Andalucía,Jaén,Piso,Plaza de Ramon y Cajal del Bermejal,123,4,119900
+Andalucía,Jaén,Chalet,Calle Italia,353,4,365000
+Andalucía,Jaén,Chalet,Centro Ciudad,329,5,110000
+Andalucía,Jaén,Piso,Calle Sagunto,153,5,120000
+Andalucía,Jaén,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
+Andalucía,Jaén,Chalet,Calle Modesto Higueras,252,4,33000
+Andalucía,Jaén,Chalet,Calle Gladiolo,221,3,175000
+Andalucía,Jaén,Chalet,Labradores,82,3,140000
+Andalucía,Jaén,Piso,Calle Pintor Zuloaga,111,4,92000
+Andalucía,Jaén,Chalet,Calle Casillas de Prieto,162,5,100000
+Andalucía,Jaén,Chalet,Travesia Jara,158,4,60000
+Andalucía,Jaén,Piso,Calle Corredera,67,2,49000
+Andalucía,Jaén,Piso,Calle Daoiz,92,3,100000
+Andalucía,Jaén,Piso,Calle Anton de Jaen,120,3,96000
+Andalucía,Jaén,Chalet,Calle del Banco,210,5,78000
+Andalucía,Jaén,Piso,Calle Fray Cristobal Segado,76,3,28000
+Andalucía,Jaén,Chalet,Calle Plomo,100,3,85000
+Andalucía,Jaén,Piso,Calle Santa Engracia,113,3,59000
+Andalucía,Jaén,Piso,Calle Cordoba,120,3,60000
+Andalucía,Jaén,Piso,Pasaje del Comercio,135,3,115000
+Andalucía,Jaén,Piso,Paseo Marqueses de Linares,100,3,55000
+Andalucía,Jaén,Chalet,Camino Masegosas,184,4,160000
+Andalucía,Jaén,Chalet,Avenida Doctor Juan Reyes,95,3,89000
+Andalucía,Jaén,Piso,Calle Sagunto,131,4,57000
+Andalucía,Jaén,Chalet,A-6100,321,8,170000
+Andalucía,Jaén,Piso,Calle Rio Genil,74,3,25000
+Andalucía,Jaén,Piso,Avenida Jose Maria Lopez Montes,80,3,25000
+Andalucía,Jaén,Atico,Calle MANOLO GOMEZ BUR s/n,103,3,81500
+Andalucía,Jaén,Piso,Calle Alfonso X el Sabio,93,3,98000
+Andalucía,Jaén,Piso,Paseo Marqueses de Linares,87,3,42000
+Andalucía,Jaén,Piso,Calle Federico de Mendizabal,134,4,169900
+Andalucía,Jaén,Piso,Calle Raphael,117,3,89900
+Andalucía,Jaén,Piso,Calle Martinez de Ubeda,56,2,27000
+Andalucía,Jaén,Piso,Calle Jaime I el Conquistador,145,3,80000
+Andalucía,Jaén,Chalet,Calle Coral Andres Segovia,193,4,198000
+Andalucía,Jaén,Chalet,Calle Olivo,95,3,45000
+Andalucía,Jaén,Piso,Camino Masegosas,120,3,80000
+Andalucía,Jaén,Chalet,Calle Italia,449,7,470000
+Andalucía,Jaén,Piso,Avenida de Andalucia,120,3,120000
+Andalucía,Jaén,Piso,Calle Ercilla,155,4,32000
+Andalucía,Jaén,Chalet,Calle Orquidea,384,4,500000
+Andalucía,Jaén,Piso,Calle Corredera,67,2,49000
+Andalucía,Jaén,Piso,Calle Jaen,107,3,95000
+Andalucía,Jaén,Chalet,Calle Escultor Pablo Serrano,100,5,220000
+Andalucía,Jaén,Chalet,Via,50,1,70000
+Andalucía,Jaén,Chalet,Calle Magnolia,235,4,185000
+Andalucía,Jaén,Chalet,Labradores,91,3,140000
+Andalucía,Jaén,Casa Rural,Aquisgrana,126,3,310000
+Andalucía,Jaén,Piso,Calle Conde de Torreanaz 11,114,3,42000
+Andalucía,Jaén,Chalet,Calle Doctor Fleming,249,6,55000
+Andalucía,Jaén,Piso,Calle Cid Campeador,113,4,78000
+Andalucía,Jaén,Chalet,Calle Jaen,270,4,165000
+Andalucía,Jaén,Atico,Calle MANOLO GOMEZ BUR s/n,99,3,81500
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,84,4,45000
+Andalucía,Jaén,Chalet,Calle Historiador Jesus de Haro,149,5,148000
+Andalucía,Jaén,Piso,Calle Fray Cristobal Segado,114,3,34000
+Andalucía,Jaén,Piso,Calle Federico Mayo,70,3,36900
+Andalucía,Jaén,Chalet,Calle Fuente Avellano,230,6,195000
+Andalucía,Jaén,Piso,Calle Martinez de Ubeda,92,3,97000
+Andalucía,Jaén,Piso,Calle Rio Grande,86,3,40000
+Andalucía,Jaén,Chalet,Calle Raphael,282,6,160000
+Andalucía,Jaén,Chalet,Calle Mar Mediterraneo,202,4,188000
+Andalucía,Jaén,Piso,Camino Madronal,103,3,25000
+Andalucía,Jaén,Chalet,Calle Jacinto Benavente,117,3,33000
+Andalucía,Jaén,Chalet,Pintor Francisco Banos,95,3,349000
+Andalucía,Jaén,Piso,Calle Arroyo,142,3,78000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,89,3,85000
+Andalucía,Jaén,Chalet,Pasaje Santa Maria,160,4,65000
+Andalucía,Jaén,Piso,Calle Romea,100,3,30000
+Andalucía,Jaén,Piso,Avenida San Sebastian,167,4,140000
+Andalucía,Jaén,Chalet,Calle Calerin Bajo,101,3,59999
+Andalucía,Jaén,Chalet,Plaza Cante Jondo,82,3,20000
+Andalucía,Jaén,Atico,Paseo Virgen de Linarejos,273,4,260000
+Andalucía,Jaén,Piso,Calle Julio Burell 67,88,3,84000
+Andalucía,Jaén,Piso,Calle Jaime I el Conquistador,145,3,80000
+Andalucía,Jaén,Piso,Plaza Poeta Vicente Aleixandre,87,3,25000
+Andalucía,Jaén,Piso,Corredera San Fernando,152,4,154000
+Andalucía,Jaén,Piso,Calle Calvario,106,3,48000
+Andalucía,Jaén,Piso,Calle Menendez Pelayo,125,4,108000
+Andalucía,Jaén,Atico,Calle Goya,143,4,132000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,104,3,85000
+Andalucía,Jaén,Chalet,Calle Paco Clavijo,202,3,50000
+Andalucía,Jaén,Chalet,Calle Alheli,245,4,200000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,80,2,67000
+Andalucía,Jaén,Chalet,Calle Conde Romanones del Pilar,694,7,620000
+Andalucía,Jaén,Chalet,Calle del Banco,210,5,78000
+Andalucía,Jaén,Piso,Avenida Jose Maria Lopez Montes,109,3,25000
+Andalucía,Jaén,Piso,Ronda del Molino,65,2,55000
+Andalucía,Jaén,Piso,Calle Jaen,90,3,83000
+Andalucía,Jaén,Chalet,Calle Nuestra Senora de la Asuncion,117,4,57000
+Andalucía,Jaén,Chalet,Calle Bailen,204,3,120000
+Andalucía,Jaén,Piso,Calle Rio Genil,105,3,50000
+Andalucía,Jaén,Chalet,Calle Colon,138,2,25200
+Andalucía,Jaén,Piso,Calle Sagunto,131,4,57000
+Andalucía,Jaén,Atico,Calle Antonio Machado 8,113,3,130000
+Andalucía,Jaén,Chalet,Calle Portillo,216,3,99000
+Andalucía,Jaén,Piso,Calle Francisco de Orellana,85,3,87000
+Andalucía,Jaén,Piso,Calle San Francisco Javier,112,4,133500
+Andalucía,Jaén,Piso,Calle Pintor Pablo Picasso,135,4,106000
+Andalucía,Jaén,Chalet,Calle Progreso,176,5,99000
+Andalucía,Jaén,Piso,Calle la Carolina,190,4,85000
+Andalucía,Jaén,Piso,Calle Madre de Dios de la Salud,129,3,140000
+Andalucía,Jaén,Piso,Calle Cristobal de Olid,104,3,53000
+Andalucía,Jaén,Piso,Calle Diego Bujalance,84,3,62000
+Andalucía,Jaén,Chalet,Calle Melilla,209,6,365000
+Andalucía,Jaén,Piso,Calle Federico Mayo,70,3,36900
+Andalucía,Jaén,Piso,Calle Bailen,109,4,65000
+Andalucía,Jaén,Chalet,Avenida de Arrayanes,202,3,70000
+Andalucía,Jaén,Chalet,Calle Huerta de las Eras,78,2,120000
+Andalucía,Jaén,Chalet,Calle del Marques de Linares,266,4,230000
+Andalucía,Jaén,Chalet,Calle Fuente del Oso,190,5,210000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa,144,3,90000
+Andalucía,Jaén,Piso,Calle Arroyo,142,3,78000
+Andalucía,Jaén,Piso,Calle Numancia,73,2,100000
+Andalucía,Jaén,Piso,Calle Guillen,66,2,60000
+Andalucía,Jaén,Chalet,Calle Nuestra Senora de la Asuncion,117,4,57000
+Andalucía,Jaén,Duplex,Calle General Turon,90,3,165000
+Andalucía,Jaén,Chalet,Calle Alheli,245,4,200000
+Andalucía,Jaén,Chalet,Calle Obispo Alvarez Lara,304,5,190000
+Andalucía,Jaén,Piso,Senda de la Moza,111,3,31000
+Andalucía,Jaén,Piso,Calle Jaime I el Conquistador,145,3,80000
+Andalucía,Jaén,Piso,Calle Jose Ortega y Gasset,25,2,41999
+Andalucía,Jaén,Chalet,Calle Jaen,270,4,165000
+Andalucía,Jaén,Chalet,Colonia la Cruz,354,5,400000
+Andalucía,Jaén,Piso,Calle Sagunto,153,5,120000
+Andalucía,Jaén,Piso,Calle Diego Bujalance,101,3,62000
+Andalucía,Jaén,Chalet,Calle Avila,153,4,35000
+Andalucía,Jaén,Piso,Calle Nunez de Balboa,96,3,48000
+Andalucía,Jaén,Piso,Calle Ubeda,88,3,60000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,72,2,92000
+Andalucía,Jaén,Piso,Calle Romea,89,4,62000
+Andalucía,Jaén,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
+Andalucía,Jaén,Chalet,Calle Fuente Avellano,230,6,195000
+Andalucía,Jaén,Chalet,Avenida Doctor Juan Reyes,95,3,89000
+Andalucía,Jaén,Piso,Calle Cervantes,113,4,75000
+Andalucía,Jaén,Piso,Torredelcampo,106,3,126000
+Andalucía,Jaén,Chalet,Calle del Marques de Linares,266,4,230000
+Andalucía,Jaén,Chalet,Calle Jaen,86,3,56000
+Andalucía,Jaén,Piso,Calle la Cruz,108,4,55200
+Andalucía,Jaén,Piso,Calle Rio Grande,83,3,40000
+Andalucía,Jaén,Piso,Calle Martinez Molina 50,120,3,92000
+Andalucía,Jaén,Piso,Calle Gumersindo Azcarate,80,2,67000
+Andalucía,Jaén,Chalet,Calle Felguera,203,6,75000
+Andalucía,Jaén,Chalet,Calle Zambrana,78,3,95000
+Andalucía,Jaén,Piso,Calle Julio Burell,105,4,84000
+Andalucía,Jaén,Chalet,Calle Casillas de Prieto,162,5,100000
+Andalucía,Jaén,Piso,Calle Pedro Poveda,104,3,72000
+Andalucía,Jaén,Piso,Calle Rio Grande,92,3,59000
+Andalucía,Jaén,Chalet,Calle Rio Genil,192,4,183600
+Andalucía,Jaén,Piso,Calle Segadores,87,1,70000
+Andalucía,Jaén,Piso,Plaza Alfonso XII Nueva,144,5,82000
+Andalucía,Jaén,Chalet,Calle Modesto Higueras,252,4,33000
+Andalucía,Jaén,Atico,Calle Antonio Machado 8,97,3,130000
+Andalucía,Jaén,Piso,Calle Martinez de Ubeda,92,3,97000
+Andalucía,Jaén,Chalet,Calle Bastetania,85,3,179000
+Andalucía,Jaén,Chalet,Calle Enrique Granados,172,6,99000
+Andalucía,Jaén,Chalet,Calle Portillo,216,3,99000
+Andalucía,Jaén,Atico,Calle Juego Pelotas,127,4,85000
+Andalucía,Jaén,Chalet,Calle del Rio Guadalen,117,8,155000
+Andalucía,Jaén,Chalet,Plaza del Gallo,366,9,168000
+Andalucía,Jaén,Chalet,Calle Mendez Nunez,29,2,41000
+Andalucía,Jaén,Piso,Avenida de Andalucia,103,3,70000
+Andalucía,Jaén,Piso,Calle Calvario,106,3,48000
+Andalucía,Jaén,Piso,Senda de la Moza,75,1,50000
+Andalucía,Jaén,Piso,Calle Alemania,139,4,160000
+Andalucía,Jaén,Duplex,Calle Jaen,87,2,100000
+Andalucía,Jaén,Piso,Avenida Andres Segovia,76,2,37000
+Andalucía,Jaén,Piso,Calle Bernabe Soriano,143,4,210000
+Andalucía,Jaén,Piso,Calle Ondeanos,135,3,32490
+Andalucía,Jaén,Piso,Calle Fernando de Herrera,93,3,35000
+Andalucía,Jaén,Piso,Calle la Cruz,108,4,55200
+Andalucía,Jaén,Chalet,Calle San Eugenio,228,6,160000
+Andalucía,Jaén,Piso,Calle Raphael,83,3,89900
+Andalucía,Jaén,Piso,Calle Federico de Mendizabal,157,4,169900
+Andalucía,Jaén,Piso,Calle Olivos,78,2,45000
+Andalucía,Jaén,Chalet,Calle Alheli,245,4,200000
+Andalucía,Jaén,Piso,Calle Nunez de Balboa,110,3,48000
+Andalucía,Jaén,Piso,Calle Rio Guadalquivir,68,3,22000
+Andalucía,Jaén,Chalet,Calle Bailen,204,3,120000
+Andalucía,Jaén,Chalet,Calle Obispo Alvarez Lara,304,5,190000
+Andalucía,Jaén,Piso,Calle Diego Bujalance,95,3,62000
+Andalucía,Jaén,Chalet,Plaza Alfonso XII Nueva,226,10,182000
+Andalucía,Jaén,Chalet,Calle Martin de Avalos,93,3,69483
+Andalucía,Jaén,Piso,Calle Alfonso de Churruca,65,3,45000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,118,4,50000
+Andalucía,Jaén,Chalet,Calle Caceres,328,5,190000
+Andalucía,Jaén,Piso,Calle Aurea Galindo,63,2,55000
+Andalucía,Jaén,Chalet,Diseminado Huertos San Roque,450,7,260000
+Andalucía,Jaén,Piso,Calle la Rabida,87,3,69000
+Andalucía,Jaén,Duplex,Calle Isaac Peral,87,1,120000
+Andalucía,Jaén,Chalet,Calle Gladiolo,221,3,175000
+Andalucía,Jaén,Chalet,Calle Paco Bautista,244,4,200000
+Andalucía,Jaén,Piso,Calle Menendez Pelayo,125,4,108000
+Andalucía,Jaén,Piso,Calle Julio Burell 67,102,3,84000
+Andalucía,Jaén,Piso,Calle la Merced,100,2,96000
+Andalucía,Jaén,Piso,Calle Guillen,66,2,60000
+Andalucía,Jaén,Chalet,Calle Casillas de Prieto,162,5,100000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,121,4,54000
+Andalucía,Jaén,Piso,Calle Calvario,106,3,48000
+Andalucía,Jaén,Piso,Avenida San Cristobal,150,4,100000
+Andalucía,Jaén,Chalet,Calle Jaen,270,4,165000
+Andalucía,Jaén,Chalet,Calle Zabala,108,4,40000
+Andalucía,Jaén,Duplex,Calle Aurea Galindo,85,3,125000
+Andalucía,Jaén,Piso,Calle Fray Antonio de Marchena,107,3,30000
+Andalucía,Jaén,Atico,Calle MANOLO GOMEZ BUR s/n,109,3,81500
+Andalucía,Jaén,Piso,Calle Jose Maria Lillo,135,3,60000
+Andalucía,Jaén,Piso,Calle Rio Genil,74,3,25000
+Andalucía,Jaén,Piso,Calle Pedro Antonio de Alarcon,90,3,30000
+Andalucía,Jaén,Piso,Avenida de Andalucia,120,3,120000
+Andalucía,Jaén,Piso,Callejon de las Flores,111,3,100000
+Andalucía,Jaén,Chalet,Calle Miguel Cobo,131,3,30000
+Andalucía,Jaén,Piso,Senda de la Moza,83,3,31000
+Andalucía,Jaén,Piso,Plaza Poeta Vicente Aleixandre,118,3,25000
+Andalucía,Jaén,Chalet,CARLOS III,136,4,142000
+Andalucía,Jaén,Piso,Calle Sagunto,153,5,120000
+Andalucía,Jaén,Chalet,Calle Aviles,86,3,65000
+Andalucía,Jaén,Chalet,Calle del Marques de Linares,266,4,230000
+Andalucía,Jaén,Piso,Calle Romea,83,3,63000
+Andalucía,Jaén,Piso,Senda de la Moza,120,3,130000
+Andalucía,Jaén,Chalet,bermejales,142,4,225000
+Andalucía,Jaén,Chalet,Calle Duque de Veragua,102,4,60000
+Andalucía,Jaén,Chalet,A-6100,388,8,170000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,160,5,70000
+Andalucía,Jaén,Chalet,Via,1200,4,100000
+Andalucía,Jaén,Piso,Calle Ana Maria Mogas,112,3,108000
+Andalucía,Jaén,Chalet,Calle Calerin Bajo,92,3,59999
+Andalucía,Jaén,Piso,Calle Aurea Galindo,63,2,55000
+Andalucía,Jaén,Piso,Calle los Francos,111,3,38000
+Andalucía,Jaén,Chalet,Calle Patrocinio de Biedma,204,4,120000
+Andalucía,Jaén,Chalet,Avenida Andres Segovia,165,9,210000
+Andalucía,Jaén,Piso,Calle Ercilla,149,4,32000
+Andalucía,Jaén,Chalet,Via,221,6,85000
+Andalucía,Jaén,Chalet,Pintor Francisco Banos,103,3,349000
+Andalucía,Jaén,Chalet,Calle Casillas de Prieto,162,5,100000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,84,4,45000
+Andalucía,Jaén,Piso,Calle Emilia Pardo Bazan,104,3,40000
+Andalucía,Jaén,Piso,Calle de los Bomberos,154,3,100000
+Andalucía,Jaén,Piso,Ubeda,118,3,60000
+Andalucía,Jaén,Chalet,Plaza Alfonso XII Nueva,226,10,182000
+Andalucía,Jaén,Chalet,Avenida Andres Segovia,165,9,210000
+Andalucía,Jaén,Piso,Avenida de Andalucia,103,3,45000
+Andalucía,Jaén,Piso,Calle Sagunto,131,4,57000
+Andalucía,Jaén,Chalet,Callle Casualidad,88,3,250000
+Andalucía,Jaén,Piso,Calle los Francos,120,3,38000
+Andalucía,Jaén,Piso,Calle Joaquin Ruano,115,3,45000
+Andalucía,Jaén,Piso,Paseo de la Alameda,109,3,88000
+Andalucía,Jaén,Chalet,Calle Zabala,108,4,40000
+Andalucía,Jaén,Piso,Calle Conde de Torreanaz 11,81,3,42000
+Andalucía,Jaén,Piso,Calle Tetuan Bloques,69,2,61500
+Andalucía,Jaén,Piso,Calle Aurea Galindo,63,2,55000
+Andalucía,Jaén,Piso,Calle Fernando de Herrera,93,3,35000
+Andalucía,Jaén,Chalet,Calle Bailen,204,3,120000
+Andalucía,Jaén,Piso,Calle la Merced,100,2,96000
+Andalucía,Jaén,Piso,Calle Julio Burell,106,3,100000
+Andalucía,Jaén,Piso,Calle Segadores,70,2,90000
+Andalucía,Jaén,Piso,Calle Jose Ortega y Gasset,25,2,41999
+Andalucía,Jaén,Piso,Calle Segadores,87,1,70000
+Andalucía,Jaén,Piso,Calle Ubeda,101,3,60000
+Andalucía,Jaén,Chalet,Avenida Juan Carlos I,224,5,40000
+Andalucía,Jaén,Chalet,Calle Felguera,219,6,75000
+Andalucía,Jaén,Piso,Calle Numancia,73,2,100000
+Andalucía,Jaén,Piso,Calle Pedro Poveda,104,3,72000
+Andalucía,Jaén,Chalet,Calle Martin de Avalos,93,3,69483
+Andalucía,Jaén,Chalet,Calle Colon,138,2,25200
+Andalucía,Jaén,Piso,Paseo Marqueses de Linares,89,3,55000
+Andalucía,Jaén,Piso,Calle Jaen,116,3,75000
+Andalucía,Jaén,Chalet,Calle Paco Clavijo,202,3,50000
+Andalucía,Jaén,Chalet,Calle Progreso,189,5,99000
+Andalucía,Jaén,Chalet,Calle Coral Andres Segovia,193,4,198000
+Andalucía,Jaén,Piso,Calle Rio Genil,74,3,25000
+Andalucía,Jaén,Chalet,Calle Fuente del Oso,190,5,210000
+Andalucía,Jaén,Piso,Calle Anton de Jaen,120,3,96000
+Andalucía,Jaén,Chalet,Via,1200,4,100000
+Andalucía,Jaén,Chalet,Calle del Banco,210,5,78000
+Andalucía,Jaén,Piso,Camino Madronal,118,3,25000
+Andalucía,Jaén,Piso,Calle Pintor Zuloaga,111,4,92000
+Andalucía,Jaén,Piso,Ronda Astronomo Al-Jayyani,75,2,65000
+Andalucía,Jaén,Piso,Calle Nucleo Residencial la Paz,118,4,50000
+Andalucía,Jaén,Piso,Calle Numancia,73,2,100000
+Andalucía,Jaén,Piso,Avenida San Sebastian,167,4,140000
+Andalucía,Jaén,Chalet,Calle Don Juan,90,2,12750
+Andalucía,Jaén,Casa Rural,Calle Pablo Iglesias 1,45,1,33000
+Andalucía,Jaén,Piso,Linarejos,124,3,88000
+Andalucía,Jaén,Chalet,Centro Ciudad,292,6,110000
+Andalucía,Jaén,Chalet,Arrayanes,143,3,49000
+Andalucía,Jaén,Chalet,Calle Virgen de los Remedios 3,112,3,31600
+Andalucía,Jaén,Piso,Centro Ciudad,105,2,69000
+Andalucía,Jaén,Piso,Centro Ciudad,102,3,87000
+Andalucía,Jaén,Piso,Calle Espana 65,142,4,82200
+Andalucía,Jaén,Piso,Linarejos,110,3,59000
+Andalucía,Jaén,Piso,Torredelcampo,109,3,125000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,116,4,139500
+Andalucía,Jaén,Piso,Calle Virgen de la Paloma 5,71,2,55000
+Andalucía,Jaén,Piso,Calle Aurea Galindo 76,94,3,85000
+Andalucía,Jaén,Chalet,Calle Granada 28,159,4,310300
+Andalucía,Jaén,Piso,Carretera Andujar 3,466,3,159000
+Andalucía,Jaén,Chalet,Calle Baluarte 17,45,1,7400
+Andalucía,Jaén,Chalet,Calle Virgen de Tiscar,86,3,186000
+Andalucía,Jaén,Piso,Calle Pedro Perez 54,134,4,68000
+Andalucía,Jaén,Piso,Navas de Tolosa 17,95,3,90000
+Andalucía,Jaén,Piso,Plaza de Cambil 2,99,3,73577
+Andalucía,Jaén,Piso,Centro Ciudad,103,3,88000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,101,3,135000
+Andalucía,Jaén,Chalet,Calle Alamos s/n,154,4,8400
+Andalucía,Jaén,Chalet,Calle Ramon y Cajal 1,128,4,69000
+Andalucía,Jaén,Duplex,Ctra Circunvalacion - La Magdalena,103,3,167000
+Andalucía,Jaén,Atico,Paseo de la Estacion 35,143,4,99000
+Andalucía,Jaén,Piso,Calle Bailen s/n,84,3,88800
+Andalucía,Jaén,Piso,Calle Santa Clara 12,96,3,103500
+Andalucía,Jaén,Chalet,Calle Santa Ana s/n,119,3,6300
+Andalucía,Jaén,Chalet,Puente de la Sierra 4,2581,4,195000
+Andalucía,Jaén,Chalet,Calle Pascual Leyva 12,78,2,22000
+Andalucía,Jaén,Duplex,Ctra Circunvalacion - La Magdalena,115,3,167000
+Andalucía,Jaén,Chalet,Calle Antonio de las Vinas 5,293,4,298000
+Andalucía,Jaén,Chalet,Calle Buenavista,150,3,65000
+Andalucía,Jaén,Chalet,Calle Alamos s/n,134,4,8400
+Andalucía,Jaén,Piso,Calle Santa Clara 12,111,3,103500
+Andalucía,Jaén,Piso,Avenida de Madrid,75,3,157500
+Andalucía,Jaén,Piso,fuente alamillo,72,2,127000
+Andalucía,Jaén,Piso,Calle Juan Martin,119,3,82500
+Andalucía,Jaén,Piso,Calle D Luis Gutierrez de Caviedes 1,79,2,45000
+Andalucía,Jaén,Piso,Paseo de la Estacion,89,3,85000
+Andalucía,Jaén,Chalet,Calle Cardenal Benavides 52,149,4,49000
+Andalucía,Jaén,Chalet,tomillar,150,5,100000
+Andalucía,Jaén,Chalet,El Salograr s/n,62,2,150000
+Andalucía,Jaén,Piso,Calle Mezquita,124,4,77900
+Andalucía,Jaén,Chalet,UTRILLA 79,100,3,130000
+Andalucía,Jaén,Chalet,La Mina 21,150,4,380000
+Andalucía,Jaén,Piso,Calle San Clemente s/n,174,5,164000
+Andalucía,Jaén,Piso,Calle Pedro Perez,101,3,47000
+Andalucía,Jaén,Duplex,Calle LARGA,152,4,79900
+Andalucía,Jaén,Chalet,Calle Atalaya,280,7,175000
+Andalucía,Jaén,Piso,La Paz-Las Americas,80,3,35000
+Andalucía,Jaén,Piso,Abad Moya s/n,154,4,115000
+Andalucía,Jaén,Piso,Calle Fuente de Don Diego,100,3,110000
+Andalucía,Jaén,Piso,Calle Maria Auxiliadora s/n,68,2,72200
+Andalucía,Jaén,Piso,Calle Fuente del Alamillo,70,2,126900
+Andalucía,Jaén,Chalet,Aldea de Mures s/n,82,3,75000
+Andalucía,Jaén,Atico,Calle Cronista Gonzalez Lopez,295,7,480000
+Andalucía,Jaén,Piso,Calle Legazpi,4,3,55000
+Andalucía,Jaén,Piso,Calle Doctor Navarro Funes s/n,101,3,69400
+Andalucía,Jaén,Chalet,Avenida Andalucia,240,6,80000
+Andalucía,Jaén,Chalet,Calle Finlandia s/n,99,3,183500
+Andalucía,Jaén,Chalet,Camino la Carrera,190,3,200000
+Andalucía,Jaén,Chalet,Calle Mirador de Calatrava,259,4,270000
+Andalucía,Jaén,Piso,Calle Juan Nogales,47,1,90000
+Andalucía,Jaén,Chalet,Carretera Cordoba-Valencia,1200,5,220000
+Andalucía,Jaén,Piso,Calle San Joaquin s/n,94,3,71900
+Andalucía,Jaén,Piso,Calle Sebastian Elcano,68,2,20000
+Andalucía,Jaén,Chalet,Calle Luna s/n,95,3,64100
+Andalucía,Jaén,Chalet,Calle Ramon y Cajal,120,3,72200
+Andalucía,Jaén,Chalet,Camino DE JABALCUZ,800,6,500000
+Andalucía,Jaén,Atico,Calle Republica Argentina,70,3,185000
+Andalucía,Jaén,Chalet,Calle de Jose Molina 23,137,4,250000
+Andalucía,Jaén,Piso,Avenida Felix Rodriguez de la Fuente s/n,81,3,68800
+Andalucía,Jaén,Piso,Calle Maria Auxiliadora s/n,71,2,72200
+Andalucía,Jaén,Piso,Calle Campanario,75,2,50000
+Andalucía,Jaén,Atico,Calle Castilla,224,5,395000
+Andalucía,Jaén,Piso,Calle de los Bomberos s/n,110,3,92900
+Andalucía,Jaén,Chalet,Calle Luna s/n,100,3,44000
+Andalucía,Jaén,Chalet,JV-3003,120,3,202000
+Andalucía,Jaén,Atico,Calle Sor Isabel,68,2,119900
+Andalucía,Jaén,Atico,Calle San Juan,160,4,149000
+Andalucía,Jaén,Chalet,Calle santa elena,80,2,90000
+Andalucía,Jaén,Piso,Calle Balbino Quesada,110,3,39000
+Andalucía,Jaén,Chalet,Calle Emperador Carlos,193,7,160000
+Andalucía,Jaén,Chalet,Cuesta Merced s/n,87,3,129200
+Andalucía,Jaén,Piso,Plaza Jose Leon,68,2,60000
+Andalucía,Jaén,Duplex,Calle cava,245,3,325000
+Andalucía,Jaén,Piso,Avenida Joaquin Costa s/n,110,3,44800
+Andalucía,Jaén,Chalet,Calle Pintor Juan Esteban,85,3,50000
+Andalucía,Jaén,Chalet,Calle Cobatillas Altas,86,3,45000
+Andalucía,Jaén,Piso,Calle Juan Nogales,44,1,90000
+Andalucía,Jaén,Chalet,Carretera Cordoba-Valencia,1200,5,220000
+Andalucía,Jaén,Chalet,Calle Lecheras,111,3,57000
+Andalucía,Jaén,Piso,Calle Numancia,154,4,75000
+Andalucía,Jaén,Chalet,Calle Luna s/n,88,3,64100
+Andalucía,Jaén,Piso,Avenida de la Constitucion,102,3,100000
+Andalucía,Jaén,Piso,Calle Fuente del Alamillo,70,2,126900
+Andalucía,Jaén,Chalet,Calle Mendez 6,150,4,26000
+Andalucía,Jaén,Chalet,Calle Perez Galdos s/n,80,3,36300
+Andalucía,Jaén,Chalet,Avenida Andalucia,210,6,80000
+Andalucía,Jaén,Piso,Calle San Sebastian,147,5,95000
+Andalucía,Jaén,Piso,Plaza Hermanos Alvarez Quintero,109,3,43000
+Andalucía,Jaén,Chalet,Calle Carniceria,1726,3,14800
+Andalucía,Jaén,Chalet,Calle Jesus s/n,136,4,60500
+Andalucía,Jaén,Piso,madre soledad torres acosta,131,4,190000
+Andalucía,Jaén,Chalet,La Paz-Las Americas,296,3,146000
+Andalucía,Jaén,Chalet,Plaza Jaen,100,3,72000
+Andalucía,Jaén,Piso,Carretera DE JAEN 2,105,3,165000
+Andalucía,Jaén,Chalet,Calle Nogal,229,6,430000
+Andalucía,Jaén,Chalet,Calle Jaen s/n,95,3,38500
+Andalucía,Jaén,Chalet,Calle Jesus s/n,134,4,60500
+Andalucía,Jaén,Chalet,Calle Emperador Carlos,193,7,160000
+Andalucía,Jaén,Chalet,Ubeda,808,6,320000
+Andalucía,Jaén,Chalet,Calle santa elena,80,2,90000
+Andalucía,Jaén,Chalet,Calle Almoguer 9,93,3,64000
+Andalucía,Jaén,Piso,Calle Juan Nogales,47,1,90000
+Andalucía,Jaén,Chalet,Calle Perez Galdos s/n,110,3,36300
+Andalucía,Jaén,Atico,Calle San Juan,157,4,149000
+Andalucía,Jaén,Chalet,Calle Luna s/n,103,3,44000
+Andalucía,Jaén,Piso,Avenida Joaquin Costa s/n,111,3,44800
+Andalucía,Jaén,Chalet,Calle Pintor Fausto Olivares,327,4,360000
+Andalucía,Jaén,Piso,Centro Ciudad,99,3,74500
+Andalucía,Jaén,Atico,Calle Republica Argentina,70,3,185000
+Andalucía,Jaén,Piso,Calle Santa Engracia,107,3,69000
+Andalucía,Jaén,Atico,Calle Sor Isabel,72,2,119900
+Andalucía,Jaén,Chalet,Calle Jaen s/n,110,3,38500
+Andalucía,Jaén,Chalet,Calle Finlandia s/n,100,3,183500
+Andalucía,Jaén,Chalet,Calle Carniceria,1726,3,14800
+Andalucía,Jaén,Chalet,Avenida Andalucia,212,6,80000
+Andalucía,Jaén,Piso,Calle Villacarrillo,110,3,60000
+Andalucía,Jaén,Chalet,Pozo Ancho s/n,135,4,53400
+Andalucía,Jaén,Piso,Calle Legazpi,4,3,55000
+Andalucía,Jaén,Chalet,Calle de Jose Molina 23,140,4,250000
+Andalucía,Jaén,Piso,Calle Balbino Quesada,110,3,39000
+Andalucía,Jaén,Chalet,Plaza Jaen,100,3,72000
+Andalucía,Jaén,Duplex,Ctra Circunvalacion - La Magdalena,104,3,107600
+Andalucía,Jaén,Chalet,joaquin costa,400,5,390000
+Andalucía,Jaén,Chalet,donantes de sangre,147,2,165000
+Andalucía,Jaén,Piso,San Antonio,104,4,98000
+Andalucía,Jaén,Piso,Calle Flores de Lemus,151,4,169100
+Andalucía,Jaén,Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,299,7,39500
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,103,3,36975
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,190,4,109900
+Andalucía,Jaén,Piso,Barriada la Paz,88,3,41000
+Andalucía,Jaén,Chalet,Centro Ciudad,137,4,210000
+Andalucía,Jaén,Piso,Calle Antonio Munoz Molina,125,4,195000
+Andalucía,Jaén,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,5100,3,95000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,106,4,97000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,55,2,54000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,139,4,154900
+Andalucía,Jaén,Casa Rural,Avenida Y Paseo Virgen de Consolacion 56,274,7,39500
+Andalucía,Jaén,Piso,Calle Virgen de la Capilla,136,3,260000
+Andalucía,Jaén,Piso,Calle Forjadores s/n,159,4,145500
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1195,5,110000
+Andalucía,Jaén,Chalet,Calle Buenavista,191,5,255000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,55,2,54000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,149,4,154900
+Andalucía,Jaén,Chalet,Calle Castillo 76,101,3,33000
+Andalucía,Jaén,Piso,Ronda Juez Juan Ruiz Rico,73,2,150000
+Andalucía,Jaén,Piso,Avenida de granada,100,4,164000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,66,2,40000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,148,2,69000
+Andalucía,Jaén,Chalet,Calle Maestra 26,132,4,32000
+Andalucía,Jaén,Chalet,Calle belen,500,4,250000
+Andalucía,Jaén,Piso,Calle Jorge Morales,97,3,135000
+Andalucía,Jaén,Chalet,ALBERTI,110,3,45000
+Andalucía,Jaén,Chalet,altozano,683,15,160000
+Andalucía,Jaén,Casa Rural,La Carolina,371,5,1100000
+Andalucía,Jaén,Chalet,Calle virgen de la cabeza,221,4,163000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,65,3,59000
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,85,3,58900
+Andalucía,Jaén,Piso,Calle Juanito Valderrama,74,2,125000
+Andalucía,Jaén,Chalet,Calle Catalina Mir Real,141,4,398000
+Andalucía,Jaén,Atico,Calle parrilla,89,3,132000
+Andalucía,Jaén,Piso,Calle San Clemente,150,4,175000
+Andalucía,Jaén,Piso,Calle Canadilla,111,4,79000
+Andalucía,Jaén,Casa Rural,Andujar,113,3,168000
+Andalucía,Jaén,Piso,Paseo de la Estacion,75,2,225000
+Andalucía,Jaén,Chalet,Calle Camilo Jose Cela s/n,92,3,126500
+Andalucía,Jaén,Piso,Calle Antonio Munoz Molina,140,4,195000
+Andalucía,Jaén,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,8966,2,105000
+Andalucía,Jaén,Piso,CRONISTA GONZALEZ LOPEZ,14,2,205000
+Andalucía,Jaén,Chalet,colegio guadalimar,233,5,165000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,63,2,269000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,133,4,190000
+Andalucía,Jaén,Chalet,Camino de Sierra Magina,186,5,370000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,159,4,84900
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,106,4,97000
+Andalucía,Jaén,Chalet,donantes de sangre,147,2,165000
+Andalucía,Jaén,Piso,Avenida Ruiz Jimenez,138,4,175000
+Andalucía,Jaén,Chalet,Calle Catalina Mir Real,152,4,398000
+Andalucía,Jaén,Chalet,Calle belen,500,4,250000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,65,3,69900
+Andalucía,Jaén,Chalet,altozano,485,15,160000
+Andalucía,Jaén,Piso,Calle Fermin Palma,198,5,312000
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1195,5,110000
+Andalucía,Jaén,Piso,Calle Antonio Munoz Molina,153,4,195000
+Andalucía,Jaén,Casa Rural,Puente Jontoya - Puente de la Sierra - El Arroyo,5100,3,95000
+Andalucía,Jaén,Chalet,joaquin costa,400,5,390000
+Andalucía,Jaén,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1000,6,250000
+Andalucía,Jaén,Piso,Mancha Real,97,3,90000
+Andalucía,Jaén,Duplex,Valdeastillas - Fuentezuelas,160,5,279000
+Andalucía,Jaén,Chalet,Arjonilla,89,3,55000
+Andalucía,Jaén,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,1300,5,250000
+Andalucía,Jaén,Chalet,Santa Isabel,1200,3,170000
+Andalucía,Jaén,Atico,Los Villares,70,1,78000
+Andalucía,Jaén,Piso,Mancha Real,114,3,40000
+Andalucía,Jaén,Chalet,Belen - San Roque,90,5,390000
+Andalucía,Jaén,Atico,San Ildefonso - Catedral,95,3,180000
+Andalucía,Jaén,Casa Rural,Calle Herrera 17,7000,8,399000
+Andalucía,Jaén,Chalet,El Valle - Universidad,142,4,200000
+Andalucía,Jaén,Casa Rural,Calle Dordas 4,99,3,150000
+Andalucía,Jaén,Chalet,Los Villares,275,5,180000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,72,3,64000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,91,3,120000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,100,4,36000
+Andalucía,Jaén,Piso,Plaza San Roque 2,102,3,135000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,152,4,187000
+Andalucía,Jaén,Chalet,Calle Alegria 18,47,1,10000
+Andalucía,Jaén,Piso,Villanueva del Arzobispo,135,3,85000
+Andalucía,Jaén,Piso,Valdeastillas - Fuentezuelas,122,4,179900
+Andalucía,Jaén,Chalet,ROSALES 14,77,2,28000
+Andalucía,Jaén,Piso,Calle SEVILLA,157,4,74000
+Andalucía,Jaén,Piso,Calle conde,44,1,105000
+Andalucía,Jaén,Chalet,Calle Miguel Hernandez 3  - A,215,4,245000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,86,3,90000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,81,3,90000
+Andalucía,Jaén,Atico,Torredelcampo,4,3,110000
+Andalucía,Jaén,Casa Rural,Pasaje cr circunvalacion,130,4,310000
+Andalucía,Jaén,Atico,San Ildefonso - Catedral,73,2,160000
+Andalucía,Jaén,Casa Rural,Carretera Mogon s/n,14161,3,198000
+Andalucía,Jaén,Chalet,La Guardia de Jaen,100,4,36000
+Andalucía,Jaén,Casa Rural,Calle Dordas 4,112,3,150000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,171,5,123000
+Andalucía,Jaén,Duplex,Valdeastillas - Fuentezuelas,160,5,279000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,136,4,187000
+Andalucía,Jaén,Chalet,El Valle - Universidad,141,4,200000
+Andalucía,Jaén,Chalet,Mengibar,894,8,1750000
+Andalucía,Jaén,Chalet,Calle Felipe 54,106,3,27000
+Andalucía,Jaén,Chalet,Carretera de Cazorla,147,4,12000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,114,3,90000
+Andalucía,Jaén,Chalet,Calle Alegria 18,58,1,10000
+Andalucía,Jaén,Piso,Plaza San Roque 2,85,3,135000
+Andalucía,Jaén,Casa Rural,Pasaje cr circunvalacion,136,4,310000
+Andalucía,Jaén,Piso,Calle conde,77,2,155000
+Andalucía,Jaén,Chalet,Los Villares,275,5,180000
+Andalucía,Jaén,Chalet,Mancha Real,116,3,130000
+Andalucía,Jaén,Chalet,Ctra Circunvalacion - La Magdalena,112,3,45000
+Andalucía,Jaén,Chalet,Arjonilla,101,3,55000
+Andalucía,Jaén,Piso,San Felipe - El Almendral - La Merced,72,3,64000
+Andalucía,Jaén,Duplex,Calle el Viso 4,40,3,166000
+Andalucía,Jaén,Chalet,Ctra Circunvalacion - La Magdalena,96,3,63000
+Andalucía,Jaén,Piso,Tallista Vicente Castillo Gutierrez,83,3,109990
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,89,3,90000
+Andalucía,Jaén,Chalet,Calle Miguel Hernandez 3  - A,215,4,245000
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,14271,4,64000
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,71,4,64000
+Andalucía,Jaén,Chalet,Calle Guadalbullon,136,4,54000
+Andalucía,Jaén,Piso,Belen - San Roque,130,4,155000
+Andalucía,Jaén,Piso,Calle la Peralea,58,4,61000
+Andalucía,Jaén,Piso,Calle la Peralea,13086,3,59000
+Andalucía,Jaén,Piso,Plaza Mayor,186,3,80000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,91,3,49900
+Andalucía,Jaén,Duplex,San Ildefonso - Catedral,165,5,249900
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,13934,4,64000
+Andalucía,Jaén,Piso,Calle Barcelona,15103,4,105000
+Andalucía,Jaén,Casa Rural,Peal de Becerro,123,4,116000
+Andalucía,Jaén,Duplex,Valdeastillas - Fuentezuelas,130,4,280000
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,208,6,180000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,114,4,115000
+Andalucía,Jaén,Piso,hornos Santiago,65,2,34900
+Andalucía,Jaén,Piso,Almendros Aguilar,120,3,65000
+Andalucía,Jaén,Piso,Avda de Madrid - Po de la Estacion,114,4,115000
+Andalucía,Jaén,Casa Rural,Peal de Becerro,150,4,116000
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,14271,4,64000
+Andalucía,Jaén,Piso,Belen - San Roque,141,4,170000
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,13934,4,64000
+Andalucía,Jaén,Duplex,San Ildefonso - Catedral,184,5,249900
+Andalucía,Jaén,Piso,Calle Fuente de la Teja,71,4,64000
+Andalucía,Jaén,Piso,Plaza Mayor,186,3,80000
+Andalucía,Jaén,Piso,Calle Rey San Fernando,88,3,76000
+Andalucía,Jaén,Piso,Ctra Circunvalacion - La Magdalena,101,3,49900
+Andalucía,Jaén,Piso,Calle la Peralea,13558,4,61000
+Andalucía,Jaén,Chalet,Calle Baluarte,103,4,7400
+Andalucía,Jaén,Piso,Calle Santa Isabel,95,3,43000
+Andalucía,Jaén,Piso,Calle la Peralea,58,4,61000
+Andalucía,Jaén,Piso,Calle la Peralea,13086,3,59000
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,224,6,180000
+Andalucía,Jaén,Piso,Calle Federico Mayo,62,3,48400
+Andalucía,Jaén,Duplex,Avenida Constitucion,118,3,43000
+Andalucía,Jaén,Piso,Calle Maria Auxiliadora,95,3,84000
+Andalucía,Jaén,Piso,Calle Pintor Sorolla,86,3,66000
+Andalucía,Jaén,Chalet,Calle Pilarejo,280,4,130000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,95,3,90000
+Andalucía,Jaén,Chalet,Calle Eisman Higueras 230,79,2,54000
+Andalucía,Jaén,Chalet,Ubeda,128,2,130000
+Andalucía,Jaén,Chalet,Calle de la Constitucion 16,52,7,119990
+Andalucía,Jaén,Chalet,Carretera Cordoba-Valencia 5,150,3,260000
+Andalucía,Jaén,Chalet,Calle Relex 28,30,4,57000
+Andalucía,Jaén,Piso,Calle Libertad 3,168,3,150000
+Andalucía,Jaén,Piso,Arroyo de San Pedro 9,101,3,99000
+Andalucía,Jaén,Piso,Plaza los Jardinillos 5,73,2,180000
+Andalucía,Jaén,Piso,Calle Profesor Tierno Galvan,115,3,42000
+Andalucía,Jaén,Duplex,Calle de la Cruz 24,96,3,136820
+Andalucía,Jaén,Chalet,La Salobreja,1500,6,285000
+Andalucía,Jaén,Piso,Paseo de la Estacion,53,1,118000
+Andalucía,Jaén,Piso,Avenida de la libertad 16,49,1,140000
+Andalucía,Jaén,Piso,Calle Corredera San Bartolome,148,4,109000
+Andalucía,Jaén,Piso,Calle Pizarro 5,112,3,83000
+Andalucía,Jaén,Casa Rural,Calle Prim 19,182,3,50000
+Andalucía,Jaén,Piso,Calle Mesa,109,3,133900
+Andalucía,Jaén,Piso,Calle Bolero 58,111,3,66000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,113,4,140000
+Andalucía,Jaén,Piso,Puente Tablas - Puente Nuevo - Cerro Molina,85,3,140000
+Andalucía,Jaén,Chalet,Calle Monjas Altas,194,5,300000
+Andalucía,Jaén,Chalet,Calle Maleza,600,6,600000
+Andalucía,Jaén,Atico,Avda de Madrid - Po de la Estacion,25,3,220000
+Andalucía,Jaén,Piso,Calle Pizarro 5,84,3,83000
+Andalucía,Jaén,Chalet,Mancha Real,6180,4,230000
+Andalucía,Jaén,Piso,Calle Profesor Tierno Galvan,115,3,42000
+Andalucía,Jaén,Chalet,Calle Sierra la Caracolera,1054,5,420000
+Andalucía,Jaén,Casa Rural,Calle Campanas 2,214,6,220000
+Andalucía,Jaén,Chalet,Carretera Cordoba-Valencia 5,150,3,260000
+Andalucía,Jaén,Chalet,Arrayanes,136,4,85000
+Andalucía,Jaén,Piso,Calle O'Donell 3,74,2,86000
+Andalucía,Jaén,Piso,Avenida de San Amador,150,4,120000
+Andalucía,Jaén,Piso,Calle Navas de Tolosa,212,4,225000
+Andalucía,Jaén,Casa Rural,Calle Prim 19,182,3,50000
+Andalucía,Jaén,Piso,Avenida de la Fuente de la Villa,80,2,74000
+Andalucía,Jaén,Piso,Calle de la Comunidad Foral de Navarra,111,4,175000
+Andalucía,Jaén,Piso,Belen - San Roque,117,3,145000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,103,3,90000
+Andalucía,Jaén,Chalet,Sixto Camara 11,74,2,22000
+Andalucía,Jaén,Piso,Calle Corredera San Bartolome,148,4,109000
+Andalucía,Jaén,Piso,Avenida Libertad 31,118,3,100000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,149,4,145000
+Andalucía,Jaén,Piso,Paseo de la Estacion,55,1,118000
+Andalucía,Jaén,Piso,Torredonjimeno,13,3,120500
+Andalucía,Jaén,Piso,Alcantarilla - La Glorieta,60,2,60000
+Andalucía,Jaén,Chalet,Ubeda,128,2,130000
+Andalucía,Jaén,Piso,Calle Almendros Aguilar,41,1,58000
+Andalucía,Jaén,Piso,Calle de la villa 25,124,4,120000
+Andalucía,Jaén,Casa Rural,Aldea de Miller s/n,80,4,28000
+Andalucía,Jaén,Chalet,Renfe - Bulevar 1o y 2o Fase,107,3,360000
+Andalucía,Jaén,Piso,lope de vega,114,3,135000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,142,4,128000
+Andalucía,Jaén,Piso,Avenida de la libertad 16,53,1,140000
+Andalucía,Jaén,Casa Rural,Tiscar,58,1,141300
+Andalucía,Jaén,Chalet,Calle la Teja 89,107,3,190000
+Andalucía,Jaén,Chalet,La Salobreja,1500,6,285000
+Andalucía,Jaén,Casa Rural,Calle Campanas 2,232,6,220000
+Andalucía,Jaén,Atico,Avda de Madrid - Po de la Estacion,25,3,220000
+Andalucía,Jaén,Piso,Penamefecit - Avda Barcelona,124,4,128000
+Andalucía,Jaén,Piso,Calle Isabel la Catolica 2,113,3,110000
+Andalucía,Jaén,Casa Rural,Aldea de Miller s/n,80,4,28000
+Andalucía,Jaén,Chalet,Huertas,232,4,98000
+Andalucía,Jaén,Piso,Centro Ciudad,128,4,86000
+Andalucía,Jaén,Piso,Avenida Barcelona 12,127,3,169000
+Andalucía,Jaén,Chalet,Calle Alta del Salvador,596,8,500000
+Andalucía,Jaén,Casa Rural,Calle Francisco Coello 14,28,9,950000
+Andalucía,Jaén,Chalet,San Bartolome - Millan de Priego,266,7,400000
+Andalucía,Jaén,Piso,Hospital,180,4,260000
+Andalucía,Jaén,Chalet,Avenida del Ejercito Espanol,20,7,380000
+Andalucía,Jaén,Chalet,Valdeastillas - Fuentezuelas,13000,7,410000
+Andalucía,Jaén,Chalet,Puente Tablas - Puente Nuevo - Cerro Molina,220,7,300000
+Andalucía,Jaén,Piso,Valdeastillas - Fuentezuelas,50,1,89000
+Andalucía,Jaén,Chalet,los Vadillos,1600,3,130000
+Andalucía,Jaén,Chalet,Travesia Salobreja,152,4,199000
+Andalucía,Jaén,Piso,isabel la catolina,110,4,115000
+Andalucía,Jaén,Chalet,Calle Alcazar 4,72,2,150000
+Andalucía,Jaén,Chalet,Guarroman,150,3,75000
+Andalucía,Jaén,Casa Rural,Calle el Molar 29,70,2,33000
+Andalucía,Jaén,Piso,Calle Maestro Bernardo Estepa,78,2,52400
+Andalucía,Jaén,Piso,Calle Cordoba,60,2,65000
+Andalucía,Jaén,Chalet,Ctra Circunvalacion - La Magdalena,88,3,65000
+Andalucía,Jaén,Piso,Calle Maestro Bernardo Estepa,90,3,64000
+Andalucía,Jaén,Piso,Almedros Aguilar,86,3,80000
+Andalucía,Jaén,Piso,Calle Fuente de la Mimbre,55,1,89000
+Andalucía,Jaén,Piso,Centro Ciudad,170,4,97000
+Andalucía,Jaén,Chalet,Arrayanes,121,3,34000
+Andalucía,Jaén,Duplex,Valdeastillas - Fuentezuelas,10,6,269000
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,70,2,330000
+Andalucía,Jaén,Piso,Avenida de Andalucia,112,4,123000
+Andalucía,Jaén,Piso,Paseo de la Estacion,149,4,240000
+Andalucía,Jaén,Piso,Centro Ciudad,72,2,66000
+Andalucía,Jaén,Chalet,Alameda de Adolfo Suarez,181,5,269000
+Andalucía,Jaén,Chalet,Puente Jontoya - Puente de la Sierra - El Arroyo,1300,2,120000
+Andalucía,Jaén,Atico,Calle Almodovar,105,3,65000
+Andalucía,Jaén,Piso,Linarejos,144,4,70000
+Andalucía,Jaén,Chalet,Carretera de frailes,113,3,240000
+Andalucía,Jaén,Piso,Avenida Barcelona 12,127,3,169000
+Andalucía,Jaén,Piso,Calle Cristo Rey,93,3,44000
+Andalucía,Jaén,Piso,Calle Maestra,46,1,55000
+Andalucía,Jaén,Piso,Centro Ciudad,77,2,66000
+Andalucía,Jaén,Piso,Linarejos,150,4,99000
+Andalucía,Jaén,Piso,Avenida de Martos,87,3,35000
+Andalucía,Jaén,Piso,Calle Cordoba,63,2,65000
+Andalucía,Jaén,Chalet,Calle Alcazar 4,71,2,150000
+Andalucía,Jaén,Piso,Calle Moredal 1,98,3,61000
+Andalucía,Jaén,Piso,Calle Maestro Bernardo Estepa,90,3,69900
+Andalucía,Jaén,Chalet,Andujar,40,3,96000
+Andalucía,Jaén,Piso,San Bartolome - Millan de Priego,88,3,110000
+Andalucía,Jaén,Chalet,Camino de Valdecanas,1040,3,155000
+Andalucía,Jaén,Chalet,Arrayanes,133,5,32000
+Andalucía,Jaén,Chalet,San Roque - La Cruz - La Rozuela,2700,5,240000
+Andalucía,Jaén,Chalet,los Vadillos,1600,3,130000
+Andalucía,Jaén,Chalet,Jabalcuz,500,3,130000
+Andalucía,Jaén,Chalet,Avenida del Ejercito Espanol,20,7,380000
+Andalucía,Jaén,Piso,Centro Ciudad,170,4,97000
+Andalucía,Jaén,Piso,Linarejos,144,4,70000
+Andalucía,Jaén,Piso,Linarejos,88,3,46000
+Andalucía,Jaén,Piso,Calle Virgen de Guadalupe 39,124,4,125000
+Andalucía,Jaén,Piso,Santa Isabel,109,3,206000
+Andalucía,Jaén,Piso,Renfe - Bulevar 1o y 2o Fase,65,2,330000
+Andalucía,Jaén,Chalet,San Felipe - El Almendral - La Merced,30,3,186000
+Andalucía,Jaén,Chalet,Torreblascopedro,465,5,180000
+Andalucía,Jaén,Atico,Alcantarilla - La Glorieta,82,2,100000
+Andalucía,Jaén,Chalet,Tejuela,155,4,170000
+Andalucía,Jaén,Piso,Paseo de la Estacion,160,4,240000
+Andalucía,Jaén,Piso,Calle Cruz Roja Espanola 4,159,4,375000
+Andalucía,Jaén,Piso,Calle Maestro Bernardo Estepa,78,2,52400
+Andalucía,Jaén,Piso,Calle Virgen de la Capilla,103,3,165000
+Andalucía,Jaén,Piso,San Ildefonso - Catedral,16,3,175900
+Andalucía,Jaén,Chalet,La Zarzuela-San Jose-Belen,210,4,54000
+Andalucía,Jaén,Piso,Avenida Rafael Alberti 17,84,3,95000
+Andalucía,Jaén,Chalet,Urbanizacion Jabalcuz,75,5,230000
+Andalucía,Jaén,Chalet,Pozo Alcon,2500,4,292000
+Andalucía,Jaén,Piso,Avenida de Madrid 11,120,3,145000
+Andalucía,Jaén,Piso,Centro Ciudad,89,3,51000
+Andalucía,Jaén,Atico,Calle Almodovar,87,3,65000

@@ -1,4 +1,4 @@
-C. Autonoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
+C. Autónoma,Provincia,Tipo de inmueble,Direccion,m2,Habitaciones,Precio
 Islas Baleares,Islas Baleares,Atico,Camino Serra,262,3,2650000
 Islas Baleares,Islas Baleares,Duplex,Calle de Cartago,203,3,1595000
 Islas Baleares,Islas Baleares,Piso,Plaza d'Espanya,100,3,995000
@@ -219,7 +219,7 @@ Islas Baleares,Islas Baleares,Chalet,Av de la Bella Vista 79,159,4,750000
 Islas Baleares,Islas Baleares,Chalet,Sor Francinaina Cirer 91,104,3,1280000
 Islas Baleares,Islas Baleares,Atico,Calle del General Riera,118,3,183000
 Islas Baleares,Islas Baleares,Piso,Calle VICENC JUAN ROSSELO,79,2,365000
-Islas Baleares,Islas Baleares,nan,871240305,60,1,Avenida de Bartomeu Esteva Mestre Cuiner
+Islas Baleares,Islas Baleares,,871240305,60,1,Avenida de Bartomeu Esteva Mestre Cuiner
 Islas Baleares,Islas Baleares,Piso,Calle de Vicenc Joan i Rossello,147,4,329000
 Islas Baleares,Islas Baleares,Piso,Calle de Ramon de Montcada,51,1,175000
 Islas Baleares,Islas Baleares,Chalet,Can Furnet,620,5,5990000
