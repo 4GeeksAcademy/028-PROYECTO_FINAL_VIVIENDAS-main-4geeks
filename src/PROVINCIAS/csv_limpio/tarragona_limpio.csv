@@ -1,1801 +1,1801 @@
-Tipo de inmueble,Dirección,Precio,Habitaciones,m2
-Ático,Calle de Barcelona 98,365000,5,196
-Piso,Plaza de Venus 2,165000,3,99
-Piso,Calle de la Muntanya 5,147000,2,59
-Piso,Calle de Cambrils 22,199000,3,117
-Piso,Paseo de Miramar 10,229000,2,63
-Ático,Calle de Tarragona,390000,4,123
-Piso,Paseo de Jaume I 35,240000,2,67
-Chalet,Foixarda s/n,1680000,4,139
-Duplex,Calle Ebre,340000,3,65
-Piso,Calle Major 23,160000,3,107
-Piso,Calle Canigó 11,210000,2,6
-Chalet,barrio Vilafortuny,1375000,5,177
-Chalet,barrio Mar Cambrils,1300000,4,144
-Chalet,barrio Els Ametllers,785000,4,128
-Piso,Calle del Nord 12,119000,1,42
-Piso,Calle de la Cala Morisca 5,220000,2,64
-Piso,Calle de Lleida 16,155000,1,58
-Piso,Calle de Colón 15,290000,2,60
-Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,64
-Piso,Calle de París,176000,1,50
-Chalet,Urbanitzacions de Llevant,750000,4,740
-Piso,Calle del Roine 1,374000,4,108
-Piso,Calle de l'Esparver,215000,3,112
-Chalet,Calle Castell de Siurana,288000,4,229
-Piso,Calle de l'Arquitecte Ubach,254500,3,118
-Piso,Calle de Cambrils,160000,3,137
-Piso,Calle de Mont-roig,195000,2,67
-Piso,Calle de la Costa Daurada 5,142000,2,75
-Piso,Calle la Garrotxa,175000,3,115
-Duplex,Els Munts,650000,5,183
-Piso,Calle de les Balears,166000,2,79
-Ático,Paseo Marítim de Sant Joan de Déu 55,319000,3,102
-Piso,Plaza de Celdoni Vilà i Torroja,225000,3,83
-Chalet,Camino de Riudoms,280000,6,228
-Piso,Calle de Jaume I,122000,3,119
-Piso,Calle dels Caputxins,175000,3,92
-Ático,Hermen Cortasa,166500,3,119
-Piso,Tarragona,130000,2,68
-Piso,Tarragona,130000,2,68
-Piso,Tramuntana 6,245000,3,96
-Piso,Avenida de la Cossetània,485000,3,117
-Piso,Calle de Cristòfor Colom,160000,2,64
-Chalet,barrio Els Ametllers,1675000,5,800
-Chalet,Urbanitzacions de Llevant,845000,7,478
-Chalet,barrio Vilafortuny,3995000,5,166
-Chalet,Urbanitzacions de Llevant,1465000,4,130
-Chalet,barrio Vilafortuny platja,1295000,3,120
-Chalet,Casalot,765000,4,151
-Piso,Paseo Marítim de Sant Joan de Déu,205000,2,77
-Piso,Avenida de la Cossetània 25,313000,3,107
-Piso,Avenida Pintor Tapiró 4,190000,4,128
-Chalet,Conflent,420000,5,215
-Chalet,Calle Alt del Carme,284000,12,343
-Piso,C Hort del Nap,165000,3,86
-Piso,Avenida de la Llosa 8,365000,3,108
-Chalet,Calle de la Marinada,269000,4,155
-Piso,Calle Josep Anselm Clavé,185000,3,85
-Piso,Calle de Sant Adrià,150000,3,113
-Piso,Via Roma,175000,4,136
-Chalet,Mas Mel - Bellamar,280000,3,91
-Piso,Salou de Llevant,360000,3,17
-Chalet,Calle de Cebrià de Montoliu,625000,4,126
-Chalet,Calle de les Flors,320000,5,300
-Duplex,Tràngol,580000,4,76
-Chalet,Residencial,315000,4,40
-Piso,Can Toni,149900,2,76
-Chalet,Coma-Ruga,235000,3,97
-Chalet,Els Masos,199900,3,103
-Chalet,Mas Mel - Bellamar,499000,5,669
-Casa Rural,Centre,1000000,3,38
-Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,71
-Piso,Calle Llevant,159000,2,65
-Piso,Calle de Josep Carner,210000,3,112
-Ático,Calle de Madrid 19,290000,3,85
-Piso,Calle dels Indians,110000,3,80
-Piso,Calle del Riu Glorieta 18,290000,3,82
-Piso,Calle del Bisbe Grau,150000,3,118
-Piso,Platja Calafell,79900,1,41
-Piso,Avenida de Prat de la Riba 7,178900,3,92
-Piso,Calle dels Antiquaris,139000,4,123
-Piso,Centre,97260,3,108
-Piso,Avenida Sant Joan de Déu,468000,4,133
-Piso,Calle de Guillem de Montcada 20,160000,2,66
-Chalet,Urbanitzacions de Llevant,1450000,6,234
-Piso,Calle de Guillem de Montcada 20,160000,2,80
-Piso,Avenida de la Llosa,335000,3,91
-Piso,Paseo de Francesc Macià 2,148000,2,71
-Piso,Calle del Francolí 10,210000,3,84
-Ático,Calle de Madrid 19,290000,3,110
-Chalet,Calle Ramon Casas 19,350000,4,131
-Ático,Avenida barcelona s/n,409000,4,150
-Piso,Calle de la Falconera,349700,3,112
-Chalet,barrio Nucli Urbà,330000,4,154
-Piso,Calle de Sant Joan 40,185000,3,82
-Duplex,Calle del Riu Glorieta 8,340000,3,117
-Duplex,Calle del Camí del Racó,210000,3,117
-Piso,Via Augusta 9,239000,3,90
-Piso,Calle del Riu Glorieta 18,290000,3,94
-Piso,Calle de Maria Castillo,199000,2,75
-Ático,Calle de Frederic Mompou 10,312000,3,82
-Piso,Calle d'Antoni Gaudí 13,179700,4,157
-Piso,Calle Joan Fuster 15,370000,3,118
-Chalet,Calle Mirador s/n,625000,4,160
-Chalet,Calle del Camí Vell de Salou,230000,4,156
-Piso,Calle de Guillem de Montcada,171000,3,109
-Chalet,barrio Els Tallets - Mas Olivé,350000,4,269
-Piso,Plaza de la Llibertat,270000,5,177
-Piso,Cap Salou,220000,2,70
-Piso,Sant Pere i Sant Pau,215000,2,75
-Piso,Port,148000,2,66
-Piso,Barenys,199000,3,107
-Chalet,Calle Terra Ferma,1480000,6,217
-Chalet,Calle garrofers 7,415000,3,170
-Piso,Calle madrid 2,159000,2,81
-Piso,Calle del Camí de Tarragona 39,138000,3,94
-Piso,Calle Alt de Sant Pere 1,164500,3,96
-Ático,pere ceremonios 13,168000,6,149
-Piso,Calle del Doctor Robert 20,189900,4,129
-Piso,Avenida França 27,130000,2,53
-Chalet,Calle Altafulla 8,275000,5,256
-Ático,Plaza de Joan Rebull 2,637000,5,200
-Piso,Baix camp 2,208000,3,110
-Piso,esglesia nova 111,173000,2,80
-Piso,Santa Barbara 6,119000,2,63
-Duplex,Fundadors 86,138000,2,64
-Piso,Avenida Oliveres,215000,3,67
-Piso,Avenida Mossèn Jaume Soler 25,149000,3,98
-Piso,torrents ibern,229900,3,117
-Piso,Avenida Mossèn Jaume Soler 57,149000,2,60
-Chalet,Calle Terral de Dalt,1100000,6,210
-Chalet,Residencial,475000,4,122
-Piso,Calle del Besòs 2,262000,3,126
-Ático,MONTSANT,95000,3,101
-Piso,Calle d'Antoni Gaudí 40,110000,2,77
-Chalet,Calle Gràcia 50 B,225000,3,174
-Piso,Calle de Poboleda 22,235000,4,14
-Chalet,Calle de Joaquim Sunyer 12,230000,5,418
-Piso,Calle de Ramon J Sender,155000,4,145
-Piso,ANTONI ISERN,169500,3,97
-Chalet,Margarides,590000,5,190
-Chalet,Calle del Moncayo,160000,3,255
-Piso,Calle Mas de l'Abelló,99000,4,130
-Chalet,Calle Ramon Berenguer IV,350000,4,269
-Piso,Calle de Tarragona,215700,4,118
-Ático,Calle de Frederic Mompou,585000,4,60
-Piso,LEPANTO,174900,3,118
-Piso,Girona,179900,4,139
-Piso,Avenida de Pere el Cerimoniós,119900,4,103
-Piso,Calle de les Voltes 23,200000,2,69
-Piso,Calle de Cambrils,199000,3,109
-Piso,Calle de Tortosa,133000,2,82
-Ático,Calle de les Voltes 12,220000,3,107
-Piso,Calle Ernest Vilches 1,248900,3,113
-Piso,Calle de Mir i Geribert,155000,3,100
-Piso,Carretera del Far,103000,2,61
-Chalet,Calle de la Guineu,365000,3,120
-Chalet,Calle Santiago Rusiñol,375000,4,141
-Chalet,Nou Eixample Nord,585000,4,129
-Chalet,Urbanitzacions de Llevant,1900000,5,162
-Duplex,Urbanitzacions de Llevant,1250000,5,166
-Ático,Calle Gegants Pere i Carme,315000,3,13
-Piso,urbanización codonyol la paz,125000,2,60
-Chalet,Calle Gabarres 19,340000,5,188
-Duplex,AvCodonyol,146000,3,88
-Piso,Avenida Montsia Mar 2,96000,2,60
-Piso,Plaza Cosme Maine 6,98500,3,107
-Chalet,Calle Pablo Picasso,310000,4,133
-Chalet,Avenida Diagonal de la Bonanova,435000,3,105
-Piso,Avenida Mossèn Jaume Soler,149000,2,70
-Piso,Calle Robert d'Aguiló 43,325000,3,94
-Piso,Benidorm,160000,4,139
-Chalet,Calle Picos de Europa,330000,4,135
-Chalet,Calle la Garrotxa,338000,4,157
-Piso,Calle Major,160000,3,86
-Chalet,Calle Beethoven,1280000,5,23000
-Piso,Calle del Riu Glorieta,292500,3,98
-Chalet,Calle Oslo,319000,4,251
-Chalet,Calle de Cosse,299000,3,87
-Chalet,Calle de l'Oreneta,490000,5,390
-Chalet,Albània,285000,4,22
-Chalet,Jacint 7,289000,3,40
-Piso,Calle de Rafael Casanova,177500,2,66
-Piso,Calle Canigó 11,268000,3,120
-Chalet,Calle de la Caravel·la,315000,3,12
-Chalet,Travesía de l'Ermita,235000,3,115
-Chalet,Urbanització Alorda Park s/n,395000,4,136
-Chalet,Calle Emilio Jiménez,895000,5,613
-Estudio,Calle del Peix,80000,0,37
-Piso,Calle de Maria Castillo,245000,3,77
-Piso,Calle Tortosa,315000,4,160
-Chalet,Urbanitzacions de Llevant,1145000,5,160
-Piso,Calle Daurada 4,147000,3,91
-Piso,Calle de Pere el Cerimoniós 68,139900,5,115
-Piso,Nucli Antic,117000,3,5
-Piso,Calle Daurada 4,147000,3,102
-Piso,Centre,190000,2,67
-Piso,Calle de Lluís Companys 92,125000,2,76
-Piso,Calle Holanda,146500,3,87
-Piso,Calle de Santiago Rusiñol 1,325000,3,116
-Chalet,Urbanització Alorda Park s/n,375000,4,152
-Chalet,barrio Jardins de Vilafortuny - Más d'en Bosch,770000,4,123
-Piso,Avenida Catalunya,185000,3,137
-Piso,ferran de querol,90000,1,45
-Piso,Avenida Catalunya,179000,3,87
-Chalet,Calle Miramar,199000,3,115
-Chalet,Urbanitzacions de Llevant,1700000,6,561
-Piso,Residencial,119000,2,55
-Piso,Calle de Tramuntana 6,149500,2,74
-Piso,Calle del Rin,160000,3,96
-Chalet,Calle de la Martineta,299000,4,141
-Chalet,Calle Amadeus Mozart s/n,238500,4,323
-Ático,barrio Segur Platja,225000,5,163
-Piso,Avenida França,104000,1,59
-Chalet,Calle de la Vía Láctea 66,160000,3,112
-Chalet,Calle de la Vía Láctea 66,160000,3,95
-Chalet,Calderon de la Barca 4,358000,4,138
-Piso,Carrerada ďen Ralet 14,179000,2,49
-Estudio,Calle del Vendrell,79500,0,30
-Piso,Calle de Francesc Bastos 3,205000,3,73
-Piso,Calle Holanda 19,125000,2,56
-Piso,Avenida del Doctor Eduard Punset 3,174500,2,75
-Piso,Calle del Xúquer 4,169000,3,104
-Chalet,Calle de l'Olivera 4,330000,4,133
-Piso,Camino del raco 6,155000,2,78
-Chalet,Calle Vall de Sant Marc,275000,4,148
-Chalet,Calle Menorca,649000,5,904
-Piso,barrio Segur Platja,130000,2,61
-Ático,Calle de la Punta del Cavall 82,198000,2,80
-Piso,girona,130000,1,45
-Chalet,Eixample Residencial,645000,4,550
-Piso,Calle de la Baixada Platja Cristall,210000,2,80
-Piso,Calle del Doctor Cuchi,200000,3,105
-Chalet,Migjorn,1985000,6,227
-Chalet,Calafell Residencial,289000,4,65
-Piso,Calle de Vilamar,175000,3,108
-Piso,Plaza Pessebre 1,325000,3,26
-Chalet,Barqueres 14,287500,3,95
-Piso,Plaza Pessebre 1,325000,3,26
-Piso,Calle MILENARI 5,221900,4,98
-Chalet,Calle Doctor Pagès,435000,3,96
-Chalet,Calle de Vallbona 7,368800,5,210
-Chalet,Calle Murillo 28,249900,3,20
-Piso,Avenida dels Països Catalans 11 A,180000,2,74
-Piso,Calle Tenerife 1,118000,3,106
-Piso,CASTELL DE TONA 20,224900,2,20
-Chalet,Avenida Blauet 12,410000,4,137
-Chalet,Calle Doctor Pagès,435000,3,111
-Chalet,Avenida Espanya 313,276000,3,91
-Piso,Calle de Lleida 1,184000,3,88
-Piso,Calle de les Barqueres 16,239900,3,108
-Piso,Calle del Peix,119000,2,80
-Piso,Avenida Europa,165500,2,77
-Chalet,Calle Estats Units,269000,4,127
-Piso,Avenida Sant Joan de Déu,495000,3,120
-Chalet,Gira-sol,600000,5,178
-Piso,Rambla Nova,230000,3,114
-Chalet,Avenida OLIVERES,600000,3,296
-Piso,Calle Olot,179000,2,73
-Piso,Paseo de Miramar,185000,2,62
-Chalet,Avenida de les Comarques Catalanes,259000,3,116
-Piso,Llevant,220000,2,69
-Chalet,Calle del Vallespir,298000,4,185
-Piso,Nord,210000,3,104
-Chalet,Residencial,302000,3,82
-Ático,Prat de Cunit,260000,3,80
-Chalet,Calle del garrofers,995000,5,1600
-Duplex,Calle dels Indians,165000,2,68
-Piso,angel guimera,250000,4,140
-Chalet,ACACIES,770000,4,570
-Piso,Calle d'Alcover 1,69900,2,70
-Piso,El Tancat - Mas d'en Gual,124900,3,109
-Chalet,Calle Montpaó,499900,6,564
-Piso,Calle Alt de Sant Salvador 7,152500,3,40000
-Chalet,Calle Narcís Oller,459000,3,98
-Piso,Avenida Oliveres,215000,3,30
-Ático,GIRONA,198000,2,62
-Piso,Calle d'Entença 15,125000,3,80
-Chalet,Residencial,315000,4,144
-Chalet,Residencial,266099,5,187
-Ático,Nucli Antic,145000,2,25
-Piso,barrio Segur Platja,140000,3,88
-Piso,Calle Llevant 9,259000,3,110
-Piso,Coma-Ruga,190000,4,145
-Chalet,barrio Nucli Urbà,270000,4,143
-Chalet,Calle del Bosc Gran,1390000,6,231
-Piso,Plaza Cosme Maine 6,98500,3,94
-Piso,Bonavista,225000,3,94
-Ático,barrio Nucli Urbà,135000,1,46
-Chalet,Mas Mel - Bellamar,531000,4,234
-Piso,barrio Nucli Urbà,175000,3,87
-Piso,El Tancat - Mas d'en Gual,168421,3,86
-Chalet,barrio Nucli Urbà,270000,4,153
-Piso,El Tancat - Mas d'en Gual,124900,3,108
-Chalet,Costa Daurada - Sant Gaietà,260000,3,110
-Chalet,barrio Nucli Urbà,159900,2,25
-Piso,Platja Calafell,325000,4,133
-Duplex,Urbanitzacions de Llevant,1250000,5,173
-Piso,Residencial,216000,3,120
-Piso,barrio Nucli Urbà,168000,2,64
-Piso,Coma-Ruga,249000,3,110
-Chalet,victor balaguer,195000,3,584
-Chalet,Can Nicolau - Les Sorres - Valparaiso,255000,4,146
-Chalet,CASTANYER,235000,3,110
-Ático,El Tancat - Mas d'en Gual,165000,4,146
-Piso,Sant Salvador,124900,3,87
-Chalet,La Franquesa,243000,3,109
-Piso,Cap Salou,238000,4,15
-Piso,Centre,156900,3,100
-Chalet,barrio Nucli Urbà,299000,5,175
-Chalet,Residencial,639000,5,179
-Ático,Centre,125000,3,106
-Chalet,Bonanova,596000,5,185
-Chalet,Nou Eixample Sud,600000,10,402
-Chalet,Residencial,680000,7,295
-Piso,conca de barberà,145000,3,75
-Piso,Centre,85000,3,106
-Piso,Calle Joan Fuster,370000,3,115
-Piso,Calle del Penedès,155000,3,82
-Piso,Can Nicolau - Les Sorres - Valparaiso,156000,2,67
-Piso,Calle Ernest Vilches,234000,3,109
-Chalet,Centre,344000,6,212
-Piso,Calle de Pierre Vilar,260000,3,108
-Ático,Calle del Romaní,145000,3,88
-Piso,Calle del Mestral,342000,3,91
-Piso,Clarà,255000,2,90
-Piso,Avenida Barcelona,119000,2,85
-Piso,Centre,169680,4,138
-Chalet,Montsià de Mar,330000,4,133
-Chalet,Montsià de Mar,265000,4,142
-Chalet,ramon casas,199000,3,475
-Chalet,Calle de I'Ebre,185000,3,119
-Piso,Barri de la Salut,118000,3,60
-Chalet,barrio Nucli Urbà,339000,3,160
-Piso,Mestral,198000,4,25
-Chalet,Calle Pau Casals,675000,4,60
-Chalet,Calle Guilleries s/n,695000,8,310
-Chalet,Calle del Corral de Sauner,640000,5,1000
-Casa Rural,Calle Doctor Josep Gaspa,495000,5,162
-Chalet,del mig 66,495000,4,146
-Chalet,Vall d'Aran s/n,490000,5,170
-Chalet,Margalló s/n,540000,4,300
-Chalet,Bon Recer s/n,750000,5,161
-Chalet,Calle Baix Empordà s/n,890000,4,131
-Chalet,Calle Marinada 11,880000,5,200
-Chalet,Calle Baix Empordà 5,495000,3,100
-Duplex,Calle d'Antibes s/n,628000,4,200
-Piso,Rambla Nova 33,560000,4,129
-Chalet,Cigne s/n,575000,5,193
-Casa Rural,Sant Joan 15,425000,3,116
-Chalet,Marítima Residencial,186000,3,188
-Chalet,Pins,880000,7,1326
-Casa Rural,Mas La Sort,1080000,5,8500
-Chalet,barrio Nucli Urbà,342000,4,586
-Casa Rural,Plaza de Jaume el Just,2495000,8,377
-Chalet,Calle Àries,560000,5,172
-Chalet,Calle Major,975000,8,300
-Chalet,Pallaresos (Els),595000,6,1411
-Chalet,Creixell,179000,3,117
-Chalet,Sant Jordi-Babilonia,219000,3,50
-Chalet,Flors s/n,499000,4,431
-Piso,Calle Major 23,160000,3,114
-Piso,Calle Fra Antoni Cardona i Grau s/n,315000,4,140
-Piso,Calle d'Antoni Agustín 1,375000,5,199
-Chalet,Avenida des Til Lers,165000,2,63
-Piso,Calle de Barcelona 96,335000,5,149
-Chalet,Calle de la Mare de Déu del Pilar,330000,4,147
-Piso,Rambla Nova,295000,5,176
-Chalet,Avenida del Canyadell s/n,430000,5,185
-Chalet,Gira-Sol s/n,600000,5,702
-Chalet,Calle Miquel Àngel 11,1375000,4,400
-Chalet,Calle Saragossa 13,25000,3,165
-Casa Rural,Hostal s/n,521000,2,76
-Piso,Calle Llorenç Villalonga s/n,280000,3,109
-Chalet,Joaquin Costa Vespella de Gaià s/n,625000,6,660
-Chalet,Cigonya s/n,590000,5,171
-Chalet,Calle de Pere Badia s/n,1100000,5,633
-Chalet,Calle Pau Casals 2,450000,5,185
-Chalet,Calle d'Antoni Roig s/n,399000,14,553
-Chalet,Dels Pins s/n,750000,4,150
-Piso,Calle de les Cuirateries s/n,145500,3,104
-Piso,Avenida Roma s/n,460000,3,152
-Chalet,Conca de Barbera s/n,485000,4,149
-Chalet,Calle Terra Ferma s/n,1480000,6,247
-Piso,Calle del General Contreras 12 -4,84900,3,111
-Casa Rural,Calle d'en Bosc s/n,980000,17,595
-Piso,Calle de Martí Folguera,246000,5,168
-Piso,Urbanización Rocas Doradas,140000,2,60
-Piso,Calle dels Pescadors,135000,2,76
-Chalet,Calle Nardos,349900,5,195
-Piso,Calle Pi i Margall,184900,2,64
-Piso,Calle de Fuster Valldeperes,299000,4,130
-Chalet,Calle de Bonaventura Roig,120000,3,102
-Piso,Unio,285000,4,186
-Piso,Rambla Nova,290000,4,132
-Piso,Calle de Joaquim Serra,80000,1,42
-Piso,Calle de l'Oli,208000,3,110
-Chalet,Vespella,220000,3,461
-Casa Rural,Calle B Ur Calders,870000,11,650
-Chalet,Calle de la Punta Roja,810000,4,1500
-Chalet,Berà Mar - El Francaset,385000,4,147
-Piso,Barri Marítim-Platja de la Paella,179000,3,6
-Chalet,Berà Mar - El Francaset,385000,4,147
-Piso,Creixell,125000,3,20
-Piso,Calle dels Replanells,115000,2,66
-Piso,Ramon Llull,129500,3,83
-Piso,Part Alta,750000,4,157
-Ático,Paseo Marítim de Sant Joan de Déu 55,319000,3,84
-Chalet,Roca s/n,399000,4,136
-Piso,Calle Lleo,99000,3,60
-Chalet,Camino dels Emprius,2050000,4,50558
-Chalet,Calle Teruel,275000,4,240
-Casa Rural,Via sense nom,545000,6,000
-Chalet,Avenida de Joan Margets,2900000,5,832
-Chalet,Els Munts,1150000,4,125
-Piso,Calle de Barbastre 8,144000,3,77
-Piso,Calle Pirineus 13,66000,2,80
-Piso,Avenida Principado de Andorra 8,149000,4,125
-Piso,Calle de les Drassanes,360000,3,38
-Piso,Calle Pierre Vilar,230000,2,25
-Piso,Calle Francesc Bastos,138500,3,73
-Piso,Calle ROMANS,165000,2,60
-Piso,Calle Riu Besòs,164900,3,95
-Chalet,Professor Lluis Icart s/n,300000,3,103
-Piso,Calle Castell de Tamarit,185000,2,74
-Piso,Calle de Pere Martell,172000,5,166
-Piso,Calle de Cristòfor Colom,215000,4,148
-Piso,Paseo del Mediterrani,127000,2,79
-Chalet,Calle de Donostia,180000,3,98
-Chalet,Calle Ginesta,208000,5,188
-Piso,Avenida Marqués de Montoliu,283000,4,110
-Piso,Avenida Diputacio,116000,1,40
-Piso,Calle de Tortosa,95000,2,64
-Chalet,salvador dali 13,599000,4,540
-Chalet,Clarà,285000,4,123
-Ático,Prat de Cunit,409000,4,110
-Piso,Calle de I'Ebre 5,87000,1,36
-Chalet,Calle Doctor Campalans i Puig 4,239000,3,94
-Ático,Centre,145800,1,57
-Chalet,Calle Mestre Trujols,180000,6,28
-Chalet,Calle Guifré 38,210000,5,199
-Chalet,Avenida de la Generalitat 12,425000,6,232
-Chalet,Calle Sant Antoni 41,65000,3,96
-Chalet,Calle Júpiter 3,570000,4,123
-Casa Rural,Camino de Riudecols s/n,285000,3,107
-Chalet,Calle Doctor Campalans i Puig 4,239000,3,115
-Duplex,Avenida de Salou 128,179000,4,138
-Chalet,Calle del Pou de la Taurana 5,750000,5,300
-Piso,Verge de Montserrat s/n,139000,3,119
-Ático,Centre,145800,1,60
-Piso,Calle de I'Ebre 5,87000,1,36
-Ático,Paseo de Prim 12,295000,6,188
-Chalet,Calle Guifré 38,210000,5,200
-Piso,Calle de Santiyan 1,165000,3,101
-Piso,Ronda del Mar 6,169800,1,5
-Chalet,Xipres s/n,590000,4,142
-Piso,Calle de Carles Roig,203000,4,134
-Chalet,Calle Canet lo Roig 22,160000,3,84
-Ático,Calle San Jordi 4,152500,3,46
-Ático,Plaza Catalunya 7,895000,3,115
-Piso,Paseo Maritim 53,278000,4,130
-Chalet,Santiago Rusiñol s/n,590000,4,131
-Chalet,Calle Mas del Vidalet s/n,395000,4,133
-Piso,Carretera del Far 26,129600,2,73
-Chalet,Calle de la Punta Roja 5,1250000,4,286
-Chalet,Avenida museu 53,370000,6,3000
-Chalet,urbparadis s/n,278000,3,97
-Chalet,del roser 1 b,595000,4,324
-Chalet,Coma-Ruga,825000,4,138
-Chalet,Passatge Gregal,399000,3,120
-Chalet,mas tells s/n s/n,825000,6,14000
-Chalet,Calle Beat Bonaventura Gran,415000,4,366
-Piso,Camino Vell Pobla Montornès,125000,3,117
-Piso,Clarà,79900,1,50
-Chalet,Calle Mas d'en Vernet,380000,3,42
-Chalet,Urbanitzacions de Llevant,799000,6,200
-Duplex,Sant Isidre,199500,3,20
-Piso,Calle del Governador González 14,298000,3,87
-Chalet,Calle Holanda,210000,6,248
-Chalet,Els Munts,295000,4,159
-Chalet,Calle Mirador 6,499000,5,164
-Piso,CAMPOAMOR 4,298000,4,156
-Chalet,Calle Holanda,210000,6,248
-Chalet,Els Munts,295000,4,134
-Chalet,Calle Mirador 6,499000,5,189
-Piso,Paseo de Prim,139000,5,186
-Piso,Calle Navarra,106000,3,106
-Ático,Calle de Miquel Planas,650000,3,107
-Piso,Calle de Ventura Gassol,339000,4,153
-Chalet,Avenida Catalunya,320000,4,158
-Chalet,Avenida Catalunya,210000,3,104
-Piso,Pescadors,128000,3,108
-Chalet,La Mora,430000,5,40
-Chalet,Avenida Vall d'Aran 47,545000,6,560
-Chalet,Calle Major,215000,4,130
-Casa Rural,MAYOR,275000,4,60
-Piso,Calle d'Antoni de Bofarull,169000,4,128
-Chalet,C CAP DE BLANES,215000,4,131
-Chalet,Calle Joan Sebastià Bach,340000,4,134
-Chalet,Calle Ramón Berenguer IV,218000,3,88
-Duplex,Calle de la Torrassa,275000,2,12
-Chalet,Margarides,660000,6,345
-Piso,Anoia,420000,3,107
-Duplex,Calle de Riudecols,217500,3,52
-Piso,Calle de Joan Coromines,195000,4,98
-Piso,Calle del Vendrell,110000,2,79
-Piso,Joan Carles 1,117000,2,70
-Chalet,877260296,Calle de la Sinia,247000,602
-Chalet,Avenida Lituània,350000,4,135
-Piso,Calle de Frederic Mompou,339000,4,151
-Chalet,Aufinac,790000,4,129
-Chalet,Pamplona,315000,4,128
-Chalet,Avenida Republica Argentina,750000,4,700
-,877260592,Mas d'en Victor,0,32
-Casa Rural,la planeta s/n,495000,6,232
-Chalet,Eixample Residencial,267000,4,159
-Chalet,Calle Geranis,219000,3,8291
-Piso,Calle Tramontana,89900,2,78
-Piso,Plaza de Lluís Companys,179000,3,112
-Piso,Calle Ample 30,185000,2,78
-Piso,Argentera,167900,4,141
-Piso,Calle Ample 30,185000,2,76
-Piso,Calle Francolí,120000,3,113
-Chalet,Valls,299000,4,50
-Piso,Calle Macià Mallol i Bosch,179000,4,136
-Piso,Calle Nou de Sant Oleguer,139000,3,99
-Chalet,Avenida Granada 20 -22,136890,4,199
-Piso,Calle del Monestir de Poblet,375000,4,138
-Piso,Riera MIRÓ,107500,3,28
-Piso,Calle Terra Alta,95000,2,60
-Chalet,Avenida Sra Magdalena Martorell,80000,4,144
-Chalet,Calle de l'Era,399000,7,600
-Piso,Prat de Cunit,185500,2,52
-Chalet,Calle Cèsar Martinell,420000,4,158
-Chalet,Calle Regne de Mallorca,220000,4,176
-Chalet,Centro,215000,3,27889
-Chalet,barrio Centro,375000,4,120
-Chalet,Via lactea,575000,5,186
-Ático,Calle Olivarda,109900,2,66
-Piso,antina,450000,3,105
-Casa Rural,Camino de Lligallo,218000,3,23889
-Chalet,vallespir,445000,4,136
-Piso,Doctor Fleming 7,109000,2,52
-Piso,MARGARITA XIRGU 4,120000,2,75
-Casa Rural,Major,147500,4,400
-Chalet,Santiago Rossinyol,269000,5,167
-Chalet,Calle pi,390000,4,500
-Chalet,Calle del Montseny,275000,6,208
-Piso,Paseo de la Independència,248000,2,73
-Piso,Paseo del Mediterrani,130000,2,94
-Chalet,La Bisbal del Penedès,252000,6,270
-Chalet,La Pobla de Montornès,325000,4,202
-Chalet,Puig Cerver,399900,5,286
-Chalet,Avellaners,397000,5,197
-Chalet,comarques catalanes,259000,4,167
-Chalet,Xalets de Salou - Mirador de Salou,446000,4,130
-Ático,barrio Centro,190000,2,73
-Chalet,Castellvell del Camp,490000,5,164
-Chalet,Els Masos,500000,4,140
-Chalet,barrio Nucli Urbà,245000,4,141
-Chalet,Centro,160000,5,20
-Chalet,barrio Els Ametllers,795000,4,440
-Chalet,barrio Nucli Urbà,245000,4,137
-Piso,Ponent,260000,3,107
-Chalet,Centro,160000,5,20
-Piso,Calle del mar s/n,250000,3,84
-Chalet,barrio Jardins de Vilafortuny - Más d'en Bosch,625000,3,200
-Casa Rural,Santa Oliva,189000,3,224
-Ático,Casc Antic - Nou Cambrils,240000,3,114
-Chalet,Sant Jaume d'Enveja,78000,3,40
-Chalet,Els Masos,500000,4,130
-Chalet,Castellvell del Camp,490000,5,162
-Piso,Eixample,233000,2,80
-Piso,Nou Eixample Nord,375000,4,153
-Chalet,Santa Oliva,425000,5,636
-Piso,Residencial,140000,3,113
-Chalet,Albinyana,260000,4,152
-Piso,Platja Calafell,325000,4,133
-Chalet,Costa Cunit - Els Jardins - Els Rosers,210000,4,1596
-Chalet,Residencial,219000,3,86
-Chalet,Calle de la Plana de Vic,290000,4,128
-Piso,Constanti,123000,2,60
-Chalet,Acacias,385000,4,2150
-Chalet,Residencial,302000,3,90
-Chalet,La Mora,2195000,5,1135
-Chalet,barrio Cambrils Mediterrani,385000,5,175
-Piso,El Morell,99900,4,159
-Chalet,Calle Cadí,249000,4,123
-Piso,Calle de Frederic Mompou,345000,4,130
-Chalet,Calle de la Via Làctia,265000,5,160
-Duplex,Rambla de Jaume I,330000,3,105
-Chalet,Montsia,235000,4,366
-Piso,Montsià de Mar,127500,2,71
-Chalet,Montsià de Mar,330000,4,180
-Piso,Centro,82000,2,76
-Chalet,Sant Josep-Mercat,575000,4,515
-Chalet,Les Tres Cales,1470000,4,134
-Chalet,Les Cases d'Alcanar,198000,3,138
-Piso,Platjas,175000,2,98
-Casa Rural,Camarles,219990,8,341
-Chalet,El Tancat - Mas d'en Gual,149500,3,100
-Casa Rural,Camarles,219990,8,383
-Piso,El Maset,122000,3,107
-Piso,Calle de l'Oli,229000,3,86
-Piso,Avenida dels Països Catalans,244900,4,120
-Piso,p martell,250000,5,162
-Chalet,La Muntanyeta,257500,4,159
-Ático,Calle frederic mompou 10,312000,3,18
-Piso,Can Nicolau - Les Sorres - Valparaiso,132000,2,8
-Piso,Calle de Francesc Gil de Frederic,94300,3,86
-Piso,Calle de València,275000,3,25
-Chalet,Alforja,300000,9,540
-Ático,vidal barraqjuer,359000,4,139
-Chalet,Martineta,299000,3,83
-Chalet,Mestral,870000,5,490
-Chalet,Punta del Banc,186000,4,121
-Casa Rural,Guiamets (Els),320000,7,420
-Piso,Calle de Mossèn Joan Batalla,226500,2,79
-Piso,Pere martell,147000,4,140
-Piso,Travesía de Barcelona,120000,3,82
-Piso,Avenida Montserrat,390000,4,121
-Piso,Nou Eixample Nord,485000,4,146
-Piso,Calle de les Barques,124000,1,42
-Piso,Calle Mas de Barberans,117000,3,118
-Chalet,Avenida Font de les Escales 7,325000,5,852
-Chalet,Les Tres Cales,316000,4,500
-Piso,barrio Nucli Urbà,148500,2,78
-Piso,barrio Centro,136000,2,65
-Chalet,Avenida de Sant Jordi 63,359000,7,287
-Piso,Calle de Santa Helena,166000,3,86
-Ático,Casalot,220000,3,113
-Chalet,Calle de la Puríssima,340000,5,181
-Piso,Eixample,180000,3,81
-Chalet,Centre,255000,3,83
-Piso,Doctor Robert,149900,1,45
-Piso,Calle de la Cala Crancs,145000,2,77
-Chalet,Camino de Creixell 13,285000,7,372
-Piso,Plaza de Venus,165000,3,84
-Piso,san antonio maria claret s/n,125000,3,86
-Piso,barrio Segur Platja,112000,2,64
-Piso,Platjas,192000,2,80
-Piso,Platjas,192000,2,80
-Piso,La Pineda,169900,3,108
-Duplex,Calle de Domènec Sugrañes i Gras,339000,3,83
-Piso,Barris Maritims,130000,2,72
-Chalet,Vila-Seca,260000,4,6
-Chalet,Calle de la Vía Láctea 66,160000,3,83
-Piso,Horta de Santa María,350000,3,91
-Piso,Calle de Rosa Sensat,299000,3,84
-Piso,Calle de Sant Adrià,157500,3,95
-Chalet,Avenida Anglaterra,425000,8,356
-Piso,Eixample,303000,4,138
-Piso,Calle de Riudecols,140000,4,159
-Piso,barrio Cambrils Platja,157000,1,43
-Duplex,MARE DE DEU DE MISERICORDIA,270000,3,120
-Piso,Calle del Roser,110000,3,116
-Piso,Calle de Sant Vicenç,86000,2,78
-Piso,Calle del Vallàs,49000,2,72
-Piso,Eixample,298850,3,114
-Piso,Terol,130900,4,146
-Piso,Calle Osca,120000,2,12
-Piso,Calle de Cambrils 22,199000,3,88
-Piso,Avenida Espanya,159000,3,102
-Chalet,Calle de Baix,80000,3,107
-Chalet,Camino dels Molins,95000,3,111
-Piso,Avenida de Castellvell,153400,3,99
-Chalet,Les Borges del Camp,90000,5,181
-Chalet,Avenida de la Llum,329000,5,240
-Chalet,Montsià de Mar,279000,5,580
-Piso,Montsià de Mar,127700,2,60
-Casa Rural,Tivissa,179000,2,63
-Duplex,Vila-Seca,130000,3,105
-Duplex,Camino del raco,213500,3,101
-Piso,Calle de Barbastre,156000,3,114
-Piso,Calle de Colón 15,290000,2,62
-Duplex,Valencia 5,199000,2,140
-Piso,Calle de l'Arquitecte Ubach 10,254500,3,118
-Piso,Calle l'Estel,60000,3,117
-Piso,Calle de Ntra Senyora de Montserrat,148000,3,83
-Chalet,Calle Ferran Sor,149900,4,153
-Ático,Calle de Sant Miquel s/n,219000,2,65
-Piso,Avenida Pallaresos,32000,3,86
-Piso,Reus,128000,2,30
-Piso,Calle de Rodríguez Pomatta,175000,3,88
-Piso,Avenida Cadis,116500,2,77
-Chalet,Altafulla,265000,8,367
-Chalet,La Bisbal del Penedès,195000,3,100
-Piso,Calle d'Albinyana,69900,3,116
-Chalet,Calle de les Magnòlies,330000,4,142
-Piso,Calle de l'Argentera,184900,3,84
-Piso,Paseo Marítim de Masia Blanca 6,350000,3,81
-Ático,Avenida de Prat de la Riba,139900,2,65
-Chalet,Sortanelles 2,150000,3,119
-Chalet,Camino del Nàstic s/n III,1190000,7,780
-Piso,Calle de Barbastre,155000,2,73
-Piso,Calle del Camí del Racó,180000,2,75
-Piso,Calle de Santa Paula 7,185000,3,109
-Chalet,Avenida Catalunya s/n,300000,3,290
-Chalet,Avenida de la Camêlia 34,490000,7,450
-Chalet,Passatge dels Grallers 48,315000,4,231
-Piso,Calle de Sant Tomàs 19,52000,1,41
-Piso,Calle de Riudecanyes 24,110000,2,64
-Piso,Calle de Miramar 39,147500,3,103
-Piso,Calle de Riudoms 21,155000,4,137
-Piso,Calle del Comte de Rius 2,169700,4,131
-Piso,Calle de Lleida,155000,1,45
-Piso,Avenida de Pere el Cerimoniós 4,165000,4,146
-Chalet,Mont-Roig,93000,4,370
-Chalet,La Bisbal del Penedès,275000,4,500
-Ático,El Maset,129000,3,116
-Chalet,Les Borges del Camp,84800,3,220
-Chalet,Deltebre,145000,3,95
-Piso,L'Hospitalet de l'Infant,97000,1,60
-Chalet,Calle Amàlia,70000,1,47
-Chalet,Deltebre,260000,6,234
-Piso,L'Hospitalet de l'Infant,121000,1,62
-Piso,L'Ametlla de Mar,79000,1,37
-Chalet,Calle del Roser,120000,5,100
-Ático,Calle de la Cala Morisca,220000,2,80
-Piso,Avenida de L'Onze de Setembre,119000,3,97
-Piso,Calle de la Cella 1,129900,3,88
-Casa Rural,Camino de Masmolets-Sud s/n s-n,1295000,11,153
-Chalet,Calle de l'Àliga 2,270000,4,40
-Duplex,Calle Mas dels Ossos,180000,3,112
-Chalet,Partida Poblas 41,2600000,4,148
-Piso,Calle de la Cella 1,129900,3,113
-Chalet,Calle Mallorca,285000,6,213
-Piso,Avenida del Carrilet,142000,4,146
-Piso,Calle de l'Esparver,215000,3,115
-Ático,Calle de Fuster Valldeperes,335000,4,115
-Chalet,Calle Santiago Rusiñol,425000,8,381
-Piso,El Maset,159700,2,72
-Piso,Calle del Monestir de Ripoll,224000,3,70
-Chalet,Calle Castell de Siurana,288000,4,229
-Piso,Travesía Nou de Sant Josep,198000,4,130
-Piso,Calle de Lleida,155000,3,86
-Piso,Barri de la Salut,165000,3,112
-Piso,Avenida dels Països Catalans,110000,3,85
-Piso,Avenida Tarragona,99900,3,106
-Piso,Calle de la Coma,98000,3,86
-Duplex,Calle del Riu Glorieta,340000,3,100
-Piso,Calle Higini Anglès,155000,4,123
-Chalet,Vall de Sant Llorenç,79500,3,86
-Piso,Calle de Girona,138500,4,82
-Chalet,Calle dels Garrofers,530000,4,156
-Piso,Calle de Jacint Verdaguer,169000,3,95
-Chalet,Calle Monestir de Santes Creus,700000,7,265
-Piso,Avenida del Baix Camp,177500,4,143
-Piso,Calle de Joaquim Serra,80000,1,53
-Piso,Calle Sol i Ortega,249900,4,144
-Piso,Calle de Beatriu de Queralt,184840,3,89
-Piso,Calle d'Antoni Gaudí,113050,3,77
-Chalet,Esglesia Nova 46,188000,6,201
-Piso,Avenida Lluís Companys 90,215000,3,96
-Ático,Avenida Lluís Companys 90,280000,3,89
-Piso,barrio Segur Platja,119000,2,85
-Casa Rural,Camino de Sant Antoni,124400,2,70
-Piso,Salou de Llevant,119000,1,48
-Chalet,Residencial,312000,3,120
-Piso,Avenida Lluís Companys 90,340000,3,89
-Piso,Calle de les Drassanes 29,179000,2,61
-Piso,Platjas,136400,3,81
-Piso,Calle Vendrell,123000,2,55
-Piso,Les Cases d'Alcanar,170000,3,550
-Piso,Avenida de Ramón y Cajal,150000,3,85
-Chalet,Calle del Riu Senia,310000,4,20
-Chalet,Calle Osona 4,459000,4,156
-Chalet,Calle Osona 4,493000,4,121
-Piso,Calle d'Urà 3,142000,2,67
-Piso,Calle Ernest Vilches s/n,270000,3,119
-Estudio,Calle de Rodríguez Pomatta 13,87000,0,40
-Piso,Calle Baix Emporda,149995,3,89
-Ático,Roc de Sant Gaietà,545000,4,147
-Piso,Calle de Sevilla,160000,2,64
-Chalet,Calle dels Grallers,199500,4,129
-Piso,Calle Serafí Pitarra,99995,3,94
-Chalet,Calle del Llobregat,245000,5,171
-Piso,Calle Miracle 75,60000,2,00
-Piso,Avenida Alemanya,129000,3,110
-Piso,Calle Gomera,155000,3,105
-Piso,Avenida de Roma,259000,4,149
-Chalet,Calle Marinada,880000,5,246
-Chalet,Avenida d'Enric Borràs,650000,5,195
-Casa Rural,Camino del Molí de Vent,560000,4,153
-Chalet,Paseo Doctor Letamendi,370000,5,194
-Piso,Coma-Ruga,225000,3,55
-Casa Rural,Fluvià s/n,145000,3,93
-Chalet,Plaza de l'església 6,160000,3,109
-Chalet,Camino del Nàstic-III,1190000,7,277
-Casa Rural,Plaza de la Serra,1600000,9,674
-Chalet,Calle Cala Vidre,2500000,10,821
-Piso,Calle de l'Esparver,215000,3,96
-Piso,Rambla de Ponent,110000,4,142
-Chalet,Calle de l'Abat Porta,157900,6,250
-Chalet,Calle de la Via Làctia,380000,3,80
-Piso,Calle de la Destral 3,169000,3,60
-Chalet,Calle del Clavell,257000,3,82
-Piso,Calle dels Solans,184000,3,107
-Piso,Calle de Ferran Sors,239000,4,157
-Piso,Paseo de Jaume I s/n,360000,3,17
-Piso,Paseo Pau Casals,165000,3,80
-Chalet,Calle de la Cala Crancs,785000,5,185
-Chalet,Calle de l'Abat Porta,157900,6,201
-Piso,Paseo Pau Casals,165000,3,80
-Piso,Calle del Cardenal Vidal i Barraquer,207995,3,108
-Piso,Calle de Benidorm,139500,4,143
-Piso,Calle Alguer,209000,4,135
-Chalet,Calle Jaume Palau,195000,4,135
-Chalet,barrio Centro,170000,3,75
-Chalet,Calle Ciudad Real,160000,4,160
-Piso,Rambla de Ponent,110000,4,155
-Chalet,La Bisbal del Penedès,126000,4,100
-Chalet,Calle T,399990,5,800
-Piso,Calle de Ferran Sors,239000,4,160
-Chalet,Camino dels Còdols,600000,5,2190
-Chalet,Calle de la Via Làctia,380000,3,119
-Piso,Calle de David de Mas,159500,3,96
-Piso,Avenida Lluís Millet,173000,2,70
-Chalet,Avenida MAS SOLE,240000,4,400
-Piso,Calle Nou,169000,4,130
-Chalet,Costa Daurada - Sant Gaietà,1500000,6,1200
-Chalet,Via sense nom 15,540000,3,6208
-Piso,Santa Bàrbara 2,173000,3,97
-Chalet,Calle Orquidies,159000,3,162
-Piso,Riudecols,122000,1,41
-Casa Rural,L'Ametlla de Mar,360000,3,383
-Piso,Raval de Jesús 38,165000,4,136
-Piso,Regueral - Prat d'En Foré,152000,2,74
-Piso,Avenida de la Cossetània 30,259000,3,89
-Piso,Calle Alt de Sant Salvador 7,153000,3,114
-Piso,Av Adelaida,185000,3,116
-Piso,Avenida de la Cossetània 30,259000,3,99
-Chalet,Residencial,170000,3,80
-Piso,barrio Segur Platja,135000,2,68
-Piso,Calle Valencia 39,145000,2,64
-Piso,Calle de Frederica Montseny 6,112000,2,60
-Piso,Calle de Narcís Monturiol 21,91000,2,53
-Piso,Rambla Ponent 5,119000,4,122
-Piso,Calle de Montserrat,375000,2,110
-Chalet,Calle Ramon Casas 19,350000,4,269
-Piso,Calle dels Costers,142000,2,76
-Piso,Paseo de Miramar,545000,4,180
-Piso,Calle unio,285000,4,172
-Piso,Calle de Pere Martell,224000,3,30
-Piso,Calle Gran Canària,120000,4,110
-Piso,Calle de Bernat Torroja,98000,2,74
-Piso,Eixample,248000,3,13
-Piso,pinar,153500,2,30
-Piso,Calle de Bernat Torroja,92000,2,78
-Piso,Calle Reus,113900,3,89
-Chalet,Priorat,123500,3,116
-Chalet,Calle Moscú 47,398000,4,126
-Piso,Calle Tortosa,315000,4,148
-Chalet,Calle Berna,414500,3,81
-Piso,Calle de Sant Pere,94000,3,102
-Piso,Avenida Països Catalans,184000,3,90
-Piso,Josep Carne,225000,2,79
-Piso,Major,330000,3,89
-Chalet,Vall d'aran,650000,6,2074
-Duplex,Avenida Collblan,170000,3,95
-Chalet,Calle de Bruseles,310000,4,141
-Piso,Plaza de la Font,350000,3,80
-Chalet,Tv-2021,169000,3,143
-Piso,Bloc Europa,160000,3,95
-Piso,Rambla de Ponent,173500,4,93
-Chalet,Adelaia,340000,4,140
-Piso,Calle Marcos Redondo,125000,2,70
-Piso,Avenida Principat d'Andorra,399500,4,156
-Piso,Avenida Paisos Catalans,194000,2,70
-Chalet,disseminat,1100000,12,900
-Duplex,Calle Anoia 28,420000,2,70
-Piso,Alfons V el Magnanim,130000,3,104
-Piso,Alfons V El Magnanim,136000,3,108
-Casa Rural,Camino de les Passeres,125000,2,11000
-Chalet,Tivoli,328000,4,240
-Piso,Calle del General Contreras,136000,2,60
-Piso,Calle de la Burguera,160000,2,75
-Piso,Calle de la Ciutat de Reus,246000,4,110
-Piso,Calle Falset,106000,4,123
-Piso,Av del Dr Pujol,179000,3,107
-Piso,Calle Violant d'Hongria,145500,2,67
-Piso,Calle Deltebre,132000,3,115
-Chalet,Calle de Marc Aureli,206000,4,112
-,877260468,Avenida Amics de Vimbodí,0,21
-Piso,Calle de la Ciutat de Reus,246000,4,110
-Piso,Calle de Pere Martell,164000,3,88
-Piso,Calle Falset,106000,4,123
-Duplex,Calle de Pierre Vilar,430000,3,90
-Piso,Calle del Terrer,193000,2,74
-Piso,Avenida de la Diputacio,115000,1,31
-Chalet,Calle Torreta,390000,4,250
-Chalet,Antoni Escofet Netto,308000,3,215
-Chalet,Calle de Bruseles,310000,4,141
-Chalet,Avenida Catalunya s/n,540000,4,170
-Chalet,disseminat,1100000,12,900
-Estudio,Avenida de la Diputació,119900,0,35
-Chalet,Calle de l'esglesia,165000,4,160
-Piso,Paseo de Jaume I,152000,1,48
-Piso,Bloc Europa,160000,3,95
-Piso,Amposta,90000,4,89
-Duplex,Avenida de Pere el Cerimoniós 30,135000,2,79
-Piso,Calle Barcelona,165000,2,64
-Piso,Girona,298000,3,115
-Chalet,Calle Societat,189000,3,99
-Casa Rural,Catalunya,174500,3,120
-Chalet,Calle Illes Canaries,335000,3,86
-Piso,Alfons V el Magnanim,130000,3,84
-Piso,Mossen Enric Gispert,145000,3,101
-Piso,Calle Lleida,155000,3,107
-Piso,Calle Marcos Redondo,125000,2,70
-Chalet,Deu horus,198000,3,90
-Chalet,Calle de Joan Miró,590000,4,141
-Chalet,Calle de Circunvallacio,257000,3,826
-Piso,Calle del Pare Palau,180000,5,135
-Duplex,Calle Anoia 28,420000,2,70
-Piso,Tarragona,199900,2,70
-Casa Rural,Camino de les Passeres,125000,2,11000
-Piso,Plaza de la Font,350000,3,91
-Piso,Calle del Vendrell,140000,2,55
-Piso,Calle Joan Baptista Plana,239000,3,112
-Piso,Barcelona,230000,3,100
-Piso,Alfons V El Magnanim,136000,3,98
-Duplex,Avenida Collblan,170000,3,95
-Piso,Calle Violant d'Hongria,145500,2,67
-Piso,Calle Dos,112000,3,83
-Piso,Calle Vint-I-Vuit,128500,3,92
-Piso,Rambla de Ponent,173500,4,93
-Piso,Avenida de la Diputacio,115000,1,31
-Chalet,Calle de l'esglesia,165000,4,152
-Chalet,Calle Societat,189000,3,99
-Piso,Calle Deltebre,132000,3,117
-Chalet,Calle Carrasclet,460000,5,250
-Chalet,Centro,150000,3,82
-Piso,Emili Parras 10,112000,3,102
-Casa Rural,Sant Antoni,245000,5,175
-Chalet,barrio Valldemar - Montmar,208000,5,840
-Chalet,Calle Estats Units 33,198000,3,600
-Piso,Calle de Sant Pere 44,210000,3,97
-Piso,Creixell,170000,3,101
-Piso,Avenida de la Cossetània 132,215700,3,87
-Duplex,Pablo Neruda s/n,180000,3,50
-Piso,Avenida de la Cossetània 132,215700,3,112
-Chalet,Residencial,380000,3,95
-Chalet,Sortanelles 1,150000,2,76
-Piso,joan tibau,96000,3,87
-Chalet,Residencial,205000,4,165
-Piso,Av Codonyol,68000,4,90
-Piso,Nou del Pont 2,145000,2,68
-Casa Rural,romas s/n,175000,3,94
-Chalet,Calle de la Font,215000,5,177
-Chalet,Calle de les Mimoses 2,430000,3,150
-Chalet,Calle Pais Basc 3,234500,8,334
-Chalet,Camino de les Hortes 1,495000,5,199
-Chalet,Calle de la Cerdanya 4,299000,3,96
-Chalet,Calle de tarragona s/n,220000,3,70
-Chalet,Avenida Verge de l'Abellera 40,340000,6,242
-Piso,Sant Isidre,68000,3,87
-Piso,Calle de Sant Pere 44,210000,3,106
-Piso,Eixample,530000,3,91
-Piso,Paseo de Sunyer 41,179000,4,125
-Chalet,Vila-Rodona,330000,2,36000
-Piso,Marques de Valterra,85000,3,107
-Chalet,Vila-Rodona,330000,2,36000
-Chalet,Residencial,380000,3,95
-Piso,Calle de Sant Pere 44,210000,3,83
-Chalet,Sant Antoni,110000,3,163
-Chalet,Remolins - St Jaume,96000,5,190
-Piso,Plaza Pessebre 1,325000,3,26
-Chalet,Calle Estats Units 33,198000,3,600
-Piso,Barcelona,140000,3,108
-Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,160
-Chalet,Calle Doctor Campalans i Puig 4,239000,3,116
-Chalet,Calle Galicia 37,234500,8,361
-Piso,Calle Mar del Coral,220000,3,137
-Piso,Carretera de Valls 58,128500,2,65
-Chalet,De la Marinada 3,450000,4,126
-Chalet,Calle del Pla de l'Era s/n,420000,4,149
-Chalet,Calle Mas d'en Vernet s/n,350000,5,184
-Chalet,Calle del Castell d'Almansa s/n,375000,5,166
-Ático,Mèlies 19,225000,3,111
-Piso,Avenida Espanya 54,189000,3,45
-Chalet,Canyaret 11,259000,3,93
-Chalet,Calle Francesc Cambó 42,220000,3,98
-Chalet,Camino del Moli s/n,1000000,7,20
-Piso,Calle de Castellvell 18,185000,2,71
-Piso,Paseo Marítim de Sant Joan de Déu 164,225000,3,94
-Chalet,Urbanització Alorda Park s/n,375000,4,148
-Piso,Calle de Santiago Rusiñol 1,325000,3,86
-Chalet,Garrofers,415000,4,147
-Casa Rural,Calle Diputat Orga P 2,18900,1,57
-Duplex,Calle Fra Antoni Cardona i Grau 2,279000,3,85
-Ático,barcelona 11,144900,2,77
-Piso,Avenida de la Cossetània 132,215700,3,95
-Piso,Calle de l'Estany 7,195000,3,88
-Piso,Calle Ramon Berenguer IV,192000,4,109
-Chalet,CL BALL DEL DIABLES 2,300000,5,35
-Chalet,Calle Paul Gaugin,900000,4,17
-Piso,Calle de Sant Pere 44,210000,3,119
-Chalet,Calle Ildefons Cerdà 23,275000,4,136
-Piso,Calle de l'Estany 7,195000,3,111
-Piso,llobregat,64000,1,44
-Duplex,Calle Fra Antoni Cardona i Grau 2,279000,3,94
-Ático,barcelona 11,144900,2,62
-Piso,Calle de Santiago Rusiñol 1,325000,3,80
-Chalet,Calle Francesc Cambó 42,220000,3,94
-Chalet,Camino del Moli s/n,1000000,7,20
-Piso,Avenida de la Cossetània 132,215700,3,95
-Estudio,Calle Merce 15,75000,0,33
-Duplex,Calle Anoia,420000,2,70
-Piso,Barcelona,140000,3,80
-Ático,sunyer 16,179000,3,30
-Chalet,Avenida Diagonal de la Bonanova 7,535000,4,143
-Chalet,Avenida del Mirador 46,395000,4,568
- 219,877260592,Santa Maria,219,650
-Piso,Calle Bloc Begònia 12,69900,3,65
-Chalet,Avenida Espanya 313,276000,3,81
-Casa Rural,Carretera VALLS NULLES s/n,1450000,9,416
-Piso,Calle Doctor Salk 40,155000,2,80
-Piso,Calle Rosa dels Vents 15,300000,2,32
-Chalet,Calle Mas dels Ossos,219900,5,180
-Piso,Calle del Nord 26,132000,2,68
-Chalet,Mèlies 19,305000,4,129
-Chalet,Via Augusta s/n,1200000,4,160
-Chalet,Calle Violeta 35,237000,5,164
-Piso,Calle de Bertran de Castellet,425000,5,200
-Piso,Plaza Europa 3,220000,4,160
-Piso,Calle Rosa dels Vents 15,305000,2,32
-Chalet,Ronda de Subirà,280000,4,200
-Chalet,ametllers 31,150000,2,71
-Chalet,Calle la Pau,215000,3,88
-Piso,Calle del Camí del Racó,210000,3,86
-Duplex,Calle de Reus 2,250000,4,142
-Chalet,Calle Major,480000,5,410
-Chalet,Avenida Diagonal de la Bonanova 7,535000,4,153
-Chalet,Margalló 73,585000,6,225
-Piso,Calle Rosa dels Vents 15,275000,2,32
-Piso,Calle de Josep Vicenç Foix 17,100000,2,900
-Chalet,Calle Juli Vilarrubí 19,430000,4,160
-Piso,LEPANTO,129500,4,143
-Chalet,Eliseo Maifren,592000,4,237
-Chalet,Calle Gaià s/n,390000,4,217
-Chalet,Ronda de Subirà,280000,4,200
-Piso,Avenida Mossèn Jaume Soler,156000,2,62
-Piso,Calle del Camí del Racó,210000,3,113
-Piso,Calle de Bertran de Castellet,425000,5,200
-Piso,Calle de l'Arquebisbe Pere de Cardona,260000,4,152
-Chalet,Cepell 3,315000,4,184
-Chalet,Calle Major,255000,3,88
-Chalet,Calle del Roselló,273000,4,153
-Piso,Priorat,128000,2,82
-Chalet,Falset,95000,3,140
-Casa Rural,Calle Nou,109000,2,64
-Duplex,Altafulla,585000,4,153
-Piso,Calle d'Alcover 7,89700,3,93
-Piso,pau casals,130000,2,73
-Ático,Platja de Mont-Roig,149900,1,46
-Piso,Calle President Josep Irla 1 A,380000,5,170
-Piso,Paseo de Francesc Macià,148000,2,67
-Chalet,Calle del Rescat,430000,7,412
-Ático,Avenida del Doctor Eduard Punset,184000,3,115
-Duplex,Calle de la Peixateria 12,129700,4,140
-Piso,Els Munts,129900,2,25
-Chalet,Valls,195000,5,250
-Chalet,Mont-Roig,30000,4,100
-Piso,Paseo Marítim de Sant Joan de Déu,380000,3,84
-Piso,Plaza Cosme Maine 6,98500,3,80
-Piso,Els Masos,170000,2,72
-Chalet,PD Servians 10,430000,2,85
-Duplex,Calle de l'Alcalde Joan Bertran,295000,4,138
-Chalet,Tramuntana,450000,4,1300
-Piso,barrio Segur Platja,140000,3,9
-Chalet,Falset,59900,4,139
-Duplex,Eixample,349000,4,143
-Chalet,Can Toni,220000,3,81
-Chalet,Vila-Seca,269000,5,176
-Chalet,Cornudella de Montsant,2500000,7,289
-Piso,Avenida Sant Joan de Déu 79,350000,4,140
-Piso,Centre,119000,4,148
-Piso,Calle del Pare Palau s/n,175000,5,170
-Chalet,Querol,219000,3,106
-Casa Rural,El Molar,6900000,15,619
-Piso,Calle de l'Arquitecte Ubach,235000,3,86
-Duplex,Calle de l'Alcalde Joan Bertran,295000,4,138
-Chalet,Tramuntana,450000,4,1300
-Casa Rural,El Molar,6900000,15,531
-Duplex,Eixample,349000,4,121
-Piso,Calle Tramontana 1,92000,2,68
-Piso,Carretera de la costa 64,180000,2,70
-Piso,Carretera Barcelona 17,158000,3,84
-Piso,Calle de Pere Romeu 30,188000,3,13
-Piso,Pau casals 103,168000,3,77
-Piso,Tramontana 4,133000,2,70
-Chalet,Pompeu fabra 4,115000,4,278
-Chalet,societat,189000,3,103
-Piso,Creixell,155000,3,15
-Piso,Sant Rafael 26,99000,3,89
-Piso,Burgos 15,98000,4,132
-Piso,Calle Bequessina 4,98000,2,74
-Chalet,BLAT,210000,3,190
-Chalet,fundadors,139900,3,112
-Chalet,Calle Mirador de Barà,267000,4,229
-Chalet,Ramon das Neves,236000,4,139
-Piso,Avenida de Sant Vicenç,135000,4,130
-Piso,barrio Segur Platja,150000,3,85
-Piso,Calle Marinada,165000,2,74
-Casa Rural,Moli Foguet 124,323820,7,281
-Chalet,L'alguer 25,249900,4,525
-Piso,Avenida Mossèn Jaume Soler 20,129000,2,77
-Piso,Calle de la Simpatica,64500,2,80
-Chalet,Avenida Montsià 31,365000,3,470
-Piso,Calle Montsià,66500,2,44
-Piso,Avenida del Codonyol,65000,4,153
-Chalet,ENRIC GRANADOS 60,360000,5,171
-Chalet,Calle de la Baixada Platja Cristall 4,780000,4,144
- 6,877260705,Avenida Mas Solé,6,200
-Chalet,Calle de Bèlgica,157500,3,31
-Chalet,Calle del Doctor Dachs,280000,4,145
-Chalet,Avenida de les Palmeres 72,295000,3,113
-Chalet,Calle de la Rosada 7,340000,4,132
-Chalet,Calle Hipòcrates-Romaní 29,780000,5,57
-Piso,Calle Mediterrani 7,153000,3,88
-Ático,Paseo de la estacio,144900,2,105
-Chalet,Calle del Doctor Dachs,280000,4,137
-Chalet,Calle Vall d'Aran 54,650000,10,2074
-Chalet,Calle de la Muralla,170000,6,214
-Chalet,Calle Calaf,150000,2,62
-Piso,Calle de Torres Jordi 18,165000,3,116
-Piso,Calle de Galceran Marquet,287000,3,87
-Piso,Calle de Cèsar Martinell i Brunet,175500,3,111
-Chalet,Calle PUIG DE L'AGUILA,289000,4,136
- 6,877260705,Avenida Mas Solé,6,249
-Chalet,Calle Joan Maragall 4,325000,8,344
-Piso,Calle del Vendrell 18,120000,2,60
-Piso,Avenida del Baix Camp,177500,4,148
-Chalet,Calle de la Vall de Sant Marc 18,299900,4,146
-Chalet,Av de la Camêlia 3,390000,4,725
-Chalet,Illes Canàries,335000,3,420
-Chalet,Calle de la Baixada Platja Cristall 4,780000,4,142
-Piso,Calle de Frederic Mompou,338900,4,122
-Chalet,ENRIC GRANADOS 60,360000,5,188
-Chalet,Calle Galicia 37,234500,8,338
-Piso,Calle Mediterrani 7,153000,3,96
-Chalet,Calle Mas d'en Vernet,325000,4,152
-Chalet,Rambla Vella 26,650000,5,168
-Piso,Robert Gerard,334000,3,88
-Chalet,Calle Edmundo Dantés 12,330000,3,125
-Chalet,Sant Ferran,235000,3,91
-Chalet,Plaza Tarragona 8,480000,8,312
-Chalet,Calle Hipòcrates-Romaní 29,780000,5,57
-Piso,Santes Creus,179000,3,81
-Chalet,Avenida del Tancat de la Plana,1875000,9,1362
-Piso,Calle Jupiter,154000,2,64
-Chalet,Calle del Doctor Dachs,280000,4,141
-Chalet,Avenida de les Palmeres 72,295000,3,96
-Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,73
-Duplex,Avenida Horta de Santa Maria,465000,4,280
-Chalet,Calle Castell de Siurana,288000,4,123
-Chalet,Calle PUIG DE L'AGUILA,289000,4,123
-Casa Rural,Partida Bo Anolls,166000,3,857
-Chalet,Avenida CENTRAL,260000,3,550
-Chalet,Avenida Maria Cristina,430000,5,220
-Piso,Calle dels Costers,156000,2,79
-Piso,Calle de Lleida,155000,3,84
-Chalet,Avenida de l'Avenc,160000,5,170
-Piso,BISBE DE GRAU REUS,135000,3,82
-Chalet,LLUIS MARIA MILLET,230000,4,155
-Chalet,Avenida de Josep Gramunt i Subiela 8 -2,1200000,5,184
-Chalet,Calle de la Conca de Barberà,315000,4,452
-Piso,Calle de Joan Coromines,195000,4,98
-Casa Rural,Via sense nom,280000,8,358
-Chalet,Calle Terral de Dalt,1100000,6,223
-Ático,Calle del Pintor Mir,150000,4,126
-Piso,Calle del Besòs,119000,2,85
-Piso,segarra,136000,3,93
-Piso,Calle Joan Baptista Plana,205000,3,120
-Piso,Calle Riu Brugent,295000,3,30
-Casa Rural,Partida Poblas,577000,6,226
-Duplex,Calle de Francesc Artiga Sardà,327900,4,13
-Ático,Calle BARCELONA,144900,2,60
-Chalet,Calle Pablo Picasso,310000,4,149
-Chalet,Avenida CENTRAL,260000,3,550
-Piso,Calle de Joan Salvat-Papasseit,415000,4,1400
-Ático,Calle de l'Arquitecte Ubach 12,270000,4,90
-Chalet,Avenida Pratdip,120500,2,73
-Chalet,Camino Vial,76000,2,68
-Chalet,Calle la Pau,215000,3,117
-Chalet,Av Joan XIII,465000,4,143
-Piso,Calle del General Contreras 29,140000,4,87
-Chalet,Avenida del Tancat de la Plana,1875000,9,1362
-Casa Rural,Partida Bo Anolls,166000,3,857
-Piso,Calle de Pau Font de Rubinat,152000,2,67
-Chalet,Calle Lluis Companys,599000,3,113
-Chalet,Avenida de la Camêlia,550000,5,197
-Chalet,Paseo Marítim 80,365000,4,161
-Piso,antoni gaudi,330000,4,40
-Chalet,Calle Vall d'Aran,650000,9,2074
-Piso,Avenida de la Ràpita,99000,4,134
-Piso,Cervantes,125000,3,106
-Chalet,Calle Panamà,475000,5,197
-Piso,JOSEP MARIA DE SEGARRA,269000,3,98
-Chalet,Calle Castell de Siurana,288000,4,151
-Ático,Calle del Pintor Mir,150000,4,124
-Piso,Calle de Joan Salvat-Papasseit,415000,4,1400
-Chalet,Calle Pablo Picasso,310000,4,147
-Chalet,Calle Vall d'Aran,650000,9,2074
-Piso,Calle de David de Mas,215000,3,84
-Piso,antoni gaudi,330000,4,40
-Piso,Calle Doctor Pascual,223000,3,104
-Chalet,Calle de Sant Antoni 48,300000,5,308
-Chalet,Travesía de l'Ermita,235000,3,111
-Piso,Calle de Falset 2,145000,3,81
-Chalet,Avenida de la Camêlia,550000,5,173
-Piso,Calle Joan Baptista Plana,205000,3,107
-Piso,Avenida de la Ràpita,99000,4,134
-Chalet,Calle del Doctor Dachs,280000,4,128
-Piso,Avenida Mossèn Jaume Soler,149000,3,114
-Ático,Avenida de les Sinies,139000,3,98
-Chalet,LLUIS MARIA MILLET,230000,4,132
-Ático,Calle de l'Arquitecte Ubach 12,270000,4,90
-Piso,Lluís companys 4,144000,2,77
-Piso,Calle del Besòs,119000,2,85
-Piso,Calle del Metge Miquel Pare I Ferran,109000,3,97
-Piso,Calle Cicerón,295000,4,390
-Casa Rural,Via sense nom,280000,8,382
-Piso,Calle de Cambrils,245000,5,179
-Piso,Calle Riu Brugent,295000,3,30
-Chalet,Calle de la Marinada,535000,5,200
-Casa Rural,N-420,325000,4,30
-Piso,Sector Masets,70000,2,66
-Chalet,Calle del Pla de l'Era,725000,5,334
-Chalet,Calle Palmeres,780000,4,153
-Piso,Calle de montblanc,89700,4,101
-Ático,Ramon i Cajal,360000,4,141
-Chalet,Calle A,414000,4,263
-Chalet,Calle de la Vía Láctea,225000,4,126
-Chalet,Calle Mirador,650000,5,184
-Casa Rural,Camino de Riudoms a Reus,175000,2,3000
-Casa Rural,Carretera de Mont-ral,1490000,6,2800
-Chalet,936173974,Castell Monestir d'Escornalbou,800000,48
-Chalet,Calle del Baró de la Tournelle,1950000,4,1836
-Piso,Calle de Pin i Soler,180000,4,132
-Chalet,ARBOLI,214900,3,94
-Casa Rural,Camino de Riudoms a Reus,175000,2,3000
-Piso,Calle Emigdio Rodríguez Pita,143000,3,85
-Chalet,Calle Major,239900,3,220
-Piso,colom,119000,2,69
-Chalet,Víctor Balaguer,195000,3,584
-Chalet,Avenida CATALUNYA,950000,4,3600
-Piso,Avenida De Cossetania 95,343200,4,20
-Piso,Calle de Santa Joaquima de Vedruna,270000,4,160
-Chalet,Calle de Alfred Sisley,380000,2,83
-Chalet,Calle Josep Lluís de la Rosa,430000,3,25
-Chalet,Calle del Pla de l'Era,725000,5,334
-Piso,Dels Costers 2,142000,2,89
-Ático,Ramon i Cajal,360000,4,141
-Piso,Avenida roma,296900,4,150
-Chalet,Calle de la Caseta,825000,4,800
-Chalet,Calle Repòs,160000,3,109
-Piso,Carretera de la Costa,98500,3,115
-Piso,Avenida De Cossetania 95,244200,3,27
-Chalet,Calle alta fulla Urb Bella MAr,498000,4,450
-Chalet,Avenida Lluís Millet,365000,4,132
-Chalet,del Rescat,340000,3,82
-Casa Rural,Carretera de Mont-ral,1490000,6,2800
-Chalet,Calle de la Vía Láctea,225000,4,155
-Chalet,Copernico,298000,4,138
-Piso,Calle de montblanc,89700,4,101
-Casa Rural,Raval de Lleida,900000,12,50000
-Chalet,Sant antoni,245000,5,508
-Piso,Calle del Monestir de Ripoll,150000,3,117
-Chalet,Calle Hipòcrates-Romaní,780000,5,550
-Chalet,Calle Abat Escarré,460000,4,353
-Piso,Av de la Llosa,365000,3,32
-Chalet,Aiguamurcia,90000,3,839
-Chalet,Calle Moscú,398000,4,125
-Chalet,Camino de Masmolets-Sud 43800 Valls Tarragona España,1295000,11,31500
-Estudio,Avenida de la Diputació 168,110000,0,31
-Piso,Sector Masets,70000,2,70
-Piso,Avenida De Cossetania 95,238700,3,04
-Chalet,Pau Casals,249900,3,118
-Piso,Masdenverge,66000,3,97
-Casa Rural,Aiguamurcia,495000,6,30000
-Piso,Calle del Eixerit,159500,2,77
-Chalet,Pedrera del Còbic,1250000,7,1300
-Chalet,Calle de Tramuntana,420000,3,114
-Ático,Margallo,435000,3,95
-Chalet,Calle Arístides Maiol,603000,4,70
-Chalet,Creixell,132900,3,83
-Piso,Calle Ventura Gassol,138000,1,50
-Chalet,Avenida de les Comarques Catalanes,259000,3,40
-Piso,Montsià de Mar,116000,2,60
-Chalet,Calle Eres del Calvari,230000,4,139
-Chalet,Avenida de les Comarques Catalanes,259000,4,158
-Chalet,Calle de l'Anglí,189000,3,103
-Piso,Calle Riu Brugent,295000,3,30
-Chalet,islandia,190000,3,14
-Piso,Residencial,99500,1,600
-Chalet,El Tancat - Mas d'en Gual,149500,3,83
-Chalet,Calle Sajolida,319000,4,149
-Piso,Calle de Narcís Monturiol 21,91000,2,71
-Casa Rural,LA SERRA s/n,265000,4,8798
-Piso,Calle de Santa Joaquima de Vedruna,270000,4,111
-Chalet,Calle Margalló Serdenya 18,208000,4,269
-Chalet,Pi de Baltasar,900000,5,60
-Piso,Calle de la Verge del Pilar,170000,2,69
-Piso,albinyana 6,145000,3,113
-Piso,Baixador,149000,3,86
-Chalet,Creixell,200000,4,135
-Chalet,Creixell,298000,4,124
-Piso,Tortosa,850000,3,600
-Piso,Marques de Valterra,75000,4,139
-Chalet,Gorbea,490000,4,200
-Chalet,Avenida de les Comarques Catalanes,259000,4,148
-Piso,Montsià,147900,3,85
-Piso,lleida,155000,3,86
-Casa Rural,El Pont d'Armentera,495000,6,30000
-Chalet,Tarragona,450000,6,227
-Casa Rural,Calle Major 9,155000,3,90
-Piso,Calle del Riu Glorieta 18,290000,3,94
-Chalet,L'Hospitalet de l'Infant,1392000,5,170
-Chalet,Sant Josep 2,425000,5,171
-Casa Rural,El Pont d'Armentera,495000,6,30000
-Chalet,El Catllar,479000,4,521
-Chalet,Creixell,200000,4,153
-Piso,Plaza Generalitat s/n,165000,3,115
-Piso,Avenida Palfuriana 123,178000,4,87
-Chalet,Calle Eucaliptus,275000,4,180
-Piso,Calle del Fonoll 1,215000,3,93
-Chalet,Calle Julio Romero,149000,3,97
-Piso,Avenida Espanya,215000,3,94
-Chalet,Calle del Doctor Dachs,280000,4,153
-Piso,jaume balmes,59500,3,81
-Piso,josep plà 9,160000,2,69
-Piso,Camino Pont del Diable,95950,3,81
-Chalet,Calle del Forn,56000,3,118
-Piso,Montseny,130000,4,123
-Chalet,Fortalesa,535000,3,237
-Piso,Calle Bruselles,330000,2,68
-Piso,Calle Montblanc,70000,3,73
-Piso,Riudecols,84000,1,51
-Duplex,Paseo de la Generalitat,88900,3,88
-Chalet,Calle Xiprés,590000,4,206
-Piso,Calle de Bernat Torroja,100000,2,76
-Chalet,salvador dali,599000,8,80
-Piso,mayor 38,140000,3,94
-Duplex,Calle Tarragona,340000,3,89
-Piso,Francesc de paula,120000,3,86
-Chalet,solimar A,160000,4,135
-Piso,Calle Cristòfor Colom,215000,3,124
-Chalet,Agustina d'arago,98000,3,101
-Chalet,Hostal Frares,95000,3,101
-Piso,Calle de Beatriu de Queralt 8,184840,3,89
-Piso,Rambla Cataluña,169900,4,129
-Chalet,Sant Gregori,194765,4,46
-Piso,Pau Casals 1,228000,3,91
-Piso,Calle de Cambrils,199000,3,87
-Piso,Calle de Madrid 19,290000,3,110
-Casa Rural,Diseminat 1,95000,1,83
-Piso,PENEDES 10,111500,1,52
-Piso,Calle dels Replanells 3,88000,1,40
-Piso,Calle d'Alfred Opisso,159000,3,106
-Chalet,Calle Santa Ursula,1150000,10,695
-Piso,Calle de Guillem de Montcada,135000,3,66
-Piso,Calle de Barbastre,125000,2,63
-Chalet,Barri Prenafeta,670000,6,208
-Piso,Calle Prades,68500,2,55
-Ático,DOCTOR RAVENTOS 12,125000,2,77
-Piso,Calle Dotze,73000,3,64
-Piso,Calle de la Verge del Pilar,155000,1,67
-Piso,Calle Lleida,199000,4,104
-Chalet,austria s/n,285000,4,129
-Estudio,De les Dunes,98000,0,40
-Piso,Crta de Valencia,88500,3,85
-Piso,Avenida Mossèn Jaume Soler,236000,3,122
-Piso,Calle de Sant Pere 44,210000,3,93
-Piso,Avenida de Carles Buigas,140000,2,63
-Chalet,santa magdalena,260000,5,127
-Piso,Calle Quatre,150000,3,115
-Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,154
-Piso,Calle de l'Estany 7,195000,3,116
-Piso,Mas dels Cups,229000,4,101
-Piso,Paseo del Mediterrani,155000,2,68
-Piso,Calle Rovira i Virgili,144000,3,83
-Chalet,Calle Panamà,475000,5,197
-Piso,Tarragona,165000,2,55
-Piso,Paseo del Mediterrani,127600,2,79
-Chalet,Calle Josep Iglesias,1650000,4,130
-Piso,Calle C,113500,3,88
-Chalet,Calle Sant MagÍ,249000,4,136
-Piso,Costa Daurada - Sant Gaietà,79000,1,58
-Piso,Calle Baixador,149000,3,111
-Piso,tortosa,199900,2,61
-Chalet,Calle Porrassa 5,430000,5,171
-Chalet,Calle Ramon Cantó,290000,8,319
-Piso,Rambla Nova,245000,4,104
-Chalet,Muralla de Santa Tecla,1600000,10,462
-Chalet,Via Augusta,945000,6,434
-Chalet,Carles Buigas 23,278990,5,227
-Chalet,Calle Major,205000,4,30
-Chalet,Avenida de la llum,329000,5,220
-Piso,Calle d'Eduard Toda,120000,2,77
-Piso,Calle Mossen Jacint Verdaguer,150000,3,90
-Chalet,Calle Santa Ursula,1150000,10,545
-Chalet,Via Augusta,945000,6,434
-Piso,Del Mar,175000,2,80
-Piso,Avenida Mossèn Jaume Soler,236000,3,122
-Piso,Calle de la Verge del Pilar,155000,1,67
-Piso,Calle Set,134000,3,90
-Piso,tortosa,199900,2,62
-Piso,Calle Major,99900,2,79
-Estudio,De les Dunes,98000,0,40
-Chalet,Calle Albània,285000,4,22
-Chalet,Calle Panamà,475000,5,197
-Chalet,Calafell Pueblo,278000,4,158
-Piso,Mare de Deu de Montserrat,130000,3,90
-Piso,Paseo del Mediterrani,127600,2,78
-Piso,Calle del Bisbe Grau,150000,3,100
-Chalet,Calle Cant dels Ocells,163000,3,92
-Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,142
-Ático,DOCTOR RAVENTOS 12,125000,2,77
-Piso,Calle de l'Estany 7,195000,3,82
-Piso,Rambla Nova,245000,4,104
-Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,127
-Piso,Calle Dotze,73000,3,64
-Piso,Calle de Guillem de Montcada,135000,3,66
-Piso,Calle de Barbastre,125000,2,70
-Piso,Calle Baixador,149000,3,87
-Chalet,austria s/n,285000,4,141
-Chalet,Calle de Tarragona,129000,3,90
-Estudio,Calle dels Sol,104000,0,32
-Chalet,Coma-Ruga,418000,7,266
-Chalet,Residencial,249000,4,148
-Piso,Plaza catalunya 9,108000,1,38
-Chalet,Via sense nom,220000,3,120
-Ático,Calle Castell de Tamarit,230000,2,92
-Chalet,Calle del espigol,160000,3,91
-Piso,Nou Eixample Nord,190000,4,160
-Piso,Calle del País Basc,153000,3,74
-Casa Rural,Calle Major,205000,4,35
-Casa Rural,Camino de la colada mayor s/n,215000,7,300
-Piso,Carretera de Domènec Sugrañes i Gras 22,173150,2,69
-Chalet,barrio Centro,340000,3,97
-Piso,Carretera de Domènec Sugrañes i Gras 22,208900,3,113
-Chalet,Calle Freixa,204000,3,220
-Piso,Nou Eixample Nord,190000,4,138
-Piso,Avenida de la Diputació 93,199000,4,138
-Chalet,Calle Foixarda,1500000,5,323
-Casa Rural,Calle Major,205000,4,35
-Piso,Calle d'Antoni Gaudí,113050,3,119
-Piso,Carretera de Domènec Sugrañes i Gras 22,173150,2,79
-Casa Rural,Camino de la colada mayor s/n,215000,7,300
-Chalet,Residencial,249000,4,136
-Piso,Plaza catalunya 9,108000,1,38
-Chalet,Avenida Cinquena Avinguda,600000,3,740
-Piso,Calle Mas dels Cups,126000,3,150
-Chalet,Costa Cunit - Els Jardins - Els Rosers,225000,8,600
-Chalet,Via sense nom,220000,3,120
-Chalet,Residencial,249000,4,142
-Chalet,Calle Perseo,279000,3,117
-Duplex,Calle de Comte 16,260000,2,64
-Ático,Anoia 26 3ºE,420000,2,64
-Piso,Avenida Catalunya,215000,4,132
-Piso,Carrer de Joan Salvat i Bové 7,259000,3,50
-Piso,Avenida de Barcelona,120000,3,60
-Chalet,Calle del Ter,238350,3,266
-Piso,palfuriana s/n,229000,3,90
-Piso,Calle Baixador,135000,2,77
-Piso,Calle dels Replanells 1,115000,1,60
-Piso,Calle Miño 5,260000,3,88
-Piso,Carrer de Joan Salvat i Bové 7,202000,2,50
-Piso,Carrer de Joan Salvat i Bové 7,215000,2,50
-Piso,Calle de Pau Casals 27,310000,3,95
-Piso,Sant Francesc 9,91950,2,55
-Piso,muralla,120000,1,43
-Chalet,Calle Plana d'en Berga,609000,4,400
-Piso,Calle Miño 5,295000,3,87
-Piso,Calle d'Hipòlit Lázaro 22,125000,1,50
-Chalet,barrio Els Ametllers,1675000,5,849
-Piso,Calle de l'Estany 7,170000,3,500
-Piso,Calle de l'Estany 7,170000,3,500
-Casa Rural,Calle Major,205000,4,35
-Chalet,bessona,399000,3,115
-Piso,Avenida de Sant Bernat Calbó,136000,3,99
-Piso,Calle de la Rocaplana 2,230000,3,30
-Piso,Paseo francesc macia,285000,3,109
-Chalet,El Tancat - Mas d'en Gual,364000,4,30
-Chalet,pollacra,390000,3,800
-Casa Rural,Calle Major,205000,4,35
-Piso,Avenida Esglesia s/n,125000,2,63
-Piso,Calle de Sant Ferran,155000,4,83
-Piso,Sant Jordi-Babilonia,185000,3,118
-Piso,Residencial,145000,2,82
-Piso,barrio Segur Platja,146000,2,69
-Casa Rural,Calle Major,205000,4,35
-Chalet,Calle Major 16,37000,3,108
-Chalet,Avenida de Navarra,198000,4,20
-Piso,Avenida Sant Joan de Déu 98,199000,2,78
-Piso,Calle de la Rocaplana 2,225000,3,20
-Ático,Calle de Mar 13,210000,3,25
-Piso,Calle Enrico Carusso 35,173000,2,70
-Piso,Calle de Josep Vicenç Foix 17,100000,2,900
-Chalet,CL BAIX 4,190000,3,119
-Piso,Calle dels Caputxins s/n,175000,3,100
-Chalet,caravella,350000,3,650
-Chalet,Reis d'Aragó,940000,5,188
-Chalet,Calle Bonavista 43715 1066,160000,4,2000
-Chalet,CL CAMI DE STA COLOMA 2,155000,3,123
-Chalet,cl clavari 8,80000,4,138
-Chalet,barrio Valldemar - Montmar,165000,4,130
-Piso,Calle Miracle 75,60000,2,00
-Piso,Calle dels Velers 1,339000,4,141
-Piso,c/les sardanes,88000,3,116
-Chalet,Calle del Vallès,365000,4,700
-Chalet,GARROFERS 42,232300,4,502
-Piso,Plaza d'Europa 3,100000,1,41
-Chalet,Calle del Pou 51,260000,6,207
-Chalet,Plaza dels arbres s/n,89000,2,135
-Chalet,Avenida del Sagrat Cor 34,450000,9,4380
-Piso,abadia 5,62000,2,60
-Ático,Avenida de Sant Bernat Calbó 37,262000,3,97
-Casa Rural,BARROIG 43490 VILAVERD [TARRAGONA] s/n,145000,4,170
-Chalet,CL CANOS D'EN 6 6,25000,3,115
-Chalet,Calle de la Vía Láctea 66,160000,3,107
-Piso,Calle Ventura Gassol 16,138000,1,50
-Chalet,Austria,249000,4,150
-Casa Rural,Calle Sant Marçal s/n,48000,4,131
-Ático,Avenida de Sant Bernat Calbó 37,262000,3,118
-Chalet,Plaza dels arbres s/n,89000,2,135
-Piso,c/les sardanes,88000,3,116
-Chalet,CL CAMI DE STA COLOMA 2,155000,3,123
-Chalet,Calle de la Vía Láctea 66,160000,3,88
-Chalet,Calle major 112,44000,8,223
-Chalet,Calle Miravet s/n,290000,4,386
-Piso,Calle Miracle 75,60000,2,00
-Casa Rural,LAS CENIAS GARCIA [TARRAGONA] s/n,170000,4,9798
-Piso,Paseo del Mediterrani,345000,3,120
-Chalet,castell almansa,470000,6,50
-Chalet,Calle Bonavista 43715 1066,160000,4,2000
-Chalet,MAS BORRAS s/n,239900,4,243
-Chalet,Calle miguel angel blanco,620000,4,670
-Chalet,ADRIA GUAL 4,490000,7,664
-Piso,Paseo del Mediterrani,345000,3,10
-Chalet,MOSSEN ESTEVE FONT 24,254000,5,166
-Chalet,Calle Josep Guardiola,190000,4,362
-Piso,COMERÇ 9,110000,2,68
-Casa Rural,Calle Major s/n,74000,6,330
-Chalet,barrio Mar Cambrils,565000,3,05
-Piso,El Tancat - Mas d'en Gual,121000,4,126
-Ático,SEGARRA 13,134840,3,61
-Piso,Avenida Parlament de Catalunya 3,125000,3,115
-Chalet,FOIX 65,139900,4,179
-Chalet,churruca 9,84000,4,132
-Chalet,OLIVERES 7,177000,3,76
-Chalet,Calle Camèlies,650000,5,180
-Chalet,Avenida ESPAÑA 156,233900,4,127
-Chalet,Boscos de Valls s/n,545000,10,13337
-Chalet,PABLO PICASSO s/n,524990,5,65
- 28,877260468,Calle Carrerada 43423 Pira,28,617
-Chalet,de la vila s/n,60000,4,138
-Chalet,CASTELLO 13,188000,3,90
-Piso,GARROTXA 6,174990,3,113
-Piso,Calle Fra Antoni Cardona i Grau 7,279990,4,149
-Chalet,Ronda d'Altafulla,305000,3,100
-Piso,Paseo del Mediterrani,345000,3,10
-Chalet,CASTELLO 13,188000,3,90
-Piso,Joan Miró,210000,3,96
-Chalet,Mas Romeu,340000,4,142
-Casa Rural,Desconocido 4 E,450000,6,8963
-Chalet,churruca 9,84000,4,143
-Chalet,PENEDES 72,210000,4,60
- 28,877260468,Calle Carrerada 43423 Pira,28,402
-Casa Rural,Calle Major s/n,74000,6,330
-Chalet,Calle Josep Guardiola,190000,4,362
-Chalet,montall,199000,4,130
-Chalet,PABLO PICASSO s/n,524990,5,65
-Chalet,Calle Alentorn Ballester s/n,460000,5,678
-Chalet,Calle Germà Saperas s/n,140000,2,156
-Piso,Avenida Parlament de Catalunya 3,125000,3,103
-Chalet,CASTELL 94,180000,3,99
-Chalet,Boscos de Valls s/n,545000,10,13337
-Chalet,Avenida de Viena,280000,4,152
-Piso,Calle de Berlín,89000,1,56
-Piso,Avenida Juan Sebastián Bach,300000,2,72
-Piso,Calle de Frederic Marès,127000,1,35
-Piso,Calle de Francesc Moragas i Barret,160000,3,80
-Piso,Calafell Pueblo,104000,2,64
-Piso,Platja Calafell,149000,3,112
-Piso,Platja Calafell,239000,3,80
-Ático,barrio Nucli Urbà,135000,1,44
-Chalet,Calle de Santiago Rusiñol,519000,5,176
-Piso,barrio Segur Platja,130000,2,78
-Piso,Comte 16,250000,3,84
-Chalet,Calle de les Rengles Llargues 4,320000,4,249
-Piso,Carretera del Far,115000,1,58
-Piso,Calle del Nord,119000,1,56
-Piso,Camino de Riudoms,169999,3,86
-Chalet,Nou Eixample Nord,575000,4,70
-Chalet,barrio El Dorado Platja,450000,3,53
-Piso,Comte 16,240000,3,82
-Chalet,COMARRUGA s/n,395000,5,241
-Piso,Calle de Brussel·les,209999,2,63
-Piso,Camino de Riudoms,169999,3,105
-Piso,Platja Calafell,149000,3,95
-Piso,Avenida l'Ametlla de Mar 1,129000,2,78
-Chalet,Calle de Sant Joan 12,75000,4,154
-Piso,Carretera del Far,115000,1,42
-Ático,barrio Nucli Urbà,135000,1,46
-Chalet,Nou Eixample Nord,575000,4,70
-Chalet,Calle de les Rengles Llargues 4,320000,4,249
-Piso,Platja Calafell,149000,3,83
-Piso,Montsià de Mar,101000,2,77
-Piso,Platja Calafell,239000,3,80
-Piso,Calle del Nord,119000,1,54
-Chalet,Urbanitzacions de Llevant,420000,4,158
-Piso,barrio Segur Platja,149000,3,87
-Chalet,barrio Nucli Urbà,239000,3,86
-Piso,Calle de l'Arquitecte Ubach,196000,3,102
-Chalet,Calafell Pueblo,278000,4,140
-Piso,Calle Garraf,129900,3,105
-Piso,Plaza de Catalunya,108000,1,38
-Chalet,El Tancat - Mas d'en Gual,589000,5,193
-Chalet,Bonavista,289000,4,138
-Chalet,barrio Nucli Urbà,285000,4,22
-Chalet,Centro,205000,3,600
-Chalet,Albinyana,124000,3,87
-Chalet,Calle Montsià-la Móra,299000,6,211
-Chalet,El Tancat - Mas d'en Gual,149500,3,97
-Chalet,La Franquesa,170000,3,96
-Chalet,La Franquesa,170000,3,97
-Chalet,La Franquesa,270000,5,743
-Piso,Platja Calafell,415000,4,1400
-Chalet,Costa Cunit - Els Jardins - Els Rosers,245000,3,103
-Chalet,La Bisbal del Penedès,169900,3,100
-Piso,Centre,130000,2,76
-Chalet,barrio Nucli Urbà,185000,3,24
-Piso,barrio Nucli Urbà,158000,3,84
-Chalet,La Bisbal del Penedès,164000,4,143
-Piso,barrio Segur Platja,119000,2,85
-Chalet,Les Tres Cales,265000,4,107
-Chalet,barrio Nucli Urbà,290000,4,140
-Piso,Calle Garraf,129900,3,95
-Chalet,La Bisbal del Penedès,164000,4,143
-Piso,Calle Garraf,129900,3,117
-Chalet,Mas Mel - Bellamar,488000,4,138
-Piso,Calafell Pueblo,158000,3,110
-Chalet,barrio Nucli Urbà,290000,4,138
-Piso,Bonavista,450000,2,64
-Chalet,Albinyana,124000,3,117
-Piso,Avenida Andorra 13 A 4 2,160000,4,134
-Piso,Mendez Nuñez,375000,5,218
-Casa Rural,Camarles,268000,3,22500
-Piso,Calle de Logronyo,139000,2,3000
-Chalet,El Tancat - Mas d'en Gual,589000,5,193
-Piso,Plaza de Catalunya,108000,1,38
-Chalet,Riudecanyes,800000,9,1100
-Chalet,Calle Montsià-la Móra,299000,6,249
-Chalet,Albinyana,120000,5,156
-Chalet,Calle del Doctor Ramon i Cajal 59,272000,3,33
-Chalet,barrio Nucli Urbà,339000,3,160
-Piso,Can Toni,140000,2,63
-Chalet,vallespir,219000,3,180
-Piso,Calle de Logronyo 8,139000,2,3000
-Piso,Avenida de la Diputació 150,320000,3,106
-Ático,Prat de Cunit,260000,3,108
-Chalet,Cap Salou,330000,4,127
-Chalet,El Tancat - Mas d'en Gual,285000,4,126
-Piso,Calle Pablo Neruda 15,92000,2,70
-Piso,Bonavista,141000,2,6
-Chalet,Casalot,510000,3,104
-Piso,Calle Miracle 75,60000,2,00
-Chalet,barrio Les Brises de Calafell - Segur de Dalt,320000,5,188
-Piso,barrio Segur Platja,170000,3,10
-Piso,Cunit Diagonal,147900,3,89
-Piso,Calle del Roine 1,374000,4,108
-Piso,Calle d'Àngel Guimerà 5,150000,3,8
-Chalet,Calle Miguel Angel 11,620000,4,139
-Piso,Prat de Cunit,246000,3,30
-Chalet,barrio Nucli Urbà,274000,4,80
-Chalet,La Secuita,495000,6,1158
-Chalet,El Catllar,330000,5,181
-Chalet,Calle islandia 1,190000,4,95
-Piso,Calle Miracle 75,60000,2,00
-Chalet,El Catllar,330000,5,190
-Chalet,Platja de Mont-Roig,200000,3,102
-Piso,Calle Pablo Neruda 15,92000,2,67
-Piso,Carretera de Valls 58,128500,2,68
-Piso,Calle de Logronyo 8,139000,2,3000
-Chalet,Calle Miguel Angel 11,620000,4,136
-Piso,barrio Segur Platja,117000,1,44
-Piso,Calle Pablo Neruda 15,92000,2,72
-Piso,Calle d'Antoni de Bofarull,159900,3,117
-Piso,Peñiscola,94500,3,100
-Piso,Paseo jaume 1,129950,1,34
-Piso,Calle de la Verge del Camí,120000,4,112
-Casa Rural,Calle Poligono 39 53,180000,2,80
-Chalet,Calle de la Marinada,535000,5,171
-Chalet,Miquel Àngel,1375000,7,283
-Piso,Diputació s/n,116000,1,52
-Piso,Plaza Pessebre 1,325000,3,26
-Piso,Avenida de la Diputació 128,300000,2,75
-Piso,Calle de l'Esparver,192000,3,113
-Piso,París 15,165000,2,60
-Chalet,Calle lluís domènech i montaner 13,620000,4,180
-Chalet,Calle de la Sínia,265000,5,80
-Piso,Avenida França 70,175000,3,92
-Duplex,Calle de la Punta del Cavall 55,260000,4,64
-Piso,Avenida de la Cossetània 22,185000,2,400
-Piso,Avenida de la Cossetània 22,185000,2,400
-Piso,Avenida Josep Maria Sentís s/n,139000,4,121
-Chalet,Calle Mestral 10,270000,4,136
-Piso,Calle Isabel Vilella,85000,2,70
-Piso,Calle del Llobregat,115000,3,76
-Piso,Av de Jaume l s/n,95000,2,72
-Piso,Avenida de la Cossetània 75,210000,3,2200
-Piso,Calle Escultor Figueras 27,120000,4,124
-Piso,Miramar 84,185000,2,36
-Piso,Calle Tresmall 8,80000,2,67
-Chalet,Calle Gabarres 19,340000,5,166
-Piso,Calle de la Cala de la Font 33,120000,1,12
-Piso,Calle del Pou,260000,6,226
-Piso,Calle de la Verge del Pilar 7,185000,2,13
-Chalet,Carretera de Alcolea s/n,315000,4,156
-Chalet,Calle Gabarres 19,340000,5,187
-Piso,Lleida s/n,149000,2,63
-Piso,Calle de Brussel·les 16,377000,3,108
-Chalet,Calle Murada de Baix 45,22000,2,68
-Piso,Calle de la Verge del Pilar 7,185000,2,13
-Piso,Calle de la Verge del Pilar 7,220000,3,81
-Piso,Plaza Sant Cristòfol,189000,4,123
-Piso,Avenida de la Cossetània 22,185000,2,400
-Chalet,Calle de rifà 1,850000,4,300
-Piso,ESCORXADOR,162490,4,120
-Chalet,Plaça Europa i Covamar,1600000,4,122
-Piso,Avenida de la Cossetània 75,210000,3,2200
-Piso,Avenida França 70,175000,3,115
-Piso,Avenida Josep Maria Sentís s/n,139000,4,146
-Chalet,Calle del Doctor Ramon i Cajal 59,272000,3,33
-Piso,Calle de la Cala Crancs 3,145000,2,69
-Piso,Calle Pablo Neruda 15,92000,2,60
-Piso,Calle Isabel Vilella,85000,2,69
-Piso,Avenida Muntanyeta 2,129000,3,111
-Chalet,Calle Mestral 10,270000,4,150
-Piso,Calle del Bou s/n,117000,3,89
-Casa Rural,Masdenverge,67000,1,83
-Piso,Calle del Pou,260000,6,250
-Chalet,Diseminat,620000,7,264
-Chalet,Via sense nom 11,410000,4,127
-Piso,Ciudad de Reus,229000,4,20
-Piso,Miramar 84,185000,2,36
-Piso,Avenida de la Cossetània 22,185000,2,400
-Chalet,Calle Jaume I,84000,4,134
-Chalet,Calle Sants Màrtirs 20,39000,3,114
-Piso,Carretera Simpàtica,65500,2,68
-Piso,Calle Gaudí s/n,139000,3,88
-Piso,Avenida Espanya 54,189000,3,45
-Piso,Calle de la Cala de la Font 33,120000,1,12
-Chalet,Calle de la Punta del Banc,186000,3,101
-Ático,Via Tarragona - Salou,250000,3,86
-Chalet,Camino CAMÍ DE VALLS,295000,5,194
- 1,877260592,Creus,1,60
-Casa Rural,Plaza hospital,53000,5,170
-Estudio,Avenida de la Diputació 175,110000,0,31
-Piso,Calle del General Moragues 76,210000,4,105
-Chalet,Calle de l hort s/n,270000,4,240
-Chalet,Capricorn 7,221000,4,631
-Piso,Avenida Josep Maria Sentís 12,129900,4,112
-Piso,Calle Roger de Llúria,168000,3,86
-Piso,Tivoli 9,175000,3,103
-Chalet,Avenida d'Enric Borràs 43,320000,4,122
- 1,877260592,Creus,1,53
-Piso,Avenida de la Cossetània 22,185000,2,400
-Piso,Calle Pirineus,190000,3,107
-Piso,Bloc Sant Jordi,110000,2,60
-Chalet,Metge Curco,160000,6,30
-Piso,Calle Eivissa 6,173000,3,95
-Piso,Calle de les Flors,220000,4,124
-Duplex,TERESA DE CALCUTA,265000,3,117
-Chalet,Cap Roig 6,690000,4,50
-Chalet,Calle de l'Ermita,295000,4,125
-Piso,Plaza d'Europa,100000,1,41
-Piso,Calle Tarragona 32,279000,4,131
-Chalet,cl nou,78000,3,139
-Chalet,avellaners s/n,590000,5,450
-Ático,Calle d'Hortensi Güell,190000,3,113
-Chalet,Tallats s/n,650000,6,224
-Chalet,Calle d' Avall,90000,4,342
-Chalet,Avenida Montclar 146,359900,3,312
-Piso,Calle València 108,180000,2,67
-Chalet,Calle de la Serra de Llaveria 15,399000,7,283
-Chalet,Calle Sant Llorenç,107500,5,200
-Chalet,Calle Sant Lluc 11,70000,3,85
-Piso,Calle d'Amadeu Vives 22,225000,3,132
-Ático,Avenida Espanya,135000,1,56
-Casa Rural,Plaza hospital,53000,5,166
-Piso,Paseo de Mata,176000,4,147
-Piso,Raval de Martí Folguera,179000,2,63
-Chalet,Calle de l'Albiol s/n,549000,4,1000
-Duplex,Onze de Setembre 5,179000,3,93
-Casa Rural,Via sense nom,59500,2,67
-Piso,Avenida de la Cossetània 22,185000,2,400
-Chalet,Calle Violeta 35,237000,5,190
+Tipo de inmueble,Dirección,Precio,Habitaciones,m2,Provincia,C. Autónoma
+Ático,Calle de Barcelona 98,365000,5,196,Tarragona,Cataluña
+Piso,Plaza de Venus 2,165000,3,99,Tarragona,Cataluña
+Piso,Calle de la Muntanya 5,147000,2,59,Tarragona,Cataluña
+Piso,Calle de Cambrils 22,199000,3,117,Tarragona,Cataluña
+Piso,Paseo de Miramar 10,229000,2,63,Tarragona,Cataluña
+Ático,Calle de Tarragona,390000,4,123,Tarragona,Cataluña
+Piso,Paseo de Jaume I 35,240000,2,67,Tarragona,Cataluña
+Chalet,Foixarda s/n,1680000,4,139,Tarragona,Cataluña
+Duplex,Calle Ebre,340000,3,65,Tarragona,Cataluña
+Piso,Calle Major 23,160000,3,107,Tarragona,Cataluña
+Piso,Calle Canigó 11,210000,2,6,Tarragona,Cataluña
+Chalet,barrio Vilafortuny,1375000,5,177,Tarragona,Cataluña
+Chalet,barrio Mar Cambrils,1300000,4,144,Tarragona,Cataluña
+Chalet,barrio Els Ametllers,785000,4,128,Tarragona,Cataluña
+Piso,Calle del Nord 12,119000,1,42,Tarragona,Cataluña
+Piso,Calle de la Cala Morisca 5,220000,2,64,Tarragona,Cataluña
+Piso,Calle de Lleida 16,155000,1,58,Tarragona,Cataluña
+Piso,Calle de Colón 15,290000,2,60,Tarragona,Cataluña
+Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,64,Tarragona,Cataluña
+Piso,Calle de París,176000,1,50,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,750000,4,740,Tarragona,Cataluña
+Piso,Calle del Roine 1,374000,4,108,Tarragona,Cataluña
+Piso,Calle de l'Esparver,215000,3,112,Tarragona,Cataluña
+Chalet,Calle Castell de Siurana,288000,4,229,Tarragona,Cataluña
+Piso,Calle de l'Arquitecte Ubach,254500,3,118,Tarragona,Cataluña
+Piso,Calle de Cambrils,160000,3,137,Tarragona,Cataluña
+Piso,Calle de Mont-roig,195000,2,67,Tarragona,Cataluña
+Piso,Calle de la Costa Daurada 5,142000,2,75,Tarragona,Cataluña
+Piso,Calle la Garrotxa,175000,3,115,Tarragona,Cataluña
+Duplex,Els Munts,650000,5,183,Tarragona,Cataluña
+Piso,Calle de les Balears,166000,2,79,Tarragona,Cataluña
+Ático,Paseo Marítim de Sant Joan de Déu 55,319000,3,102,Tarragona,Cataluña
+Piso,Plaza de Celdoni Vilà i Torroja,225000,3,83,Tarragona,Cataluña
+Chalet,Camino de Riudoms,280000,6,228,Tarragona,Cataluña
+Piso,Calle de Jaume I,122000,3,119,Tarragona,Cataluña
+Piso,Calle dels Caputxins,175000,3,92,Tarragona,Cataluña
+Ático,Hermen Cortasa,166500,3,119,Tarragona,Cataluña
+Piso,Tarragona,130000,2,68,Tarragona,Cataluña
+Piso,Tarragona,130000,2,68,Tarragona,Cataluña
+Piso,Tramuntana 6,245000,3,96,Tarragona,Cataluña
+Piso,Avenida de la Cossetània,485000,3,117,Tarragona,Cataluña
+Piso,Calle de Cristòfor Colom,160000,2,64,Tarragona,Cataluña
+Chalet,barrio Els Ametllers,1675000,5,800,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,845000,7,478,Tarragona,Cataluña
+Chalet,barrio Vilafortuny,3995000,5,166,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,1465000,4,130,Tarragona,Cataluña
+Chalet,barrio Vilafortuny platja,1295000,3,120,Tarragona,Cataluña
+Chalet,Casalot,765000,4,151,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu,205000,2,77,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 25,313000,3,107,Tarragona,Cataluña
+Piso,Avenida Pintor Tapiró 4,190000,4,128,Tarragona,Cataluña
+Chalet,Conflent,420000,5,215,Tarragona,Cataluña
+Chalet,Calle Alt del Carme,284000,12,343,Tarragona,Cataluña
+Piso,C Hort del Nap,165000,3,86,Tarragona,Cataluña
+Piso,Avenida de la Llosa 8,365000,3,108,Tarragona,Cataluña
+Chalet,Calle de la Marinada,269000,4,155,Tarragona,Cataluña
+Piso,Calle Josep Anselm Clavé,185000,3,85,Tarragona,Cataluña
+Piso,Calle de Sant Adrià,150000,3,113,Tarragona,Cataluña
+Piso,Via Roma,175000,4,136,Tarragona,Cataluña
+Chalet,Mas Mel - Bellamar,280000,3,91,Tarragona,Cataluña
+Piso,Salou de Llevant,360000,3,17,Tarragona,Cataluña
+Chalet,Calle de Cebrià de Montoliu,625000,4,126,Tarragona,Cataluña
+Chalet,Calle de les Flors,320000,5,300,Tarragona,Cataluña
+Duplex,Tràngol,580000,4,76,Tarragona,Cataluña
+Chalet,Residencial,315000,4,40,Tarragona,Cataluña
+Piso,Can Toni,149900,2,76,Tarragona,Cataluña
+Chalet,Coma-Ruga,235000,3,97,Tarragona,Cataluña
+Chalet,Els Masos,199900,3,103,Tarragona,Cataluña
+Chalet,Mas Mel - Bellamar,499000,5,669,Tarragona,Cataluña
+Casa Rural,Centre,1000000,3,38,Tarragona,Cataluña
+Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,71,Tarragona,Cataluña
+Piso,Calle Llevant,159000,2,65,Tarragona,Cataluña
+Piso,Calle de Josep Carner,210000,3,112,Tarragona,Cataluña
+Ático,Calle de Madrid 19,290000,3,85,Tarragona,Cataluña
+Piso,Calle dels Indians,110000,3,80,Tarragona,Cataluña
+Piso,Calle del Riu Glorieta 18,290000,3,82,Tarragona,Cataluña
+Piso,Calle del Bisbe Grau,150000,3,118,Tarragona,Cataluña
+Piso,Platja Calafell,79900,1,41,Tarragona,Cataluña
+Piso,Avenida de Prat de la Riba 7,178900,3,92,Tarragona,Cataluña
+Piso,Calle dels Antiquaris,139000,4,123,Tarragona,Cataluña
+Piso,Centre,97260,3,108,Tarragona,Cataluña
+Piso,Avenida Sant Joan de Déu,468000,4,133,Tarragona,Cataluña
+Piso,Calle de Guillem de Montcada 20,160000,2,66,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,1450000,6,234,Tarragona,Cataluña
+Piso,Calle de Guillem de Montcada 20,160000,2,80,Tarragona,Cataluña
+Piso,Avenida de la Llosa,335000,3,91,Tarragona,Cataluña
+Piso,Paseo de Francesc Macià 2,148000,2,71,Tarragona,Cataluña
+Piso,Calle del Francolí 10,210000,3,84,Tarragona,Cataluña
+Ático,Calle de Madrid 19,290000,3,110,Tarragona,Cataluña
+Chalet,Calle Ramon Casas 19,350000,4,131,Tarragona,Cataluña
+Ático,Avenida barcelona s/n,409000,4,150,Tarragona,Cataluña
+Piso,Calle de la Falconera,349700,3,112,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,330000,4,154,Tarragona,Cataluña
+Piso,Calle de Sant Joan 40,185000,3,82,Tarragona,Cataluña
+Duplex,Calle del Riu Glorieta 8,340000,3,117,Tarragona,Cataluña
+Duplex,Calle del Camí del Racó,210000,3,117,Tarragona,Cataluña
+Piso,Via Augusta 9,239000,3,90,Tarragona,Cataluña
+Piso,Calle del Riu Glorieta 18,290000,3,94,Tarragona,Cataluña
+Piso,Calle de Maria Castillo,199000,2,75,Tarragona,Cataluña
+Ático,Calle de Frederic Mompou 10,312000,3,82,Tarragona,Cataluña
+Piso,Calle d'Antoni Gaudí 13,179700,4,157,Tarragona,Cataluña
+Piso,Calle Joan Fuster 15,370000,3,118,Tarragona,Cataluña
+Chalet,Calle Mirador s/n,625000,4,160,Tarragona,Cataluña
+Chalet,Calle del Camí Vell de Salou,230000,4,156,Tarragona,Cataluña
+Piso,Calle de Guillem de Montcada,171000,3,109,Tarragona,Cataluña
+Chalet,barrio Els Tallets - Mas Olivé,350000,4,269,Tarragona,Cataluña
+Piso,Plaza de la Llibertat,270000,5,177,Tarragona,Cataluña
+Piso,Cap Salou,220000,2,70,Tarragona,Cataluña
+Piso,Sant Pere i Sant Pau,215000,2,75,Tarragona,Cataluña
+Piso,Port,148000,2,66,Tarragona,Cataluña
+Piso,Barenys,199000,3,107,Tarragona,Cataluña
+Chalet,Calle Terra Ferma,1480000,6,217,Tarragona,Cataluña
+Chalet,Calle garrofers 7,415000,3,170,Tarragona,Cataluña
+Piso,Calle madrid 2,159000,2,81,Tarragona,Cataluña
+Piso,Calle del Camí de Tarragona 39,138000,3,94,Tarragona,Cataluña
+Piso,Calle Alt de Sant Pere 1,164500,3,96,Tarragona,Cataluña
+Ático,pere ceremonios 13,168000,6,149,Tarragona,Cataluña
+Piso,Calle del Doctor Robert 20,189900,4,129,Tarragona,Cataluña
+Piso,Avenida França 27,130000,2,53,Tarragona,Cataluña
+Chalet,Calle Altafulla 8,275000,5,256,Tarragona,Cataluña
+Ático,Plaza de Joan Rebull 2,637000,5,200,Tarragona,Cataluña
+Piso,Baix camp 2,208000,3,110,Tarragona,Cataluña
+Piso,esglesia nova 111,173000,2,80,Tarragona,Cataluña
+Piso,Santa Barbara 6,119000,2,63,Tarragona,Cataluña
+Duplex,Fundadors 86,138000,2,64,Tarragona,Cataluña
+Piso,Avenida Oliveres,215000,3,67,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler 25,149000,3,98,Tarragona,Cataluña
+Piso,torrents ibern,229900,3,117,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler 57,149000,2,60,Tarragona,Cataluña
+Chalet,Calle Terral de Dalt,1100000,6,210,Tarragona,Cataluña
+Chalet,Residencial,475000,4,122,Tarragona,Cataluña
+Piso,Calle del Besòs 2,262000,3,126,Tarragona,Cataluña
+Ático,MONTSANT,95000,3,101,Tarragona,Cataluña
+Piso,Calle d'Antoni Gaudí 40,110000,2,77,Tarragona,Cataluña
+Chalet,Calle Gràcia 50 B,225000,3,174,Tarragona,Cataluña
+Piso,Calle de Poboleda 22,235000,4,14,Tarragona,Cataluña
+Chalet,Calle de Joaquim Sunyer 12,230000,5,418,Tarragona,Cataluña
+Piso,Calle de Ramon J Sender,155000,4,145,Tarragona,Cataluña
+Piso,ANTONI ISERN,169500,3,97,Tarragona,Cataluña
+Chalet,Margarides,590000,5,190,Tarragona,Cataluña
+Chalet,Calle del Moncayo,160000,3,255,Tarragona,Cataluña
+Piso,Calle Mas de l'Abelló,99000,4,130,Tarragona,Cataluña
+Chalet,Calle Ramon Berenguer IV,350000,4,269,Tarragona,Cataluña
+Piso,Calle de Tarragona,215700,4,118,Tarragona,Cataluña
+Ático,Calle de Frederic Mompou,585000,4,60,Tarragona,Cataluña
+Piso,LEPANTO,174900,3,118,Tarragona,Cataluña
+Piso,Girona,179900,4,139,Tarragona,Cataluña
+Piso,Avenida de Pere el Cerimoniós,119900,4,103,Tarragona,Cataluña
+Piso,Calle de les Voltes 23,200000,2,69,Tarragona,Cataluña
+Piso,Calle de Cambrils,199000,3,109,Tarragona,Cataluña
+Piso,Calle de Tortosa,133000,2,82,Tarragona,Cataluña
+Ático,Calle de les Voltes 12,220000,3,107,Tarragona,Cataluña
+Piso,Calle Ernest Vilches 1,248900,3,113,Tarragona,Cataluña
+Piso,Calle de Mir i Geribert,155000,3,100,Tarragona,Cataluña
+Piso,Carretera del Far,103000,2,61,Tarragona,Cataluña
+Chalet,Calle de la Guineu,365000,3,120,Tarragona,Cataluña
+Chalet,Calle Santiago Rusiñol,375000,4,141,Tarragona,Cataluña
+Chalet,Nou Eixample Nord,585000,4,129,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,1900000,5,162,Tarragona,Cataluña
+Duplex,Urbanitzacions de Llevant,1250000,5,166,Tarragona,Cataluña
+Ático,Calle Gegants Pere i Carme,315000,3,13,Tarragona,Cataluña
+Piso,urbanización codonyol la paz,125000,2,60,Tarragona,Cataluña
+Chalet,Calle Gabarres 19,340000,5,188,Tarragona,Cataluña
+Duplex,AvCodonyol,146000,3,88,Tarragona,Cataluña
+Piso,Avenida Montsia Mar 2,96000,2,60,Tarragona,Cataluña
+Piso,Plaza Cosme Maine 6,98500,3,107,Tarragona,Cataluña
+Chalet,Calle Pablo Picasso,310000,4,133,Tarragona,Cataluña
+Chalet,Avenida Diagonal de la Bonanova,435000,3,105,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler,149000,2,70,Tarragona,Cataluña
+Piso,Calle Robert d'Aguiló 43,325000,3,94,Tarragona,Cataluña
+Piso,Benidorm,160000,4,139,Tarragona,Cataluña
+Chalet,Calle Picos de Europa,330000,4,135,Tarragona,Cataluña
+Chalet,Calle la Garrotxa,338000,4,157,Tarragona,Cataluña
+Piso,Calle Major,160000,3,86,Tarragona,Cataluña
+Chalet,Calle Beethoven,1280000,5,23000,Tarragona,Cataluña
+Piso,Calle del Riu Glorieta,292500,3,98,Tarragona,Cataluña
+Chalet,Calle Oslo,319000,4,251,Tarragona,Cataluña
+Chalet,Calle de Cosse,299000,3,87,Tarragona,Cataluña
+Chalet,Calle de l'Oreneta,490000,5,390,Tarragona,Cataluña
+Chalet,Albània,285000,4,22,Tarragona,Cataluña
+Chalet,Jacint 7,289000,3,40,Tarragona,Cataluña
+Piso,Calle de Rafael Casanova,177500,2,66,Tarragona,Cataluña
+Piso,Calle Canigó 11,268000,3,120,Tarragona,Cataluña
+Chalet,Calle de la Caravel·la,315000,3,12,Tarragona,Cataluña
+Chalet,Travesía de l'Ermita,235000,3,115,Tarragona,Cataluña
+Chalet,Urbanització Alorda Park s/n,395000,4,136,Tarragona,Cataluña
+Chalet,Calle Emilio Jiménez,895000,5,613,Tarragona,Cataluña
+Estudio,Calle del Peix,80000,0,37,Tarragona,Cataluña
+Piso,Calle de Maria Castillo,245000,3,77,Tarragona,Cataluña
+Piso,Calle Tortosa,315000,4,160,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,1145000,5,160,Tarragona,Cataluña
+Piso,Calle Daurada 4,147000,3,91,Tarragona,Cataluña
+Piso,Calle de Pere el Cerimoniós 68,139900,5,115,Tarragona,Cataluña
+Piso,Nucli Antic,117000,3,5,Tarragona,Cataluña
+Piso,Calle Daurada 4,147000,3,102,Tarragona,Cataluña
+Piso,Centre,190000,2,67,Tarragona,Cataluña
+Piso,Calle de Lluís Companys 92,125000,2,76,Tarragona,Cataluña
+Piso,Calle Holanda,146500,3,87,Tarragona,Cataluña
+Piso,Calle de Santiago Rusiñol 1,325000,3,116,Tarragona,Cataluña
+Chalet,Urbanització Alorda Park s/n,375000,4,152,Tarragona,Cataluña
+Chalet,barrio Jardins de Vilafortuny - Más d'en Bosch,770000,4,123,Tarragona,Cataluña
+Piso,Avenida Catalunya,185000,3,137,Tarragona,Cataluña
+Piso,ferran de querol,90000,1,45,Tarragona,Cataluña
+Piso,Avenida Catalunya,179000,3,87,Tarragona,Cataluña
+Chalet,Calle Miramar,199000,3,115,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,1700000,6,561,Tarragona,Cataluña
+Piso,Residencial,119000,2,55,Tarragona,Cataluña
+Piso,Calle de Tramuntana 6,149500,2,74,Tarragona,Cataluña
+Piso,Calle del Rin,160000,3,96,Tarragona,Cataluña
+Chalet,Calle de la Martineta,299000,4,141,Tarragona,Cataluña
+Chalet,Calle Amadeus Mozart s/n,238500,4,323,Tarragona,Cataluña
+Ático,barrio Segur Platja,225000,5,163,Tarragona,Cataluña
+Piso,Avenida França,104000,1,59,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea 66,160000,3,112,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea 66,160000,3,95,Tarragona,Cataluña
+Chalet,Calderon de la Barca 4,358000,4,138,Tarragona,Cataluña
+Piso,Carrerada ďen Ralet 14,179000,2,49,Tarragona,Cataluña
+Estudio,Calle del Vendrell,79500,0,30,Tarragona,Cataluña
+Piso,Calle de Francesc Bastos 3,205000,3,73,Tarragona,Cataluña
+Piso,Calle Holanda 19,125000,2,56,Tarragona,Cataluña
+Piso,Avenida del Doctor Eduard Punset 3,174500,2,75,Tarragona,Cataluña
+Piso,Calle del Xúquer 4,169000,3,104,Tarragona,Cataluña
+Chalet,Calle de l'Olivera 4,330000,4,133,Tarragona,Cataluña
+Piso,Camino del raco 6,155000,2,78,Tarragona,Cataluña
+Chalet,Calle Vall de Sant Marc,275000,4,148,Tarragona,Cataluña
+Chalet,Calle Menorca,649000,5,904,Tarragona,Cataluña
+Piso,barrio Segur Platja,130000,2,61,Tarragona,Cataluña
+Ático,Calle de la Punta del Cavall 82,198000,2,80,Tarragona,Cataluña
+Piso,girona,130000,1,45,Tarragona,Cataluña
+Chalet,Eixample Residencial,645000,4,550,Tarragona,Cataluña
+Piso,Calle de la Baixada Platja Cristall,210000,2,80,Tarragona,Cataluña
+Piso,Calle del Doctor Cuchi,200000,3,105,Tarragona,Cataluña
+Chalet,Migjorn,1985000,6,227,Tarragona,Cataluña
+Chalet,Calafell Residencial,289000,4,65,Tarragona,Cataluña
+Piso,Calle de Vilamar,175000,3,108,Tarragona,Cataluña
+Piso,Plaza Pessebre 1,325000,3,26,Tarragona,Cataluña
+Chalet,Barqueres 14,287500,3,95,Tarragona,Cataluña
+Piso,Plaza Pessebre 1,325000,3,26,Tarragona,Cataluña
+Piso,Calle MILENARI 5,221900,4,98,Tarragona,Cataluña
+Chalet,Calle Doctor Pagès,435000,3,96,Tarragona,Cataluña
+Chalet,Calle de Vallbona 7,368800,5,210,Tarragona,Cataluña
+Chalet,Calle Murillo 28,249900,3,20,Tarragona,Cataluña
+Piso,Avenida dels Països Catalans 11 A,180000,2,74,Tarragona,Cataluña
+Piso,Calle Tenerife 1,118000,3,106,Tarragona,Cataluña
+Piso,CASTELL DE TONA 20,224900,2,20,Tarragona,Cataluña
+Chalet,Avenida Blauet 12,410000,4,137,Tarragona,Cataluña
+Chalet,Calle Doctor Pagès,435000,3,111,Tarragona,Cataluña
+Chalet,Avenida Espanya 313,276000,3,91,Tarragona,Cataluña
+Piso,Calle de Lleida 1,184000,3,88,Tarragona,Cataluña
+Piso,Calle de les Barqueres 16,239900,3,108,Tarragona,Cataluña
+Piso,Calle del Peix,119000,2,80,Tarragona,Cataluña
+Piso,Avenida Europa,165500,2,77,Tarragona,Cataluña
+Chalet,Calle Estats Units,269000,4,127,Tarragona,Cataluña
+Piso,Avenida Sant Joan de Déu,495000,3,120,Tarragona,Cataluña
+Chalet,Gira-sol,600000,5,178,Tarragona,Cataluña
+Piso,Rambla Nova,230000,3,114,Tarragona,Cataluña
+Chalet,Avenida OLIVERES,600000,3,296,Tarragona,Cataluña
+Piso,Calle Olot,179000,2,73,Tarragona,Cataluña
+Piso,Paseo de Miramar,185000,2,62,Tarragona,Cataluña
+Chalet,Avenida de les Comarques Catalanes,259000,3,116,Tarragona,Cataluña
+Piso,Llevant,220000,2,69,Tarragona,Cataluña
+Chalet,Calle del Vallespir,298000,4,185,Tarragona,Cataluña
+Piso,Nord,210000,3,104,Tarragona,Cataluña
+Chalet,Residencial,302000,3,82,Tarragona,Cataluña
+Ático,Prat de Cunit,260000,3,80,Tarragona,Cataluña
+Chalet,Calle del garrofers,995000,5,1600,Tarragona,Cataluña
+Duplex,Calle dels Indians,165000,2,68,Tarragona,Cataluña
+Piso,angel guimera,250000,4,140,Tarragona,Cataluña
+Chalet,ACACIES,770000,4,570,Tarragona,Cataluña
+Piso,Calle d'Alcover 1,69900,2,70,Tarragona,Cataluña
+Piso,El Tancat - Mas d'en Gual,124900,3,109,Tarragona,Cataluña
+Chalet,Calle Montpaó,499900,6,564,Tarragona,Cataluña
+Piso,Calle Alt de Sant Salvador 7,152500,3,40000,Tarragona,Cataluña
+Chalet,Calle Narcís Oller,459000,3,98,Tarragona,Cataluña
+Piso,Avenida Oliveres,215000,3,30,Tarragona,Cataluña
+Ático,GIRONA,198000,2,62,Tarragona,Cataluña
+Piso,Calle d'Entença 15,125000,3,80,Tarragona,Cataluña
+Chalet,Residencial,315000,4,144,Tarragona,Cataluña
+Chalet,Residencial,266099,5,187,Tarragona,Cataluña
+Ático,Nucli Antic,145000,2,25,Tarragona,Cataluña
+Piso,barrio Segur Platja,140000,3,88,Tarragona,Cataluña
+Piso,Calle Llevant 9,259000,3,110,Tarragona,Cataluña
+Piso,Coma-Ruga,190000,4,145,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,270000,4,143,Tarragona,Cataluña
+Chalet,Calle del Bosc Gran,1390000,6,231,Tarragona,Cataluña
+Piso,Plaza Cosme Maine 6,98500,3,94,Tarragona,Cataluña
+Piso,Bonavista,225000,3,94,Tarragona,Cataluña
+Ático,barrio Nucli Urbà,135000,1,46,Tarragona,Cataluña
+Chalet,Mas Mel - Bellamar,531000,4,234,Tarragona,Cataluña
+Piso,barrio Nucli Urbà,175000,3,87,Tarragona,Cataluña
+Piso,El Tancat - Mas d'en Gual,168421,3,86,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,270000,4,153,Tarragona,Cataluña
+Piso,El Tancat - Mas d'en Gual,124900,3,108,Tarragona,Cataluña
+Chalet,Costa Daurada - Sant Gaietà,260000,3,110,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,159900,2,25,Tarragona,Cataluña
+Piso,Platja Calafell,325000,4,133,Tarragona,Cataluña
+Duplex,Urbanitzacions de Llevant,1250000,5,173,Tarragona,Cataluña
+Piso,Residencial,216000,3,120,Tarragona,Cataluña
+Piso,barrio Nucli Urbà,168000,2,64,Tarragona,Cataluña
+Piso,Coma-Ruga,249000,3,110,Tarragona,Cataluña
+Chalet,victor balaguer,195000,3,584,Tarragona,Cataluña
+Chalet,Can Nicolau - Les Sorres - Valparaiso,255000,4,146,Tarragona,Cataluña
+Chalet,CASTANYER,235000,3,110,Tarragona,Cataluña
+Ático,El Tancat - Mas d'en Gual,165000,4,146,Tarragona,Cataluña
+Piso,Sant Salvador,124900,3,87,Tarragona,Cataluña
+Chalet,La Franquesa,243000,3,109,Tarragona,Cataluña
+Piso,Cap Salou,238000,4,15,Tarragona,Cataluña
+Piso,Centre,156900,3,100,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,299000,5,175,Tarragona,Cataluña
+Chalet,Residencial,639000,5,179,Tarragona,Cataluña
+Ático,Centre,125000,3,106,Tarragona,Cataluña
+Chalet,Bonanova,596000,5,185,Tarragona,Cataluña
+Chalet,Nou Eixample Sud,600000,10,402,Tarragona,Cataluña
+Chalet,Residencial,680000,7,295,Tarragona,Cataluña
+Piso,conca de barberà,145000,3,75,Tarragona,Cataluña
+Piso,Centre,85000,3,106,Tarragona,Cataluña
+Piso,Calle Joan Fuster,370000,3,115,Tarragona,Cataluña
+Piso,Calle del Penedès,155000,3,82,Tarragona,Cataluña
+Piso,Can Nicolau - Les Sorres - Valparaiso,156000,2,67,Tarragona,Cataluña
+Piso,Calle Ernest Vilches,234000,3,109,Tarragona,Cataluña
+Chalet,Centre,344000,6,212,Tarragona,Cataluña
+Piso,Calle de Pierre Vilar,260000,3,108,Tarragona,Cataluña
+Ático,Calle del Romaní,145000,3,88,Tarragona,Cataluña
+Piso,Calle del Mestral,342000,3,91,Tarragona,Cataluña
+Piso,Clarà,255000,2,90,Tarragona,Cataluña
+Piso,Avenida Barcelona,119000,2,85,Tarragona,Cataluña
+Piso,Centre,169680,4,138,Tarragona,Cataluña
+Chalet,Montsià de Mar,330000,4,133,Tarragona,Cataluña
+Chalet,Montsià de Mar,265000,4,142,Tarragona,Cataluña
+Chalet,ramon casas,199000,3,475,Tarragona,Cataluña
+Chalet,Calle de I'Ebre,185000,3,119,Tarragona,Cataluña
+Piso,Barri de la Salut,118000,3,60,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,339000,3,160,Tarragona,Cataluña
+Piso,Mestral,198000,4,25,Tarragona,Cataluña
+Chalet,Calle Pau Casals,675000,4,60,Tarragona,Cataluña
+Chalet,Calle Guilleries s/n,695000,8,310,Tarragona,Cataluña
+Chalet,Calle del Corral de Sauner,640000,5,1000,Tarragona,Cataluña
+Casa Rural,Calle Doctor Josep Gaspa,495000,5,162,Tarragona,Cataluña
+Chalet,del mig 66,495000,4,146,Tarragona,Cataluña
+Chalet,Vall d'Aran s/n,490000,5,170,Tarragona,Cataluña
+Chalet,Margalló s/n,540000,4,300,Tarragona,Cataluña
+Chalet,Bon Recer s/n,750000,5,161,Tarragona,Cataluña
+Chalet,Calle Baix Empordà s/n,890000,4,131,Tarragona,Cataluña
+Chalet,Calle Marinada 11,880000,5,200,Tarragona,Cataluña
+Chalet,Calle Baix Empordà 5,495000,3,100,Tarragona,Cataluña
+Duplex,Calle d'Antibes s/n,628000,4,200,Tarragona,Cataluña
+Piso,Rambla Nova 33,560000,4,129,Tarragona,Cataluña
+Chalet,Cigne s/n,575000,5,193,Tarragona,Cataluña
+Casa Rural,Sant Joan 15,425000,3,116,Tarragona,Cataluña
+Chalet,Marítima Residencial,186000,3,188,Tarragona,Cataluña
+Chalet,Pins,880000,7,1326,Tarragona,Cataluña
+Casa Rural,Mas La Sort,1080000,5,8500,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,342000,4,586,Tarragona,Cataluña
+Casa Rural,Plaza de Jaume el Just,2495000,8,377,Tarragona,Cataluña
+Chalet,Calle Àries,560000,5,172,Tarragona,Cataluña
+Chalet,Calle Major,975000,8,300,Tarragona,Cataluña
+Chalet,Pallaresos (Els),595000,6,1411,Tarragona,Cataluña
+Chalet,Creixell,179000,3,117,Tarragona,Cataluña
+Chalet,Sant Jordi-Babilonia,219000,3,50,Tarragona,Cataluña
+Chalet,Flors s/n,499000,4,431,Tarragona,Cataluña
+Piso,Calle Major 23,160000,3,114,Tarragona,Cataluña
+Piso,Calle Fra Antoni Cardona i Grau s/n,315000,4,140,Tarragona,Cataluña
+Piso,Calle d'Antoni Agustín 1,375000,5,199,Tarragona,Cataluña
+Chalet,Avenida des Til Lers,165000,2,63,Tarragona,Cataluña
+Piso,Calle de Barcelona 96,335000,5,149,Tarragona,Cataluña
+Chalet,Calle de la Mare de Déu del Pilar,330000,4,147,Tarragona,Cataluña
+Piso,Rambla Nova,295000,5,176,Tarragona,Cataluña
+Chalet,Avenida del Canyadell s/n,430000,5,185,Tarragona,Cataluña
+Chalet,Gira-Sol s/n,600000,5,702,Tarragona,Cataluña
+Chalet,Calle Miquel Àngel 11,1375000,4,400,Tarragona,Cataluña
+Chalet,Calle Saragossa 13,25000,3,165,Tarragona,Cataluña
+Casa Rural,Hostal s/n,521000,2,76,Tarragona,Cataluña
+Piso,Calle Llorenç Villalonga s/n,280000,3,109,Tarragona,Cataluña
+Chalet,Joaquin Costa Vespella de Gaià s/n,625000,6,660,Tarragona,Cataluña
+Chalet,Cigonya s/n,590000,5,171,Tarragona,Cataluña
+Chalet,Calle de Pere Badia s/n,1100000,5,633,Tarragona,Cataluña
+Chalet,Calle Pau Casals 2,450000,5,185,Tarragona,Cataluña
+Chalet,Calle d'Antoni Roig s/n,399000,14,553,Tarragona,Cataluña
+Chalet,Dels Pins s/n,750000,4,150,Tarragona,Cataluña
+Piso,Calle de les Cuirateries s/n,145500,3,104,Tarragona,Cataluña
+Piso,Avenida Roma s/n,460000,3,152,Tarragona,Cataluña
+Chalet,Conca de Barbera s/n,485000,4,149,Tarragona,Cataluña
+Chalet,Calle Terra Ferma s/n,1480000,6,247,Tarragona,Cataluña
+Piso,Calle del General Contreras 12 -4,84900,3,111,Tarragona,Cataluña
+Casa Rural,Calle d'en Bosc s/n,980000,17,595,Tarragona,Cataluña
+Piso,Calle de Martí Folguera,246000,5,168,Tarragona,Cataluña
+Piso,Urbanización Rocas Doradas,140000,2,60,Tarragona,Cataluña
+Piso,Calle dels Pescadors,135000,2,76,Tarragona,Cataluña
+Chalet,Calle Nardos,349900,5,195,Tarragona,Cataluña
+Piso,Calle Pi i Margall,184900,2,64,Tarragona,Cataluña
+Piso,Calle de Fuster Valldeperes,299000,4,130,Tarragona,Cataluña
+Chalet,Calle de Bonaventura Roig,120000,3,102,Tarragona,Cataluña
+Piso,Unio,285000,4,186,Tarragona,Cataluña
+Piso,Rambla Nova,290000,4,132,Tarragona,Cataluña
+Piso,Calle de Joaquim Serra,80000,1,42,Tarragona,Cataluña
+Piso,Calle de l'Oli,208000,3,110,Tarragona,Cataluña
+Chalet,Vespella,220000,3,461,Tarragona,Cataluña
+Casa Rural,Calle B Ur Calders,870000,11,650,Tarragona,Cataluña
+Chalet,Calle de la Punta Roja,810000,4,1500,Tarragona,Cataluña
+Chalet,Berà Mar - El Francaset,385000,4,147,Tarragona,Cataluña
+Piso,Barri Marítim-Platja de la Paella,179000,3,6,Tarragona,Cataluña
+Chalet,Berà Mar - El Francaset,385000,4,147,Tarragona,Cataluña
+Piso,Creixell,125000,3,20,Tarragona,Cataluña
+Piso,Calle dels Replanells,115000,2,66,Tarragona,Cataluña
+Piso,Ramon Llull,129500,3,83,Tarragona,Cataluña
+Piso,Part Alta,750000,4,157,Tarragona,Cataluña
+Ático,Paseo Marítim de Sant Joan de Déu 55,319000,3,84,Tarragona,Cataluña
+Chalet,Roca s/n,399000,4,136,Tarragona,Cataluña
+Piso,Calle Lleo,99000,3,60,Tarragona,Cataluña
+Chalet,Camino dels Emprius,2050000,4,50558,Tarragona,Cataluña
+Chalet,Calle Teruel,275000,4,240,Tarragona,Cataluña
+Casa Rural,Via sense nom,545000,6,0,Tarragona,Cataluña
+Chalet,Avenida de Joan Margets,2900000,5,832,Tarragona,Cataluña
+Chalet,Els Munts,1150000,4,125,Tarragona,Cataluña
+Piso,Calle de Barbastre 8,144000,3,77,Tarragona,Cataluña
+Piso,Calle Pirineus 13,66000,2,80,Tarragona,Cataluña
+Piso,Avenida Principado de Andorra 8,149000,4,125,Tarragona,Cataluña
+Piso,Calle de les Drassanes,360000,3,38,Tarragona,Cataluña
+Piso,Calle Pierre Vilar,230000,2,25,Tarragona,Cataluña
+Piso,Calle Francesc Bastos,138500,3,73,Tarragona,Cataluña
+Piso,Calle ROMANS,165000,2,60,Tarragona,Cataluña
+Piso,Calle Riu Besòs,164900,3,95,Tarragona,Cataluña
+Chalet,Professor Lluis Icart s/n,300000,3,103,Tarragona,Cataluña
+Piso,Calle Castell de Tamarit,185000,2,74,Tarragona,Cataluña
+Piso,Calle de Pere Martell,172000,5,166,Tarragona,Cataluña
+Piso,Calle de Cristòfor Colom,215000,4,148,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,127000,2,79,Tarragona,Cataluña
+Chalet,Calle de Donostia,180000,3,98,Tarragona,Cataluña
+Chalet,Calle Ginesta,208000,5,188,Tarragona,Cataluña
+Piso,Avenida Marqués de Montoliu,283000,4,110,Tarragona,Cataluña
+Piso,Avenida Diputacio,116000,1,40,Tarragona,Cataluña
+Piso,Calle de Tortosa,95000,2,64,Tarragona,Cataluña
+Chalet,salvador dali 13,599000,4,540,Tarragona,Cataluña
+Chalet,Clarà,285000,4,123,Tarragona,Cataluña
+Ático,Prat de Cunit,409000,4,110,Tarragona,Cataluña
+Piso,Calle de I'Ebre 5,87000,1,36,Tarragona,Cataluña
+Chalet,Calle Doctor Campalans i Puig 4,239000,3,94,Tarragona,Cataluña
+Ático,Centre,145800,1,57,Tarragona,Cataluña
+Chalet,Calle Mestre Trujols,180000,6,28,Tarragona,Cataluña
+Chalet,Calle Guifré 38,210000,5,199,Tarragona,Cataluña
+Chalet,Avenida de la Generalitat 12,425000,6,232,Tarragona,Cataluña
+Chalet,Calle Sant Antoni 41,65000,3,96,Tarragona,Cataluña
+Chalet,Calle Júpiter 3,570000,4,123,Tarragona,Cataluña
+Casa Rural,Camino de Riudecols s/n,285000,3,107,Tarragona,Cataluña
+Chalet,Calle Doctor Campalans i Puig 4,239000,3,115,Tarragona,Cataluña
+Duplex,Avenida de Salou 128,179000,4,138,Tarragona,Cataluña
+Chalet,Calle del Pou de la Taurana 5,750000,5,300,Tarragona,Cataluña
+Piso,Verge de Montserrat s/n,139000,3,119,Tarragona,Cataluña
+Ático,Centre,145800,1,60,Tarragona,Cataluña
+Piso,Calle de I'Ebre 5,87000,1,36,Tarragona,Cataluña
+Ático,Paseo de Prim 12,295000,6,188,Tarragona,Cataluña
+Chalet,Calle Guifré 38,210000,5,200,Tarragona,Cataluña
+Piso,Calle de Santiyan 1,165000,3,101,Tarragona,Cataluña
+Piso,Ronda del Mar 6,169800,1,5,Tarragona,Cataluña
+Chalet,Xipres s/n,590000,4,142,Tarragona,Cataluña
+Piso,Calle de Carles Roig,203000,4,134,Tarragona,Cataluña
+Chalet,Calle Canet lo Roig 22,160000,3,84,Tarragona,Cataluña
+Ático,Calle San Jordi 4,152500,3,46,Tarragona,Cataluña
+Ático,Plaza Catalunya 7,895000,3,115,Tarragona,Cataluña
+Piso,Paseo Maritim 53,278000,4,130,Tarragona,Cataluña
+Chalet,Santiago Rusiñol s/n,590000,4,131,Tarragona,Cataluña
+Chalet,Calle Mas del Vidalet s/n,395000,4,133,Tarragona,Cataluña
+Piso,Carretera del Far 26,129600,2,73,Tarragona,Cataluña
+Chalet,Calle de la Punta Roja 5,1250000,4,286,Tarragona,Cataluña
+Chalet,Avenida museu 53,370000,6,3000,Tarragona,Cataluña
+Chalet,urbparadis s/n,278000,3,97,Tarragona,Cataluña
+Chalet,del roser 1 b,595000,4,324,Tarragona,Cataluña
+Chalet,Coma-Ruga,825000,4,138,Tarragona,Cataluña
+Chalet,Passatge Gregal,399000,3,120,Tarragona,Cataluña
+Chalet,mas tells s/n s/n,825000,6,14000,Tarragona,Cataluña
+Chalet,Calle Beat Bonaventura Gran,415000,4,366,Tarragona,Cataluña
+Piso,Camino Vell Pobla Montornès,125000,3,117,Tarragona,Cataluña
+Piso,Clarà,79900,1,50,Tarragona,Cataluña
+Chalet,Calle Mas d'en Vernet,380000,3,42,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,799000,6,200,Tarragona,Cataluña
+Duplex,Sant Isidre,199500,3,20,Tarragona,Cataluña
+Piso,Calle del Governador González 14,298000,3,87,Tarragona,Cataluña
+Chalet,Calle Holanda,210000,6,248,Tarragona,Cataluña
+Chalet,Els Munts,295000,4,159,Tarragona,Cataluña
+Chalet,Calle Mirador 6,499000,5,164,Tarragona,Cataluña
+Piso,CAMPOAMOR 4,298000,4,156,Tarragona,Cataluña
+Chalet,Calle Holanda,210000,6,248,Tarragona,Cataluña
+Chalet,Els Munts,295000,4,134,Tarragona,Cataluña
+Chalet,Calle Mirador 6,499000,5,189,Tarragona,Cataluña
+Piso,Paseo de Prim,139000,5,186,Tarragona,Cataluña
+Piso,Calle Navarra,106000,3,106,Tarragona,Cataluña
+Ático,Calle de Miquel Planas,650000,3,107,Tarragona,Cataluña
+Piso,Calle de Ventura Gassol,339000,4,153,Tarragona,Cataluña
+Chalet,Avenida Catalunya,320000,4,158,Tarragona,Cataluña
+Chalet,Avenida Catalunya,210000,3,104,Tarragona,Cataluña
+Piso,Pescadors,128000,3,108,Tarragona,Cataluña
+Chalet,La Mora,430000,5,40,Tarragona,Cataluña
+Chalet,Avenida Vall d'Aran 47,545000,6,560,Tarragona,Cataluña
+Chalet,Calle Major,215000,4,130,Tarragona,Cataluña
+Casa Rural,MAYOR,275000,4,60,Tarragona,Cataluña
+Piso,Calle d'Antoni de Bofarull,169000,4,128,Tarragona,Cataluña
+Chalet,C CAP DE BLANES,215000,4,131,Tarragona,Cataluña
+Chalet,Calle Joan Sebastià Bach,340000,4,134,Tarragona,Cataluña
+Chalet,Calle Ramón Berenguer IV,218000,3,88,Tarragona,Cataluña
+Duplex,Calle de la Torrassa,275000,2,12,Tarragona,Cataluña
+Chalet,Margarides,660000,6,345,Tarragona,Cataluña
+Piso,Anoia,420000,3,107,Tarragona,Cataluña
+Duplex,Calle de Riudecols,217500,3,52,Tarragona,Cataluña
+Piso,Calle de Joan Coromines,195000,4,98,Tarragona,Cataluña
+Piso,Calle del Vendrell,110000,2,79,Tarragona,Cataluña
+Piso,Joan Carles 1,117000,2,70,Tarragona,Cataluña
+Chalet,877260296,Calle de la Sinia,247000,602,Tarragona,Cataluña
+Chalet,Avenida Lituània,350000,4,135,Tarragona,Cataluña
+Piso,Calle de Frederic Mompou,339000,4,151,Tarragona,Cataluña
+Chalet,Aufinac,790000,4,129,Tarragona,Cataluña
+Chalet,Pamplona,315000,4,128,Tarragona,Cataluña
+Chalet,Avenida Republica Argentina,750000,4,700,Tarragona,Cataluña
+,877260592,Mas d'en Victor,0,32,Tarragona,Cataluña
+Casa Rural,la planeta s/n,495000,6,232,Tarragona,Cataluña
+Chalet,Eixample Residencial,267000,4,159,Tarragona,Cataluña
+Chalet,Calle Geranis,219000,3,8291,Tarragona,Cataluña
+Piso,Calle Tramontana,89900,2,78,Tarragona,Cataluña
+Piso,Plaza de Lluís Companys,179000,3,112,Tarragona,Cataluña
+Piso,Calle Ample 30,185000,2,78,Tarragona,Cataluña
+Piso,Argentera,167900,4,141,Tarragona,Cataluña
+Piso,Calle Ample 30,185000,2,76,Tarragona,Cataluña
+Piso,Calle Francolí,120000,3,113,Tarragona,Cataluña
+Chalet,Valls,299000,4,50,Tarragona,Cataluña
+Piso,Calle Macià Mallol i Bosch,179000,4,136,Tarragona,Cataluña
+Piso,Calle Nou de Sant Oleguer,139000,3,99,Tarragona,Cataluña
+Chalet,Avenida Granada 20 -22,136890,4,199,Tarragona,Cataluña
+Piso,Calle del Monestir de Poblet,375000,4,138,Tarragona,Cataluña
+Piso,Riera MIRÓ,107500,3,28,Tarragona,Cataluña
+Piso,Calle Terra Alta,95000,2,60,Tarragona,Cataluña
+Chalet,Avenida Sra Magdalena Martorell,80000,4,144,Tarragona,Cataluña
+Chalet,Calle de l'Era,399000,7,600,Tarragona,Cataluña
+Piso,Prat de Cunit,185500,2,52,Tarragona,Cataluña
+Chalet,Calle Cèsar Martinell,420000,4,158,Tarragona,Cataluña
+Chalet,Calle Regne de Mallorca,220000,4,176,Tarragona,Cataluña
+Chalet,Centro,215000,3,27889,Tarragona,Cataluña
+Chalet,barrio Centro,375000,4,120,Tarragona,Cataluña
+Chalet,Via lactea,575000,5,186,Tarragona,Cataluña
+Ático,Calle Olivarda,109900,2,66,Tarragona,Cataluña
+Piso,antina,450000,3,105,Tarragona,Cataluña
+Casa Rural,Camino de Lligallo,218000,3,23889,Tarragona,Cataluña
+Chalet,vallespir,445000,4,136,Tarragona,Cataluña
+Piso,Doctor Fleming 7,109000,2,52,Tarragona,Cataluña
+Piso,MARGARITA XIRGU 4,120000,2,75,Tarragona,Cataluña
+Casa Rural,Major,147500,4,400,Tarragona,Cataluña
+Chalet,Santiago Rossinyol,269000,5,167,Tarragona,Cataluña
+Chalet,Calle pi,390000,4,500,Tarragona,Cataluña
+Chalet,Calle del Montseny,275000,6,208,Tarragona,Cataluña
+Piso,Paseo de la Independència,248000,2,73,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,130000,2,94,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,252000,6,270,Tarragona,Cataluña
+Chalet,La Pobla de Montornès,325000,4,202,Tarragona,Cataluña
+Chalet,Puig Cerver,399900,5,286,Tarragona,Cataluña
+Chalet,Avellaners,397000,5,197,Tarragona,Cataluña
+Chalet,comarques catalanes,259000,4,167,Tarragona,Cataluña
+Chalet,Xalets de Salou - Mirador de Salou,446000,4,130,Tarragona,Cataluña
+Ático,barrio Centro,190000,2,73,Tarragona,Cataluña
+Chalet,Castellvell del Camp,490000,5,164,Tarragona,Cataluña
+Chalet,Els Masos,500000,4,140,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,245000,4,141,Tarragona,Cataluña
+Chalet,Centro,160000,5,20,Tarragona,Cataluña
+Chalet,barrio Els Ametllers,795000,4,440,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,245000,4,137,Tarragona,Cataluña
+Piso,Ponent,260000,3,107,Tarragona,Cataluña
+Chalet,Centro,160000,5,20,Tarragona,Cataluña
+Piso,Calle del mar s/n,250000,3,84,Tarragona,Cataluña
+Chalet,barrio Jardins de Vilafortuny - Más d'en Bosch,625000,3,200,Tarragona,Cataluña
+Casa Rural,Santa Oliva,189000,3,224,Tarragona,Cataluña
+Ático,Casc Antic - Nou Cambrils,240000,3,114,Tarragona,Cataluña
+Chalet,Sant Jaume d'Enveja,78000,3,40,Tarragona,Cataluña
+Chalet,Els Masos,500000,4,130,Tarragona,Cataluña
+Chalet,Castellvell del Camp,490000,5,162,Tarragona,Cataluña
+Piso,Eixample,233000,2,80,Tarragona,Cataluña
+Piso,Nou Eixample Nord,375000,4,153,Tarragona,Cataluña
+Chalet,Santa Oliva,425000,5,636,Tarragona,Cataluña
+Piso,Residencial,140000,3,113,Tarragona,Cataluña
+Chalet,Albinyana,260000,4,152,Tarragona,Cataluña
+Piso,Platja Calafell,325000,4,133,Tarragona,Cataluña
+Chalet,Costa Cunit - Els Jardins - Els Rosers,210000,4,1596,Tarragona,Cataluña
+Chalet,Residencial,219000,3,86,Tarragona,Cataluña
+Chalet,Calle de la Plana de Vic,290000,4,128,Tarragona,Cataluña
+Piso,Constanti,123000,2,60,Tarragona,Cataluña
+Chalet,Acacias,385000,4,2150,Tarragona,Cataluña
+Chalet,Residencial,302000,3,90,Tarragona,Cataluña
+Chalet,La Mora,2195000,5,1135,Tarragona,Cataluña
+Chalet,barrio Cambrils Mediterrani,385000,5,175,Tarragona,Cataluña
+Piso,El Morell,99900,4,159,Tarragona,Cataluña
+Chalet,Calle Cadí,249000,4,123,Tarragona,Cataluña
+Piso,Calle de Frederic Mompou,345000,4,130,Tarragona,Cataluña
+Chalet,Calle de la Via Làctia,265000,5,160,Tarragona,Cataluña
+Duplex,Rambla de Jaume I,330000,3,105,Tarragona,Cataluña
+Chalet,Montsia,235000,4,366,Tarragona,Cataluña
+Piso,Montsià de Mar,127500,2,71,Tarragona,Cataluña
+Chalet,Montsià de Mar,330000,4,180,Tarragona,Cataluña
+Piso,Centro,82000,2,76,Tarragona,Cataluña
+Chalet,Sant Josep-Mercat,575000,4,515,Tarragona,Cataluña
+Chalet,Les Tres Cales,1470000,4,134,Tarragona,Cataluña
+Chalet,Les Cases d'Alcanar,198000,3,138,Tarragona,Cataluña
+Piso,Platjas,175000,2,98,Tarragona,Cataluña
+Casa Rural,Camarles,219990,8,341,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,149500,3,100,Tarragona,Cataluña
+Casa Rural,Camarles,219990,8,383,Tarragona,Cataluña
+Piso,El Maset,122000,3,107,Tarragona,Cataluña
+Piso,Calle de l'Oli,229000,3,86,Tarragona,Cataluña
+Piso,Avenida dels Països Catalans,244900,4,120,Tarragona,Cataluña
+Piso,p martell,250000,5,162,Tarragona,Cataluña
+Chalet,La Muntanyeta,257500,4,159,Tarragona,Cataluña
+Ático,Calle frederic mompou 10,312000,3,18,Tarragona,Cataluña
+Piso,Can Nicolau - Les Sorres - Valparaiso,132000,2,8,Tarragona,Cataluña
+Piso,Calle de Francesc Gil de Frederic,94300,3,86,Tarragona,Cataluña
+Piso,Calle de València,275000,3,25,Tarragona,Cataluña
+Chalet,Alforja,300000,9,540,Tarragona,Cataluña
+Ático,vidal barraqjuer,359000,4,139,Tarragona,Cataluña
+Chalet,Martineta,299000,3,83,Tarragona,Cataluña
+Chalet,Mestral,870000,5,490,Tarragona,Cataluña
+Chalet,Punta del Banc,186000,4,121,Tarragona,Cataluña
+Casa Rural,Guiamets (Els),320000,7,420,Tarragona,Cataluña
+Piso,Calle de Mossèn Joan Batalla,226500,2,79,Tarragona,Cataluña
+Piso,Pere martell,147000,4,140,Tarragona,Cataluña
+Piso,Travesía de Barcelona,120000,3,82,Tarragona,Cataluña
+Piso,Avenida Montserrat,390000,4,121,Tarragona,Cataluña
+Piso,Nou Eixample Nord,485000,4,146,Tarragona,Cataluña
+Piso,Calle de les Barques,124000,1,42,Tarragona,Cataluña
+Piso,Calle Mas de Barberans,117000,3,118,Tarragona,Cataluña
+Chalet,Avenida Font de les Escales 7,325000,5,852,Tarragona,Cataluña
+Chalet,Les Tres Cales,316000,4,500,Tarragona,Cataluña
+Piso,barrio Nucli Urbà,148500,2,78,Tarragona,Cataluña
+Piso,barrio Centro,136000,2,65,Tarragona,Cataluña
+Chalet,Avenida de Sant Jordi 63,359000,7,287,Tarragona,Cataluña
+Piso,Calle de Santa Helena,166000,3,86,Tarragona,Cataluña
+Ático,Casalot,220000,3,113,Tarragona,Cataluña
+Chalet,Calle de la Puríssima,340000,5,181,Tarragona,Cataluña
+Piso,Eixample,180000,3,81,Tarragona,Cataluña
+Chalet,Centre,255000,3,83,Tarragona,Cataluña
+Piso,Doctor Robert,149900,1,45,Tarragona,Cataluña
+Piso,Calle de la Cala Crancs,145000,2,77,Tarragona,Cataluña
+Chalet,Camino de Creixell 13,285000,7,372,Tarragona,Cataluña
+Piso,Plaza de Venus,165000,3,84,Tarragona,Cataluña
+Piso,san antonio maria claret s/n,125000,3,86,Tarragona,Cataluña
+Piso,barrio Segur Platja,112000,2,64,Tarragona,Cataluña
+Piso,Platjas,192000,2,80,Tarragona,Cataluña
+Piso,Platjas,192000,2,80,Tarragona,Cataluña
+Piso,La Pineda,169900,3,108,Tarragona,Cataluña
+Duplex,Calle de Domènec Sugrañes i Gras,339000,3,83,Tarragona,Cataluña
+Piso,Barris Maritims,130000,2,72,Tarragona,Cataluña
+Chalet,Vila-Seca,260000,4,6,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea 66,160000,3,83,Tarragona,Cataluña
+Piso,Horta de Santa María,350000,3,91,Tarragona,Cataluña
+Piso,Calle de Rosa Sensat,299000,3,84,Tarragona,Cataluña
+Piso,Calle de Sant Adrià,157500,3,95,Tarragona,Cataluña
+Chalet,Avenida Anglaterra,425000,8,356,Tarragona,Cataluña
+Piso,Eixample,303000,4,138,Tarragona,Cataluña
+Piso,Calle de Riudecols,140000,4,159,Tarragona,Cataluña
+Piso,barrio Cambrils Platja,157000,1,43,Tarragona,Cataluña
+Duplex,MARE DE DEU DE MISERICORDIA,270000,3,120,Tarragona,Cataluña
+Piso,Calle del Roser,110000,3,116,Tarragona,Cataluña
+Piso,Calle de Sant Vicenç,86000,2,78,Tarragona,Cataluña
+Piso,Calle del Vallàs,49000,2,72,Tarragona,Cataluña
+Piso,Eixample,298850,3,114,Tarragona,Cataluña
+Piso,Terol,130900,4,146,Tarragona,Cataluña
+Piso,Calle Osca,120000,2,12,Tarragona,Cataluña
+Piso,Calle de Cambrils 22,199000,3,88,Tarragona,Cataluña
+Piso,Avenida Espanya,159000,3,102,Tarragona,Cataluña
+Chalet,Calle de Baix,80000,3,107,Tarragona,Cataluña
+Chalet,Camino dels Molins,95000,3,111,Tarragona,Cataluña
+Piso,Avenida de Castellvell,153400,3,99,Tarragona,Cataluña
+Chalet,Les Borges del Camp,90000,5,181,Tarragona,Cataluña
+Chalet,Avenida de la Llum,329000,5,240,Tarragona,Cataluña
+Chalet,Montsià de Mar,279000,5,580,Tarragona,Cataluña
+Piso,Montsià de Mar,127700,2,60,Tarragona,Cataluña
+Casa Rural,Tivissa,179000,2,63,Tarragona,Cataluña
+Duplex,Vila-Seca,130000,3,105,Tarragona,Cataluña
+Duplex,Camino del raco,213500,3,101,Tarragona,Cataluña
+Piso,Calle de Barbastre,156000,3,114,Tarragona,Cataluña
+Piso,Calle de Colón 15,290000,2,62,Tarragona,Cataluña
+Duplex,Valencia 5,199000,2,140,Tarragona,Cataluña
+Piso,Calle de l'Arquitecte Ubach 10,254500,3,118,Tarragona,Cataluña
+Piso,Calle l'Estel,60000,3,117,Tarragona,Cataluña
+Piso,Calle de Ntra Senyora de Montserrat,148000,3,83,Tarragona,Cataluña
+Chalet,Calle Ferran Sor,149900,4,153,Tarragona,Cataluña
+Ático,Calle de Sant Miquel s/n,219000,2,65,Tarragona,Cataluña
+Piso,Avenida Pallaresos,32000,3,86,Tarragona,Cataluña
+Piso,Reus,128000,2,30,Tarragona,Cataluña
+Piso,Calle de Rodríguez Pomatta,175000,3,88,Tarragona,Cataluña
+Piso,Avenida Cadis,116500,2,77,Tarragona,Cataluña
+Chalet,Altafulla,265000,8,367,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,195000,3,100,Tarragona,Cataluña
+Piso,Calle d'Albinyana,69900,3,116,Tarragona,Cataluña
+Chalet,Calle de les Magnòlies,330000,4,142,Tarragona,Cataluña
+Piso,Calle de l'Argentera,184900,3,84,Tarragona,Cataluña
+Piso,Paseo Marítim de Masia Blanca 6,350000,3,81,Tarragona,Cataluña
+Ático,Avenida de Prat de la Riba,139900,2,65,Tarragona,Cataluña
+Chalet,Sortanelles 2,150000,3,119,Tarragona,Cataluña
+Chalet,Camino del Nàstic s/n III,1190000,7,780,Tarragona,Cataluña
+Piso,Calle de Barbastre,155000,2,73,Tarragona,Cataluña
+Piso,Calle del Camí del Racó,180000,2,75,Tarragona,Cataluña
+Piso,Calle de Santa Paula 7,185000,3,109,Tarragona,Cataluña
+Chalet,Avenida Catalunya s/n,300000,3,290,Tarragona,Cataluña
+Chalet,Avenida de la Camêlia 34,490000,7,450,Tarragona,Cataluña
+Chalet,Passatge dels Grallers 48,315000,4,231,Tarragona,Cataluña
+Piso,Calle de Sant Tomàs 19,52000,1,41,Tarragona,Cataluña
+Piso,Calle de Riudecanyes 24,110000,2,64,Tarragona,Cataluña
+Piso,Calle de Miramar 39,147500,3,103,Tarragona,Cataluña
+Piso,Calle de Riudoms 21,155000,4,137,Tarragona,Cataluña
+Piso,Calle del Comte de Rius 2,169700,4,131,Tarragona,Cataluña
+Piso,Calle de Lleida,155000,1,45,Tarragona,Cataluña
+Piso,Avenida de Pere el Cerimoniós 4,165000,4,146,Tarragona,Cataluña
+Chalet,Mont-Roig,93000,4,370,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,275000,4,500,Tarragona,Cataluña
+Ático,El Maset,129000,3,116,Tarragona,Cataluña
+Chalet,Les Borges del Camp,84800,3,220,Tarragona,Cataluña
+Chalet,Deltebre,145000,3,95,Tarragona,Cataluña
+Piso,L'Hospitalet de l'Infant,97000,1,60,Tarragona,Cataluña
+Chalet,Calle Amàlia,70000,1,47,Tarragona,Cataluña
+Chalet,Deltebre,260000,6,234,Tarragona,Cataluña
+Piso,L'Hospitalet de l'Infant,121000,1,62,Tarragona,Cataluña
+Piso,L'Ametlla de Mar,79000,1,37,Tarragona,Cataluña
+Chalet,Calle del Roser,120000,5,100,Tarragona,Cataluña
+Ático,Calle de la Cala Morisca,220000,2,80,Tarragona,Cataluña
+Piso,Avenida de L'Onze de Setembre,119000,3,97,Tarragona,Cataluña
+Piso,Calle de la Cella 1,129900,3,88,Tarragona,Cataluña
+Casa Rural,Camino de Masmolets-Sud s/n s-n,1295000,11,153,Tarragona,Cataluña
+Chalet,Calle de l'Àliga 2,270000,4,40,Tarragona,Cataluña
+Duplex,Calle Mas dels Ossos,180000,3,112,Tarragona,Cataluña
+Chalet,Partida Poblas 41,2600000,4,148,Tarragona,Cataluña
+Piso,Calle de la Cella 1,129900,3,113,Tarragona,Cataluña
+Chalet,Calle Mallorca,285000,6,213,Tarragona,Cataluña
+Piso,Avenida del Carrilet,142000,4,146,Tarragona,Cataluña
+Piso,Calle de l'Esparver,215000,3,115,Tarragona,Cataluña
+Ático,Calle de Fuster Valldeperes,335000,4,115,Tarragona,Cataluña
+Chalet,Calle Santiago Rusiñol,425000,8,381,Tarragona,Cataluña
+Piso,El Maset,159700,2,72,Tarragona,Cataluña
+Piso,Calle del Monestir de Ripoll,224000,3,70,Tarragona,Cataluña
+Chalet,Calle Castell de Siurana,288000,4,229,Tarragona,Cataluña
+Piso,Travesía Nou de Sant Josep,198000,4,130,Tarragona,Cataluña
+Piso,Calle de Lleida,155000,3,86,Tarragona,Cataluña
+Piso,Barri de la Salut,165000,3,112,Tarragona,Cataluña
+Piso,Avenida dels Països Catalans,110000,3,85,Tarragona,Cataluña
+Piso,Avenida Tarragona,99900,3,106,Tarragona,Cataluña
+Piso,Calle de la Coma,98000,3,86,Tarragona,Cataluña
+Duplex,Calle del Riu Glorieta,340000,3,100,Tarragona,Cataluña
+Piso,Calle Higini Anglès,155000,4,123,Tarragona,Cataluña
+Chalet,Vall de Sant Llorenç,79500,3,86,Tarragona,Cataluña
+Piso,Calle de Girona,138500,4,82,Tarragona,Cataluña
+Chalet,Calle dels Garrofers,530000,4,156,Tarragona,Cataluña
+Piso,Calle de Jacint Verdaguer,169000,3,95,Tarragona,Cataluña
+Chalet,Calle Monestir de Santes Creus,700000,7,265,Tarragona,Cataluña
+Piso,Avenida del Baix Camp,177500,4,143,Tarragona,Cataluña
+Piso,Calle de Joaquim Serra,80000,1,53,Tarragona,Cataluña
+Piso,Calle Sol i Ortega,249900,4,144,Tarragona,Cataluña
+Piso,Calle de Beatriu de Queralt,184840,3,89,Tarragona,Cataluña
+Piso,Calle d'Antoni Gaudí,113050,3,77,Tarragona,Cataluña
+Chalet,Esglesia Nova 46,188000,6,201,Tarragona,Cataluña
+Piso,Avenida Lluís Companys 90,215000,3,96,Tarragona,Cataluña
+Ático,Avenida Lluís Companys 90,280000,3,89,Tarragona,Cataluña
+Piso,barrio Segur Platja,119000,2,85,Tarragona,Cataluña
+Casa Rural,Camino de Sant Antoni,124400,2,70,Tarragona,Cataluña
+Piso,Salou de Llevant,119000,1,48,Tarragona,Cataluña
+Chalet,Residencial,312000,3,120,Tarragona,Cataluña
+Piso,Avenida Lluís Companys 90,340000,3,89,Tarragona,Cataluña
+Piso,Calle de les Drassanes 29,179000,2,61,Tarragona,Cataluña
+Piso,Platjas,136400,3,81,Tarragona,Cataluña
+Piso,Calle Vendrell,123000,2,55,Tarragona,Cataluña
+Piso,Les Cases d'Alcanar,170000,3,550,Tarragona,Cataluña
+Piso,Avenida de Ramón y Cajal,150000,3,85,Tarragona,Cataluña
+Chalet,Calle del Riu Senia,310000,4,20,Tarragona,Cataluña
+Chalet,Calle Osona 4,459000,4,156,Tarragona,Cataluña
+Chalet,Calle Osona 4,493000,4,121,Tarragona,Cataluña
+Piso,Calle d'Urà 3,142000,2,67,Tarragona,Cataluña
+Piso,Calle Ernest Vilches s/n,270000,3,119,Tarragona,Cataluña
+Estudio,Calle de Rodríguez Pomatta 13,87000,0,40,Tarragona,Cataluña
+Piso,Calle Baix Emporda,149995,3,89,Tarragona,Cataluña
+Ático,Roc de Sant Gaietà,545000,4,147,Tarragona,Cataluña
+Piso,Calle de Sevilla,160000,2,64,Tarragona,Cataluña
+Chalet,Calle dels Grallers,199500,4,129,Tarragona,Cataluña
+Piso,Calle Serafí Pitarra,99995,3,94,Tarragona,Cataluña
+Chalet,Calle del Llobregat,245000,5,171,Tarragona,Cataluña
+Piso,Calle Miracle 75,60000,2,0,Tarragona,Cataluña
+Piso,Avenida Alemanya,129000,3,110,Tarragona,Cataluña
+Piso,Calle Gomera,155000,3,105,Tarragona,Cataluña
+Piso,Avenida de Roma,259000,4,149,Tarragona,Cataluña
+Chalet,Calle Marinada,880000,5,246,Tarragona,Cataluña
+Chalet,Avenida d'Enric Borràs,650000,5,195,Tarragona,Cataluña
+Casa Rural,Camino del Molí de Vent,560000,4,153,Tarragona,Cataluña
+Chalet,Paseo Doctor Letamendi,370000,5,194,Tarragona,Cataluña
+Piso,Coma-Ruga,225000,3,55,Tarragona,Cataluña
+Casa Rural,Fluvià s/n,145000,3,93,Tarragona,Cataluña
+Chalet,Plaza de l'església 6,160000,3,109,Tarragona,Cataluña
+Chalet,Camino del Nàstic-III,1190000,7,277,Tarragona,Cataluña
+Casa Rural,Plaza de la Serra,1600000,9,674,Tarragona,Cataluña
+Chalet,Calle Cala Vidre,2500000,10,821,Tarragona,Cataluña
+Piso,Calle de l'Esparver,215000,3,96,Tarragona,Cataluña
+Piso,Rambla de Ponent,110000,4,142,Tarragona,Cataluña
+Chalet,Calle de l'Abat Porta,157900,6,250,Tarragona,Cataluña
+Chalet,Calle de la Via Làctia,380000,3,80,Tarragona,Cataluña
+Piso,Calle de la Destral 3,169000,3,60,Tarragona,Cataluña
+Chalet,Calle del Clavell,257000,3,82,Tarragona,Cataluña
+Piso,Calle dels Solans,184000,3,107,Tarragona,Cataluña
+Piso,Calle de Ferran Sors,239000,4,157,Tarragona,Cataluña
+Piso,Paseo de Jaume I s/n,360000,3,17,Tarragona,Cataluña
+Piso,Paseo Pau Casals,165000,3,80,Tarragona,Cataluña
+Chalet,Calle de la Cala Crancs,785000,5,185,Tarragona,Cataluña
+Chalet,Calle de l'Abat Porta,157900,6,201,Tarragona,Cataluña
+Piso,Paseo Pau Casals,165000,3,80,Tarragona,Cataluña
+Piso,Calle del Cardenal Vidal i Barraquer,207995,3,108,Tarragona,Cataluña
+Piso,Calle de Benidorm,139500,4,143,Tarragona,Cataluña
+Piso,Calle Alguer,209000,4,135,Tarragona,Cataluña
+Chalet,Calle Jaume Palau,195000,4,135,Tarragona,Cataluña
+Chalet,barrio Centro,170000,3,75,Tarragona,Cataluña
+Chalet,Calle Ciudad Real,160000,4,160,Tarragona,Cataluña
+Piso,Rambla de Ponent,110000,4,155,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,126000,4,100,Tarragona,Cataluña
+Chalet,Calle T,399990,5,800,Tarragona,Cataluña
+Piso,Calle de Ferran Sors,239000,4,160,Tarragona,Cataluña
+Chalet,Camino dels Còdols,600000,5,2190,Tarragona,Cataluña
+Chalet,Calle de la Via Làctia,380000,3,119,Tarragona,Cataluña
+Piso,Calle de David de Mas,159500,3,96,Tarragona,Cataluña
+Piso,Avenida Lluís Millet,173000,2,70,Tarragona,Cataluña
+Chalet,Avenida MAS SOLE,240000,4,400,Tarragona,Cataluña
+Piso,Calle Nou,169000,4,130,Tarragona,Cataluña
+Chalet,Costa Daurada - Sant Gaietà,1500000,6,1200,Tarragona,Cataluña
+Chalet,Via sense nom 15,540000,3,6208,Tarragona,Cataluña
+Piso,Santa Bàrbara 2,173000,3,97,Tarragona,Cataluña
+Chalet,Calle Orquidies,159000,3,162,Tarragona,Cataluña
+Piso,Riudecols,122000,1,41,Tarragona,Cataluña
+Casa Rural,L'Ametlla de Mar,360000,3,383,Tarragona,Cataluña
+Piso,Raval de Jesús 38,165000,4,136,Tarragona,Cataluña
+Piso,Regueral - Prat d'En Foré,152000,2,74,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 30,259000,3,89,Tarragona,Cataluña
+Piso,Calle Alt de Sant Salvador 7,153000,3,114,Tarragona,Cataluña
+Piso,Av Adelaida,185000,3,116,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 30,259000,3,99,Tarragona,Cataluña
+Chalet,Residencial,170000,3,80,Tarragona,Cataluña
+Piso,barrio Segur Platja,135000,2,68,Tarragona,Cataluña
+Piso,Calle Valencia 39,145000,2,64,Tarragona,Cataluña
+Piso,Calle de Frederica Montseny 6,112000,2,60,Tarragona,Cataluña
+Piso,Calle de Narcís Monturiol 21,91000,2,53,Tarragona,Cataluña
+Piso,Rambla Ponent 5,119000,4,122,Tarragona,Cataluña
+Piso,Calle de Montserrat,375000,2,110,Tarragona,Cataluña
+Chalet,Calle Ramon Casas 19,350000,4,269,Tarragona,Cataluña
+Piso,Calle dels Costers,142000,2,76,Tarragona,Cataluña
+Piso,Paseo de Miramar,545000,4,180,Tarragona,Cataluña
+Piso,Calle unio,285000,4,172,Tarragona,Cataluña
+Piso,Calle de Pere Martell,224000,3,30,Tarragona,Cataluña
+Piso,Calle Gran Canària,120000,4,110,Tarragona,Cataluña
+Piso,Calle de Bernat Torroja,98000,2,74,Tarragona,Cataluña
+Piso,Eixample,248000,3,13,Tarragona,Cataluña
+Piso,pinar,153500,2,30,Tarragona,Cataluña
+Piso,Calle de Bernat Torroja,92000,2,78,Tarragona,Cataluña
+Piso,Calle Reus,113900,3,89,Tarragona,Cataluña
+Chalet,Priorat,123500,3,116,Tarragona,Cataluña
+Chalet,Calle Moscú 47,398000,4,126,Tarragona,Cataluña
+Piso,Calle Tortosa,315000,4,148,Tarragona,Cataluña
+Chalet,Calle Berna,414500,3,81,Tarragona,Cataluña
+Piso,Calle de Sant Pere,94000,3,102,Tarragona,Cataluña
+Piso,Avenida Països Catalans,184000,3,90,Tarragona,Cataluña
+Piso,Josep Carne,225000,2,79,Tarragona,Cataluña
+Piso,Major,330000,3,89,Tarragona,Cataluña
+Chalet,Vall d'aran,650000,6,2074,Tarragona,Cataluña
+Duplex,Avenida Collblan,170000,3,95,Tarragona,Cataluña
+Chalet,Calle de Bruseles,310000,4,141,Tarragona,Cataluña
+Piso,Plaza de la Font,350000,3,80,Tarragona,Cataluña
+Chalet,Tv-2021,169000,3,143,Tarragona,Cataluña
+Piso,Bloc Europa,160000,3,95,Tarragona,Cataluña
+Piso,Rambla de Ponent,173500,4,93,Tarragona,Cataluña
+Chalet,Adelaia,340000,4,140,Tarragona,Cataluña
+Piso,Calle Marcos Redondo,125000,2,70,Tarragona,Cataluña
+Piso,Avenida Principat d'Andorra,399500,4,156,Tarragona,Cataluña
+Piso,Avenida Paisos Catalans,194000,2,70,Tarragona,Cataluña
+Chalet,disseminat,1100000,12,900,Tarragona,Cataluña
+Duplex,Calle Anoia 28,420000,2,70,Tarragona,Cataluña
+Piso,Alfons V el Magnanim,130000,3,104,Tarragona,Cataluña
+Piso,Alfons V El Magnanim,136000,3,108,Tarragona,Cataluña
+Casa Rural,Camino de les Passeres,125000,2,11000,Tarragona,Cataluña
+Chalet,Tivoli,328000,4,240,Tarragona,Cataluña
+Piso,Calle del General Contreras,136000,2,60,Tarragona,Cataluña
+Piso,Calle de la Burguera,160000,2,75,Tarragona,Cataluña
+Piso,Calle de la Ciutat de Reus,246000,4,110,Tarragona,Cataluña
+Piso,Calle Falset,106000,4,123,Tarragona,Cataluña
+Piso,Av del Dr Pujol,179000,3,107,Tarragona,Cataluña
+Piso,Calle Violant d'Hongria,145500,2,67,Tarragona,Cataluña
+Piso,Calle Deltebre,132000,3,115,Tarragona,Cataluña
+Chalet,Calle de Marc Aureli,206000,4,112,Tarragona,Cataluña
+,877260468,Avenida Amics de Vimbodí,0,21,Tarragona,Cataluña
+Piso,Calle de la Ciutat de Reus,246000,4,110,Tarragona,Cataluña
+Piso,Calle de Pere Martell,164000,3,88,Tarragona,Cataluña
+Piso,Calle Falset,106000,4,123,Tarragona,Cataluña
+Duplex,Calle de Pierre Vilar,430000,3,90,Tarragona,Cataluña
+Piso,Calle del Terrer,193000,2,74,Tarragona,Cataluña
+Piso,Avenida de la Diputacio,115000,1,31,Tarragona,Cataluña
+Chalet,Calle Torreta,390000,4,250,Tarragona,Cataluña
+Chalet,Antoni Escofet Netto,308000,3,215,Tarragona,Cataluña
+Chalet,Calle de Bruseles,310000,4,141,Tarragona,Cataluña
+Chalet,Avenida Catalunya s/n,540000,4,170,Tarragona,Cataluña
+Chalet,disseminat,1100000,12,900,Tarragona,Cataluña
+Estudio,Avenida de la Diputació,119900,0,35,Tarragona,Cataluña
+Chalet,Calle de l'esglesia,165000,4,160,Tarragona,Cataluña
+Piso,Paseo de Jaume I,152000,1,48,Tarragona,Cataluña
+Piso,Bloc Europa,160000,3,95,Tarragona,Cataluña
+Piso,Amposta,90000,4,89,Tarragona,Cataluña
+Duplex,Avenida de Pere el Cerimoniós 30,135000,2,79,Tarragona,Cataluña
+Piso,Calle Barcelona,165000,2,64,Tarragona,Cataluña
+Piso,Girona,298000,3,115,Tarragona,Cataluña
+Chalet,Calle Societat,189000,3,99,Tarragona,Cataluña
+Casa Rural,Catalunya,174500,3,120,Tarragona,Cataluña
+Chalet,Calle Illes Canaries,335000,3,86,Tarragona,Cataluña
+Piso,Alfons V el Magnanim,130000,3,84,Tarragona,Cataluña
+Piso,Mossen Enric Gispert,145000,3,101,Tarragona,Cataluña
+Piso,Calle Lleida,155000,3,107,Tarragona,Cataluña
+Piso,Calle Marcos Redondo,125000,2,70,Tarragona,Cataluña
+Chalet,Deu horus,198000,3,90,Tarragona,Cataluña
+Chalet,Calle de Joan Miró,590000,4,141,Tarragona,Cataluña
+Chalet,Calle de Circunvallacio,257000,3,826,Tarragona,Cataluña
+Piso,Calle del Pare Palau,180000,5,135,Tarragona,Cataluña
+Duplex,Calle Anoia 28,420000,2,70,Tarragona,Cataluña
+Piso,Tarragona,199900,2,70,Tarragona,Cataluña
+Casa Rural,Camino de les Passeres,125000,2,11000,Tarragona,Cataluña
+Piso,Plaza de la Font,350000,3,91,Tarragona,Cataluña
+Piso,Calle del Vendrell,140000,2,55,Tarragona,Cataluña
+Piso,Calle Joan Baptista Plana,239000,3,112,Tarragona,Cataluña
+Piso,Barcelona,230000,3,100,Tarragona,Cataluña
+Piso,Alfons V El Magnanim,136000,3,98,Tarragona,Cataluña
+Duplex,Avenida Collblan,170000,3,95,Tarragona,Cataluña
+Piso,Calle Violant d'Hongria,145500,2,67,Tarragona,Cataluña
+Piso,Calle Dos,112000,3,83,Tarragona,Cataluña
+Piso,Calle Vint-I-Vuit,128500,3,92,Tarragona,Cataluña
+Piso,Rambla de Ponent,173500,4,93,Tarragona,Cataluña
+Piso,Avenida de la Diputacio,115000,1,31,Tarragona,Cataluña
+Chalet,Calle de l'esglesia,165000,4,152,Tarragona,Cataluña
+Chalet,Calle Societat,189000,3,99,Tarragona,Cataluña
+Piso,Calle Deltebre,132000,3,117,Tarragona,Cataluña
+Chalet,Calle Carrasclet,460000,5,250,Tarragona,Cataluña
+Chalet,Centro,150000,3,82,Tarragona,Cataluña
+Piso,Emili Parras 10,112000,3,102,Tarragona,Cataluña
+Casa Rural,Sant Antoni,245000,5,175,Tarragona,Cataluña
+Chalet,barrio Valldemar - Montmar,208000,5,840,Tarragona,Cataluña
+Chalet,Calle Estats Units 33,198000,3,600,Tarragona,Cataluña
+Piso,Calle de Sant Pere 44,210000,3,97,Tarragona,Cataluña
+Piso,Creixell,170000,3,101,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 132,215700,3,87,Tarragona,Cataluña
+Duplex,Pablo Neruda s/n,180000,3,50,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 132,215700,3,112,Tarragona,Cataluña
+Chalet,Residencial,380000,3,95,Tarragona,Cataluña
+Chalet,Sortanelles 1,150000,2,76,Tarragona,Cataluña
+Piso,joan tibau,96000,3,87,Tarragona,Cataluña
+Chalet,Residencial,205000,4,165,Tarragona,Cataluña
+Piso,Av Codonyol,68000,4,90,Tarragona,Cataluña
+Piso,Nou del Pont 2,145000,2,68,Tarragona,Cataluña
+Casa Rural,romas s/n,175000,3,94,Tarragona,Cataluña
+Chalet,Calle de la Font,215000,5,177,Tarragona,Cataluña
+Chalet,Calle de les Mimoses 2,430000,3,150,Tarragona,Cataluña
+Chalet,Calle Pais Basc 3,234500,8,334,Tarragona,Cataluña
+Chalet,Camino de les Hortes 1,495000,5,199,Tarragona,Cataluña
+Chalet,Calle de la Cerdanya 4,299000,3,96,Tarragona,Cataluña
+Chalet,Calle de tarragona s/n,220000,3,70,Tarragona,Cataluña
+Chalet,Avenida Verge de l'Abellera 40,340000,6,242,Tarragona,Cataluña
+Piso,Sant Isidre,68000,3,87,Tarragona,Cataluña
+Piso,Calle de Sant Pere 44,210000,3,106,Tarragona,Cataluña
+Piso,Eixample,530000,3,91,Tarragona,Cataluña
+Piso,Paseo de Sunyer 41,179000,4,125,Tarragona,Cataluña
+Chalet,Vila-Rodona,330000,2,36000,Tarragona,Cataluña
+Piso,Marques de Valterra,85000,3,107,Tarragona,Cataluña
+Chalet,Vila-Rodona,330000,2,36000,Tarragona,Cataluña
+Chalet,Residencial,380000,3,95,Tarragona,Cataluña
+Piso,Calle de Sant Pere 44,210000,3,83,Tarragona,Cataluña
+Chalet,Sant Antoni,110000,3,163,Tarragona,Cataluña
+Chalet,Remolins - St Jaume,96000,5,190,Tarragona,Cataluña
+Piso,Plaza Pessebre 1,325000,3,26,Tarragona,Cataluña
+Chalet,Calle Estats Units 33,198000,3,600,Tarragona,Cataluña
+Piso,Barcelona,140000,3,108,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,160,Tarragona,Cataluña
+Chalet,Calle Doctor Campalans i Puig 4,239000,3,116,Tarragona,Cataluña
+Chalet,Calle Galicia 37,234500,8,361,Tarragona,Cataluña
+Piso,Calle Mar del Coral,220000,3,137,Tarragona,Cataluña
+Piso,Carretera de Valls 58,128500,2,65,Tarragona,Cataluña
+Chalet,De la Marinada 3,450000,4,126,Tarragona,Cataluña
+Chalet,Calle del Pla de l'Era s/n,420000,4,149,Tarragona,Cataluña
+Chalet,Calle Mas d'en Vernet s/n,350000,5,184,Tarragona,Cataluña
+Chalet,Calle del Castell d'Almansa s/n,375000,5,166,Tarragona,Cataluña
+Ático,Mèlies 19,225000,3,111,Tarragona,Cataluña
+Piso,Avenida Espanya 54,189000,3,45,Tarragona,Cataluña
+Chalet,Canyaret 11,259000,3,93,Tarragona,Cataluña
+Chalet,Calle Francesc Cambó 42,220000,3,98,Tarragona,Cataluña
+Chalet,Camino del Moli s/n,1000000,7,20,Tarragona,Cataluña
+Piso,Calle de Castellvell 18,185000,2,71,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu 164,225000,3,94,Tarragona,Cataluña
+Chalet,Urbanització Alorda Park s/n,375000,4,148,Tarragona,Cataluña
+Piso,Calle de Santiago Rusiñol 1,325000,3,86,Tarragona,Cataluña
+Chalet,Garrofers,415000,4,147,Tarragona,Cataluña
+Casa Rural,Calle Diputat Orga P 2,18900,1,57,Tarragona,Cataluña
+Duplex,Calle Fra Antoni Cardona i Grau 2,279000,3,85,Tarragona,Cataluña
+Ático,barcelona 11,144900,2,77,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 132,215700,3,95,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,195000,3,88,Tarragona,Cataluña
+Piso,Calle Ramon Berenguer IV,192000,4,109,Tarragona,Cataluña
+Chalet,CL BALL DEL DIABLES 2,300000,5,35,Tarragona,Cataluña
+Chalet,Calle Paul Gaugin,900000,4,17,Tarragona,Cataluña
+Piso,Calle de Sant Pere 44,210000,3,119,Tarragona,Cataluña
+Chalet,Calle Ildefons Cerdà 23,275000,4,136,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,195000,3,111,Tarragona,Cataluña
+Piso,llobregat,64000,1,44,Tarragona,Cataluña
+Duplex,Calle Fra Antoni Cardona i Grau 2,279000,3,94,Tarragona,Cataluña
+Ático,barcelona 11,144900,2,62,Tarragona,Cataluña
+Piso,Calle de Santiago Rusiñol 1,325000,3,80,Tarragona,Cataluña
+Chalet,Calle Francesc Cambó 42,220000,3,94,Tarragona,Cataluña
+Chalet,Camino del Moli s/n,1000000,7,20,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 132,215700,3,95,Tarragona,Cataluña
+Estudio,Calle Merce 15,75000,0,33,Tarragona,Cataluña
+Duplex,Calle Anoia,420000,2,70,Tarragona,Cataluña
+Piso,Barcelona,140000,3,80,Tarragona,Cataluña
+Ático,sunyer 16,179000,3,30,Tarragona,Cataluña
+Chalet,Avenida Diagonal de la Bonanova 7,535000,4,143,Tarragona,Cataluña
+Chalet,Avenida del Mirador 46,395000,4,568,Tarragona,Cataluña
+ 219,877260592,Santa Maria,219,650,Tarragona,Cataluña
+Piso,Calle Bloc Begònia 12,69900,3,65,Tarragona,Cataluña
+Chalet,Avenida Espanya 313,276000,3,81,Tarragona,Cataluña
+Casa Rural,Carretera VALLS NULLES s/n,1450000,9,416,Tarragona,Cataluña
+Piso,Calle Doctor Salk 40,155000,2,80,Tarragona,Cataluña
+Piso,Calle Rosa dels Vents 15,300000,2,32,Tarragona,Cataluña
+Chalet,Calle Mas dels Ossos,219900,5,180,Tarragona,Cataluña
+Piso,Calle del Nord 26,132000,2,68,Tarragona,Cataluña
+Chalet,Mèlies 19,305000,4,129,Tarragona,Cataluña
+Chalet,Via Augusta s/n,1200000,4,160,Tarragona,Cataluña
+Chalet,Calle Violeta 35,237000,5,164,Tarragona,Cataluña
+Piso,Calle de Bertran de Castellet,425000,5,200,Tarragona,Cataluña
+Piso,Plaza Europa 3,220000,4,160,Tarragona,Cataluña
+Piso,Calle Rosa dels Vents 15,305000,2,32,Tarragona,Cataluña
+Chalet,Ronda de Subirà,280000,4,200,Tarragona,Cataluña
+Chalet,ametllers 31,150000,2,71,Tarragona,Cataluña
+Chalet,Calle la Pau,215000,3,88,Tarragona,Cataluña
+Piso,Calle del Camí del Racó,210000,3,86,Tarragona,Cataluña
+Duplex,Calle de Reus 2,250000,4,142,Tarragona,Cataluña
+Chalet,Calle Major,480000,5,410,Tarragona,Cataluña
+Chalet,Avenida Diagonal de la Bonanova 7,535000,4,153,Tarragona,Cataluña
+Chalet,Margalló 73,585000,6,225,Tarragona,Cataluña
+Piso,Calle Rosa dels Vents 15,275000,2,32,Tarragona,Cataluña
+Piso,Calle de Josep Vicenç Foix 17,100000,2,900,Tarragona,Cataluña
+Chalet,Calle Juli Vilarrubí 19,430000,4,160,Tarragona,Cataluña
+Piso,LEPANTO,129500,4,143,Tarragona,Cataluña
+Chalet,Eliseo Maifren,592000,4,237,Tarragona,Cataluña
+Chalet,Calle Gaià s/n,390000,4,217,Tarragona,Cataluña
+Chalet,Ronda de Subirà,280000,4,200,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler,156000,2,62,Tarragona,Cataluña
+Piso,Calle del Camí del Racó,210000,3,113,Tarragona,Cataluña
+Piso,Calle de Bertran de Castellet,425000,5,200,Tarragona,Cataluña
+Piso,Calle de l'Arquebisbe Pere de Cardona,260000,4,152,Tarragona,Cataluña
+Chalet,Cepell 3,315000,4,184,Tarragona,Cataluña
+Chalet,Calle Major,255000,3,88,Tarragona,Cataluña
+Chalet,Calle del Roselló,273000,4,153,Tarragona,Cataluña
+Piso,Priorat,128000,2,82,Tarragona,Cataluña
+Chalet,Falset,95000,3,140,Tarragona,Cataluña
+Casa Rural,Calle Nou,109000,2,64,Tarragona,Cataluña
+Duplex,Altafulla,585000,4,153,Tarragona,Cataluña
+Piso,Calle d'Alcover 7,89700,3,93,Tarragona,Cataluña
+Piso,pau casals,130000,2,73,Tarragona,Cataluña
+Ático,Platja de Mont-Roig,149900,1,46,Tarragona,Cataluña
+Piso,Calle President Josep Irla 1 A,380000,5,170,Tarragona,Cataluña
+Piso,Paseo de Francesc Macià,148000,2,67,Tarragona,Cataluña
+Chalet,Calle del Rescat,430000,7,412,Tarragona,Cataluña
+Ático,Avenida del Doctor Eduard Punset,184000,3,115,Tarragona,Cataluña
+Duplex,Calle de la Peixateria 12,129700,4,140,Tarragona,Cataluña
+Piso,Els Munts,129900,2,25,Tarragona,Cataluña
+Chalet,Valls,195000,5,250,Tarragona,Cataluña
+Chalet,Mont-Roig,30000,4,100,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu,380000,3,84,Tarragona,Cataluña
+Piso,Plaza Cosme Maine 6,98500,3,80,Tarragona,Cataluña
+Piso,Els Masos,170000,2,72,Tarragona,Cataluña
+Chalet,PD Servians 10,430000,2,85,Tarragona,Cataluña
+Duplex,Calle de l'Alcalde Joan Bertran,295000,4,138,Tarragona,Cataluña
+Chalet,Tramuntana,450000,4,1300,Tarragona,Cataluña
+Piso,barrio Segur Platja,140000,3,9,Tarragona,Cataluña
+Chalet,Falset,59900,4,139,Tarragona,Cataluña
+Duplex,Eixample,349000,4,143,Tarragona,Cataluña
+Chalet,Can Toni,220000,3,81,Tarragona,Cataluña
+Chalet,Vila-Seca,269000,5,176,Tarragona,Cataluña
+Chalet,Cornudella de Montsant,2500000,7,289,Tarragona,Cataluña
+Piso,Avenida Sant Joan de Déu 79,350000,4,140,Tarragona,Cataluña
+Piso,Centre,119000,4,148,Tarragona,Cataluña
+Piso,Calle del Pare Palau s/n,175000,5,170,Tarragona,Cataluña
+Chalet,Querol,219000,3,106,Tarragona,Cataluña
+Casa Rural,El Molar,6900000,15,619,Tarragona,Cataluña
+Piso,Calle de l'Arquitecte Ubach,235000,3,86,Tarragona,Cataluña
+Duplex,Calle de l'Alcalde Joan Bertran,295000,4,138,Tarragona,Cataluña
+Chalet,Tramuntana,450000,4,1300,Tarragona,Cataluña
+Casa Rural,El Molar,6900000,15,531,Tarragona,Cataluña
+Duplex,Eixample,349000,4,121,Tarragona,Cataluña
+Piso,Calle Tramontana 1,92000,2,68,Tarragona,Cataluña
+Piso,Carretera de la costa 64,180000,2,70,Tarragona,Cataluña
+Piso,Carretera Barcelona 17,158000,3,84,Tarragona,Cataluña
+Piso,Calle de Pere Romeu 30,188000,3,13,Tarragona,Cataluña
+Piso,Pau casals 103,168000,3,77,Tarragona,Cataluña
+Piso,Tramontana 4,133000,2,70,Tarragona,Cataluña
+Chalet,Pompeu fabra 4,115000,4,278,Tarragona,Cataluña
+Chalet,societat,189000,3,103,Tarragona,Cataluña
+Piso,Creixell,155000,3,15,Tarragona,Cataluña
+Piso,Sant Rafael 26,99000,3,89,Tarragona,Cataluña
+Piso,Burgos 15,98000,4,132,Tarragona,Cataluña
+Piso,Calle Bequessina 4,98000,2,74,Tarragona,Cataluña
+Chalet,BLAT,210000,3,190,Tarragona,Cataluña
+Chalet,fundadors,139900,3,112,Tarragona,Cataluña
+Chalet,Calle Mirador de Barà,267000,4,229,Tarragona,Cataluña
+Chalet,Ramon das Neves,236000,4,139,Tarragona,Cataluña
+Piso,Avenida de Sant Vicenç,135000,4,130,Tarragona,Cataluña
+Piso,barrio Segur Platja,150000,3,85,Tarragona,Cataluña
+Piso,Calle Marinada,165000,2,74,Tarragona,Cataluña
+Casa Rural,Moli Foguet 124,323820,7,281,Tarragona,Cataluña
+Chalet,L'alguer 25,249900,4,525,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler 20,129000,2,77,Tarragona,Cataluña
+Piso,Calle de la Simpatica,64500,2,80,Tarragona,Cataluña
+Chalet,Avenida Montsià 31,365000,3,470,Tarragona,Cataluña
+Piso,Calle Montsià,66500,2,44,Tarragona,Cataluña
+Piso,Avenida del Codonyol,65000,4,153,Tarragona,Cataluña
+Chalet,ENRIC GRANADOS 60,360000,5,171,Tarragona,Cataluña
+Chalet,Calle de la Baixada Platja Cristall 4,780000,4,144,Tarragona,Cataluña
+ 6,877260705,Avenida Mas Solé,6,200,Tarragona,Cataluña
+Chalet,Calle de Bèlgica,157500,3,31,Tarragona,Cataluña
+Chalet,Calle del Doctor Dachs,280000,4,145,Tarragona,Cataluña
+Chalet,Avenida de les Palmeres 72,295000,3,113,Tarragona,Cataluña
+Chalet,Calle de la Rosada 7,340000,4,132,Tarragona,Cataluña
+Chalet,Calle Hipòcrates-Romaní 29,780000,5,57,Tarragona,Cataluña
+Piso,Calle Mediterrani 7,153000,3,88,Tarragona,Cataluña
+Ático,Paseo de la estacio,144900,2,105,Tarragona,Cataluña
+Chalet,Calle del Doctor Dachs,280000,4,137,Tarragona,Cataluña
+Chalet,Calle Vall d'Aran 54,650000,10,2074,Tarragona,Cataluña
+Chalet,Calle de la Muralla,170000,6,214,Tarragona,Cataluña
+Chalet,Calle Calaf,150000,2,62,Tarragona,Cataluña
+Piso,Calle de Torres Jordi 18,165000,3,116,Tarragona,Cataluña
+Piso,Calle de Galceran Marquet,287000,3,87,Tarragona,Cataluña
+Piso,Calle de Cèsar Martinell i Brunet,175500,3,111,Tarragona,Cataluña
+Chalet,Calle PUIG DE L'AGUILA,289000,4,136,Tarragona,Cataluña
+ 6,877260705,Avenida Mas Solé,6,249,Tarragona,Cataluña
+Chalet,Calle Joan Maragall 4,325000,8,344,Tarragona,Cataluña
+Piso,Calle del Vendrell 18,120000,2,60,Tarragona,Cataluña
+Piso,Avenida del Baix Camp,177500,4,148,Tarragona,Cataluña
+Chalet,Calle de la Vall de Sant Marc 18,299900,4,146,Tarragona,Cataluña
+Chalet,Av de la Camêlia 3,390000,4,725,Tarragona,Cataluña
+Chalet,Illes Canàries,335000,3,420,Tarragona,Cataluña
+Chalet,Calle de la Baixada Platja Cristall 4,780000,4,142,Tarragona,Cataluña
+Piso,Calle de Frederic Mompou,338900,4,122,Tarragona,Cataluña
+Chalet,ENRIC GRANADOS 60,360000,5,188,Tarragona,Cataluña
+Chalet,Calle Galicia 37,234500,8,338,Tarragona,Cataluña
+Piso,Calle Mediterrani 7,153000,3,96,Tarragona,Cataluña
+Chalet,Calle Mas d'en Vernet,325000,4,152,Tarragona,Cataluña
+Chalet,Rambla Vella 26,650000,5,168,Tarragona,Cataluña
+Piso,Robert Gerard,334000,3,88,Tarragona,Cataluña
+Chalet,Calle Edmundo Dantés 12,330000,3,125,Tarragona,Cataluña
+Chalet,Sant Ferran,235000,3,91,Tarragona,Cataluña
+Chalet,Plaza Tarragona 8,480000,8,312,Tarragona,Cataluña
+Chalet,Calle Hipòcrates-Romaní 29,780000,5,57,Tarragona,Cataluña
+Piso,Santes Creus,179000,3,81,Tarragona,Cataluña
+Chalet,Avenida del Tancat de la Plana,1875000,9,1362,Tarragona,Cataluña
+Piso,Calle Jupiter,154000,2,64,Tarragona,Cataluña
+Chalet,Calle del Doctor Dachs,280000,4,141,Tarragona,Cataluña
+Chalet,Avenida de les Palmeres 72,295000,3,96,Tarragona,Cataluña
+Piso,Calle de Domènec Sugrañes i Gras 13,199000,2,73,Tarragona,Cataluña
+Duplex,Avenida Horta de Santa Maria,465000,4,280,Tarragona,Cataluña
+Chalet,Calle Castell de Siurana,288000,4,123,Tarragona,Cataluña
+Chalet,Calle PUIG DE L'AGUILA,289000,4,123,Tarragona,Cataluña
+Casa Rural,Partida Bo Anolls,166000,3,857,Tarragona,Cataluña
+Chalet,Avenida CENTRAL,260000,3,550,Tarragona,Cataluña
+Chalet,Avenida Maria Cristina,430000,5,220,Tarragona,Cataluña
+Piso,Calle dels Costers,156000,2,79,Tarragona,Cataluña
+Piso,Calle de Lleida,155000,3,84,Tarragona,Cataluña
+Chalet,Avenida de l'Avenc,160000,5,170,Tarragona,Cataluña
+Piso,BISBE DE GRAU REUS,135000,3,82,Tarragona,Cataluña
+Chalet,LLUIS MARIA MILLET,230000,4,155,Tarragona,Cataluña
+Chalet,Avenida de Josep Gramunt i Subiela 8 -2,1200000,5,184,Tarragona,Cataluña
+Chalet,Calle de la Conca de Barberà,315000,4,452,Tarragona,Cataluña
+Piso,Calle de Joan Coromines,195000,4,98,Tarragona,Cataluña
+Casa Rural,Via sense nom,280000,8,358,Tarragona,Cataluña
+Chalet,Calle Terral de Dalt,1100000,6,223,Tarragona,Cataluña
+Ático,Calle del Pintor Mir,150000,4,126,Tarragona,Cataluña
+Piso,Calle del Besòs,119000,2,85,Tarragona,Cataluña
+Piso,segarra,136000,3,93,Tarragona,Cataluña
+Piso,Calle Joan Baptista Plana,205000,3,120,Tarragona,Cataluña
+Piso,Calle Riu Brugent,295000,3,30,Tarragona,Cataluña
+Casa Rural,Partida Poblas,577000,6,226,Tarragona,Cataluña
+Duplex,Calle de Francesc Artiga Sardà,327900,4,13,Tarragona,Cataluña
+Ático,Calle BARCELONA,144900,2,60,Tarragona,Cataluña
+Chalet,Calle Pablo Picasso,310000,4,149,Tarragona,Cataluña
+Chalet,Avenida CENTRAL,260000,3,550,Tarragona,Cataluña
+Piso,Calle de Joan Salvat-Papasseit,415000,4,1400,Tarragona,Cataluña
+Ático,Calle de l'Arquitecte Ubach 12,270000,4,90,Tarragona,Cataluña
+Chalet,Avenida Pratdip,120500,2,73,Tarragona,Cataluña
+Chalet,Camino Vial,76000,2,68,Tarragona,Cataluña
+Chalet,Calle la Pau,215000,3,117,Tarragona,Cataluña
+Chalet,Av Joan XIII,465000,4,143,Tarragona,Cataluña
+Piso,Calle del General Contreras 29,140000,4,87,Tarragona,Cataluña
+Chalet,Avenida del Tancat de la Plana,1875000,9,1362,Tarragona,Cataluña
+Casa Rural,Partida Bo Anolls,166000,3,857,Tarragona,Cataluña
+Piso,Calle de Pau Font de Rubinat,152000,2,67,Tarragona,Cataluña
+Chalet,Calle Lluis Companys,599000,3,113,Tarragona,Cataluña
+Chalet,Avenida de la Camêlia,550000,5,197,Tarragona,Cataluña
+Chalet,Paseo Marítim 80,365000,4,161,Tarragona,Cataluña
+Piso,antoni gaudi,330000,4,40,Tarragona,Cataluña
+Chalet,Calle Vall d'Aran,650000,9,2074,Tarragona,Cataluña
+Piso,Avenida de la Ràpita,99000,4,134,Tarragona,Cataluña
+Piso,Cervantes,125000,3,106,Tarragona,Cataluña
+Chalet,Calle Panamà,475000,5,197,Tarragona,Cataluña
+Piso,JOSEP MARIA DE SEGARRA,269000,3,98,Tarragona,Cataluña
+Chalet,Calle Castell de Siurana,288000,4,151,Tarragona,Cataluña
+Ático,Calle del Pintor Mir,150000,4,124,Tarragona,Cataluña
+Piso,Calle de Joan Salvat-Papasseit,415000,4,1400,Tarragona,Cataluña
+Chalet,Calle Pablo Picasso,310000,4,147,Tarragona,Cataluña
+Chalet,Calle Vall d'Aran,650000,9,2074,Tarragona,Cataluña
+Piso,Calle de David de Mas,215000,3,84,Tarragona,Cataluña
+Piso,antoni gaudi,330000,4,40,Tarragona,Cataluña
+Piso,Calle Doctor Pascual,223000,3,104,Tarragona,Cataluña
+Chalet,Calle de Sant Antoni 48,300000,5,308,Tarragona,Cataluña
+Chalet,Travesía de l'Ermita,235000,3,111,Tarragona,Cataluña
+Piso,Calle de Falset 2,145000,3,81,Tarragona,Cataluña
+Chalet,Avenida de la Camêlia,550000,5,173,Tarragona,Cataluña
+Piso,Calle Joan Baptista Plana,205000,3,107,Tarragona,Cataluña
+Piso,Avenida de la Ràpita,99000,4,134,Tarragona,Cataluña
+Chalet,Calle del Doctor Dachs,280000,4,128,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler,149000,3,114,Tarragona,Cataluña
+Ático,Avenida de les Sinies,139000,3,98,Tarragona,Cataluña
+Chalet,LLUIS MARIA MILLET,230000,4,132,Tarragona,Cataluña
+Ático,Calle de l'Arquitecte Ubach 12,270000,4,90,Tarragona,Cataluña
+Piso,Lluís companys 4,144000,2,77,Tarragona,Cataluña
+Piso,Calle del Besòs,119000,2,85,Tarragona,Cataluña
+Piso,Calle del Metge Miquel Pare I Ferran,109000,3,97,Tarragona,Cataluña
+Piso,Calle Cicerón,295000,4,390,Tarragona,Cataluña
+Casa Rural,Via sense nom,280000,8,382,Tarragona,Cataluña
+Piso,Calle de Cambrils,245000,5,179,Tarragona,Cataluña
+Piso,Calle Riu Brugent,295000,3,30,Tarragona,Cataluña
+Chalet,Calle de la Marinada,535000,5,200,Tarragona,Cataluña
+Casa Rural,N-420,325000,4,30,Tarragona,Cataluña
+Piso,Sector Masets,70000,2,66,Tarragona,Cataluña
+Chalet,Calle del Pla de l'Era,725000,5,334,Tarragona,Cataluña
+Chalet,Calle Palmeres,780000,4,153,Tarragona,Cataluña
+Piso,Calle de montblanc,89700,4,101,Tarragona,Cataluña
+Ático,Ramon i Cajal,360000,4,141,Tarragona,Cataluña
+Chalet,Calle A,414000,4,263,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea,225000,4,126,Tarragona,Cataluña
+Chalet,Calle Mirador,650000,5,184,Tarragona,Cataluña
+Casa Rural,Camino de Riudoms a Reus,175000,2,3000,Tarragona,Cataluña
+Casa Rural,Carretera de Mont-ral,1490000,6,2800,Tarragona,Cataluña
+Chalet,936173974,Castell Monestir d'Escornalbou,800000,48,Tarragona,Cataluña
+Chalet,Calle del Baró de la Tournelle,1950000,4,1836,Tarragona,Cataluña
+Piso,Calle de Pin i Soler,180000,4,132,Tarragona,Cataluña
+Chalet,ARBOLI,214900,3,94,Tarragona,Cataluña
+Casa Rural,Camino de Riudoms a Reus,175000,2,3000,Tarragona,Cataluña
+Piso,Calle Emigdio Rodríguez Pita,143000,3,85,Tarragona,Cataluña
+Chalet,Calle Major,239900,3,220,Tarragona,Cataluña
+Piso,colom,119000,2,69,Tarragona,Cataluña
+Chalet,Víctor Balaguer,195000,3,584,Tarragona,Cataluña
+Chalet,Avenida CATALUNYA,950000,4,3600,Tarragona,Cataluña
+Piso,Avenida De Cossetania 95,343200,4,20,Tarragona,Cataluña
+Piso,Calle de Santa Joaquima de Vedruna,270000,4,160,Tarragona,Cataluña
+Chalet,Calle de Alfred Sisley,380000,2,83,Tarragona,Cataluña
+Chalet,Calle Josep Lluís de la Rosa,430000,3,25,Tarragona,Cataluña
+Chalet,Calle del Pla de l'Era,725000,5,334,Tarragona,Cataluña
+Piso,Dels Costers 2,142000,2,89,Tarragona,Cataluña
+Ático,Ramon i Cajal,360000,4,141,Tarragona,Cataluña
+Piso,Avenida roma,296900,4,150,Tarragona,Cataluña
+Chalet,Calle de la Caseta,825000,4,800,Tarragona,Cataluña
+Chalet,Calle Repòs,160000,3,109,Tarragona,Cataluña
+Piso,Carretera de la Costa,98500,3,115,Tarragona,Cataluña
+Piso,Avenida De Cossetania 95,244200,3,27,Tarragona,Cataluña
+Chalet,Calle alta fulla Urb Bella MAr,498000,4,450,Tarragona,Cataluña
+Chalet,Avenida Lluís Millet,365000,4,132,Tarragona,Cataluña
+Chalet,del Rescat,340000,3,82,Tarragona,Cataluña
+Casa Rural,Carretera de Mont-ral,1490000,6,2800,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea,225000,4,155,Tarragona,Cataluña
+Chalet,Copernico,298000,4,138,Tarragona,Cataluña
+Piso,Calle de montblanc,89700,4,101,Tarragona,Cataluña
+Casa Rural,Raval de Lleida,900000,12,50000,Tarragona,Cataluña
+Chalet,Sant antoni,245000,5,508,Tarragona,Cataluña
+Piso,Calle del Monestir de Ripoll,150000,3,117,Tarragona,Cataluña
+Chalet,Calle Hipòcrates-Romaní,780000,5,550,Tarragona,Cataluña
+Chalet,Calle Abat Escarré,460000,4,353,Tarragona,Cataluña
+Piso,Av de la Llosa,365000,3,32,Tarragona,Cataluña
+Chalet,Aiguamurcia,90000,3,839,Tarragona,Cataluña
+Chalet,Calle Moscú,398000,4,125,Tarragona,Cataluña
+Chalet,Camino de Masmolets-Sud 43800 Valls Tarragona España,1295000,11,31500,Tarragona,Cataluña
+Estudio,Avenida de la Diputació 168,110000,0,31,Tarragona,Cataluña
+Piso,Sector Masets,70000,2,70,Tarragona,Cataluña
+Piso,Avenida De Cossetania 95,238700,3,4,Tarragona,Cataluña
+Chalet,Pau Casals,249900,3,118,Tarragona,Cataluña
+Piso,Masdenverge,66000,3,97,Tarragona,Cataluña
+Casa Rural,Aiguamurcia,495000,6,30000,Tarragona,Cataluña
+Piso,Calle del Eixerit,159500,2,77,Tarragona,Cataluña
+Chalet,Pedrera del Còbic,1250000,7,1300,Tarragona,Cataluña
+Chalet,Calle de Tramuntana,420000,3,114,Tarragona,Cataluña
+Ático,Margallo,435000,3,95,Tarragona,Cataluña
+Chalet,Calle Arístides Maiol,603000,4,70,Tarragona,Cataluña
+Chalet,Creixell,132900,3,83,Tarragona,Cataluña
+Piso,Calle Ventura Gassol,138000,1,50,Tarragona,Cataluña
+Chalet,Avenida de les Comarques Catalanes,259000,3,40,Tarragona,Cataluña
+Piso,Montsià de Mar,116000,2,60,Tarragona,Cataluña
+Chalet,Calle Eres del Calvari,230000,4,139,Tarragona,Cataluña
+Chalet,Avenida de les Comarques Catalanes,259000,4,158,Tarragona,Cataluña
+Chalet,Calle de l'Anglí,189000,3,103,Tarragona,Cataluña
+Piso,Calle Riu Brugent,295000,3,30,Tarragona,Cataluña
+Chalet,islandia,190000,3,14,Tarragona,Cataluña
+Piso,Residencial,99500,1,600,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,149500,3,83,Tarragona,Cataluña
+Chalet,Calle Sajolida,319000,4,149,Tarragona,Cataluña
+Piso,Calle de Narcís Monturiol 21,91000,2,71,Tarragona,Cataluña
+Casa Rural,LA SERRA s/n,265000,4,8798,Tarragona,Cataluña
+Piso,Calle de Santa Joaquima de Vedruna,270000,4,111,Tarragona,Cataluña
+Chalet,Calle Margalló Serdenya 18,208000,4,269,Tarragona,Cataluña
+Chalet,Pi de Baltasar,900000,5,60,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar,170000,2,69,Tarragona,Cataluña
+Piso,albinyana 6,145000,3,113,Tarragona,Cataluña
+Piso,Baixador,149000,3,86,Tarragona,Cataluña
+Chalet,Creixell,200000,4,135,Tarragona,Cataluña
+Chalet,Creixell,298000,4,124,Tarragona,Cataluña
+Piso,Tortosa,850000,3,600,Tarragona,Cataluña
+Piso,Marques de Valterra,75000,4,139,Tarragona,Cataluña
+Chalet,Gorbea,490000,4,200,Tarragona,Cataluña
+Chalet,Avenida de les Comarques Catalanes,259000,4,148,Tarragona,Cataluña
+Piso,Montsià,147900,3,85,Tarragona,Cataluña
+Piso,lleida,155000,3,86,Tarragona,Cataluña
+Casa Rural,El Pont d'Armentera,495000,6,30000,Tarragona,Cataluña
+Chalet,Tarragona,450000,6,227,Tarragona,Cataluña
+Casa Rural,Calle Major 9,155000,3,90,Tarragona,Cataluña
+Piso,Calle del Riu Glorieta 18,290000,3,94,Tarragona,Cataluña
+Chalet,L'Hospitalet de l'Infant,1392000,5,170,Tarragona,Cataluña
+Chalet,Sant Josep 2,425000,5,171,Tarragona,Cataluña
+Casa Rural,El Pont d'Armentera,495000,6,30000,Tarragona,Cataluña
+Chalet,El Catllar,479000,4,521,Tarragona,Cataluña
+Chalet,Creixell,200000,4,153,Tarragona,Cataluña
+Piso,Plaza Generalitat s/n,165000,3,115,Tarragona,Cataluña
+Piso,Avenida Palfuriana 123,178000,4,87,Tarragona,Cataluña
+Chalet,Calle Eucaliptus,275000,4,180,Tarragona,Cataluña
+Piso,Calle del Fonoll 1,215000,3,93,Tarragona,Cataluña
+Chalet,Calle Julio Romero,149000,3,97,Tarragona,Cataluña
+Piso,Avenida Espanya,215000,3,94,Tarragona,Cataluña
+Chalet,Calle del Doctor Dachs,280000,4,153,Tarragona,Cataluña
+Piso,jaume balmes,59500,3,81,Tarragona,Cataluña
+Piso,josep plà 9,160000,2,69,Tarragona,Cataluña
+Piso,Camino Pont del Diable,95950,3,81,Tarragona,Cataluña
+Chalet,Calle del Forn,56000,3,118,Tarragona,Cataluña
+Piso,Montseny,130000,4,123,Tarragona,Cataluña
+Chalet,Fortalesa,535000,3,237,Tarragona,Cataluña
+Piso,Calle Bruselles,330000,2,68,Tarragona,Cataluña
+Piso,Calle Montblanc,70000,3,73,Tarragona,Cataluña
+Piso,Riudecols,84000,1,51,Tarragona,Cataluña
+Duplex,Paseo de la Generalitat,88900,3,88,Tarragona,Cataluña
+Chalet,Calle Xiprés,590000,4,206,Tarragona,Cataluña
+Piso,Calle de Bernat Torroja,100000,2,76,Tarragona,Cataluña
+Chalet,salvador dali,599000,8,80,Tarragona,Cataluña
+Piso,mayor 38,140000,3,94,Tarragona,Cataluña
+Duplex,Calle Tarragona,340000,3,89,Tarragona,Cataluña
+Piso,Francesc de paula,120000,3,86,Tarragona,Cataluña
+Chalet,solimar A,160000,4,135,Tarragona,Cataluña
+Piso,Calle Cristòfor Colom,215000,3,124,Tarragona,Cataluña
+Chalet,Agustina d'arago,98000,3,101,Tarragona,Cataluña
+Chalet,Hostal Frares,95000,3,101,Tarragona,Cataluña
+Piso,Calle de Beatriu de Queralt 8,184840,3,89,Tarragona,Cataluña
+Piso,Rambla Cataluña,169900,4,129,Tarragona,Cataluña
+Chalet,Sant Gregori,194765,4,46,Tarragona,Cataluña
+Piso,Pau Casals 1,228000,3,91,Tarragona,Cataluña
+Piso,Calle de Cambrils,199000,3,87,Tarragona,Cataluña
+Piso,Calle de Madrid 19,290000,3,110,Tarragona,Cataluña
+Casa Rural,Diseminat 1,95000,1,83,Tarragona,Cataluña
+Piso,PENEDES 10,111500,1,52,Tarragona,Cataluña
+Piso,Calle dels Replanells 3,88000,1,40,Tarragona,Cataluña
+Piso,Calle d'Alfred Opisso,159000,3,106,Tarragona,Cataluña
+Chalet,Calle Santa Ursula,1150000,10,695,Tarragona,Cataluña
+Piso,Calle de Guillem de Montcada,135000,3,66,Tarragona,Cataluña
+Piso,Calle de Barbastre,125000,2,63,Tarragona,Cataluña
+Chalet,Barri Prenafeta,670000,6,208,Tarragona,Cataluña
+Piso,Calle Prades,68500,2,55,Tarragona,Cataluña
+Ático,DOCTOR RAVENTOS 12,125000,2,77,Tarragona,Cataluña
+Piso,Calle Dotze,73000,3,64,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar,155000,1,67,Tarragona,Cataluña
+Piso,Calle Lleida,199000,4,104,Tarragona,Cataluña
+Chalet,austria s/n,285000,4,129,Tarragona,Cataluña
+Estudio,De les Dunes,98000,0,40,Tarragona,Cataluña
+Piso,Crta de Valencia,88500,3,85,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler,236000,3,122,Tarragona,Cataluña
+Piso,Calle de Sant Pere 44,210000,3,93,Tarragona,Cataluña
+Piso,Avenida de Carles Buigas,140000,2,63,Tarragona,Cataluña
+Chalet,santa magdalena,260000,5,127,Tarragona,Cataluña
+Piso,Calle Quatre,150000,3,115,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,154,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,195000,3,116,Tarragona,Cataluña
+Piso,Mas dels Cups,229000,4,101,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,155000,2,68,Tarragona,Cataluña
+Piso,Calle Rovira i Virgili,144000,3,83,Tarragona,Cataluña
+Chalet,Calle Panamà,475000,5,197,Tarragona,Cataluña
+Piso,Tarragona,165000,2,55,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,127600,2,79,Tarragona,Cataluña
+Chalet,Calle Josep Iglesias,1650000,4,130,Tarragona,Cataluña
+Piso,Calle C,113500,3,88,Tarragona,Cataluña
+Chalet,Calle Sant MagÍ,249000,4,136,Tarragona,Cataluña
+Piso,Costa Daurada - Sant Gaietà,79000,1,58,Tarragona,Cataluña
+Piso,Calle Baixador,149000,3,111,Tarragona,Cataluña
+Piso,tortosa,199900,2,61,Tarragona,Cataluña
+Chalet,Calle Porrassa 5,430000,5,171,Tarragona,Cataluña
+Chalet,Calle Ramon Cantó,290000,8,319,Tarragona,Cataluña
+Piso,Rambla Nova,245000,4,104,Tarragona,Cataluña
+Chalet,Muralla de Santa Tecla,1600000,10,462,Tarragona,Cataluña
+Chalet,Via Augusta,945000,6,434,Tarragona,Cataluña
+Chalet,Carles Buigas 23,278990,5,227,Tarragona,Cataluña
+Chalet,Calle Major,205000,4,30,Tarragona,Cataluña
+Chalet,Avenida de la llum,329000,5,220,Tarragona,Cataluña
+Piso,Calle d'Eduard Toda,120000,2,77,Tarragona,Cataluña
+Piso,Calle Mossen Jacint Verdaguer,150000,3,90,Tarragona,Cataluña
+Chalet,Calle Santa Ursula,1150000,10,545,Tarragona,Cataluña
+Chalet,Via Augusta,945000,6,434,Tarragona,Cataluña
+Piso,Del Mar,175000,2,80,Tarragona,Cataluña
+Piso,Avenida Mossèn Jaume Soler,236000,3,122,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar,155000,1,67,Tarragona,Cataluña
+Piso,Calle Set,134000,3,90,Tarragona,Cataluña
+Piso,tortosa,199900,2,62,Tarragona,Cataluña
+Piso,Calle Major,99900,2,79,Tarragona,Cataluña
+Estudio,De les Dunes,98000,0,40,Tarragona,Cataluña
+Chalet,Calle Albània,285000,4,22,Tarragona,Cataluña
+Chalet,Calle Panamà,475000,5,197,Tarragona,Cataluña
+Chalet,Calafell Pueblo,278000,4,158,Tarragona,Cataluña
+Piso,Mare de Deu de Montserrat,130000,3,90,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,127600,2,78,Tarragona,Cataluña
+Piso,Calle del Bisbe Grau,150000,3,100,Tarragona,Cataluña
+Chalet,Calle Cant dels Ocells,163000,3,92,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,142,Tarragona,Cataluña
+Ático,DOCTOR RAVENTOS 12,125000,2,77,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,195000,3,82,Tarragona,Cataluña
+Piso,Rambla Nova,245000,4,104,Tarragona,Cataluña
+Piso,Paseo Marítim de Sant Joan de Déu 143,379500,4,127,Tarragona,Cataluña
+Piso,Calle Dotze,73000,3,64,Tarragona,Cataluña
+Piso,Calle de Guillem de Montcada,135000,3,66,Tarragona,Cataluña
+Piso,Calle de Barbastre,125000,2,70,Tarragona,Cataluña
+Piso,Calle Baixador,149000,3,87,Tarragona,Cataluña
+Chalet,austria s/n,285000,4,141,Tarragona,Cataluña
+Chalet,Calle de Tarragona,129000,3,90,Tarragona,Cataluña
+Estudio,Calle dels Sol,104000,0,32,Tarragona,Cataluña
+Chalet,Coma-Ruga,418000,7,266,Tarragona,Cataluña
+Chalet,Residencial,249000,4,148,Tarragona,Cataluña
+Piso,Plaza catalunya 9,108000,1,38,Tarragona,Cataluña
+Chalet,Via sense nom,220000,3,120,Tarragona,Cataluña
+Ático,Calle Castell de Tamarit,230000,2,92,Tarragona,Cataluña
+Chalet,Calle del espigol,160000,3,91,Tarragona,Cataluña
+Piso,Nou Eixample Nord,190000,4,160,Tarragona,Cataluña
+Piso,Calle del País Basc,153000,3,74,Tarragona,Cataluña
+Casa Rural,Calle Major,205000,4,35,Tarragona,Cataluña
+Casa Rural,Camino de la colada mayor s/n,215000,7,300,Tarragona,Cataluña
+Piso,Carretera de Domènec Sugrañes i Gras 22,173150,2,69,Tarragona,Cataluña
+Chalet,barrio Centro,340000,3,97,Tarragona,Cataluña
+Piso,Carretera de Domènec Sugrañes i Gras 22,208900,3,113,Tarragona,Cataluña
+Chalet,Calle Freixa,204000,3,220,Tarragona,Cataluña
+Piso,Nou Eixample Nord,190000,4,138,Tarragona,Cataluña
+Piso,Avenida de la Diputació 93,199000,4,138,Tarragona,Cataluña
+Chalet,Calle Foixarda,1500000,5,323,Tarragona,Cataluña
+Casa Rural,Calle Major,205000,4,35,Tarragona,Cataluña
+Piso,Calle d'Antoni Gaudí,113050,3,119,Tarragona,Cataluña
+Piso,Carretera de Domènec Sugrañes i Gras 22,173150,2,79,Tarragona,Cataluña
+Casa Rural,Camino de la colada mayor s/n,215000,7,300,Tarragona,Cataluña
+Chalet,Residencial,249000,4,136,Tarragona,Cataluña
+Piso,Plaza catalunya 9,108000,1,38,Tarragona,Cataluña
+Chalet,Avenida Cinquena Avinguda,600000,3,740,Tarragona,Cataluña
+Piso,Calle Mas dels Cups,126000,3,150,Tarragona,Cataluña
+Chalet,Costa Cunit - Els Jardins - Els Rosers,225000,8,600,Tarragona,Cataluña
+Chalet,Via sense nom,220000,3,120,Tarragona,Cataluña
+Chalet,Residencial,249000,4,142,Tarragona,Cataluña
+Chalet,Calle Perseo,279000,3,117,Tarragona,Cataluña
+Duplex,Calle de Comte 16,260000,2,64,Tarragona,Cataluña
+Ático,Anoia 26 3ºE,420000,2,64,Tarragona,Cataluña
+Piso,Avenida Catalunya,215000,4,132,Tarragona,Cataluña
+Piso,Carrer de Joan Salvat i Bové 7,259000,3,50,Tarragona,Cataluña
+Piso,Avenida de Barcelona,120000,3,60,Tarragona,Cataluña
+Chalet,Calle del Ter,238350,3,266,Tarragona,Cataluña
+Piso,palfuriana s/n,229000,3,90,Tarragona,Cataluña
+Piso,Calle Baixador,135000,2,77,Tarragona,Cataluña
+Piso,Calle dels Replanells 1,115000,1,60,Tarragona,Cataluña
+Piso,Calle Miño 5,260000,3,88,Tarragona,Cataluña
+Piso,Carrer de Joan Salvat i Bové 7,202000,2,50,Tarragona,Cataluña
+Piso,Carrer de Joan Salvat i Bové 7,215000,2,50,Tarragona,Cataluña
+Piso,Calle de Pau Casals 27,310000,3,95,Tarragona,Cataluña
+Piso,Sant Francesc 9,91950,2,55,Tarragona,Cataluña
+Piso,muralla,120000,1,43,Tarragona,Cataluña
+Chalet,Calle Plana d'en Berga,609000,4,400,Tarragona,Cataluña
+Piso,Calle Miño 5,295000,3,87,Tarragona,Cataluña
+Piso,Calle d'Hipòlit Lázaro 22,125000,1,50,Tarragona,Cataluña
+Chalet,barrio Els Ametllers,1675000,5,849,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,170000,3,500,Tarragona,Cataluña
+Piso,Calle de l'Estany 7,170000,3,500,Tarragona,Cataluña
+Casa Rural,Calle Major,205000,4,35,Tarragona,Cataluña
+Chalet,bessona,399000,3,115,Tarragona,Cataluña
+Piso,Avenida de Sant Bernat Calbó,136000,3,99,Tarragona,Cataluña
+Piso,Calle de la Rocaplana 2,230000,3,30,Tarragona,Cataluña
+Piso,Paseo francesc macia,285000,3,109,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,364000,4,30,Tarragona,Cataluña
+Chalet,pollacra,390000,3,800,Tarragona,Cataluña
+Casa Rural,Calle Major,205000,4,35,Tarragona,Cataluña
+Piso,Avenida Esglesia s/n,125000,2,63,Tarragona,Cataluña
+Piso,Calle de Sant Ferran,155000,4,83,Tarragona,Cataluña
+Piso,Sant Jordi-Babilonia,185000,3,118,Tarragona,Cataluña
+Piso,Residencial,145000,2,82,Tarragona,Cataluña
+Piso,barrio Segur Platja,146000,2,69,Tarragona,Cataluña
+Casa Rural,Calle Major,205000,4,35,Tarragona,Cataluña
+Chalet,Calle Major 16,37000,3,108,Tarragona,Cataluña
+Chalet,Avenida de Navarra,198000,4,20,Tarragona,Cataluña
+Piso,Avenida Sant Joan de Déu 98,199000,2,78,Tarragona,Cataluña
+Piso,Calle de la Rocaplana 2,225000,3,20,Tarragona,Cataluña
+Ático,Calle de Mar 13,210000,3,25,Tarragona,Cataluña
+Piso,Calle Enrico Carusso 35,173000,2,70,Tarragona,Cataluña
+Piso,Calle de Josep Vicenç Foix 17,100000,2,900,Tarragona,Cataluña
+Chalet,CL BAIX 4,190000,3,119,Tarragona,Cataluña
+Piso,Calle dels Caputxins s/n,175000,3,100,Tarragona,Cataluña
+Chalet,caravella,350000,3,650,Tarragona,Cataluña
+Chalet,Reis d'Aragó,940000,5,188,Tarragona,Cataluña
+Chalet,Calle Bonavista 43715 1066,160000,4,2000,Tarragona,Cataluña
+Chalet,CL CAMI DE STA COLOMA 2,155000,3,123,Tarragona,Cataluña
+Chalet,cl clavari 8,80000,4,138,Tarragona,Cataluña
+Chalet,barrio Valldemar - Montmar,165000,4,130,Tarragona,Cataluña
+Piso,Calle Miracle 75,60000,2,0,Tarragona,Cataluña
+Piso,Calle dels Velers 1,339000,4,141,Tarragona,Cataluña
+Piso,c/les sardanes,88000,3,116,Tarragona,Cataluña
+Chalet,Calle del Vallès,365000,4,700,Tarragona,Cataluña
+Chalet,GARROFERS 42,232300,4,502,Tarragona,Cataluña
+Piso,Plaza d'Europa 3,100000,1,41,Tarragona,Cataluña
+Chalet,Calle del Pou 51,260000,6,207,Tarragona,Cataluña
+Chalet,Plaza dels arbres s/n,89000,2,135,Tarragona,Cataluña
+Chalet,Avenida del Sagrat Cor 34,450000,9,4380,Tarragona,Cataluña
+Piso,abadia 5,62000,2,60,Tarragona,Cataluña
+Ático,Avenida de Sant Bernat Calbó 37,262000,3,97,Tarragona,Cataluña
+Casa Rural,BARROIG 43490 VILAVERD [TARRAGONA] s/n,145000,4,170,Tarragona,Cataluña
+Chalet,CL CANOS D'EN 6 6,25000,3,115,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea 66,160000,3,107,Tarragona,Cataluña
+Piso,Calle Ventura Gassol 16,138000,1,50,Tarragona,Cataluña
+Chalet,Austria,249000,4,150,Tarragona,Cataluña
+Casa Rural,Calle Sant Marçal s/n,48000,4,131,Tarragona,Cataluña
+Ático,Avenida de Sant Bernat Calbó 37,262000,3,118,Tarragona,Cataluña
+Chalet,Plaza dels arbres s/n,89000,2,135,Tarragona,Cataluña
+Piso,c/les sardanes,88000,3,116,Tarragona,Cataluña
+Chalet,CL CAMI DE STA COLOMA 2,155000,3,123,Tarragona,Cataluña
+Chalet,Calle de la Vía Láctea 66,160000,3,88,Tarragona,Cataluña
+Chalet,Calle major 112,44000,8,223,Tarragona,Cataluña
+Chalet,Calle Miravet s/n,290000,4,386,Tarragona,Cataluña
+Piso,Calle Miracle 75,60000,2,0,Tarragona,Cataluña
+Casa Rural,LAS CENIAS GARCIA [TARRAGONA] s/n,170000,4,9798,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,345000,3,120,Tarragona,Cataluña
+Chalet,castell almansa,470000,6,50,Tarragona,Cataluña
+Chalet,Calle Bonavista 43715 1066,160000,4,2000,Tarragona,Cataluña
+Chalet,MAS BORRAS s/n,239900,4,243,Tarragona,Cataluña
+Chalet,Calle miguel angel blanco,620000,4,670,Tarragona,Cataluña
+Chalet,ADRIA GUAL 4,490000,7,664,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,345000,3,10,Tarragona,Cataluña
+Chalet,MOSSEN ESTEVE FONT 24,254000,5,166,Tarragona,Cataluña
+Chalet,Calle Josep Guardiola,190000,4,362,Tarragona,Cataluña
+Piso,COMERÇ 9,110000,2,68,Tarragona,Cataluña
+Casa Rural,Calle Major s/n,74000,6,330,Tarragona,Cataluña
+Chalet,barrio Mar Cambrils,565000,3,5,Tarragona,Cataluña
+Piso,El Tancat - Mas d'en Gual,121000,4,126,Tarragona,Cataluña
+Ático,SEGARRA 13,134840,3,61,Tarragona,Cataluña
+Piso,Avenida Parlament de Catalunya 3,125000,3,115,Tarragona,Cataluña
+Chalet,FOIX 65,139900,4,179,Tarragona,Cataluña
+Chalet,churruca 9,84000,4,132,Tarragona,Cataluña
+Chalet,OLIVERES 7,177000,3,76,Tarragona,Cataluña
+Chalet,Calle Camèlies,650000,5,180,Tarragona,Cataluña
+Chalet,Avenida ESPAÑA 156,233900,4,127,Tarragona,Cataluña
+Chalet,Boscos de Valls s/n,545000,10,13337,Tarragona,Cataluña
+Chalet,PABLO PICASSO s/n,524990,5,65,Tarragona,Cataluña
+ 28,877260468,Calle Carrerada 43423 Pira,28,617,Tarragona,Cataluña
+Chalet,de la vila s/n,60000,4,138,Tarragona,Cataluña
+Chalet,CASTELLO 13,188000,3,90,Tarragona,Cataluña
+Piso,GARROTXA 6,174990,3,113,Tarragona,Cataluña
+Piso,Calle Fra Antoni Cardona i Grau 7,279990,4,149,Tarragona,Cataluña
+Chalet,Ronda d'Altafulla,305000,3,100,Tarragona,Cataluña
+Piso,Paseo del Mediterrani,345000,3,10,Tarragona,Cataluña
+Chalet,CASTELLO 13,188000,3,90,Tarragona,Cataluña
+Piso,Joan Miró,210000,3,96,Tarragona,Cataluña
+Chalet,Mas Romeu,340000,4,142,Tarragona,Cataluña
+Casa Rural,Desconocido 4 E,450000,6,8963,Tarragona,Cataluña
+Chalet,churruca 9,84000,4,143,Tarragona,Cataluña
+Chalet,PENEDES 72,210000,4,60,Tarragona,Cataluña
+ 28,877260468,Calle Carrerada 43423 Pira,28,402,Tarragona,Cataluña
+Casa Rural,Calle Major s/n,74000,6,330,Tarragona,Cataluña
+Chalet,Calle Josep Guardiola,190000,4,362,Tarragona,Cataluña
+Chalet,montall,199000,4,130,Tarragona,Cataluña
+Chalet,PABLO PICASSO s/n,524990,5,65,Tarragona,Cataluña
+Chalet,Calle Alentorn Ballester s/n,460000,5,678,Tarragona,Cataluña
+Chalet,Calle Germà Saperas s/n,140000,2,156,Tarragona,Cataluña
+Piso,Avenida Parlament de Catalunya 3,125000,3,103,Tarragona,Cataluña
+Chalet,CASTELL 94,180000,3,99,Tarragona,Cataluña
+Chalet,Boscos de Valls s/n,545000,10,13337,Tarragona,Cataluña
+Chalet,Avenida de Viena,280000,4,152,Tarragona,Cataluña
+Piso,Calle de Berlín,89000,1,56,Tarragona,Cataluña
+Piso,Avenida Juan Sebastián Bach,300000,2,72,Tarragona,Cataluña
+Piso,Calle de Frederic Marès,127000,1,35,Tarragona,Cataluña
+Piso,Calle de Francesc Moragas i Barret,160000,3,80,Tarragona,Cataluña
+Piso,Calafell Pueblo,104000,2,64,Tarragona,Cataluña
+Piso,Platja Calafell,149000,3,112,Tarragona,Cataluña
+Piso,Platja Calafell,239000,3,80,Tarragona,Cataluña
+Ático,barrio Nucli Urbà,135000,1,44,Tarragona,Cataluña
+Chalet,Calle de Santiago Rusiñol,519000,5,176,Tarragona,Cataluña
+Piso,barrio Segur Platja,130000,2,78,Tarragona,Cataluña
+Piso,Comte 16,250000,3,84,Tarragona,Cataluña
+Chalet,Calle de les Rengles Llargues 4,320000,4,249,Tarragona,Cataluña
+Piso,Carretera del Far,115000,1,58,Tarragona,Cataluña
+Piso,Calle del Nord,119000,1,56,Tarragona,Cataluña
+Piso,Camino de Riudoms,169999,3,86,Tarragona,Cataluña
+Chalet,Nou Eixample Nord,575000,4,70,Tarragona,Cataluña
+Chalet,barrio El Dorado Platja,450000,3,53,Tarragona,Cataluña
+Piso,Comte 16,240000,3,82,Tarragona,Cataluña
+Chalet,COMARRUGA s/n,395000,5,241,Tarragona,Cataluña
+Piso,Calle de Brussel·les,209999,2,63,Tarragona,Cataluña
+Piso,Camino de Riudoms,169999,3,105,Tarragona,Cataluña
+Piso,Platja Calafell,149000,3,95,Tarragona,Cataluña
+Piso,Avenida l'Ametlla de Mar 1,129000,2,78,Tarragona,Cataluña
+Chalet,Calle de Sant Joan 12,75000,4,154,Tarragona,Cataluña
+Piso,Carretera del Far,115000,1,42,Tarragona,Cataluña
+Ático,barrio Nucli Urbà,135000,1,46,Tarragona,Cataluña
+Chalet,Nou Eixample Nord,575000,4,70,Tarragona,Cataluña
+Chalet,Calle de les Rengles Llargues 4,320000,4,249,Tarragona,Cataluña
+Piso,Platja Calafell,149000,3,83,Tarragona,Cataluña
+Piso,Montsià de Mar,101000,2,77,Tarragona,Cataluña
+Piso,Platja Calafell,239000,3,80,Tarragona,Cataluña
+Piso,Calle del Nord,119000,1,54,Tarragona,Cataluña
+Chalet,Urbanitzacions de Llevant,420000,4,158,Tarragona,Cataluña
+Piso,barrio Segur Platja,149000,3,87,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,239000,3,86,Tarragona,Cataluña
+Piso,Calle de l'Arquitecte Ubach,196000,3,102,Tarragona,Cataluña
+Chalet,Calafell Pueblo,278000,4,140,Tarragona,Cataluña
+Piso,Calle Garraf,129900,3,105,Tarragona,Cataluña
+Piso,Plaza de Catalunya,108000,1,38,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,589000,5,193,Tarragona,Cataluña
+Chalet,Bonavista,289000,4,138,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,285000,4,22,Tarragona,Cataluña
+Chalet,Centro,205000,3,600,Tarragona,Cataluña
+Chalet,Albinyana,124000,3,87,Tarragona,Cataluña
+Chalet,Calle Montsià-la Móra,299000,6,211,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,149500,3,97,Tarragona,Cataluña
+Chalet,La Franquesa,170000,3,96,Tarragona,Cataluña
+Chalet,La Franquesa,170000,3,97,Tarragona,Cataluña
+Chalet,La Franquesa,270000,5,743,Tarragona,Cataluña
+Piso,Platja Calafell,415000,4,1400,Tarragona,Cataluña
+Chalet,Costa Cunit - Els Jardins - Els Rosers,245000,3,103,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,169900,3,100,Tarragona,Cataluña
+Piso,Centre,130000,2,76,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,185000,3,24,Tarragona,Cataluña
+Piso,barrio Nucli Urbà,158000,3,84,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,164000,4,143,Tarragona,Cataluña
+Piso,barrio Segur Platja,119000,2,85,Tarragona,Cataluña
+Chalet,Les Tres Cales,265000,4,107,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,290000,4,140,Tarragona,Cataluña
+Piso,Calle Garraf,129900,3,95,Tarragona,Cataluña
+Chalet,La Bisbal del Penedès,164000,4,143,Tarragona,Cataluña
+Piso,Calle Garraf,129900,3,117,Tarragona,Cataluña
+Chalet,Mas Mel - Bellamar,488000,4,138,Tarragona,Cataluña
+Piso,Calafell Pueblo,158000,3,110,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,290000,4,138,Tarragona,Cataluña
+Piso,Bonavista,450000,2,64,Tarragona,Cataluña
+Chalet,Albinyana,124000,3,117,Tarragona,Cataluña
+Piso,Avenida Andorra 13 A 4 2,160000,4,134,Tarragona,Cataluña
+Piso,Mendez Nuñez,375000,5,218,Tarragona,Cataluña
+Casa Rural,Camarles,268000,3,22500,Tarragona,Cataluña
+Piso,Calle de Logronyo,139000,2,3000,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,589000,5,193,Tarragona,Cataluña
+Piso,Plaza de Catalunya,108000,1,38,Tarragona,Cataluña
+Chalet,Riudecanyes,800000,9,1100,Tarragona,Cataluña
+Chalet,Calle Montsià-la Móra,299000,6,249,Tarragona,Cataluña
+Chalet,Albinyana,120000,5,156,Tarragona,Cataluña
+Chalet,Calle del Doctor Ramon i Cajal 59,272000,3,33,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,339000,3,160,Tarragona,Cataluña
+Piso,Can Toni,140000,2,63,Tarragona,Cataluña
+Chalet,vallespir,219000,3,180,Tarragona,Cataluña
+Piso,Calle de Logronyo 8,139000,2,3000,Tarragona,Cataluña
+Piso,Avenida de la Diputació 150,320000,3,106,Tarragona,Cataluña
+Ático,Prat de Cunit,260000,3,108,Tarragona,Cataluña
+Chalet,Cap Salou,330000,4,127,Tarragona,Cataluña
+Chalet,El Tancat - Mas d'en Gual,285000,4,126,Tarragona,Cataluña
+Piso,Calle Pablo Neruda 15,92000,2,70,Tarragona,Cataluña
+Piso,Bonavista,141000,2,6,Tarragona,Cataluña
+Chalet,Casalot,510000,3,104,Tarragona,Cataluña
+Piso,Calle Miracle 75,60000,2,0,Tarragona,Cataluña
+Chalet,barrio Les Brises de Calafell - Segur de Dalt,320000,5,188,Tarragona,Cataluña
+Piso,barrio Segur Platja,170000,3,10,Tarragona,Cataluña
+Piso,Cunit Diagonal,147900,3,89,Tarragona,Cataluña
+Piso,Calle del Roine 1,374000,4,108,Tarragona,Cataluña
+Piso,Calle d'Àngel Guimerà 5,150000,3,8,Tarragona,Cataluña
+Chalet,Calle Miguel Angel 11,620000,4,139,Tarragona,Cataluña
+Piso,Prat de Cunit,246000,3,30,Tarragona,Cataluña
+Chalet,barrio Nucli Urbà,274000,4,80,Tarragona,Cataluña
+Chalet,La Secuita,495000,6,1158,Tarragona,Cataluña
+Chalet,El Catllar,330000,5,181,Tarragona,Cataluña
+Chalet,Calle islandia 1,190000,4,95,Tarragona,Cataluña
+Piso,Calle Miracle 75,60000,2,0,Tarragona,Cataluña
+Chalet,El Catllar,330000,5,190,Tarragona,Cataluña
+Chalet,Platja de Mont-Roig,200000,3,102,Tarragona,Cataluña
+Piso,Calle Pablo Neruda 15,92000,2,67,Tarragona,Cataluña
+Piso,Carretera de Valls 58,128500,2,68,Tarragona,Cataluña
+Piso,Calle de Logronyo 8,139000,2,3000,Tarragona,Cataluña
+Chalet,Calle Miguel Angel 11,620000,4,136,Tarragona,Cataluña
+Piso,barrio Segur Platja,117000,1,44,Tarragona,Cataluña
+Piso,Calle Pablo Neruda 15,92000,2,72,Tarragona,Cataluña
+Piso,Calle d'Antoni de Bofarull,159900,3,117,Tarragona,Cataluña
+Piso,Peñiscola,94500,3,100,Tarragona,Cataluña
+Piso,Paseo jaume 1,129950,1,34,Tarragona,Cataluña
+Piso,Calle de la Verge del Camí,120000,4,112,Tarragona,Cataluña
+Casa Rural,Calle Poligono 39 53,180000,2,80,Tarragona,Cataluña
+Chalet,Calle de la Marinada,535000,5,171,Tarragona,Cataluña
+Chalet,Miquel Àngel,1375000,7,283,Tarragona,Cataluña
+Piso,Diputació s/n,116000,1,52,Tarragona,Cataluña
+Piso,Plaza Pessebre 1,325000,3,26,Tarragona,Cataluña
+Piso,Avenida de la Diputació 128,300000,2,75,Tarragona,Cataluña
+Piso,Calle de l'Esparver,192000,3,113,Tarragona,Cataluña
+Piso,París 15,165000,2,60,Tarragona,Cataluña
+Chalet,Calle lluís domènech i montaner 13,620000,4,180,Tarragona,Cataluña
+Chalet,Calle de la Sínia,265000,5,80,Tarragona,Cataluña
+Piso,Avenida França 70,175000,3,92,Tarragona,Cataluña
+Duplex,Calle de la Punta del Cavall 55,260000,4,64,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Piso,Avenida Josep Maria Sentís s/n,139000,4,121,Tarragona,Cataluña
+Chalet,Calle Mestral 10,270000,4,136,Tarragona,Cataluña
+Piso,Calle Isabel Vilella,85000,2,70,Tarragona,Cataluña
+Piso,Calle del Llobregat,115000,3,76,Tarragona,Cataluña
+Piso,Av de Jaume l s/n,95000,2,72,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 75,210000,3,2200,Tarragona,Cataluña
+Piso,Calle Escultor Figueras 27,120000,4,124,Tarragona,Cataluña
+Piso,Miramar 84,185000,2,36,Tarragona,Cataluña
+Piso,Calle Tresmall 8,80000,2,67,Tarragona,Cataluña
+Chalet,Calle Gabarres 19,340000,5,166,Tarragona,Cataluña
+Piso,Calle de la Cala de la Font 33,120000,1,12,Tarragona,Cataluña
+Piso,Calle del Pou,260000,6,226,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar 7,185000,2,13,Tarragona,Cataluña
+Chalet,Carretera de Alcolea s/n,315000,4,156,Tarragona,Cataluña
+Chalet,Calle Gabarres 19,340000,5,187,Tarragona,Cataluña
+Piso,Lleida s/n,149000,2,63,Tarragona,Cataluña
+Piso,Calle de Brussel·les 16,377000,3,108,Tarragona,Cataluña
+Chalet,Calle Murada de Baix 45,22000,2,68,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar 7,185000,2,13,Tarragona,Cataluña
+Piso,Calle de la Verge del Pilar 7,220000,3,81,Tarragona,Cataluña
+Piso,Plaza Sant Cristòfol,189000,4,123,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Chalet,Calle de rifà 1,850000,4,300,Tarragona,Cataluña
+Piso,ESCORXADOR,162490,4,120,Tarragona,Cataluña
+Chalet,Plaça Europa i Covamar,1600000,4,122,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 75,210000,3,2200,Tarragona,Cataluña
+Piso,Avenida França 70,175000,3,115,Tarragona,Cataluña
+Piso,Avenida Josep Maria Sentís s/n,139000,4,146,Tarragona,Cataluña
+Chalet,Calle del Doctor Ramon i Cajal 59,272000,3,33,Tarragona,Cataluña
+Piso,Calle de la Cala Crancs 3,145000,2,69,Tarragona,Cataluña
+Piso,Calle Pablo Neruda 15,92000,2,60,Tarragona,Cataluña
+Piso,Calle Isabel Vilella,85000,2,69,Tarragona,Cataluña
+Piso,Avenida Muntanyeta 2,129000,3,111,Tarragona,Cataluña
+Chalet,Calle Mestral 10,270000,4,150,Tarragona,Cataluña
+Piso,Calle del Bou s/n,117000,3,89,Tarragona,Cataluña
+Casa Rural,Masdenverge,67000,1,83,Tarragona,Cataluña
+Piso,Calle del Pou,260000,6,250,Tarragona,Cataluña
+Chalet,Diseminat,620000,7,264,Tarragona,Cataluña
+Chalet,Via sense nom 11,410000,4,127,Tarragona,Cataluña
+Piso,Ciudad de Reus,229000,4,20,Tarragona,Cataluña
+Piso,Miramar 84,185000,2,36,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Chalet,Calle Jaume I,84000,4,134,Tarragona,Cataluña
+Chalet,Calle Sants Màrtirs 20,39000,3,114,Tarragona,Cataluña
+Piso,Carretera Simpàtica,65500,2,68,Tarragona,Cataluña
+Piso,Calle Gaudí s/n,139000,3,88,Tarragona,Cataluña
+Piso,Avenida Espanya 54,189000,3,45,Tarragona,Cataluña
+Piso,Calle de la Cala de la Font 33,120000,1,12,Tarragona,Cataluña
+Chalet,Calle de la Punta del Banc,186000,3,101,Tarragona,Cataluña
+Ático,Via Tarragona - Salou,250000,3,86,Tarragona,Cataluña
+Chalet,Camino CAMÍ DE VALLS,295000,5,194,Tarragona,Cataluña
+ 1,877260592,Creus,1,60,Tarragona,Cataluña
+Casa Rural,Plaza hospital,53000,5,170,Tarragona,Cataluña
+Estudio,Avenida de la Diputació 175,110000,0,31,Tarragona,Cataluña
+Piso,Calle del General Moragues 76,210000,4,105,Tarragona,Cataluña
+Chalet,Calle de l hort s/n,270000,4,240,Tarragona,Cataluña
+Chalet,Capricorn 7,221000,4,631,Tarragona,Cataluña
+Piso,Avenida Josep Maria Sentís 12,129900,4,112,Tarragona,Cataluña
+Piso,Calle Roger de Llúria,168000,3,86,Tarragona,Cataluña
+Piso,Tivoli 9,175000,3,103,Tarragona,Cataluña
+Chalet,Avenida d'Enric Borràs 43,320000,4,122,Tarragona,Cataluña
+ 1,877260592,Creus,1,53,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Piso,Calle Pirineus,190000,3,107,Tarragona,Cataluña
+Piso,Bloc Sant Jordi,110000,2,60,Tarragona,Cataluña
+Chalet,Metge Curco,160000,6,30,Tarragona,Cataluña
+Piso,Calle Eivissa 6,173000,3,95,Tarragona,Cataluña
+Piso,Calle de les Flors,220000,4,124,Tarragona,Cataluña
+Duplex,TERESA DE CALCUTA,265000,3,117,Tarragona,Cataluña
+Chalet,Cap Roig 6,690000,4,50,Tarragona,Cataluña
+Chalet,Calle de l'Ermita,295000,4,125,Tarragona,Cataluña
+Piso,Plaza d'Europa,100000,1,41,Tarragona,Cataluña
+Piso,Calle Tarragona 32,279000,4,131,Tarragona,Cataluña
+Chalet,cl nou,78000,3,139,Tarragona,Cataluña
+Chalet,avellaners s/n,590000,5,450,Tarragona,Cataluña
+Ático,Calle d'Hortensi Güell,190000,3,113,Tarragona,Cataluña
+Chalet,Tallats s/n,650000,6,224,Tarragona,Cataluña
+Chalet,Calle d' Avall,90000,4,342,Tarragona,Cataluña
+Chalet,Avenida Montclar 146,359900,3,312,Tarragona,Cataluña
+Piso,Calle València 108,180000,2,67,Tarragona,Cataluña
+Chalet,Calle de la Serra de Llaveria 15,399000,7,283,Tarragona,Cataluña
+Chalet,Calle Sant Llorenç,107500,5,200,Tarragona,Cataluña
+Chalet,Calle Sant Lluc 11,70000,3,85,Tarragona,Cataluña
+Piso,Calle d'Amadeu Vives 22,225000,3,132,Tarragona,Cataluña
+Ático,Avenida Espanya,135000,1,56,Tarragona,Cataluña
+Casa Rural,Plaza hospital,53000,5,166,Tarragona,Cataluña
+Piso,Paseo de Mata,176000,4,147,Tarragona,Cataluña
+Piso,Raval de Martí Folguera,179000,2,63,Tarragona,Cataluña
+Chalet,Calle de l'Albiol s/n,549000,4,1000,Tarragona,Cataluña
+Duplex,Onze de Setembre 5,179000,3,93,Tarragona,Cataluña
+Casa Rural,Via sense nom,59500,2,67,Tarragona,Cataluña
+Piso,Avenida de la Cossetània 22,185000,2,400,Tarragona,Cataluña
+Chalet,Calle Violeta 35,237000,5,190,Tarragona,Cataluña

@@ -1,1800 +1,1800 @@
-Tipo de inmueble,Dirección,Precio,Habitaciones,m2
-Chalet,Zapateira,600000,3,84
-Duplex,Doctor Corbal,295000,4,8
-Ático,Calle Colón 11,1500000,3,102
-Chalet,Calle da Zapateira,600000,3,86
-Piso,barrio As Travesas - Balaídos,680000,3,30
-Piso,Calle de Alfonso XIII,265000,2,69
-Piso,Calle Enrique Blein Budiño,449000,4,147
-Piso,Calle Vigo 14,345000,2,65
-Chalet,barrio Oia,1100000,4,146
-Piso,Sanxenxo,1399900,5,540
-Chalet,Calle do Arquitecto Antonio Cominges,2500000,4,133
-Piso,Calle San Salvador,320000,4,167
-Chalet,Calle Melide,600000,6,390
-Piso,Calle de Urzaiz 89,239000,3,117
-Piso,Calle Enrique Blein Budiño,449000,4,149
-Chalet,Recarei 7,370000,4,132
-Duplex,Calle ECUADOR 21 Vigo 21,482550,3,96
-Piso,Plaza de Portugal,350000,3,115
-Chalet,Magalans 51,324995,4,144
-Piso,Calle Zamora,320000,3,35
-Duplex,Via Norte,295000,3,120
-Piso,Calle Inés Pérez de Ceta,290000,3,94
-Piso,Calle de García Barbón,339000,3,12
-Piso,Calle de Ricardo Santos,245000,2,117
-Chalet,Calle Cabalaria 16,750000,8,303
-Chalet,Carretera do Vao 71,749000,6,1200
-Piso,Avenida Gran Via,550000,5,272
-Piso,Calle Progreso,235000,2,94
-Ático,Travesía Naia,150000,3,111
-Chalet,Lugar Arra 12 A,699000,4,30
-Piso,Calle San Salvador,320000,4,167
-Piso,Calle Vigo,295000,2,78
-Chalet,Camino de Canelas 48,1200000,5,55
-Piso,Calle de María Berdiales,220000,3,88
-Piso,Calle Ricardo Santos 6,249000,2,78
-Chalet,Calle Seixalvo,650000,4,420
-Piso,torrecedeira,190000,2,75
-Chalet,Punta Cabicastro,450000,3,2000
-Chalet,Calle Carlos Maside,525000,5,30
-Piso,Calle da Coruña 20,210000,2,90
-Ático,Calle da Falperra,152500,2,6
-Piso,Calle Empalme 7 A,91700,1,58
-Chalet,Camino do Portiño,1199900,5,1206
-Chalet,Teis,225000,4,300
-Ático,barrio Casablanca - Calvario,195000,3,75
-Piso,Calle do Ecuador,349000,3,120
-Piso,barrio O Castro,348000,4,155
-Piso,barrio Centro - Areal,230000,3,100
-Chalet,Sanxenxo,750000,4,650
-Chalet,Arquitecto Antonio Cominges,2500000,4,140
-Piso,Pizarro,170000,2,63
-Piso,Avenida Gran Via,235000,2,68
-Chalet,Alcabre,785000,4,47
-Piso,Avenida do Fragoso,209000,3,86
-Piso,Travesía José Fariña Jamardo 5,239000,2,9
-Piso,Avenida das Camelias,405000,4,190
-Estudio,Torrecedeira,130000,0,29
-Piso,Avenida das Camelias,400000,5,200
-Chalet,Bordóns-Dorrón,555000,4,89
-Chalet,Calle do Arquitecto Antonio Cominges,2995000,6,234
-Piso,Calle da Coruña,250000,3,81
-Chalet,LUGAR AREAS BORDONS,609000,4,80
-Chalet,Avenida das Camelias,600000,5,172
-Piso,Calle Tomás A Alonso,198000,3,96
-Piso,Calle Velázquez Moreno,585000,4,280
-Piso,Calle Mercedes Núñez Targa s/n,260000,3,109
-Piso,Travesía de Vigo,152000,2,83
-Piso,Calle Policarpo Sanz 1,300000,2,70
-Piso,barrio Centro - Areal,720000,3,80
-Ático,Via gran,399000,7,251
-Chalet,Calle Figueiro,775000,6,239
-Chalet,baixada portiño,1200000,5,1206
-Piso,Avenida das Camelias 18,118500,1,49
-Piso,Travesía de Vigo 15,150000,3,82
-Piso,Venezuela,485000,4,160
-Piso,Paseo Praia de Silgar,230000,2,80
-Duplex,coruña,270000,6,211
-Chalet,Carretera da Balsa,520000,6,205
-Piso,Calle Mercedes Núñez Targa s/n,233000,2,75
-Piso,barrio Centro - Areal,410000,3,108
-Duplex,Calle Padre Seixas,299000,4,109
-Piso,Calle México 44,250000,3,119
-Chalet,Camino do Turido,785000,4,153
-Piso,Calle Inés Pérez de Ceta,280000,2,72
-Piso,Calle do Ecuador,255000,4,160
-Chalet,Candean - Cabral,350000,4,900
-Piso,barrio Pz Independencia,160000,2,66
-Chalet,barrio Coruxo,370000,4,785
-Chalet,Lavadores,215000,5,262
-Piso,Calle de García Barbón,520000,4,159
-Piso,Adina-Portonovo,179000,2,63
-Piso,Calle Ricardo Santos,250000,2,76
-Piso,Calle Ricardo Santos,265000,2,83
-Chalet,barrio Plaza España - Corte Inglés,350000,3,300
-Chalet,Castrelos - Sárdoma,590000,3,92
-Piso,barrio Centro - Areal,360000,3,99
-Piso,barrio Plaza España - Corte Inglés,279000,4,150
-Piso,barrio O Castro,250000,2,78
-Ático,Travesía de Vigo,125000,2,45
-Piso,barrio Pz Independencia,220000,2,77
-Piso,Sanxenxo,180000,3,109
-Ático,Vilar,108000,2,69
-Piso,Calle do Conde de Torrecedeira,260000,3,100
-Casa Rural,Finca Remesal,1400000,7,760
-Duplex,Plaza Francisco Fernández del Riego,330000,2,70
-Chalet,Baixada á Praia,850000,5,185
-Chalet,Ponte,395000,2,71
-Chalet,Lugar Montalvo 1,600000,8,120
-Chalet,Calle Freixo los Abetos,1200000,6,207
-Duplex,Nicaragua,470000,4,225
-Chalet,Via Pola,580000,5,196
-Duplex,Calle de Lugo,260000,5,162
-Piso,Paseo Praia de Silgar,350000,4,134
-Chalet,Lugar a Poza 14,398000,3,47
-Piso,Calle Revolta Noalla 3,155000,2,65
-Ático,Calle de Madrid 15,365000,3,177
-Piso,Avenida Gran Via,450000,5,45
-Ático,Calle do Sol 56,110000,2,10
-Chalet,Lugar Areas,609000,4,80
-Piso,Calle Castelao 188,282000,3,113
-Chalet,Ensenada La Toja,310000,5,188
-Piso,eugenio arbones 5,185000,2,80
-Piso,Calle Revolta Noalla,155000,2,78
-Ático,Calle Fonte de Ons,175000,2,67
-Ático,Calle Vigo,275000,2,79
-Piso,Lugar Revel,155000,3,112
-Chalet,Gondomar,547000,4,134
-Chalet,Lugar Cachada,325000,3,83
-Piso,Calle CALVARIOS 4,310000,2,65
-Piso,Calle Santa Catalina 12,199000,3,102
-Chalet,Avenida Monteferro,760000,7,100
-Piso,1ª Travesía de Santiago de Vigo 11,425000,2,66
-Chalet,aios noalla,475000,5,176
-Chalet,Bordones s/n,530000,3,622
-Piso,Calle dos Mariñeiros,185000,3,93
-Chalet,Bordons,399999,4,30
-Chalet,Calle San Antón,1300000,7,194
-Ático,Calle Vigo,285000,3,89
-Ático,Calle Do Profesor Hermida,350000,2,38
-Chalet,barrio Oia,450000,3,84
-Piso,Paseo Praia de Silgar,499000,3,30
-Piso,Calle da Coruña,250000,3,115
-Chalet,Bueu,852000,4,390
-Chalet,Alexandre Boveda,299000,6,214
-Chalet,San Pedro da Ramallosa,599000,6,232
-Chalet,Camino do Torreiro,610000,5,1800
-Ático,Calle Madrid,700000,3,118
-Chalet,Camino de Rioboo,750000,8,675
-Chalet,Calle Convento,450000,4,500
-Piso,Calle do Uruguai,280000,2,95
-Piso,Avenida da Gran Vía,420000,4,152
-Chalet,barrio Coruxo,649000,6,662
-Piso,Calle Vigo,345000,2,83
-Chalet,Mondariz,2500000,12,3000
-Piso,Avenida de Redondela 148,147000,2,74
-Piso,EP-9211,195000,2,8114
-Chalet,Area Peitieiros,285000,3,87
-Piso,Calle Victoria,119000,2,71
-Piso,Carretera Gondar,85000,1,56
-Piso,Calle Conde de Torrecedeira,200000,3,81
-Piso,Avenida García Barbón,295000,4,120
-Chalet,Vinquiño - Vento 162,379000,4,138
-Piso,Avenida Rosalía de Castro 54,160000,3,100
-Chalet,Lameira,595000,5,1100
-Chalet,Camino dos Liñares,685000,5,50
-Piso,Calle Zamora,550000,5,280
-Chalet,Camino do Castañal,455000,4,151
-Piso,Calle do Ecuador,349000,3,80
-Duplex,Plaza Francisco Fernández del Riego,330000,2,64
-Chalet,Lugar Piñeiros,350000,4,690
-Piso,Avenida GARCÍA BARBÓN,210000,4,153
-Piso,Calle Madrid,295000,2,80
-Duplex,Carretera Bahíña,360000,3,120
-Piso,Fonte de Ons,159000,2,70
-Piso,Calle de Vigo,215000,2,70
-Chalet,Camino Salgueiro s/n,480000,3,104
-Chalet,Calle Carballiños 30,760000,4,148
-Piso,Calle Colón 11,590000,2,65
-Piso,1ª Travesía de Santiago de Vigo 11,660000,3,94
-Ático,Calle de Galicia,125000,3,117
-Piso,Avenida Virxinia Pereira Renda 2,175000,2,67
-Duplex,Calle do Conde de Torrecedeira,325000,5,188
-Piso,Avenida Gran Via,320000,4,144
-Piso,Calle de Bolivia,460000,5,187
-Piso,Calle do Doutor Cadaval,397000,5,37
-Piso,Calle do Regueiro,345000,4,122
-Chalet,Baiona,450000,3,667
-Piso,Calle do Progreso,179000,2,66
-Ático,Calle do Profesor Hermida,350000,2,99
-Chalet,Lugar Areas,565000,4,141
-Chalet,Lugar Areas,555000,4,158
-Ático,Fonte de Ons,185000,2,60
-Piso,Calle Fonte de Ons - Revolta,124000,1,49
-Piso,Calle Arturo Fontan Bouzas,160000,3,99
-Ático,Camino de Circunvalación,180000,2,78
-Piso,Calle Jacinto Benavente 15,405000,3,90
-Ático,PO-504 42,110000,2,74
-Piso,Calle Jacinto Benavente 15,305000,3,85
-Piso,Calle Jacinto Benavente 15,335000,4,151
-Piso,La Lanzada s/n,126000,1,51
-Piso,Calle do Marqués de Valladares,600000,3,81
-Piso,Calle Colón 11,750000,4,148
-Piso,PO-317 70,135000,2,76
-Chalet,Barro Barreiras 17,430000,3,85
-Piso,La Lanzada s/n,126000,1,51
-Piso,Calle Ourense,360000,3,74
-Piso,Calle de García Barbón,295000,4,123
-Chalet,Camino de Bembrive,950000,8,1550
-Ático,Outeiro -Raxó,150000,2,79
-Piso,Calle San Salvador,599000,6,237
-Piso,Avenida de Balaídos,182000,4,101
-Chalet,Camino Sixtro,324900,6,318
-Piso,Calle Canadelo Alto,159000,2,61
-Piso,Calle de Jenaro de la Fuente,169000,2,90
-Chalet,Rabuñade,354000,3,600
-Piso,Calle das Teixugueiras 1,226000,3,88
-Chalet,Calle Ourense,299000,6,227
-Chalet,Rúa do Arquitecto Antonio Cominges,3200000,6,1300
-Piso,Calle Arturo Fontan Bouzas,165000,3,96
-Piso,Calle Abeleira Menéndez,260000,3,110
-Piso,Calle Zamora,515000,5,192
-Piso,Calle Rosalía de Castro,375000,3,83
-Ático,Calle do Progreso,475000,4,70
-Chalet,Calle de Arquitecto Gómez Román,990000,4,380
-Chalet,O Pazo moraña,205000,3,200
-Piso,barrio Berbés - Peritos,220000,3,104
-Ático,Ramón Cabanillas,350000,3,105
-Casa Rural,Calle Lubian,259000,4,130
-Chalet,Calle Pereiras Navia,825000,6,150
-Piso,La Seca - Los Salgueriños,395000,4,150
-Piso,Calle Ourense,315000,3,120
-Chalet,Calle de Canido,1100000,4,590
-Piso,Mondariz-Balneario,180000,3,117
-Chalet,Avenida Castelao,549000,5,166
-Piso,Calle Progreso,275000,3,15
-Chalet,Lugar de Areas,598000,4,147
-Chalet,Camino de Vilaverde,340000,4,24
-Chalet,Calle Areas,930000,4,957
-Chalet,LG Costa,289000,3,12
-Chalet,Lugar O Casal,400000,3,179
-Casa Rural,Lugar,830000,5,400
-Chalet,Calle Areas,930000,4,957
-Piso,barrio Berbés - Peritos,220000,3,100
-Chalet,Coiro,880000,4,90
-Chalet,Calle de Canido,1100000,4,590
-Piso,Calle Ourense,315000,3,120
-Chalet,Tomiño,276000,3,100
-Piso,Calle da Guarda,175000,4,149
-Chalet,Avenida Ricardo Mella,750000,5,200
-Ático,Calle de Madrid,600000,3,99
-Chalet,Calle Arquitecto Antonio Comingues,3200000,7,278
-Ático,Plaza Aurelio Lores,175000,3,93
-Chalet,Darbo,1100000,4,294
-Chalet,Arquitecto Antonio Cominges,2500000,4,154
-Piso,Calle de Rosalía de Castro,248000,3,84
-Chalet,O Carril - Bamio,210000,4,142
-Piso,Calle de Urzaiz,450000,4,143
-Piso,Travesía de Vigo,153000,2,83
-Piso,Avenida de García Barbón,255000,3,114
-Chalet,Avenida de León,849000,4,354
-Piso,Calle da Ronda de Don Bosco,290000,5,180
-Chalet,Calle de Recanles,1100000,7,430
-Ático,Vicaño,220000,2,61
-Piso,Calle Tomás A Alonso,235000,3,85
-Piso,Calle Pintor Laxeiro,450000,4,14
-Piso,Calle Progreso,160000,3,88
-Piso,Rúa de García Barbón,600000,4,149
-Chalet,Pazos de Borbén,305000,5,192
-Chalet,O Covelo,140000,3,1500
-Piso,Avenida do Fragoso,170000,4,100
-Chalet,Pedornes,355000,4,149
-Chalet,Paseo MARITIMO 1 36340 1,1200000,5,191
-Piso,Avenida de Eduardo Pondal,250000,2,118
-Piso,Calle Vázquez Varela,269000,4,141
-Piso,Avenida de Ramón Nieto,187000,3,84
-Piso,Calle Victoria,119000,2,68
-Piso,Avenida de García Barbón,325000,3,95
-Piso,Calle Uruguay,267500,2,60
-Chalet,Camino da perdiz,595000,7,287
-Piso,Calle Inés Pérez de Ceta,310000,3,96
-Piso,Calle Ponte Dena 5,126000,2,68
-Chalet,Lugar Areas 6,555000,3,61471
-Piso,Calle de Urzaiz,355000,5,200
-Chalet,Camino Torreiro,610000,5,437
-Piso,Calle de Madrid 18,360000,2,72
-Piso,Avenida Galicia,145000,2,64
-Chalet,PLAYA FRANCON,445000,4,1537
-Chalet,Camino Pinténs,580000,4,121
-Piso,Camelias,329000,3,12
-Chalet,Camino Quirós,690000,4,152
-Piso,Alfonso XIII,360000,3,81
-Piso,Calle Becacina,197000,2,75
-Chalet,Camino VIRGEN DE LA ROCA,498000,5,511
-Piso,Calle do Brasil 58,105000,3,112
-Chalet,Calle Redondo,820000,5,167
-Piso,Nicaragua,410000,4,40000
-Piso,Venezuela,497500,4,129
-Duplex,Santa Ana,450000,5,169
-Piso,Avenida das Camelias,199000,2,74
-Piso,Calle loureiro crespo 13,160000,3,92
-Piso,Barrio Pombal 35,165000,2,67
-Piso,Aragón,220000,3,80
-Chalet,Camino do Coto de Reboreda,529000,3,93
-Ático,Calle Rua de Galicia,125000,2,64
-Piso,Sanxenxo,500000,3,119
-Piso,Avenida da Gran Vía,320000,4,134
-Piso,Carretera Iglesia 2,170000,3,115
-Chalet,La Toja s/n,940000,4,100
-Piso,Camino Vello de San Roque,158000,2,60
-Chalet,LUGAR A LAMEIRA,220000,3,206
-Piso,Calle do Conde de Torrecedeira,160000,3,108
-Piso,urzaiz 161,175000,1,51
-Chalet,Calle Abaixo,169500,3,83
-Duplex,Plaza Elíptica s/n,330000,2,96
-Chalet,Camino do Monte,640000,3,100
-Chalet,Camino Río Pequeno 27,590000,4,380
-Casa Rural,Calle Dos Eidos,999999,7,262
-Duplex,Plaza Elíptica s/n,330000,2,108
-Chalet,subida a radio faro,570000,4,276
-Ático,Calle Ourense 12,189400,2,15
-Piso,Ricardo Santos,190000,2,60
-Piso,Pedras Negras C,180000,3,73
-Casa Rural,Serman s/n,1250000,4,60
-Piso,Calle de García Barbón,405000,3,111
-Chalet,Calle Manuel González Prado,435000,7,268
-Piso,Calle de Pizarro s/n,750000,4,121
-Estudio,Avenida Luis Rocafort,99500,0,34
-Piso,Avenida Teniente Domínguez,170000,2,72
-Chalet,A Fraga s/n,280000,5,166
-Chalet,Lugar Outeiro,275000,5,245
-Piso,Lugar Areas 1,260000,2,22
-Piso,Paseo Praia de Silgar 90,350000,2,92
-Chalet,Lugar Xuncal,525000,6,229
-Chalet,Calle Lugar de Carral Taboada 7,350000,3,1270
-Chalet,FOXO s/n FOXO,185000,4,320
-Chalet,Palmou 1,265000,5,40
-Piso,Calle de Urzaiz 149,345000,3,30
-Piso,Avenida de Ramón Nieto,189000,3,104
-Chalet,BELESAR s/n,490000,6,1700
-Chalet,Calle Coto do Lobo 9,225000,3,80
-Chalet,Calle Coto do Lobo,225000,4,354
-Piso,Calle das Teixugueiras 1,226000,3,8
-Chalet,Lugar Barcalla - Donas,310000,6,1450
-Chalet,Lugar Cima de Vila,205000,3,98
-Piso,barrio Centro - Areal,210000,4,154
-Chalet,Lugar Armada,299000,4,3000
-Chalet,Unión,360000,5,193
-Piso,Calle Arzobispo Xelmírez,235000,4,120
-Chalet,Lugar Areiña,470000,4,153
-Chalet,Lugar Outeiro 9,259000,7,269
-Piso,Calle de Oporto,158000,3,86
-Piso,Calle San Salvador,450000,6,237
-Chalet,LG Costa,289000,3,12
-Chalet,Camino mo,620000,4,901
-Chalet,Avenida Porta do Sol,290000,4,46
-Piso,Calle de Sanjurjo Badía,165000,2,65
-Chalet,praia de loira,625000,5,231
-Duplex,Calle Arquitecto Pérez Bellas,210000,2,77
-Chalet,Baixada Cova da Becha,1550000,6,110
-Chalet,AS GRADES,500000,4,156
-Piso,Calle López Mora,345000,4,137
-Chalet,Calle do Torreiro,650000,4,134
-Piso,Via Norte,245000,5,161
-Chalet,Calle Carregal de Abaixo,259000,7,1300
-Piso,Calle TORRECEDEIRA,230000,5,148
-Ático,Calle de Pedro Alvarado,280000,2,25
-Piso,Vilagarcía,299000,3,92
-Piso,Camino Chouzo,176000,1,78
-Chalet,Amorin 47,155000,5,12000
-Chalet,Lugar Areas,530000,3,622
-Chalet,as mariñas 9,130000,4,156
-Piso,Calle do Progreso,350000,3,117
-Ático,Calle da Feira 12,135000,3,85
-Piso,PI Y MARGALL,275000,4,103
-Piso,Ricardo Santos,153000,2,73
-Piso,Calle Couto San Honorato,295000,3,119
-Chalet,Carretera Ensenada de LA Toja,495000,4,158
-Chalet,Avenida das Camelias,600000,5,45
-Estudio,Calle do Areal,145000,0,43
-Piso,Avenida Gran Via,300000,4,158
-Piso,Avenida das Camelias,199000,2,80
-Chalet,Calle Ángel de Lema y Marina,394000,3,350
-Piso,Calle Severo Ochoa,180000,4,119
-Piso,Calle de Nicaragua,245000,3,82
-Piso,Avenida da Gran Vía,320000,4,134
-Chalet,Camino Boavista,500000,5,100
-Piso,Calle do Areal,555000,3,92
-Piso,Avenida das Camelias,430000,5,189
-Duplex,Calle Tomás A Alonso,250000,3,103
-Chalet,Calle Penide,329900,5,352
-Chalet,San Pedro da Ramallosa,750000,8,780
-Chalet,Teis,435000,5,184
-Piso,Calle Llorente,165000,3,110
-Piso,Calle do Areal,240000,4,153
-Piso,Sanxenxo,160000,1,500
-Piso,Travesía de Vigo,155000,3,114
-Chalet,Calle Albores Pequeno,585000,8,329
-Piso,Calle do Conde de Torrecedeira,190000,2,66
-Chalet,Lugar O Couto,163000,4,127
-Chalet,Forcadela,259000,5,600
-Chalet,EP-9201,1300000,4,60
-Piso,Plaza Eugenio Fadrique,190000,4,146
-Chalet,pedriñas,330000,5,1500
-Piso,vizcaya,149000,2,60
-Chalet,PO-308,1950000,8,2317
-Piso,Redondela,110000,3,109
-Duplex,Calle Santa Eulalia 5,116000,2,78
-Chalet,Castrelos - Sárdoma,645000,3,98
-Ático,barrio O Castro,399000,7,253
-Chalet,Redondela,340000,3,7581
-Casa Rural,Camos,1700000,7,6681
-Piso,barrio Pz Independencia,380000,5,208
-Chalet,Calle do Castro 53,325850,4,126
-Duplex,barrio Centro - Areal,600000,3,81
-Piso,LOPEZ MORA,225000,4,159
-Piso,Calle do Brasil,235000,3,95
-Ático,Avenida Gran Via,235000,2,61
-Piso,Calle de Oporto,159000,3,92
-Piso,Vazquez 53,90000,2,65
-Piso,Calle Xulián Estévez,189000,3,104
-Casa Rural,Moaña,900000,5,500
-Casa Rural,Figueiro s/n,130000,4,2100
-Piso,barrio Centro - Areal,685000,5,192
-Chalet,Aldán,295000,4,150
-Chalet,Paseo Monte da Garda,2150000,9,1127
-Piso,Calle Santa Tegra,120000,1,45
-Chalet,Silleda,270000,4,132
-Piso,Via GRAN VÍA,450000,5,195
-Chalet,O Rosal,184000,3,111
-Casa Rural,curro,290000,6,11000
-Chalet,Baiona,390000,5,40
-Piso,Teis,150000,3,111
-Piso,barrio Berbés - Peritos,220000,3,88
-Chalet,amorin s/n,259000,6,231
-Chalet,Calle Salgueirón,365000,5,160
-Duplex,Calle Escultor Gregorio Fernández,155000,2,61
-Chalet,Calle Arquitectos Castro y Alonso,650000,4,300
-Ático,Calle do Progreso 88,150000,3,93
-Chalet,EP-9002,390000,6,274
-Chalet,Avenida Ricardo Mella,800000,4,1154
-Chalet,Barro Siador,190000,4,300
-Chalet,Calle Iryda,200000,4,159
-Ático,Camino CIRCUNVALACIÓN,180000,2,73
-Chalet,Calle EP-9203,650000,4,150
-Piso,Avenida da Florida,260000,3,100
-Ático,Calle Vázquez,90000,2,76
-Piso,castelao,320000,7,259
-Duplex,Calle Venezuela,120000,4,154
-Chalet,881350065,Calle sobreira,460000,640
-Piso,Travesía SANTA CATALINA,250000,3,45
-Chalet,EP-9963,650000,4,200
-Chalet,Transfonte de ons,240000,3,83
-Duplex,Calle Campo de Arriba,124000,4,154
-Chalet,Calle Seixalvo,650000,4,152
-Piso,Avenida de Balaídos,159800,3,106
-Piso,Paseo DR JESÚS DURÁN TRONCOSO,275000,2,80
-Chalet,Lugar Casal,350000,4,160
-Piso,Calle Augusto González Besada 17,114000,3,97
-Piso,Travesía José Fariña Jamardo,239000,2,71
-Piso,Avenida DE OUTEIRO 26,121300,3,107
-Ático,Camino de Circunvalación,180000,2,59
-Casa Rural,Lugar a Pedreira,149000,3,82
-Piso,Calle de Barcelona,149000,1,45
-Piso,Calle de Marcelina Panete,215000,3,106
-Estudio,Calle Condesa Casa Bárcena,92500,0,34
-Piso,Calle Simón Bolívar,550000,5,50
-Chalet,Calle Soutullo,540000,4,500
-Estudio,Calle Santa Tegra,120000,0,49
-Ático,Travesía dos Loureiros,195000,2,70
-Piso,Calle Loureiros 1,169900,4,125
-Chalet,Calle Paxarinas 16 A,550000,3,92
-Piso,Calle de Oporto Vigo,330000,2,45
-Piso,Camino Fianteira 12 A,168000,2,12345
-Chalet,Calle J,329000,3,210
-Chalet,Calle da Fonte Santa,525000,5,180
-Chalet,Calle Arquitectos Castro e Alonso 1,599000,4,140
-Duplex,Calle Perú 4 -2,520000,4,268
-Piso,Sanxenxo,300000,3,103
-Chalet,Lugar de Costiña Rouxique,495000,4,129
-Piso,Avenida da Coruña,165900,2,65
-Piso,Sanxenxo,300000,3,110
-Estudio,Calle Alemania Monteporreiro 62,75000,0,26
-Chalet,VILARCHAN,325000,5,237
-Chalet,Calle da Serra Poñente,175000,4,2000
-Ático,Carretera Balsa,260000,4,200
-Chalet,Aldea Castro 34,344000,6,231
-Piso,García Barbón s/n,295000,4,143
-Casa Rural,CAMPO DE LA TORRE 8,220000,7,280
-Chalet,Calle Otero Pedrayo,1490000,5,170
-Piso,Calle do Ecuador,380000,3,85
-Chalet,Calle Chouzas,450000,5,188
-Estudio,Callejón Núñez 2,93000,0,31
-Chalet,Calle Cernadela,350000,4,120
-Chalet,Lugar do Portelo,475000,4,157
-Chalet,Calle Pazos,415000,5,196
-Chalet,tumbio,235000,3,119
-Casa Rural,Lousado,300000,0,240
-Chalet,Arealonga,785000,5,179
-Chalet,Camino Estanco Vello,325000,2,79
-Chalet,Areas,555000,4,02
-Chalet,Zona María Victoria Moreno,485000,4,100
-Piso,Calle Colón,465000,3,225
-Chalet,Tomiño,180000,4,1600
-Chalet,Zona Plaza de Barcelos,420000,4,150
-Piso,Vilagarcía,205000,3,135
-Chalet,PO-551,1000000,4,2000
-Chalet,Avenida de Vilariño,499000,5,179
-Chalet,Castrelos - Sárdoma,399999,4,146
-Piso,Calle Coruña,139000,2,30
-Chalet,Plaza da Igrexa,250000,5,336
-Chalet,Sanxenxo,650000,5,169
-Piso,Calle do Porto,825000,5,192
-Ático,Calle Progreso,350000,2,61
-Chalet,Sanxenxo,730000,4,156
-Chalet,Barrio Illa Toralla,2225000,9,547
-Piso,Calle de Nicaragua,410000,5,180
-Chalet,Noalla,269999,8,70
-Chalet,Pazo,300000,10,4000
-Piso,Avenida de las Camelias,299000,10,450
-Casa Rural,Paseo Maritimo,1200000,5,179
-Chalet,Moaña,500000,4,140
-Chalet,Calle canido,1100000,4,125
-Chalet,Zona María Victoria Moreno,340000,4,1600
-Piso,Calle Manolo Martínez,179000,3,102
-Chalet,Calle de Arquitecto Gómez Román,990000,4,140
-Duplex,Calle Méndez Nuñez,220000,3,22
-Piso,Avenida de las Camelias,299000,10,697
-Casa Rural,Paseo Maritimo,1200000,5,179
-Chalet,Pazo,300000,10,4000
-Piso,Calle Cobián Roffignac,350000,5,173
-Piso,Calle Mercedes Núñez Targa s/n,177000,1,50
-Duplex,Calle Enrique Lorenzo,325000,4,144
-Chalet,Calle da Sobreira,460000,5,479
-Ático,Avenida da Coruña,165000,2,64
-Chalet,Camino do Cochíño,395000,5,479
-Chalet,Travesía Rosais,160000,4,143
-Chalet,Calle de Galicia,550000,6,222
-Piso,Calle de Sanjurjo Badía,150000,3,83
-Chalet,Baixada ó Pontillón,170000,5,172
-Piso,Calle de Nicaragua,410000,5,182
-Ático,Avenida de Outeiro 26,246510,3,88
-Piso,Calle Mestre Montes,165000,4,125
-Piso,Calle López Mora,345000,4,121
-Piso,Camino Quirós,215000,2,74
-Casa Rural,Lugar As Muras,130000,4,140
-Chalet,Camino do Portiño,1200000,5,190
-Chalet,Lugar Caldelas,175000,4,147
-Piso,Calle Jesús Fernández,135000,2,74
-Chalet,Camino das Barxas,210000,3,106
-Chalet,Lugar Axis,499000,3,93
-Piso,Calle de Bolivia,470000,5,170
-Piso,Avenida das Camelias,210000,2,70
-Piso,Calle Real,149000,4,142
-Chalet,Ría de Abaixo-Marcón,470000,5,166
-Piso,Calle Ourense,315000,3,110
-Piso,Calle de Aragón,170000,4,146
-Piso,O Pazo,240000,3,104
-Casa Rural,Poblado Outeiro,325000,7,271
-Chalet,Camino a Covelo,499000,3,102
-Piso,Calle Fernando II,118000,3,91
-Piso,Calexón Loureiro,130000,2,71
-Piso,Avenida BEIRAMAR,170000,3,91
-Chalet,Calle coruña,390000,5,40
-Chalet,A gandara,165000,6,235
-Piso,Calle Progreso 43,150000,1,43
-Chalet,Magalans 5,324995,5,173
-Chalet,Calle do Castro 53,324995,5,182
-Chalet,Camino Quirín Costa 5,550000,4,1100
-Ático,Calle Catoira 5,139000,2,77
-Chalet,Alto de Barreiros-Santiaguiño,194000,4,140
-Piso,Calle Eugenio Krapf,259900,4,149
-Piso,Avenida do Fragoso 42,150000,3,110
-Piso,Parque Rúa Faisán s/n,193500,2,71
-Ático,Calle Martínez Padín,189900,2,25
-Chalet,CR ZAMANS-ZAMANS 104 Polígono 186 Parcela 443 002500200NG26G CURRAS 36310 VIGO (PONTEVEDRA),422500,5,192
-Piso,Plaza da independencia,345000,3,102
-Chalet,Percibilleira,420000,4,159
-Piso,Calle Miño,110000,3,119
-Piso,Avenida Médico Ballina 26,132500,2,80
-Duplex,Ecuador,482550,3,87
-Piso,Calle LEANDRO DIZ 3,153000,3,100
-Chalet,Camino Baiona,295000,4,123
-Piso,Luis Taboada-Plaza Compostela,480000,4,132
-Chalet,Camino Ribeira,450000,4,159
-Ático,Avenida A Xunqueira,175000,2,78
-Piso,Lavadores,159000,2,73
-Piso,Calle Becacina,170000,2,72
-Piso,Calle Ecuador 73,390000,3,110
-Estudio,Avenida de Buenos Aires s/n,138300,0,51
-Piso,Avenida das Camelias,175000,4,137
-Chalet,Lugar a Lanzada,650000,4,70
-Piso,Avenida de Galicia,110000,3,52
-Piso,do Progreso,225000,2,77
-Piso,Calle do Ecuador,349000,3,119
-Piso,Calle Ecuador 73,348000,3,110
-Piso,Calle Xulián Estévez,174000,3,91
-Piso,Avenida de Buenos Aires s/n,161900,1,51
-Piso,Calle Ecuador 73,388000,3,110
-Ático,Calle de Vigo,230000,2,70
-Piso,Avenida de Buenos Aires s/n,136200,1,51
-Piso,Avenida de Buenos Aires s/n,136200,1,51
-Piso,Calle Ecuador 73,388000,3,110
-Piso,Calle das Teixugueiras 1,226000,3,120
-Piso,Calle das Teixugueiras 1,226000,3,116
-Chalet,aldea CANELAS 55,1200000,5,29140
-Chalet,Calle Lugar Igrexa s/n,450000,4,500
-Chalet,Camino do Foro 9,150000,3,100
-Piso,Calle das Teixugueiras 1,226000,3,95
-Piso,Calle Manuel Suárez Marquier 1,96000,2,68
-Piso,Calle Progreso 43,340000,3,116
-Chalet,Avenida de Pontevedra,360000,4,18
-Piso,Travesía Arenal 3,290000,3,82
-Chalet,Calle Rial 24,90000,2,400
-Piso,Simon del Mazo 8,98000,2,68
-Piso,LAMAZANS 1,90820,3,89
-Chalet,Cardigonde 5,99000,5,50
-Piso,Calle Vigo 10,295000,2,56
-Ático,A PERLA 5,192000,2,74
-Chalet,Calle Caeiros 13,280000,4,122
-Chalet,Calle Union 2,199000,2,67
-Piso,Parque Rúa Faisán s/n,242500,3,88
-Ático,Calle Coruña 2,175000,2,68
-Piso,Calle Rosalia de Castro 10,175000,2,63
-Piso,Parque Rúa Faisán s/n,230500,3,82
-Chalet,Calle Parada 7,595000,4,135
-Chalet,mide 96,950000,6,256
-Piso,Calle Augusto González Besada,114000,3,128
-Chalet,Camino Peinador - Os Valos s/n,250000,4,139
-Chalet,Calle Penis 104,190000,4,64
-Chalet,Camino da Pandiña 104,900000,5,195
-Chalet,Torre,675000,5,3000
-Piso,Vigo,295000,2,61
-Ático,Calle Ramón Encinas 110,145000,3,82
-Chalet,Calle do Progreso 53,495000,6,210
-Chalet,Avenida Chancelas 25,620000,5,48
-Chalet,Camino de Vilaverde 53,700000,5,198
-Piso,Avenida Outeiro 26,118250,2,68
-Ático,Avenida Outeiro 26,99660,1,4
-Ático,Avenida Outeiro 26,141900,2,72
-Chalet,Progreso 162,379000,4,122
-Chalet,Camino da Pandiña 104,900000,5,200
-Chalet,Solleiro 1,299000,7,3000
-Chalet,Calle do Progreso 53,495000,6,200
-Ático,Avenida Outeiro 26,246510,3,25
-Piso,Vigo,295000,2,80
-Piso,Vigo,345000,2,77
-Piso,Avenida Outeiro 26,118250,2,74
-Chalet,Calle Penis 104,190000,4,64
-Piso,Travesía de Vigo 88,144500,3,119
-Chalet,Avenida Chancelas 25,620000,5,48
-Duplex,Calle de Vigo 30,470000,3,40
-Chalet,Camino de Vilaverde 53,700000,5,177
-Chalet,Camino Cacheiro,620000,6,248
-Chalet,Camino das Cachadiñas 1,420000,4,154
-Chalet,Coiro,162000,1,41
-Piso,Calle de Zaragoza 6,199000,2,78
-Ático,Avenida Outeiro 26,99660,1,4
-Piso,Avenida OUTEIRO 26,117260,3,98
-Piso,Calle de Zaragoza,199000,2,64
-Chalet,Camino Dos Eiros s/n,485000,3,278
-Ático,Calle Santa Ana 5,450000,5,30
-Chalet,Camino da Igrexa Vella,1245000,5,1660
-Piso,Calle Vigo 14,345000,2,20
-Piso,Avenida Lugar Funchidos 2,125000,3,81
-Piso,Avenida da Atlántida 102,295000,2,70
-Chalet,Camino Sandian s/n,470000,5,2600
-Piso,Lugar a Relva 38,123000,2,78
-Chalet,Carretera da Balsa s/n,520000,6,235
-Piso,Avenida de Redondela 148,155000,2,74
-Piso,Plaza INDEPENDENCIA 7,345000,3,80
-Piso,Calle Vigo 14,295000,2,26
-Piso,barrio Centro - Areal,1165500,4,131
-Chalet,Calle de Cabicastro,449000,3,99
-Piso,Camino Fianteira,168000,2,8214
-Piso,Avenida de Redondela 148,151000,2,63
-Piso,Calle Progreso,135000,3,120
-Piso,Plaza Aurelio Lores,135000,2,70
-Chalet,Avenida Castelao 57,549000,5,173
-Chalet,Calle Lugar San Brais,199900,4,146
-Chalet,Calle Urbanización Brisa Romana s/n,390000,5,194
-Piso,Av Buenos Aires,115000,1,50
-Chalet,Camino Sandian s/n,470000,5,2600
-Piso,Calle Progreso,135000,3,81
-Chalet,Calle Urbanización Brisa Romana s/n,390000,5,164
-Chalet,Poio,499000,5,165
-Piso,Calle Castelao,166000,1,54
-Piso,Vigo,160000,1,43
-Chalet,Caeira,795000,5,179
-Piso,Plaza Eugenio Fadrique,190000,4,135
-Piso,Calle Llorente,165000,3,86
-Piso,Calle Luis Vidal Rocha,480000,4,152
-Chalet,Camino Bouciñas,450000,5,140
-Casa Rural,Forcarei,95000,5,198
-Chalet,A Estrada,170000,4,134
-Chalet,Salvaterra de Miño,399000,5,165
-Chalet,Candean - Cabral,415000,3,114
-Piso,Ponte-Caldelas,110000,4,128
-Ático,Calle de Zaragoza,130000,2,51
-Piso,Avenida de Balaídos,159800,3,115
-Casa Rural,Canaval,190000,6,499
-Chalet,Pontecesures,97000,4,126
-Ático,Calle Sanpaio 58,130000,2,63
-Piso,Ribadumia,90000,3,114
-Chalet,Valadares - Beade,500000,4,157
-Chalet,Vilar 11,265000,2,77
-Chalet,Poblado Trasdovalo 7,300000,8,29925
-Chalet,Soldecasa 3,98000,3,270
-Chalet,Candean - Cabral,370000,4,149
-Piso,barrio Plaza España - Corte Inglés,320000,3,106
-Chalet,Calle Progreso 14,185000,6,247
-Chalet,O Rebel s/n,1900000,22,538222
-Ático,Calle Caldas de Reis,145000,3,86
-Casa Rural,Lugar Fondevila,42000,1,94
-Piso,Avenida Fernando Conde 131,125000,3,40
-Duplex,Avenida Luis Rocafort 24,550000,4,147
-Piso,Venezuela 8,126000,4,130
-Ático,Covelo,120000,2,71
-Chalet,Camino Costa Dos Soldados,450000,4,137
-Chalet,Regonovo,69000,3,116
-Piso,barrio Plaza España - Corte Inglés,255000,3,117
-Piso,PO-308 13 -3,185000,3,8
-Piso,Calle Illas Alvedosas 9,149000,3,102
-Chalet,Barreira,198000,4,97
-Piso,barrio Plaza España - Corte Inglés,255000,3,112
-Piso,Avenida Buenos Aires,170000,3,9
-Chalet,Camino Costa Dos Soldados,450000,4,152
-Ático,Covelo,120000,2,74
-Chalet,Pedrouzos 17,360000,3,55
-Chalet,Via Lugar Major 89,260000,3,83
-Casa Rural,Lugar Fondevila,42000,1,94
-Piso,Carballeira do Chousiño 17,70000,2,80
-Chalet,Camino das Presas,1250000,4,129
-Chalet,Calle Camariñas 3,415000,3,828
-Piso,Avenida de Madrid,355000,3,119
-Piso,Vista Alegre,208000,2,67
-Piso,Calle de García Lorca,140000,3,99
-Piso,Jenaro de la Fuente,260000,3,91
-Chalet,Calle Reveriano Soutullo,85000,3,109
-Chalet,Barro,245000,0,5711
-Ático,Avenida Gran Via,399000,7,264
-Chalet,Villalonga,330000,4,337
-Piso,Calle Pintor Lugrís,250000,4,151
-Piso,Calle da Falperra,149000,2,60
-Piso,Calle de Nicaragua,410000,4,147
-Chalet,Lugar Portela,195000,5,344
-Piso,Plaza do Mercado,120000,3,86
-Casa Rural,Cabo de Vila,45000,2,132
-Ático,Avenida Portugal 27,98500,3,81
-Piso,Avenida Marqués del Valterra 75,101000,4,137
-Chalet,Lugar Arans,160000,3,99
-Casa Rural,Lugar Paravedra,30000,1,368
-Chalet,Camino de Zamáns 104,397500,5,215
-Chalet,Silleda,290000,5,150
-Piso,Calle Zaragoza,196000,2,68
-Casa Rural,Rochiñas,55000,0,1533
-Piso,Avenida de García Barbón,295000,4,144
-Chalet,Calle Aranza,240000,6,1200
-Piso,Calle do Conde de Torrecedeira,230000,5,167
-Piso,Avenida Sanjurjo Badía,150000,3,106
-Piso,Avenida das Camelias,329000,3,143
-Chalet,Camino Boavista,500000,3,742
-Piso,Avenida de Balaídos,199000,3,84
-Piso,Calle Canario,200000,3,101
-Chalet,Lugar Lusquiños,242200,7,309
-Piso,Calle Llorente,165000,3,69
-Piso,Avenida das Camelias,329000,3,143
-Piso,Isla de La Toja s/n,500000,5,65000
-Chalet,Calle Areacova,495000,3,86
-Piso,Aragón,159000,2,78
-Ático,Brasilino Alvarez 1,89000,2,69
-Chalet,Lugar Revolta,263200,9,373
-Piso,Isla de La Toja s/n,430000,3,100
-Ático,Calle Lamazáns 1,96235,2,77
-Duplex,Calle Corvo Mariño,198000,3,97
-Chalet,Calle Rouxique,140000,3,1536
-Piso,Calle Fontegrande,98500,3,100
-Chalet,Souto de Engarde,122550,4,600
-Piso,Calle do Miño,110000,3,117
-Piso,Avenida Sanjurjo Badía,150000,3,109
-Piso,Calle Cesáreo González,330000,4,10
-Piso,Paseo Matutino 40 -52,90820,3,89
-Casa Rural,Lugar a Lomba 36,59000,3,137
-Chalet,antime,240000,4,2400
-Chalet,Lugar Touceda,180000,3,92
-Chalet,ILLA CANOSA 79,320000,5,175
-Chalet,Miradores de la Toja,1800000,5,163
-Chalet,Magalans,360500,5,276
-Duplex,burgos,165000,2,63
-Chalet,Calle Fonte do Ouro,775000,3,33
-Chalet,Piñeiro,320000,4,130
-Ático,Calle do Profesor Hermida,350000,2,62
-Chalet,Brandufe,360000,5,187
-Chalet,Camino Boavista,500000,5,169
-Chalet,abetos s/n,1150000,7,4450
-Chalet,Camino sen nome,595000,4,137
-Chalet,Camino do Galleiro,389000,5,2600
-Chalet,LUGAR AREAS BORDONS,565000,4,89
-Chalet,Calle Albores Pequeno,585000,7,900
-Chalet,Camino das Laxes,450000,0,209
-Chalet,Lugar Freixeiro,199000,3,1291
-Chalet,Bueu,590000,3,390
-Chalet,Arquitecto Antonio Cominges,3200000,7,635
-Chalet,Arealonga,199999,4,360
-Chalet,EP-9963,650000,5,438
-Chalet,Camino de Labrego,800000,5,301
-Chalet,EP-9208,350000,5,200
-Chalet,Piñeiro,320000,4,152
-Chalet,Calle do Sidral,795000,4,3100
-Chalet,Nogueira,395000,5,207
-Chalet,Calle Fonte do Ouro,775000,3,33
-Chalet,Lugar Freixeiro,199000,3,1291
-Piso,Plaza da Curtidoira,290000,3,100
-Piso,Camino de ourense,450000,8,1140
-Chalet,Camino das Laxes,450000,0,209
-Chalet,Avenida Ricardo Mella,750000,6,247
-Chalet,Camino Sanín,350000,3,83
-Chalet,Calle Senín,160000,5,199
-Ático,Calle do Profesor Hermida,350000,2,73
-Casa Rural,Rio Da Vila,180000,3,850
-Chalet,As Lombas,199000,6,1000
-Chalet,Lugar Vilardematos,225000,7,450
-Chalet,Brandufe,360000,5,172
-Chalet,Lugar Arra,699000,4,126
-Chalet,Camino sen nome,595000,4,156
-Chalet,Calle Illa Canosa,650000,5,165
-Chalet,Subida Monte Lourido,1100000,4,148
-Chalet,Lugar Santradan,460000,3,87
-Piso,Travesía de Vigo,225000,3,91
-Piso,Avenida Gran Via,550000,5,272
-Piso,Avenida dos Loureiros,225000,3,108
-Piso,Zona Playa Caneliñas,195000,3,111
-Piso,Calle Javier Puig Llamas,130000,4,123
-Casa Rural,Lugar a Mota,1200000,19,1560
-Piso,Calle Zamora,550000,5,288
-Chalet,Barro,520000,4,300
-Chalet,Calle Penis de Abaixo,650000,5,162
-Chalet,Baixada a Praia,285000,3,45
-Chalet,Gondomar,480000,3,106
-Piso,Calle Ourense,255000,4,149
-Piso,Calle Vigo,480000,3,127
-Chalet,EP-9208,350000,5,171
-Chalet,Camino Quirós,690000,4,139
-Piso,Nicaragua,350000,3,105
-Chalet,Camino Fontela,875000,4,123
-Casa Rural,Rio Da Vila,180000,3,850
-Piso,Calle de García Barbón,230000,4,129
-Chalet,Camino das Cachadiñas,420000,4,250
-Chalet,Nogueira,395000,5,207
-Chalet,Camino Sanín,350000,3,106
-Chalet,Lugar Arra,699000,4,140
-Chalet,Arealonga,199999,4,360
-Chalet,Calle Penis de Abaixo,650000,5,199
-Piso,Calle Costa,340000,4,126
-Chalet,Avenida Ricardo Mella,750000,6,202
-Chalet,Camino Boavista,500000,5,178
-Chalet,Lugar Santradan,460000,3,103
-Piso,Calle López Mora,249000,4,27
-Chalet,LUGAR AREAS BORDONS,565000,4,89
-Piso,Corredoira 50,79800,2,67
-Piso,Travesía Aragón,185400,3,99
-Piso,Calle Padre Feijóo,280000,4,124
-Chalet,Nantes,395000,7,287
-Chalet,Lugar O Pombal,900000,5,2750
-Piso,Calle Hernán Cortés,255000,3,94
-Piso,Calle Vázquez Varela,275000,4,121
-Piso,Calle María Berdiales,220000,3,92
-Piso,Calle Tomás Alonso 72,470000,3,94
-Piso,Calle Porto Rico,239000,4,165
-Chalet,Calle das Chabarras,440000,4,215
-Ático,Avenida da Atlántida,650000,3,96
-Chalet,O Covelo,86000,4,144
-Chalet,Camino Urbillal Sanguiñeda,330000,6,224
-Piso,Calle de García Barbón,255000,3,105
-Chalet,Camino do Rolán,475000,5,186
-Chalet,Lugar a Gulpilleira,320000,5,143
-Piso,Avenida de Madrid 11,455000,3,118
-Duplex,Carretera do Vao,425000,5,168
-Chalet,Calle Consistorio,360000,5,25
-Chalet,Paxariñas,1950000,9,737
-Chalet,Camino da Estea,780000,5,178
-Chalet,Villalonga,395000,8,200
-Chalet,Mestres Soñora Cruces,130000,4,158
-Piso,Avenida das Camelias,405000,5,203
-Chalet,Camino dos Liñares,475000,4,350
-Piso,Avenida de Madrid 11,375000,3,101
-Piso,Calle Porto Rico,239000,4,165
-Piso,Calle do Brasil,255000,3,101
-Casa Rural,Freixeiro,380000,3,2897
-Chalet,Calle das Chabarras,440000,4,215
-Chalet,Camino do Galleiro,690000,5,492
-Chalet,A Fraga Couso,280000,5,1446
-Ático,Calle do Ecuador,340000,2,68
-Chalet,Paxariñas,1950000,9,737
-Chalet,Calle de Arquitecto Gómez Román,1175000,4,1500
-Chalet,Pío Troncoso,198000,3,116
-Piso,Calle Vázquez Varela,275000,4,138
-Piso,Avenida de Madrid 11,455000,3,110
-Chalet,Calle Vilar de Matos,259000,5,192
-Ático,Calle Bolivia 43,609000,3,101
-Chalet,Camino Camposancos,650000,4,121
-Chalet,Rúa Fuchiños,1200000,5,300
-Chalet,Lugar a Gulpilleira,320000,5,143
-Piso,Avenida das Camelias,385000,4,148
-Chalet,Calle Consistorio,360000,5,25
-Piso,Calle Hernán Cortés,255000,3,94
-Chalet,Carregal de Abaixo,259000,6,1300
-Piso,Calle do Brasil,245000,3,92
-Piso,Travesía Aragón,185400,3,115
-Duplex,Calle do Doutor Corbal,295000,3,114
-Piso,Calle Arzobispo Xelmírez,235000,4,116
-Chalet,Baiona,450000,3,88
-Chalet,Camino Cerdeira,310000,3,256
-Chalet,Camino do Rolán,475000,5,198
-Chalet,Lugar O Pombal,900000,5,2750
-Piso,Calle de García Barbón,255000,3,84
-Casa Rural,Calle do Burgo,750000,15,3610
-Piso,Calle María Berdiales,220000,3,117
-Chalet,barrio Casablanca - Calvario,80000,3,121
-Piso,Calle Barbeito,117000,1,46
-Chalet,Barrio Santa Rosa-Tomiño 7,195000,3,95
-Piso,Calle Vázquez Varela,390000,5,186
-Piso,Calle de Bolivia,460000,5,180
-Piso,Avenida García Barbón,295000,4,150
-Chalet,Camino das Sapeiras,580000,5,370
-Duplex,Calle Santa Ana 12,450000,5,180
-Chalet,Lugar O Pombal,250000,4,128
-Piso,Avenida de Castelao 57,112000,3,92
-Piso,Avenida das Camelias,375000,4,148
-Piso,Calle Abeleira Menéndez,260000,3,114
-Chalet,Rons,600000,4,220
-Chalet,Avenida Don Diego Sarmiento de Acuña,360000,6,202
-Piso,Calle da Falperra,152500,2,60
-Chalet,Lugar O Burgo,425000,3,2900
-Ático,Calle de Baiona,235000,3,117
-Chalet,Camino da Moureira,495000,4,137
-Chalet,SIERRA PONIENTE,300000,3,120
-Piso,Calle Canario,200000,3,95
-Estudio,Avenida Sanjurjo Badía,120000,0,3
-Piso,Paseo de Colon,280000,4,125
-Piso,Calle de Bolivia,470000,5,160
-Chalet,Camino da Fonte,380000,5,300
-Piso,Camino de Circunvalación,149000,1,44
-Chalet,Lugar a Aldea,340000,4,789
-Piso,Avenida Gran Via,280000,3,93
-Piso,Calle de Zaragoza,125000,1,50
-Chalet,Camino do Castañal,455000,4,121
-Piso,Calle Morcego 1,210000,2,61
-Piso,Rúa do Marqués de Valladares 33,650000,3,106
-Piso,Calle Llorente,165000,3,86
-Piso,Calle das Camelias,130000,3,101
-Piso,Calle Doctor Darío Durán Gómez,185000,2,62
-Piso,Calle Joaquín Fernández Sestelo 13 -1,135000,3,112
-Piso,Rúa do Marqués de Valladares 33,655000,3,118
-Piso,Avenida de Castelao,130000,3,100
-Chalet,Túnel A MADROA,340000,7,110
-Piso,Travesía de Vigo,180000,4,145
-Piso,Calle Morcego 1,245000,3,82
-Chalet,Pedras Negras,455000,3,85
-Duplex,Calle Corvo Mariño,198000,2,66
-Piso,Calle do Miradoiro 3,374000,4,147
-Chalet,Calle coto rodrigo,500000,5,270
-Chalet,redondo 84,820000,5,171
-Piso,Calle de Marín,285000,3,99
-Piso,Rúa do Marqués de Valladares 33,650000,3,100
-Piso,Calle Morcego 1,210000,2,75
-Piso,Calle Morcego 1,245000,3,91
-Chalet,Camino da Fonte,380000,5,300
-Chalet,Túnel A MADROA,340000,7,110
-Piso,Avenida Vilar,136400,2,61
-Piso,Calle do Miradoiro 3,374000,4,151
-Piso,Calle López Mora,190000,3,120
-Chalet,Lugar Carregal de Arriba,135000,4,55
-Piso,Calle do Ecuador,265000,4,103
-Chalet,Calle Costa,799000,6,1000
-Piso,Calle Doctor Darío Durán Gómez,185000,2,74
-Piso,Paseo de Colon,280000,4,157
-Piso,Calle Joaquín Fernández Sestelo 13 -1,135000,3,113
-Duplex,Calle Corvo Mariño,198000,2,72
-Piso,Camino de Circunvalación,149000,1,57
-Chalet,Pedras Negras,455000,3,117
-Piso,Calle de Tomás Paredes 116,106000,3,106
-Duplex,Calle Rosalía de Castro 11,375000,4,125
-Piso,Calle Vázquez Varela 18,419000,3,108
-Piso,Calle de Vigo,175000,1,43
-Chalet,Calle simancas 32,315000,5,168
-Piso,Calle abeleira menendez,260000,3,105
-Piso,Via Gran 176,325000,4,210
-Chalet,Tomiño,650000,10,800
-Piso,Calle Vázquez Varela 18,439000,3,107
-Piso,Calle Padre Fernando Olmedo,130000,3,105
-Piso,Calle Vázquez Varela 18,389000,3,118
-Chalet,Castrelos - Sárdoma,525000,5,175
-Piso,O Hío,230000,2,64
-Ático,Sanxenxo,444000,3,105
-Piso,Avenida Luis Rocafort 41,220000,2,68
-Piso,Calle de García Barbón,255000,3,97
-Piso,Calle Areal 120,268000,2,60
-Chalet,Lugar Bade 14,155000,4,121
-Piso,Calle Areal 120,363000,3,115
-Ático,Sanxenxo,175000,2,71
-Chalet,lugar naranxeiras,510000,6,2540
-Chalet,Lugar Bade 14,155000,4,149
-Duplex,Calle do Marqués de Valladares,424960,3,96
-Chalet,Camino do Escontrijo,790000,5,174
-Ático,Sanxenxo,175000,2,71
-Chalet,Centro,1000000,5,500
-Piso,Calle López Mora,345000,4,146
-Chalet,Priegue,650000,4,154
-Chalet,Calle de Severino Cobas,460000,6,227
-Ático,Camino Fianteira 12 A,150000,2,260
-Piso,Calle Morcego 1,344000,4,121
-Piso,Calle Areal 120,268000,2,75
-Piso,Avenida Pontevedra 62,220000,2,77
-Piso,Calle Areal 120,363000,3,115
-Piso,Calle Areal 120,522000,4,125
-Piso,Via Norte,300000,4,157
-Piso,Calle de García Barbón,255000,3,95
-Ático,Travesía de Vigo,180000,3,86
-Estudio,LOUREIROS 7,86100,0,39
-Ático,Camino de bueu 70,270000,3,89
-Piso,Calle de Gerona 6,350000,4,140
-Chalet,Camino de sobreiras,240000,5,194
-Piso,Calle do Doutor Carracido 4,199000,2,76
-Casa Rural,EP-9209,3000000,25,22
-Piso,Via del Norte 1,420000,9,682
-Ático,Avenida de Bos Aires s/n,264500,2,61
-Piso,Avenida Emilia Pardo Bazán 36969 9,175000,2,79
-Ático,Avenida de Bos Aires s/n,333000,3,109
-Ático,Avenida de Bos Aires s/n,327500,3,93
-Chalet,Mos,325000,8,352
-Piso,Calle Brasil,519000,3,160
-Chalet,Calle Illa Canosa 24,294500,5,191
-Piso,jose fariña jamardo 3,239000,2,64
-Piso,Avenida da Florida 36,260000,3,120
-Chalet,curro 19,290000,5,150
-Chalet,Lugar el de Guntín,189600,4,757
-Piso,Calle Colombia,140000,3,110
-Piso,Calle de García Barbón 50,510000,4,235
-Chalet,Carballas,212905,4,130
-Piso,Calle O Pinar,159000,3,98
-Piso,Calle Senén Canido,89000,4,40
-Piso,Calle Colombia,140000,3,96
-Ático,nanin bordons,950000,3,90
-Chalet,Camino do Cabazo,394000,3,220
-Piso,Calle Don Quijote,195000,3,88
-Chalet,Subida a Buraca,550000,4,1750
-Piso,Calle Sarmiento 21,205000,4,140
-Ático,Calle Sanpoio 62,125000,2,66
-Piso,Via Norte,370000,4,132
-Piso,Calle de Nicaragua,350000,3,50
-Chalet,ES QUINTELA (DE)-QUINTELA 36817,350000,4,2000
-Piso,Travesía Porteliña,160000,2,124
-Piso,Calle de Urzaiz,350000,3,82
-Chalet,PO-551,480000,5,178
-Piso,Calle Augusto González Besada,114000,3,128
-Piso,Avenida Gran Via,215000,3,118
-Piso,Villalonga,97500,1,50
-Piso,Urzáiz,395000,4,155
-Piso,Pablo Morillo,284600,3,82
-Piso,Calle de Vigo,219000,3,98
-Piso,Calle da Coruña,159000,2,67
-Chalet,Sanxenxo,1300000,5,195
-Piso,Calle Doutor Loureiro Crespo,159000,2,74
-Chalet,Calle Tomás Mirambell,550000,2,1455
-Piso,Avenida García Barbón,210000,4,142
-Piso,Calle Santa Tegra,120000,1,48
-Chalet,Lugar a Ribeira,227000,4,114
-Piso,Calle do Brasil,235000,3,101
-Piso,Avenida Gran Vía,260000,4,149
-Chalet,zapateira,600000,3,80
-Chalet,carregal de arriga,260000,4,1000
-Piso,Torrecedeira,225000,3,80
-Chalet,Lugar As Sequeiras,218000,3,27972
-Piso,barrio Plaza España - Corte Inglés,348000,3,110
-Chalet,Calle Illa de Ons - San Salvador s/n,395000,4,300
-Piso,garcia barbon,325000,3,84
-Piso,Calle Sergio Saborido 2,235000,2,510
-Chalet,SUBIDA PARADA,435000,5,177
-Chalet,A Guarda,279000,3,507
-Chalet,Calle Illa de Ons - San Salvador s/n,490000,4,300
-Chalet,A Guarda,279000,3,507
-Chalet,carregal de arriga,260000,4,1000
-Piso,Torrecedeira,225000,3,106
-Chalet,Calle da Pedralta,186000,2,89
-Ático,Coiro,139000,3,104
-Chalet,Lugar As Sequeiras,218000,3,27972
-Chalet,Piñeiro,350000,3,106
-Estudio,Calle Lepanto,128000,0,46
-Chalet,Calle do Gorgullón,385000,4,156
-Chalet,Portela s/n,298000,5,165
-Chalet,Lugar tumbio,235000,3,813
-Chalet,Tomiño,229000,4,164
-Chalet,barrio Oia,495000,4,130
-Ático,Sobradelo - Rosaleda,80000,2,79
-Piso,Calle Xulián Estévez,174000,3,84
-Chalet,Calle do Gorgullón,395000,4,158
-Piso,Centro - Echegaray,435000,5,178
-Piso,Avenida da Atlántida 98,410000,5,171
-Chalet,Mos,250000,3,91
-Chalet,Mos,880000,6,2060
-Chalet,Arbo,348000,4,142
-Duplex,Vilagarcía,220000,3,94
-Casa Rural,Tui,220000,0,357
-Piso,Teis,150000,3,116
-Piso,Calle de María Berdiales,174000,4,160
-Piso,Avenida Luis Rocafort 34,230000,3,96
-Piso,Centro - Echegaray,350000,3,112
-Chalet,Baiona,550000,5,165
-Chalet,Vilaboa,399000,3,88
-Chalet,Baiona,950000,5,30
-Piso,barrio Berbés - Peritos,260000,3,9
-Chalet,Redondela,183000,4,144
-Chalet,Cambados,300000,4,138
-Chalet,Teis,450000,7,1500
-Chalet,Mondariz,650000,5,600
-Piso,barrio Berbés - Peritos,250000,5,200
-Piso,Calle Ponte Arnelas,129000,2,70
-Chalet,Camos,1700000,4,6681
-Piso,Pedras negras c s/n,189000,3,91
-Chalet,As Neves,275000,4,5000
-Piso,Calle Santa Tegra 14,120000,1,37
-Casa Rural,Calle Concepción Arenal 21 -7,280000,1,106
-Ático,Travesía de Vigo,320000,4,110
-Chalet,Avenida Sta Mariña 172,415000,4,152
-Piso,barrio Berbés - Peritos,250000,5,197
-Piso,barrio As Travesas - Balaídos,330000,4,157
-Chalet,Bueu,170000,2,1100
-Chalet,O Grove,1800000,4,133
-Chalet,Teis,450000,7,350
-Piso,barrio Coia,248000,5,121
-Estudio,Calle da Falperra 44,98000,0,30
-Piso,Ramon Bares,181000,3,103
-Chalet,Camos,1700000,4,6681
-Chalet,Cruceiro,199000,4,143
-Piso,Calle Fontoura 26,125000,3,80
-Piso,Pedras negras c s/n,189000,3,91
-Chalet,Candean - Cabral,300000,4,153
-Piso,Calle do Ecuador,265000,4,110
-Piso,Calle de Tomás Paredes 216,106000,3,117
-Chalet,As Neves,275000,4,5000
-Piso,Calle do Alcalde Rey Daviña,295000,4,158
-Chalet,Valadares - Beade,329000,8,3063
-Piso,Calle Ponte Arnelas,129000,2,74
-Piso,Calle do Areal,255000,2,69
-Chalet,sestelo 7,185000,6,5270
-Chalet,La Toja s/n,3000000,10,639
-Chalet,Lugar Montalvo 3,250000,5,167
-Piso,Calle Cuba,320000,3,104
-Estudio,Teniente Domínguez 19,147000,0,25
-Piso,Calle de Vigo,250000,2,77
-Piso,Calle Angel Llanos 1,207000,2,71
-Piso,Calle Manuel de Castro 22,169000,4,144
-Chalet,Camino Pereiras,360000,5,950
-Piso,Calle de Zaragoza 44,245000,2,88
-Piso,Calle Caracas,315000,3,81
-Piso,Calle de Vigo,218000,3,115
-Chalet,Calle BUDIÑO 5,220000,3,580
-Piso,Colón,410000,3,86
-Piso,Aldea o Riveiro,59900,3,85
-Piso,Calle de Rosalía de Castro,525000,4,150
-Chalet,Calle Policarpo Sanz,695000,3,229
-Piso,Calle de Zaragoza 44,245000,2,88
-Piso,Calle de Urzaiz,215000,2,72
-Piso,Plaza 8 de Marzo,230000,3,111
-Piso,Calle Angel Llanos 1,207000,2,65
-Piso,Colón,410000,3,99
-Ático,LUGAR FONTE DE ONS 64,109900,1,59
-Piso,Via del Norte,300000,4,120
-Piso,Avenida de García Barbón,210000,4,138
-Duplex,Avenida de García Barbón 38,620000,5,270
-Piso,Calle San Mauro,195000,2,68
-Piso,Calle do Ecuador,349000,3,83
-Chalet,Calle da Paz,130000,3,99
-Chalet,san damian 7,750000,8,315
-Ático,Calle Madrid 56,600000,3,28
-Casa Rural,Toimil s/n,480000,7,856
-Piso,Aragón,159000,2,72
-Piso,Calle de Vigo,218000,3,112
-Chalet,Calle Redondo,820000,5,500
-Chalet,Calle 15 de Octubre 4,250000,3,110
-Chalet,Camino Pereiras,360000,5,950
-Piso,Calle CENTRO 5,100000,2,74
-Ático,Calle Senén Canido 5,84200,3,83
-Piso,Calle Manuel de Castro 22,169000,4,143
-Piso,Calle da Reconquista,750000,5,230
-Piso,Aldea o Riveiro,59900,3,85
-Piso,Calle de Rosalía de Castro,525000,4,150
-Duplex,Calle Martín Códax 4,189000,2,78
-Piso,Calle do Gorgullón,265000,3,94
-Chalet,Camino Matamá Pazo-Comesaña,490000,5,500
-Piso,barrio Plaza España - Corte Inglés,550000,5,165
-Chalet,Barrio Outeiro,350000,4,123
-Casa Rural,Lugar Casqueiros 27,38500,2,69
-Piso,Cervantes,405000,3,91
-Chalet,Lugar Toedo,330000,8,4000
-Ático,Calle Luis Vidal Rocha,390000,2,128
-Chalet,Calle de Recanles,1100000,7,3000
-Piso,Avenida Outeiro,160000,3,114
-Piso,Calle Martín Códax 4,182000,2,80
-Piso,Avenida Gran Via,315000,5,182
-Piso,Avenida dos Loureiros,205000,2,83
-Chalet,Calle de Recanles,1100000,7,3000
-Piso,TORRECEDEIRA,220000,3,99
-Piso,Calle Martín Códax 4,182000,2,63
-Casa Rural,Lugar Casqueiros 27,38500,2,69
-Chalet,Camino Matamá Pazo-Comesaña,490000,5,500
-Piso,Cervantes,405000,3,118
-Piso,barrio Plaza España - Corte Inglés,550000,5,182
-Chalet,San Pedro da Ramallosa,580000,6,45
-Chalet,Pereiras- Rabadeiro,385000,4,400
-Chalet,Tomiño,259000,6,1300
-Chalet,barrio Casco Vello,695000,3,100
-Chalet,Bembrive,450000,4,149
-Duplex,Calle de Pura Pérez Prado,280000,3,133
-Piso,Calle do Pracer,125000,1,45
-Chalet,Pereiras- Rabadeiro,365000,4,220
-Chalet,O Hío,580000,4,1400
-Chalet,Calle Parada,595000,4,124
-Chalet,Tomiño,650000,10,660
-Chalet,Bembrive,450000,4,158
-Chalet,Calle de Fontepesada,275000,5,450
-Casa Rural,castro 21,70000,3,115
-Chalet,Calle Revolta Noalla,240000,3,102
-Piso,Calle Vázquez Varela 19,380000,6,44
-Piso,Calle de Alfonso XIII,240000,4,127
-Chalet,Camos,795000,4,149
-Piso,Calle do Conde de Torrecedeira,220000,3,93
-Chalet,Reguenga 13,78000,3,230
-Piso,Avenida de García Barbón,255000,3,93
-Piso,Avenida de la Concordia s/n,180000,3,80
-Piso,Avenida de la Concordia s/n,150000,2,62
-Piso,Avenida de la Concordia s/n,180000,3,107
-Chalet,quintelas dos iglesias 15,87000,3,94
-Chalet,Poblado Carral 7,85000,3,781
-Piso,Avenida Luis Rocafort 33,240000,2,70
-Piso,barrio Casablanca - Calvario,200000,3,106
-Chalet,Tomiño,328000,4,125
-Chalet,Moaña,289000,4,200
-Chalet,Lugar a Lanzada 45,380000,6,214
-Chalet,Salceda de Caselas,185000,6,676
-Chalet,quintelas dos iglesias 15,87000,3,115
-Chalet,Camino da Tilleira,365000,5,600
-Ático,Calle Gatañal,180000,3,45
-Chalet,Mondariz,165000,5,168
-Chalet,Moaña,289000,4,200
-Casa Rural,Covas s/n,115000,5,112
-Piso,Calle de Madrid 15,240000,2,79
-Chalet,PO-308 26,450000,3,87
-Chalet,Salceda de Caselas,185000,6,676
-Piso,Avenida BENITO VIGO 119,148000,4,156
-Chalet,Calle Corpiño 43,120000,3,107
-Piso,Avenida Luis Rocafort 18,265000,3,100
-Chalet,Poblado Carral 7,85000,3,781
-Piso,barrio Casablanca - Calvario,200000,3,84
-Chalet,Villalonga,330000,4,337
-Chalet,Lugar a Lanzada 45,380000,6,216
-Casa Rural,Lugar de Outeiro Loson 1,120000,3,8911
-Piso,Avenida Luis Rocafort 33,240000,2,72
-Chalet,Tomiño,328000,4,127
-Piso,Avenida Luis Rocafort 24,200000,2,76
-Piso,Calle Lugo 10 -2,106320,2,66
-Chalet,Camino Subida Cedeira,950000,3,6500
-Piso,Calle Uruguay,350000,4,125
-Piso,Calle Cristo 28,110000,4,100
-Chalet,Avenida Santa Mariña,200000,4,74
-Chalet,Calle Escalinata,215000,5,262
-Chalet,Calle CALDELAS - SOUTO DE ENGARDE 23,122550,4,600
-Chalet,Camino Vella de Madrid,700000,5,1500
-Chalet,Calle Devesa Santa Tegra,190000,5,75
-Chalet,Calle Outeiro,2500000,6,30000
-Piso,Calle Lepanto,495000,5,184
-Piso,Calle Zamora,199500,4,25
-Piso,Cervantes,375000,3,108
-Chalet,Lugar As Sequeiras 35,218000,3,20
-Ático,Calle Luis A Mestre 53,153000,3,97
-Piso,Menendez Pelayo,135000,3,87
-Chalet,Sobradelo - Rosaleda,107000,1,55
-Piso,Calle da Coruña 11 -1,129500,3,94
-Chalet,Gandarela,198000,4,4600
-Piso,Travesía de Vigo,175000,3,15
-Piso,Calle Zamora,199500,4,25
-Chalet,Camino da Montana 31 -27,600000,4,134
-Piso,Calle Santa Tegra,120000,1,59
-Chalet,Camino da Mo 5,67000,1,43
-Ático,Calle de Urzaiz 55,260000,4,120
-Chalet,Lugar Soutullo,340000,4,240
-Duplex,Concepción Arenal 1,220000,4,144
-Ático,canonigo valiño,175000,3,87
-Chalet,Penide,329900,5,185
-Casa Rural,Camino Outeiro de Reboreda,700000,4,11000
-Piso,Avenida Hispanidade,148000,1,53
-Piso,Avenida Médico Ballina,145000,2,136
-Piso,Calle Illa Canosa 80,294500,4,35
-Chalet,Avenida da Atlántida,599000,4,153
-Duplex,Calle Angel Llanos,207000,2,79
-Chalet,Urbanizacion San Bieito,191000,4,138
-Piso,Calle do Areal,150000,2,75
-Chalet,Calle PERIFERIA 5,228000,3,102
-Piso,Calle Mercado 13 A,93000,2,74
-Piso,Vista Alegre,138000,2,62
-Ático,Calle Victoriano Pérez Vidal 30,116500,3,118
-Chalet,Plaza Major 114 D,446000,4,143
-Ático,Lugar Areas 3 A,260000,2,85
-Piso,Calle San Francisco,110000,3,64
-Chalet,Camino do Cabazo 5,394000,3,200
-Chalet,Isla de La Toja s/n,1650000,5,172
-Piso,Avenida de Balaídos,180000,4,114
-Piso,Camino Ponteareas 2,95000,2,64
-Estudio,Calle de Sanjurjo Badía,120000,0,55
-Piso,Plaza da Curtidoira,295000,3,84
-Piso,Avenida do Fragoso,170000,4,115
-Chalet,Camino dos Medeiros,260000,6,30
-Chalet,Avenida ramallosa centro,600000,3,87
-Ático,Calle Profesor Hermida 8,350000,2,40
-Piso,Calle JOAQUIN FERNANDEZ SESTELO 5,112500,3,117
-Piso,Calle de Barcelona 71,176000,2,78
-Piso,Calle FONTOURA 22,97000,2,78
-Piso,Plaza Francisco Fernández del Riego 9,365000,2,94
-Chalet,Calle Santa Lucía 4,180000,2,75
-Piso,Calle Maruja Gutiérrez,43605,3,120
-Chalet,Calle Valado,2500000,16,2000
-Chalet,Lugar a Aldea,275000,4,268
-Casa Rural,Camino da Costa do Xenio 17,236500,6,1200
-Piso,Plaza da Curtidoira,295000,3,95
-Piso,Calle JOAQUIN FERNANDEZ SESTELO 5,112500,3,84
-Ático,Calle de Urzaiz 55,260000,4,120
-Ático,Lugar Areas 3 A,260000,2,85
-Chalet,Calle Santa Lucía 4,180000,2,68
-Piso,Avenida do Fragoso,170000,4,115
-Chalet,Isla de La Toja s/n,1650000,5,170
-Piso,Pedaporta 49,187000,3,99
-Piso,Calle do Príncipe,200000,5,175
-Chalet,Camino da Landreira,690000,5,162
-Ático,Calle Madrid 56,700000,3,83
-Piso,Calle de Tomás Paredes,106000,3,98
-Chalet,Carretera Barrocas-Valladares,449900,8,1160
-Chalet,Camino de Miranxe,420000,3,103
-Piso,Av Ramon Nieto,189000,3,103
-Chalet,Calle Fuchiños,1200000,5,199
-Chalet,Área,165000,5,270
-Piso,Calle Paio Gómez de Soutomaior,92150,3,122
-Chalet,A costa do Laton,280000,4,289
-Chalet,Real,400000,3,364
-Piso,Calle Jaime Janer,85000,3,117
-Piso,Urzaiz,345000,3,80
-Chalet,Lugar Berducedo O Piñeiro,280000,4,176
-Piso,Via Gran Via,360000,4,149
-Duplex,Bordóns-Dorrón,160000,2,84
-Chalet,Calle do Prado das Barxas,750000,6,300
-Duplex,Lugar Granxa 78,159000,2,73
-Piso,Calle Ourense 24,315000,3,111
-Chalet,Calle Soutelo 17,95000,3,98
-Chalet,Camino da Torriña,1000000,5,521
-Piso,Calle Conde de Torrecedeira,220000,3,105
-Chalet,Calle a Ponte Nova,450000,3,98
-Ático,Avenida de León 1,490000,3,105
-Piso,Calle Fotógrafo Xosé Gil 24,245000,3,80
-Piso,Calle da Coruña,190000,4,154
-Piso,Calle da Coruña 26,230000,4,142
-Chalet,lugar pombal,850000,5,162
-Chalet,Camino lugar bouza baredo,360000,3,110
-Piso,Via Gran Via,360000,4,124
-Piso,Calle do Príncipe,200000,5,175
-Ático,Avenida de León 1,490000,3,105
-Chalet,Alto Lourido,1250000,9,200
-Piso,Calle Conde de Torrecedeira,220000,3,83
-Chalet,Área,165000,5,270
-Chalet,Calle forcarei,220000,5,35
-Chalet,Camino de Miranxe,420000,3,100
-Duplex,Bordóns-Dorrón,160000,2,84
-Chalet,Carretera Igrexa Roteas 57,498000,6,202
-Duplex,Lugar Granxa 78,159000,2,74
-Chalet,Camino da Torriña,1000000,5,521
-Ático,Calle Ourense 24,385000,2,67
-Piso,Calle Fonte de Ramos 2,295000,3,3
-Piso,Calle da Coruña 26,230000,4,125
-Chalet,Calle do Prado das Barxas,750000,6,300
-Piso,Calle Abeleira Menéndez,260000,3,114
-Chalet,Carretera Barrocas-Valladares,449900,8,1160
-Chalet,Calle Pallanes,220000,2,70
-Chalet,Camino do Correlo,395000,4,7000
-Chalet,Carregal de arriba,785000,5,10000
-Piso,Calle Manuel de Castro 24,121400,1,40
-Chalet,Lugar Sequeiros 11,55000,3,84
-Piso,Avenida BENITO VIGO,125000,3,102
-Piso,Avenida Conde de Bugallal,165000,2,70
-Piso,Plaza de Portugal,350000,3,35
-Piso,Alcalde José Ramón Fontán,320000,3,108
-Piso,PIZARRO,295000,2,67
-Chalet,Lugar As Lombas 24,275000,4,05
-Chalet,Lugar de Borraseiros,495000,6,6000
-Piso,Calle México,235000,2,62
-Piso,Calle de Pi y Margall,395000,4,156
-Chalet,Lugar Coruxeira 39,160000,3,84
-Chalet,Calle Doctor Martín Lago,167000,3,90
-Chalet,Camino da Balsa,550000,5,166
-Chalet,Eidos,550000,5,2000
-Chalet,Camino do Vao,749000,6,1200
-Chalet,Calle Gorgoreiro 85,165000,3,88
-Chalet,Vilares,450000,5,357
-Piso,Calle Brasil,247000,4,147
-Chalet,Camino da Balsa,550000,5,189
-Duplex,Calle Puerto Rico,515000,5,35
-Chalet,Calle MOLEDO,420000,7,253
-Piso,Calle do Ecuador,320000,5,181
-Piso,Calle Policarpo Sanz,550000,3,130
-Piso,Paseo de Alfonso XII 35,450000,4,156
-Chalet,Nande,499000,6,216
-Piso,Calle de Pi y Margall,395000,4,131
-Chalet,Camino de Parada,435000,5,173
-Chalet,Lugar Sequeiros 11,55000,3,102
-Chalet,Borreiros,650000,4,150
-Piso,Calle Manuel de Castro 24,121400,1,60
-Chalet,Camino do Correlo,395000,4,7000
-Piso,BENITO VIGO,125000,3,113
-Chalet,Mos,120000,3,118
-Piso,Calle do Ecuador,378000,3,83
-Chalet,Villadesuso carretera de la costa,380000,4,215
-Chalet,N-550,298000,3,120
-Chalet,Lugar cabo da rańa 11,185000,3,13848
-Ático,Travesía Oliva 4,38000,1,122
-Chalet,Calle os Eidos 3,380000,4,144
-Piso,Calle Trovador Xoán García de Guillade 24,155000,3,10600
-Piso,Calle de Nicaragua,239000,3,95
-Piso,Calle de Venezuela,497500,4,45
-Piso,Calle Xulián Estévez 8,169000,3,99
-Chalet,Calle caldela 36,271000,5,171
-Duplex,Calle do Ecuador,482550,3,160
-Chalet,Lugar O Tombo,675000,4,125
-Chalet,Calle dos Ferreiros 9,89000,6,321
-Chalet,Tabagón s/n,170000,3,89
-Piso,Calle de Madrid,360000,2,67
-Chalet,Mondariz-Balneario,300000,5,3200
-Duplex,Camino de Frían,250000,4,159
-Piso,Calle do Brasil,110000,1,59
-Piso,Sanxenxo,230000,2,76
-Chalet,Lugar Piñoi,175000,3,89
-Piso,Avenida do Conde de Bugallal,195000,3,90
-Piso,Calle Echegaray,139000,3,97
-Ático,Calle JOAQUIN FDEZ SESTELO 5,105000,3,95
-Piso,Calle do Areal,670000,3,102
-Chalet,Avenida Ricardo Mella,650000,6,234
-Chalet,Candean - Cabral,300000,4,927
-Piso,Calle de Ignacio Grobas,145000,1,43
-Chalet,Ponteareas,165000,7,295
-Chalet,Camino das Muradas,95000,2,67
-Chalet,Camino Pomar,1400000,6,230
-Piso,Travesía de Vigo,145000,3,115
-Piso,Calle de Luis Taboada,617000,5,174
-Chalet,Calle Riveiro,139000,5,336
-Chalet,Lugar O Contrasto,273000,4,294
-Piso,Travesía de Vigo,200000,3,111
-Chalet,Calle Tui,155000,5,1235
-Chalet,Calle Gondomar,195000,4,272
-Chalet,Calle Ramón Peinador,165000,5,199
-Piso,Calle do Couto,360000,3,112
-Chalet,Calle FILLABOA,220000,4,2750
-Chalet,Carretera Baiona - A Guarda,355000,4,281
-Chalet,Lugar Rotea 34,169000,4,600
-Piso,Calle da Coruña,190000,4,103
-Piso,Calle de Salvaterra,95000,2,103
-Chalet,AREA DA BARCA,350000,4,137
-Chalet,Calle Montino de Paradela,269000,6,306
-Piso,Avenida de Portugal,190000,2,70
-Piso,O Burgo - Campus Universitario,250000,3,119
-Chalet,Calle Escultor Acuña,795000,4,142
-Chalet,Magalans,324995,5,196
-Piso,Travesía de Vigo,280000,4,170
-Chalet,Camino Fragoselo,225000,5,172
-Piso,Avenida das Camelias,405000,5,176
-Piso,Calle Manuel de Castro,125000,1,53
-Piso,Avenida San Xoán,115000,2,60
-Piso,Calle da Coruña,159000,2,74
-Piso,Calle do Miño,95000,2,67
-Piso,Avenida de Santo Domingo de Guzmán,145000,3,92
-Piso,Paseo de Calvo Sotelo,120000,3,91
-Piso,Calle Pintor Laxeiro,250000,4,120
-Chalet,Aldea Fraga,280000,5,170
-Chalet,Calle Rotea,166000,3,700
-Piso,Avenida Gran Via 104,340000,4,165
-Chalet,Lugar a Igrexa,450000,5,161
-Piso,Calle Don Pedro,450000,3,110
-Chalet,Calle Casal de Arriba,270000,4,250
-Piso,Avenida santa mariña 24,139000,3,103
-Chalet,Casal,225000,3,150
-Chalet,PO-350,210000,4,248
-Casa Rural,Bouza Da Laxe,570000,5,1900
-Chalet,Calle Illa de Ons,590000,4,254
-Chalet,Lugar Sar,127000,1,51
-Piso,Calle Llorente,165000,3,69
-Piso,Avenida de Ramón Nieto,335000,6,229
-Chalet,Lugar O Couto,163000,5,516
-Piso,torrecedeira 38,220000,3,97
-Chalet,Camino Urxeira Chancelas,595000,4,867
-Piso,A Guarda,79000,1,10
-Piso,Calle de Sanjurjo Badía,98000,3,80
-Piso,Calle de Urzaiz,260000,2,76
-Chalet,Lugar a Gandara,192000,3,899
-Chalet,Calle da Fonte Escura,170000,5,165
-Chalet,aldea RAMO,275000,4,133
-Piso,Calle Garda 9,250000,4,151
-Piso,Calle da Coruña,298000,4,128
-Chalet,Calle oscura,297000,4,147
-Chalet,Camino sen nome,240000,3,82
-Piso,Alcabre,275000,5,160
-Chalet,Camino da calzada,245000,2,66
-Piso,Avenida do Fragoso,175000,4,120
-Piso,Calle Inés Pérez de Ceta,310000,3,101
-Piso,Avenida Gran Via 104,340000,4,165
-Chalet,Lugar O Hospital,179000,4,338
-Chalet,Covelo - Saiáns 45,170000,5,196
-Chalet,Lugar San Xian,215000,6,384
-Piso,Calle Taboada Leal 11,249000,3,137
-Chalet,Lugar Carregal de Abaixo,195000,3,165
-Chalet,Camino da Cachada,184000,3,113
-Chalet,Lugar Bajada a la Armona,450000,4,300
-Chalet,Calle Rotea,166000,3,700
-Chalet,isla de la toja,1380000,8,303
-Piso,Calle Doutor Carlos Colmeiro Laforet,570000,5,261
-Piso,Calle Calvario,115000,3,101
-Chalet,Lugar Carregal de Abaixo,195000,3,165
-Piso,torrecedeira 38,220000,3,89
-Piso,Calle Taboada Leal 11,249000,3,137
-Casa Rural,Bouza Da Laxe,570000,5,1900
-Piso,Calle Vázquez Varela,260000,5,142
-Piso,Calle Llorente,165000,3,69
-Piso,A Guarda,79000,1,10
-Piso,Avenida de Ramón Nieto,335000,6,248
-Piso,Calle de Venezuela,497500,4,200
-Piso,O Porriño,120000,2,70
-Chalet,Calle Tomada,230000,4,137
-Chalet,Calle Gagos Mendoza,325000,4,236
-Chalet,Toural,270000,4,122
-Piso,Alcabre,330000,2,79
-Piso,Avenida de Vigo 93,179000,2,67
-Piso,Calle Rodríguez Seoane,189000,3,90
-Chalet,Carabelos Mourente,350000,4,130
-Piso,colon,410000,3,119
-Ático,Travesía Viñas 3ª,149000,2,50
-Chalet,O Muiño,330000,5,179
-Piso,Calle Doutor Clemente Echeverría Novoa,170000,3,95
-Piso,Avenida de Vigo,360000,4,150
-Chalet,Avenida Chancelas,165000,3,112
-Chalet,Camino Lugar Eidos,550000,5,2245
-Chalet,Pontevedra,430000,4,130
-Duplex,barrio Camelias - Pi y Margall,299000,6,225
-Piso,Plaza isabel la catolica,300000,4,145
-Duplex,Campo do Boi,235000,2,60
-Chalet,Tomiño,150000,2,111
-Piso,oliva,375000,5,140
-Piso,Vilagarcía,150000,3,100
-Chalet,O Carril - Bamio,69900,3,107
-Chalet,barrio Coruxo,599000,4,147
-Piso,Calle de Julia Minguillón,240000,4,128
-Chalet,Bueu,125000,3,485
-Piso,barrio Berbés - Peritos,220000,3,100
-Chalet,Panxón,580000,4,300
-Piso,barrio Centro - Areal,589000,2,20
-Piso,barrio Plaza España - Corte Inglés,349000,3,117
-Piso,Centro,199000,3,113
-Piso,barrio Centro - Areal,589000,2,20
-Piso,Avenida Gran Via 176 r,315000,4,10
-Chalet,Cornazo - Rubianes,185000,5,170
-Piso,Calle de Venezuela,343000,5,171
-Piso,Sobrán,85000,3,104
-Piso,alfonso XIII,240000,4,159
-Piso,Calle Xulián Estévez 32,189000,3,91
-Piso,barrio Fátima,300000,4,126
-Chalet,Candean - Cabral,425000,4,124
-Piso,Vilagarcía,135000,3,118
-Piso,barrio Plaza España - Corte Inglés,349000,3,97
-Piso,Calle Paulino Freire,450000,5,175
-Chalet,Sanxenxo,990000,8,1800
-Piso,Avenida Gran Via,185000,4,119
-Piso,Benito Vigo 119,148000,3,141
-Chalet,PO-552,140000,4,129
-Chalet,Barro San Miguel,240000,5,87
-Piso,Calle Llorente,165000,3,86
-Piso,venezuela,299000,3,80
-Chalet,Moraña,195000,4,5312
-Chalet,Calle Gaifar,385000,4,160
-Piso,Calle de Sanjurjo Badía,130000,4,153
-Chalet,Ponteareas,33000,0,45
-Chalet,Calle de Atín,58000,3,2153
-Piso,Calle Policarpo Sanz,325000,2,79
-Piso,Calle Manuel Rodríguez,120000,2,71
-Piso,Camino do Sobreiro,155000,1,43
-Chalet,Camino da Raposa,219000,4,416
-Chalet,Vilameán,350000,4,70
-Chalet,Portelo,475000,4,550
-Piso,Fontes,182000,3,100
-Piso,Calle dos Mestres,110000,3,85
-Piso,Alfonso Vázquez Fraile,110000,3,100
-Duplex,Avenida Enrique Peinador Vela,155000,3,104
-Piso,Leandro Diz,149000,3,120
-Chalet,Porteliña,300000,4,203
-Chalet,Barrio Piñeiro Peitieiros,350000,3,145
-Piso,Camelias,130000,3,91
-Piso,Calle Llorente,165000,3,69
-Chalet,Camino Raposa,219000,4,542
-Chalet,EP-9203,750000,4,140
-Piso,Camelias,130000,3,80
-Chalet,Lugar Vento - padriñan,379000,4,152
-Chalet,Ponteareas,33000,1,2000
-Piso,Calle Caldas de Reis 7,145000,3,81
-Chalet,arquitecto gomez roman,990000,4,152
-Chalet,Revolta Parderrubias,249000,3,816
-Chalet,Urcela,228000,3,30
-Chalet,Calle de Canido,550000,3,88
-Chalet,Porteliña,300000,4,203
-Chalet,Pancenteo,239000,3,600
-Piso,Calle Llorente,165000,3,69
-Chalet,Mondariz-Balneario,245000,4,138
-Casa Rural,Lalin,395000,5,309
-Chalet,Paseo Cronista Xosé M Álvarez Blázquez,690000,3,88
-Chalet,Poblado Trasdovalo 8,85000,3,108
-Chalet,valiñas,325000,4,1305
-Piso,Calle Fonte de Ons 30,165000,2,76
-Piso,Sanxenxo,249000,2,76
-Casa Rural,Calle Ricardo Santos 12,1200000,13,2566
-Piso,Calle Zaragoza,125000,1,56
-Chalet,Salvaterra de Miño,179000,4,122
-Piso,Calle Llorente,165000,3,116
-Chalet,Avenida de Samil,1250000,6,223
-Chalet,O Porriño,235000,3,106
-Chalet,Pombal (do) Louredo,175000,2,6000
-Piso,Calle de Asturias,110000,1,59
-Piso,Calle do Almirante Méndez Núñez,176000,3,92
-Piso,Soutomaior,94400,3,114
-Piso,Calle do Progreso 79,399500,4,140
-Piso,Calle Paulino Freire,450000,5,165
-Piso,Calle de Moron 34,93000,2,7
-Piso,Calle Emilio Alonso Paz 20,53000,1,60
-Piso,O Porriño,110000,4,147
-Chalet,portelo,435000,5,197
-Chalet,Moraña,500000,5,400
-Chalet,Calle do Gandarón 21,145000,2,1347
-Piso,Via del Norte,240000,3,113
-Chalet,Camino Fontela,875000,5,163
-Piso,Calle Zaragoza,125000,1,60
-Casa Rural,Calle Ricardo Santos 12,1200000,13,2566
-Chalet,valiñas,325000,4,1305
-Piso,zamora,550000,5,169
-Chalet,Valadares - Beade,350000,3,15
-Piso,Calle Llorente,165000,3,98
-Chalet,Lugar Coto,311000,4,272
-Chalet,Comesaña - Matamá,149000,2,68
-Piso,Calle de Moron 34,93000,2,7
-Piso,O Porriño,112900,4,78
-Chalet,O Carril - Bamio,80000,3,113
-Chalet,Moraña,500000,5,400
-Chalet,portelo,435000,5,179
-Chalet,Lugar de Os Currás 9,95000,3,240
-Piso,Sanxenxo,185000,2,78
-Piso,barrio Camelias - Pi y Margall,118500,1,60
-Piso,Bordóns-Dorrón,317000,3,92
-Chalet,Oia,1100000,6,1700
-Chalet,Comesaña - Matamá,430000,4,149
-Chalet,Calle Diego Carmona,350000,0,36
-Piso,Calle de Urzaiz,155000,2,67
-Chalet,Ponteareas,139000,3,111
-Piso,Zona Plaza de Barcelos,248000,3,90
-Chalet,Moaña,225000,2,500
-Chalet,Calle Amieiro,110000,3,105
-Piso,Calle de Bolivia,239500,3,112
-Chalet,A Guarda,325000,3,50
-Chalet,Marin,750000,6,35
-Chalet,As Neves,495000,4,146
-Piso,barrio Coia,265000,4,129
-Chalet,Mos,329900,5,175
-Chalet,Tomiño,259000,6,207
-Piso,Zona Plaza de Barcelos,780000,4,220
-Chalet,Lavadores,340000,5,164
-Piso,barrio Plaza España - Corte Inglés,239500,3,99
-Chalet,Redondela,750000,7,1850
-Chalet,O Carril - Bamio,260000,7,257
-Piso,Soutomaior,160000,2,80
-Piso,barrio Pz Independencia,199500,4,158
-Piso,A Guarda,119000,4,130
-Chalet,O Carril - Bamio,350000,7,283
-Chalet,Camino Urxeira,700000,4,38223
-Chalet,Marin,750000,6,35
-Chalet,Bembrive,396000,4,146
-Duplex,Teis,200000,4,129
-Piso,barrio Casablanca - Calvario,165000,1,55
-Piso,Via del Norte,300000,4,140
-Piso,barrio Casablanca - Calvario,200000,3,85
-Piso,Zona Plaza de Barcelos,248000,3,90
-Piso,arenal,240000,4,145
-Chalet,A Cañiza,125000,3,80
-Piso,Calle da Guarda 1,128000,3,130
-Chalet,As Neves,495000,4,129
-Piso,Calle de Eduardo Iglesias,575000,6,225
-Chalet,La Toja s/n,1800000,4,750
-Piso,Soutomaior,160000,2,75
-Chalet,Oia,1100000,6,1700
-Chalet,Redondela,385000,4,121
-Chalet,barrio Saiáns,285000,3,185
-Chalet,O Carril - Bamio,210000,3,95
-Chalet,O Porriño,240000,4,370
-Ático,Zona María Victoria Moreno,215000,2,70
-Chalet,As Neves,198000,4,4600
-Chalet,San Pedro da Ramallosa,750000,8,800
-Chalet,Sobrán,150000,4,155
-Chalet,Lavadores,340000,5,164
-Piso,barrio Pz Independencia,220000,2,61
-Chalet,Calle Montecelo Alto,695000,4,133
-Chalet,Lugar de Antime,320000,3,220
-Chalet,Tomiño,163000,3,104
-Piso,Arealonga,170000,3,95
-Chalet,O Carril - Bamio,120000,4,159
-Piso,barrio Plaza España - Corte Inglés,239000,4,155
-Casa Rural,Valadares - Beade,370000,7,1103
-Piso,Calle Real,180000,1,55
-Chalet,A Guarda,325000,3,50
-Chalet,Bembrive,420000,7,283
-Chalet,Arbo,160000,3,110
-Chalet,Bueu,2500000,16,2000
-Piso,Adina-Portonovo,225000,3,93
-Piso,barrio Pz Independencia,350000,3,189
-Chalet,Coiro,450000,4,138
-Chalet,Redondela,385000,4,148
-Chalet,O Covelo,105000,4,132
-Chalet,Bembrive,420000,7,279
-Chalet,Crecente,96000,4,100
-Piso,O Rosal,106000,3,102
-Piso,O Carril - Bamio,150000,3,91
-Chalet,Tomiño,305000,7,2600
-Piso,arenal,240000,4,143
-Piso,Adina-Portonovo,225000,3,93
-Chalet,Redondela,750000,7,1850
-Piso,barrio Fátima,260000,4,138
-Piso,Via del Norte,300000,4,147
-Chalet,barrio Oia,950000,6,256
-Piso,Arealonga,170000,3,97
-Piso,barrio Casablanca - Calvario,165000,1,46
-Piso,Avenida A Barca 30,180000,3,80
-Piso,barrio Plaza España - Corte Inglés,239000,4,125
-Casa Rural,Valadares - Beade,370000,7,1103
-Chalet,Gorgoreiro,140000,4,154
-Chalet,A Cañiza,275000,4,2680
-Piso,barrio As Travesas - Balaídos,165000,2,70
-Ático,Calle de Galicia 35,120000,3,96
-Piso,barrio As Travesas - Balaídos,180000,3,130
-Piso,Calle Rúa de Canido 141,590000,3,146
-Chalet,Mondariz,310000,3,95
-Piso,barrio Plaza España - Corte Inglés,350000,3,25
-Piso,Calle de Galicia 52,145000,3,85
-Chalet,Calle da Praza 5,145000,1,74
-Piso,Moaña,140000,3,45
-Chalet,barrio Coruxo,750000,4,100
-Chalet,Ribadumia,365000,4,510
-Chalet,Gondomar,319999,6,450
-Piso,barrio As Travesas - Balaídos,240000,2,63
-Chalet,San Pedro da Ramallosa,545000,4,134
-Chalet,Tomiño,198000,3,256
-Chalet,Ponteareas,110000,4,180
-Chalet,Caldas de Reis,466500,3,84
-Chalet,Catoira,250000,4,155
-Chalet,O Rosal,185000,2,70
-Piso,barrio As Travesas - Balaídos,209000,4,140
-Chalet,Moraña,825000,6,400
-Chalet,Ponteareas,280000,6,137
-Chalet,Moaña,140000,4,45
-Chalet,San Pedro da Ramallosa,545000,4,159
-Duplex,barrio Casablanca - Calvario,165000,2,45
-Piso,barrio Plaza España - Corte Inglés,350000,3,25
-Chalet,Centro,549000,5,179
-Chalet,Caldas de Reis,300000,7,270
-Chalet,Gondomar,320000,3,220
-Piso,Carretera Iglesia 1,160000,3,84
-Piso,barrio As Travesas - Balaídos,240000,2,72
-Chalet,Calle da Praza 5,145000,1,74
-Chalet,Ribadumia,365000,4,510
-Casa Rural,Calle Fontenlo,140000,2,1000
-Casa Rural,Mondariz,67000,4,146
-Chalet,Tomiño,198000,3,256
-Chalet,barrio Coruxo,750000,4,100
-Chalet,Arealonga,570000,7,272
-Chalet,Moaña,280000,4,176
-Chalet,O Porriño,345000,5,392
-Piso,Moaña,140000,3,45
-Ático,Lavadores,89000,1,44
-Piso,Calle Ponte Dena 5,126000,2,77
-Piso,Calle PI Y MARGALL,380000,4,152
-Chalet,Lugar Carregal de Arriba s/n SN,130000,4,126
-Estudio,Calle Lepanto 13,123000,0,32
-Chalet,Calle Portelos,380000,4,605
-Casa Rural,Carballeira,82000,2,72
-Piso,Calle Martín Echegaray 11,168000,2,62
-Piso,Calle de Nicaragua,410000,5,180
-Piso,Calle da Ronda de Don Bosco,209000,2,77
-Piso,Avenida Monterreal,278000,2,61
-Piso,Calle concepcion arenal,75000,2,69
-Piso,Calle Camilo Veiga,400000,6,242
-Piso,Camino vello 6,240000,2,12
-Piso,barrio Plaza España - Corte Inglés,349000,3,94
-Piso,Calle de Aragón,195000,2,79
-Piso,Calle Terra Do Porto,155000,3,98
+Tipo de inmueble,Dirección,Precio,Habitaciones,m2,Provincia,C. Autónoma
+Chalet,Zapateira,600000,3,84,Pontevedra,Galicia
+Duplex,Doctor Corbal,295000,4,8,Pontevedra,Galicia
+Ático,Calle Colón 11,1500000,3,102,Pontevedra,Galicia
+Chalet,Calle da Zapateira,600000,3,86,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,680000,3,30,Pontevedra,Galicia
+Piso,Calle de Alfonso XIII,265000,2,69,Pontevedra,Galicia
+Piso,Calle Enrique Blein Budiño,449000,4,147,Pontevedra,Galicia
+Piso,Calle Vigo 14,345000,2,65,Pontevedra,Galicia
+Chalet,barrio Oia,1100000,4,146,Pontevedra,Galicia
+Piso,Sanxenxo,1399900,5,540,Pontevedra,Galicia
+Chalet,Calle do Arquitecto Antonio Cominges,2500000,4,133,Pontevedra,Galicia
+Piso,Calle San Salvador,320000,4,167,Pontevedra,Galicia
+Chalet,Calle Melide,600000,6,390,Pontevedra,Galicia
+Piso,Calle de Urzaiz 89,239000,3,117,Pontevedra,Galicia
+Piso,Calle Enrique Blein Budiño,449000,4,149,Pontevedra,Galicia
+Chalet,Recarei 7,370000,4,132,Pontevedra,Galicia
+Duplex,Calle ECUADOR 21 Vigo 21,482550,3,96,Pontevedra,Galicia
+Piso,Plaza de Portugal,350000,3,115,Pontevedra,Galicia
+Chalet,Magalans 51,324995,4,144,Pontevedra,Galicia
+Piso,Calle Zamora,320000,3,35,Pontevedra,Galicia
+Duplex,Via Norte,295000,3,120,Pontevedra,Galicia
+Piso,Calle Inés Pérez de Ceta,290000,3,94,Pontevedra,Galicia
+Piso,Calle de García Barbón,339000,3,12,Pontevedra,Galicia
+Piso,Calle de Ricardo Santos,245000,2,117,Pontevedra,Galicia
+Chalet,Calle Cabalaria 16,750000,8,303,Pontevedra,Galicia
+Chalet,Carretera do Vao 71,749000,6,1200,Pontevedra,Galicia
+Piso,Avenida Gran Via,550000,5,272,Pontevedra,Galicia
+Piso,Calle Progreso,235000,2,94,Pontevedra,Galicia
+Ático,Travesía Naia,150000,3,111,Pontevedra,Galicia
+Chalet,Lugar Arra 12 A,699000,4,30,Pontevedra,Galicia
+Piso,Calle San Salvador,320000,4,167,Pontevedra,Galicia
+Piso,Calle Vigo,295000,2,78,Pontevedra,Galicia
+Chalet,Camino de Canelas 48,1200000,5,55,Pontevedra,Galicia
+Piso,Calle de María Berdiales,220000,3,88,Pontevedra,Galicia
+Piso,Calle Ricardo Santos 6,249000,2,78,Pontevedra,Galicia
+Chalet,Calle Seixalvo,650000,4,420,Pontevedra,Galicia
+Piso,torrecedeira,190000,2,75,Pontevedra,Galicia
+Chalet,Punta Cabicastro,450000,3,2000,Pontevedra,Galicia
+Chalet,Calle Carlos Maside,525000,5,30,Pontevedra,Galicia
+Piso,Calle da Coruña 20,210000,2,90,Pontevedra,Galicia
+Ático,Calle da Falperra,152500,2,6,Pontevedra,Galicia
+Piso,Calle Empalme 7 A,91700,1,58,Pontevedra,Galicia
+Chalet,Camino do Portiño,1199900,5,1206,Pontevedra,Galicia
+Chalet,Teis,225000,4,300,Pontevedra,Galicia
+Ático,barrio Casablanca - Calvario,195000,3,75,Pontevedra,Galicia
+Piso,Calle do Ecuador,349000,3,120,Pontevedra,Galicia
+Piso,barrio O Castro,348000,4,155,Pontevedra,Galicia
+Piso,barrio Centro - Areal,230000,3,100,Pontevedra,Galicia
+Chalet,Sanxenxo,750000,4,650,Pontevedra,Galicia
+Chalet,Arquitecto Antonio Cominges,2500000,4,140,Pontevedra,Galicia
+Piso,Pizarro,170000,2,63,Pontevedra,Galicia
+Piso,Avenida Gran Via,235000,2,68,Pontevedra,Galicia
+Chalet,Alcabre,785000,4,47,Pontevedra,Galicia
+Piso,Avenida do Fragoso,209000,3,86,Pontevedra,Galicia
+Piso,Travesía José Fariña Jamardo 5,239000,2,9,Pontevedra,Galicia
+Piso,Avenida das Camelias,405000,4,190,Pontevedra,Galicia
+Estudio,Torrecedeira,130000,0,29,Pontevedra,Galicia
+Piso,Avenida das Camelias,400000,5,200,Pontevedra,Galicia
+Chalet,Bordóns-Dorrón,555000,4,89,Pontevedra,Galicia
+Chalet,Calle do Arquitecto Antonio Cominges,2995000,6,234,Pontevedra,Galicia
+Piso,Calle da Coruña,250000,3,81,Pontevedra,Galicia
+Chalet,LUGAR AREAS BORDONS,609000,4,80,Pontevedra,Galicia
+Chalet,Avenida das Camelias,600000,5,172,Pontevedra,Galicia
+Piso,Calle Tomás A Alonso,198000,3,96,Pontevedra,Galicia
+Piso,Calle Velázquez Moreno,585000,4,280,Pontevedra,Galicia
+Piso,Calle Mercedes Núñez Targa s/n,260000,3,109,Pontevedra,Galicia
+Piso,Travesía de Vigo,152000,2,83,Pontevedra,Galicia
+Piso,Calle Policarpo Sanz 1,300000,2,70,Pontevedra,Galicia
+Piso,barrio Centro - Areal,720000,3,80,Pontevedra,Galicia
+Ático,Via gran,399000,7,251,Pontevedra,Galicia
+Chalet,Calle Figueiro,775000,6,239,Pontevedra,Galicia
+Chalet,baixada portiño,1200000,5,1206,Pontevedra,Galicia
+Piso,Avenida das Camelias 18,118500,1,49,Pontevedra,Galicia
+Piso,Travesía de Vigo 15,150000,3,82,Pontevedra,Galicia
+Piso,Venezuela,485000,4,160,Pontevedra,Galicia
+Piso,Paseo Praia de Silgar,230000,2,80,Pontevedra,Galicia
+Duplex,coruña,270000,6,211,Pontevedra,Galicia
+Chalet,Carretera da Balsa,520000,6,205,Pontevedra,Galicia
+Piso,Calle Mercedes Núñez Targa s/n,233000,2,75,Pontevedra,Galicia
+Piso,barrio Centro - Areal,410000,3,108,Pontevedra,Galicia
+Duplex,Calle Padre Seixas,299000,4,109,Pontevedra,Galicia
+Piso,Calle México 44,250000,3,119,Pontevedra,Galicia
+Chalet,Camino do Turido,785000,4,153,Pontevedra,Galicia
+Piso,Calle Inés Pérez de Ceta,280000,2,72,Pontevedra,Galicia
+Piso,Calle do Ecuador,255000,4,160,Pontevedra,Galicia
+Chalet,Candean - Cabral,350000,4,900,Pontevedra,Galicia
+Piso,barrio Pz Independencia,160000,2,66,Pontevedra,Galicia
+Chalet,barrio Coruxo,370000,4,785,Pontevedra,Galicia
+Chalet,Lavadores,215000,5,262,Pontevedra,Galicia
+Piso,Calle de García Barbón,520000,4,159,Pontevedra,Galicia
+Piso,Adina-Portonovo,179000,2,63,Pontevedra,Galicia
+Piso,Calle Ricardo Santos,250000,2,76,Pontevedra,Galicia
+Piso,Calle Ricardo Santos,265000,2,83,Pontevedra,Galicia
+Chalet,barrio Plaza España - Corte Inglés,350000,3,300,Pontevedra,Galicia
+Chalet,Castrelos - Sárdoma,590000,3,92,Pontevedra,Galicia
+Piso,barrio Centro - Areal,360000,3,99,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,279000,4,150,Pontevedra,Galicia
+Piso,barrio O Castro,250000,2,78,Pontevedra,Galicia
+Ático,Travesía de Vigo,125000,2,45,Pontevedra,Galicia
+Piso,barrio Pz Independencia,220000,2,77,Pontevedra,Galicia
+Piso,Sanxenxo,180000,3,109,Pontevedra,Galicia
+Ático,Vilar,108000,2,69,Pontevedra,Galicia
+Piso,Calle do Conde de Torrecedeira,260000,3,100,Pontevedra,Galicia
+Casa Rural,Finca Remesal,1400000,7,760,Pontevedra,Galicia
+Duplex,Plaza Francisco Fernández del Riego,330000,2,70,Pontevedra,Galicia
+Chalet,Baixada á Praia,850000,5,185,Pontevedra,Galicia
+Chalet,Ponte,395000,2,71,Pontevedra,Galicia
+Chalet,Lugar Montalvo 1,600000,8,120,Pontevedra,Galicia
+Chalet,Calle Freixo los Abetos,1200000,6,207,Pontevedra,Galicia
+Duplex,Nicaragua,470000,4,225,Pontevedra,Galicia
+Chalet,Via Pola,580000,5,196,Pontevedra,Galicia
+Duplex,Calle de Lugo,260000,5,162,Pontevedra,Galicia
+Piso,Paseo Praia de Silgar,350000,4,134,Pontevedra,Galicia
+Chalet,Lugar a Poza 14,398000,3,47,Pontevedra,Galicia
+Piso,Calle Revolta Noalla 3,155000,2,65,Pontevedra,Galicia
+Ático,Calle de Madrid 15,365000,3,177,Pontevedra,Galicia
+Piso,Avenida Gran Via,450000,5,45,Pontevedra,Galicia
+Ático,Calle do Sol 56,110000,2,10,Pontevedra,Galicia
+Chalet,Lugar Areas,609000,4,80,Pontevedra,Galicia
+Piso,Calle Castelao 188,282000,3,113,Pontevedra,Galicia
+Chalet,Ensenada La Toja,310000,5,188,Pontevedra,Galicia
+Piso,eugenio arbones 5,185000,2,80,Pontevedra,Galicia
+Piso,Calle Revolta Noalla,155000,2,78,Pontevedra,Galicia
+Ático,Calle Fonte de Ons,175000,2,67,Pontevedra,Galicia
+Ático,Calle Vigo,275000,2,79,Pontevedra,Galicia
+Piso,Lugar Revel,155000,3,112,Pontevedra,Galicia
+Chalet,Gondomar,547000,4,134,Pontevedra,Galicia
+Chalet,Lugar Cachada,325000,3,83,Pontevedra,Galicia
+Piso,Calle CALVARIOS 4,310000,2,65,Pontevedra,Galicia
+Piso,Calle Santa Catalina 12,199000,3,102,Pontevedra,Galicia
+Chalet,Avenida Monteferro,760000,7,100,Pontevedra,Galicia
+Piso,1ª Travesía de Santiago de Vigo 11,425000,2,66,Pontevedra,Galicia
+Chalet,aios noalla,475000,5,176,Pontevedra,Galicia
+Chalet,Bordones s/n,530000,3,622,Pontevedra,Galicia
+Piso,Calle dos Mariñeiros,185000,3,93,Pontevedra,Galicia
+Chalet,Bordons,399999,4,30,Pontevedra,Galicia
+Chalet,Calle San Antón,1300000,7,194,Pontevedra,Galicia
+Ático,Calle Vigo,285000,3,89,Pontevedra,Galicia
+Ático,Calle Do Profesor Hermida,350000,2,38,Pontevedra,Galicia
+Chalet,barrio Oia,450000,3,84,Pontevedra,Galicia
+Piso,Paseo Praia de Silgar,499000,3,30,Pontevedra,Galicia
+Piso,Calle da Coruña,250000,3,115,Pontevedra,Galicia
+Chalet,Bueu,852000,4,390,Pontevedra,Galicia
+Chalet,Alexandre Boveda,299000,6,214,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,599000,6,232,Pontevedra,Galicia
+Chalet,Camino do Torreiro,610000,5,1800,Pontevedra,Galicia
+Ático,Calle Madrid,700000,3,118,Pontevedra,Galicia
+Chalet,Camino de Rioboo,750000,8,675,Pontevedra,Galicia
+Chalet,Calle Convento,450000,4,500,Pontevedra,Galicia
+Piso,Calle do Uruguai,280000,2,95,Pontevedra,Galicia
+Piso,Avenida da Gran Vía,420000,4,152,Pontevedra,Galicia
+Chalet,barrio Coruxo,649000,6,662,Pontevedra,Galicia
+Piso,Calle Vigo,345000,2,83,Pontevedra,Galicia
+Chalet,Mondariz,2500000,12,3000,Pontevedra,Galicia
+Piso,Avenida de Redondela 148,147000,2,74,Pontevedra,Galicia
+Piso,EP-9211,195000,2,8114,Pontevedra,Galicia
+Chalet,Area Peitieiros,285000,3,87,Pontevedra,Galicia
+Piso,Calle Victoria,119000,2,71,Pontevedra,Galicia
+Piso,Carretera Gondar,85000,1,56,Pontevedra,Galicia
+Piso,Calle Conde de Torrecedeira,200000,3,81,Pontevedra,Galicia
+Piso,Avenida García Barbón,295000,4,120,Pontevedra,Galicia
+Chalet,Vinquiño - Vento 162,379000,4,138,Pontevedra,Galicia
+Piso,Avenida Rosalía de Castro 54,160000,3,100,Pontevedra,Galicia
+Chalet,Lameira,595000,5,1100,Pontevedra,Galicia
+Chalet,Camino dos Liñares,685000,5,50,Pontevedra,Galicia
+Piso,Calle Zamora,550000,5,280,Pontevedra,Galicia
+Chalet,Camino do Castañal,455000,4,151,Pontevedra,Galicia
+Piso,Calle do Ecuador,349000,3,80,Pontevedra,Galicia
+Duplex,Plaza Francisco Fernández del Riego,330000,2,64,Pontevedra,Galicia
+Chalet,Lugar Piñeiros,350000,4,690,Pontevedra,Galicia
+Piso,Avenida GARCÍA BARBÓN,210000,4,153,Pontevedra,Galicia
+Piso,Calle Madrid,295000,2,80,Pontevedra,Galicia
+Duplex,Carretera Bahíña,360000,3,120,Pontevedra,Galicia
+Piso,Fonte de Ons,159000,2,70,Pontevedra,Galicia
+Piso,Calle de Vigo,215000,2,70,Pontevedra,Galicia
+Chalet,Camino Salgueiro s/n,480000,3,104,Pontevedra,Galicia
+Chalet,Calle Carballiños 30,760000,4,148,Pontevedra,Galicia
+Piso,Calle Colón 11,590000,2,65,Pontevedra,Galicia
+Piso,1ª Travesía de Santiago de Vigo 11,660000,3,94,Pontevedra,Galicia
+Ático,Calle de Galicia,125000,3,117,Pontevedra,Galicia
+Piso,Avenida Virxinia Pereira Renda 2,175000,2,67,Pontevedra,Galicia
+Duplex,Calle do Conde de Torrecedeira,325000,5,188,Pontevedra,Galicia
+Piso,Avenida Gran Via,320000,4,144,Pontevedra,Galicia
+Piso,Calle de Bolivia,460000,5,187,Pontevedra,Galicia
+Piso,Calle do Doutor Cadaval,397000,5,37,Pontevedra,Galicia
+Piso,Calle do Regueiro,345000,4,122,Pontevedra,Galicia
+Chalet,Baiona,450000,3,667,Pontevedra,Galicia
+Piso,Calle do Progreso,179000,2,66,Pontevedra,Galicia
+Ático,Calle do Profesor Hermida,350000,2,99,Pontevedra,Galicia
+Chalet,Lugar Areas,565000,4,141,Pontevedra,Galicia
+Chalet,Lugar Areas,555000,4,158,Pontevedra,Galicia
+Ático,Fonte de Ons,185000,2,60,Pontevedra,Galicia
+Piso,Calle Fonte de Ons - Revolta,124000,1,49,Pontevedra,Galicia
+Piso,Calle Arturo Fontan Bouzas,160000,3,99,Pontevedra,Galicia
+Ático,Camino de Circunvalación,180000,2,78,Pontevedra,Galicia
+Piso,Calle Jacinto Benavente 15,405000,3,90,Pontevedra,Galicia
+Ático,PO-504 42,110000,2,74,Pontevedra,Galicia
+Piso,Calle Jacinto Benavente 15,305000,3,85,Pontevedra,Galicia
+Piso,Calle Jacinto Benavente 15,335000,4,151,Pontevedra,Galicia
+Piso,La Lanzada s/n,126000,1,51,Pontevedra,Galicia
+Piso,Calle do Marqués de Valladares,600000,3,81,Pontevedra,Galicia
+Piso,Calle Colón 11,750000,4,148,Pontevedra,Galicia
+Piso,PO-317 70,135000,2,76,Pontevedra,Galicia
+Chalet,Barro Barreiras 17,430000,3,85,Pontevedra,Galicia
+Piso,La Lanzada s/n,126000,1,51,Pontevedra,Galicia
+Piso,Calle Ourense,360000,3,74,Pontevedra,Galicia
+Piso,Calle de García Barbón,295000,4,123,Pontevedra,Galicia
+Chalet,Camino de Bembrive,950000,8,1550,Pontevedra,Galicia
+Ático,Outeiro -Raxó,150000,2,79,Pontevedra,Galicia
+Piso,Calle San Salvador,599000,6,237,Pontevedra,Galicia
+Piso,Avenida de Balaídos,182000,4,101,Pontevedra,Galicia
+Chalet,Camino Sixtro,324900,6,318,Pontevedra,Galicia
+Piso,Calle Canadelo Alto,159000,2,61,Pontevedra,Galicia
+Piso,Calle de Jenaro de la Fuente,169000,2,90,Pontevedra,Galicia
+Chalet,Rabuñade,354000,3,600,Pontevedra,Galicia
+Piso,Calle das Teixugueiras 1,226000,3,88,Pontevedra,Galicia
+Chalet,Calle Ourense,299000,6,227,Pontevedra,Galicia
+Chalet,Rúa do Arquitecto Antonio Cominges,3200000,6,1300,Pontevedra,Galicia
+Piso,Calle Arturo Fontan Bouzas,165000,3,96,Pontevedra,Galicia
+Piso,Calle Abeleira Menéndez,260000,3,110,Pontevedra,Galicia
+Piso,Calle Zamora,515000,5,192,Pontevedra,Galicia
+Piso,Calle Rosalía de Castro,375000,3,83,Pontevedra,Galicia
+Ático,Calle do Progreso,475000,4,70,Pontevedra,Galicia
+Chalet,Calle de Arquitecto Gómez Román,990000,4,380,Pontevedra,Galicia
+Chalet,O Pazo moraña,205000,3,200,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,220000,3,104,Pontevedra,Galicia
+Ático,Ramón Cabanillas,350000,3,105,Pontevedra,Galicia
+Casa Rural,Calle Lubian,259000,4,130,Pontevedra,Galicia
+Chalet,Calle Pereiras Navia,825000,6,150,Pontevedra,Galicia
+Piso,La Seca - Los Salgueriños,395000,4,150,Pontevedra,Galicia
+Piso,Calle Ourense,315000,3,120,Pontevedra,Galicia
+Chalet,Calle de Canido,1100000,4,590,Pontevedra,Galicia
+Piso,Mondariz-Balneario,180000,3,117,Pontevedra,Galicia
+Chalet,Avenida Castelao,549000,5,166,Pontevedra,Galicia
+Piso,Calle Progreso,275000,3,15,Pontevedra,Galicia
+Chalet,Lugar de Areas,598000,4,147,Pontevedra,Galicia
+Chalet,Camino de Vilaverde,340000,4,24,Pontevedra,Galicia
+Chalet,Calle Areas,930000,4,957,Pontevedra,Galicia
+Chalet,LG Costa,289000,3,12,Pontevedra,Galicia
+Chalet,Lugar O Casal,400000,3,179,Pontevedra,Galicia
+Casa Rural,Lugar,830000,5,400,Pontevedra,Galicia
+Chalet,Calle Areas,930000,4,957,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,220000,3,100,Pontevedra,Galicia
+Chalet,Coiro,880000,4,90,Pontevedra,Galicia
+Chalet,Calle de Canido,1100000,4,590,Pontevedra,Galicia
+Piso,Calle Ourense,315000,3,120,Pontevedra,Galicia
+Chalet,Tomiño,276000,3,100,Pontevedra,Galicia
+Piso,Calle da Guarda,175000,4,149,Pontevedra,Galicia
+Chalet,Avenida Ricardo Mella,750000,5,200,Pontevedra,Galicia
+Ático,Calle de Madrid,600000,3,99,Pontevedra,Galicia
+Chalet,Calle Arquitecto Antonio Comingues,3200000,7,278,Pontevedra,Galicia
+Ático,Plaza Aurelio Lores,175000,3,93,Pontevedra,Galicia
+Chalet,Darbo,1100000,4,294,Pontevedra,Galicia
+Chalet,Arquitecto Antonio Cominges,2500000,4,154,Pontevedra,Galicia
+Piso,Calle de Rosalía de Castro,248000,3,84,Pontevedra,Galicia
+Chalet,O Carril - Bamio,210000,4,142,Pontevedra,Galicia
+Piso,Calle de Urzaiz,450000,4,143,Pontevedra,Galicia
+Piso,Travesía de Vigo,153000,2,83,Pontevedra,Galicia
+Piso,Avenida de García Barbón,255000,3,114,Pontevedra,Galicia
+Chalet,Avenida de León,849000,4,354,Pontevedra,Galicia
+Piso,Calle da Ronda de Don Bosco,290000,5,180,Pontevedra,Galicia
+Chalet,Calle de Recanles,1100000,7,430,Pontevedra,Galicia
+Ático,Vicaño,220000,2,61,Pontevedra,Galicia
+Piso,Calle Tomás A Alonso,235000,3,85,Pontevedra,Galicia
+Piso,Calle Pintor Laxeiro,450000,4,14,Pontevedra,Galicia
+Piso,Calle Progreso,160000,3,88,Pontevedra,Galicia
+Piso,Rúa de García Barbón,600000,4,149,Pontevedra,Galicia
+Chalet,Pazos de Borbén,305000,5,192,Pontevedra,Galicia
+Chalet,O Covelo,140000,3,1500,Pontevedra,Galicia
+Piso,Avenida do Fragoso,170000,4,100,Pontevedra,Galicia
+Chalet,Pedornes,355000,4,149,Pontevedra,Galicia
+Chalet,Paseo MARITIMO 1 36340 1,1200000,5,191,Pontevedra,Galicia
+Piso,Avenida de Eduardo Pondal,250000,2,118,Pontevedra,Galicia
+Piso,Calle Vázquez Varela,269000,4,141,Pontevedra,Galicia
+Piso,Avenida de Ramón Nieto,187000,3,84,Pontevedra,Galicia
+Piso,Calle Victoria,119000,2,68,Pontevedra,Galicia
+Piso,Avenida de García Barbón,325000,3,95,Pontevedra,Galicia
+Piso,Calle Uruguay,267500,2,60,Pontevedra,Galicia
+Chalet,Camino da perdiz,595000,7,287,Pontevedra,Galicia
+Piso,Calle Inés Pérez de Ceta,310000,3,96,Pontevedra,Galicia
+Piso,Calle Ponte Dena 5,126000,2,68,Pontevedra,Galicia
+Chalet,Lugar Areas 6,555000,3,61471,Pontevedra,Galicia
+Piso,Calle de Urzaiz,355000,5,200,Pontevedra,Galicia
+Chalet,Camino Torreiro,610000,5,437,Pontevedra,Galicia
+Piso,Calle de Madrid 18,360000,2,72,Pontevedra,Galicia
+Piso,Avenida Galicia,145000,2,64,Pontevedra,Galicia
+Chalet,PLAYA FRANCON,445000,4,1537,Pontevedra,Galicia
+Chalet,Camino Pinténs,580000,4,121,Pontevedra,Galicia
+Piso,Camelias,329000,3,12,Pontevedra,Galicia
+Chalet,Camino Quirós,690000,4,152,Pontevedra,Galicia
+Piso,Alfonso XIII,360000,3,81,Pontevedra,Galicia
+Piso,Calle Becacina,197000,2,75,Pontevedra,Galicia
+Chalet,Camino VIRGEN DE LA ROCA,498000,5,511,Pontevedra,Galicia
+Piso,Calle do Brasil 58,105000,3,112,Pontevedra,Galicia
+Chalet,Calle Redondo,820000,5,167,Pontevedra,Galicia
+Piso,Nicaragua,410000,4,40000,Pontevedra,Galicia
+Piso,Venezuela,497500,4,129,Pontevedra,Galicia
+Duplex,Santa Ana,450000,5,169,Pontevedra,Galicia
+Piso,Avenida das Camelias,199000,2,74,Pontevedra,Galicia
+Piso,Calle loureiro crespo 13,160000,3,92,Pontevedra,Galicia
+Piso,Barrio Pombal 35,165000,2,67,Pontevedra,Galicia
+Piso,Aragón,220000,3,80,Pontevedra,Galicia
+Chalet,Camino do Coto de Reboreda,529000,3,93,Pontevedra,Galicia
+Ático,Calle Rua de Galicia,125000,2,64,Pontevedra,Galicia
+Piso,Sanxenxo,500000,3,119,Pontevedra,Galicia
+Piso,Avenida da Gran Vía,320000,4,134,Pontevedra,Galicia
+Piso,Carretera Iglesia 2,170000,3,115,Pontevedra,Galicia
+Chalet,La Toja s/n,940000,4,100,Pontevedra,Galicia
+Piso,Camino Vello de San Roque,158000,2,60,Pontevedra,Galicia
+Chalet,LUGAR A LAMEIRA,220000,3,206,Pontevedra,Galicia
+Piso,Calle do Conde de Torrecedeira,160000,3,108,Pontevedra,Galicia
+Piso,urzaiz 161,175000,1,51,Pontevedra,Galicia
+Chalet,Calle Abaixo,169500,3,83,Pontevedra,Galicia
+Duplex,Plaza Elíptica s/n,330000,2,96,Pontevedra,Galicia
+Chalet,Camino do Monte,640000,3,100,Pontevedra,Galicia
+Chalet,Camino Río Pequeno 27,590000,4,380,Pontevedra,Galicia
+Casa Rural,Calle Dos Eidos,999999,7,262,Pontevedra,Galicia
+Duplex,Plaza Elíptica s/n,330000,2,108,Pontevedra,Galicia
+Chalet,subida a radio faro,570000,4,276,Pontevedra,Galicia
+Ático,Calle Ourense 12,189400,2,15,Pontevedra,Galicia
+Piso,Ricardo Santos,190000,2,60,Pontevedra,Galicia
+Piso,Pedras Negras C,180000,3,73,Pontevedra,Galicia
+Casa Rural,Serman s/n,1250000,4,60,Pontevedra,Galicia
+Piso,Calle de García Barbón,405000,3,111,Pontevedra,Galicia
+Chalet,Calle Manuel González Prado,435000,7,268,Pontevedra,Galicia
+Piso,Calle de Pizarro s/n,750000,4,121,Pontevedra,Galicia
+Estudio,Avenida Luis Rocafort,99500,0,34,Pontevedra,Galicia
+Piso,Avenida Teniente Domínguez,170000,2,72,Pontevedra,Galicia
+Chalet,A Fraga s/n,280000,5,166,Pontevedra,Galicia
+Chalet,Lugar Outeiro,275000,5,245,Pontevedra,Galicia
+Piso,Lugar Areas 1,260000,2,22,Pontevedra,Galicia
+Piso,Paseo Praia de Silgar 90,350000,2,92,Pontevedra,Galicia
+Chalet,Lugar Xuncal,525000,6,229,Pontevedra,Galicia
+Chalet,Calle Lugar de Carral Taboada 7,350000,3,1270,Pontevedra,Galicia
+Chalet,FOXO s/n FOXO,185000,4,320,Pontevedra,Galicia
+Chalet,Palmou 1,265000,5,40,Pontevedra,Galicia
+Piso,Calle de Urzaiz 149,345000,3,30,Pontevedra,Galicia
+Piso,Avenida de Ramón Nieto,189000,3,104,Pontevedra,Galicia
+Chalet,BELESAR s/n,490000,6,1700,Pontevedra,Galicia
+Chalet,Calle Coto do Lobo 9,225000,3,80,Pontevedra,Galicia
+Chalet,Calle Coto do Lobo,225000,4,354,Pontevedra,Galicia
+Piso,Calle das Teixugueiras 1,226000,3,8,Pontevedra,Galicia
+Chalet,Lugar Barcalla - Donas,310000,6,1450,Pontevedra,Galicia
+Chalet,Lugar Cima de Vila,205000,3,98,Pontevedra,Galicia
+Piso,barrio Centro - Areal,210000,4,154,Pontevedra,Galicia
+Chalet,Lugar Armada,299000,4,3000,Pontevedra,Galicia
+Chalet,Unión,360000,5,193,Pontevedra,Galicia
+Piso,Calle Arzobispo Xelmírez,235000,4,120,Pontevedra,Galicia
+Chalet,Lugar Areiña,470000,4,153,Pontevedra,Galicia
+Chalet,Lugar Outeiro 9,259000,7,269,Pontevedra,Galicia
+Piso,Calle de Oporto,158000,3,86,Pontevedra,Galicia
+Piso,Calle San Salvador,450000,6,237,Pontevedra,Galicia
+Chalet,LG Costa,289000,3,12,Pontevedra,Galicia
+Chalet,Camino mo,620000,4,901,Pontevedra,Galicia
+Chalet,Avenida Porta do Sol,290000,4,46,Pontevedra,Galicia
+Piso,Calle de Sanjurjo Badía,165000,2,65,Pontevedra,Galicia
+Chalet,praia de loira,625000,5,231,Pontevedra,Galicia
+Duplex,Calle Arquitecto Pérez Bellas,210000,2,77,Pontevedra,Galicia
+Chalet,Baixada Cova da Becha,1550000,6,110,Pontevedra,Galicia
+Chalet,AS GRADES,500000,4,156,Pontevedra,Galicia
+Piso,Calle López Mora,345000,4,137,Pontevedra,Galicia
+Chalet,Calle do Torreiro,650000,4,134,Pontevedra,Galicia
+Piso,Via Norte,245000,5,161,Pontevedra,Galicia
+Chalet,Calle Carregal de Abaixo,259000,7,1300,Pontevedra,Galicia
+Piso,Calle TORRECEDEIRA,230000,5,148,Pontevedra,Galicia
+Ático,Calle de Pedro Alvarado,280000,2,25,Pontevedra,Galicia
+Piso,Vilagarcía,299000,3,92,Pontevedra,Galicia
+Piso,Camino Chouzo,176000,1,78,Pontevedra,Galicia
+Chalet,Amorin 47,155000,5,12000,Pontevedra,Galicia
+Chalet,Lugar Areas,530000,3,622,Pontevedra,Galicia
+Chalet,as mariñas 9,130000,4,156,Pontevedra,Galicia
+Piso,Calle do Progreso,350000,3,117,Pontevedra,Galicia
+Ático,Calle da Feira 12,135000,3,85,Pontevedra,Galicia
+Piso,PI Y MARGALL,275000,4,103,Pontevedra,Galicia
+Piso,Ricardo Santos,153000,2,73,Pontevedra,Galicia
+Piso,Calle Couto San Honorato,295000,3,119,Pontevedra,Galicia
+Chalet,Carretera Ensenada de LA Toja,495000,4,158,Pontevedra,Galicia
+Chalet,Avenida das Camelias,600000,5,45,Pontevedra,Galicia
+Estudio,Calle do Areal,145000,0,43,Pontevedra,Galicia
+Piso,Avenida Gran Via,300000,4,158,Pontevedra,Galicia
+Piso,Avenida das Camelias,199000,2,80,Pontevedra,Galicia
+Chalet,Calle Ángel de Lema y Marina,394000,3,350,Pontevedra,Galicia
+Piso,Calle Severo Ochoa,180000,4,119,Pontevedra,Galicia
+Piso,Calle de Nicaragua,245000,3,82,Pontevedra,Galicia
+Piso,Avenida da Gran Vía,320000,4,134,Pontevedra,Galicia
+Chalet,Camino Boavista,500000,5,100,Pontevedra,Galicia
+Piso,Calle do Areal,555000,3,92,Pontevedra,Galicia
+Piso,Avenida das Camelias,430000,5,189,Pontevedra,Galicia
+Duplex,Calle Tomás A Alonso,250000,3,103,Pontevedra,Galicia
+Chalet,Calle Penide,329900,5,352,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,750000,8,780,Pontevedra,Galicia
+Chalet,Teis,435000,5,184,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,110,Pontevedra,Galicia
+Piso,Calle do Areal,240000,4,153,Pontevedra,Galicia
+Piso,Sanxenxo,160000,1,500,Pontevedra,Galicia
+Piso,Travesía de Vigo,155000,3,114,Pontevedra,Galicia
+Chalet,Calle Albores Pequeno,585000,8,329,Pontevedra,Galicia
+Piso,Calle do Conde de Torrecedeira,190000,2,66,Pontevedra,Galicia
+Chalet,Lugar O Couto,163000,4,127,Pontevedra,Galicia
+Chalet,Forcadela,259000,5,600,Pontevedra,Galicia
+Chalet,EP-9201,1300000,4,60,Pontevedra,Galicia
+Piso,Plaza Eugenio Fadrique,190000,4,146,Pontevedra,Galicia
+Chalet,pedriñas,330000,5,1500,Pontevedra,Galicia
+Piso,vizcaya,149000,2,60,Pontevedra,Galicia
+Chalet,PO-308,1950000,8,2317,Pontevedra,Galicia
+Piso,Redondela,110000,3,109,Pontevedra,Galicia
+Duplex,Calle Santa Eulalia 5,116000,2,78,Pontevedra,Galicia
+Chalet,Castrelos - Sárdoma,645000,3,98,Pontevedra,Galicia
+Ático,barrio O Castro,399000,7,253,Pontevedra,Galicia
+Chalet,Redondela,340000,3,7581,Pontevedra,Galicia
+Casa Rural,Camos,1700000,7,6681,Pontevedra,Galicia
+Piso,barrio Pz Independencia,380000,5,208,Pontevedra,Galicia
+Chalet,Calle do Castro 53,325850,4,126,Pontevedra,Galicia
+Duplex,barrio Centro - Areal,600000,3,81,Pontevedra,Galicia
+Piso,LOPEZ MORA,225000,4,159,Pontevedra,Galicia
+Piso,Calle do Brasil,235000,3,95,Pontevedra,Galicia
+Ático,Avenida Gran Via,235000,2,61,Pontevedra,Galicia
+Piso,Calle de Oporto,159000,3,92,Pontevedra,Galicia
+Piso,Vazquez 53,90000,2,65,Pontevedra,Galicia
+Piso,Calle Xulián Estévez,189000,3,104,Pontevedra,Galicia
+Casa Rural,Moaña,900000,5,500,Pontevedra,Galicia
+Casa Rural,Figueiro s/n,130000,4,2100,Pontevedra,Galicia
+Piso,barrio Centro - Areal,685000,5,192,Pontevedra,Galicia
+Chalet,Aldán,295000,4,150,Pontevedra,Galicia
+Chalet,Paseo Monte da Garda,2150000,9,1127,Pontevedra,Galicia
+Piso,Calle Santa Tegra,120000,1,45,Pontevedra,Galicia
+Chalet,Silleda,270000,4,132,Pontevedra,Galicia
+Piso,Via GRAN VÍA,450000,5,195,Pontevedra,Galicia
+Chalet,O Rosal,184000,3,111,Pontevedra,Galicia
+Casa Rural,curro,290000,6,11000,Pontevedra,Galicia
+Chalet,Baiona,390000,5,40,Pontevedra,Galicia
+Piso,Teis,150000,3,111,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,220000,3,88,Pontevedra,Galicia
+Chalet,amorin s/n,259000,6,231,Pontevedra,Galicia
+Chalet,Calle Salgueirón,365000,5,160,Pontevedra,Galicia
+Duplex,Calle Escultor Gregorio Fernández,155000,2,61,Pontevedra,Galicia
+Chalet,Calle Arquitectos Castro y Alonso,650000,4,300,Pontevedra,Galicia
+Ático,Calle do Progreso 88,150000,3,93,Pontevedra,Galicia
+Chalet,EP-9002,390000,6,274,Pontevedra,Galicia
+Chalet,Avenida Ricardo Mella,800000,4,1154,Pontevedra,Galicia
+Chalet,Barro Siador,190000,4,300,Pontevedra,Galicia
+Chalet,Calle Iryda,200000,4,159,Pontevedra,Galicia
+Ático,Camino CIRCUNVALACIÓN,180000,2,73,Pontevedra,Galicia
+Chalet,Calle EP-9203,650000,4,150,Pontevedra,Galicia
+Piso,Avenida da Florida,260000,3,100,Pontevedra,Galicia
+Ático,Calle Vázquez,90000,2,76,Pontevedra,Galicia
+Piso,castelao,320000,7,259,Pontevedra,Galicia
+Duplex,Calle Venezuela,120000,4,154,Pontevedra,Galicia
+Chalet,881350065,Calle sobreira,460000,640,Pontevedra,Galicia
+Piso,Travesía SANTA CATALINA,250000,3,45,Pontevedra,Galicia
+Chalet,EP-9963,650000,4,200,Pontevedra,Galicia
+Chalet,Transfonte de ons,240000,3,83,Pontevedra,Galicia
+Duplex,Calle Campo de Arriba,124000,4,154,Pontevedra,Galicia
+Chalet,Calle Seixalvo,650000,4,152,Pontevedra,Galicia
+Piso,Avenida de Balaídos,159800,3,106,Pontevedra,Galicia
+Piso,Paseo DR JESÚS DURÁN TRONCOSO,275000,2,80,Pontevedra,Galicia
+Chalet,Lugar Casal,350000,4,160,Pontevedra,Galicia
+Piso,Calle Augusto González Besada 17,114000,3,97,Pontevedra,Galicia
+Piso,Travesía José Fariña Jamardo,239000,2,71,Pontevedra,Galicia
+Piso,Avenida DE OUTEIRO 26,121300,3,107,Pontevedra,Galicia
+Ático,Camino de Circunvalación,180000,2,59,Pontevedra,Galicia
+Casa Rural,Lugar a Pedreira,149000,3,82,Pontevedra,Galicia
+Piso,Calle de Barcelona,149000,1,45,Pontevedra,Galicia
+Piso,Calle de Marcelina Panete,215000,3,106,Pontevedra,Galicia
+Estudio,Calle Condesa Casa Bárcena,92500,0,34,Pontevedra,Galicia
+Piso,Calle Simón Bolívar,550000,5,50,Pontevedra,Galicia
+Chalet,Calle Soutullo,540000,4,500,Pontevedra,Galicia
+Estudio,Calle Santa Tegra,120000,0,49,Pontevedra,Galicia
+Ático,Travesía dos Loureiros,195000,2,70,Pontevedra,Galicia
+Piso,Calle Loureiros 1,169900,4,125,Pontevedra,Galicia
+Chalet,Calle Paxarinas 16 A,550000,3,92,Pontevedra,Galicia
+Piso,Calle de Oporto Vigo,330000,2,45,Pontevedra,Galicia
+Piso,Camino Fianteira 12 A,168000,2,12345,Pontevedra,Galicia
+Chalet,Calle J,329000,3,210,Pontevedra,Galicia
+Chalet,Calle da Fonte Santa,525000,5,180,Pontevedra,Galicia
+Chalet,Calle Arquitectos Castro e Alonso 1,599000,4,140,Pontevedra,Galicia
+Duplex,Calle Perú 4 -2,520000,4,268,Pontevedra,Galicia
+Piso,Sanxenxo,300000,3,103,Pontevedra,Galicia
+Chalet,Lugar de Costiña Rouxique,495000,4,129,Pontevedra,Galicia
+Piso,Avenida da Coruña,165900,2,65,Pontevedra,Galicia
+Piso,Sanxenxo,300000,3,110,Pontevedra,Galicia
+Estudio,Calle Alemania Monteporreiro 62,75000,0,26,Pontevedra,Galicia
+Chalet,VILARCHAN,325000,5,237,Pontevedra,Galicia
+Chalet,Calle da Serra Poñente,175000,4,2000,Pontevedra,Galicia
+Ático,Carretera Balsa,260000,4,200,Pontevedra,Galicia
+Chalet,Aldea Castro 34,344000,6,231,Pontevedra,Galicia
+Piso,García Barbón s/n,295000,4,143,Pontevedra,Galicia
+Casa Rural,CAMPO DE LA TORRE 8,220000,7,280,Pontevedra,Galicia
+Chalet,Calle Otero Pedrayo,1490000,5,170,Pontevedra,Galicia
+Piso,Calle do Ecuador,380000,3,85,Pontevedra,Galicia
+Chalet,Calle Chouzas,450000,5,188,Pontevedra,Galicia
+Estudio,Callejón Núñez 2,93000,0,31,Pontevedra,Galicia
+Chalet,Calle Cernadela,350000,4,120,Pontevedra,Galicia
+Chalet,Lugar do Portelo,475000,4,157,Pontevedra,Galicia
+Chalet,Calle Pazos,415000,5,196,Pontevedra,Galicia
+Chalet,tumbio,235000,3,119,Pontevedra,Galicia
+Casa Rural,Lousado,300000,0,240,Pontevedra,Galicia
+Chalet,Arealonga,785000,5,179,Pontevedra,Galicia
+Chalet,Camino Estanco Vello,325000,2,79,Pontevedra,Galicia
+Chalet,Areas,555000,4,2,Pontevedra,Galicia
+Chalet,Zona María Victoria Moreno,485000,4,100,Pontevedra,Galicia
+Piso,Calle Colón,465000,3,225,Pontevedra,Galicia
+Chalet,Tomiño,180000,4,1600,Pontevedra,Galicia
+Chalet,Zona Plaza de Barcelos,420000,4,150,Pontevedra,Galicia
+Piso,Vilagarcía,205000,3,135,Pontevedra,Galicia
+Chalet,PO-551,1000000,4,2000,Pontevedra,Galicia
+Chalet,Avenida de Vilariño,499000,5,179,Pontevedra,Galicia
+Chalet,Castrelos - Sárdoma,399999,4,146,Pontevedra,Galicia
+Piso,Calle Coruña,139000,2,30,Pontevedra,Galicia
+Chalet,Plaza da Igrexa,250000,5,336,Pontevedra,Galicia
+Chalet,Sanxenxo,650000,5,169,Pontevedra,Galicia
+Piso,Calle do Porto,825000,5,192,Pontevedra,Galicia
+Ático,Calle Progreso,350000,2,61,Pontevedra,Galicia
+Chalet,Sanxenxo,730000,4,156,Pontevedra,Galicia
+Chalet,Barrio Illa Toralla,2225000,9,547,Pontevedra,Galicia
+Piso,Calle de Nicaragua,410000,5,180,Pontevedra,Galicia
+Chalet,Noalla,269999,8,70,Pontevedra,Galicia
+Chalet,Pazo,300000,10,4000,Pontevedra,Galicia
+Piso,Avenida de las Camelias,299000,10,450,Pontevedra,Galicia
+Casa Rural,Paseo Maritimo,1200000,5,179,Pontevedra,Galicia
+Chalet,Moaña,500000,4,140,Pontevedra,Galicia
+Chalet,Calle canido,1100000,4,125,Pontevedra,Galicia
+Chalet,Zona María Victoria Moreno,340000,4,1600,Pontevedra,Galicia
+Piso,Calle Manolo Martínez,179000,3,102,Pontevedra,Galicia
+Chalet,Calle de Arquitecto Gómez Román,990000,4,140,Pontevedra,Galicia
+Duplex,Calle Méndez Nuñez,220000,3,22,Pontevedra,Galicia
+Piso,Avenida de las Camelias,299000,10,697,Pontevedra,Galicia
+Casa Rural,Paseo Maritimo,1200000,5,179,Pontevedra,Galicia
+Chalet,Pazo,300000,10,4000,Pontevedra,Galicia
+Piso,Calle Cobián Roffignac,350000,5,173,Pontevedra,Galicia
+Piso,Calle Mercedes Núñez Targa s/n,177000,1,50,Pontevedra,Galicia
+Duplex,Calle Enrique Lorenzo,325000,4,144,Pontevedra,Galicia
+Chalet,Calle da Sobreira,460000,5,479,Pontevedra,Galicia
+Ático,Avenida da Coruña,165000,2,64,Pontevedra,Galicia
+Chalet,Camino do Cochíño,395000,5,479,Pontevedra,Galicia
+Chalet,Travesía Rosais,160000,4,143,Pontevedra,Galicia
+Chalet,Calle de Galicia,550000,6,222,Pontevedra,Galicia
+Piso,Calle de Sanjurjo Badía,150000,3,83,Pontevedra,Galicia
+Chalet,Baixada ó Pontillón,170000,5,172,Pontevedra,Galicia
+Piso,Calle de Nicaragua,410000,5,182,Pontevedra,Galicia
+Ático,Avenida de Outeiro 26,246510,3,88,Pontevedra,Galicia
+Piso,Calle Mestre Montes,165000,4,125,Pontevedra,Galicia
+Piso,Calle López Mora,345000,4,121,Pontevedra,Galicia
+Piso,Camino Quirós,215000,2,74,Pontevedra,Galicia
+Casa Rural,Lugar As Muras,130000,4,140,Pontevedra,Galicia
+Chalet,Camino do Portiño,1200000,5,190,Pontevedra,Galicia
+Chalet,Lugar Caldelas,175000,4,147,Pontevedra,Galicia
+Piso,Calle Jesús Fernández,135000,2,74,Pontevedra,Galicia
+Chalet,Camino das Barxas,210000,3,106,Pontevedra,Galicia
+Chalet,Lugar Axis,499000,3,93,Pontevedra,Galicia
+Piso,Calle de Bolivia,470000,5,170,Pontevedra,Galicia
+Piso,Avenida das Camelias,210000,2,70,Pontevedra,Galicia
+Piso,Calle Real,149000,4,142,Pontevedra,Galicia
+Chalet,Ría de Abaixo-Marcón,470000,5,166,Pontevedra,Galicia
+Piso,Calle Ourense,315000,3,110,Pontevedra,Galicia
+Piso,Calle de Aragón,170000,4,146,Pontevedra,Galicia
+Piso,O Pazo,240000,3,104,Pontevedra,Galicia
+Casa Rural,Poblado Outeiro,325000,7,271,Pontevedra,Galicia
+Chalet,Camino a Covelo,499000,3,102,Pontevedra,Galicia
+Piso,Calle Fernando II,118000,3,91,Pontevedra,Galicia
+Piso,Calexón Loureiro,130000,2,71,Pontevedra,Galicia
+Piso,Avenida BEIRAMAR,170000,3,91,Pontevedra,Galicia
+Chalet,Calle coruña,390000,5,40,Pontevedra,Galicia
+Chalet,A gandara,165000,6,235,Pontevedra,Galicia
+Piso,Calle Progreso 43,150000,1,43,Pontevedra,Galicia
+Chalet,Magalans 5,324995,5,173,Pontevedra,Galicia
+Chalet,Calle do Castro 53,324995,5,182,Pontevedra,Galicia
+Chalet,Camino Quirín Costa 5,550000,4,1100,Pontevedra,Galicia
+Ático,Calle Catoira 5,139000,2,77,Pontevedra,Galicia
+Chalet,Alto de Barreiros-Santiaguiño,194000,4,140,Pontevedra,Galicia
+Piso,Calle Eugenio Krapf,259900,4,149,Pontevedra,Galicia
+Piso,Avenida do Fragoso 42,150000,3,110,Pontevedra,Galicia
+Piso,Parque Rúa Faisán s/n,193500,2,71,Pontevedra,Galicia
+Ático,Calle Martínez Padín,189900,2,25,Pontevedra,Galicia
+Chalet,CR ZAMANS-ZAMANS 104 Polígono 186 Parcela 443 002500200NG26G CURRAS 36310 VIGO (PONTEVEDRA),422500,5,192,Pontevedra,Galicia
+Piso,Plaza da independencia,345000,3,102,Pontevedra,Galicia
+Chalet,Percibilleira,420000,4,159,Pontevedra,Galicia
+Piso,Calle Miño,110000,3,119,Pontevedra,Galicia
+Piso,Avenida Médico Ballina 26,132500,2,80,Pontevedra,Galicia
+Duplex,Ecuador,482550,3,87,Pontevedra,Galicia
+Piso,Calle LEANDRO DIZ 3,153000,3,100,Pontevedra,Galicia
+Chalet,Camino Baiona,295000,4,123,Pontevedra,Galicia
+Piso,Luis Taboada-Plaza Compostela,480000,4,132,Pontevedra,Galicia
+Chalet,Camino Ribeira,450000,4,159,Pontevedra,Galicia
+Ático,Avenida A Xunqueira,175000,2,78,Pontevedra,Galicia
+Piso,Lavadores,159000,2,73,Pontevedra,Galicia
+Piso,Calle Becacina,170000,2,72,Pontevedra,Galicia
+Piso,Calle Ecuador 73,390000,3,110,Pontevedra,Galicia
+Estudio,Avenida de Buenos Aires s/n,138300,0,51,Pontevedra,Galicia
+Piso,Avenida das Camelias,175000,4,137,Pontevedra,Galicia
+Chalet,Lugar a Lanzada,650000,4,70,Pontevedra,Galicia
+Piso,Avenida de Galicia,110000,3,52,Pontevedra,Galicia
+Piso,do Progreso,225000,2,77,Pontevedra,Galicia
+Piso,Calle do Ecuador,349000,3,119,Pontevedra,Galicia
+Piso,Calle Ecuador 73,348000,3,110,Pontevedra,Galicia
+Piso,Calle Xulián Estévez,174000,3,91,Pontevedra,Galicia
+Piso,Avenida de Buenos Aires s/n,161900,1,51,Pontevedra,Galicia
+Piso,Calle Ecuador 73,388000,3,110,Pontevedra,Galicia
+Ático,Calle de Vigo,230000,2,70,Pontevedra,Galicia
+Piso,Avenida de Buenos Aires s/n,136200,1,51,Pontevedra,Galicia
+Piso,Avenida de Buenos Aires s/n,136200,1,51,Pontevedra,Galicia
+Piso,Calle Ecuador 73,388000,3,110,Pontevedra,Galicia
+Piso,Calle das Teixugueiras 1,226000,3,120,Pontevedra,Galicia
+Piso,Calle das Teixugueiras 1,226000,3,116,Pontevedra,Galicia
+Chalet,aldea CANELAS 55,1200000,5,29140,Pontevedra,Galicia
+Chalet,Calle Lugar Igrexa s/n,450000,4,500,Pontevedra,Galicia
+Chalet,Camino do Foro 9,150000,3,100,Pontevedra,Galicia
+Piso,Calle das Teixugueiras 1,226000,3,95,Pontevedra,Galicia
+Piso,Calle Manuel Suárez Marquier 1,96000,2,68,Pontevedra,Galicia
+Piso,Calle Progreso 43,340000,3,116,Pontevedra,Galicia
+Chalet,Avenida de Pontevedra,360000,4,18,Pontevedra,Galicia
+Piso,Travesía Arenal 3,290000,3,82,Pontevedra,Galicia
+Chalet,Calle Rial 24,90000,2,400,Pontevedra,Galicia
+Piso,Simon del Mazo 8,98000,2,68,Pontevedra,Galicia
+Piso,LAMAZANS 1,90820,3,89,Pontevedra,Galicia
+Chalet,Cardigonde 5,99000,5,50,Pontevedra,Galicia
+Piso,Calle Vigo 10,295000,2,56,Pontevedra,Galicia
+Ático,A PERLA 5,192000,2,74,Pontevedra,Galicia
+Chalet,Calle Caeiros 13,280000,4,122,Pontevedra,Galicia
+Chalet,Calle Union 2,199000,2,67,Pontevedra,Galicia
+Piso,Parque Rúa Faisán s/n,242500,3,88,Pontevedra,Galicia
+Ático,Calle Coruña 2,175000,2,68,Pontevedra,Galicia
+Piso,Calle Rosalia de Castro 10,175000,2,63,Pontevedra,Galicia
+Piso,Parque Rúa Faisán s/n,230500,3,82,Pontevedra,Galicia
+Chalet,Calle Parada 7,595000,4,135,Pontevedra,Galicia
+Chalet,mide 96,950000,6,256,Pontevedra,Galicia
+Piso,Calle Augusto González Besada,114000,3,128,Pontevedra,Galicia
+Chalet,Camino Peinador - Os Valos s/n,250000,4,139,Pontevedra,Galicia
+Chalet,Calle Penis 104,190000,4,64,Pontevedra,Galicia
+Chalet,Camino da Pandiña 104,900000,5,195,Pontevedra,Galicia
+Chalet,Torre,675000,5,3000,Pontevedra,Galicia
+Piso,Vigo,295000,2,61,Pontevedra,Galicia
+Ático,Calle Ramón Encinas 110,145000,3,82,Pontevedra,Galicia
+Chalet,Calle do Progreso 53,495000,6,210,Pontevedra,Galicia
+Chalet,Avenida Chancelas 25,620000,5,48,Pontevedra,Galicia
+Chalet,Camino de Vilaverde 53,700000,5,198,Pontevedra,Galicia
+Piso,Avenida Outeiro 26,118250,2,68,Pontevedra,Galicia
+Ático,Avenida Outeiro 26,99660,1,4,Pontevedra,Galicia
+Ático,Avenida Outeiro 26,141900,2,72,Pontevedra,Galicia
+Chalet,Progreso 162,379000,4,122,Pontevedra,Galicia
+Chalet,Camino da Pandiña 104,900000,5,200,Pontevedra,Galicia
+Chalet,Solleiro 1,299000,7,3000,Pontevedra,Galicia
+Chalet,Calle do Progreso 53,495000,6,200,Pontevedra,Galicia
+Ático,Avenida Outeiro 26,246510,3,25,Pontevedra,Galicia
+Piso,Vigo,295000,2,80,Pontevedra,Galicia
+Piso,Vigo,345000,2,77,Pontevedra,Galicia
+Piso,Avenida Outeiro 26,118250,2,74,Pontevedra,Galicia
+Chalet,Calle Penis 104,190000,4,64,Pontevedra,Galicia
+Piso,Travesía de Vigo 88,144500,3,119,Pontevedra,Galicia
+Chalet,Avenida Chancelas 25,620000,5,48,Pontevedra,Galicia
+Duplex,Calle de Vigo 30,470000,3,40,Pontevedra,Galicia
+Chalet,Camino de Vilaverde 53,700000,5,177,Pontevedra,Galicia
+Chalet,Camino Cacheiro,620000,6,248,Pontevedra,Galicia
+Chalet,Camino das Cachadiñas 1,420000,4,154,Pontevedra,Galicia
+Chalet,Coiro,162000,1,41,Pontevedra,Galicia
+Piso,Calle de Zaragoza 6,199000,2,78,Pontevedra,Galicia
+Ático,Avenida Outeiro 26,99660,1,4,Pontevedra,Galicia
+Piso,Avenida OUTEIRO 26,117260,3,98,Pontevedra,Galicia
+Piso,Calle de Zaragoza,199000,2,64,Pontevedra,Galicia
+Chalet,Camino Dos Eiros s/n,485000,3,278,Pontevedra,Galicia
+Ático,Calle Santa Ana 5,450000,5,30,Pontevedra,Galicia
+Chalet,Camino da Igrexa Vella,1245000,5,1660,Pontevedra,Galicia
+Piso,Calle Vigo 14,345000,2,20,Pontevedra,Galicia
+Piso,Avenida Lugar Funchidos 2,125000,3,81,Pontevedra,Galicia
+Piso,Avenida da Atlántida 102,295000,2,70,Pontevedra,Galicia
+Chalet,Camino Sandian s/n,470000,5,2600,Pontevedra,Galicia
+Piso,Lugar a Relva 38,123000,2,78,Pontevedra,Galicia
+Chalet,Carretera da Balsa s/n,520000,6,235,Pontevedra,Galicia
+Piso,Avenida de Redondela 148,155000,2,74,Pontevedra,Galicia
+Piso,Plaza INDEPENDENCIA 7,345000,3,80,Pontevedra,Galicia
+Piso,Calle Vigo 14,295000,2,26,Pontevedra,Galicia
+Piso,barrio Centro - Areal,1165500,4,131,Pontevedra,Galicia
+Chalet,Calle de Cabicastro,449000,3,99,Pontevedra,Galicia
+Piso,Camino Fianteira,168000,2,8214,Pontevedra,Galicia
+Piso,Avenida de Redondela 148,151000,2,63,Pontevedra,Galicia
+Piso,Calle Progreso,135000,3,120,Pontevedra,Galicia
+Piso,Plaza Aurelio Lores,135000,2,70,Pontevedra,Galicia
+Chalet,Avenida Castelao 57,549000,5,173,Pontevedra,Galicia
+Chalet,Calle Lugar San Brais,199900,4,146,Pontevedra,Galicia
+Chalet,Calle Urbanización Brisa Romana s/n,390000,5,194,Pontevedra,Galicia
+Piso,Av Buenos Aires,115000,1,50,Pontevedra,Galicia
+Chalet,Camino Sandian s/n,470000,5,2600,Pontevedra,Galicia
+Piso,Calle Progreso,135000,3,81,Pontevedra,Galicia
+Chalet,Calle Urbanización Brisa Romana s/n,390000,5,164,Pontevedra,Galicia
+Chalet,Poio,499000,5,165,Pontevedra,Galicia
+Piso,Calle Castelao,166000,1,54,Pontevedra,Galicia
+Piso,Vigo,160000,1,43,Pontevedra,Galicia
+Chalet,Caeira,795000,5,179,Pontevedra,Galicia
+Piso,Plaza Eugenio Fadrique,190000,4,135,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,86,Pontevedra,Galicia
+Piso,Calle Luis Vidal Rocha,480000,4,152,Pontevedra,Galicia
+Chalet,Camino Bouciñas,450000,5,140,Pontevedra,Galicia
+Casa Rural,Forcarei,95000,5,198,Pontevedra,Galicia
+Chalet,A Estrada,170000,4,134,Pontevedra,Galicia
+Chalet,Salvaterra de Miño,399000,5,165,Pontevedra,Galicia
+Chalet,Candean - Cabral,415000,3,114,Pontevedra,Galicia
+Piso,Ponte-Caldelas,110000,4,128,Pontevedra,Galicia
+Ático,Calle de Zaragoza,130000,2,51,Pontevedra,Galicia
+Piso,Avenida de Balaídos,159800,3,115,Pontevedra,Galicia
+Casa Rural,Canaval,190000,6,499,Pontevedra,Galicia
+Chalet,Pontecesures,97000,4,126,Pontevedra,Galicia
+Ático,Calle Sanpaio 58,130000,2,63,Pontevedra,Galicia
+Piso,Ribadumia,90000,3,114,Pontevedra,Galicia
+Chalet,Valadares - Beade,500000,4,157,Pontevedra,Galicia
+Chalet,Vilar 11,265000,2,77,Pontevedra,Galicia
+Chalet,Poblado Trasdovalo 7,300000,8,29925,Pontevedra,Galicia
+Chalet,Soldecasa 3,98000,3,270,Pontevedra,Galicia
+Chalet,Candean - Cabral,370000,4,149,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,320000,3,106,Pontevedra,Galicia
+Chalet,Calle Progreso 14,185000,6,247,Pontevedra,Galicia
+Chalet,O Rebel s/n,1900000,22,538222,Pontevedra,Galicia
+Ático,Calle Caldas de Reis,145000,3,86,Pontevedra,Galicia
+Casa Rural,Lugar Fondevila,42000,1,94,Pontevedra,Galicia
+Piso,Avenida Fernando Conde 131,125000,3,40,Pontevedra,Galicia
+Duplex,Avenida Luis Rocafort 24,550000,4,147,Pontevedra,Galicia
+Piso,Venezuela 8,126000,4,130,Pontevedra,Galicia
+Ático,Covelo,120000,2,71,Pontevedra,Galicia
+Chalet,Camino Costa Dos Soldados,450000,4,137,Pontevedra,Galicia
+Chalet,Regonovo,69000,3,116,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,255000,3,117,Pontevedra,Galicia
+Piso,PO-308 13 -3,185000,3,8,Pontevedra,Galicia
+Piso,Calle Illas Alvedosas 9,149000,3,102,Pontevedra,Galicia
+Chalet,Barreira,198000,4,97,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,255000,3,112,Pontevedra,Galicia
+Piso,Avenida Buenos Aires,170000,3,9,Pontevedra,Galicia
+Chalet,Camino Costa Dos Soldados,450000,4,152,Pontevedra,Galicia
+Ático,Covelo,120000,2,74,Pontevedra,Galicia
+Chalet,Pedrouzos 17,360000,3,55,Pontevedra,Galicia
+Chalet,Via Lugar Major 89,260000,3,83,Pontevedra,Galicia
+Casa Rural,Lugar Fondevila,42000,1,94,Pontevedra,Galicia
+Piso,Carballeira do Chousiño 17,70000,2,80,Pontevedra,Galicia
+Chalet,Camino das Presas,1250000,4,129,Pontevedra,Galicia
+Chalet,Calle Camariñas 3,415000,3,828,Pontevedra,Galicia
+Piso,Avenida de Madrid,355000,3,119,Pontevedra,Galicia
+Piso,Vista Alegre,208000,2,67,Pontevedra,Galicia
+Piso,Calle de García Lorca,140000,3,99,Pontevedra,Galicia
+Piso,Jenaro de la Fuente,260000,3,91,Pontevedra,Galicia
+Chalet,Calle Reveriano Soutullo,85000,3,109,Pontevedra,Galicia
+Chalet,Barro,245000,0,5711,Pontevedra,Galicia
+Ático,Avenida Gran Via,399000,7,264,Pontevedra,Galicia
+Chalet,Villalonga,330000,4,337,Pontevedra,Galicia
+Piso,Calle Pintor Lugrís,250000,4,151,Pontevedra,Galicia
+Piso,Calle da Falperra,149000,2,60,Pontevedra,Galicia
+Piso,Calle de Nicaragua,410000,4,147,Pontevedra,Galicia
+Chalet,Lugar Portela,195000,5,344,Pontevedra,Galicia
+Piso,Plaza do Mercado,120000,3,86,Pontevedra,Galicia
+Casa Rural,Cabo de Vila,45000,2,132,Pontevedra,Galicia
+Ático,Avenida Portugal 27,98500,3,81,Pontevedra,Galicia
+Piso,Avenida Marqués del Valterra 75,101000,4,137,Pontevedra,Galicia
+Chalet,Lugar Arans,160000,3,99,Pontevedra,Galicia
+Casa Rural,Lugar Paravedra,30000,1,368,Pontevedra,Galicia
+Chalet,Camino de Zamáns 104,397500,5,215,Pontevedra,Galicia
+Chalet,Silleda,290000,5,150,Pontevedra,Galicia
+Piso,Calle Zaragoza,196000,2,68,Pontevedra,Galicia
+Casa Rural,Rochiñas,55000,0,1533,Pontevedra,Galicia
+Piso,Avenida de García Barbón,295000,4,144,Pontevedra,Galicia
+Chalet,Calle Aranza,240000,6,1200,Pontevedra,Galicia
+Piso,Calle do Conde de Torrecedeira,230000,5,167,Pontevedra,Galicia
+Piso,Avenida Sanjurjo Badía,150000,3,106,Pontevedra,Galicia
+Piso,Avenida das Camelias,329000,3,143,Pontevedra,Galicia
+Chalet,Camino Boavista,500000,3,742,Pontevedra,Galicia
+Piso,Avenida de Balaídos,199000,3,84,Pontevedra,Galicia
+Piso,Calle Canario,200000,3,101,Pontevedra,Galicia
+Chalet,Lugar Lusquiños,242200,7,309,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,69,Pontevedra,Galicia
+Piso,Avenida das Camelias,329000,3,143,Pontevedra,Galicia
+Piso,Isla de La Toja s/n,500000,5,65000,Pontevedra,Galicia
+Chalet,Calle Areacova,495000,3,86,Pontevedra,Galicia
+Piso,Aragón,159000,2,78,Pontevedra,Galicia
+Ático,Brasilino Alvarez 1,89000,2,69,Pontevedra,Galicia
+Chalet,Lugar Revolta,263200,9,373,Pontevedra,Galicia
+Piso,Isla de La Toja s/n,430000,3,100,Pontevedra,Galicia
+Ático,Calle Lamazáns 1,96235,2,77,Pontevedra,Galicia
+Duplex,Calle Corvo Mariño,198000,3,97,Pontevedra,Galicia
+Chalet,Calle Rouxique,140000,3,1536,Pontevedra,Galicia
+Piso,Calle Fontegrande,98500,3,100,Pontevedra,Galicia
+Chalet,Souto de Engarde,122550,4,600,Pontevedra,Galicia
+Piso,Calle do Miño,110000,3,117,Pontevedra,Galicia
+Piso,Avenida Sanjurjo Badía,150000,3,109,Pontevedra,Galicia
+Piso,Calle Cesáreo González,330000,4,10,Pontevedra,Galicia
+Piso,Paseo Matutino 40 -52,90820,3,89,Pontevedra,Galicia
+Casa Rural,Lugar a Lomba 36,59000,3,137,Pontevedra,Galicia
+Chalet,antime,240000,4,2400,Pontevedra,Galicia
+Chalet,Lugar Touceda,180000,3,92,Pontevedra,Galicia
+Chalet,ILLA CANOSA 79,320000,5,175,Pontevedra,Galicia
+Chalet,Miradores de la Toja,1800000,5,163,Pontevedra,Galicia
+Chalet,Magalans,360500,5,276,Pontevedra,Galicia
+Duplex,burgos,165000,2,63,Pontevedra,Galicia
+Chalet,Calle Fonte do Ouro,775000,3,33,Pontevedra,Galicia
+Chalet,Piñeiro,320000,4,130,Pontevedra,Galicia
+Ático,Calle do Profesor Hermida,350000,2,62,Pontevedra,Galicia
+Chalet,Brandufe,360000,5,187,Pontevedra,Galicia
+Chalet,Camino Boavista,500000,5,169,Pontevedra,Galicia
+Chalet,abetos s/n,1150000,7,4450,Pontevedra,Galicia
+Chalet,Camino sen nome,595000,4,137,Pontevedra,Galicia
+Chalet,Camino do Galleiro,389000,5,2600,Pontevedra,Galicia
+Chalet,LUGAR AREAS BORDONS,565000,4,89,Pontevedra,Galicia
+Chalet,Calle Albores Pequeno,585000,7,900,Pontevedra,Galicia
+Chalet,Camino das Laxes,450000,0,209,Pontevedra,Galicia
+Chalet,Lugar Freixeiro,199000,3,1291,Pontevedra,Galicia
+Chalet,Bueu,590000,3,390,Pontevedra,Galicia
+Chalet,Arquitecto Antonio Cominges,3200000,7,635,Pontevedra,Galicia
+Chalet,Arealonga,199999,4,360,Pontevedra,Galicia
+Chalet,EP-9963,650000,5,438,Pontevedra,Galicia
+Chalet,Camino de Labrego,800000,5,301,Pontevedra,Galicia
+Chalet,EP-9208,350000,5,200,Pontevedra,Galicia
+Chalet,Piñeiro,320000,4,152,Pontevedra,Galicia
+Chalet,Calle do Sidral,795000,4,3100,Pontevedra,Galicia
+Chalet,Nogueira,395000,5,207,Pontevedra,Galicia
+Chalet,Calle Fonte do Ouro,775000,3,33,Pontevedra,Galicia
+Chalet,Lugar Freixeiro,199000,3,1291,Pontevedra,Galicia
+Piso,Plaza da Curtidoira,290000,3,100,Pontevedra,Galicia
+Piso,Camino de ourense,450000,8,1140,Pontevedra,Galicia
+Chalet,Camino das Laxes,450000,0,209,Pontevedra,Galicia
+Chalet,Avenida Ricardo Mella,750000,6,247,Pontevedra,Galicia
+Chalet,Camino Sanín,350000,3,83,Pontevedra,Galicia
+Chalet,Calle Senín,160000,5,199,Pontevedra,Galicia
+Ático,Calle do Profesor Hermida,350000,2,73,Pontevedra,Galicia
+Casa Rural,Rio Da Vila,180000,3,850,Pontevedra,Galicia
+Chalet,As Lombas,199000,6,1000,Pontevedra,Galicia
+Chalet,Lugar Vilardematos,225000,7,450,Pontevedra,Galicia
+Chalet,Brandufe,360000,5,172,Pontevedra,Galicia
+Chalet,Lugar Arra,699000,4,126,Pontevedra,Galicia
+Chalet,Camino sen nome,595000,4,156,Pontevedra,Galicia
+Chalet,Calle Illa Canosa,650000,5,165,Pontevedra,Galicia
+Chalet,Subida Monte Lourido,1100000,4,148,Pontevedra,Galicia
+Chalet,Lugar Santradan,460000,3,87,Pontevedra,Galicia
+Piso,Travesía de Vigo,225000,3,91,Pontevedra,Galicia
+Piso,Avenida Gran Via,550000,5,272,Pontevedra,Galicia
+Piso,Avenida dos Loureiros,225000,3,108,Pontevedra,Galicia
+Piso,Zona Playa Caneliñas,195000,3,111,Pontevedra,Galicia
+Piso,Calle Javier Puig Llamas,130000,4,123,Pontevedra,Galicia
+Casa Rural,Lugar a Mota,1200000,19,1560,Pontevedra,Galicia
+Piso,Calle Zamora,550000,5,288,Pontevedra,Galicia
+Chalet,Barro,520000,4,300,Pontevedra,Galicia
+Chalet,Calle Penis de Abaixo,650000,5,162,Pontevedra,Galicia
+Chalet,Baixada a Praia,285000,3,45,Pontevedra,Galicia
+Chalet,Gondomar,480000,3,106,Pontevedra,Galicia
+Piso,Calle Ourense,255000,4,149,Pontevedra,Galicia
+Piso,Calle Vigo,480000,3,127,Pontevedra,Galicia
+Chalet,EP-9208,350000,5,171,Pontevedra,Galicia
+Chalet,Camino Quirós,690000,4,139,Pontevedra,Galicia
+Piso,Nicaragua,350000,3,105,Pontevedra,Galicia
+Chalet,Camino Fontela,875000,4,123,Pontevedra,Galicia
+Casa Rural,Rio Da Vila,180000,3,850,Pontevedra,Galicia
+Piso,Calle de García Barbón,230000,4,129,Pontevedra,Galicia
+Chalet,Camino das Cachadiñas,420000,4,250,Pontevedra,Galicia
+Chalet,Nogueira,395000,5,207,Pontevedra,Galicia
+Chalet,Camino Sanín,350000,3,106,Pontevedra,Galicia
+Chalet,Lugar Arra,699000,4,140,Pontevedra,Galicia
+Chalet,Arealonga,199999,4,360,Pontevedra,Galicia
+Chalet,Calle Penis de Abaixo,650000,5,199,Pontevedra,Galicia
+Piso,Calle Costa,340000,4,126,Pontevedra,Galicia
+Chalet,Avenida Ricardo Mella,750000,6,202,Pontevedra,Galicia
+Chalet,Camino Boavista,500000,5,178,Pontevedra,Galicia
+Chalet,Lugar Santradan,460000,3,103,Pontevedra,Galicia
+Piso,Calle López Mora,249000,4,27,Pontevedra,Galicia
+Chalet,LUGAR AREAS BORDONS,565000,4,89,Pontevedra,Galicia
+Piso,Corredoira 50,79800,2,67,Pontevedra,Galicia
+Piso,Travesía Aragón,185400,3,99,Pontevedra,Galicia
+Piso,Calle Padre Feijóo,280000,4,124,Pontevedra,Galicia
+Chalet,Nantes,395000,7,287,Pontevedra,Galicia
+Chalet,Lugar O Pombal,900000,5,2750,Pontevedra,Galicia
+Piso,Calle Hernán Cortés,255000,3,94,Pontevedra,Galicia
+Piso,Calle Vázquez Varela,275000,4,121,Pontevedra,Galicia
+Piso,Calle María Berdiales,220000,3,92,Pontevedra,Galicia
+Piso,Calle Tomás Alonso 72,470000,3,94,Pontevedra,Galicia
+Piso,Calle Porto Rico,239000,4,165,Pontevedra,Galicia
+Chalet,Calle das Chabarras,440000,4,215,Pontevedra,Galicia
+Ático,Avenida da Atlántida,650000,3,96,Pontevedra,Galicia
+Chalet,O Covelo,86000,4,144,Pontevedra,Galicia
+Chalet,Camino Urbillal Sanguiñeda,330000,6,224,Pontevedra,Galicia
+Piso,Calle de García Barbón,255000,3,105,Pontevedra,Galicia
+Chalet,Camino do Rolán,475000,5,186,Pontevedra,Galicia
+Chalet,Lugar a Gulpilleira,320000,5,143,Pontevedra,Galicia
+Piso,Avenida de Madrid 11,455000,3,118,Pontevedra,Galicia
+Duplex,Carretera do Vao,425000,5,168,Pontevedra,Galicia
+Chalet,Calle Consistorio,360000,5,25,Pontevedra,Galicia
+Chalet,Paxariñas,1950000,9,737,Pontevedra,Galicia
+Chalet,Camino da Estea,780000,5,178,Pontevedra,Galicia
+Chalet,Villalonga,395000,8,200,Pontevedra,Galicia
+Chalet,Mestres Soñora Cruces,130000,4,158,Pontevedra,Galicia
+Piso,Avenida das Camelias,405000,5,203,Pontevedra,Galicia
+Chalet,Camino dos Liñares,475000,4,350,Pontevedra,Galicia
+Piso,Avenida de Madrid 11,375000,3,101,Pontevedra,Galicia
+Piso,Calle Porto Rico,239000,4,165,Pontevedra,Galicia
+Piso,Calle do Brasil,255000,3,101,Pontevedra,Galicia
+Casa Rural,Freixeiro,380000,3,2897,Pontevedra,Galicia
+Chalet,Calle das Chabarras,440000,4,215,Pontevedra,Galicia
+Chalet,Camino do Galleiro,690000,5,492,Pontevedra,Galicia
+Chalet,A Fraga Couso,280000,5,1446,Pontevedra,Galicia
+Ático,Calle do Ecuador,340000,2,68,Pontevedra,Galicia
+Chalet,Paxariñas,1950000,9,737,Pontevedra,Galicia
+Chalet,Calle de Arquitecto Gómez Román,1175000,4,1500,Pontevedra,Galicia
+Chalet,Pío Troncoso,198000,3,116,Pontevedra,Galicia
+Piso,Calle Vázquez Varela,275000,4,138,Pontevedra,Galicia
+Piso,Avenida de Madrid 11,455000,3,110,Pontevedra,Galicia
+Chalet,Calle Vilar de Matos,259000,5,192,Pontevedra,Galicia
+Ático,Calle Bolivia 43,609000,3,101,Pontevedra,Galicia
+Chalet,Camino Camposancos,650000,4,121,Pontevedra,Galicia
+Chalet,Rúa Fuchiños,1200000,5,300,Pontevedra,Galicia
+Chalet,Lugar a Gulpilleira,320000,5,143,Pontevedra,Galicia
+Piso,Avenida das Camelias,385000,4,148,Pontevedra,Galicia
+Chalet,Calle Consistorio,360000,5,25,Pontevedra,Galicia
+Piso,Calle Hernán Cortés,255000,3,94,Pontevedra,Galicia
+Chalet,Carregal de Abaixo,259000,6,1300,Pontevedra,Galicia
+Piso,Calle do Brasil,245000,3,92,Pontevedra,Galicia
+Piso,Travesía Aragón,185400,3,115,Pontevedra,Galicia
+Duplex,Calle do Doutor Corbal,295000,3,114,Pontevedra,Galicia
+Piso,Calle Arzobispo Xelmírez,235000,4,116,Pontevedra,Galicia
+Chalet,Baiona,450000,3,88,Pontevedra,Galicia
+Chalet,Camino Cerdeira,310000,3,256,Pontevedra,Galicia
+Chalet,Camino do Rolán,475000,5,198,Pontevedra,Galicia
+Chalet,Lugar O Pombal,900000,5,2750,Pontevedra,Galicia
+Piso,Calle de García Barbón,255000,3,84,Pontevedra,Galicia
+Casa Rural,Calle do Burgo,750000,15,3610,Pontevedra,Galicia
+Piso,Calle María Berdiales,220000,3,117,Pontevedra,Galicia
+Chalet,barrio Casablanca - Calvario,80000,3,121,Pontevedra,Galicia
+Piso,Calle Barbeito,117000,1,46,Pontevedra,Galicia
+Chalet,Barrio Santa Rosa-Tomiño 7,195000,3,95,Pontevedra,Galicia
+Piso,Calle Vázquez Varela,390000,5,186,Pontevedra,Galicia
+Piso,Calle de Bolivia,460000,5,180,Pontevedra,Galicia
+Piso,Avenida García Barbón,295000,4,150,Pontevedra,Galicia
+Chalet,Camino das Sapeiras,580000,5,370,Pontevedra,Galicia
+Duplex,Calle Santa Ana 12,450000,5,180,Pontevedra,Galicia
+Chalet,Lugar O Pombal,250000,4,128,Pontevedra,Galicia
+Piso,Avenida de Castelao 57,112000,3,92,Pontevedra,Galicia
+Piso,Avenida das Camelias,375000,4,148,Pontevedra,Galicia
+Piso,Calle Abeleira Menéndez,260000,3,114,Pontevedra,Galicia
+Chalet,Rons,600000,4,220,Pontevedra,Galicia
+Chalet,Avenida Don Diego Sarmiento de Acuña,360000,6,202,Pontevedra,Galicia
+Piso,Calle da Falperra,152500,2,60,Pontevedra,Galicia
+Chalet,Lugar O Burgo,425000,3,2900,Pontevedra,Galicia
+Ático,Calle de Baiona,235000,3,117,Pontevedra,Galicia
+Chalet,Camino da Moureira,495000,4,137,Pontevedra,Galicia
+Chalet,SIERRA PONIENTE,300000,3,120,Pontevedra,Galicia
+Piso,Calle Canario,200000,3,95,Pontevedra,Galicia
+Estudio,Avenida Sanjurjo Badía,120000,0,3,Pontevedra,Galicia
+Piso,Paseo de Colon,280000,4,125,Pontevedra,Galicia
+Piso,Calle de Bolivia,470000,5,160,Pontevedra,Galicia
+Chalet,Camino da Fonte,380000,5,300,Pontevedra,Galicia
+Piso,Camino de Circunvalación,149000,1,44,Pontevedra,Galicia
+Chalet,Lugar a Aldea,340000,4,789,Pontevedra,Galicia
+Piso,Avenida Gran Via,280000,3,93,Pontevedra,Galicia
+Piso,Calle de Zaragoza,125000,1,50,Pontevedra,Galicia
+Chalet,Camino do Castañal,455000,4,121,Pontevedra,Galicia
+Piso,Calle Morcego 1,210000,2,61,Pontevedra,Galicia
+Piso,Rúa do Marqués de Valladares 33,650000,3,106,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,86,Pontevedra,Galicia
+Piso,Calle das Camelias,130000,3,101,Pontevedra,Galicia
+Piso,Calle Doctor Darío Durán Gómez,185000,2,62,Pontevedra,Galicia
+Piso,Calle Joaquín Fernández Sestelo 13 -1,135000,3,112,Pontevedra,Galicia
+Piso,Rúa do Marqués de Valladares 33,655000,3,118,Pontevedra,Galicia
+Piso,Avenida de Castelao,130000,3,100,Pontevedra,Galicia
+Chalet,Túnel A MADROA,340000,7,110,Pontevedra,Galicia
+Piso,Travesía de Vigo,180000,4,145,Pontevedra,Galicia
+Piso,Calle Morcego 1,245000,3,82,Pontevedra,Galicia
+Chalet,Pedras Negras,455000,3,85,Pontevedra,Galicia
+Duplex,Calle Corvo Mariño,198000,2,66,Pontevedra,Galicia
+Piso,Calle do Miradoiro 3,374000,4,147,Pontevedra,Galicia
+Chalet,Calle coto rodrigo,500000,5,270,Pontevedra,Galicia
+Chalet,redondo 84,820000,5,171,Pontevedra,Galicia
+Piso,Calle de Marín,285000,3,99,Pontevedra,Galicia
+Piso,Rúa do Marqués de Valladares 33,650000,3,100,Pontevedra,Galicia
+Piso,Calle Morcego 1,210000,2,75,Pontevedra,Galicia
+Piso,Calle Morcego 1,245000,3,91,Pontevedra,Galicia
+Chalet,Camino da Fonte,380000,5,300,Pontevedra,Galicia
+Chalet,Túnel A MADROA,340000,7,110,Pontevedra,Galicia
+Piso,Avenida Vilar,136400,2,61,Pontevedra,Galicia
+Piso,Calle do Miradoiro 3,374000,4,151,Pontevedra,Galicia
+Piso,Calle López Mora,190000,3,120,Pontevedra,Galicia
+Chalet,Lugar Carregal de Arriba,135000,4,55,Pontevedra,Galicia
+Piso,Calle do Ecuador,265000,4,103,Pontevedra,Galicia
+Chalet,Calle Costa,799000,6,1000,Pontevedra,Galicia
+Piso,Calle Doctor Darío Durán Gómez,185000,2,74,Pontevedra,Galicia
+Piso,Paseo de Colon,280000,4,157,Pontevedra,Galicia
+Piso,Calle Joaquín Fernández Sestelo 13 -1,135000,3,113,Pontevedra,Galicia
+Duplex,Calle Corvo Mariño,198000,2,72,Pontevedra,Galicia
+Piso,Camino de Circunvalación,149000,1,57,Pontevedra,Galicia
+Chalet,Pedras Negras,455000,3,117,Pontevedra,Galicia
+Piso,Calle de Tomás Paredes 116,106000,3,106,Pontevedra,Galicia
+Duplex,Calle Rosalía de Castro 11,375000,4,125,Pontevedra,Galicia
+Piso,Calle Vázquez Varela 18,419000,3,108,Pontevedra,Galicia
+Piso,Calle de Vigo,175000,1,43,Pontevedra,Galicia
+Chalet,Calle simancas 32,315000,5,168,Pontevedra,Galicia
+Piso,Calle abeleira menendez,260000,3,105,Pontevedra,Galicia
+Piso,Via Gran 176,325000,4,210,Pontevedra,Galicia
+Chalet,Tomiño,650000,10,800,Pontevedra,Galicia
+Piso,Calle Vázquez Varela 18,439000,3,107,Pontevedra,Galicia
+Piso,Calle Padre Fernando Olmedo,130000,3,105,Pontevedra,Galicia
+Piso,Calle Vázquez Varela 18,389000,3,118,Pontevedra,Galicia
+Chalet,Castrelos - Sárdoma,525000,5,175,Pontevedra,Galicia
+Piso,O Hío,230000,2,64,Pontevedra,Galicia
+Ático,Sanxenxo,444000,3,105,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 41,220000,2,68,Pontevedra,Galicia
+Piso,Calle de García Barbón,255000,3,97,Pontevedra,Galicia
+Piso,Calle Areal 120,268000,2,60,Pontevedra,Galicia
+Chalet,Lugar Bade 14,155000,4,121,Pontevedra,Galicia
+Piso,Calle Areal 120,363000,3,115,Pontevedra,Galicia
+Ático,Sanxenxo,175000,2,71,Pontevedra,Galicia
+Chalet,lugar naranxeiras,510000,6,2540,Pontevedra,Galicia
+Chalet,Lugar Bade 14,155000,4,149,Pontevedra,Galicia
+Duplex,Calle do Marqués de Valladares,424960,3,96,Pontevedra,Galicia
+Chalet,Camino do Escontrijo,790000,5,174,Pontevedra,Galicia
+Ático,Sanxenxo,175000,2,71,Pontevedra,Galicia
+Chalet,Centro,1000000,5,500,Pontevedra,Galicia
+Piso,Calle López Mora,345000,4,146,Pontevedra,Galicia
+Chalet,Priegue,650000,4,154,Pontevedra,Galicia
+Chalet,Calle de Severino Cobas,460000,6,227,Pontevedra,Galicia
+Ático,Camino Fianteira 12 A,150000,2,260,Pontevedra,Galicia
+Piso,Calle Morcego 1,344000,4,121,Pontevedra,Galicia
+Piso,Calle Areal 120,268000,2,75,Pontevedra,Galicia
+Piso,Avenida Pontevedra 62,220000,2,77,Pontevedra,Galicia
+Piso,Calle Areal 120,363000,3,115,Pontevedra,Galicia
+Piso,Calle Areal 120,522000,4,125,Pontevedra,Galicia
+Piso,Via Norte,300000,4,157,Pontevedra,Galicia
+Piso,Calle de García Barbón,255000,3,95,Pontevedra,Galicia
+Ático,Travesía de Vigo,180000,3,86,Pontevedra,Galicia
+Estudio,LOUREIROS 7,86100,0,39,Pontevedra,Galicia
+Ático,Camino de bueu 70,270000,3,89,Pontevedra,Galicia
+Piso,Calle de Gerona 6,350000,4,140,Pontevedra,Galicia
+Chalet,Camino de sobreiras,240000,5,194,Pontevedra,Galicia
+Piso,Calle do Doutor Carracido 4,199000,2,76,Pontevedra,Galicia
+Casa Rural,EP-9209,3000000,25,22,Pontevedra,Galicia
+Piso,Via del Norte 1,420000,9,682,Pontevedra,Galicia
+Ático,Avenida de Bos Aires s/n,264500,2,61,Pontevedra,Galicia
+Piso,Avenida Emilia Pardo Bazán 36969 9,175000,2,79,Pontevedra,Galicia
+Ático,Avenida de Bos Aires s/n,333000,3,109,Pontevedra,Galicia
+Ático,Avenida de Bos Aires s/n,327500,3,93,Pontevedra,Galicia
+Chalet,Mos,325000,8,352,Pontevedra,Galicia
+Piso,Calle Brasil,519000,3,160,Pontevedra,Galicia
+Chalet,Calle Illa Canosa 24,294500,5,191,Pontevedra,Galicia
+Piso,jose fariña jamardo 3,239000,2,64,Pontevedra,Galicia
+Piso,Avenida da Florida 36,260000,3,120,Pontevedra,Galicia
+Chalet,curro 19,290000,5,150,Pontevedra,Galicia
+Chalet,Lugar el de Guntín,189600,4,757,Pontevedra,Galicia
+Piso,Calle Colombia,140000,3,110,Pontevedra,Galicia
+Piso,Calle de García Barbón 50,510000,4,235,Pontevedra,Galicia
+Chalet,Carballas,212905,4,130,Pontevedra,Galicia
+Piso,Calle O Pinar,159000,3,98,Pontevedra,Galicia
+Piso,Calle Senén Canido,89000,4,40,Pontevedra,Galicia
+Piso,Calle Colombia,140000,3,96,Pontevedra,Galicia
+Ático,nanin bordons,950000,3,90,Pontevedra,Galicia
+Chalet,Camino do Cabazo,394000,3,220,Pontevedra,Galicia
+Piso,Calle Don Quijote,195000,3,88,Pontevedra,Galicia
+Chalet,Subida a Buraca,550000,4,1750,Pontevedra,Galicia
+Piso,Calle Sarmiento 21,205000,4,140,Pontevedra,Galicia
+Ático,Calle Sanpoio 62,125000,2,66,Pontevedra,Galicia
+Piso,Via Norte,370000,4,132,Pontevedra,Galicia
+Piso,Calle de Nicaragua,350000,3,50,Pontevedra,Galicia
+Chalet,ES QUINTELA (DE)-QUINTELA 36817,350000,4,2000,Pontevedra,Galicia
+Piso,Travesía Porteliña,160000,2,124,Pontevedra,Galicia
+Piso,Calle de Urzaiz,350000,3,82,Pontevedra,Galicia
+Chalet,PO-551,480000,5,178,Pontevedra,Galicia
+Piso,Calle Augusto González Besada,114000,3,128,Pontevedra,Galicia
+Piso,Avenida Gran Via,215000,3,118,Pontevedra,Galicia
+Piso,Villalonga,97500,1,50,Pontevedra,Galicia
+Piso,Urzáiz,395000,4,155,Pontevedra,Galicia
+Piso,Pablo Morillo,284600,3,82,Pontevedra,Galicia
+Piso,Calle de Vigo,219000,3,98,Pontevedra,Galicia
+Piso,Calle da Coruña,159000,2,67,Pontevedra,Galicia
+Chalet,Sanxenxo,1300000,5,195,Pontevedra,Galicia
+Piso,Calle Doutor Loureiro Crespo,159000,2,74,Pontevedra,Galicia
+Chalet,Calle Tomás Mirambell,550000,2,1455,Pontevedra,Galicia
+Piso,Avenida García Barbón,210000,4,142,Pontevedra,Galicia
+Piso,Calle Santa Tegra,120000,1,48,Pontevedra,Galicia
+Chalet,Lugar a Ribeira,227000,4,114,Pontevedra,Galicia
+Piso,Calle do Brasil,235000,3,101,Pontevedra,Galicia
+Piso,Avenida Gran Vía,260000,4,149,Pontevedra,Galicia
+Chalet,zapateira,600000,3,80,Pontevedra,Galicia
+Chalet,carregal de arriga,260000,4,1000,Pontevedra,Galicia
+Piso,Torrecedeira,225000,3,80,Pontevedra,Galicia
+Chalet,Lugar As Sequeiras,218000,3,27972,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,348000,3,110,Pontevedra,Galicia
+Chalet,Calle Illa de Ons - San Salvador s/n,395000,4,300,Pontevedra,Galicia
+Piso,garcia barbon,325000,3,84,Pontevedra,Galicia
+Piso,Calle Sergio Saborido 2,235000,2,510,Pontevedra,Galicia
+Chalet,SUBIDA PARADA,435000,5,177,Pontevedra,Galicia
+Chalet,A Guarda,279000,3,507,Pontevedra,Galicia
+Chalet,Calle Illa de Ons - San Salvador s/n,490000,4,300,Pontevedra,Galicia
+Chalet,A Guarda,279000,3,507,Pontevedra,Galicia
+Chalet,carregal de arriga,260000,4,1000,Pontevedra,Galicia
+Piso,Torrecedeira,225000,3,106,Pontevedra,Galicia
+Chalet,Calle da Pedralta,186000,2,89,Pontevedra,Galicia
+Ático,Coiro,139000,3,104,Pontevedra,Galicia
+Chalet,Lugar As Sequeiras,218000,3,27972,Pontevedra,Galicia
+Chalet,Piñeiro,350000,3,106,Pontevedra,Galicia
+Estudio,Calle Lepanto,128000,0,46,Pontevedra,Galicia
+Chalet,Calle do Gorgullón,385000,4,156,Pontevedra,Galicia
+Chalet,Portela s/n,298000,5,165,Pontevedra,Galicia
+Chalet,Lugar tumbio,235000,3,813,Pontevedra,Galicia
+Chalet,Tomiño,229000,4,164,Pontevedra,Galicia
+Chalet,barrio Oia,495000,4,130,Pontevedra,Galicia
+Ático,Sobradelo - Rosaleda,80000,2,79,Pontevedra,Galicia
+Piso,Calle Xulián Estévez,174000,3,84,Pontevedra,Galicia
+Chalet,Calle do Gorgullón,395000,4,158,Pontevedra,Galicia
+Piso,Centro - Echegaray,435000,5,178,Pontevedra,Galicia
+Piso,Avenida da Atlántida 98,410000,5,171,Pontevedra,Galicia
+Chalet,Mos,250000,3,91,Pontevedra,Galicia
+Chalet,Mos,880000,6,2060,Pontevedra,Galicia
+Chalet,Arbo,348000,4,142,Pontevedra,Galicia
+Duplex,Vilagarcía,220000,3,94,Pontevedra,Galicia
+Casa Rural,Tui,220000,0,357,Pontevedra,Galicia
+Piso,Teis,150000,3,116,Pontevedra,Galicia
+Piso,Calle de María Berdiales,174000,4,160,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 34,230000,3,96,Pontevedra,Galicia
+Piso,Centro - Echegaray,350000,3,112,Pontevedra,Galicia
+Chalet,Baiona,550000,5,165,Pontevedra,Galicia
+Chalet,Vilaboa,399000,3,88,Pontevedra,Galicia
+Chalet,Baiona,950000,5,30,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,260000,3,9,Pontevedra,Galicia
+Chalet,Redondela,183000,4,144,Pontevedra,Galicia
+Chalet,Cambados,300000,4,138,Pontevedra,Galicia
+Chalet,Teis,450000,7,1500,Pontevedra,Galicia
+Chalet,Mondariz,650000,5,600,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,250000,5,200,Pontevedra,Galicia
+Piso,Calle Ponte Arnelas,129000,2,70,Pontevedra,Galicia
+Chalet,Camos,1700000,4,6681,Pontevedra,Galicia
+Piso,Pedras negras c s/n,189000,3,91,Pontevedra,Galicia
+Chalet,As Neves,275000,4,5000,Pontevedra,Galicia
+Piso,Calle Santa Tegra 14,120000,1,37,Pontevedra,Galicia
+Casa Rural,Calle Concepción Arenal 21 -7,280000,1,106,Pontevedra,Galicia
+Ático,Travesía de Vigo,320000,4,110,Pontevedra,Galicia
+Chalet,Avenida Sta Mariña 172,415000,4,152,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,250000,5,197,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,330000,4,157,Pontevedra,Galicia
+Chalet,Bueu,170000,2,1100,Pontevedra,Galicia
+Chalet,O Grove,1800000,4,133,Pontevedra,Galicia
+Chalet,Teis,450000,7,350,Pontevedra,Galicia
+Piso,barrio Coia,248000,5,121,Pontevedra,Galicia
+Estudio,Calle da Falperra 44,98000,0,30,Pontevedra,Galicia
+Piso,Ramon Bares,181000,3,103,Pontevedra,Galicia
+Chalet,Camos,1700000,4,6681,Pontevedra,Galicia
+Chalet,Cruceiro,199000,4,143,Pontevedra,Galicia
+Piso,Calle Fontoura 26,125000,3,80,Pontevedra,Galicia
+Piso,Pedras negras c s/n,189000,3,91,Pontevedra,Galicia
+Chalet,Candean - Cabral,300000,4,153,Pontevedra,Galicia
+Piso,Calle do Ecuador,265000,4,110,Pontevedra,Galicia
+Piso,Calle de Tomás Paredes 216,106000,3,117,Pontevedra,Galicia
+Chalet,As Neves,275000,4,5000,Pontevedra,Galicia
+Piso,Calle do Alcalde Rey Daviña,295000,4,158,Pontevedra,Galicia
+Chalet,Valadares - Beade,329000,8,3063,Pontevedra,Galicia
+Piso,Calle Ponte Arnelas,129000,2,74,Pontevedra,Galicia
+Piso,Calle do Areal,255000,2,69,Pontevedra,Galicia
+Chalet,sestelo 7,185000,6,5270,Pontevedra,Galicia
+Chalet,La Toja s/n,3000000,10,639,Pontevedra,Galicia
+Chalet,Lugar Montalvo 3,250000,5,167,Pontevedra,Galicia
+Piso,Calle Cuba,320000,3,104,Pontevedra,Galicia
+Estudio,Teniente Domínguez 19,147000,0,25,Pontevedra,Galicia
+Piso,Calle de Vigo,250000,2,77,Pontevedra,Galicia
+Piso,Calle Angel Llanos 1,207000,2,71,Pontevedra,Galicia
+Piso,Calle Manuel de Castro 22,169000,4,144,Pontevedra,Galicia
+Chalet,Camino Pereiras,360000,5,950,Pontevedra,Galicia
+Piso,Calle de Zaragoza 44,245000,2,88,Pontevedra,Galicia
+Piso,Calle Caracas,315000,3,81,Pontevedra,Galicia
+Piso,Calle de Vigo,218000,3,115,Pontevedra,Galicia
+Chalet,Calle BUDIÑO 5,220000,3,580,Pontevedra,Galicia
+Piso,Colón,410000,3,86,Pontevedra,Galicia
+Piso,Aldea o Riveiro,59900,3,85,Pontevedra,Galicia
+Piso,Calle de Rosalía de Castro,525000,4,150,Pontevedra,Galicia
+Chalet,Calle Policarpo Sanz,695000,3,229,Pontevedra,Galicia
+Piso,Calle de Zaragoza 44,245000,2,88,Pontevedra,Galicia
+Piso,Calle de Urzaiz,215000,2,72,Pontevedra,Galicia
+Piso,Plaza 8 de Marzo,230000,3,111,Pontevedra,Galicia
+Piso,Calle Angel Llanos 1,207000,2,65,Pontevedra,Galicia
+Piso,Colón,410000,3,99,Pontevedra,Galicia
+Ático,LUGAR FONTE DE ONS 64,109900,1,59,Pontevedra,Galicia
+Piso,Via del Norte,300000,4,120,Pontevedra,Galicia
+Piso,Avenida de García Barbón,210000,4,138,Pontevedra,Galicia
+Duplex,Avenida de García Barbón 38,620000,5,270,Pontevedra,Galicia
+Piso,Calle San Mauro,195000,2,68,Pontevedra,Galicia
+Piso,Calle do Ecuador,349000,3,83,Pontevedra,Galicia
+Chalet,Calle da Paz,130000,3,99,Pontevedra,Galicia
+Chalet,san damian 7,750000,8,315,Pontevedra,Galicia
+Ático,Calle Madrid 56,600000,3,28,Pontevedra,Galicia
+Casa Rural,Toimil s/n,480000,7,856,Pontevedra,Galicia
+Piso,Aragón,159000,2,72,Pontevedra,Galicia
+Piso,Calle de Vigo,218000,3,112,Pontevedra,Galicia
+Chalet,Calle Redondo,820000,5,500,Pontevedra,Galicia
+Chalet,Calle 15 de Octubre 4,250000,3,110,Pontevedra,Galicia
+Chalet,Camino Pereiras,360000,5,950,Pontevedra,Galicia
+Piso,Calle CENTRO 5,100000,2,74,Pontevedra,Galicia
+Ático,Calle Senén Canido 5,84200,3,83,Pontevedra,Galicia
+Piso,Calle Manuel de Castro 22,169000,4,143,Pontevedra,Galicia
+Piso,Calle da Reconquista,750000,5,230,Pontevedra,Galicia
+Piso,Aldea o Riveiro,59900,3,85,Pontevedra,Galicia
+Piso,Calle de Rosalía de Castro,525000,4,150,Pontevedra,Galicia
+Duplex,Calle Martín Códax 4,189000,2,78,Pontevedra,Galicia
+Piso,Calle do Gorgullón,265000,3,94,Pontevedra,Galicia
+Chalet,Camino Matamá Pazo-Comesaña,490000,5,500,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,550000,5,165,Pontevedra,Galicia
+Chalet,Barrio Outeiro,350000,4,123,Pontevedra,Galicia
+Casa Rural,Lugar Casqueiros 27,38500,2,69,Pontevedra,Galicia
+Piso,Cervantes,405000,3,91,Pontevedra,Galicia
+Chalet,Lugar Toedo,330000,8,4000,Pontevedra,Galicia
+Ático,Calle Luis Vidal Rocha,390000,2,128,Pontevedra,Galicia
+Chalet,Calle de Recanles,1100000,7,3000,Pontevedra,Galicia
+Piso,Avenida Outeiro,160000,3,114,Pontevedra,Galicia
+Piso,Calle Martín Códax 4,182000,2,80,Pontevedra,Galicia
+Piso,Avenida Gran Via,315000,5,182,Pontevedra,Galicia
+Piso,Avenida dos Loureiros,205000,2,83,Pontevedra,Galicia
+Chalet,Calle de Recanles,1100000,7,3000,Pontevedra,Galicia
+Piso,TORRECEDEIRA,220000,3,99,Pontevedra,Galicia
+Piso,Calle Martín Códax 4,182000,2,63,Pontevedra,Galicia
+Casa Rural,Lugar Casqueiros 27,38500,2,69,Pontevedra,Galicia
+Chalet,Camino Matamá Pazo-Comesaña,490000,5,500,Pontevedra,Galicia
+Piso,Cervantes,405000,3,118,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,550000,5,182,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,580000,6,45,Pontevedra,Galicia
+Chalet,Pereiras- Rabadeiro,385000,4,400,Pontevedra,Galicia
+Chalet,Tomiño,259000,6,1300,Pontevedra,Galicia
+Chalet,barrio Casco Vello,695000,3,100,Pontevedra,Galicia
+Chalet,Bembrive,450000,4,149,Pontevedra,Galicia
+Duplex,Calle de Pura Pérez Prado,280000,3,133,Pontevedra,Galicia
+Piso,Calle do Pracer,125000,1,45,Pontevedra,Galicia
+Chalet,Pereiras- Rabadeiro,365000,4,220,Pontevedra,Galicia
+Chalet,O Hío,580000,4,1400,Pontevedra,Galicia
+Chalet,Calle Parada,595000,4,124,Pontevedra,Galicia
+Chalet,Tomiño,650000,10,660,Pontevedra,Galicia
+Chalet,Bembrive,450000,4,158,Pontevedra,Galicia
+Chalet,Calle de Fontepesada,275000,5,450,Pontevedra,Galicia
+Casa Rural,castro 21,70000,3,115,Pontevedra,Galicia
+Chalet,Calle Revolta Noalla,240000,3,102,Pontevedra,Galicia
+Piso,Calle Vázquez Varela 19,380000,6,44,Pontevedra,Galicia
+Piso,Calle de Alfonso XIII,240000,4,127,Pontevedra,Galicia
+Chalet,Camos,795000,4,149,Pontevedra,Galicia
+Piso,Calle do Conde de Torrecedeira,220000,3,93,Pontevedra,Galicia
+Chalet,Reguenga 13,78000,3,230,Pontevedra,Galicia
+Piso,Avenida de García Barbón,255000,3,93,Pontevedra,Galicia
+Piso,Avenida de la Concordia s/n,180000,3,80,Pontevedra,Galicia
+Piso,Avenida de la Concordia s/n,150000,2,62,Pontevedra,Galicia
+Piso,Avenida de la Concordia s/n,180000,3,107,Pontevedra,Galicia
+Chalet,quintelas dos iglesias 15,87000,3,94,Pontevedra,Galicia
+Chalet,Poblado Carral 7,85000,3,781,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 33,240000,2,70,Pontevedra,Galicia
+Piso,barrio Casablanca - Calvario,200000,3,106,Pontevedra,Galicia
+Chalet,Tomiño,328000,4,125,Pontevedra,Galicia
+Chalet,Moaña,289000,4,200,Pontevedra,Galicia
+Chalet,Lugar a Lanzada 45,380000,6,214,Pontevedra,Galicia
+Chalet,Salceda de Caselas,185000,6,676,Pontevedra,Galicia
+Chalet,quintelas dos iglesias 15,87000,3,115,Pontevedra,Galicia
+Chalet,Camino da Tilleira,365000,5,600,Pontevedra,Galicia
+Ático,Calle Gatañal,180000,3,45,Pontevedra,Galicia
+Chalet,Mondariz,165000,5,168,Pontevedra,Galicia
+Chalet,Moaña,289000,4,200,Pontevedra,Galicia
+Casa Rural,Covas s/n,115000,5,112,Pontevedra,Galicia
+Piso,Calle de Madrid 15,240000,2,79,Pontevedra,Galicia
+Chalet,PO-308 26,450000,3,87,Pontevedra,Galicia
+Chalet,Salceda de Caselas,185000,6,676,Pontevedra,Galicia
+Piso,Avenida BENITO VIGO 119,148000,4,156,Pontevedra,Galicia
+Chalet,Calle Corpiño 43,120000,3,107,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 18,265000,3,100,Pontevedra,Galicia
+Chalet,Poblado Carral 7,85000,3,781,Pontevedra,Galicia
+Piso,barrio Casablanca - Calvario,200000,3,84,Pontevedra,Galicia
+Chalet,Villalonga,330000,4,337,Pontevedra,Galicia
+Chalet,Lugar a Lanzada 45,380000,6,216,Pontevedra,Galicia
+Casa Rural,Lugar de Outeiro Loson 1,120000,3,8911,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 33,240000,2,72,Pontevedra,Galicia
+Chalet,Tomiño,328000,4,127,Pontevedra,Galicia
+Piso,Avenida Luis Rocafort 24,200000,2,76,Pontevedra,Galicia
+Piso,Calle Lugo 10 -2,106320,2,66,Pontevedra,Galicia
+Chalet,Camino Subida Cedeira,950000,3,6500,Pontevedra,Galicia
+Piso,Calle Uruguay,350000,4,125,Pontevedra,Galicia
+Piso,Calle Cristo 28,110000,4,100,Pontevedra,Galicia
+Chalet,Avenida Santa Mariña,200000,4,74,Pontevedra,Galicia
+Chalet,Calle Escalinata,215000,5,262,Pontevedra,Galicia
+Chalet,Calle CALDELAS - SOUTO DE ENGARDE 23,122550,4,600,Pontevedra,Galicia
+Chalet,Camino Vella de Madrid,700000,5,1500,Pontevedra,Galicia
+Chalet,Calle Devesa Santa Tegra,190000,5,75,Pontevedra,Galicia
+Chalet,Calle Outeiro,2500000,6,30000,Pontevedra,Galicia
+Piso,Calle Lepanto,495000,5,184,Pontevedra,Galicia
+Piso,Calle Zamora,199500,4,25,Pontevedra,Galicia
+Piso,Cervantes,375000,3,108,Pontevedra,Galicia
+Chalet,Lugar As Sequeiras 35,218000,3,20,Pontevedra,Galicia
+Ático,Calle Luis A Mestre 53,153000,3,97,Pontevedra,Galicia
+Piso,Menendez Pelayo,135000,3,87,Pontevedra,Galicia
+Chalet,Sobradelo - Rosaleda,107000,1,55,Pontevedra,Galicia
+Piso,Calle da Coruña 11 -1,129500,3,94,Pontevedra,Galicia
+Chalet,Gandarela,198000,4,4600,Pontevedra,Galicia
+Piso,Travesía de Vigo,175000,3,15,Pontevedra,Galicia
+Piso,Calle Zamora,199500,4,25,Pontevedra,Galicia
+Chalet,Camino da Montana 31 -27,600000,4,134,Pontevedra,Galicia
+Piso,Calle Santa Tegra,120000,1,59,Pontevedra,Galicia
+Chalet,Camino da Mo 5,67000,1,43,Pontevedra,Galicia
+Ático,Calle de Urzaiz 55,260000,4,120,Pontevedra,Galicia
+Chalet,Lugar Soutullo,340000,4,240,Pontevedra,Galicia
+Duplex,Concepción Arenal 1,220000,4,144,Pontevedra,Galicia
+Ático,canonigo valiño,175000,3,87,Pontevedra,Galicia
+Chalet,Penide,329900,5,185,Pontevedra,Galicia
+Casa Rural,Camino Outeiro de Reboreda,700000,4,11000,Pontevedra,Galicia
+Piso,Avenida Hispanidade,148000,1,53,Pontevedra,Galicia
+Piso,Avenida Médico Ballina,145000,2,136,Pontevedra,Galicia
+Piso,Calle Illa Canosa 80,294500,4,35,Pontevedra,Galicia
+Chalet,Avenida da Atlántida,599000,4,153,Pontevedra,Galicia
+Duplex,Calle Angel Llanos,207000,2,79,Pontevedra,Galicia
+Chalet,Urbanizacion San Bieito,191000,4,138,Pontevedra,Galicia
+Piso,Calle do Areal,150000,2,75,Pontevedra,Galicia
+Chalet,Calle PERIFERIA 5,228000,3,102,Pontevedra,Galicia
+Piso,Calle Mercado 13 A,93000,2,74,Pontevedra,Galicia
+Piso,Vista Alegre,138000,2,62,Pontevedra,Galicia
+Ático,Calle Victoriano Pérez Vidal 30,116500,3,118,Pontevedra,Galicia
+Chalet,Plaza Major 114 D,446000,4,143,Pontevedra,Galicia
+Ático,Lugar Areas 3 A,260000,2,85,Pontevedra,Galicia
+Piso,Calle San Francisco,110000,3,64,Pontevedra,Galicia
+Chalet,Camino do Cabazo 5,394000,3,200,Pontevedra,Galicia
+Chalet,Isla de La Toja s/n,1650000,5,172,Pontevedra,Galicia
+Piso,Avenida de Balaídos,180000,4,114,Pontevedra,Galicia
+Piso,Camino Ponteareas 2,95000,2,64,Pontevedra,Galicia
+Estudio,Calle de Sanjurjo Badía,120000,0,55,Pontevedra,Galicia
+Piso,Plaza da Curtidoira,295000,3,84,Pontevedra,Galicia
+Piso,Avenida do Fragoso,170000,4,115,Pontevedra,Galicia
+Chalet,Camino dos Medeiros,260000,6,30,Pontevedra,Galicia
+Chalet,Avenida ramallosa centro,600000,3,87,Pontevedra,Galicia
+Ático,Calle Profesor Hermida 8,350000,2,40,Pontevedra,Galicia
+Piso,Calle JOAQUIN FERNANDEZ SESTELO 5,112500,3,117,Pontevedra,Galicia
+Piso,Calle de Barcelona 71,176000,2,78,Pontevedra,Galicia
+Piso,Calle FONTOURA 22,97000,2,78,Pontevedra,Galicia
+Piso,Plaza Francisco Fernández del Riego 9,365000,2,94,Pontevedra,Galicia
+Chalet,Calle Santa Lucía 4,180000,2,75,Pontevedra,Galicia
+Piso,Calle Maruja Gutiérrez,43605,3,120,Pontevedra,Galicia
+Chalet,Calle Valado,2500000,16,2000,Pontevedra,Galicia
+Chalet,Lugar a Aldea,275000,4,268,Pontevedra,Galicia
+Casa Rural,Camino da Costa do Xenio 17,236500,6,1200,Pontevedra,Galicia
+Piso,Plaza da Curtidoira,295000,3,95,Pontevedra,Galicia
+Piso,Calle JOAQUIN FERNANDEZ SESTELO 5,112500,3,84,Pontevedra,Galicia
+Ático,Calle de Urzaiz 55,260000,4,120,Pontevedra,Galicia
+Ático,Lugar Areas 3 A,260000,2,85,Pontevedra,Galicia
+Chalet,Calle Santa Lucía 4,180000,2,68,Pontevedra,Galicia
+Piso,Avenida do Fragoso,170000,4,115,Pontevedra,Galicia
+Chalet,Isla de La Toja s/n,1650000,5,170,Pontevedra,Galicia
+Piso,Pedaporta 49,187000,3,99,Pontevedra,Galicia
+Piso,Calle do Príncipe,200000,5,175,Pontevedra,Galicia
+Chalet,Camino da Landreira,690000,5,162,Pontevedra,Galicia
+Ático,Calle Madrid 56,700000,3,83,Pontevedra,Galicia
+Piso,Calle de Tomás Paredes,106000,3,98,Pontevedra,Galicia
+Chalet,Carretera Barrocas-Valladares,449900,8,1160,Pontevedra,Galicia
+Chalet,Camino de Miranxe,420000,3,103,Pontevedra,Galicia
+Piso,Av Ramon Nieto,189000,3,103,Pontevedra,Galicia
+Chalet,Calle Fuchiños,1200000,5,199,Pontevedra,Galicia
+Chalet,Área,165000,5,270,Pontevedra,Galicia
+Piso,Calle Paio Gómez de Soutomaior,92150,3,122,Pontevedra,Galicia
+Chalet,A costa do Laton,280000,4,289,Pontevedra,Galicia
+Chalet,Real,400000,3,364,Pontevedra,Galicia
+Piso,Calle Jaime Janer,85000,3,117,Pontevedra,Galicia
+Piso,Urzaiz,345000,3,80,Pontevedra,Galicia
+Chalet,Lugar Berducedo O Piñeiro,280000,4,176,Pontevedra,Galicia
+Piso,Via Gran Via,360000,4,149,Pontevedra,Galicia
+Duplex,Bordóns-Dorrón,160000,2,84,Pontevedra,Galicia
+Chalet,Calle do Prado das Barxas,750000,6,300,Pontevedra,Galicia
+Duplex,Lugar Granxa 78,159000,2,73,Pontevedra,Galicia
+Piso,Calle Ourense 24,315000,3,111,Pontevedra,Galicia
+Chalet,Calle Soutelo 17,95000,3,98,Pontevedra,Galicia
+Chalet,Camino da Torriña,1000000,5,521,Pontevedra,Galicia
+Piso,Calle Conde de Torrecedeira,220000,3,105,Pontevedra,Galicia
+Chalet,Calle a Ponte Nova,450000,3,98,Pontevedra,Galicia
+Ático,Avenida de León 1,490000,3,105,Pontevedra,Galicia
+Piso,Calle Fotógrafo Xosé Gil 24,245000,3,80,Pontevedra,Galicia
+Piso,Calle da Coruña,190000,4,154,Pontevedra,Galicia
+Piso,Calle da Coruña 26,230000,4,142,Pontevedra,Galicia
+Chalet,lugar pombal,850000,5,162,Pontevedra,Galicia
+Chalet,Camino lugar bouza baredo,360000,3,110,Pontevedra,Galicia
+Piso,Via Gran Via,360000,4,124,Pontevedra,Galicia
+Piso,Calle do Príncipe,200000,5,175,Pontevedra,Galicia
+Ático,Avenida de León 1,490000,3,105,Pontevedra,Galicia
+Chalet,Alto Lourido,1250000,9,200,Pontevedra,Galicia
+Piso,Calle Conde de Torrecedeira,220000,3,83,Pontevedra,Galicia
+Chalet,Área,165000,5,270,Pontevedra,Galicia
+Chalet,Calle forcarei,220000,5,35,Pontevedra,Galicia
+Chalet,Camino de Miranxe,420000,3,100,Pontevedra,Galicia
+Duplex,Bordóns-Dorrón,160000,2,84,Pontevedra,Galicia
+Chalet,Carretera Igrexa Roteas 57,498000,6,202,Pontevedra,Galicia
+Duplex,Lugar Granxa 78,159000,2,74,Pontevedra,Galicia
+Chalet,Camino da Torriña,1000000,5,521,Pontevedra,Galicia
+Ático,Calle Ourense 24,385000,2,67,Pontevedra,Galicia
+Piso,Calle Fonte de Ramos 2,295000,3,3,Pontevedra,Galicia
+Piso,Calle da Coruña 26,230000,4,125,Pontevedra,Galicia
+Chalet,Calle do Prado das Barxas,750000,6,300,Pontevedra,Galicia
+Piso,Calle Abeleira Menéndez,260000,3,114,Pontevedra,Galicia
+Chalet,Carretera Barrocas-Valladares,449900,8,1160,Pontevedra,Galicia
+Chalet,Calle Pallanes,220000,2,70,Pontevedra,Galicia
+Chalet,Camino do Correlo,395000,4,7000,Pontevedra,Galicia
+Chalet,Carregal de arriba,785000,5,10000,Pontevedra,Galicia
+Piso,Calle Manuel de Castro 24,121400,1,40,Pontevedra,Galicia
+Chalet,Lugar Sequeiros 11,55000,3,84,Pontevedra,Galicia
+Piso,Avenida BENITO VIGO,125000,3,102,Pontevedra,Galicia
+Piso,Avenida Conde de Bugallal,165000,2,70,Pontevedra,Galicia
+Piso,Plaza de Portugal,350000,3,35,Pontevedra,Galicia
+Piso,Alcalde José Ramón Fontán,320000,3,108,Pontevedra,Galicia
+Piso,PIZARRO,295000,2,67,Pontevedra,Galicia
+Chalet,Lugar As Lombas 24,275000,4,5,Pontevedra,Galicia
+Chalet,Lugar de Borraseiros,495000,6,6000,Pontevedra,Galicia
+Piso,Calle México,235000,2,62,Pontevedra,Galicia
+Piso,Calle de Pi y Margall,395000,4,156,Pontevedra,Galicia
+Chalet,Lugar Coruxeira 39,160000,3,84,Pontevedra,Galicia
+Chalet,Calle Doctor Martín Lago,167000,3,90,Pontevedra,Galicia
+Chalet,Camino da Balsa,550000,5,166,Pontevedra,Galicia
+Chalet,Eidos,550000,5,2000,Pontevedra,Galicia
+Chalet,Camino do Vao,749000,6,1200,Pontevedra,Galicia
+Chalet,Calle Gorgoreiro 85,165000,3,88,Pontevedra,Galicia
+Chalet,Vilares,450000,5,357,Pontevedra,Galicia
+Piso,Calle Brasil,247000,4,147,Pontevedra,Galicia
+Chalet,Camino da Balsa,550000,5,189,Pontevedra,Galicia
+Duplex,Calle Puerto Rico,515000,5,35,Pontevedra,Galicia
+Chalet,Calle MOLEDO,420000,7,253,Pontevedra,Galicia
+Piso,Calle do Ecuador,320000,5,181,Pontevedra,Galicia
+Piso,Calle Policarpo Sanz,550000,3,130,Pontevedra,Galicia
+Piso,Paseo de Alfonso XII 35,450000,4,156,Pontevedra,Galicia
+Chalet,Nande,499000,6,216,Pontevedra,Galicia
+Piso,Calle de Pi y Margall,395000,4,131,Pontevedra,Galicia
+Chalet,Camino de Parada,435000,5,173,Pontevedra,Galicia
+Chalet,Lugar Sequeiros 11,55000,3,102,Pontevedra,Galicia
+Chalet,Borreiros,650000,4,150,Pontevedra,Galicia
+Piso,Calle Manuel de Castro 24,121400,1,60,Pontevedra,Galicia
+Chalet,Camino do Correlo,395000,4,7000,Pontevedra,Galicia
+Piso,BENITO VIGO,125000,3,113,Pontevedra,Galicia
+Chalet,Mos,120000,3,118,Pontevedra,Galicia
+Piso,Calle do Ecuador,378000,3,83,Pontevedra,Galicia
+Chalet,Villadesuso carretera de la costa,380000,4,215,Pontevedra,Galicia
+Chalet,N-550,298000,3,120,Pontevedra,Galicia
+Chalet,Lugar cabo da rańa 11,185000,3,13848,Pontevedra,Galicia
+Ático,Travesía Oliva 4,38000,1,122,Pontevedra,Galicia
+Chalet,Calle os Eidos 3,380000,4,144,Pontevedra,Galicia
+Piso,Calle Trovador Xoán García de Guillade 24,155000,3,10600,Pontevedra,Galicia
+Piso,Calle de Nicaragua,239000,3,95,Pontevedra,Galicia
+Piso,Calle de Venezuela,497500,4,45,Pontevedra,Galicia
+Piso,Calle Xulián Estévez 8,169000,3,99,Pontevedra,Galicia
+Chalet,Calle caldela 36,271000,5,171,Pontevedra,Galicia
+Duplex,Calle do Ecuador,482550,3,160,Pontevedra,Galicia
+Chalet,Lugar O Tombo,675000,4,125,Pontevedra,Galicia
+Chalet,Calle dos Ferreiros 9,89000,6,321,Pontevedra,Galicia
+Chalet,Tabagón s/n,170000,3,89,Pontevedra,Galicia
+Piso,Calle de Madrid,360000,2,67,Pontevedra,Galicia
+Chalet,Mondariz-Balneario,300000,5,3200,Pontevedra,Galicia
+Duplex,Camino de Frían,250000,4,159,Pontevedra,Galicia
+Piso,Calle do Brasil,110000,1,59,Pontevedra,Galicia
+Piso,Sanxenxo,230000,2,76,Pontevedra,Galicia
+Chalet,Lugar Piñoi,175000,3,89,Pontevedra,Galicia
+Piso,Avenida do Conde de Bugallal,195000,3,90,Pontevedra,Galicia
+Piso,Calle Echegaray,139000,3,97,Pontevedra,Galicia
+Ático,Calle JOAQUIN FDEZ SESTELO 5,105000,3,95,Pontevedra,Galicia
+Piso,Calle do Areal,670000,3,102,Pontevedra,Galicia
+Chalet,Avenida Ricardo Mella,650000,6,234,Pontevedra,Galicia
+Chalet,Candean - Cabral,300000,4,927,Pontevedra,Galicia
+Piso,Calle de Ignacio Grobas,145000,1,43,Pontevedra,Galicia
+Chalet,Ponteareas,165000,7,295,Pontevedra,Galicia
+Chalet,Camino das Muradas,95000,2,67,Pontevedra,Galicia
+Chalet,Camino Pomar,1400000,6,230,Pontevedra,Galicia
+Piso,Travesía de Vigo,145000,3,115,Pontevedra,Galicia
+Piso,Calle de Luis Taboada,617000,5,174,Pontevedra,Galicia
+Chalet,Calle Riveiro,139000,5,336,Pontevedra,Galicia
+Chalet,Lugar O Contrasto,273000,4,294,Pontevedra,Galicia
+Piso,Travesía de Vigo,200000,3,111,Pontevedra,Galicia
+Chalet,Calle Tui,155000,5,1235,Pontevedra,Galicia
+Chalet,Calle Gondomar,195000,4,272,Pontevedra,Galicia
+Chalet,Calle Ramón Peinador,165000,5,199,Pontevedra,Galicia
+Piso,Calle do Couto,360000,3,112,Pontevedra,Galicia
+Chalet,Calle FILLABOA,220000,4,2750,Pontevedra,Galicia
+Chalet,Carretera Baiona - A Guarda,355000,4,281,Pontevedra,Galicia
+Chalet,Lugar Rotea 34,169000,4,600,Pontevedra,Galicia
+Piso,Calle da Coruña,190000,4,103,Pontevedra,Galicia
+Piso,Calle de Salvaterra,95000,2,103,Pontevedra,Galicia
+Chalet,AREA DA BARCA,350000,4,137,Pontevedra,Galicia
+Chalet,Calle Montino de Paradela,269000,6,306,Pontevedra,Galicia
+Piso,Avenida de Portugal,190000,2,70,Pontevedra,Galicia
+Piso,O Burgo - Campus Universitario,250000,3,119,Pontevedra,Galicia
+Chalet,Calle Escultor Acuña,795000,4,142,Pontevedra,Galicia
+Chalet,Magalans,324995,5,196,Pontevedra,Galicia
+Piso,Travesía de Vigo,280000,4,170,Pontevedra,Galicia
+Chalet,Camino Fragoselo,225000,5,172,Pontevedra,Galicia
+Piso,Avenida das Camelias,405000,5,176,Pontevedra,Galicia
+Piso,Calle Manuel de Castro,125000,1,53,Pontevedra,Galicia
+Piso,Avenida San Xoán,115000,2,60,Pontevedra,Galicia
+Piso,Calle da Coruña,159000,2,74,Pontevedra,Galicia
+Piso,Calle do Miño,95000,2,67,Pontevedra,Galicia
+Piso,Avenida de Santo Domingo de Guzmán,145000,3,92,Pontevedra,Galicia
+Piso,Paseo de Calvo Sotelo,120000,3,91,Pontevedra,Galicia
+Piso,Calle Pintor Laxeiro,250000,4,120,Pontevedra,Galicia
+Chalet,Aldea Fraga,280000,5,170,Pontevedra,Galicia
+Chalet,Calle Rotea,166000,3,700,Pontevedra,Galicia
+Piso,Avenida Gran Via 104,340000,4,165,Pontevedra,Galicia
+Chalet,Lugar a Igrexa,450000,5,161,Pontevedra,Galicia
+Piso,Calle Don Pedro,450000,3,110,Pontevedra,Galicia
+Chalet,Calle Casal de Arriba,270000,4,250,Pontevedra,Galicia
+Piso,Avenida santa mariña 24,139000,3,103,Pontevedra,Galicia
+Chalet,Casal,225000,3,150,Pontevedra,Galicia
+Chalet,PO-350,210000,4,248,Pontevedra,Galicia
+Casa Rural,Bouza Da Laxe,570000,5,1900,Pontevedra,Galicia
+Chalet,Calle Illa de Ons,590000,4,254,Pontevedra,Galicia
+Chalet,Lugar Sar,127000,1,51,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,69,Pontevedra,Galicia
+Piso,Avenida de Ramón Nieto,335000,6,229,Pontevedra,Galicia
+Chalet,Lugar O Couto,163000,5,516,Pontevedra,Galicia
+Piso,torrecedeira 38,220000,3,97,Pontevedra,Galicia
+Chalet,Camino Urxeira Chancelas,595000,4,867,Pontevedra,Galicia
+Piso,A Guarda,79000,1,10,Pontevedra,Galicia
+Piso,Calle de Sanjurjo Badía,98000,3,80,Pontevedra,Galicia
+Piso,Calle de Urzaiz,260000,2,76,Pontevedra,Galicia
+Chalet,Lugar a Gandara,192000,3,899,Pontevedra,Galicia
+Chalet,Calle da Fonte Escura,170000,5,165,Pontevedra,Galicia
+Chalet,aldea RAMO,275000,4,133,Pontevedra,Galicia
+Piso,Calle Garda 9,250000,4,151,Pontevedra,Galicia
+Piso,Calle da Coruña,298000,4,128,Pontevedra,Galicia
+Chalet,Calle oscura,297000,4,147,Pontevedra,Galicia
+Chalet,Camino sen nome,240000,3,82,Pontevedra,Galicia
+Piso,Alcabre,275000,5,160,Pontevedra,Galicia
+Chalet,Camino da calzada,245000,2,66,Pontevedra,Galicia
+Piso,Avenida do Fragoso,175000,4,120,Pontevedra,Galicia
+Piso,Calle Inés Pérez de Ceta,310000,3,101,Pontevedra,Galicia
+Piso,Avenida Gran Via 104,340000,4,165,Pontevedra,Galicia
+Chalet,Lugar O Hospital,179000,4,338,Pontevedra,Galicia
+Chalet,Covelo - Saiáns 45,170000,5,196,Pontevedra,Galicia
+Chalet,Lugar San Xian,215000,6,384,Pontevedra,Galicia
+Piso,Calle Taboada Leal 11,249000,3,137,Pontevedra,Galicia
+Chalet,Lugar Carregal de Abaixo,195000,3,165,Pontevedra,Galicia
+Chalet,Camino da Cachada,184000,3,113,Pontevedra,Galicia
+Chalet,Lugar Bajada a la Armona,450000,4,300,Pontevedra,Galicia
+Chalet,Calle Rotea,166000,3,700,Pontevedra,Galicia
+Chalet,isla de la toja,1380000,8,303,Pontevedra,Galicia
+Piso,Calle Doutor Carlos Colmeiro Laforet,570000,5,261,Pontevedra,Galicia
+Piso,Calle Calvario,115000,3,101,Pontevedra,Galicia
+Chalet,Lugar Carregal de Abaixo,195000,3,165,Pontevedra,Galicia
+Piso,torrecedeira 38,220000,3,89,Pontevedra,Galicia
+Piso,Calle Taboada Leal 11,249000,3,137,Pontevedra,Galicia
+Casa Rural,Bouza Da Laxe,570000,5,1900,Pontevedra,Galicia
+Piso,Calle Vázquez Varela,260000,5,142,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,69,Pontevedra,Galicia
+Piso,A Guarda,79000,1,10,Pontevedra,Galicia
+Piso,Avenida de Ramón Nieto,335000,6,248,Pontevedra,Galicia
+Piso,Calle de Venezuela,497500,4,200,Pontevedra,Galicia
+Piso,O Porriño,120000,2,70,Pontevedra,Galicia
+Chalet,Calle Tomada,230000,4,137,Pontevedra,Galicia
+Chalet,Calle Gagos Mendoza,325000,4,236,Pontevedra,Galicia
+Chalet,Toural,270000,4,122,Pontevedra,Galicia
+Piso,Alcabre,330000,2,79,Pontevedra,Galicia
+Piso,Avenida de Vigo 93,179000,2,67,Pontevedra,Galicia
+Piso,Calle Rodríguez Seoane,189000,3,90,Pontevedra,Galicia
+Chalet,Carabelos Mourente,350000,4,130,Pontevedra,Galicia
+Piso,colon,410000,3,119,Pontevedra,Galicia
+Ático,Travesía Viñas 3ª,149000,2,50,Pontevedra,Galicia
+Chalet,O Muiño,330000,5,179,Pontevedra,Galicia
+Piso,Calle Doutor Clemente Echeverría Novoa,170000,3,95,Pontevedra,Galicia
+Piso,Avenida de Vigo,360000,4,150,Pontevedra,Galicia
+Chalet,Avenida Chancelas,165000,3,112,Pontevedra,Galicia
+Chalet,Camino Lugar Eidos,550000,5,2245,Pontevedra,Galicia
+Chalet,Pontevedra,430000,4,130,Pontevedra,Galicia
+Duplex,barrio Camelias - Pi y Margall,299000,6,225,Pontevedra,Galicia
+Piso,Plaza isabel la catolica,300000,4,145,Pontevedra,Galicia
+Duplex,Campo do Boi,235000,2,60,Pontevedra,Galicia
+Chalet,Tomiño,150000,2,111,Pontevedra,Galicia
+Piso,oliva,375000,5,140,Pontevedra,Galicia
+Piso,Vilagarcía,150000,3,100,Pontevedra,Galicia
+Chalet,O Carril - Bamio,69900,3,107,Pontevedra,Galicia
+Chalet,barrio Coruxo,599000,4,147,Pontevedra,Galicia
+Piso,Calle de Julia Minguillón,240000,4,128,Pontevedra,Galicia
+Chalet,Bueu,125000,3,485,Pontevedra,Galicia
+Piso,barrio Berbés - Peritos,220000,3,100,Pontevedra,Galicia
+Chalet,Panxón,580000,4,300,Pontevedra,Galicia
+Piso,barrio Centro - Areal,589000,2,20,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,349000,3,117,Pontevedra,Galicia
+Piso,Centro,199000,3,113,Pontevedra,Galicia
+Piso,barrio Centro - Areal,589000,2,20,Pontevedra,Galicia
+Piso,Avenida Gran Via 176 r,315000,4,10,Pontevedra,Galicia
+Chalet,Cornazo - Rubianes,185000,5,170,Pontevedra,Galicia
+Piso,Calle de Venezuela,343000,5,171,Pontevedra,Galicia
+Piso,Sobrán,85000,3,104,Pontevedra,Galicia
+Piso,alfonso XIII,240000,4,159,Pontevedra,Galicia
+Piso,Calle Xulián Estévez 32,189000,3,91,Pontevedra,Galicia
+Piso,barrio Fátima,300000,4,126,Pontevedra,Galicia
+Chalet,Candean - Cabral,425000,4,124,Pontevedra,Galicia
+Piso,Vilagarcía,135000,3,118,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,349000,3,97,Pontevedra,Galicia
+Piso,Calle Paulino Freire,450000,5,175,Pontevedra,Galicia
+Chalet,Sanxenxo,990000,8,1800,Pontevedra,Galicia
+Piso,Avenida Gran Via,185000,4,119,Pontevedra,Galicia
+Piso,Benito Vigo 119,148000,3,141,Pontevedra,Galicia
+Chalet,PO-552,140000,4,129,Pontevedra,Galicia
+Chalet,Barro San Miguel,240000,5,87,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,86,Pontevedra,Galicia
+Piso,venezuela,299000,3,80,Pontevedra,Galicia
+Chalet,Moraña,195000,4,5312,Pontevedra,Galicia
+Chalet,Calle Gaifar,385000,4,160,Pontevedra,Galicia
+Piso,Calle de Sanjurjo Badía,130000,4,153,Pontevedra,Galicia
+Chalet,Ponteareas,33000,0,45,Pontevedra,Galicia
+Chalet,Calle de Atín,58000,3,2153,Pontevedra,Galicia
+Piso,Calle Policarpo Sanz,325000,2,79,Pontevedra,Galicia
+Piso,Calle Manuel Rodríguez,120000,2,71,Pontevedra,Galicia
+Piso,Camino do Sobreiro,155000,1,43,Pontevedra,Galicia
+Chalet,Camino da Raposa,219000,4,416,Pontevedra,Galicia
+Chalet,Vilameán,350000,4,70,Pontevedra,Galicia
+Chalet,Portelo,475000,4,550,Pontevedra,Galicia
+Piso,Fontes,182000,3,100,Pontevedra,Galicia
+Piso,Calle dos Mestres,110000,3,85,Pontevedra,Galicia
+Piso,Alfonso Vázquez Fraile,110000,3,100,Pontevedra,Galicia
+Duplex,Avenida Enrique Peinador Vela,155000,3,104,Pontevedra,Galicia
+Piso,Leandro Diz,149000,3,120,Pontevedra,Galicia
+Chalet,Porteliña,300000,4,203,Pontevedra,Galicia
+Chalet,Barrio Piñeiro Peitieiros,350000,3,145,Pontevedra,Galicia
+Piso,Camelias,130000,3,91,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,69,Pontevedra,Galicia
+Chalet,Camino Raposa,219000,4,542,Pontevedra,Galicia
+Chalet,EP-9203,750000,4,140,Pontevedra,Galicia
+Piso,Camelias,130000,3,80,Pontevedra,Galicia
+Chalet,Lugar Vento - padriñan,379000,4,152,Pontevedra,Galicia
+Chalet,Ponteareas,33000,1,2000,Pontevedra,Galicia
+Piso,Calle Caldas de Reis 7,145000,3,81,Pontevedra,Galicia
+Chalet,arquitecto gomez roman,990000,4,152,Pontevedra,Galicia
+Chalet,Revolta Parderrubias,249000,3,816,Pontevedra,Galicia
+Chalet,Urcela,228000,3,30,Pontevedra,Galicia
+Chalet,Calle de Canido,550000,3,88,Pontevedra,Galicia
+Chalet,Porteliña,300000,4,203,Pontevedra,Galicia
+Chalet,Pancenteo,239000,3,600,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,69,Pontevedra,Galicia
+Chalet,Mondariz-Balneario,245000,4,138,Pontevedra,Galicia
+Casa Rural,Lalin,395000,5,309,Pontevedra,Galicia
+Chalet,Paseo Cronista Xosé M Álvarez Blázquez,690000,3,88,Pontevedra,Galicia
+Chalet,Poblado Trasdovalo 8,85000,3,108,Pontevedra,Galicia
+Chalet,valiñas,325000,4,1305,Pontevedra,Galicia
+Piso,Calle Fonte de Ons 30,165000,2,76,Pontevedra,Galicia
+Piso,Sanxenxo,249000,2,76,Pontevedra,Galicia
+Casa Rural,Calle Ricardo Santos 12,1200000,13,2566,Pontevedra,Galicia
+Piso,Calle Zaragoza,125000,1,56,Pontevedra,Galicia
+Chalet,Salvaterra de Miño,179000,4,122,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,116,Pontevedra,Galicia
+Chalet,Avenida de Samil,1250000,6,223,Pontevedra,Galicia
+Chalet,O Porriño,235000,3,106,Pontevedra,Galicia
+Chalet,Pombal (do) Louredo,175000,2,6000,Pontevedra,Galicia
+Piso,Calle de Asturias,110000,1,59,Pontevedra,Galicia
+Piso,Calle do Almirante Méndez Núñez,176000,3,92,Pontevedra,Galicia
+Piso,Soutomaior,94400,3,114,Pontevedra,Galicia
+Piso,Calle do Progreso 79,399500,4,140,Pontevedra,Galicia
+Piso,Calle Paulino Freire,450000,5,165,Pontevedra,Galicia
+Piso,Calle de Moron 34,93000,2,7,Pontevedra,Galicia
+Piso,Calle Emilio Alonso Paz 20,53000,1,60,Pontevedra,Galicia
+Piso,O Porriño,110000,4,147,Pontevedra,Galicia
+Chalet,portelo,435000,5,197,Pontevedra,Galicia
+Chalet,Moraña,500000,5,400,Pontevedra,Galicia
+Chalet,Calle do Gandarón 21,145000,2,1347,Pontevedra,Galicia
+Piso,Via del Norte,240000,3,113,Pontevedra,Galicia
+Chalet,Camino Fontela,875000,5,163,Pontevedra,Galicia
+Piso,Calle Zaragoza,125000,1,60,Pontevedra,Galicia
+Casa Rural,Calle Ricardo Santos 12,1200000,13,2566,Pontevedra,Galicia
+Chalet,valiñas,325000,4,1305,Pontevedra,Galicia
+Piso,zamora,550000,5,169,Pontevedra,Galicia
+Chalet,Valadares - Beade,350000,3,15,Pontevedra,Galicia
+Piso,Calle Llorente,165000,3,98,Pontevedra,Galicia
+Chalet,Lugar Coto,311000,4,272,Pontevedra,Galicia
+Chalet,Comesaña - Matamá,149000,2,68,Pontevedra,Galicia
+Piso,Calle de Moron 34,93000,2,7,Pontevedra,Galicia
+Piso,O Porriño,112900,4,78,Pontevedra,Galicia
+Chalet,O Carril - Bamio,80000,3,113,Pontevedra,Galicia
+Chalet,Moraña,500000,5,400,Pontevedra,Galicia
+Chalet,portelo,435000,5,179,Pontevedra,Galicia
+Chalet,Lugar de Os Currás 9,95000,3,240,Pontevedra,Galicia
+Piso,Sanxenxo,185000,2,78,Pontevedra,Galicia
+Piso,barrio Camelias - Pi y Margall,118500,1,60,Pontevedra,Galicia
+Piso,Bordóns-Dorrón,317000,3,92,Pontevedra,Galicia
+Chalet,Oia,1100000,6,1700,Pontevedra,Galicia
+Chalet,Comesaña - Matamá,430000,4,149,Pontevedra,Galicia
+Chalet,Calle Diego Carmona,350000,0,36,Pontevedra,Galicia
+Piso,Calle de Urzaiz,155000,2,67,Pontevedra,Galicia
+Chalet,Ponteareas,139000,3,111,Pontevedra,Galicia
+Piso,Zona Plaza de Barcelos,248000,3,90,Pontevedra,Galicia
+Chalet,Moaña,225000,2,500,Pontevedra,Galicia
+Chalet,Calle Amieiro,110000,3,105,Pontevedra,Galicia
+Piso,Calle de Bolivia,239500,3,112,Pontevedra,Galicia
+Chalet,A Guarda,325000,3,50,Pontevedra,Galicia
+Chalet,Marin,750000,6,35,Pontevedra,Galicia
+Chalet,As Neves,495000,4,146,Pontevedra,Galicia
+Piso,barrio Coia,265000,4,129,Pontevedra,Galicia
+Chalet,Mos,329900,5,175,Pontevedra,Galicia
+Chalet,Tomiño,259000,6,207,Pontevedra,Galicia
+Piso,Zona Plaza de Barcelos,780000,4,220,Pontevedra,Galicia
+Chalet,Lavadores,340000,5,164,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,239500,3,99,Pontevedra,Galicia
+Chalet,Redondela,750000,7,1850,Pontevedra,Galicia
+Chalet,O Carril - Bamio,260000,7,257,Pontevedra,Galicia
+Piso,Soutomaior,160000,2,80,Pontevedra,Galicia
+Piso,barrio Pz Independencia,199500,4,158,Pontevedra,Galicia
+Piso,A Guarda,119000,4,130,Pontevedra,Galicia
+Chalet,O Carril - Bamio,350000,7,283,Pontevedra,Galicia
+Chalet,Camino Urxeira,700000,4,38223,Pontevedra,Galicia
+Chalet,Marin,750000,6,35,Pontevedra,Galicia
+Chalet,Bembrive,396000,4,146,Pontevedra,Galicia
+Duplex,Teis,200000,4,129,Pontevedra,Galicia
+Piso,barrio Casablanca - Calvario,165000,1,55,Pontevedra,Galicia
+Piso,Via del Norte,300000,4,140,Pontevedra,Galicia
+Piso,barrio Casablanca - Calvario,200000,3,85,Pontevedra,Galicia
+Piso,Zona Plaza de Barcelos,248000,3,90,Pontevedra,Galicia
+Piso,arenal,240000,4,145,Pontevedra,Galicia
+Chalet,A Cañiza,125000,3,80,Pontevedra,Galicia
+Piso,Calle da Guarda 1,128000,3,130,Pontevedra,Galicia
+Chalet,As Neves,495000,4,129,Pontevedra,Galicia
+Piso,Calle de Eduardo Iglesias,575000,6,225,Pontevedra,Galicia
+Chalet,La Toja s/n,1800000,4,750,Pontevedra,Galicia
+Piso,Soutomaior,160000,2,75,Pontevedra,Galicia
+Chalet,Oia,1100000,6,1700,Pontevedra,Galicia
+Chalet,Redondela,385000,4,121,Pontevedra,Galicia
+Chalet,barrio Saiáns,285000,3,185,Pontevedra,Galicia
+Chalet,O Carril - Bamio,210000,3,95,Pontevedra,Galicia
+Chalet,O Porriño,240000,4,370,Pontevedra,Galicia
+Ático,Zona María Victoria Moreno,215000,2,70,Pontevedra,Galicia
+Chalet,As Neves,198000,4,4600,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,750000,8,800,Pontevedra,Galicia
+Chalet,Sobrán,150000,4,155,Pontevedra,Galicia
+Chalet,Lavadores,340000,5,164,Pontevedra,Galicia
+Piso,barrio Pz Independencia,220000,2,61,Pontevedra,Galicia
+Chalet,Calle Montecelo Alto,695000,4,133,Pontevedra,Galicia
+Chalet,Lugar de Antime,320000,3,220,Pontevedra,Galicia
+Chalet,Tomiño,163000,3,104,Pontevedra,Galicia
+Piso,Arealonga,170000,3,95,Pontevedra,Galicia
+Chalet,O Carril - Bamio,120000,4,159,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,239000,4,155,Pontevedra,Galicia
+Casa Rural,Valadares - Beade,370000,7,1103,Pontevedra,Galicia
+Piso,Calle Real,180000,1,55,Pontevedra,Galicia
+Chalet,A Guarda,325000,3,50,Pontevedra,Galicia
+Chalet,Bembrive,420000,7,283,Pontevedra,Galicia
+Chalet,Arbo,160000,3,110,Pontevedra,Galicia
+Chalet,Bueu,2500000,16,2000,Pontevedra,Galicia
+Piso,Adina-Portonovo,225000,3,93,Pontevedra,Galicia
+Piso,barrio Pz Independencia,350000,3,189,Pontevedra,Galicia
+Chalet,Coiro,450000,4,138,Pontevedra,Galicia
+Chalet,Redondela,385000,4,148,Pontevedra,Galicia
+Chalet,O Covelo,105000,4,132,Pontevedra,Galicia
+Chalet,Bembrive,420000,7,279,Pontevedra,Galicia
+Chalet,Crecente,96000,4,100,Pontevedra,Galicia
+Piso,O Rosal,106000,3,102,Pontevedra,Galicia
+Piso,O Carril - Bamio,150000,3,91,Pontevedra,Galicia
+Chalet,Tomiño,305000,7,2600,Pontevedra,Galicia
+Piso,arenal,240000,4,143,Pontevedra,Galicia
+Piso,Adina-Portonovo,225000,3,93,Pontevedra,Galicia
+Chalet,Redondela,750000,7,1850,Pontevedra,Galicia
+Piso,barrio Fátima,260000,4,138,Pontevedra,Galicia
+Piso,Via del Norte,300000,4,147,Pontevedra,Galicia
+Chalet,barrio Oia,950000,6,256,Pontevedra,Galicia
+Piso,Arealonga,170000,3,97,Pontevedra,Galicia
+Piso,barrio Casablanca - Calvario,165000,1,46,Pontevedra,Galicia
+Piso,Avenida A Barca 30,180000,3,80,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,239000,4,125,Pontevedra,Galicia
+Casa Rural,Valadares - Beade,370000,7,1103,Pontevedra,Galicia
+Chalet,Gorgoreiro,140000,4,154,Pontevedra,Galicia
+Chalet,A Cañiza,275000,4,2680,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,165000,2,70,Pontevedra,Galicia
+Ático,Calle de Galicia 35,120000,3,96,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,180000,3,130,Pontevedra,Galicia
+Piso,Calle Rúa de Canido 141,590000,3,146,Pontevedra,Galicia
+Chalet,Mondariz,310000,3,95,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,350000,3,25,Pontevedra,Galicia
+Piso,Calle de Galicia 52,145000,3,85,Pontevedra,Galicia
+Chalet,Calle da Praza 5,145000,1,74,Pontevedra,Galicia
+Piso,Moaña,140000,3,45,Pontevedra,Galicia
+Chalet,barrio Coruxo,750000,4,100,Pontevedra,Galicia
+Chalet,Ribadumia,365000,4,510,Pontevedra,Galicia
+Chalet,Gondomar,319999,6,450,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,240000,2,63,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,545000,4,134,Pontevedra,Galicia
+Chalet,Tomiño,198000,3,256,Pontevedra,Galicia
+Chalet,Ponteareas,110000,4,180,Pontevedra,Galicia
+Chalet,Caldas de Reis,466500,3,84,Pontevedra,Galicia
+Chalet,Catoira,250000,4,155,Pontevedra,Galicia
+Chalet,O Rosal,185000,2,70,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,209000,4,140,Pontevedra,Galicia
+Chalet,Moraña,825000,6,400,Pontevedra,Galicia
+Chalet,Ponteareas,280000,6,137,Pontevedra,Galicia
+Chalet,Moaña,140000,4,45,Pontevedra,Galicia
+Chalet,San Pedro da Ramallosa,545000,4,159,Pontevedra,Galicia
+Duplex,barrio Casablanca - Calvario,165000,2,45,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,350000,3,25,Pontevedra,Galicia
+Chalet,Centro,549000,5,179,Pontevedra,Galicia
+Chalet,Caldas de Reis,300000,7,270,Pontevedra,Galicia
+Chalet,Gondomar,320000,3,220,Pontevedra,Galicia
+Piso,Carretera Iglesia 1,160000,3,84,Pontevedra,Galicia
+Piso,barrio As Travesas - Balaídos,240000,2,72,Pontevedra,Galicia
+Chalet,Calle da Praza 5,145000,1,74,Pontevedra,Galicia
+Chalet,Ribadumia,365000,4,510,Pontevedra,Galicia
+Casa Rural,Calle Fontenlo,140000,2,1000,Pontevedra,Galicia
+Casa Rural,Mondariz,67000,4,146,Pontevedra,Galicia
+Chalet,Tomiño,198000,3,256,Pontevedra,Galicia
+Chalet,barrio Coruxo,750000,4,100,Pontevedra,Galicia
+Chalet,Arealonga,570000,7,272,Pontevedra,Galicia
+Chalet,Moaña,280000,4,176,Pontevedra,Galicia
+Chalet,O Porriño,345000,5,392,Pontevedra,Galicia
+Piso,Moaña,140000,3,45,Pontevedra,Galicia
+Ático,Lavadores,89000,1,44,Pontevedra,Galicia
+Piso,Calle Ponte Dena 5,126000,2,77,Pontevedra,Galicia
+Piso,Calle PI Y MARGALL,380000,4,152,Pontevedra,Galicia
+Chalet,Lugar Carregal de Arriba s/n SN,130000,4,126,Pontevedra,Galicia
+Estudio,Calle Lepanto 13,123000,0,32,Pontevedra,Galicia
+Chalet,Calle Portelos,380000,4,605,Pontevedra,Galicia
+Casa Rural,Carballeira,82000,2,72,Pontevedra,Galicia
+Piso,Calle Martín Echegaray 11,168000,2,62,Pontevedra,Galicia
+Piso,Calle de Nicaragua,410000,5,180,Pontevedra,Galicia
+Piso,Calle da Ronda de Don Bosco,209000,2,77,Pontevedra,Galicia
+Piso,Avenida Monterreal,278000,2,61,Pontevedra,Galicia
+Piso,Calle concepcion arenal,75000,2,69,Pontevedra,Galicia
+Piso,Calle Camilo Veiga,400000,6,242,Pontevedra,Galicia
+Piso,Camino vello 6,240000,2,12,Pontevedra,Galicia
+Piso,barrio Plaza España - Corte Inglés,349000,3,94,Pontevedra,Galicia
+Piso,Calle de Aragón,195000,2,79,Pontevedra,Galicia
+Piso,Calle Terra Do Porto,155000,3,98,Pontevedra,Galicia
