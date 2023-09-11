@@ -1,0 +1,56 @@
+body {
+    background-color: #e4f486;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn {
+    background-color: #b42484;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #ff75a0;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.slider-label {
+    font-size: 18px;
+}
+
+.select-label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.slider {
+    width: 100%;
+}
+
+.prediction-btn {
+    background-color: #b42484;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.prediction-btn:hover {
+    background-color: #ff75a0;
+}
