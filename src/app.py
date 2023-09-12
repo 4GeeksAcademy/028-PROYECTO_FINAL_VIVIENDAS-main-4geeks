@@ -2,59 +2,49 @@ import streamlit as st
 import pandas as pd
 import os
 import joblib
-import random
 
-# Cargar los modelos
+# Cargar el modelo de Almería
 model_dir = "/workspaces/028-PROYECTO_FINAL_VIVIENDAS-main/src/PROVINCIAS/modelos_finales"
-model_files = os.listdir(model_dir)
-models = {}
+model_file = "almeria_randomforest_gridsearch_gradientboosting_default_42.sav"
+model_path = os.path.join(model_dir, model_file)
 
-for model_file in model_files:
-    if model_file.endswith(".sav"):
-        province = model_file.split("_")[0].capitalize()
-        model = joblib.load(os.path.join(model_dir, model_file))
-        models[province] = model
+if os.path.exists(model_path):
+    model = joblib.load(model_path)
+else:
+    st.error("No se encontró el modelo de Almería. Verifica la ruta del modelo.")
 
 # Comunidades y provincias
 comunidades = {
-    "Andalucía": ["Almería", "Cádiz", "Córdoba", "Granada", "Huelva", "Jaén", "Málaga", "Sevilla"],
-    "Aragón": ["Huesca", "Teruel", "Zaragoza"],
-    "Asturias": ["Asturias"],
-    "Islas Baleares": ["Islas Baleares"],
-    "Canarias": ["Las Palmas", "Santa Cruz de Tenerife"],
-    "Cantabria": ["Cantabria"],
-    "Castilla y León": ["Ávila", "Burgos", "León", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid", "Zamora"],
-    "Castilla-La Mancha": ["Albacete", "Ciudad Real", "Cuenca", "Guadalajara", "Toledo"],
-    "Cataluña": ["Barcelona", "Girona", "Lleida", "Tarragona"],
-    "Extremadura": ["Badajoz", "Cáceres"],
-    "Galicia": ["A Coruña", "Lugo", "Ourense", "Pontevedra"],
-    "Madrid": ["Comunidad de Madrid"],
-    "Murcia": ["Región de Murcia"],
-    "Navarra": ["Navarra"],
-    "La Rioja": ["La Rioja"],
-    "Comunidad Valenciana": ["Alicante", "Castellón", "Valencia"],
-    "País Vasco": ["Álava", "Guipúzcoa", "Vizcaya"]
+    "andalucia": ["almeria", "cadiz", "cordoba", "granada", "huelva", "jaen", "malaga", "sevilla"],
+    # ... Otras comunidades ...
 }
 
 # Características
 comunidad = st.selectbox("Comunidad Autónoma", list(comunidades.keys()))
 provincia = st.selectbox("Provincia", comunidades[comunidad])
-tipo_inmueble = st.selectbox("Tipo de Inmueble", ["estudio", "piso", "ático", "chalet", "duplex", "casa rural"])
+tipo_inmueble = st.selectbox("Tipo de Inmueble", ["estudio", "piso", "ático", "chalet", "duplex", "casa_rural"])
 m2 = st.slider("Metros cuadrados", 40, 500, 200)
 habitaciones = st.slider("Número de habitaciones", 0, 12, 3)
 
+# Suponiendo que min_price y max_price son los valores mínimos y máximos originales del precio
+min_price = 10000  # Reemplaza con el valor mínimo real
+max_price = 1000000  # Reemplaza con el valor máximo real
+
 # Botón para predecir el precio
 if st.button("Ver precio de mi vivienda"):
-    if comunidad and provincia and tipo_inmueble and m2 and habitaciones:
-        model_name = f"{provincia.lower()}_randomforest_gridsearch_gradientboosting_default_42"
-        if model_name in models:
-            model = models[model_name]
-            features = pd.DataFrame({
-                "Tipo de inmueble": [tipo_inmueble],
-                "m2": [m2],
-                "Habitaciones": [habitaciones]
-            })
-            prediction = model.predict(features)
-            st.write(f"El precio estimado de tu vivienda en {provincia} es: {prediction[0]:.2f} euros")
-        else:
-            st.error("No se encontró un modelo para la provincia seleccionada.")
+    st.write(f"m2: {m2}")
+    st.write(f"Habitaciones: {habitaciones}")
+    
+    if provincia == "almeria" and os.path.exists(model_path):
+        features = pd.DataFrame({
+            "m2": [m2],
+            "Habitaciones": [habitaciones]
+        })
+        prediction_scaled = model.predict(features)
+        
+        # Aplicar transformación inversa para obtener el precio en la escala original
+        prediction = prediction_scaled * (max_price - min_price) + min_price
+        
+        st.write(f"El precio estimado de tu vivienda en Almería es: {prediction[0]:.2f} euros")
+    elif provincia != "almeria":
+        st.error("Este modelo solo está disponible para Almería. Por favor, selecciona Almería como provincia.")
