@@ -30,7 +30,7 @@ models = {
     "huelva": "huelva_randomforest_gridsearch_gradientboosting_default_42.sav",
     "huesca": "huesca_randomforest_gridsearch_gradientboosting_default_42.sav",
     "jaen": "jaen_randomforest_gridsearch_gradientboosting_default_42.sav",
-    "a_coruÑa": "la_coruÑa_randomforest_gridsearch_gradientboosting_default_42.sav",
+    "a_coruña": "a_coruña_randomforest_gridsearch_gradientboosting_default_42.sav",
     "la_rioja": "la_rioja_randomforest_gridsearch_gradientboosting_default_42.sav",
     "las_palmas": "las_palmas_randomforest_gridsearch_gradientboosting_default_42.sav",
     "leon": "leon_randomforest_gridsearch_gradientboosting_default_42.sav",
@@ -70,8 +70,8 @@ comunidades = {
     "castilla-la_mancha": ["albacete", "ciudad_real", "cuenca", "guadalajara", "toledo"],
     "cataluna": ["barcelona", "girona", "lleida", "tarragona"],
     "extremadura": ["badajoz", "caceres"],
-    "galicia": ["a_coruÑa", "lugo", "ourense", "pontevedra"],
-    "madrid": ["comunidad_de_madrid"],
+    "galicia": ["a_coruña", "lugo", "ourense", "pontevedra"],
+    "madrid": ["madrid"],
     "murcia": ["region_de_murcia"],
     "navarra": ["navarra"],
     "la_rioja": ["la_rioja"],
@@ -82,9 +82,9 @@ comunidades = {
 # Características
 comunidad = st.selectbox("Comunidad Autónoma", list(comunidades.keys()))
 provincia = st.selectbox("Provincia", comunidades[comunidad])
-tipo_inmueble = st.selectbox("Tipo de Inmueble", ["estudio", "piso", "ático", "chalet", "duplex", "casa_rural"])
-m2 = st.slider("Metros cuadrados", 40, 500, 200)
-habitaciones = st.slider("Número de habitaciones", 0, 12, 3)
+#tipo_inmueble = st.selectbox("Tipo de Inmueble", ["estudio", "piso", "ático", "chalet", "duplex", "casa_rural"])
+m2 = st.slider("Metros cuadrados", 27, 6000, 27)
+habitaciones = st.slider("Número de habitaciones", 0, 14, 1)
 
 # Función para cargar el modelo
 def load_model(provincia):
@@ -96,15 +96,15 @@ def load_model(provincia):
         return None
 
 # Suponiendo que min_price y max_price son los valores mínimos y máximos originales del precio
-min_price = 10000  # Reemplaza con el valor mínimo real
-max_price = 1000000  # Reemplaza con el valor máximo real
+min_price = 34000  # Valor mínimo del precio después de excluir ceros
+max_price = 2900000  # Valor máximo del precio después de excluir ceros
 
 # Función para normalizar las características
 def normalize_features(m2, habitaciones):
-    min_m2 = 40  # Reemplaza con el valor mínimo real
-    max_m2 = 500  # Reemplaza con el valor máximo real
+    min_m2 = 27  # Valor mínimo de 'm2'
+    max_m2 = 6000  # Valor máximo de 'm2'
     min_habitaciones = 0  # Reemplaza con el valor mínimo real
-    max_habitaciones = 12  # Reemplaza con el valor máximo real
+    max_habitaciones = 14  # Reemplaza con el valor máximo real
 
     normalized_m2 = (m2 - min_m2) / (max_m2 - min_m2)
     normalized_habitaciones = (habitaciones - min_habitaciones) / (max_habitaciones - min_habitaciones)
@@ -130,8 +130,11 @@ if st.button("Ver precio de mi vivienda"):
             
             # Convertir el precio a número entero
             prediction_int = int(prediction[0])
+
+            # Formatear el precio con millares
+            formatted_price = (prediction_int)
             
-            st.write(f"El precio estimado de tu vivienda en {provincia.capitalize()} es: {prediction_int} euros")
+            st.write(f"El precio estimado de tu vivienda en {provincia.capitalize()} es: {formatted_price} euros")
         else:
             st.error(f"No se encontró un modelo para la provincia {provincia.capitalize()}.")
     else:
