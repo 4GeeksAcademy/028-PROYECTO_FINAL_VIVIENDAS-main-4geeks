@@ -31,6 +31,7 @@ models = {
     "guipuzcoa": "guipuzcoa_randomforest_gridsearch_gradientboosting_default_42.sav",
     "huelva": "huelva_randomforest_gridsearch_gradientboosting_default_42.sav",
     "huesca": "huesca_randomforest_gridsearch_gradientboosting_default_42.sav",
+    "islas_baleares": "islas_baleares_randomforest_gridsearch_gradientboosting_default_42.sav",
     "jaen": "jaen_randomforest_gridsearch_gradientboosting_default_42.sav",
     "a_coruña": "a_coruña_randomforest_gridsearch_gradientboosting_default_42.sav",
     "la_rioja": "la_rioja_randomforest_gridsearch_gradientboosting_default_42.sav",
