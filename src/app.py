@@ -58,6 +58,114 @@ models = {
     "zaragoza": "zaragoza_randomforest_gridsearch_gradientboosting_default_42.sav",
 }
 
+# Diccionario de rangos por provincia para Metros Cuadrados
+rango_m2_por_provincia = {
+    "alava": {"min": 25, "max": 900, "value": 100},
+    "albacete": {"min": 25, "max": 1000, "value": 100},
+    "alicante": {"min": 30, "max": 5000, "value": 100},
+    "almeria": {"min": 35, "max": 4500, "value": 100},
+    "cadiz": {"min": 35, "max": 4500, "value": 100},
+    "cordoba": {"min": 35, "max": 4500, "value": 100},
+    "granada": {"min": 35, "max": 4500, "value": 100},
+    "huelva": {"min": 35, "max": 4500, "value": 100},
+    "jaen": {"min": 35, "max": 4500, "value": 100},
+    "malaga": {"min": 35, "max": 4500, "value": 100},
+    "sevilla": {"min": 35, "max": 4500, "value": 100},
+    "avila": {"min": 0, "max": 0, "value": 0},
+    "badajoz": {"min": 0, "max": 0, "value": 0},
+    "barcelona": {"min": 0, "max": 0, "value": 0},
+    "burgos": {"min": 0, "max": 0, "value": 0},
+    "caceres": {"min": 0, "max": 0, "value": 0},
+    "castellon": {"min": 0, "max": 0, "value": 0},
+    "ciudad_real": {"min": 0, "max": 0, "value": 0},
+    "cuenca": {"min": 0, "max": 0, "value": 0},
+    "girona": {"min": 0, "max": 0, "value": 0},
+    "guadalajara": {"min": 0, "max": 0, "value": 0},
+    "guipuzcoa": {"min": 0, "max": 0, "value": 0},
+    "huesca": {"min": 0, "max": 0, "value": 0},
+    "illes_balears": {"min": 0, "max": 0, "value": 0},
+    "jaen": {"min": 25, "max": 150, "value": 0},
+    "la_coruna": {"min": 0, "max": 0, "value": 0},
+    "la_rioja": {"min": 0, "max": 0, "value": 0},
+    "las_palmas": {"min": 0, "max": 0, "value": 0},
+    "leon": {"min": 0, "max": 0, "value": 0},
+    "lleida": {"min": 0, "max": 0, "value": 0},
+    "lugo": {"min": 0, "max": 0, "value": 0},
+    "madrid": {"min": 0, "max": 0, "value": 0},
+    "murcia": {"min": 0, "max": 0, "value": 0},
+    "navarra": {"min": 0, "max": 0, "value": 0},
+    "ourense": {"min": 0, "max": 0, "value": 0},
+    "palencia": {"min": 0, "max": 0, "value": 0},
+    "pontevedra": {"min": 0, "max": 0, "value": 0},
+    "salamanca": {"min": 0, "max": 0, "value": 0},
+    "santa_cruz_de_tenerife": {"min": 0, "max": 0, "value": 0},
+    "segovia": {"min": 0, "max": 0, "value": 0},
+    "soria": {"min": 0, "max": 0, "value": 0},
+    "tarragona": {"min": 0, "max": 0, "value": 0},
+    "teruel": {"min": 0, "max": 0, "value": 0},
+    "toledo": {"min": 0, "max": 0, "value": 0},
+    "valencia": {"min": 0, "max": 0, "value": 0},
+    "valladolid": {"min": 0, "max": 0, "value": 0},
+    "vizcaya": {"min": 0, "max": 0, "value": 0},
+    "zamora": {"min": 0, "max": 0, "value": 0},
+    "zaragoza": {"min": 0, "max": 0, "value": 0}
+}
+
+# Diccionario de rangos por provincia para Número de Habitaciones (inventa valores aquí)
+rango_habitaciones_por_provincia = {
+    "alava": {"min": 0, "max": 14, "value": 3},
+    "alicante": {"min": 0, "max": 12, "value": 3},
+    "albacete": {"min": 0, "max": 16, "value": 3},
+    "almeria": {"min": 0, "max": 14, "value": 3},
+    "badajoz": {"min": 0, "max": 13, "value": 0},
+    "barcelona": {"min": 0, "max": 18, "value": 0},
+    "burgos": {"min": 0, "max": 15, "value": 0},
+    "caceres": {"min": 0, "max": 12, "value": 0},
+    "cadiz": {"min": 0, "max": 8, "value": 3},
+    "castellon": {"min": 0, "max": 10, "value": 0},
+    "ciudad_real": {"min": 0, "max": 14, "value": 0},
+    "cordoba": {"min": 0, "max": 18, "value": 3},
+    "cuenca": {"min": 0, "max": 10, "value": 0},
+    "girona": {"min": 0, "max": 12, "value": 0},
+    "granada": {"min": 0, "max": 18, "value": 3},
+    "guadalajara": {"min": 0, "max": 20, "value": 0},
+    "guipuzcoa": {"min": 0, "max": 20, "value": 0},
+    "huelva": {"min": 0, "max": 18, "value": 3},
+    "huesca": {"min": 0, "max": 12, "value": 0},
+    "islas_baleares": {"min": 0, "max": 0, "value": 0},
+    "jaen": {"min": 0, "max": 10, "value": 3},
+    "la_coruna": {"min": 0, "max": 15, "value": 0},
+    "la_rioja": {"min": 0, "max": 13, "value": 0},
+    "las_palmas": {"min": 0, "max": 18, "value": 0},
+    "leon": {"min": 0, "max": 30, "value": 0},
+    "lleida": {"min": 0, "max": 20, "value": 0},            
+    "lugo": {"min": 0, "max": 15, "value": 0},
+    "madrid": {"min": 0, "max": 12, "value": 0},
+    "malaga": {"min": 0, "max": 14, "value": 3},
+    "murcia": {"min": 0, "max": 15, "value": 0},
+    "navarra": {"min": 0, "max": 25, "value": 0},
+    "ourense": {"min": 0, "max": 18, "value": 0},
+    "palencia": {"min": 0, "max": 20, "value": 0},
+    "pontevedra": {"min": 0, "max": 10, "value": 0},
+    "salamanca": {"min": 0, "max": 15, "value": 0},
+    "santa_cruz_de_tenerife": {"min": 0, "max": 12, "value": 0},
+    "segovia": {"min": 0, "max": 19, "value": 0},
+    "sevilla": {"min": 0, "max": 30, "value": 3},
+    "soria": {"min": 0, "max": 17, "value": 0},
+    "tarragona": {"min": 0, "max": 15, "value": 0},
+    "teruel": {"min": 0, "max": 25, "value": 0},
+    "toledo": {"min": 0, "max": 18, "value": 0},
+    "valencia": {"min": 0, "max": 20, "value": 0},
+    "valladolid": {"min": 0, "max": 15, "value": 0},
+    "vizcaya": {"min": 0, "max": 20, "value": 0},
+    "zamora": {"min": 0, "max": 20, "value": 0},
+    "zaragoza": {"min": 0, "max": 25, "value": 0}
+}
+
+
+
+
+
 # Comunidades y provincias
 comunidades = {
     "andalucia": ["almeria", "cadiz", "cordoba", "granada", "huelva", "jaen", "malaga", "sevilla"],
@@ -82,9 +190,34 @@ comunidades = {
 # Características
 comunidad = st.selectbox("Comunidad Autónoma", list(comunidades.keys()))
 provincia = st.selectbox("Provincia", comunidades[comunidad])
-#tipo_inmueble = st.selectbox("Tipo de Inmueble", ["estudio", "piso", "ático", "chalet", "duplex", "casa_rural"])
-m2 = st.slider("Metros cuadrados", 27, 6000, 27)
-habitaciones = st.slider("Número de habitaciones", 0, 14, 1)
+
+# Establecer los valores de Metros Cuadrados según la provincia seleccionada
+if provincia in rango_m2_por_provincia:
+    m2_min, m2_max, m2_value = (
+        rango_m2_por_provincia[provincia]["min"],
+        rango_m2_por_provincia[provincia]["max"],
+        rango_m2_por_provincia[provincia]["value"]
+    )
+else:
+    # Valores predeterminados globales para Metros Cuadrados
+    m2_min, m2_max, m2_value = (27, 600, 100)
+
+# Usar los valores para el slider de Metros Cuadrados
+m2 = st.slider("Metros cuadrados", m2_min, m2_max, m2_value)
+
+# Establecer los valores de Número de Habitaciones según la provincia seleccionada
+if provincia in rango_habitaciones_por_provincia:
+    habitaciones_min, habitaciones_max, habitaciones_value = (
+        rango_habitaciones_por_provincia[provincia]["min"],
+        rango_habitaciones_por_provincia[provincia]["max"],
+        rango_habitaciones_por_provincia[provincia]["value"]
+    )
+else:
+    # Valores predeterminados globales para Número de Habitaciones
+    habitaciones_min, habitaciones_max, habitaciones_value = (2, 8, 3)
+
+# Usar los valores para el slider de Número de Habitaciones
+habitaciones = st.slider("Número de habitaciones", habitaciones_min, habitaciones_max, habitaciones_value)
 
 # Función para cargar el modelo
 def load_model(provincia):
