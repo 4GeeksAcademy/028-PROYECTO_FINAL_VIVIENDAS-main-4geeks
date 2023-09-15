@@ -86,7 +86,7 @@ rango_m2_por_provincia = {
     "guadalajara": {"min": 30, "max": 5300, "value": 100},
     "guipuzcoa": {"min": 30, "max": 6000, "value": 100},
     "huesca": {"min": 30, "max": 7500, "value": 100},
-    "illes_balears": {"min": 30, "max": 5000, "value": 100},
+    "islas_baleares": {"min": 30, "max": 5000, "value": 100},
     "jaen": {"min": 30, "max": 5000, "value": 100},
     "la_coruna": {"min": 30, "max": 5000, "value": 100},
     "la_rioja": {"min": 30, "max": 8500, "value": 100},
@@ -136,7 +136,7 @@ rango_habitaciones_por_provincia = {
     "guipuzcoa": {"min": 0, "max": 20, "value": 3},
     "huelva": {"min": 0, "max": 18, "value": 3},
     "huesca": {"min": 0, "max": 12, "value": 3},
-    "islas_baleares": {"min": 0, "max": 0, "value": 3},
+    "islas_baleares": {"min": 0, "max": 15, "value": 3},
     "jaen": {"min": 0, "max": 10, "value": 3},
     "la_coruna": {"min": 0, "max": 15, "value": 3},
     "la_rioja": {"min": 0, "max": 13, "value": 3},
@@ -188,12 +188,15 @@ comunidades = {
     "navarra": ["navarra"],
     "la_rioja": ["la_rioja"],
     "comunidad_valenciana": ["alicante", "castellon", "valencia"],
-    "pais_vasco": ["alava", "guipuzcoa", "vizcaya"]
+    "pais_vasco": ["Alava", "guipuzcoa", "vizcaya"]
 }
 
 # Características
-comunidad = st.selectbox("Comunidad Autónoma", list(comunidades.keys()))
-provincia = st.selectbox("Provincia", comunidades[comunidad])
+comunidad = st.selectbox("Seleccionar Comunidad Autónoma", ["Seleccionar"] + list(comunidades.keys()))
+if comunidad != "Seleccionar":
+    provincia = st.selectbox("Seleccionar Provincia", ["Seleccionar"] + comunidades[comunidad])
+else:
+    provincia = "Seleccionar"
 
 # Establecer los valores de Metros Cuadrados según la provincia seleccionada
 if provincia in rango_m2_por_provincia:
@@ -248,28 +251,74 @@ def normalize_features(m2, habitaciones):
 
     return normalized_m2, normalized_habitaciones
 
-# Botón para predecir el precio
-if st.button("Ver precio de mi vivienda"):
+# Botón para encontrar el precio más bajo dentro del rango
+if st.button("VER PRECIO"):
     if provincia in models:
         model = load_model(provincia)
         if model is not None:
-            # Normalizar las características
-            normalized_m2, normalized_habitaciones = normalize_features(m2, habitaciones)
+            # Obtener los rangos específicos de la provincia seleccionada
+            if provincia in rango_m2_por_provincia and provincia in rango_habitaciones_por_provincia:
+                m2_min, m2_max, m2_value = (
+                    rango_m2_por_provincia[provincia]["min"],
+                    rango_m2_por_provincia[provincia]["max"],
+                    rango_m2_por_provincia[provincia]["value"]
+                )
+                habitaciones_min, habitaciones_max, habitaciones_value = (
+                    rango_habitaciones_por_provincia[provincia]["min"],
+                    rango_habitaciones_por_provincia[provincia]["max"],
+                    rango_habitaciones_por_provincia[provincia]["value"]
+                )
+            else:
+                # Valores predeterminados globales si no se encuentran rangos específicos
+                m2_min, m2_max, m2_value = (27, 6000, 100)
+                habitaciones_min, habitaciones_max, habitaciones_value = (2, 8, 3)
             
-            features = pd.DataFrame({
-                "m2": [normalized_m2],  # Usar el valor normalizado
-                "Habitaciones": [normalized_habitaciones]  # Usar el valor normalizado
-            })
-            prediction_scaled = model.predict(features)
+            # Normalizar las características según los rangos específicos de la provincia
+            normalized_m2 = (m2 - m2_min) / (m2_max - m2_min)
+            normalized_habitaciones = (habitaciones - habitaciones_min) / (habitaciones_max - habitaciones_min)
             
-            # Aplicar transformación inversa para obtener el precio en la escala original
-            prediction = prediction_scaled * (max_price - min_price) + min_price
+            # Calcular el precio más bajo y alto dentro del rango
+            min_price = 34000  # Valor mínimo del precio después de excluir ceros
+            max_price = 2900000  # Valor máximo del precio después de excluir ceros
+            min_price_scaled = min_price / (max_price - min_price)
+            max_price_scaled = max_price / (max_price - min_price)
             
-            # Formatear el precio para mostrar solo los 6 primeros dígitos
-            formatted_price = str(prediction[0])[:6]
+            # Crear una lista de posibles valores de precio dentro del rango
+            price_values = [min_price_scaled + i * 100 for i in range(int((max_price_scaled - min_price_scaled) / 100) + 1)]
             
-            st.write(f"El precio estimado de tu vivienda en {provincia.capitalize()} es: {formatted_price} euros")
+            # Crear una lista de resultados de predicción para cada valor de precio
+            predictions = []
+            for price_scaled in price_values:
+                features = pd.DataFrame({
+                    "m2": [normalized_m2],  # Usar el valor normalizado
+                    "Habitaciones": [normalized_habitaciones]  # Usar el valor normalizado
+                })
+                prediction_scaled = model.predict(features)
+                prediction = prediction_scaled * (max_price - min_price) + min_price
+                predictions.append(prediction[0])
+            
+            # Encontrar el precio más bajo dentro del rango
+            lowest_price = min(predictions)
+            
+            # Formatear el precio para mostrar solo las 6 primeras cifras
+            formatted_lowest_price = str(int(lowest_price))[:6]
+            
+            st.write(f"El precio medio según los datos es de: {formatted_lowest_price} euros")
         else:
             st.error(f"No se encontró un modelo para la provincia {provincia.capitalize()}.")
     else:
-        st.error("Provincia no válida. Por favor, selecciona una provincia válida.")
+        st.error("No válid. Por favor, selecciona las opciones.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
