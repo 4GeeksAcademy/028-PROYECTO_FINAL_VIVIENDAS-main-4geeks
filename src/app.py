@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import os
 import joblib
+import numpy as np
+
 
 # Cargar los modelos manualmente para cada provincia
 model_dir = "/workspaces/028-PROYECTO_FINAL_VIVIENDAS-main/src/PROVINCIAS/modelos_finales"
@@ -63,7 +65,7 @@ rango_m2_por_provincia = {
     "alava": {"min": 30, "max": 3800, "value": 100},
     "albacete": {"min": 30, "max": 8000, "value": 100},
     "alicante": {"min": 30, "max": 7000, "value": 100},
-    "almeria": {"min": 30, "max": 2260, "value": 100},
+    "almeria": {"min": 30, "max": 500, "value": 100},
     "asturias": {"min": 30, "max": 1500, "value": 100},
     "cadiz": {"min": 30, "max": 3870, "value": 100},
     "cordoba": {"min": 30, "max": 4000, "value": 100},
@@ -263,8 +265,8 @@ if st.button("Ver precio de mi vivienda"):
             # Aplicar transformación inversa para obtener el precio en la escala original
             prediction = prediction_scaled * (max_price - min_price) + min_price
             
-            # Formatear el precio para mostrar dos decimales antes del punto decimal
-            formatted_price = f"{prediction[0]:.2f}"
+            # Formatear el precio para mostrar solo los 6 primeros dígitos
+            formatted_price = str(prediction[0])[:6]
             
             st.write(f"El precio estimado de tu vivienda en {provincia.capitalize()} es: {formatted_price} euros")
         else:
