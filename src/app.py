@@ -306,7 +306,7 @@ if st.button("VER PRECIO"):
             
             st.write(f"El precio medio según los datos es de: {formatted_lowest_price} euros")
         else:
-            st.error(f"No se encontró un modelo para la provincia {provincia.capitalize()}.")
+            st.error(f"No se encontró un modelo para la provincia {provincia}.")
     else:
         st.error("No válid. Por favor, selecciona las opciones.")
 
