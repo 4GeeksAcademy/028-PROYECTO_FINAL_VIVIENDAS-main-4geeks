@@ -255,8 +255,11 @@ def normalize_features(m2, habitaciones):
 # Botón para encontrar el precio más bajo dentro del rango
 if st.button("VER PRECIO"):
     if provincia in models:
-        model = load_model(provincia)
-        if model is not None:
+        model_name = models[provincia]
+        model_path = os.path.join(model_dir, model_name)
+        if os.path.exists(model_path):
+            model = joblib.load(model_path)
+
             # Obtener los rangos específicos de la provincia seleccionada
             if provincia in rango_m2_por_provincia and provincia in rango_habitaciones_por_provincia:
                 m2_min, m2_max, m2_value = (
@@ -273,20 +276,20 @@ if st.button("VER PRECIO"):
                 # Valores predeterminados globales si no se encuentran rangos específicos
                 m2_min, m2_max, m2_value = (27, 6000, 100)
                 habitaciones_min, habitaciones_max, habitaciones_value = (2, 8, 3)
-            
+
             # Normalizar las características según los rangos específicos de la provincia
             normalized_m2 = (m2 - m2_min) / (m2_max - m2_min)
             normalized_habitaciones = (habitaciones - habitaciones_min) / (habitaciones_max - habitaciones_min)
-            
+
             # Calcular el precio más bajo y alto dentro del rango
             min_price = 34000  # Valor mínimo del precio después de excluir ceros
             max_price = 2900000  # Valor máximo del precio después de excluir ceros
             min_price_scaled = min_price / (max_price - min_price)
             max_price_scaled = max_price / (max_price - min_price)
-            
+
             # Crear una lista de posibles valores de precio dentro del rango
             price_values = [min_price_scaled + i * 100 for i in range(int((max_price_scaled - min_price_scaled) / 100) + 1)]
-            
+
             # Crear una lista de resultados de predicción para cada valor de precio
             predictions = []
             for price_scaled in price_values:
@@ -297,29 +300,18 @@ if st.button("VER PRECIO"):
                 prediction_scaled = model.predict(features)
                 prediction = prediction_scaled * (max_price - min_price) + min_price
                 predictions.append(prediction[0])
-            
+
             # Encontrar el precio más bajo dentro del rango
             lowest_price = min(predictions)
-            
+
             # Formatear el precio para mostrar solo las 6 primeras cifras
             formatted_lowest_price = str(int(lowest_price))[:6]
-            
+
             st.write(f"El precio medio según los datos es de: {formatted_lowest_price} euros")
         else:
             st.error(f"No se encontró un modelo para la provincia {provincia}.")
     else:
-        st.error("No válid. Por favor, selecciona las opciones.")
-
-
-
-
-
-
-
-
-
-
-
+        st.error("Selección no válida. Por favor, selecciona las opciones.")
 
 
 
