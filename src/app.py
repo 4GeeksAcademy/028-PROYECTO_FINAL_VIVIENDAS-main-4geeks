@@ -185,7 +185,7 @@ comunidades = {
     "extremadura": ["badajoz", "caceres"],
     "galicia": ["a_coruña", "lugo", "ourense", "pontevedra"],
     "madrid": ["madrid"],
-    "murcia": ["region_de_murcia"],
+    "murcia": ["murcia"],
     "navarra": ["navarra"],
     "la_rioja": ["la_rioja"],
     "comunidad_valenciana": ["alicante", "castellon", "valencia"],
@@ -229,12 +229,13 @@ habitaciones = st.slider("Número de habitaciones", habitaciones_min, habitacion
 
 # Función para cargar el modelo
 def load_model(provincia):
-    model_name = f"{provincia}_randomforest_gridsearch_gradientboosting_default_42.sav"
-    model_path = os.path.join(model_dir, model_name)
-    if os.path.exists(model_path):
-        return joblib.load(model_path)
-    else:
-        return None
+    model_name = models.get(provincia)
+    if model_name is not None:
+        model_path = os.path.join(model_dir, model_name)
+        if os.path.exists(model_path):
+            return joblib.load(model_path)
+    return None
+
 
 # Suponiendo que min_price y max_price son los valores mínimos y máximos originales del precio
 min_price = 34000  # Valor mínimo del precio después de excluir ceros
