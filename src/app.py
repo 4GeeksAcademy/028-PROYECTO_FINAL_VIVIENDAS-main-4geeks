@@ -227,8 +227,8 @@ if st.button("VER PRECIO"):
             normalized_habitaciones = (habitaciones - habitaciones_min) / (habitaciones_max - habitaciones_min)
             
             # Calcular el precio más bajo y alto dentro del rango
-            min_price = 34000  # Valor mínimo del precio después de excluir ceros
-            max_price = 2900000  # Valor máximo del precio después de excluir ceros
+            min_price = 34000  
+            max_price = 2900000  
             min_price_scaled = min_price / (max_price - min_price)
             max_price_scaled = max_price / (max_price - min_price)
             
@@ -239,8 +239,8 @@ if st.button("VER PRECIO"):
             predictions = []
             for price_scaled in price_values:
                 features = pd.DataFrame({
-                    "m2": [normalized_m2],  # Usar el valor normalizado
-                    "Habitaciones": [normalized_habitaciones]  # Usar el valor normalizado
+                    "m2": [normalized_m2],  
+                    "Habitaciones": [normalized_habitaciones]  
                 })
                 prediction_scaled = model.predict(features)
                 prediction = prediction_scaled * (max_price - min_price) + min_price
@@ -256,4 +256,4 @@ if st.button("VER PRECIO"):
         else:
             st.error(f"No se encontró un modelo para la provincia {provincia}.")
     else:
-        st.error("No válid. Por favor, selecciona las opciones.")
+        st.error("No es válido. Por favor, selecciona las opciones.")
